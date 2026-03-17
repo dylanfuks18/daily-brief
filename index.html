@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Daily Brief">
+  <meta name="theme-color" content="#000000">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <title>Daily Brief</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+
+  <!-- Menu overlay -->
+  <div id="menu-overlay" class="menu-overlay" onclick="toggleMenu()"></div>
+
+  <!-- Side menu -->
+  <div id="side-menu" class="side-menu">
+    <div class="menu-header">
+      <span class="menu-title">Menu</span>
+      <button class="menu-close" onclick="toggleMenu()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+    <nav class="menu-nav">
+      <button class="menu-item" id="nav-home" onclick="showSection('home')">
+        <span class="menu-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        </span>
+        <span>Noticias del dia</span>
+      </button>
+      <button class="menu-item" id="nav-argentina" onclick="showSection('argentina')">
+        <span class="menu-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>
+        </span>
+        <span>Politica Argentina</span>
+      </button>
+      <button class="menu-item" id="nav-readlater" onclick="showSection('readlater')">
+        <span class="menu-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+        </span>
+        <span>Leer despues</span>
+        <span id="readlater-count" class="badge" style="display:none">0</span>
+      </button>
+      <button class="menu-item" id="nav-favorites" onclick="showSection('favorites')">
+        <span class="menu-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        </span>
+        <span>Favoritos</span>
+        <span id="favorites-count" class="badge" style="display:none">0</span>
+      </button>
+      <button class="menu-item" id="nav-jobs" onclick="showSection('jobs')">
+        <span class="menu-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v2"/></svg>
+        </span>
+        <span>Busqueda Laboral</span>
+      </button>
+      <div class="menu-divider"></div>
+      <button class="menu-item theme-btn" onclick="toggleTheme()">
+        <span class="menu-icon" id="theme-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        </span>
+        <span id="theme-label">Modo Claro</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- App -->
+  <div id="app">
+
+    <!-- Header -->
+    <header class="app-header">
+      <button class="hamburger" onclick="toggleMenu()" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="header-center">
+        <div class="seal">News for you, Dylan!</div>
+        <div class="header-date" id="header-date">Cargando...</div>
+      </div>
+      <button class="refresh-btn" onclick="refreshAll()" id="refresh-btn" aria-label="Actualizar">
+        <svg id="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+          <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
+          <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+        </svg>
+      </button>
+    </header>
+
+    <!-- Main content -->
+    <main id="main-content">
+
+      <!-- HOME -->
+      <section id="section-home" class="content-section active">
+
+        <!-- Football matches -->
+        <div class="block-header">
+          <span class="block-title">Partidos de hoy</span>
+        </div>
+        <div id="matches-container" class="matches-scroll">
+          <div class="match-placeholder">Cargando partidos...</div>
+        </div>
+
+        <!-- Top del dia -->
+        <div class="block-header">
+          <span class="block-title">Top del dia</span>
+          <span class="block-sub">Lo mas importante ahora</span>
+        </div>
+        <div id="top-container" class="news-list"></div>
+
+        <!-- Tech & AI -->
+        <div class="block-header collapsible" onclick="toggleCat('tech')">
+          <div class="block-title-row">
+            <span class="cat-emoji">&#x1F916;</span>
+            <span class="block-title">Tecnologia & IA</span>
+          </div>
+          <span class="collapse-arrow" id="arrow-tech">&#x25BE;</span>
+        </div>
+        <div id="cat-tech" class="news-list cat-list"></div>
+
+        <!-- Israel & Middle East -->
+        <div class="block-header collapsible" onclick="toggleCat('israel')">
+          <div class="block-title-row">
+            <span class="cat-emoji">&#x1F30D;</span>
+            <span class="block-title">Israel & Medio Oriente</span>
+          </div>
+          <span class="collapse-arrow" id="arrow-israel">&#x25BE;</span>
+        </div>
+        <div id="cat-israel" class="news-list cat-list"></div>
+
+        <!-- Politics & Economy -->
+        <div class="block-header collapsible" onclick="toggleCat('poleco')">
+          <div class="block-title-row">
+            <span class="cat-emoji">&#x1F3DB;&#xFE0F;</span>
+            <span class="block-title">Politica & Economia</span>
+          </div>
+          <span class="collapse-arrow" id="arrow-poleco">&#x25BE;</span>
+        </div>
+        <div id="cat-poleco" class="news-list cat-list"></div>
+
+        <!-- Sports -->
+        <div class="block-header collapsible" onclick="toggleCat('sports')">
+          <div class="block-title-row">
+            <span class="cat-emoji">&#x26BD;</span>
+            <span class="block-title">Deportes</span>
+          </div>
+          <span class="collapse-arrow" id="arrow-sports">&#x25BE;</span>
+        </div>
+        <div id="cat-sports" class="news-list cat-list"></div>
+
+        <!-- Cinema -->
+        <div class="block-header collapsible" onclick="toggleCat('cinema')">
+          <div class="block-title-row">
+            <span class="cat-emoji">&#x1F3AC;</span>
+            <span class="block-title">Cine & Entretenimiento</span>
+          </div>
+          <span class="collapse-arrow" id="arrow-cinema">&#x25BE;</span>
+        </div>
+        <div id="cat-cinema" class="news-list cat-list"></div>
+
+      </section>
+
+      <!-- ARGENTINA POLITICS -->
+      <section id="section-argentina" class="content-section">
+        <div class="block-header">
+          <span class="block-title">Politica Argentina</span>
+        </div>
+        <div id="argentina-container" class="news-list"></div>
+      </section>
+
+      <!-- READ LATER -->
+      <section id="section-readlater" class="content-section">
+        <div class="block-header">
+          <span class="block-title">Leer despues</span>
+        </div>
+        <div id="readlater-container" class="news-list">
+          <div class="empty-state">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+            <p>Todavia no guardaste nada</p>
+            <span>Toca el icono de marcador en cualquier noticia</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- FAVORITES -->
+      <section id="section-favorites" class="content-section">
+        <div class="block-header">
+          <span class="block-title">Favoritos</span>
+        </div>
+        <div id="favorites-container" class="news-list">
+          <div class="empty-state">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            <p>Todavia no tenes favoritos</p>
+            <span>Toca la estrella en cualquier noticia</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- JOBS -->
+      <section id="section-jobs" class="content-section">
+        <div class="block-header">
+          <span class="block-title">Busqueda Laboral</span>
+        </div>
+        <div class="jobs-grid">
+          <a href="https://www.linkedin.com/jobs/" target="_blank" class="job-card">
+            <div class="job-logo job-logo-li">in</div>
+            <span class="job-name">LinkedIn</span>
+            <span class="job-tag">Todos los rubros</span>
+          </a>
+          <a href="https://www.computrabajo.com.ar/" target="_blank" class="job-card">
+            <div class="job-logo job-logo-ct">CT</div>
+            <span class="job-name">Computrabajo</span>
+            <span class="job-tag">Argentina</span>
+          </a>
+          <a href="https://www.zonajobs.com.ar/" target="_blank" class="job-card">
+            <div class="job-logo job-logo-zj">ZJ</div>
+            <span class="job-name">ZonaJobs</span>
+            <span class="job-tag">Argentina</span>
+          </a>
+          <a href="https://www.bumeran.com.ar/" target="_blank" class="job-card">
+            <div class="job-logo job-logo-bu">BU</div>
+            <span class="job-name">Bumeran</span>
+            <span class="job-tag">Argentina</span>
+          </a>
+          <a href="https://remoteok.com/" target="_blank" class="job-card">
+            <div class="job-logo job-logo-ro">RO</div>
+            <span class="job-name">Remote OK</span>
+            <span class="job-tag">Remoto global</span>
+          </a>
+          <a href="https://wellfound.com/jobs" target="_blank" class="job-card">
+            <div class="job-logo job-logo-wf">WF</div>
+            <span class="job-name">Wellfound</span>
+            <span class="job-tag">Startups & Tech</span>
+          </a>
+        </div>
+        <div class="block-header" style="margin-top:8px">
+          <span class="block-title">Noticias de empleo</span>
+        </div>
+        <div id="jobs-news-container" class="news-list"></div>
+      </section>
+
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
