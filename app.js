@@ -2,31 +2,12 @@
    DAILY BRIEF - app.js
    ============================================= */
 
-// ---------- CONFIG ----------
+// *** PONЕ TU API KEY DE GNEWS.IO AQUI ***
+const GNEWS_KEY = 'a4274d0e280daa0fe4e7e36f534afbbd';
 
-const ALLORIGINS  = 'https://api.allorigins.win/get?url=';
-const RSS2JSON    = 'https://api.rss2json.com/v1/api.json?count=20&rss_url=';
-const SPORTS_API  = 'https://www.thesportsdb.com/api/v1/json/1/eventsday.php';
+const GNEWS = 'https://gnews.io/api/v4';
 
-const SOURCES = [
-  { url: 'https://www.xataka.com/feed',                      cat: 'tech',    name: 'Xataka' },
-  { url: 'https://hipertextual.com/feed',                    cat: 'tech',    name: 'Hipertextual' },
-  { url: 'https://feeds.weblogssl.com/genbeta',              cat: 'tech',    name: 'Genbeta' },
-  { url: 'https://feeds.bbci.co.uk/mundo/rss.xml',           cat: 'general', name: 'BBC Mundo' },
-  { url: 'https://www.ambito.com/rss.html',                  cat: 'general', name: 'Ambito' },
-  { url: 'https://www.cronista.com/rss/',                    cat: 'economy', name: 'El Cronista' },
-  { url: 'https://www.ole.com.ar/rss/home.xml',              cat: 'sports',  name: 'Ole' },
-  { url: 'https://www.espinof.com/rss',                      cat: 'cinema',  name: 'Espinof' },
-];
-
-const KEYWORDS = {
-  israel:  ['israel', 'gaza', 'hamas', 'palestina', 'hezbollah', 'cisjordania', 'netanyahu', 'medio oriente', 'tel aviv'],
-  ar_pol:  ['milei', 'kirchner', 'peronismo', 'diputados', 'senado', 'casa rosada', 'kicillof', 'macri', 'gobierno argentino', 'argentina '],
-  poleco:  ['trump', 'putin', 'xi jinping', 'banco central', 'inflaci', 'dolar', 'dólar', 'pbi', 'bolsa', 'mercado', 'economia', 'economía', 'finanzas', 'elecciones', 'gobierno', 'politica', 'política', 'fed ', 'reservas'],
-  sports:  ['futbol', 'fútbol', 'river', 'boca', 'racing', 'independiente', 'san lorenzo', 'champions', 'premier', 'real madrid', 'barcelona', 'messi', 'ronaldo', 'seleccion', 'copa', 'gol', 'tenis', 'formula 1', 'f1'],
-  tech:    ['inteligencia artificial', 'chatgpt', 'openai', 'google', 'apple', 'microsoft', 'iphone', 'android', 'startup', 'robot', 'tecnologia', 'tecnología', 'software', 'ciberseguridad', 'gemini', 'deepmind', 'ia '],
-  cinema:  ['pelicula', 'película', 'cine', 'netflix', 'disney', 'hbo', 'amazon prime', 'marvel', 'oscar', 'actor', 'actriz', 'director', 'estreno', 'trailer', 'serie', 'streaming', 'hollywood'],
-};
+const SPORTS_API = 'https://www.thesportsdb.com/api/v1/json/1/eventsday.php';
 
 const FOOTBALL_LEAGUES = [
   { key: 'champions', label: 'Champions',  terms: ['champions league', 'uefa champions'] },
@@ -36,11 +17,11 @@ const FOOTBALL_LEAGUES = [
 ];
 
 // ---------- STATE ----------
-let allArticles    = [];
-let isDark         = localStorage.getItem('theme') !== 'light';
-let readLater      = JSON.parse(localStorage.getItem('readLater')  || '[]');
-let favorites      = JSON.parse(localStorage.getItem('favorites')  || '[]');
-let expandedCards  = new Set();
+let allArticles  = [];
+let isDark       = localStorage.getItem('theme') !== 'light';
+let readLater    = JSON.parse(localStorage.getItem('readLater')  || '[]');
+let favorites    = JSON.parse(localStorage.getItem('favorites')  || '[]');
+let expandedCards = new Set();
 const collapsedCats = new Set();
 
 // ---------- INIT ----------
@@ -50,11 +31,30 @@ document.addEventListener('DOMContentLoaded', () => {
   renderSavedSection('readlater');
   renderSavedSection('favorites');
   updateBadges();
-  loadAll();
+
+  if (GNEWS_KEY === 'TU_API_KEY_AQUI') {
+    showApiKeyWarning();
+  } else {
+    loadAll();
+  }
+
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').catch(() => {});
   }
 });
+
+function showApiKeyWarning() {
+  ['top-container','cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.innerHTML = `<div class="error-card" style="color:#bf5af2;font-size:14px;padding:20px 16px;text-align:left;line-height:1.6">
+      <strong>Falta configurar la API key</strong><br><br>
+      1. Registrate gratis en <strong>gnews.io</strong><br>
+      2. Copia tu API key<br>
+      3. Abri app.js y reemplaza <strong>TU_API_KEY_AQUI</strong> con tu key<br>
+      4. Guarda y subi el archivo a GitHub
+    </div>`;
+  });
+}
 
 // ---------- DATE ----------
 function setHeaderDate() {
@@ -142,103 +142,68 @@ function refreshAll() {
 async function loadAll() {
   ['top-container','cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema','argentina-container','jobs-news-container']
     .forEach(id => showSkeletons(id, 3));
-  await Promise.all([loadMatches(), fetchAllFeeds()]);
+
+  await Promise.all([loadMatches(), fetchNews()]);
   renderAll();
 }
 
-// ---------- FETCH FEEDS ----------
-async function fetchAllFeeds() {
-  const results = await Promise.allSettled(SOURCES.map(src => fetchFeed(src)));
+// ---------- FETCH NEWS ----------
+async function fetchNews() {
+  const requests = [
+    { endpoint: `${GNEWS}/top-headlines?category=technology&lang=es&max=10&apikey=${GNEWS_KEY}`, cat: 'tech' },
+    { endpoint: `${GNEWS}/top-headlines?category=entertainment&lang=es&max=8&apikey=${GNEWS_KEY}`, cat: 'cinema' },
+    { endpoint: `${GNEWS}/top-headlines?category=sports&lang=es&max=10&apikey=${GNEWS_KEY}`, cat: 'sports' },
+    { endpoint: `${GNEWS}/top-headlines?category=business&lang=es&max=10&apikey=${GNEWS_KEY}`, cat: 'poleco' },
+    { endpoint: `${GNEWS}/top-headlines?category=general&lang=es&country=ar&max=10&apikey=${GNEWS_KEY}`, cat: 'general_ar' },
+    { endpoint: `${GNEWS}/search?q=israel+gaza+palestina&lang=es&max=8&apikey=${GNEWS_KEY}`, cat: 'israel' },
+  ];
+
+  const results = await Promise.allSettled(requests.map(r => fetchGNews(r.endpoint, r.cat)));
   results.forEach(r => {
     if (r.status === 'fulfilled' && r.value?.length) allArticles.push(...r.value);
   });
+
   allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 }
 
-async function fetchFeed(src) {
-  // Try rss2json first
+async function fetchGNews(endpoint, defaultCat) {
   try {
-    const res  = await fetch(RSS2JSON + encodeURIComponent(src.url), { signal: AbortSignal.timeout(8000) });
+    const res  = await fetch(endpoint, { signal: AbortSignal.timeout(10000) });
     const data = await res.json();
-    if (data.status === 'ok' && data.items?.length) {
-      return data.items.map(item => processItem(item, src));
-    }
-  } catch { /* fall through */ }
-
-  // Fallback: allorigins proxy + XML parse
-  try {
-    const res  = await fetch(ALLORIGINS + encodeURIComponent(src.url), { signal: AbortSignal.timeout(10000) });
-    const data = await res.json();
-    if (data.contents) return parseXML(data.contents, src);
-  } catch { /* fall through */ }
-
-  return [];
-}
-
-function processItem(item, src) {
-  const raw = {
-    title:       item.title || '',
-    description: item.description || item.content || '',
-    link:        item.link || '#',
-    pubDate:     item.pubDate || new Date().toISOString(),
-  };
-  return buildArticle(raw, src);
-}
-
-function parseXML(xmlStr, src) {
-  try {
-    const doc   = new DOMParser().parseFromString(xmlStr, 'text/xml');
-    const items = doc.querySelectorAll('item');
-    return Array.from(items).map(item => {
-      const g = tag => item.querySelector(tag)?.textContent?.trim() || '';
-      const raw = {
-        title:       g('title'),
-        description: g('description') || g('content'),
-        link:        g('link'),
-        pubDate:     g('pubDate') || new Date().toISOString(),
+    if (!data.articles) return [];
+    return data.articles.map(a => {
+      const cat = defaultCat === 'general_ar' ? classifyAR(a) : defaultCat;
+      return {
+        id:      btoa(encodeURIComponent(a.url || a.title || Math.random()).slice(0, 60)).slice(0, 20),
+        title:   a.title   || '',
+        summary: a.content || a.description || '',
+        link:    a.url     || '#',
+        pubDate: a.publishedAt || new Date().toISOString(),
+        source:  a.source?.name || 'Noticia',
+        cat,
       };
-      return buildArticle(raw, src);
     });
   } catch { return []; }
 }
 
-function buildArticle(raw, src) {
-  const id = btoa(encodeURIComponent((raw.link || raw.title || Math.random()).toString()).slice(0, 60)).slice(0, 20);
-  return {
-    id,
-    title:   raw.title,
-    summary: stripHtml(raw.description),
-    link:    raw.link || '#',
-    pubDate: raw.pubDate,
-    source:  src.name,
-    cat:     classify(raw, src.cat),
-  };
-}
+// Classify Argentine general news
+function classifyAR(a) {
+  const text = ((a.title || '') + ' ' + (a.description || '')).toLowerCase();
+  const ISRAEL_KW  = ['israel', 'gaza', 'hamas', 'palestina', 'hezbollah', 'netanyahu', 'medio oriente'];
+  const TECH_KW    = ['inteligencia artificial', 'chatgpt', 'tecnologia', 'iphone', 'google', 'microsoft', 'apple', 'openai'];
+  const CINEMA_KW  = ['pelicula', 'netflix', 'disney', 'oscar', 'estreno', 'serie', 'streaming', 'cine'];
+  const SPORTS_KW  = ['futbol', 'river', 'boca', 'messi', 'seleccion', 'copa', 'champions', 'deporte'];
+  const POLECO_KW  = ['milei', 'kirchner', 'gobierno', 'economia', 'inflacion', 'dolar', 'congreso', 'senado', 'politica'];
 
-// ---------- CLASSIFY ----------
-function classify(raw, defaultCat) {
-  if (defaultCat !== 'general' && defaultCat !== 'economy') return defaultCat;
-  const text = ((raw.title || '') + ' ' + (raw.description || '')).toLowerCase();
-  if (match(text, KEYWORDS.israel))  return 'israel';
-  if (match(text, KEYWORDS.ar_pol))  return 'ar_pol';
-  if (match(text, KEYWORDS.cinema))  return 'cinema';
-  if (match(text, KEYWORDS.tech))    return 'tech';
-  if (match(text, KEYWORDS.sports))  return 'sports';
-  if (match(text, KEYWORDS.poleco))  return 'poleco';
-  if (defaultCat === 'economy')      return 'poleco';
+  if (ISRAEL_KW.some(k => text.includes(k)))  return 'israel';
+  if (TECH_KW.some(k => text.includes(k)))    return 'tech';
+  if (CINEMA_KW.some(k => text.includes(k)))  return 'cinema';
+  if (SPORTS_KW.some(k => text.includes(k)))  return 'sports';
+  if (POLECO_KW.some(k => text.includes(k)))  return 'ar_pol';
   return 'poleco';
 }
 
-function match(text, list) { return list.some(k => text.includes(k)); }
-
 // ---------- HELPERS ----------
-function stripHtml(html) {
-  if (!html) return '';
-  const d = document.createElement('div');
-  d.innerHTML = html;
-  return (d.textContent || d.innerText || '').replace(/\s+/g, ' ').trim();
-}
-
 function timeAgo(dateStr) {
   const diff = (Date.now() - new Date(dateStr)) / 1000;
   if (diff < 60)    return 'hace un momento';
@@ -263,9 +228,12 @@ function renderAll() {
   renderList('cat-cinema',          by.cinema.slice(0, 6));
   renderList('argentina-container', by.ar_pol.slice(0, 10));
 
-  const jobsKw = ['empleo','trabajo','contrat','vacante','remoto','junior','senior','desarrollador','developer'];
+  const jobsKw = ['empleo','trabajo','contrat','vacante','remoto','junior','senior','desarrollador','developer','hiring'];
   renderList('jobs-news-container',
-    by.tech.filter(a => match(a.title.toLowerCase(), jobsKw)).slice(0, 5));
+    [...by.tech, ...by.poleco].filter(a =>
+      jobsKw.some(k => a.title.toLowerCase().includes(k))
+    ).slice(0, 5)
+  );
 }
 
 // ---------- RENDER LIST ----------
@@ -284,9 +252,11 @@ function buildCard(a, isTop = false) {
   const rl       = readLater.includes(a.id);
   const fav      = favorites.includes(a.id);
   const expanded = expandedCards.has(a.id);
-  const short    = a.summary.slice(0, 380);
-  const hasMore  = a.summary.length > 380;
-  const articleJson = JSON.stringify(a).replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$/g, '\\$');
+  const clean    = a.summary.replace(/\[\+\d+ chars\]$/, '').trim();
+  const short    = clean.slice(0, 380);
+  const hasMore  = clean.length > 380;
+  const safeJson = JSON.stringify({ ...a, summary: clean })
+    .replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$/g, '\\$');
 
   return `
   <div class="news-card${isTop ? ' top-card' : ''}" id="card-${a.id}">
@@ -296,19 +266,19 @@ function buildCard(a, isTop = false) {
     </div>
     <div class="card-title">${a.title}</div>
     <div class="card-summary${expanded ? ' expanded' : ''}" id="summary-${a.id}">
-      ${expanded ? a.summary : short}${!expanded && hasMore ? '...' : ''}
+      ${expanded ? clean : short}${!expanded && hasMore ? '...' : ''}
     </div>
     <div class="card-footer">
       <button class="card-expand-btn" onclick="toggleExpand('${a.id}')">
         ${hasMore ? (expanded ? 'Ver menos &#x25B4;' : 'Leer mas &#x25BE;') : ''}
       </button>
       <div class="card-actions">
-        <button class="card-action-btn${rl ? ' active' : ''}" onclick="toggleRL(event,'${a.id}',\`${articleJson}\`)" title="Leer despues">
+        <button class="card-action-btn${rl ? ' active' : ''}" onclick="toggleRL(event,'${a.id}',\`${safeJson}\`)" title="Leer despues">
           <svg viewBox="0 0 24 24" fill="${rl ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8">
             <path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/>
           </svg>
         </button>
-        <button class="card-action-btn${fav ? ' fav-active' : ''}" onclick="toggleFav(event,'${a.id}',\`${articleJson}\`)" title="Favorito">
+        <button class="card-action-btn${fav ? ' fav-active' : ''}" onclick="toggleFav(event,'${a.id}',\`${safeJson}\`)" title="Favorito">
           <svg viewBox="0 0 24 24" fill="${fav ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8">
             <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
           </svg>
@@ -320,30 +290,31 @@ function buildCard(a, isTop = false) {
 
 // ---------- EXPAND ----------
 function toggleExpand(id) {
-  const a       = allArticles.find(x => x.id === id) || getStored(id);
+  const a = allArticles.find(x => x.id === id) || getStored(id);
   if (!a) return;
-  const sumEl   = document.getElementById('summary-' + id);
-  const cardEl  = document.getElementById('card-' + id);
-  const btn     = cardEl?.querySelector('.card-expand-btn');
+  const clean  = a.summary.replace(/\[\+\d+ chars\]$/, '').trim();
+  const sumEl  = document.getElementById('summary-' + id);
+  const cardEl = document.getElementById('card-' + id);
+  const btn    = cardEl?.querySelector('.card-expand-btn');
   if (!sumEl) return;
 
   if (expandedCards.has(id)) {
     expandedCards.delete(id);
     sumEl.classList.remove('expanded');
-    sumEl.textContent = a.summary.slice(0, 380) + (a.summary.length > 380 ? '...' : '');
+    sumEl.textContent = clean.slice(0, 380) + (clean.length > 380 ? '...' : '');
     if (btn) btn.innerHTML = 'Leer mas &#x25BE;';
   } else {
     expandedCards.add(id);
     sumEl.classList.add('expanded');
-    sumEl.textContent = a.summary;
+    sumEl.textContent = clean;
     if (btn) btn.innerHTML = 'Ver menos &#x25B4;';
   }
 }
 
 // ---------- READ LATER ----------
-function toggleRL(e, id, articleJson) {
+function toggleRL(e, id, json) {
   e.stopPropagation();
-  const a = JSON.parse(articleJson);
+  const a = JSON.parse(json);
   readLater = readLater.includes(id) ? readLater.filter(x => x !== id) : [...readLater, id];
   storeArticle(a);
   localStorage.setItem('readLater', JSON.stringify(readLater));
@@ -353,9 +324,9 @@ function toggleRL(e, id, articleJson) {
 }
 
 // ---------- FAVORITES ----------
-function toggleFav(e, id, articleJson) {
+function toggleFav(e, id, json) {
   e.stopPropagation();
-  const a = JSON.parse(articleJson);
+  const a = JSON.parse(json);
   favorites = favorites.includes(id) ? favorites.filter(x => x !== id) : [...favorites, id];
   storeArticle(a);
   localStorage.setItem('favorites', JSON.stringify(favorites));
@@ -379,11 +350,9 @@ function refreshActions(id) {
   document.querySelectorAll(`#card-${id} .card-action-btn`).forEach((btn, i) => {
     const active = i === 0 ? readLater.includes(id) : favorites.includes(id);
     btn.className = `card-action-btn${active ? (i === 0 ? ' active' : ' fav-active') : ''}`;
-    if (i === 0) {
-      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="${active ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>`;
-    } else {
-      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="${active ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`;
-    }
+    btn.innerHTML = i === 0
+      ? `<svg viewBox="0 0 24 24" fill="${active ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>`
+      : `<svg viewBox="0 0 24 24" fill="${active ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`;
   });
 }
 
@@ -396,9 +365,9 @@ function renderSavedSection(type) {
 
   if (!ids.length) {
     const t = type === 'readlater'
-      ? { path: 'M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z', msg: 'Todavia no guardaste nada', sub: 'Toca el marcador en cualquier noticia' }
-      : { path: 'M12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2', msg: 'Todavia no tenes favoritos', sub: 'Toca la estrella en cualquier noticia' };
-    el.innerHTML = `<div class="empty-state"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="${t.path}"/></svg><p>${t.msg}</p><span>${t.sub}</span></div>`;
+      ? { d: 'M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z', msg: 'Todavia no guardaste nada', sub: 'Toca el marcador en cualquier noticia' }
+      : { d: 'M12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2', msg: 'Todavia no tenes favoritos', sub: 'Toca la estrella en cualquier noticia' };
+    el.innerHTML = `<div class="empty-state"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="${t.d}"/></svg><p>${t.msg}</p><span>${t.sub}</span></div>`;
     return;
   }
 
