@@ -2,30 +2,7 @@
    DAILY BRIEF - app.js
    ============================================= */
 
-const PROXY      = 'https://corsproxy.io/?';
 const SPORTS_API = 'https://www.thesportsdb.com/api/v1/json/1/eventsday.php';
-
-const SOURCES = [
-  { url: 'https://www.xataka.com/feed',                     cat: 'tech',    name: 'Xataka' },
-  { url: 'https://hipertextual.com/feed',                   cat: 'tech',    name: 'Hipertextual' },
-  { url: 'https://feeds.bbci.co.uk/mundo/rss.xml',          cat: 'general', name: 'BBC Mundo' },
-  { url: 'https://www.infobae.com/feeds/rss/',              cat: 'general', name: 'Infobae' },
-  { url: 'https://tn.com.ar/rss/latest.xml',                cat: 'general', name: 'TN' },
-  { url: 'https://www.ambito.com/rss.html',                 cat: 'economy', name: 'Ambito' },
-  { url: 'https://www.cronista.com/rss/',                   cat: 'economy', name: 'El Cronista' },
-  { url: 'https://www.ole.com.ar/rss/home.xml',             cat: 'sports',  name: 'Ole' },
-  { url: 'https://www.espinof.com/rss',                     cat: 'cinema',  name: 'Espinof' },
-  { url: 'https://www.sensacine.com/noticias/cine/rss/',    cat: 'cinema',  name: 'SensaCine' },
-];
-
-const KW = {
-  israel:  ['israel', 'gaza', 'hamas', 'palestina', 'hezbollah', 'netanyahu', 'medio oriente', 'cisjordania'],
-  ar_pol:  ['milei', 'kirchner', 'peronismo', 'diputados', 'senado', 'casa rosada', 'kicillof', 'macri', 'gobierno argentino', 'berni', 'larreta', 'bullrich'],
-  poleco:  ['trump', 'putin', 'xi jinping', 'banco central', 'inflaci', 'dolar', 'dólar', 'pbi', 'bolsa de valores', 'mercado', 'economia', 'economía', 'finanzas', 'elecciones', 'gobierno', 'politica', 'política', 'fed ', 'wall street'],
-  sports:  ['futbol', 'fútbol', 'river', 'boca', 'racing', 'san lorenzo', 'independiente', 'champions', 'premier league', 'real madrid', 'barcelona', 'messi', 'seleccion argentina', 'copa', 'gol', 'tenis', 'formula 1'],
-  tech:    ['inteligencia artificial', ' ia ', 'chatgpt', 'openai', 'google', 'apple', 'microsoft', 'iphone', 'android', 'startup', 'robot', 'tecnologia', 'tecnología', 'software', 'ciberseguridad', 'gemini', 'deepseek'],
-  cinema:  ['pelicula', 'película', 'cine', 'netflix', 'disney', 'hbo', 'amazon prime', 'marvel', 'oscar', 'actor', 'actriz', 'director', 'estreno', 'trailer', 'serie ', 'streaming', 'hollywood'],
-};
 
 const FOOTBALL_LEAGUES = [
   { key: 'champions', label: 'Champions',  terms: ['champions league', 'uefa champions'] },
@@ -140,86 +117,46 @@ function refreshAll() {
 async function loadAll() {
   ['top-container','cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema','argentina-container','jobs-news-container']
     .forEach(id => showSkeletons(id, 3));
-  await Promise.all([loadMatches(), fetchAllFeeds()]);
+  await Promise.all([loadMatches(), fetchNews()]);
   renderAll();
 }
 
-// ---------- FETCH FEEDS ----------
-async function fetchAllFeeds() {
-  const results = await Promise.allSettled(SOURCES.map(s => fetchFeed(s)));
-  results.forEach(r => {
-    if (r.status === 'fulfilled' && r.value?.length) allArticles.push(...r.value);
-  });
-  allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-}
-
-async function fetchFeed(src) {
+// ---------- FETCH NEWS FROM news.json ----------
+async function fetchNews() {
   try {
-    const url = PROXY + encodeURIComponent(src.url);
-    const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
-    const xml = await res.text();
-    return parseXML(xml, src);
-  } catch { return []; }
+    const res  = await fetch('news.json?v=' + Date.now());
+    if (!res.ok) throw new Error('news.json no encontrado');
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    // Show last updated time
+    if (data.updated) {
+      const d = new Date(data.updated);
+      const hhmm = d.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' });
+      const dateEl = document.getElementById('header-date');
+      if (dateEl) {
+        const current = dateEl.textContent;
+        dateEl.textContent = current + ' · ' + hhmm;
+      }
+    }
+  } catch (e) {
+    // news.json doesn't exist yet — show message
+    const containers = ['top-container','cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema'];
+    containers.forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.innerHTML = `<div class="error-card" style="text-align:left;line-height:1.7;color:var(--text3)">
+        Las noticias se actualizan automaticamente via GitHub Actions.<br>
+        <strong style="color:var(--accent)">Para generar el primer catalogo:</strong><br>
+        1. Entra a github.com/dylanfuks18/daily-brief<br>
+        2. Click en "Actions" (menu superior)<br>
+        3. Click en "Fetch News" → "Run workflow" → "Run workflow"<br>
+        4. Espera ~1 minuto y recarga la app
+      </div>`;
+    });
+  }
 }
-
-function parseXML(xmlStr, src) {
-  try {
-    const doc   = new DOMParser().parseFromString(xmlStr, 'text/xml');
-    const items = Array.from(doc.querySelectorAll('item'));
-    if (!items.length) return [];
-
-    return items.slice(0, 20).map(item => {
-      const g = (tag) => {
-        const el = item.querySelector(tag);
-        return el ? (el.textContent || el.getAttribute('url') || '') : '';
-      };
-      // content:encoded fallback
-      const ns   = item.getElementsByTagNameNS('*', 'encoded');
-      const body = ns.length ? ns[0].textContent : '';
-      const title = g('title').replace(/<!\[CDATA\[|\]\]>/g, '').trim();
-      const desc  = stripHtml(body || g('description')).slice(0, 800);
-      const link  = g('link') || g('guid');
-      const date  = g('pubDate') || new Date().toISOString();
-
-      if (!title) return null;
-
-      const rawForCat = { title, description: desc };
-      return {
-        id:      btoa(encodeURIComponent((link || title).slice(0, 60))).slice(0, 20),
-        title,
-        summary: desc,
-        link,
-        pubDate: date,
-        source:  src.name,
-        cat:     classify(rawForCat, src.cat),
-      };
-    }).filter(Boolean);
-  } catch { return []; }
-}
-
-// ---------- CLASSIFY ----------
-function classify(raw, defaultCat) {
-  if (defaultCat !== 'general' && defaultCat !== 'economy') return defaultCat;
-  const text = ((raw.title || '') + ' ' + (raw.description || '')).toLowerCase();
-  if (kw(text, KW.israel))  return 'israel';
-  if (kw(text, KW.ar_pol))  return 'ar_pol';
-  if (kw(text, KW.cinema))  return 'cinema';
-  if (kw(text, KW.tech))    return 'tech';
-  if (kw(text, KW.sports))  return 'sports';
-  if (kw(text, KW.poleco))  return 'poleco';
-  if (defaultCat === 'economy') return 'poleco';
-  return 'poleco';
-}
-function kw(text, list) { return list.some(k => text.includes(k)); }
 
 // ---------- HELPERS ----------
-function stripHtml(html) {
-  if (!html) return '';
-  const d = document.createElement('div');
-  d.innerHTML = html;
-  return (d.textContent || d.innerText || '').replace(/\s+/g, ' ').trim();
-}
-
 function timeAgo(dateStr) {
   const diff = (Date.now() - new Date(dateStr)) / 1000;
   if (diff < 60)    return 'hace un momento';
@@ -253,7 +190,7 @@ function renderList(id, articles, isTop = false) {
   const el = document.getElementById(id);
   if (!el) return;
   if (!articles.length) {
-    el.innerHTML = `<div class="error-card">No hay noticias disponibles ahora.</div>`;
+    el.innerHTML = `<div class="error-card">No hay noticias en esta categoria.</div>`;
     return;
   }
   el.innerHTML = articles.map(a => buildCard(a, isTop)).join('');
@@ -338,8 +275,7 @@ function toggleFav(e, id, json) {
 }
 function storeArticle(a) {
   const s = JSON.parse(localStorage.getItem('articleStore') || '{}');
-  s[a.id] = a;
-  localStorage.setItem('articleStore', JSON.stringify(s));
+  s[a.id] = a; localStorage.setItem('articleStore', JSON.stringify(s));
 }
 function getStored(id) {
   return JSON.parse(localStorage.getItem('articleStore') || '{}')[id] || null;
