@@ -1,0 +1,50 @@
+{
+  "articles": [
+    {
+      "id": "aHR0cHM6Ly93d3cuZ2Vu",
+      "title": "Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta",
+      "summary": "Genbeta se lanzó al mundo en el año 2005, hace ya dos décadas (y algunos meses). Si ya eras usuario de Internet por aquellos tiempos, estarás de acuerdo con que éste ha cambiado mucho en estos últimos 20 años , y no siempre para mejor. Hagamos un breve recorrido por el carril de la nostalgia en la 'autopista de la información'. De la web de enlaces a la web de feeds A principios de los 2000, Internet se organizaba alrededor de enlaces . Uno llegaba a una página web, encontraba hipervínculos y decidía a dónde ir después. El control de la navegación estaba en el usuario. Los blogs enlazaban a otros blogs, y los buscadores indexaban páginas relativamente estáticas. Hoy, gran parte del tráfico pasa por feeds basados en algoritmos . En lugar de decidir qué leer, el usuario desplaza el dedo mien",
+      "link": "https://www.genbeta.com/a-fondo/asi-ha-cambiado-internet-20-anos-transcurridos-lanzamiento-genbeta",
+      "pubDate": "Wed, 31 Dec 2025 11:01:00 +0100",
+      "source": "Genbeta",
+      "cat": "tech"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubGFu",
+      "title": "Perder a un hermano: Gustavo Noriega cuenta cómo el duelo se transforma y nunca se cierra",
+      "summary": "El fallecimiento de Ricardo Noriega, doctor en matemáticas y docente de la UBA, marcó un quiebre irreparable en la vida de su hermano Gustavo. A más de 30 años de aquel invierno de 1992, el periodista recuerda a quien fuera no solo un familiar, sino su guía intelectual y afectiva. “Fue una muerte tan inesperada, tan injusta, tan brutal. Estaba en un departamento de Once y, dos meses después, ya no estaba”, rememoró Noriega sobre la rapidez con la que el cáncer de pulmón terminó con la vida de su hermano a los 47 años. Para el entrevistado, Ricardo representaba una figura de autoridad protectora, a pesar de que el propio Gustavo admite que, a la distancia, hoy lo ve como “un muchachito”. Durante el podcast, destacó la importancia de aquel mentor que le enseñó a leer cuando él tenía apenas c",
+      "link": "https://www.lanacion.com.ar/videos/gustavo-noriega-y-la-huella-de-su-hermano-un-duelo-que-se-transforma-en-legado-nid17032026/",
+      "pubDate": "Wed, 18 Mar 2026 18:32:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2xh",
+      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, martes 17 de marzo",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-martes-17-marzo_0_8h4HwGso6t.html",
+      "pubDate": "Tue, 17 Mar 2026 21:03:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco"
+    },
+    {
+      "id": "aHR0cHM6Ly9oaXBlcnRl",
+      "title": "OpenAI amplía su catálogo de modelos pequeños y baratos con GPT-5.4 mini y nano",
+      "summary": "Tras el reciente lanzamiento de GPT-5.4 , OpenAI ha ampliado su catálogo de modelos de inteligencia artificial con dos opciones pequeñas. Se trata de GPT-5.4 mini y nano , que se han pensado para tareas que requieren de baja latencia sin resignar rendimiento, y sin arruinar el bolsillo de los usuarios. Como no podía ser de otra manera, los de Sam Altman afirman que GPT-5.4 mini y nano son sus modelos pequeños más capaces. Estos llegan con una importante mejora en su desempeño comparado con sus predecesores. De acuerdo con OpenAI, GPT-5.4 mini y nano se desarrollaron especialmente pensado en su aplicación en agentes y subagentes de inteligencia artificial . Desde asistentes de programación hasta el razonamiento de imágenes, por solo citar algunos casos. Vale destacar que GPT-5.4 mini cuenta",
+      "link": "https://hipertextual.com/inteligencia-artificial/nuevos-gpt-5-4-mini-y-nano-openai/",
+      "pubDate": "Tue, 17 Mar 2026 20:28:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuYmJj",
+      "title": "Dimite el jefe de la lucha antiterrorista de EE.UU. al considerar que Irán \"no presentaba una amenaza inminente\"",
+      "summary": "El director del Centro Nacional de Antiterrorismo, Joe Kent, alegó que Trump había iniciado la guerra en Irán por \"la presión de Israel y de su poderoso lobby estadounidense\".",
+      "link": "https://www.bbc.com/mundo/articles/c4gengw836po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 17 Mar 2026 19:55:10 GMT",
+      "source": "BBC Mundo",
+      "cat": "israel"
+    }
+  ],
+  "updated": "2026-03-17T21:22:52.533444+00:00"
+}
