@@ -170,7 +170,14 @@ async function fetchGNews(endpoint, defaultCat) {
   try {
     const res  = await fetch(endpoint, { signal: AbortSignal.timeout(10000) });
     const data = await res.json();
-    if (!data.articles) return [];
+
+    // Mostrar error visible si la API responde con error
+    if (data.errors || data.message || !data.articles) {
+      const msg = data.errors?.join(', ') || data.message || 'Sin articulos en la respuesta';
+      showDebugError(msg, endpoint);
+      return [];
+    }
+
     return data.articles.map(a => {
       const cat = defaultCat === 'general_ar' ? classifyAR(a) : defaultCat;
       return {
@@ -183,7 +190,21 @@ async function fetchGNews(endpoint, defaultCat) {
         cat,
       };
     });
-  } catch { return []; }
+  } catch (e) {
+    showDebugError(e.message, endpoint);
+    return [];
+  }
+}
+
+function showDebugError(msg, url) {
+  const el = document.getElementById('top-container');
+  if (el && !document.getElementById('debug-error')) {
+    const div = document.createElement('div');
+    div.id = 'debug-error';
+    div.style.cssText = 'background:#1c1c1e;margin:0 12px 8px;padding:14px 16px;border-radius:14px;border-left:3px solid #ff453a;font-size:12px;color:#ff453a;line-height:1.6;word-break:break-all';
+    div.innerHTML = `<strong>Error de API:</strong><br>${msg}<br><span style="color:#8e8e93">${url.slice(0, 80)}...</span>`;
+    el.prepend(div);
+  }
 }
 
 // Classify Argentine general news
