@@ -2,7 +2,7 @@
    DAILY BRIEF - app.js
    ============================================= */
 
-const SPORTS_API = 'https://www.thesportsdb.com/api/v1/json/1/eventsday.php';
+const SPORTS_API = 'https://www.thesportsdb.com/api/v1/json/3/eventsday.php';
 
 const FOOTBALL_LEAGUES = [
   { key: 'champions', label: 'Champions',  terms: ['champions league', 'uefa champions'] },
