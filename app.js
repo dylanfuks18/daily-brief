@@ -144,7 +144,7 @@ function refreshAll() {
 async function loadAll() {
   ['cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema','argentina-container','jobs-news-container']
     .forEach(id => showSkeletons(id, 3));
-  await Promise.all([loadMatches(), fetchNews(), loadCartelera()]);
+  await Promise.all([loadMatches(), fetchNews(), loadCartelera(), loadEconWidget()]);
   renderAll();
 }
 
@@ -621,6 +621,8 @@ function buildMatchCard(ev, label, emoji = '') {
 }
 
 // ---------- CARTELERA (TMDB) ----------
+const SHOWCASE_URL = 'https://www.showcasecines.com.ar/';
+
 async function loadCartelera() {
   const el = document.getElementById('cartelera-container');
   if (!el) return;
@@ -628,7 +630,7 @@ async function loadCartelera() {
   // Sin clave TMDB: link directo a Showcase Belgrano
   if (!TMDB_KEY) {
     el.innerHTML = `
-      <a href="https://www.showcasecines.com.ar/cine/belgrano" target="_blank" rel="noopener" class="cartelera-link">
+      <a href="${SHOWCASE_URL}" target="_blank" rel="noopener" class="cartelera-link">
         <span>🍿</span> Ver cartelera Showcase Belgrano &rarr;
       </a>`;
     return;
@@ -671,13 +673,106 @@ async function loadCartelera() {
           </div>`;
         }).join('')}
       </div>
-      <a href="https://www.showcasecines.com.ar/cine/belgrano" target="_blank" rel="noopener" class="cartelera-link">
+      <a href="${SHOWCASE_URL}" target="_blank" rel="noopener" class="cartelera-link">
         Ver horarios en Showcase Belgrano &rarr;
       </a>`;
   } catch {
     el.innerHTML = `
-      <a href="https://www.showcasecines.com.ar/cine/belgrano" target="_blank" rel="noopener" class="cartelera-link">
+      <a href="${SHOWCASE_URL}" target="_blank" rel="noopener" class="cartelera-link">
         <span>🍿</span> Ver cartelera Showcase Belgrano &rarr;
       </a>`;
+  }
+}
+
+// ---------- ECONOMIC WIDGET ----------
+async function loadEconWidget() {
+  const el = document.getElementById('econ-container');
+  if (!el) return;
+
+  // Render skeleton cards immediately
+  el.innerHTML = `
+    <div class="econ-scroll">
+      <div class="econ-card" id="econ-dolar">
+        <div class="econ-label">💵 Dólar Blue</div>
+        <div class="econ-value"><span class="econ-num econ-loading">···</span></div>
+      </div>
+      <div class="econ-card" id="econ-btc">
+        <div class="econ-label">₿ Bitcoin</div>
+        <div class="econ-value"><span class="econ-num econ-loading">···</span></div>
+      </div>
+      <div class="econ-card" id="econ-sp">
+        <div class="econ-label">📈 S&P 500</div>
+        <div class="econ-value"><span class="econ-num econ-loading">···</span></div>
+      </div>
+    </div>`;
+
+  await Promise.allSettled([_loadDolar(), _loadBitcoin(), _loadSP500()]);
+}
+
+function _setEconCard(id, num, sub, changeVal) {
+  const card = document.getElementById(id);
+  if (!card) return;
+  const updown = changeVal > 0 ? 'econ-up' : changeVal < 0 ? 'econ-down' : '';
+  const arrow  = changeVal > 0 ? '▲' : changeVal < 0 ? '▼' : '';
+  card.querySelector('.econ-value').innerHTML = `
+    <span class="econ-num">${num}</span>
+    ${sub ? `<span class="econ-sub ${updown}">${arrow ? arrow + ' ' : ''}${sub}</span>` : ''}`;
+}
+
+async function _loadDolar() {
+  try {
+    const res = await fetch('https://api.bluelytics.com.ar/v2/latest', { signal: AbortSignal.timeout(8000) });
+    const d = await res.json();
+    const sell = d.blue?.value_sell;
+    const buy  = d.blue?.value_buy;
+    if (!sell) throw new Error();
+    _setEconCard('econ-dolar', `$${sell}`, buy ? `Compra $${buy}` : '', 0);
+  } catch {
+    _setEconCard('econ-dolar', 'N/D', '', 0);
+  }
+}
+
+async function _loadBitcoin() {
+  try {
+    const res = await fetch(
+      'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true',
+      { signal: AbortSignal.timeout(8000) }
+    );
+    const d = await res.json();
+    const price  = d.bitcoin?.usd;
+    const change = d.bitcoin?.usd_24h_change;
+    if (!price) throw new Error();
+    const display = price >= 1000
+      ? `$${(price / 1000).toFixed(1)}K`
+      : `$${price.toLocaleString('en-US')}`;
+    _setEconCard('econ-btc', display,
+      change != null ? `${Math.abs(change).toFixed(2)}% 24h` : '',
+      change ?? 0);
+  } catch {
+    _setEconCard('econ-btc', 'N/D', '', 0);
+  }
+}
+
+async function _loadSP500() {
+  try {
+    const yahoUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&range=2d';
+    const res = await fetch(
+      `https://api.allorigins.win/get?url=${encodeURIComponent(yahoUrl)}`,
+      { signal: AbortSignal.timeout(12000) }
+    );
+    const wrap = await res.json();
+    if (!wrap.contents) throw new Error();
+    const data = JSON.parse(wrap.contents);
+    const meta = data?.chart?.result?.[0]?.meta;
+    if (!meta?.regularMarketPrice) throw new Error();
+    const price = meta.regularMarketPrice;
+    const prev  = meta.chartPreviousClose || meta.previousClose || 0;
+    const pct   = prev ? ((price - prev) / prev) * 100 : 0;
+    _setEconCard('econ-sp',
+      price.toLocaleString('en-US', { maximumFractionDigits: 0 }),
+      pct ? `${Math.abs(pct).toFixed(2)}%` : '',
+      pct);
+  } catch {
+    _setEconCard('econ-sp', 'N/D', '', 0);
   }
 }

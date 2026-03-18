@@ -439,5 +439,46 @@ a { text-decoration: none; color: inherit; }
 }
 .cartelera-link:active { background: var(--bg3); }
 
+/* ---- Economic Widget ---- */
+.econ-scroll {
+  display: flex; gap: 10px;
+  padding: 0 16px 16px;
+  overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none;
+}
+.econ-scroll::-webkit-scrollbar { display: none; }
+
+.econ-card {
+  flex-shrink: 0; min-width: 126px;
+  background: var(--bg2); border-radius: var(--card-radius);
+  padding: 12px 14px 14px; border: 1px solid var(--separator);
+  display: flex; flex-direction: column; gap: 6px;
+}
+.econ-label {
+  font-size: 11px; font-weight: 600; color: var(--text3);
+  text-transform: uppercase; letter-spacing: 0.4px;
+}
+.econ-value { display: flex; flex-direction: column; gap: 2px; }
+.econ-num {
+  font-size: 20px; font-weight: 800; color: var(--text);
+  letter-spacing: -0.5px; line-height: 1.1;
+}
+.econ-sub {
+  font-size: 11px; font-weight: 600; color: var(--text3);
+}
+.econ-up   { color: var(--green) !important; }
+.econ-down { color: var(--red)   !important; }
+@keyframes econPulse { 0%,100% { opacity: 0.3; } 50% { opacity: 0.7; } }
+.econ-loading { animation: econPulse 1.4s infinite; }
+
+/* ---- Israel source X link ---- */
+.israel-x-link {
+  display: flex; align-items: center; justify-content: center;
+  width: 26px; height: 26px; border-radius: 50%;
+  background: var(--bg3); color: var(--text3);
+  flex-shrink: 0; transition: background 0.15s;
+}
+.israel-x-link:active { background: var(--bg4); }
+.israel-x-link svg { width: 13px; height: 13px; }
+
 /* ---- Misc ---- */
 ::-webkit-scrollbar { width: 0; height: 0; }
