@@ -46,6 +46,15 @@ SOURCES = [
     {'url': 'https://www.filmaffinity.com/es/rss/es_reviews.xml',         'cat': 'cinema',  'name': 'FilmAffinity'},
     {'url': 'https://cinemascomics.com/feed/',                            'cat': 'cinema',  'name': 'CinemasComics'},
     {'url': 'https://www.escribiendocine.com/feed',                       'cat': 'cinema',  'name': 'EscribiendoCine'},
+    {'url': 'https://www.ecartelera.com/rss/',                            'cat': 'cinema',  'name': 'eCartelera'},
+    {'url': 'https://www.hobbyconsolas.com/rss/cine',                     'cat': 'cinema',  'name': 'HobbyConsolas Cine'},
+    {'url': 'https://decine21.com/feed/',                                 'cat': 'cinema',  'name': 'Decine21'},
+
+    # --- POLITICA ARGENTINA (directa) ---
+    {'url': 'https://www.lapoliticaonline.com/rss/',                      'cat': 'ar_pol',  'name': 'La Política Online'},
+    {'url': 'https://chequeado.com/feed/',                                'cat': 'ar_pol',  'name': 'Chequeado'},
+    {'url': 'https://www.pagina12.com.ar/rss/portada',                   'cat': 'ar_pol',  'name': 'Pagina 12'},
+    {'url': 'https://www.eldiarioar.com/rss/',                           'cat': 'ar_pol',  'name': 'El Diario AR'},
 ]
 
 # Fuentes que ya obtuvieron articulos (para evitar duplicar @MokedBitajon si varias instancias responden)
@@ -157,7 +166,7 @@ for src in SOURCES:
 
         feed = feedparser.parse(src['url'])
         count = 0
-        for entry in feed.entries[:25]:
+        for entry in feed.entries[:30]:
             title = strip_html(entry.get('title', ''))
             if not title or len(title) < 15:
                 continue

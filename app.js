@@ -201,12 +201,12 @@ function renderAll() {
   renderCarousel('top-container', top);
 
   renderList('cat-tech',            by.tech.slice(0, 8));
-  renderTweetCarousel('tweets-israel', israelTweets.slice(0, 8));
+  renderTweetCarousel('tweets-israel', israelTweets.slice(0, 7));
   renderList('israel-articles',     israelArticles.slice(0, 6));
   renderList('cat-poleco',          by.poleco.slice(0, 8));
   renderList('cat-sports',          by.sports.slice(0, 8));
-  renderList('cat-cinema',          by.cinema.slice(0, 6));
-  renderList('argentina-container', by.ar_pol.slice(0, 10));
+  renderList('cat-cinema',          by.cinema.slice(0, 12));
+  renderList('argentina-container', by.ar_pol.slice(0, 18));
 
   const jobsKw = ['empleo','trabajo','contrat','vacante','remoto','junior','senior','desarrollador','developer'];
   renderList('jobs-news-container',
