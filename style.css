@@ -470,15 +470,48 @@ a { text-decoration: none; color: inherit; }
 @keyframes econPulse { 0%,100% { opacity: 0.3; } 50% { opacity: 0.7; } }
 .econ-loading { animation: econPulse 1.4s infinite; }
 
-/* ---- Israel source X link ---- */
-.israel-x-link {
-  display: flex; align-items: center; justify-content: center;
-  width: 26px; height: 26px; border-radius: 50%;
-  background: var(--bg3); color: var(--text3);
-  flex-shrink: 0; transition: background 0.15s;
+/* ---- Tweet Cards (@MokedBitajon) ---- */
+.tweet-scroll {
+  display: flex; gap: 10px;
+  padding: 4px 16px 12px;
+  overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none;
 }
-.israel-x-link:active { background: var(--bg4); }
-.israel-x-link svg { width: 13px; height: 13px; }
+.tweet-scroll::-webkit-scrollbar { display: none; }
+
+.tweet-card {
+  flex-shrink: 0; width: 248px;
+  background: var(--bg2); border-radius: 16px;
+  padding: 14px; border: 1px solid var(--separator);
+  cursor: pointer; -webkit-tap-highlight-color: transparent;
+  display: flex; flex-direction: column; gap: 10px;
+  transition: opacity 0.15s;
+}
+.tweet-card:active { opacity: 0.75; }
+
+.tweet-header { display: flex; align-items: center; gap: 10px; }
+.tweet-avatar {
+  width: 36px; height: 36px; border-radius: 50%;
+  background: #000; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+.tweet-avatar svg { width: 17px; height: 17px; fill: #fff; }
+.tweet-handle-col { min-width: 0; }
+.tweet-name  { font-size: 13px; font-weight: 700; color: var(--text); }
+.tweet-at    { font-size: 11px; color: var(--text3); }
+
+.tweet-body {
+  font-size: 13px; color: var(--text2); line-height: 1.6;
+  display: -webkit-box; -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical; overflow: hidden;
+  flex: 1;
+}
+
+.tweet-footer {
+  display: flex; align-items: center; justify-content: space-between;
+}
+.tweet-time   { font-size: 11px; color: var(--text3); }
+.tweet-x-mark { font-size: 13px; color: var(--text3); font-weight: 700; }
 
 /* ---- Misc ---- */
 ::-webkit-scrollbar { width: 0; height: 0; }

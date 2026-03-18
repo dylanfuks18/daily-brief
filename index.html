@@ -131,16 +131,12 @@
             <span class="cat-emoji">&#x1F30D;</span>
             <span class="block-title">Israel & Medio Oriente</span>
           </div>
-          <div style="display:flex;align-items:center;gap:8px">
-            <a href="https://x.com/MokedBitajon" target="_blank" rel="noopener"
-               onclick="event.stopPropagation()"
-               class="israel-x-link" title="Moked Bitajon en X">
-              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-            </a>
-            <span class="collapse-arrow" id="arrow-israel">&#x25BE;</span>
-          </div>
+          <span class="collapse-arrow" id="arrow-israel">&#x25BE;</span>
         </div>
-        <div id="cat-israel" class="news-list cat-list"></div>
+        <div id="cat-israel" class="cat-list">
+          <div id="tweets-israel"></div>
+          <div id="israel-articles" class="news-list" style="margin-top:4px"></div>
+        </div>
 
         <!-- Politics & Economy -->
         <div class="block-header collapsible" onclick="toggleCat('poleco')">

@@ -189,13 +189,19 @@ function renderAll() {
   const by = { tech: [], israel: [], poleco: [], sports: [], cinema: [], ar_pol: [] };
   allArticles.forEach(a => { if (by[a.cat]) by[a.cat].push(a); });
 
-  // Top del dia → carousel (1 from each category)
+  // Separar tweets de @MokedBitajon del resto de noticias israel
+  const israelTweets   = by.israel.filter(a => a.source === 'MokedBitajon');
+  const israelArticles = by.israel.filter(a => a.source !== 'MokedBitajon');
+
+  // Top del dia → carousel (1 from each category, preferir articulos sobre tweets)
   const top = ['tech','israel','poleco','sports','cinema']
-    .map(c => by[c][0]).filter(Boolean);
+    .map(c => c === 'israel' ? israelArticles[0] || israelTweets[0] : by[c][0])
+    .filter(Boolean);
   renderCarousel('top-container', top);
 
   renderList('cat-tech',            by.tech.slice(0, 8));
-  renderList('cat-israel',          by.israel.slice(0, 6));
+  renderTweetCarousel('tweets-israel', israelTweets.slice(0, 8));
+  renderList('israel-articles',     israelArticles.slice(0, 6));
   renderList('cat-poleco',          by.poleco.slice(0, 8));
   renderList('cat-sports',          by.sports.slice(0, 8));
   renderList('cat-cinema',          by.cinema.slice(0, 6));
@@ -204,6 +210,37 @@ function renderAll() {
   const jobsKw = ['empleo','trabajo','contrat','vacante','remoto','junior','senior','desarrollador','developer'];
   renderList('jobs-news-container',
     [...by.tech, ...by.poleco].filter(a => jobsKw.some(k => a.title.toLowerCase().includes(k))).slice(0, 5));
+}
+
+// ---------- TWEET CAROUSEL ----------
+function renderTweetCarousel(id, articles) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  if (!articles.length) { el.innerHTML = ''; return; }
+  el.innerHTML = `<div class="tweet-scroll">${articles.map(buildTweetCard).join('')}</div>`;
+}
+
+function buildTweetCard(a) {
+  const xUrl = a.link || 'https://x.com/MokedBitajon';
+  const text  = (a.summary && a.summary.length > a.title.length) ? a.summary : a.title;
+  const safe  = text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  return `
+  <div class="tweet-card" onclick="window.open('${xUrl}','_blank','noopener')">
+    <div class="tweet-header">
+      <div class="tweet-avatar">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </div>
+      <div class="tweet-handle-col">
+        <div class="tweet-name">Moked Bitajon</div>
+        <div class="tweet-at">@MokedBitajon</div>
+      </div>
+    </div>
+    <div class="tweet-body">${safe}</div>
+    <div class="tweet-footer">
+      <span class="tweet-time">${timeAgo(a.pubDate)}</span>
+      <span class="tweet-x-mark">𝕏</span>
+    </div>
+  </div>`;
 }
 
 // ---------- CAROUSEL RENDER ----------

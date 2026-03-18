@@ -9,6 +9,7 @@ SOURCES = [
     {'url': 'https://www.xataka.com/feed',                        'cat': 'tech',    'name': 'Xataka'},
     {'url': 'https://hipertextual.com/feed',                      'cat': 'tech',    'name': 'Hipertextual'},
     {'url': 'https://feeds.weblogssl.com/genbeta',                'cat': 'tech',    'name': 'Genbeta'},
+    {'url': 'https://www.technologyreview.com/feed/',             'cat': 'tech',    'name': 'MIT Tech Review'},
 
     # --- NOTICIAS GENERALES (se clasifican por keywords) ---
     {'url': 'https://feeds.bbci.co.uk/mundo/rss.xml',            'cat': 'general', 'name': 'BBC Mundo'},
@@ -16,15 +17,27 @@ SOURCES = [
     {'url': 'https://tn.com.ar/rss/latest.xml',                   'cat': 'general', 'name': 'TN'},
     {'url': 'https://www.clarin.com/rss/lo-ultimo/',              'cat': 'general', 'name': 'Clarin'},
     {'url': 'https://www.lanacion.com.ar/arc/outboundfeeds/rss/', 'cat': 'general', 'name': 'La Nacion'},
+    {'url': 'https://www.perfil.com/rss/noticias',                'cat': 'general', 'name': 'Perfil'},
+    {'url': 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada', 'cat': 'general', 'name': 'El Pais'},
+
+    # --- ISRAEL & MEDIO ORIENTE (directo) ---
+    {'url': 'https://es.timesofisrael.com/feed/',                 'cat': 'israel',  'name': 'Times of Israel'},
+
+    # --- @MokedBitajon en X (via nitter — se intenta en orden) ---
+    {'url': 'https://nitter.privacydev.net/MokedBitajon/rss',    'cat': 'israel',  'name': 'MokedBitajon'},
+    {'url': 'https://nitter.poast.org/MokedBitajon/rss',         'cat': 'israel',  'name': 'MokedBitajon'},
+    {'url': 'https://nitter.net/MokedBitajon/rss',               'cat': 'israel',  'name': 'MokedBitajon'},
 
     # --- ECONOMIA ---
     {'url': 'https://www.ambito.com/rss.html',                    'cat': 'economy', 'name': 'Ambito'},
     {'url': 'https://www.cronista.com/rss/',                      'cat': 'economy', 'name': 'El Cronista'},
+    {'url': 'https://www.iprofesional.com/rss/noticias',          'cat': 'economy', 'name': 'iProfesional'},
 
     # --- DEPORTES ---
     {'url': 'https://www.ole.com.ar/rss/home.xml',                'cat': 'sports',  'name': 'Ole'},
     {'url': 'https://www.marca.com/rss/portada.xml',              'cat': 'sports',  'name': 'Marca'},
     {'url': 'https://as.com/rss/tags/futbol/a/rss.xml',           'cat': 'sports',  'name': 'AS'},
+    {'url': 'https://www.tycsports.com/rss.xml',                  'cat': 'sports',  'name': 'TyC Sports'},
 
     # --- CINE & ENTRETENIMIENTO ---
     {'url': 'https://www.espinof.com/rss',                                'cat': 'cinema',  'name': 'Espinof'},
@@ -34,6 +47,9 @@ SOURCES = [
     {'url': 'https://cinemascomics.com/feed/',                            'cat': 'cinema',  'name': 'CinemasComics'},
     {'url': 'https://www.escribiendocine.com/feed',                       'cat': 'cinema',  'name': 'EscribiendoCine'},
 ]
+
+# Fuentes que ya obtuvieron articulos (para evitar duplicar @MokedBitajon si varias instancias responden)
+_mokedb_done = False
 
 KEYWORDS = {
     'israel':  ['israel', 'gaza', 'hamas', 'palestina', 'hezbollah', 'netanyahu', 'medio oriente', 'cisjordania', 'franja de gaza'],
@@ -51,7 +67,7 @@ def strip_html(text):
     clean = re.sub(r'<[^>]+>', ' ', str(text))
     clean = re.sub(r'&[a-zA-Z]+;', ' ', clean)
     clean = re.sub(r'\s+', ' ', clean).strip()
-    return clean[:1000]
+    return clean[:2000]
 
 
 def get_image(entry):
@@ -129,14 +145,21 @@ def make_id(s):
 
 
 articles = []
+_mokedb_done = False  # Solo usar la primera instancia nitter que responda
 
 for src in SOURCES:
     try:
+        # @MokedBitajon: si ya obtuvimos tweets de una instancia nitter, saltear las demas
+        is_mokedb = src['name'] == 'MokedBitajon'
+        if is_mokedb and _mokedb_done:
+            print(f"[SKIP] {src['url']} (MokedBitajon ya cargado)")
+            continue
+
         feed = feedparser.parse(src['url'])
         count = 0
         for entry in feed.entries[:25]:
             title = strip_html(entry.get('title', ''))
-            if not title:
+            if not title or len(title) < 15:
                 continue
 
             desc = strip_html(
@@ -145,7 +168,11 @@ for src in SOURCES:
                 entry.get('description', '')
             )
 
-            link  = entry.get('link', '')
+            # Para tweets de nitter: convertir link a x.com
+            link = entry.get('link', '')
+            if is_mokedb and link:
+                link = re.sub(r'https?://[^/]+/', 'https://x.com/', link)
+
             pub   = entry.get('published', datetime.now(timezone.utc).isoformat())
             image = get_image(entry)
 
@@ -161,7 +188,12 @@ for src in SOURCES:
             })
             count += 1
 
-        print(f"[OK] {src['name']}: {count} articulos")
+        if count > 0:
+            print(f"[OK] {src['name']}: {count} articulos")
+            if is_mokedb:
+                _mokedb_done = True
+        else:
+            print(f"[EMPTY] {src['name']}: sin entradas")
 
     except Exception as e:
         print(f"[ERROR] {src['name']}: {e}")
