@@ -107,7 +107,7 @@
           <span class="block-title">Top del dia</span>
           <span class="block-sub">Lo mas importante ahora</span>
         </div>
-        <div id="top-container" class="news-list"></div>
+        <div id="top-container" class="top-carousel"></div>
 
         <!-- Tech & AI -->
         <div class="block-header collapsible" onclick="toggleCat('tech')">
@@ -241,6 +241,33 @@
       </section>
 
     </main>
+  </div>
+
+  <!-- Article Modal -->
+  <div id="article-overlay" class="article-overlay" onclick="closeArticle()"></div>
+  <div id="article-sheet" class="article-sheet">
+    <div class="article-handle-bar"></div>
+    <div class="article-scroll" id="article-scroll">
+      <img id="article-hero" class="article-hero" src="" alt="" style="display:none" onerror="this.style.display='none'">
+      <div class="article-inner">
+        <div class="article-meta-row">
+          <span class="article-source-chip" id="article-source"></span>
+          <span class="article-time-chip" id="article-time"></span>
+        </div>
+        <div class="article-title" id="article-title"></div>
+        <div class="article-body" id="article-body"></div>
+        <div class="article-btns">
+          <button class="article-btn-rl" id="modal-rl-btn" onclick="modalToggleRL()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+            Leer despues
+          </button>
+          <button class="article-btn-fav" id="modal-fav-btn" onclick="modalToggleFav()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            Favorito
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 
   <script src="app.js"></script>
