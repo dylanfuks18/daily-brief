@@ -2,16 +2,14 @@
    DAILY BRIEF - app.js
    ============================================= */
 
-const SPORTS_API_DAY  = 'https://www.thesportsdb.com/api/v1/json/3/eventsday.php';
-const SPORTS_API_NEXT = 'https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php';
-
-const FOOTBALL_LEAGUES = [
-  { key: 'champions', label: 'Champions',    id: 4480, terms: ['champions league', 'uefa champions'] },
-  { key: 'premier',   label: 'Premier',      id: 4328, terms: ['english premier', 'premier league'] },
-  { key: 'laliga',    label: 'La Liga',       id: 4335, terms: ['spanish la liga', 'la liga', 'laliga'] },
-  { key: 'libertad',  label: 'Libertadores',  id: 4421, terms: ['copa libertadores', 'libertadores', 'conmebol libertadores'] },
-  { key: 'argentina', label: 'Argentina',     id: 4406, terms: ['argentina primera', 'superliga', 'liga profesional', 'primera nacional'] },
-  { key: 'friendly',  label: 'Amistoso',      id: null, terms: ['international friendl', 'friendl'] },
+// ESPN API publica — sin API key, CORS habilitado, datos en tiempo real
+const ESPN_LEAGUES = [
+  { slug: 'uefa.champions',        label: 'Champions' },
+  { slug: 'eng.1',                 label: 'Premier' },
+  { slug: 'esp.1',                 label: 'La Liga' },
+  { slug: 'conmebol.libertadores', label: 'Libertadores' },
+  { slug: 'arg.1',                 label: 'Argentina' },
+  { slug: 'ger.1',                 label: 'Bundesliga' },
 ];
 
 // 🎬 Cartelera: consegui tu clave GRATIS en themoviedb.org/settings/api (30 segundos)
@@ -543,95 +541,78 @@ function updateBadges() {
   if (fb) { fb.textContent = favorites.length; fb.style.display = favorites.length ? 'inline-block' : 'none'; }
 }
 
-// ---------- FOOTBALL ----------
+// ---------- FOOTBALL (ESPN API) ----------
 async function loadMatches() {
   const container = document.getElementById('matches-container');
-  const dateStr   = new Date().toISOString().split('T')[0];
   try {
-    // Sin filtro &s=Soccer: TheSportsDB a veces clasifica Champions como "Football"
-    const res    = await fetch(`${SPORTS_API_DAY}?d=${dateStr}`, { signal: AbortSignal.timeout(8000) });
-    const data   = await res.json();
-    const events = (data.events || []).filter(ev => {
-      const sp = (ev.strSport || '').toLowerCase();
-      return sp === 'soccer' || sp === 'football';
-    });
+    const results = await Promise.allSettled(
+      ESPN_LEAGUES.map(l =>
+        fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${l.slug}/scoreboard`,
+              { signal: AbortSignal.timeout(8000) })
+          .then(r => r.json())
+          .then(d => ({ label: l.label, events: d.events || [] }))
+      )
+    );
 
-    const grouped = {};
-    FOOTBALL_LEAGUES.forEach(l => { grouped[l.key] = []; });
-    events.forEach(ev => {
-      const league = (ev.strLeague || '').toLowerCase();
-      for (const l of FOOTBALL_LEAGUES) {
-        if (l.terms.some(t => league.includes(t))) { grouped[l.key].push(ev); break; }
+    const cards = [];
+    results.forEach(r => {
+      if (r.status === 'fulfilled') {
+        r.value.events.forEach(ev => {
+          const card = buildMatchCard(ev, r.value.label);
+          if (card) cards.push(card);
+        });
       }
     });
 
-    const cards = [];
-    FOOTBALL_LEAGUES.forEach(l => grouped[l.key].forEach(ev => cards.push(buildMatchCard(ev, l.label, false))));
-
-    if (cards.length > 0) {
-      container.innerHTML = cards.join('');
-    } else {
-      // Sin partidos hoy → cargar próximos de las ligas principales
-      await loadNextLeagueMatches(container);
-    }
+    container.innerHTML = cards.length
+      ? cards.join('')
+      : `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
   } catch {
     container.innerHTML = `<div class="match-no-games">No se pudo cargar partidos.</div>`;
   }
 }
 
-async function loadNextLeagueMatches(container) {
-  const leaguesWithId = FOOTBALL_LEAGUES.filter(l => l.id);
+function buildMatchCard(ev, label) {
   try {
-    const results = await Promise.allSettled(
-      leaguesWithId.map(l =>
-        fetch(`${SPORTS_API_NEXT}?id=${l.id}`, { signal: AbortSignal.timeout(8000) })
-          .then(r => r.json())
-          .then(d => ({ label: l.label, events: (d.events || []).slice(0, 2) }))
-      )
-    );
-    const cards = [];
-    results.forEach(r => {
-      if (r.status === 'fulfilled') {
-        r.value.events.forEach(ev => cards.push(buildMatchCard(ev, r.value.label, true)));
-      }
-    });
-    // Dedup por id de evento
-    const seen = new Set();
-    const unique = cards.filter(c => { const m = c.match(/data-eid="([^"]+)"/); if (!m) return true; if (seen.has(m[1])) return false; seen.add(m[1]); return true; });
-    container.innerHTML = unique.length ? unique.join('') : `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
-  } catch {
-    container.innerHTML = `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
-  }
-}
+    const comp = ev.competitions?.[0];
+    if (!comp) return null;
+    const home = comp.competitors?.find(c => c.homeAway === 'home');
+    const away = comp.competitors?.find(c => c.homeAway === 'away');
+    if (!home || !away) return null;
 
-function buildMatchCard(ev, label, upcoming = false) {
-  const status   = ev.strStatus || '';
-  const isLive   = /^\d+$/.test(status) || status === 'HT';
-  const finished = status === 'Match Finished';
-  const hasScore = ev.intHomeScore != null && ev.intAwayScore != null;
-  let timeHtml;
-  if (isLive) {
-    timeHtml = `<span class="match-time live">EN VIVO${status ? ' &bull; ' + status + "'" : ''}</span>`;
-  } else if (finished && hasScore) {
-    timeHtml = `<span class="match-score">${ev.intHomeScore} - ${ev.intAwayScore}</span>`;
-  } else if (upcoming && ev.dateEvent) {
-    const d = new Date(ev.dateEvent + 'T' + (ev.strTime || '00:00:00'));
-    const dateLabel = d.toLocaleDateString('es-AR', { day: 'numeric', month: 'short' });
-    const timeLabel = ev.strTime ? ev.strTime.slice(0, 5) : '';
-    timeHtml = `<span class="match-time">${dateLabel}${timeLabel ? ' · ' + timeLabel : ''}</span>`;
-  } else {
-    timeHtml = `<span class="match-time">${(ev.strTime || '').slice(0,5) || 'Hoy'}</span>`;
-  }
-  return `
-  <div class="match-card" data-eid="${ev.idEvent || ''}">
-    <div class="match-league">${label}</div>
-    <div class="match-teams">
-      <span class="match-team">${ev.strHomeTeam || ''}</span>
-      <span class="match-vs">vs</span>
-      <span class="match-team">${ev.strAwayTeam || ''}</span>
-    </div>
-    ${timeHtml}
-  </div>`;
+    const statusName = ev.status?.type?.name || '';
+    const isLive     = statusName === 'STATUS_IN_PROGRESS';
+    const isHalf     = statusName === 'STATUS_HALFTIME';
+    const isFinished = statusName === 'STATUS_FINAL';
+    const clock      = ev.status?.displayClock || '';
+
+    let timeHtml;
+    if (isLive) {
+      timeHtml = `<span class="match-time live">EN VIVO &bull; ${clock}</span>`;
+    } else if (isHalf) {
+      timeHtml = `<span class="match-time live">ENTRETIEMPO</span>`;
+    } else if (isFinished) {
+      timeHtml = `<span class="match-score">${home.score} - ${away.score}</span>`;
+    } else {
+      const d = new Date(ev.date);
+      const t = d.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' });
+      timeHtml = `<span class="match-time">${t}</span>`;
+    }
+
+    const homeName = home.team?.shortDisplayName || home.team?.displayName || '';
+    const awayName = away.team?.shortDisplayName || away.team?.displayName || '';
+
+    return `
+    <div class="match-card">
+      <div class="match-league">${label}</div>
+      <div class="match-teams">
+        <span class="match-team">${homeName}</span>
+        <span class="match-vs">vs</span>
+        <span class="match-team">${awayName}</span>
+      </div>
+      ${timeHtml}
+    </div>`;
+  } catch { return null; }
 }
 
 // ---------- CARTELERA (TMDB) ----------
@@ -653,7 +634,9 @@ async function loadCartelera() {
     const url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${TMDB_KEY}&language=es-AR&region=AR`;
     const res  = await fetch(url, { signal: AbortSignal.timeout(8000) });
     const data = await res.json();
-    const movies = (data.results || []).slice(0, 10);
+    const movies = (data.results || [])
+      .sort((a, b) => new Date(b.release_date) - new Date(a.release_date))
+      .slice(0, 10);
     if (!movies.length) throw new Error('no movies');
 
     const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
