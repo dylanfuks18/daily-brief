@@ -331,6 +331,25 @@ a { text-decoration: none; color: inherit; }
   line-height: 1.75; margin-bottom: 24px;
 }
 
+/* Bold text dentro del artículo */
+.article-body strong { color: var(--text); font-weight: 700; }
+.article-body p { margin-bottom: 14px; }
+.article-body p:last-child { margin-bottom: 0; }
+
+/* Botón cargar artículo completo */
+.article-fetch-btn {
+  display: flex; align-items: center; justify-content: center;
+  width: 100%; padding: 13px 16px; margin-bottom: 20px;
+  background: var(--accent-dim);
+  border: 1px solid rgba(191,90,242,0.3);
+  border-radius: 12px;
+  font-size: 14px; font-weight: 700;
+  color: var(--accent); letter-spacing: 0.1px;
+  transition: background 0.15s;
+}
+.article-fetch-btn:active { background: rgba(191,90,242,0.25); }
+.article-fetch-btn:disabled { opacity: 0.5; }
+
 .article-btns { display: flex; gap: 10px; }
 
 .article-btn-rl, .article-btn-fav {

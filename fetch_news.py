@@ -99,12 +99,23 @@ def get_image(entry):
     return ''
 
 
+CRIME_KWS = ['muri', 'falleci', 'asesin', 'crimen', 'homicid', 'femicid',
+             'tragedia', 'accidente fatal', 'muerto', 'muertos', 'cadaver',
+             'violacion', 'secuestr', 'narco', 'droga', 'detenido', 'preso']
+
 def classify(title, desc, default_cat):
+    text = (title + ' ' + desc).lower()
+
+    # Prevenir que noticias de crimen/violencia queden en deportes o cine
+    if default_cat in ('sports', 'cinema') and any(k in text for k in CRIME_KWS):
+        default_cat = 'general'
+
     if default_cat not in ('general', 'economy'):
         return default_cat
-    text = (title + ' ' + desc).lower()
-    for cat, kws in KEYWORDS.items():
-        if any(k in text for k in kws):
+
+    # Orden de prioridad: mas especifico primero
+    for cat in ['israel', 'ar_pol', 'tech', 'cinema', 'sports', 'poleco']:
+        if any(k in text for k in KEYWORDS.get(cat, [])):
             return cat
     return 'poleco'
 

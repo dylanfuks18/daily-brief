@@ -13,6 +13,35 @@ const FOOTBALL_LEAGUES = [
 
 const CAT_EMOJI = { tech: '🤖', israel: '🌍', poleco: '🏛️', sports: '⚽', cinema: '🎬', ar_pol: '🇦🇷' };
 
+// ---------- BOLD TEXT PROCESSOR ----------
+function boldifyText(text) {
+  if (!text) return '';
+  // Escape HTML primero
+  const escaped = text
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+  let result = escaped;
+
+  // Bold números con contexto (%, $, cantidades)
+  result = result.replace(/\b(\d[\d.,]*\s*(?:%|millones?|mil|dólares?|pesos?|USD|€|km|km²|años?|meses?|días?|horas?|muertos?|heridos?|presos?)?)\b/g,
+    '<strong>$1</strong>');
+
+  // Bold texto entre comillas
+  result = result.replace(/[""]([^""]{4,60})[""]|"([^"]{4,60})"/g,
+    (m, a, b) => `"<strong>${a || b}</strong>"`);
+
+  // Bold nombres propios (2+ palabras capitalizadas consecutivas)
+  result = result.replace(/(?<![.!?]\s)(?<![<>])([A-ZÁÉÍÓÚÑÜ][a-záéíóúñü]{2,}(?:\s+[A-ZÁÉÍÓÚÑÜ][a-záéíóúñü]{2,})+)/g,
+    '<strong>$1</strong>');
+
+  // Convertir párrafos (doble salto de línea)
+  result = '<p>' + result.split(/\n\n+/).join('</p><p>') + '</p>';
+  // Saltos simples → <br>
+  result = result.replace(/([^>])\n([^<])/g, '$1<br>$2');
+
+  return result;
+}
+
 // ---------- STATE ----------
 let allArticles    = [];
 let isDark         = localStorage.getItem('theme') !== 'light';
@@ -253,25 +282,89 @@ function openArticle(id) {
   currentArticle = a;
 
   const hero = document.getElementById('article-hero');
-  if (a.image) {
-    hero.src = a.image;
-    hero.style.display = 'block';
-  } else {
-    hero.style.display = 'none';
-    hero.src = '';
-  }
+  if (a.image) { hero.src = a.image; hero.style.display = 'block'; }
+  else { hero.style.display = 'none'; hero.src = ''; }
 
   document.getElementById('article-source').textContent = a.source;
   document.getElementById('article-time').textContent   = timeAgo(a.pubDate);
   document.getElementById('article-title').textContent  = a.title;
-  document.getElementById('article-body').textContent   = a.summary || 'Sin contenido disponible.';
+
+  const bodyEl = document.getElementById('article-body');
+  bodyEl.innerHTML = boldifyText(a.summary || '');
+
+  // Botón "leer artículo completo" si el contenido es corto
+  const existingBtn = document.getElementById('article-load-btn');
+  if (existingBtn) existingBtn.remove();
+
+  if (!a.summary || a.summary.length < 400) {
+    const btn = document.createElement('button');
+    btn.id = 'article-load-btn';
+    btn.className = 'article-fetch-btn';
+    btn.textContent = 'Cargar artículo completo →';
+    btn.onclick = () => loadFullArticle(a.link, btn);
+    bodyEl.after(btn);
+  }
 
   updateModalButtons();
-
   document.getElementById('article-scroll').scrollTop = 0;
   document.getElementById('article-overlay').classList.add('open');
   document.getElementById('article-sheet').classList.add('open');
   document.body.style.overflow = 'hidden';
+}
+
+// ---------- FULL ARTICLE FETCHER ----------
+async function loadFullArticle(url, btn) {
+  if (!url || url === '#') {
+    btn.textContent = 'No hay URL disponible.';
+    btn.disabled = true;
+    return;
+  }
+  btn.textContent = 'Cargando artículo...';
+  btn.disabled = true;
+
+  try {
+    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+    const res  = await fetch(proxyUrl, { signal: AbortSignal.timeout(12000) });
+    const data = await res.json();
+    if (!data.contents) throw new Error('sin contenido');
+
+    const parser = new DOMParser();
+    const doc    = parser.parseFromString(data.contents, 'text/html');
+
+    // Limpiar basura
+    ['script','style','nav','header','footer','aside','iframe','form',
+     '.ads','.ad','.advertisement','.related-posts','.share','.social',
+     '.newsletter','.cookie','.popup','.sidebar'].forEach(sel => {
+      doc.querySelectorAll(sel).forEach(el => el.remove());
+    });
+
+    // Buscar contenido principal
+    let mainEl = null;
+    for (const sel of [
+      'article', '[itemprop="articleBody"]', '.article-body',
+      '.article-content', '.post-content', '.entry-content',
+      '.nota-cuerpo', '.cuerpo-nota', '.content-body', 'main'
+    ]) {
+      const el = doc.querySelector(sel);
+      if (el && el.textContent.trim().length > 200) { mainEl = el; break; }
+    }
+    if (!mainEl) mainEl = doc.body;
+
+    const paras = Array.from(mainEl.querySelectorAll('p'))
+      .map(p => p.textContent.trim())
+      .filter(t => t.length > 40);
+
+    if (paras.length > 0) {
+      const full = paras.join('\n\n');
+      document.getElementById('article-body').innerHTML = boldifyText(full);
+      btn.remove();
+    } else {
+      throw new Error('sin párrafos');
+    }
+  } catch {
+    btn.textContent = 'No se pudo cargar. Intentá de nuevo.';
+    btn.disabled = false;
+  }
 }
 
 function closeArticle() {
