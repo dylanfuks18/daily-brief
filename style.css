@@ -127,7 +127,9 @@ a { text-decoration: none; color: inherit; }
 .match-placeholder { font-size: 13px; color: var(--text3); padding: 14px 0; }
 .match-card { flex-shrink: 0; background: var(--bg2); border-radius: var(--card-radius); padding: 12px 14px; min-width: 150px; max-width: 175px; display: flex; flex-direction: column; gap: 6px; border: 1px solid var(--separator); }
 .match-league { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: var(--accent); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.match-teams { display: flex; flex-direction: column; gap: 2px; }
+.match-teams { display: flex; flex-direction: column; gap: 4px; }
+.match-team-row { display: flex; align-items: center; gap: 6px; min-width: 0; }
+.match-team-logo { width: 18px; height: 18px; object-fit: contain; flex-shrink: 0; }
 .match-team { font-size: 13px; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .match-vs { font-size: 10px; color: var(--text3); font-weight: 500; }
 .match-time { font-size: 12px; font-weight: 700; color: var(--green); margin-top: 2px; }

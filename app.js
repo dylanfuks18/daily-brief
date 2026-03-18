@@ -4,12 +4,12 @@
 
 // ESPN API publica — sin API key, CORS habilitado, datos en tiempo real
 const ESPN_LEAGUES = [
-  { slug: 'uefa.champions',        label: 'Champions' },
-  { slug: 'eng.1',                 label: 'Premier' },
-  { slug: 'esp.1',                 label: 'La Liga' },
-  { slug: 'conmebol.libertadores', label: 'Libertadores' },
-  { slug: 'arg.1',                 label: 'Argentina' },
-  { slug: 'ger.1',                 label: 'Bundesliga' },
+  { slug: 'uefa.champions',        label: 'Champions',    emoji: '🏆' },
+  { slug: 'eng.1',                 label: 'Premier',      emoji: '🏴󠁧󠁢󠁥󠁮󠁧󠁿' },
+  { slug: 'esp.1',                 label: 'La Liga',      emoji: '🇪🇸' },
+  { slug: 'conmebol.libertadores', label: 'Libertadores', emoji: '🌎' },
+  { slug: 'arg.1',                 label: 'Argentina',    emoji: '🇦🇷' },
+  { slug: 'ger.1',                 label: 'Bundesliga',   emoji: '🇩🇪' },
 ];
 
 // 🎬 Cartelera: consegui tu clave GRATIS en themoviedb.org/settings/api (30 segundos)
@@ -550,7 +550,7 @@ async function loadMatches() {
         fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${l.slug}/scoreboard`,
               { signal: AbortSignal.timeout(8000) })
           .then(r => r.json())
-          .then(d => ({ label: l.label, events: d.events || [] }))
+          .then(d => ({ label: l.label, emoji: l.emoji, events: d.events || [] }))
       )
     );
 
@@ -558,7 +558,7 @@ async function loadMatches() {
     results.forEach(r => {
       if (r.status === 'fulfilled') {
         r.value.events.forEach(ev => {
-          const card = buildMatchCard(ev, r.value.label);
+          const card = buildMatchCard(ev, r.value.label, r.value.emoji);
           if (card) cards.push(card);
         });
       }
@@ -572,7 +572,7 @@ async function loadMatches() {
   }
 }
 
-function buildMatchCard(ev, label) {
+function buildMatchCard(ev, label, emoji = '') {
   try {
     const comp = ev.competitions?.[0];
     if (!comp) return null;
@@ -601,14 +601,19 @@ function buildMatchCard(ev, label) {
 
     const homeName = home.team?.shortDisplayName || home.team?.displayName || '';
     const awayName = away.team?.shortDisplayName || away.team?.displayName || '';
+    const homeLogo = home.team?.logo || '';
+    const awayLogo = away.team?.logo || '';
+
+    const logoImg = (url, name) => url
+      ? `<img class="match-team-logo" src="${url}" alt="${name}" onerror="this.style.display='none'">`
+      : '';
 
     return `
     <div class="match-card">
-      <div class="match-league">${label}</div>
+      <div class="match-league">${emoji ? emoji + ' ' : ''}${label}</div>
       <div class="match-teams">
-        <span class="match-team">${homeName}</span>
-        <span class="match-vs">vs</span>
-        <span class="match-team">${awayName}</span>
+        <div class="match-team-row">${logoImg(homeLogo, homeName)}<span class="match-team">${homeName}</span></div>
+        <div class="match-team-row">${logoImg(awayLogo, awayName)}<span class="match-team">${awayName}</span></div>
       </div>
       ${timeHtml}
     </div>`;
