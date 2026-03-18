@@ -20,31 +20,31 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cuY2xh",
-      "title": "Un caso y tres postales de una tragedia social",
-      "summary": "El estallido de los grandes clanes afianza a las bandas como instancia socializadora de normas, prácticas, lenguajes, y creencias compartidas. Radiografía de la inseguridad en el Conurbano bonaerense.",
-      "link": "https://www.clarin.com/opinion/caso-postales-tragedia-social_0_2RKUvwr0x8.html",
-      "pubDate": "Tue, 17 Mar 2026 22:27:57 +0000",
+      "title": "Qué decisión tomó Senegal luego de que le quitaran el título de la Copa Africana",
+      "summary": "La Federación de fútbol de ese país recurrirá al TAS luego de que la Confederación continental diera como vencedor de la final a Marruecos. Argumentan que es una “decisión injusta”.",
+      "link": "https://www.clarin.com/deportes/decision-tomo-senegal-luego-quitaran-titulo-copa-africana_0_zdcFQaQjdh.html",
+      "pubDate": "Wed, 18 Mar 2026 06:17:33 +0000",
       "source": "Clarin",
-      "cat": "poleco"
-    },
-    {
-      "id": "aHR0cHM6Ly9oaXBlcnRl",
-      "title": "El Galaxy A57 estrenará una función exclusiva del Galaxy S26",
-      "summary": "Samsung está a punto de eliminar una de las diferencias de software más marcadas entre sus móviles caros y la gama media. Según las últimas filtraciones, el Galaxy A57 debutará con el asistente de transcripción, una función de IA que hasta ahora es exclusiva de la familia Galaxy S. De acuerdo con SamMobile , el Galaxy A57 será el primer terminal de Samsung de gama media en contar con Transcript Assist . Esta herramienta, que se estrenó en el Galaxy S24, permite convertir nuestros archivos de audio a texto. La surcoreana echa mano de la suite Galaxy AI para transcribir el contenido usando los modelos de IA que se ejecutan en el móvil. Una imagen compartida por el usuario @Alfaturk16 en X muestra que el asistente de transcripción ya forma parte del Galaxy A57. Debido a que el lanzamiento del",
-      "link": "https://hipertextual.com/tecnologia/samsung-galaxy-a57-transcript-assist/",
-      "pubDate": "Tue, 17 Mar 2026 21:50:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech"
+      "cat": "sports"
     },
     {
       "id": "aHR0cHM6Ly93d3cuYmJj",
-      "title": "Dimite el jefe de la lucha antiterrorista de EE.UU. al considerar que Irán \"no presentaba una amenaza inminente\"",
-      "summary": "El director del Centro Nacional de Antiterrorismo, Joe Kent, alegó que Trump había iniciado la guerra en Irán por \"la presión de Israel y de su poderoso lobby estadounidense\".",
-      "link": "https://www.bbc.com/mundo/articles/c4gengw836po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 17 Mar 2026 19:55:10 GMT",
+      "title": "Los retos políticos que enfrenta Netanyahu en Israel a medida que se desvanecen las esperanzas de un cambio de régimen en Irán",
+      "summary": "Los líderes israelíes presentan la campaña de bombardeos como algo que ha transformado Medio Oriente a su favor, a medida que aumenta la presión para poner fin al conflicto en Irán.",
+      "link": "https://www.bbc.com/mundo/articles/c0mgdl490xyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 18 Mar 2026 03:43:20 GMT",
       "source": "BBC Mundo",
       "cat": "israel"
+    },
+    {
+      "id": "aHR0cHM6Ly9oaXBlcnRl",
+      "title": "Spotify por fin permite audio sin pérdidas en PC: así cambia el sonido de tus canciones",
+      "summary": "Spotify ha activado la función que los audiófilos han esperado durante años. La compañía anunció el Exclusive Mode ( Modo Exclusivo ), un agregado de la app de escritorio que permite reproducir música con la mayor calidad posible . Al activarla, Spotify se encarga de procesar el audio para entregarlo \"tal y como fue masterizado con reproducción Bit Perfect\". De acuerdo con una publicación en su web , el objetivo de este modo es ofrecer una reproducción limpia, especialmente para aquellos que escuchan música en formato FLAC de hasta 24 bits . Spotify afirma que, sin el Modo Exclusivo activado, tu ordenador puede alterar el audio remuestreándolo o cambiando el volumen. Una vez que lo habilitas, la aplicación enviará los datos directamente al DAC . Si bien el Modo Exclusivo suena a un complem",
+      "link": "https://hipertextual.com/software/spotify-por-fin-permite-audio-sin-perdidas-en-pc-asi-cambia-el-sonido-de-tus-canciones/",
+      "pubDate": "Tue, 17 Mar 2026 23:05:45 +0000",
+      "source": "Hipertextual",
+      "cat": "tech"
     }
   ],
-  "updated": "2026-03-17T22:41:48.972405+00:00"
+  "updated": "2026-03-18T07:12:50.075398+00:00"
 }
