@@ -223,25 +223,81 @@ function renderTweetCarousel(id, articles) {
   const el = document.getElementById(id);
   if (!el) return;
   if (!articles.length) {
-    // Fallback cuando nitter está caído: link directo a la cuenta
-    el.innerHTML = `
-      <div class="tweet-scroll">
-        <a href="https://x.com/MokedBitajon" target="_blank" rel="noopener" class="tweet-card tweet-fallback" style="text-decoration:none">
-          <div class="tweet-header">
-            <div class="tweet-avatar">
-              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+    // Nitter no tenía tweets en news.json → intentar fetch client-side con proxy
+    el.innerHTML = `<div class="tweet-scroll"><div class="tweet-card" style="opacity:.5;pointer-events:none">
+      <div class="tweet-header"><div class="tweet-avatar">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </div><div class="tweet-handle-col"><div class="tweet-name">Moked Bitajon</div><div class="tweet-at">Cargando tweets…</div></div></div>
+    </div></div>`;
+    tryFetchTweetsClientSide().then(tweets => {
+      if (tweets.length) {
+        el.innerHTML = `<div class="tweet-scroll">${tweets.map(buildTweetCard).join('')}</div>`;
+      } else {
+        el.innerHTML = `<div class="tweet-scroll">
+          <a href="https://x.com/MokedBitajon" target="_blank" rel="noopener" class="tweet-card" style="text-decoration:none">
+            <div class="tweet-header">
+              <div class="tweet-avatar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div>
+              <div class="tweet-handle-col"><div class="tweet-name">Moked Bitajon</div><div class="tweet-at">@MokedBitajon</div></div>
             </div>
-            <div class="tweet-handle-col">
-              <div class="tweet-name">Moked Bitajon</div>
-              <div class="tweet-at">@MokedBitajon</div>
-            </div>
-          </div>
-          <div class="tweet-body" style="color:var(--text3)">Ver los últimos tweets de la cuenta oficial →</div>
-        </a>
-      </div>`;
+            <div class="tweet-body" style="color:var(--text3)">Abrir cuenta en X →</div>
+          </a></div>`;
+      }
+    });
     return;
   }
   el.innerHTML = `<div class="tweet-scroll">${articles.map(buildTweetCard).join('')}</div>`;
+}
+
+// Intenta cargar tweets de @MokedBitajon directamente desde el navegador via CORS proxy
+async function tryFetchTweetsClientSide() {
+  const NITTER = [
+    'https://nitter.privacydev.net',
+    'https://nitter.poast.org',
+    'https://nitter.tiekoetter.com',
+    'https://nitter.net',
+    'https://nitter.kavin.rocks',
+  ];
+  const MAX_AGE = 14 * 86400000;
+
+  for (const base of NITTER) {
+    try {
+      const rssUrl = `${base}/MokedBitajon/rss`;
+      const res = await fetch(
+        `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`,
+        { signal: AbortSignal.timeout(10000) }
+      );
+      const data = await res.json();
+      if (!data.contents || (data.status?.http_code ?? 200) !== 200) continue;
+
+      // Extraer <item> del RSS con regex (más robusto que DOMParser para XML mixto)
+      const items = data.contents.match(/<item>([\s\S]*?)<\/item>/g) || [];
+      const now = Date.now();
+
+      const get = (raw, tag) => {
+        const m = raw.match(new RegExp(`<${tag}[^>]*>(?:<!\\[CDATA\\[)?((?:.|\\n)*?)(?:\\]\\]>)?<\\/${tag}>`, 'i'));
+        return m ? m[1].replace(/<[^>]+>/g, '').trim() : '';
+      };
+
+      const tweets = items.map(raw => {
+        const title   = get(raw, 'title');
+        const pubDate = get(raw, 'pubDate');
+        const desc    = get(raw, 'description');
+        // <link> en RSS está como texto suelto entre tags, no como atributo
+        const linkM   = raw.match(/<link>(.*?)<\/link>/i) || raw.match(/<link\s*\/?>([^<]+)/i);
+        const rawLink = linkM ? linkM[1].trim() : '';
+        const xUrl    = rawLink.replace(/https?:\/\/[^/]+\//, 'https://x.com/');
+
+        if (!title || title.length < 10) return null;
+        if (pubDate && now - new Date(pubDate).getTime() > MAX_AGE) return null;
+        return { id: btoa(unescape(encodeURIComponent(xUrl || title))).slice(0, 20),
+                 title, summary: desc || title, link: xUrl, pubDate,
+                 source: 'MokedBitajon', cat: 'israel' };
+      }).filter(Boolean).slice(0, 8);
+
+      if (tweets.length) return tweets;
+    } catch { continue; }
+  }
+  return [];
 }
 
 function buildTweetCard(a) {
@@ -606,13 +662,14 @@ function updateBadges() {
 async function loadMatches() {
   const container = document.getElementById('matches-container');
   try {
-    // Pedir hoy + ayer para capturar partidos recién terminados
-    const fmt = d => d.toISOString().slice(0, 10).replace(/-/g, '');
+    // Usar fecha LOCAL (no UTC) para evitar desfase en Argentina de noche
+    const fmtLocal = d =>
+      `${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`;
     const today     = new Date();
     const yesterday = new Date(today.getTime() - 86400000);
 
     const fetchDay = (league, date) =>
-      fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${league.slug}/scoreboard?dates=${fmt(date)}`,
+      fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${league.slug}/scoreboard?dates=${fmtLocal(date)}`,
             { signal: AbortSignal.timeout(8000) })
         .then(r => r.json())
         .then(d => ({ label: league.label, emoji: league.emoji, events: d.events || [] }));
