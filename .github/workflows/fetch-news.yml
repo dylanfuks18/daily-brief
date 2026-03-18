@@ -2,7 +2,7 @@ name: Fetch News
 
 on:
   schedule:
-    - cron: '0 6,10,14,18,22 * * *'  # 5 veces por dia
+    - cron: '0 */2 * * *'  # cada 2 horas — automatico, sin tocar nada
   workflow_dispatch:  # permite ejecutar manualmente
 
 permissions:

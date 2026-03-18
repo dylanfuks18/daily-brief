@@ -23,10 +23,13 @@ SOURCES = [
     # --- ISRAEL & MEDIO ORIENTE (directo) ---
     {'url': 'https://es.timesofisrael.com/feed/',                 'cat': 'israel',  'name': 'Times of Israel'},
 
-    # --- @MokedBitajon en X (via nitter — se intenta en orden) ---
+    # --- @MokedBitajon en X (via nitter — se intenta en orden hasta que una responda) ---
     {'url': 'https://nitter.privacydev.net/MokedBitajon/rss',    'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://nitter.poast.org/MokedBitajon/rss',         'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://nitter.net/MokedBitajon/rss',               'cat': 'israel',  'name': 'MokedBitajon'},
+    {'url': 'https://nitter.tiekoetter.com/MokedBitajon/rss',    'cat': 'israel',  'name': 'MokedBitajon'},
+    {'url': 'https://nitter.1d4.us/MokedBitajon/rss',            'cat': 'israel',  'name': 'MokedBitajon'},
+    {'url': 'https://nitter.kavin.rocks/MokedBitajon/rss',       'cat': 'israel',  'name': 'MokedBitajon'},
 
     # --- ECONOMIA ---
     {'url': 'https://www.ambito.com/rss.html',                    'cat': 'economy', 'name': 'Ambito'},

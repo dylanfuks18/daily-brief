@@ -222,7 +222,25 @@ function renderAll() {
 function renderTweetCarousel(id, articles) {
   const el = document.getElementById(id);
   if (!el) return;
-  if (!articles.length) { el.innerHTML = ''; return; }
+  if (!articles.length) {
+    // Fallback cuando nitter está caído: link directo a la cuenta
+    el.innerHTML = `
+      <div class="tweet-scroll">
+        <a href="https://x.com/MokedBitajon" target="_blank" rel="noopener" class="tweet-card tweet-fallback" style="text-decoration:none">
+          <div class="tweet-header">
+            <div class="tweet-avatar">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </div>
+            <div class="tweet-handle-col">
+              <div class="tweet-name">Moked Bitajon</div>
+              <div class="tweet-at">@MokedBitajon</div>
+            </div>
+          </div>
+          <div class="tweet-body" style="color:var(--text3)">Ver los últimos tweets de la cuenta oficial →</div>
+        </a>
+      </div>`;
+    return;
+  }
   el.innerHTML = `<div class="tweet-scroll">${articles.map(buildTweetCard).join('')}</div>`;
 }
 
@@ -588,28 +606,49 @@ function updateBadges() {
 async function loadMatches() {
   const container = document.getElementById('matches-container');
   try {
+    // Pedir hoy + ayer para capturar partidos recién terminados
+    const fmt = d => d.toISOString().slice(0, 10).replace(/-/g, '');
+    const today     = new Date();
+    const yesterday = new Date(today.getTime() - 86400000);
+
+    const fetchDay = (league, date) =>
+      fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${league.slug}/scoreboard?dates=${fmt(date)}`,
+            { signal: AbortSignal.timeout(8000) })
+        .then(r => r.json())
+        .then(d => ({ label: league.label, emoji: league.emoji, events: d.events || [] }));
+
     const results = await Promise.allSettled(
-      ESPN_LEAGUES.map(l =>
-        fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${l.slug}/scoreboard`,
-              { signal: AbortSignal.timeout(8000) })
-          .then(r => r.json())
-          .then(d => ({ label: l.label, emoji: l.emoji, events: d.events || [] }))
-      )
+      ESPN_LEAGUES.flatMap(l => [fetchDay(l, today), fetchDay(l, yesterday)])
     );
 
-    const cards = [];
+    // Deduplicar por ID de evento
+    const seenIds = new Set();
+    const entries = [];
     results.forEach(r => {
-      if (r.status === 'fulfilled') {
-        r.value.events.forEach(ev => {
-          const card = buildMatchCard(ev, r.value.label, r.value.emoji);
-          if (card) cards.push(card);
-        });
-      }
+      if (r.status !== 'fulfilled') return;
+      r.value.events.forEach(ev => {
+        if (seenIds.has(ev.id)) return;
+        seenIds.add(ev.id);
+        const card       = buildMatchCard(ev, r.value.label, r.value.emoji);
+        const statusName = ev.status?.type?.name || '';
+        const isLive     = statusName === 'STATUS_IN_PROGRESS' || statusName === 'STATUS_HALFTIME';
+        const isFinished = statusName === 'STATUS_FINAL';
+        if (card) entries.push({ card, isLive, isFinished, date: new Date(ev.date) });
+      });
     });
 
-    container.innerHTML = cards.length
-      ? cards.join('')
-      : `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
+    // Orden: en vivo primero → programados → finalizados (más reciente primero)
+    entries.sort((a, b) => {
+      if (a.isLive  && !b.isLive)     return -1;
+      if (!a.isLive && b.isLive)      return  1;
+      if (!a.isFinished && b.isFinished) return -1;
+      if (a.isFinished && !b.isFinished) return  1;
+      return b.date - a.date;
+    });
+
+    container.innerHTML = entries.length
+      ? entries.map(e => e.card).join('')
+      : `<div class="match-no-games">Sin partidos de interés hoy.</div>`;
   } catch {
     container.innerHTML = `<div class="match-no-games">No se pudo cargar partidos.</div>`;
   }
