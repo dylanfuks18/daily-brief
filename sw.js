@@ -1,9 +1,11 @@
-const CACHE = 'daily-brief-v3';
-const SHELL = ['/', '/index.html', '/style.css', '/app.js', '/manifest.json'];
+const CACHE = 'daily-brief-v4';
+const SHELL = ['/', '/index.html', '/manifest.json'];
 
 self.addEventListener('install', e => {
+  // skipWaiting siempre — no bloquear en caso de fallo de cache
+  self.skipWaiting();
   e.waitUntil(
-    caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())
+    caches.open(CACHE).then(c => c.addAll(SHELL)).catch(() => {})
   );
 });
 
