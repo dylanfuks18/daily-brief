@@ -16,7 +16,7 @@ const FOOTBALL_LEAGUES = [
 
 // 🎬 Cartelera: consegui tu clave GRATIS en themoviedb.org/settings/api (30 segundos)
 // Sin clave igual aparece el link a Showcase Belgrano
-const TMDB_KEY = '';
+const TMDB_KEY = '504f14f901ce7bdd31f468dadcd79165';
 
 const CAT_EMOJI = { tech: '🤖', israel: '🌍', poleco: '🏛️', sports: '⚽', cinema: '🎬', ar_pol: '🇦🇷' };
 
