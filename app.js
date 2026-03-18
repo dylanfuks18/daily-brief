@@ -14,6 +14,10 @@ const FOOTBALL_LEAGUES = [
   { key: 'friendly',  label: 'Amistoso',      id: null, terms: ['international friendl', 'friendl'] },
 ];
 
+// 🎬 Cartelera: consegui tu clave GRATIS en themoviedb.org/settings/api (30 segundos)
+// Sin clave igual aparece el link a Showcase Belgrano
+const TMDB_KEY = '';
+
 const CAT_EMOJI = { tech: '🤖', israel: '🌍', poleco: '🏛️', sports: '⚽', cinema: '🎬', ar_pol: '🇦🇷' };
 
 // ---------- BOLD TEXT PROCESSOR ----------
@@ -142,7 +146,7 @@ function refreshAll() {
 async function loadAll() {
   ['cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema','argentina-container','jobs-news-container']
     .forEach(id => showSkeletons(id, 3));
-  await Promise.all([loadMatches(), fetchNews()]);
+  await Promise.all([loadMatches(), fetchNews(), loadCartelera()]);
   renderAll();
 }
 
@@ -354,7 +358,9 @@ async function loadFullArticle(url, btn) {
       if (!res.ok) continue;
       if (isJson) {
         const data = await res.json();
-        if (data.contents && data.contents.length > 200) { html = data.contents; break; }
+        // allorigins.win devuelve status.http_code — verificar que el sitio respondió 200
+        const httpCode = data?.status?.http_code ?? 200;
+        if (data.contents && data.contents.length > 200 && httpCode === 200) { html = data.contents; break; }
       } else {
         const text = await res.text();
         if (text && text.length > 200) { html = text; break; }
@@ -542,9 +548,13 @@ async function loadMatches() {
   const container = document.getElementById('matches-container');
   const dateStr   = new Date().toISOString().split('T')[0];
   try {
-    const res    = await fetch(`${SPORTS_API_DAY}?d=${dateStr}&s=Soccer`, { signal: AbortSignal.timeout(8000) });
+    // Sin filtro &s=Soccer: TheSportsDB a veces clasifica Champions como "Football"
+    const res    = await fetch(`${SPORTS_API_DAY}?d=${dateStr}`, { signal: AbortSignal.timeout(8000) });
     const data   = await res.json();
-    const events = data.events || [];
+    const events = (data.events || []).filter(ev => {
+      const sp = (ev.strSport || '').toLowerCase();
+      return sp === 'soccer' || sp === 'football';
+    });
 
     const grouped = {};
     FOOTBALL_LEAGUES.forEach(l => { grouped[l.key] = []; });
@@ -622,4 +632,64 @@ function buildMatchCard(ev, label, upcoming = false) {
     </div>
     ${timeHtml}
   </div>`;
+}
+
+// ---------- CARTELERA (TMDB) ----------
+async function loadCartelera() {
+  const el = document.getElementById('cartelera-container');
+  if (!el) return;
+
+  // Sin clave TMDB: link directo a Showcase Belgrano
+  if (!TMDB_KEY) {
+    el.innerHTML = `
+      <a href="https://www.showcasecines.com.ar/cine/belgrano" target="_blank" rel="noopener" class="cartelera-link">
+        <span>🍿</span> Ver cartelera Showcase Belgrano &rarr;
+      </a>`;
+    return;
+  }
+
+  el.innerHTML = '<div class="match-placeholder" style="padding-left:16px">Cargando cartelera...</div>';
+  try {
+    const url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${TMDB_KEY}&language=es-AR&region=AR`;
+    const res  = await fetch(url, { signal: AbortSignal.timeout(8000) });
+    const data = await res.json();
+    const movies = (data.results || []).slice(0, 10);
+    if (!movies.length) throw new Error('no movies');
+
+    const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+
+    el.innerHTML = `
+      <div class="cartelera-scroll">
+        ${movies.map(m => {
+          const releaseDate = m.release_date ? new Date(m.release_date) : null;
+          const isNew = releaseDate && releaseDate.getTime() >= oneWeekAgo;
+          const dateLabel = releaseDate
+            ? releaseDate.toLocaleDateString('es-AR', { day: 'numeric', month: 'short' })
+            : '';
+          return `
+          <div class="cartelera-card">
+            ${m.poster_path
+              ? `<img class="cartelera-poster" src="https://image.tmdb.org/t/p/w154${m.poster_path}" alt="" loading="lazy" onerror="this.parentNode.querySelector('.cartelera-no-poster').style.display='flex';this.style.display='none'">`
+              : ''}
+            <div class="cartelera-no-poster" style="${m.poster_path ? 'display:none' : ''}">🎬</div>
+            <div class="cartelera-info">
+              ${isNew ? '<div class="cartelera-new">⭐ Nuevo</div>' : ''}
+              <div class="cartelera-title">${m.title || ''}</div>
+              <div class="cartelera-meta">
+                ${dateLabel ? `<div class="cartelera-date">${dateLabel}</div>` : ''}
+                ${m.vote_average ? `<div class="cartelera-rating">★ ${m.vote_average.toFixed(1)}</div>` : ''}
+              </div>
+            </div>
+          </div>`;
+        }).join('')}
+      </div>
+      <a href="https://www.showcasecines.com.ar/cine/belgrano" target="_blank" rel="noopener" class="cartelera-link">
+        Ver horarios en Showcase Belgrano &rarr;
+      </a>`;
+  } catch {
+    el.innerHTML = `
+      <a href="https://www.showcasecines.com.ar/cine/belgrano" target="_blank" rel="noopener" class="cartelera-link">
+        <span>🍿</span> Ver cartelera Showcase Belgrano &rarr;
+      </a>`;
+  }
 }

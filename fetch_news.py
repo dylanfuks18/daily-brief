@@ -27,9 +27,12 @@ SOURCES = [
     {'url': 'https://as.com/rss/tags/futbol/a/rss.xml',           'cat': 'sports',  'name': 'AS'},
 
     # --- CINE & ENTRETENIMIENTO ---
-    {'url': 'https://www.espinof.com/rss',                        'cat': 'cinema',  'name': 'Espinof'},
-    {'url': 'https://www.fotogramas.es/rss',                      'cat': 'cinema',  'name': 'Fotogramas'},
-    {'url': 'https://www.sensacine.com/noticias/rss/',            'cat': 'cinema',  'name': 'SensaCine'},
+    {'url': 'https://www.espinof.com/rss',                                'cat': 'cinema',  'name': 'Espinof'},
+    {'url': 'https://www.fotogramas.es/rss',                              'cat': 'cinema',  'name': 'Fotogramas'},
+    {'url': 'https://www.sensacine.com/noticias/rss/',                    'cat': 'cinema',  'name': 'SensaCine'},
+    {'url': 'https://www.filmaffinity.com/es/rss/es_reviews.xml',         'cat': 'cinema',  'name': 'FilmAffinity'},
+    {'url': 'https://cinemascomics.com/feed/',                            'cat': 'cinema',  'name': 'CinemasComics'},
+    {'url': 'https://www.escribiendocine.com/feed',                       'cat': 'cinema',  'name': 'EscribiendoCine'},
 ]
 
 KEYWORDS = {
