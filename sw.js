@@ -1,4 +1,4 @@
-const CACHE = 'daily-brief-v1';
+const CACHE = 'daily-brief-v3';
 const SHELL = ['/', '/index.html', '/style.css', '/app.js', '/manifest.json'];
 
 self.addEventListener('install', e => {
@@ -16,23 +16,31 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  // Network-first for API calls, cache-first for app shell
-  if (e.request.url.includes('api.rss2json') || e.request.url.includes('thesportsdb')) {
+  const url = e.request.url;
+
+  // Network-first para APIs externas y news.json (datos siempre frescos)
+  const isApi = url.includes('espn.com') || url.includes('bluelytics') ||
+                url.includes('coingecko') || url.includes('finance.yahoo') ||
+                url.includes('allorigins') || url.includes('themoviedb') ||
+                url.includes('news.json');
+
+  if (isApi) {
     e.respondWith(
-      fetch(e.request).catch(() => new Response('[]', { headers: { 'Content-Type': 'application/json' } }))
+      fetch(e.request).catch(() =>
+        caches.match(e.request) || new Response('{}', { headers: { 'Content-Type': 'application/json' } })
+      )
     );
     return;
   }
 
+  // Network-first para app shell (app.js, style.css, index.html)
+  // Asi los cambios llegan inmediatamente, con fallback a cache si no hay red
   e.respondWith(
-    caches.match(e.request).then(cached => {
-      if (cached) return cached;
-      return fetch(e.request).then(res => {
-        if (res && res.status === 200) {
-          caches.open(CACHE).then(c => c.put(e.request, res.clone()));
-        }
-        return res;
-      }).catch(() => caches.match('/index.html'));
-    })
+    fetch(e.request).then(res => {
+      if (res && res.status === 200) {
+        caches.open(CACHE).then(c => c.put(e.request, res.clone()));
+      }
+      return res;
+    }).catch(() => caches.match(e.request) || caches.match('/index.html'))
   );
 });
