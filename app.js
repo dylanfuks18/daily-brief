@@ -142,7 +142,8 @@ function refreshAll() {
 
 // ---------- LOAD ----------
 async function loadAll() {
-  ['cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema','argentina-container','jobs-news-container']
+  // Nota: israel usa 'israel-articles' como sub-contenedor (cat-israel es el wrapper)
+  ['cat-tech','israel-articles','cat-poleco','cat-sports','cat-cinema','argentina-container','jobs-news-container']
     .forEach(id => showSkeletons(id, 3));
   await Promise.all([loadMatches(), fetchNews(), loadCartelera(), loadEconWidget()]);
   renderAll();
@@ -168,7 +169,7 @@ async function fetchNews() {
       <strong style="color:var(--accent)">3.</strong> Click en <strong>Run workflow</strong> &rarr; <strong>Run workflow</strong><br>
       <strong style="color:var(--accent)">4.</strong> Espera ~1 minuto y recarga
     </div>`;
-    ['top-container','cat-tech','cat-israel','cat-poleco','cat-sports','cat-cinema'].forEach(id => {
+    ['top-container','cat-tech','israel-articles','cat-poleco','cat-sports','cat-cinema'].forEach(id => {
       const el = document.getElementById(id);
       if (el) el.innerHTML = msg;
     });
