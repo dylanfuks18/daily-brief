@@ -135,6 +135,15 @@ a { text-decoration: none; color: inherit; }
 .match-time { font-size: 12px; font-weight: 700; color: var(--green); margin-top: 2px; }
 .match-time.live { color: var(--red); animation: pulse 1.5s infinite; }
 .match-score { font-size: 15px; font-weight: 800; color: var(--text); }
+
+/* Partidos finalizados */
+.match-card-final .match-team-row { gap: 6px; }
+.match-card-final .match-team { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.match-inline-score { font-size: 16px; font-weight: 800; color: var(--text3); margin-left: auto; flex-shrink: 0; min-width: 18px; text-align: right; }
+.match-inline-score.match-winner { color: var(--text); }
+.match-team.match-winner { font-weight: 700; color: var(--text); }
+.match-fin { color: var(--text3) !important; font-size: 10px !important; letter-spacing: 0.8px; font-weight: 600 !important; }
+
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
 .match-no-games { font-size: 13px; color: var(--text3); padding: 10px 0; font-style: italic; }
 

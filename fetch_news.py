@@ -49,6 +49,8 @@ SOURCES = [
     {'url': 'https://www.ecartelera.com/rss/',                            'cat': 'cinema',  'name': 'eCartelera'},
     {'url': 'https://www.hobbyconsolas.com/rss/cine',                     'cat': 'cinema',  'name': 'HobbyConsolas Cine'},
     {'url': 'https://decine21.com/feed/',                                 'cat': 'cinema',  'name': 'Decine21'},
+    {'url': 'https://www.20minutos.es/rss/cineyseries/',                  'cat': 'cinema',  'name': '20minutos Cine'},
+    {'url': 'https://www.lavanguardia.com/rss/gente-cultura.xml',         'cat': 'cinema',  'name': 'La Vanguardia Cultura'},
 
     # --- POLITICA ARGENTINA (directa) ---
     {'url': 'https://www.lapoliticaonline.com/rss/',                      'cat': 'ar_pol',  'name': 'La Política Online'},
@@ -66,7 +68,7 @@ KEYWORDS = {
     'poleco':  ['trump', 'putin', 'xi jinping', 'banco central', 'inflaci', 'dolar', 'dólar', 'pbi', 'bolsa', 'mercado financiero', 'economia', 'economía', 'finanzas', 'elecciones', 'gobierno', 'politica', 'política', 'reservas', 'bonos', 'crypto', 'bitcoin'],
     'sports':  ['futbol', 'fútbol', 'river', 'boca', 'racing', 'san lorenzo', 'champions', 'premier', 'real madrid', 'barcelona', 'messi', 'seleccion', 'copa', 'gol', 'tenis', 'formula 1', 'f1', 'nba', 'rugby'],
     'tech':    ['inteligencia artificial', ' ia ', 'chatgpt', 'openai', 'google', 'apple', 'microsoft', 'iphone', 'android', 'startup', 'robot', 'tecnologia', 'tecnología', 'software', 'ciberseguridad', 'gemini', 'deepseek', 'samsung', 'chip'],
-    'cinema':  ['pelicula', 'película', 'cine', 'netflix', 'disney', 'hbo', 'amazon prime', 'marvel', 'oscar', 'actor', 'actriz', 'director', 'estreno', 'trailer', 'serie', 'streaming', 'temporada'],
+    'cinema':  ['pelicula', 'película', 'cine', 'netflix', 'disney', 'hbo', 'amazon prime', 'marvel', 'dc comics', 'oscar', 'actor', 'actriz', 'director', 'estreno', 'trailer', 'tráiler', 'serie', 'streaming', 'temporada', 'spiderman', 'spider-man', 'avengers', 'batman', 'superman', 'pixar', 'anime', 'critica', 'crítica'],
 }
 
 
@@ -177,10 +179,19 @@ for src in SOURCES:
                 entry.get('description', '')
             )
 
-            # Para tweets de nitter: convertir link a x.com
+            # Para tweets de nitter: filtrar tweets viejos (> 14 días) y convertir link a x.com
             link = entry.get('link', '')
-            if is_mokedb and link:
-                link = re.sub(r'https?://[^/]+/', 'https://x.com/', link)
+            if is_mokedb:
+                pub_parsed = entry.get('published_parsed')
+                if pub_parsed:
+                    try:
+                        pub_dt = datetime(*pub_parsed[:6], tzinfo=timezone.utc)
+                        if (datetime.now(timezone.utc) - pub_dt).days > 14:
+                            continue  # ignorar tweets viejos
+                    except Exception:
+                        pass
+                if link:
+                    link = re.sub(r'https?://[^/]+/', 'https://x.com/', link)
 
             pub   = entry.get('published', datetime.now(timezone.utc).isoformat())
             image = get_image(entry)

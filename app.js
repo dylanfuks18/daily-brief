@@ -147,6 +147,11 @@ async function loadAll() {
     .forEach(id => showSkeletons(id, 3));
   await Promise.all([loadMatches(), fetchNews(), loadCartelera(), loadEconWidget()]);
   renderAll();
+
+  // Auto-refresh partidos cada 5 minutos (scores en vivo)
+  if (!window._matchRefreshTimer) {
+    window._matchRefreshTimer = setInterval(() => loadMatches(), 5 * 60 * 1000);
+  }
 }
 
 // ---------- FETCH news.json ----------
@@ -201,7 +206,7 @@ function renderAll() {
   renderCarousel('top-container', top);
 
   renderList('cat-tech',            by.tech.slice(0, 8));
-  renderTweetCarousel('tweets-israel', israelTweets.slice(0, 7));
+  renderTweetCarousel('tweets-israel', israelTweets.slice(0, 8));
   renderList('israel-articles',     israelArticles.slice(0, 6));
   renderList('cat-poleco',          by.poleco.slice(0, 8));
   renderList('cat-sports',          by.sports.slice(0, 8));
@@ -624,19 +629,6 @@ function buildMatchCard(ev, label, emoji = '') {
     const isFinished = statusName === 'STATUS_FINAL';
     const clock      = ev.status?.displayClock || '';
 
-    let timeHtml;
-    if (isLive) {
-      timeHtml = `<span class="match-time live">EN VIVO &bull; ${clock}</span>`;
-    } else if (isHalf) {
-      timeHtml = `<span class="match-time live">ENTRETIEMPO</span>`;
-    } else if (isFinished) {
-      timeHtml = `<span class="match-score">${home.score} - ${away.score}</span>`;
-    } else {
-      const d = new Date(ev.date);
-      const t = d.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' });
-      timeHtml = `<span class="match-time">${t}</span>`;
-    }
-
     const homeName = home.team?.shortDisplayName || home.team?.displayName || '';
     const awayName = away.team?.shortDisplayName || away.team?.displayName || '';
     const homeLogo = home.team?.logo || '';
@@ -645,6 +637,43 @@ function buildMatchCard(ev, label, emoji = '') {
     const logoImg = (url, name) => url
       ? `<img class="match-team-logo" src="${url}" alt="${name}" onerror="this.style.display='none'">`
       : '';
+
+    // Partidos finalizados: score inline por equipo + etiqueta FIN
+    if (isFinished) {
+      const hScore = home.score ?? '';
+      const aScore = away.score ?? '';
+      const hWin = parseInt(hScore) > parseInt(aScore);
+      const aWin = parseInt(aScore) > parseInt(hScore);
+      return `
+      <div class="match-card match-card-final">
+        <div class="match-league">${emoji ? emoji + ' ' : ''}${label}</div>
+        <div class="match-teams">
+          <div class="match-team-row">
+            ${logoImg(homeLogo, homeName)}
+            <span class="match-team${hWin ? ' match-winner' : ''}">${homeName}</span>
+            <span class="match-inline-score${hWin ? ' match-winner' : ''}">${hScore}</span>
+          </div>
+          <div class="match-team-row">
+            ${logoImg(awayLogo, awayName)}
+            <span class="match-team${aWin ? ' match-winner' : ''}">${awayName}</span>
+            <span class="match-inline-score${aWin ? ' match-winner' : ''}">${aScore}</span>
+          </div>
+        </div>
+        <span class="match-time match-fin">FIN</span>
+      </div>`;
+    }
+
+    // En vivo / entretiempo / programado
+    let timeHtml;
+    if (isLive) {
+      timeHtml = `<span class="match-time live">EN VIVO &bull; ${clock}</span>`;
+    } else if (isHalf) {
+      timeHtml = `<span class="match-time live">ENTRETIEMPO &bull; ${home.score}-${away.score}</span>`;
+    } else {
+      const d = new Date(ev.date);
+      const t = d.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' });
+      timeHtml = `<span class="match-time">${t}</span>`;
+    }
 
     return `
     <div class="match-card">
