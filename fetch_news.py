@@ -106,8 +106,9 @@ CRIME_KWS = ['muri', 'falleci', 'asesin', 'crimen', 'homicid', 'femicid',
 def classify(title, desc, default_cat):
     text = (title + ' ' + desc).lower()
 
-    # Prevenir que noticias de crimen/violencia queden en deportes o cine
-    if default_cat in ('sports', 'cinema') and any(k in text for k in CRIME_KWS):
+    # Prevenir que noticias de crimen/violencia queden en deportes
+    # NO se aplica a cinema: peliculas de narcos/thrillers/zombies contienen esas palabras
+    if default_cat == 'sports' and any(k in text for k in CRIME_KWS):
         default_cat = 'general'
 
     if default_cat not in ('general', 'economy'):

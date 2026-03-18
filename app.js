@@ -2,13 +2,16 @@
    DAILY BRIEF - app.js
    ============================================= */
 
-const SPORTS_API = 'https://www.thesportsdb.com/api/v1/json/3/eventsday.php';
+const SPORTS_API_DAY  = 'https://www.thesportsdb.com/api/v1/json/3/eventsday.php';
+const SPORTS_API_NEXT = 'https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php';
 
 const FOOTBALL_LEAGUES = [
-  { key: 'champions', label: 'Champions',  terms: ['champions league', 'uefa champions'] },
-  { key: 'premier',   label: 'Premier',    terms: ['english premier', 'premier league'] },
-  { key: 'argentina', label: 'Argentina',  terms: ['argentina primera', 'superliga', 'liga profesional', 'copa argentina', 'primera nacional'] },
-  { key: 'friendly',  label: 'Amistoso',   terms: ['international friendl', 'friendl'] },
+  { key: 'champions', label: 'Champions',    id: 4480, terms: ['champions league', 'uefa champions'] },
+  { key: 'premier',   label: 'Premier',      id: 4328, terms: ['english premier', 'premier league'] },
+  { key: 'laliga',    label: 'La Liga',       id: 4335, terms: ['spanish la liga', 'la liga', 'laliga'] },
+  { key: 'libertad',  label: 'Libertadores',  id: 4421, terms: ['copa libertadores', 'libertadores', 'conmebol libertadores'] },
+  { key: 'argentina', label: 'Argentina',     id: 4406, terms: ['argentina primera', 'superliga', 'liga profesional', 'primera nacional'] },
+  { key: 'friendly',  label: 'Amistoso',      id: null, terms: ['international friendl', 'friendl'] },
 ];
 
 const CAT_EMOJI = { tech: '🤖', israel: '🌍', poleco: '🏛️', sports: '⚽', cinema: '🎬', ar_pol: '🇦🇷' };
@@ -313,6 +316,26 @@ function openArticle(id) {
 }
 
 // ---------- FULL ARTICLE FETCHER ----------
+const ARTICLE_PROXIES = [
+  url => ({ endpoint: `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`, isJson: true }),
+  url => ({ endpoint: `https://corsproxy.io/?${encodeURIComponent(url)}`, isJson: false }),
+  url => ({ endpoint: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`, isJson: false }),
+];
+
+const JUNK_SELECTORS = [
+  'script','style','nav','header','footer','aside','iframe','form','noscript',
+  '.ads','.ad','.advertisement','.related','.share','.social','.newsletter',
+  '.cookie','.popup','.sidebar','.comments','[class*="banner"]','[class*="promo"]',
+  '[class*="widget"]','[id*="sidebar"]','[id*="related"]'
+];
+
+const CONTENT_SELECTORS = [
+  '[itemprop="articleBody"]', '.article-body', '.article-content',
+  '.article__body', '.article__content', '.nota-cuerpo', '.nota__cuerpo',
+  '.cuerpo-nota', '.post-content', '.entry-content', '.story-body',
+  '.content-body', '.article-text', '.post-body', 'article', 'main'
+];
+
 async function loadFullArticle(url, btn) {
   if (!url || url === '#') {
     btn.textContent = 'No hay URL disponible.';
@@ -322,48 +345,68 @@ async function loadFullArticle(url, btn) {
   btn.textContent = 'Cargando artículo...';
   btn.disabled = true;
 
-  try {
-    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-    const res  = await fetch(proxyUrl, { signal: AbortSignal.timeout(12000) });
-    const data = await res.json();
-    if (!data.contents) throw new Error('sin contenido');
+  let html = null;
 
+  for (const proxyFn of ARTICLE_PROXIES) {
+    try {
+      const { endpoint, isJson } = proxyFn(url);
+      const res = await fetch(endpoint, { signal: AbortSignal.timeout(12000) });
+      if (!res.ok) continue;
+      if (isJson) {
+        const data = await res.json();
+        if (data.contents && data.contents.length > 200) { html = data.contents; break; }
+      } else {
+        const text = await res.text();
+        if (text && text.length > 200) { html = text; break; }
+      }
+    } catch { continue; }
+  }
+
+  if (!html) {
+    // Ningún proxy funcionó → botón para abrir en el navegador
+    const a = document.createElement('a');
+    a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+    a.className = 'article-fetch-btn'; a.style.textDecoration = 'none';
+    a.textContent = 'Abrir artículo en el navegador →';
+    btn.replaceWith(a);
+    return;
+  }
+
+  try {
     const parser = new DOMParser();
-    const doc    = parser.parseFromString(data.contents, 'text/html');
+    const doc    = parser.parseFromString(html, 'text/html');
 
     // Limpiar basura
-    ['script','style','nav','header','footer','aside','iframe','form',
-     '.ads','.ad','.advertisement','.related-posts','.share','.social',
-     '.newsletter','.cookie','.popup','.sidebar'].forEach(sel => {
-      doc.querySelectorAll(sel).forEach(el => el.remove());
+    JUNK_SELECTORS.forEach(sel => {
+      try { doc.querySelectorAll(sel).forEach(el => el.remove()); } catch {}
     });
 
     // Buscar contenido principal
     let mainEl = null;
-    for (const sel of [
-      'article', '[itemprop="articleBody"]', '.article-body',
-      '.article-content', '.post-content', '.entry-content',
-      '.nota-cuerpo', '.cuerpo-nota', '.content-body', 'main'
-    ]) {
-      const el = doc.querySelector(sel);
-      if (el && el.textContent.trim().length > 200) { mainEl = el; break; }
+    for (const sel of CONTENT_SELECTORS) {
+      try {
+        const el = doc.querySelector(sel);
+        if (el && el.textContent.trim().length > 200) { mainEl = el; break; }
+      } catch {}
     }
     if (!mainEl) mainEl = doc.body;
 
     const paras = Array.from(mainEl.querySelectorAll('p'))
       .map(p => p.textContent.trim())
-      .filter(t => t.length > 40);
+      .filter(t => t.length > 40 && !t.includes('©') && !t.match(/todos los derechos/i));
 
     if (paras.length > 0) {
-      const full = paras.join('\n\n');
-      document.getElementById('article-body').innerHTML = boldifyText(full);
+      document.getElementById('article-body').innerHTML = boldifyText(paras.join('\n\n'));
       btn.remove();
     } else {
       throw new Error('sin párrafos');
     }
   } catch {
-    btn.textContent = 'No se pudo cargar. Intentá de nuevo.';
-    btn.disabled = false;
+    const a = document.createElement('a');
+    a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+    a.className = 'article-fetch-btn'; a.style.textDecoration = 'none';
+    a.textContent = 'Abrir artículo en el navegador →';
+    btn.replaceWith(a);
   }
 }
 
@@ -499,7 +542,7 @@ async function loadMatches() {
   const container = document.getElementById('matches-container');
   const dateStr   = new Date().toISOString().split('T')[0];
   try {
-    const res    = await fetch(`${SPORTS_API}?d=${dateStr}&s=Soccer`, { signal: AbortSignal.timeout(8000) });
+    const res    = await fetch(`${SPORTS_API_DAY}?d=${dateStr}&s=Soccer`, { signal: AbortSignal.timeout(8000) });
     const data   = await res.json();
     const events = data.events || [];
 
@@ -513,14 +556,45 @@ async function loadMatches() {
     });
 
     const cards = [];
-    FOOTBALL_LEAGUES.forEach(l => grouped[l.key].forEach(ev => cards.push(buildMatchCard(ev, l.label))));
-    container.innerHTML = cards.length ? cards.join('') : `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
+    FOOTBALL_LEAGUES.forEach(l => grouped[l.key].forEach(ev => cards.push(buildMatchCard(ev, l.label, false))));
+
+    if (cards.length > 0) {
+      container.innerHTML = cards.join('');
+    } else {
+      // Sin partidos hoy → cargar próximos de las ligas principales
+      await loadNextLeagueMatches(container);
+    }
   } catch {
     container.innerHTML = `<div class="match-no-games">No se pudo cargar partidos.</div>`;
   }
 }
 
-function buildMatchCard(ev, label) {
+async function loadNextLeagueMatches(container) {
+  const leaguesWithId = FOOTBALL_LEAGUES.filter(l => l.id);
+  try {
+    const results = await Promise.allSettled(
+      leaguesWithId.map(l =>
+        fetch(`${SPORTS_API_NEXT}?id=${l.id}`, { signal: AbortSignal.timeout(8000) })
+          .then(r => r.json())
+          .then(d => ({ label: l.label, events: (d.events || []).slice(0, 2) }))
+      )
+    );
+    const cards = [];
+    results.forEach(r => {
+      if (r.status === 'fulfilled') {
+        r.value.events.forEach(ev => cards.push(buildMatchCard(ev, r.value.label, true)));
+      }
+    });
+    // Dedup por id de evento
+    const seen = new Set();
+    const unique = cards.filter(c => { const m = c.match(/data-eid="([^"]+)"/); if (!m) return true; if (seen.has(m[1])) return false; seen.add(m[1]); return true; });
+    container.innerHTML = unique.length ? unique.join('') : `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
+  } catch {
+    container.innerHTML = `<div class="match-no-games">Sin partidos de interes hoy.</div>`;
+  }
+}
+
+function buildMatchCard(ev, label, upcoming = false) {
   const status   = ev.strStatus || '';
   const isLive   = /^\d+$/.test(status) || status === 'HT';
   const finished = status === 'Match Finished';
@@ -530,11 +604,16 @@ function buildMatchCard(ev, label) {
     timeHtml = `<span class="match-time live">EN VIVO${status ? ' &bull; ' + status + "'" : ''}</span>`;
   } else if (finished && hasScore) {
     timeHtml = `<span class="match-score">${ev.intHomeScore} - ${ev.intAwayScore}</span>`;
+  } else if (upcoming && ev.dateEvent) {
+    const d = new Date(ev.dateEvent + 'T' + (ev.strTime || '00:00:00'));
+    const dateLabel = d.toLocaleDateString('es-AR', { day: 'numeric', month: 'short' });
+    const timeLabel = ev.strTime ? ev.strTime.slice(0, 5) : '';
+    timeHtml = `<span class="match-time">${dateLabel}${timeLabel ? ' · ' + timeLabel : ''}</span>`;
   } else {
     timeHtml = `<span class="match-time">${(ev.strTime || '').slice(0,5) || 'Hoy'}</span>`;
   }
   return `
-  <div class="match-card">
+  <div class="match-card" data-eid="${ev.idEvent || ''}">
     <div class="match-league">${label}</div>
     <div class="match-teams">
       <span class="match-team">${ev.strHomeTeam || ''}</span>
