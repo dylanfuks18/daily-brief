@@ -250,7 +250,10 @@ function renderTweetCarousel(id, articles) {
 
 // Intenta cargar tweets de @MokedBitajon directamente desde el navegador via CORS proxy
 async function tryFetchTweetsClientSide() {
-  const NITTER = [
+  const NITTER_BASES = [
+    'https://nitter.cz',
+    'https://xcancel.com',
+    'https://lightbrd.com',
     'https://nitter.privacydev.net',
     'https://nitter.poast.org',
     'https://nitter.tiekoetter.com',
@@ -259,43 +262,59 @@ async function tryFetchTweetsClientSide() {
   ];
   const MAX_AGE = 14 * 86400000;
 
-  for (const base of NITTER) {
+  const parseRssXml = (xml) => {
+    const items = xml.match(/<item>([\s\S]*?)<\/item>/g) || [];
+    const now = Date.now();
+    const get = (raw, tag) => {
+      const m = raw.match(new RegExp(`<${tag}[^>]*>(?:<!\\[CDATA\\[)?((?:.|\\n)*?)(?:\\]\\]>)?<\\/${tag}>`, 'i'));
+      return m ? m[1].replace(/<[^>]+>/g, '').trim() : '';
+    };
+    return items.map(raw => {
+      const title   = get(raw, 'title');
+      const pubDate = get(raw, 'pubDate');
+      const desc    = get(raw, 'description');
+      const linkM   = raw.match(/<link>(.*?)<\/link>/i) || raw.match(/<link\s*\/?>([^<]+)/i);
+      const xUrl    = (linkM ? linkM[1].trim() : '').replace(/https?:\/\/[^/]+\//, 'https://x.com/');
+      if (!title || title.length < 10) return null;
+      if (pubDate && now - new Date(pubDate).getTime() > MAX_AGE) return null;
+      return { id: btoa(unescape(encodeURIComponent(xUrl || title))).slice(0, 20),
+               title, summary: desc || title, link: xUrl, pubDate,
+               source: 'MokedBitajon', cat: 'israel' };
+    }).filter(Boolean).slice(0, 8);
+  };
+
+  for (const base of NITTER_BASES) {
+    const rssUrl = `${base}/MokedBitajon/rss`;
+
+    // Proxy 1: allorigins (devuelve JSON)
     try {
-      const rssUrl = `${base}/MokedBitajon/rss`;
       const res = await fetch(
         `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`,
         { signal: AbortSignal.timeout(10000) }
       );
-      const data = await res.json();
-      if (!data.contents || (data.status?.http_code ?? 200) !== 200) continue;
+      if (res.ok) {
+        const data = await res.json();
+        if (data.contents && (data.status?.http_code ?? 200) === 200) {
+          const tweets = parseRssXml(data.contents);
+          if (tweets.length) return tweets;
+        }
+      }
+    } catch { /* next proxy */ }
 
-      // Extraer <item> del RSS con regex (más robusto que DOMParser para XML mixto)
-      const items = data.contents.match(/<item>([\s\S]*?)<\/item>/g) || [];
-      const now = Date.now();
-
-      const get = (raw, tag) => {
-        const m = raw.match(new RegExp(`<${tag}[^>]*>(?:<!\\[CDATA\\[)?((?:.|\\n)*?)(?:\\]\\]>)?<\\/${tag}>`, 'i'));
-        return m ? m[1].replace(/<[^>]+>/g, '').trim() : '';
-      };
-
-      const tweets = items.map(raw => {
-        const title   = get(raw, 'title');
-        const pubDate = get(raw, 'pubDate');
-        const desc    = get(raw, 'description');
-        // <link> en RSS está como texto suelto entre tags, no como atributo
-        const linkM   = raw.match(/<link>(.*?)<\/link>/i) || raw.match(/<link\s*\/?>([^<]+)/i);
-        const rawLink = linkM ? linkM[1].trim() : '';
-        const xUrl    = rawLink.replace(/https?:\/\/[^/]+\//, 'https://x.com/');
-
-        if (!title || title.length < 10) return null;
-        if (pubDate && now - new Date(pubDate).getTime() > MAX_AGE) return null;
-        return { id: btoa(unescape(encodeURIComponent(xUrl || title))).slice(0, 20),
-                 title, summary: desc || title, link: xUrl, pubDate,
-                 source: 'MokedBitajon', cat: 'israel' };
-      }).filter(Boolean).slice(0, 8);
-
-      if (tweets.length) return tweets;
-    } catch { continue; }
+    // Proxy 2: corsproxy.io (devuelve el XML directamente)
+    try {
+      const res = await fetch(
+        `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`,
+        { signal: AbortSignal.timeout(10000) }
+      );
+      if (res.ok) {
+        const xml = await res.text();
+        if (xml && xml.includes('<item>')) {
+          const tweets = parseRssXml(xml);
+          if (tweets.length) return tweets;
+        }
+      }
+    } catch { /* next base */ }
   }
   return [];
 }
