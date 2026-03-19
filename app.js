@@ -483,6 +483,8 @@ const ARTICLE_PROXIES = [
   url => ({ endpoint: `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`, isJson: true }),
   url => ({ endpoint: `https://corsproxy.io/?${encodeURIComponent(url)}`, isJson: false }),
   url => ({ endpoint: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`, isJson: false }),
+  url => ({ endpoint: `https://thingproxy.freeboard.io/fetch/${encodeURIComponent(url)}`, isJson: false }),
+  url => ({ endpoint: `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`, isJson: false }),
 ];
 
 const JUNK_SELECTORS = [
@@ -546,19 +548,21 @@ async function loadFullArticle(url, btn) {
       try { doc.querySelectorAll(sel).forEach(el => el.remove()); } catch {}
     });
 
-    // Buscar contenido principal
+    // Buscar contenido principal — umbral bajo para no perder artículos cortos
     let mainEl = null;
     for (const sel of CONTENT_SELECTORS) {
       try {
         const el = doc.querySelector(sel);
-        if (el && el.textContent.trim().length > 200) { mainEl = el; break; }
+        if (el && el.textContent.trim().length > 80) { mainEl = el; break; }
       } catch {}
     }
     if (!mainEl) mainEl = doc.body;
 
-    const paras = Array.from(mainEl.querySelectorAll('p'))
+    const paras = Array.from(mainEl.querySelectorAll('p, h2, h3, li'))
       .map(p => p.textContent.trim())
-      .filter(t => t.length > 40 && !t.includes('©') && !t.match(/todos los derechos/i));
+      .filter(t => t.length > 20
+        && !t.includes('©')
+        && !t.match(/todos los derechos|cookie|suscri[bv]|newsletter|publicidad/i));
 
     if (paras.length > 0) {
       document.getElementById('article-body').innerHTML = boldifyText(paras.join('\n\n'));
@@ -709,15 +713,18 @@ async function loadMatches() {
     const today     = new Date();
     const yesterday = new Date(today.getTime() - 86400000);
 
-    const fetchDay = (league, date) =>
+    const fetchDay = (league, date, isYesterday = false) =>
       fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${league.slug}/scoreboard?dates=${fmtLocal(date)}`,
             { signal: AbortSignal.timeout(8000) })
         .then(r => r.json())
-        .then(d => ({ label: league.label, emoji: league.emoji, events: d.events || [] }));
+        .then(d => ({ label: league.label, emoji: league.emoji, events: d.events || [], isYesterday }));
 
     const results = await Promise.allSettled(
-      ESPN_LEAGUES.flatMap(l => [fetchDay(l, today), fetchDay(l, yesterday)])
+      ESPN_LEAGUES.flatMap(l => [fetchDay(l, today, false), fetchDay(l, yesterday, true)])
     );
+
+    // Solo mostrar partidos de ayer si son recientes (<18h) — evita ver partidos viejos al dia siguiente
+    const YESTERDAY_MAX_AGE = 18 * 3600 * 1000;
 
     // Deduplicar por ID de evento
     const seenIds = new Set();
@@ -727,9 +734,12 @@ async function loadMatches() {
       r.value.events.forEach(ev => {
         if (seenIds.has(ev.id)) return;
         seenIds.add(ev.id);
-        const card                      = buildMatchCard(ev, r.value.label, r.value.emoji);
-        const { isLive, isFinished }    = getMatchStatus(ev);
-        if (card) entries.push({ card, isLive, isFinished, date: new Date(ev.date) });
+        const evDate = new Date(ev.date);
+        // Saltar partidos de ayer que ya tienen mas de 18 horas
+        if (r.value.isYesterday && Date.now() - evDate.getTime() > YESTERDAY_MAX_AGE) return;
+        const card                   = buildMatchCard(ev, r.value.label, r.value.emoji);
+        const { isLive, isFinished } = getMatchStatus(ev);
+        if (card) entries.push({ card, isLive, isFinished, date: evDate });
       });
     });
 

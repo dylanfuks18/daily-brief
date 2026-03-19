@@ -25,6 +25,80 @@ def fetch_feed(url, use_browser_headers=False):
             print(f"  [requests error] {e}")
     return feedparser.parse(url)
 
+
+# Bearer token público de twitter.com (embebido en su JS, no requiere cuenta)
+_TWITTER_BEARER = 'AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LTMjD96pljZnPXkqekJPycXga3lSLKBOcHIdlEJCaiy'
+
+def get_mokedb_tweets_guest_api(count=10):
+    """Obtiene tweets de @MokedBitajon via Twitter guest API (sin API key de pago)."""
+    session = requests.Session()
+    session.headers.update({
+        'Authorization': f'Bearer {_TWITTER_BEARER}',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'x-twitter-active-user': 'yes',
+        'x-twitter-client-language': 'es',
+        'Content-Type': 'application/json',
+    })
+    try:
+        # 1. Activar sesión anónima (guest token)
+        r = session.post('https://api.twitter.com/1.1/guest/activate.json', timeout=12)
+        if r.status_code != 200:
+            print(f'  [twitter guest] activate failed: {r.status_code}')
+            return []
+        guest_token = r.json().get('guest_token', '')
+        if not guest_token:
+            return []
+        session.headers['x-guest-token'] = guest_token
+
+        # 2. Timeline del usuario
+        r = session.get(
+            'https://api.twitter.com/1.1/statuses/user_timeline.json',
+            params={
+                'screen_name': 'MokedBitajon',
+                'count': count,
+                'tweet_mode': 'extended',
+                'exclude_replies': 'true',
+                'include_rts': 'false',
+            },
+            timeout=12
+        )
+        if r.status_code != 200:
+            print(f'  [twitter guest] timeline failed: {r.status_code} — {r.text[:120]}')
+            return []
+
+        tweets_raw = r.json()
+        if not isinstance(tweets_raw, list):
+            return []
+
+        now = datetime.now(timezone.utc)
+        results = []
+        for tw in tweets_raw:
+            text = tw.get('full_text', tw.get('text', ''))
+            if not text or text.startswith('RT @'):
+                continue
+            # Limpiar URLs de Twitter del final del texto
+            text = re.sub(r'https://t\.co/\S+', '', text).strip()
+            created_str = tw.get('created_at', '')
+            tweet_id    = tw.get('id_str', '')
+            link = f'https://x.com/MokedBitajon/status/{tweet_id}' if tweet_id else 'https://x.com/MokedBitajon'
+            results.append({
+                'id':      make_id(link),
+                'title':   text[:120],
+                'summary': text,
+                'link':    link,
+                'pubDate': created_str,
+                'source':  'MokedBitajon',
+                'cat':     'israel',
+                'image':   None,
+            })
+
+        print(f'  [twitter guest] ✓ {len(results)} tweets de @MokedBitajon')
+        return results
+
+    except Exception as e:
+        print(f'  [twitter guest] error: {e}')
+        return []
+
 SOURCES = [
     # --- TECH & IA ---
     {'url': 'https://www.xataka.com/feed',                        'cat': 'tech',    'name': 'Xataka'},
@@ -184,7 +258,17 @@ def make_id(s):
 
 
 articles = []
-_mokedb_done = False  # Solo usar la primera instancia nitter que responda
+
+# Intentar Twitter guest API primero (más confiable que nitter)
+print('[MokedBitajon] Intentando Twitter guest API...')
+_mokedb_tweets = get_mokedb_tweets_guest_api()
+if _mokedb_tweets:
+    articles.extend(_mokedb_tweets)
+    _mokedb_done = True
+    print(f'[MokedBitajon] Guest API OK — saltando instancias nitter')
+else:
+    _mokedb_done = False
+    print('[MokedBitajon] Guest API falló — intentando nitter como fallback')
 
 for src in SOURCES:
     try:
