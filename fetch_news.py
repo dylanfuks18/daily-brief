@@ -121,9 +121,7 @@ SOURCES = [
     {'url': 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada', 'cat': 'general', 'name': 'El Pais'},
 
     # --- ISRAEL & MEDIO ORIENTE (directo) ---
-    {'url': 'https://www.timesofisrael.com/feed/',                'cat': 'israel',  'name': 'Times of Israel'},
-    {'url': 'https://www.jpost.com/rss/rssfeedsFrontPage.aspx',   'cat': 'israel',  'name': 'Jerusalem Post'},
-    {'url': 'https://www.aljazeera.com/xml/rss/all.xml',          'cat': 'israel',  'name': 'Al Jazeera'},
+    {'url': 'http://actualidad.rt.com/feeds/all.rss',             'cat': 'israel',  'name': 'RT en Español'},
 
     # --- @MokedBitajon en X — fallbacks RSS si twikit no funciona ---
     {'url': 'https://twiiit.com/MokedBitajon/rss',               'cat': 'israel',  'name': 'MokedBitajon'},
