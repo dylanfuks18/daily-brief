@@ -688,8 +688,9 @@ async function loadMatches() {
         seenIds.add(ev.id);
         const card       = buildMatchCard(ev, r.value.label, r.value.emoji);
         const statusName = ev.status?.type?.name || '';
-        const isLive     = statusName === 'STATUS_IN_PROGRESS' || statusName === 'STATUS_HALFTIME';
-        const isFinished = statusName === 'STATUS_FINAL';
+        const completed  = ev.status?.type?.completed === true;
+        const isLive     = statusName === 'STATUS_IN_PROGRESS' || statusName === 'STATUS_HALFTIME' || statusName === 'STATUS_HALF_TIME';
+        const isFinished = completed || statusName === 'STATUS_FINAL' || statusName === 'STATUS_FULL_TIME' || statusName === 'STATUS_FT' || statusName === 'STATUS_FINAL_OT' || statusName === 'STATUS_FINAL_PEN';
         if (card) entries.push({ card, isLive, isFinished, date: new Date(ev.date) });
       });
     });
@@ -720,9 +721,10 @@ function buildMatchCard(ev, label, emoji = '') {
     if (!home || !away) return null;
 
     const statusName = ev.status?.type?.name || '';
+    const completed  = ev.status?.type?.completed === true;
     const isLive     = statusName === 'STATUS_IN_PROGRESS';
-    const isHalf     = statusName === 'STATUS_HALFTIME';
-    const isFinished = statusName === 'STATUS_FINAL';
+    const isHalf     = statusName === 'STATUS_HALFTIME' || statusName === 'STATUS_HALF_TIME';
+    const isFinished = completed || statusName === 'STATUS_FINAL' || statusName === 'STATUS_FULL_TIME' || statusName === 'STATUS_FT' || statusName === 'STATUS_FINAL_OT' || statusName === 'STATUS_FINAL_PEN';
     const clock      = ev.status?.displayClock || '';
 
     const homeName = home.team?.shortDisplayName || home.team?.displayName || '';
