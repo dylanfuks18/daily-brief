@@ -458,11 +458,11 @@ function openArticle(id) {
   const bodyEl = document.getElementById('article-body');
   bodyEl.innerHTML = boldifyText(a.summary || '');
 
-  // Botón "leer artículo completo" si el contenido es corto
+  // Botón "leer artículo completo" — siempre visible
   const existingBtn = document.getElementById('article-load-btn');
   if (existingBtn) existingBtn.remove();
 
-  if (!a.summary || a.summary.length < 400) {
+  if (a.link && a.link !== '#') {
     const btn = document.createElement('button');
     btn.id = 'article-load-btn';
     btn.className = 'article-fetch-btn';
@@ -510,27 +510,24 @@ async function loadFullArticle(url, btn) {
   btn.textContent = 'Cargando artículo...';
   btn.disabled = true;
 
-  let html = null;
+  const tryProxy = async proxyFn => {
+    const { endpoint, isJson } = proxyFn(url);
+    const res = await fetch(endpoint, { signal: AbortSignal.timeout(8000) });
+    if (!res.ok) throw new Error('bad');
+    if (isJson) {
+      const data = await res.json();
+      if (!data.contents || data.contents.length < 200 || (data?.status?.http_code ?? 200) !== 200) throw new Error('empty');
+      return data.contents;
+    }
+    const text = await res.text();
+    if (!text || text.length < 200) throw new Error('empty');
+    return text;
+  };
 
-  for (const proxyFn of ARTICLE_PROXIES) {
-    try {
-      const { endpoint, isJson } = proxyFn(url);
-      const res = await fetch(endpoint, { signal: AbortSignal.timeout(12000) });
-      if (!res.ok) continue;
-      if (isJson) {
-        const data = await res.json();
-        // allorigins.win devuelve status.http_code — verificar que el sitio respondió 200
-        const httpCode = data?.status?.http_code ?? 200;
-        if (data.contents && data.contents.length > 200 && httpCode === 200) { html = data.contents; break; }
-      } else {
-        const text = await res.text();
-        if (text && text.length > 200) { html = text; break; }
-      }
-    } catch { continue; }
-  }
+  let html = null;
+  try { html = await Promise.any(ARTICLE_PROXIES.map(tryProxy)); } catch {}
 
   if (!html) {
-    // Ningún proxy funcionó → botón para abrir en el navegador
     const a = document.createElement('a');
     a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer';
     a.className = 'article-fetch-btn'; a.style.textDecoration = 'none';
