@@ -20,15 +20,20 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests feedparser
+        run: pip install requests feedparser twikit
 
       - name: Fetch news
         run: python fetch_news.py
+        env:
+          TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME }}
+          TWITTER_EMAIL: ${{ secrets.TWITTER_EMAIL }}
+          TWITTER_PASSWORD: ${{ secrets.TWITTER_PASSWORD }}
 
-      - name: Commit news.json
+      - name: Commit news.json and cookies
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
+          [ -f twikit_cookies.json ] && git add twikit_cookies.json || true
           git diff --staged --quiet || git commit -m "chore: update news [skip ci]"
           git push

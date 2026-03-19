@@ -1,6 +1,8 @@
+import asyncio
 import feedparser
 import requests
 import json
+import os
 import re
 import base64
 from datetime import datetime, timezone
@@ -26,78 +28,75 @@ def fetch_feed(url, use_browser_headers=False):
     return feedparser.parse(url)
 
 
-# Bearer token público de twitter.com (embebido en su JS, no requiere cuenta)
-_TWITTER_BEARER = 'AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LTMjD96pljZnPXkqekJPycXga3lSLKBOcHIdlEJCaiy'
-
-def get_mokedb_tweets_guest_api(count=10):
-    """Obtiene tweets de @MokedBitajon via Twitter guest API (sin API key de pago)."""
-    session = requests.Session()
-    session.headers.update({
-        'Authorization': f'Bearer {_TWITTER_BEARER}',
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'x-twitter-active-user': 'yes',
-        'x-twitter-client-language': 'es',
-        'Content-Type': 'application/json',
-    })
+async def _fetch_twikit_async():
+    """Fetch @MokedBitajon tweets via twikit (Twitter internal web API)."""
     try:
-        # 1. Activar sesión anónima (guest token)
-        r = session.post('https://api.twitter.com/1.1/guest/activate.json', timeout=12)
-        if r.status_code != 200:
-            print(f'  [twitter guest] activate failed: {r.status_code}')
-            return []
-        guest_token = r.json().get('guest_token', '')
-        if not guest_token:
-            return []
-        session.headers['x-guest-token'] = guest_token
+        import twikit
+    except ImportError:
+        print('  [twikit] librería no instalada')
+        return []
 
-        # 2. Timeline del usuario
-        r = session.get(
-            'https://api.twitter.com/1.1/statuses/user_timeline.json',
-            params={
-                'screen_name': 'MokedBitajon',
-                'count': count,
-                'tweet_mode': 'extended',
-                'exclude_replies': 'true',
-                'include_rts': 'false',
-            },
-            timeout=12
-        )
-        if r.status_code != 200:
-            print(f'  [twitter guest] timeline failed: {r.status_code} — {r.text[:120]}')
-            return []
+    username = os.environ.get('TWITTER_USERNAME', '').strip()
+    email    = os.environ.get('TWITTER_EMAIL', '').strip()
+    password = os.environ.get('TWITTER_PASSWORD', '').strip()
 
-        tweets_raw = r.json()
-        if not isinstance(tweets_raw, list):
-            return []
+    if not (username and email and password):
+        print('  [twikit] credenciales no configuradas, saltando')
+        return []
 
-        now = datetime.now(timezone.utc)
+    try:
+        client = twikit.Client('en-US')
+
+        # Intentar usar cookies guardadas para no loguear en cada run
+        cookies_path = 'twikit_cookies.json'
+        logged_in = False
+        if os.path.exists(cookies_path):
+            try:
+                client.load_cookies(cookies_path)
+                logged_in = True
+                print('  [twikit] cookies cargadas')
+            except Exception:
+                logged_in = False
+
+        if not logged_in:
+            await client.login(auth_info_1=username, auth_info_2=email, password=password)
+            client.save_cookies(cookies_path)
+            print('  [twikit] login OK, cookies guardadas')
+
+        user = await client.get_user_by_screen_name('MokedBitajon')
+        tweets = await client.get_user_tweets(user.id, 'Tweets', count=20)
+
         results = []
-        for tw in tweets_raw:
-            text = tw.get('full_text', tw.get('text', ''))
+        for tw in tweets:
+            text = getattr(tw, 'full_text', None) or getattr(tw, 'text', '') or ''
             if not text or text.startswith('RT @'):
                 continue
-            # Limpiar URLs de Twitter del final del texto
             text = re.sub(r'https://t\.co/\S+', '', text).strip()
-            created_str = tw.get('created_at', '')
-            tweet_id    = tw.get('id_str', '')
-            link = f'https://x.com/MokedBitajon/status/{tweet_id}' if tweet_id else 'https://x.com/MokedBitajon'
+            if len(text) < 10:
+                continue
+            link     = f'https://x.com/MokedBitajon/status/{tw.id}'
+            pub_date = getattr(tw, 'created_at', '') or datetime.now(timezone.utc).isoformat()
             results.append({
                 'id':      make_id(link),
                 'title':   text[:120],
                 'summary': text,
                 'link':    link,
-                'pubDate': created_str,
+                'pubDate': pub_date,
                 'source':  'MokedBitajon',
                 'cat':     'israel',
                 'image':   None,
             })
 
-        print(f'  [twitter guest] ✓ {len(results)} tweets de @MokedBitajon')
+        print(f'  [twikit] ✓ {len(results)} tweets de @MokedBitajon')
         return results
 
     except Exception as e:
-        print(f'  [twitter guest] error: {e}')
+        print(f'  [twikit] error: {e}')
         return []
+
+
+def get_mokedb_tweets_twikit():
+    return asyncio.run(_fetch_twikit_async())
 
 SOURCES = [
     # --- TECH & IA ---
@@ -118,9 +117,7 @@ SOURCES = [
     # --- ISRAEL & MEDIO ORIENTE (directo) ---
     {'url': 'https://es.timesofisrael.com/feed/',                 'cat': 'israel',  'name': 'Times of Israel'},
 
-    # --- @MokedBitajon en X (via rss.app — fuente principal confiable) ---
-    {'url': 'https://rss.app/feeds/VfDoITs5Ren9OMZa.xml',        'cat': 'israel',  'name': 'MokedBitajon'},
-    # fallbacks nitter (por si rss.app falla)
+    # --- @MokedBitajon en X — fallbacks RSS si twikit no funciona ---
     {'url': 'https://twiiit.com/MokedBitajon/rss',               'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://nitter.cz/MokedBitajon/rss',                'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://xcancel.com/MokedBitajon/rss',              'cat': 'israel',  'name': 'MokedBitajon'},
@@ -261,8 +258,13 @@ def make_id(s):
 
 articles = []
 
-# rss.app es la fuente principal — se procesa en el loop de SOURCES como cualquier feed
+# --- Intentar obtener tweets de @MokedBitajon via twikit (mejor fuente disponible) ---
 _mokedb_done = False
+_twikit_tweets = get_mokedb_tweets_twikit()
+if _twikit_tweets:
+    articles.extend(_twikit_tweets)
+    _mokedb_done = True
+    print(f'[OK] MokedBitajon (twikit): {len(_twikit_tweets)} tweets')
 
 for src in SOURCES:
     try:
