@@ -118,7 +118,9 @@ SOURCES = [
     # --- ISRAEL & MEDIO ORIENTE (directo) ---
     {'url': 'https://es.timesofisrael.com/feed/',                 'cat': 'israel',  'name': 'Times of Israel'},
 
-    # --- @MokedBitajon en X (via nitter/xcancel — headers de navegador, se intenta en orden) ---
+    # --- @MokedBitajon en X (via rss.app — fuente principal confiable) ---
+    {'url': 'https://rss.app/feeds/VfDoITs5Ren9OMZa.xml',        'cat': 'israel',  'name': 'MokedBitajon'},
+    # fallbacks nitter (por si rss.app falla)
     {'url': 'https://twiiit.com/MokedBitajon/rss',               'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://nitter.cz/MokedBitajon/rss',                'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://xcancel.com/MokedBitajon/rss',              'cat': 'israel',  'name': 'MokedBitajon'},
@@ -259,16 +261,8 @@ def make_id(s):
 
 articles = []
 
-# Intentar Twitter guest API primero (más confiable que nitter)
-print('[MokedBitajon] Intentando Twitter guest API...')
-_mokedb_tweets = get_mokedb_tweets_guest_api()
-if _mokedb_tweets:
-    articles.extend(_mokedb_tweets)
-    _mokedb_done = True
-    print(f'[MokedBitajon] Guest API OK — saltando instancias nitter')
-else:
-    _mokedb_done = False
-    print('[MokedBitajon] Guest API falló — intentando nitter como fallback')
+# rss.app es la fuente principal — se procesa en el loop de SOURCES como cualquier feed
+_mokedb_done = False
 
 for src in SOURCES:
     try:
