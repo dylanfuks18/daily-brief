@@ -1,8 +1,29 @@
 import feedparser
+import requests
 import json
 import re
 import base64
 from datetime import datetime, timezone
+
+# Headers para imitar un navegador real (evita bloqueo de bot en nitter/xcancel)
+BROWSER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml, text/xml, application/atom+xml, */*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Cache-Control': 'no-cache',
+}
+
+def fetch_feed(url, use_browser_headers=False):
+    """Fetch RSS feed, usando headers de navegador si se indica."""
+    if use_browser_headers:
+        try:
+            r = requests.get(url, headers=BROWSER_HEADERS, timeout=20, allow_redirects=True)
+            if r.status_code == 200 and ('<item>' in r.text or '<entry>' in r.text):
+                return feedparser.parse(r.content)
+        except Exception as e:
+            print(f"  [requests error] {e}")
+    return feedparser.parse(url)
 
 SOURCES = [
     # --- TECH & IA ---
@@ -23,7 +44,8 @@ SOURCES = [
     # --- ISRAEL & MEDIO ORIENTE (directo) ---
     {'url': 'https://es.timesofisrael.com/feed/',                 'cat': 'israel',  'name': 'Times of Israel'},
 
-    # --- @MokedBitajon en X (via nitter/xcancel — se intenta en orden hasta que una responda) ---
+    # --- @MokedBitajon en X (via nitter/xcancel — headers de navegador, se intenta en orden) ---
+    {'url': 'https://twiiit.com/MokedBitajon/rss',               'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://nitter.cz/MokedBitajon/rss',                'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://xcancel.com/MokedBitajon/rss',              'cat': 'israel',  'name': 'MokedBitajon'},
     {'url': 'https://lightbrd.com/MokedBitajon/rss',             'cat': 'israel',  'name': 'MokedBitajon'},
@@ -172,7 +194,7 @@ for src in SOURCES:
             print(f"[SKIP] {src['url']} (MokedBitajon ya cargado)")
             continue
 
-        feed = feedparser.parse(src['url'])
+        feed = fetch_feed(src['url'], use_browser_headers=is_mokedb)
         count = 0
         for entry in feed.entries[:30]:
             title = strip_html(entry.get('title', ''))

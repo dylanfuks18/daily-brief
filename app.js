@@ -251,6 +251,7 @@ function renderTweetCarousel(id, articles) {
 // Intenta cargar tweets de @MokedBitajon directamente desde el navegador via CORS proxy
 async function tryFetchTweetsClientSide() {
   const NITTER_BASES = [
+    'https://twiiit.com',
     'https://nitter.cz',
     'https://xcancel.com',
     'https://lightbrd.com',
@@ -301,10 +302,25 @@ async function tryFetchTweetsClientSide() {
       }
     } catch { /* next proxy */ }
 
-    // Proxy 2: corsproxy.io (devuelve el XML directamente)
+    // Proxy 2: corsproxy.io
     try {
       const res = await fetch(
         `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`,
+        { signal: AbortSignal.timeout(10000) }
+      );
+      if (res.ok) {
+        const xml = await res.text();
+        if (xml && xml.includes('<item>')) {
+          const tweets = parseRssXml(xml);
+          if (tweets.length) return tweets;
+        }
+      }
+    } catch { /* next proxy */ }
+
+    // Proxy 3: codetabs
+    try {
+      const res = await fetch(
+        `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rssUrl)}`,
         { signal: AbortSignal.timeout(10000) }
       );
       if (res.ok) {
