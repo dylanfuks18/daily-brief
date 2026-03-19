@@ -46,19 +46,25 @@ async def _fetch_twikit_async():
 
     try:
         client = twikit.Client('en-US')
-
-        # Intentar usar cookies guardadas para no loguear en cada run
         cookies_path = 'twikit_cookies.json'
-        logged_in = False
-        if os.path.exists(cookies_path):
-            try:
-                client.load_cookies(cookies_path)
-                logged_in = True
-                print('  [twikit] cookies cargadas')
-            except Exception:
-                logged_in = False
 
-        if not logged_in:
+        # 1. Restaurar cookies desde GitHub Secret (base64) — evita login en CI
+        cookies_b64 = os.environ.get('TWIKIT_COOKIES', '').strip()
+        if cookies_b64:
+            try:
+                decoded = base64.b64decode(cookies_b64).decode('utf-8')
+                with open(cookies_path, 'w', encoding='utf-8') as f:
+                    f.write(decoded)
+                print('  [twikit] cookies restauradas desde secret')
+            except Exception as e:
+                print(f'  [twikit] error restaurando cookies: {e}')
+
+        # 2. Cargar cookies del archivo
+        if os.path.exists(cookies_path):
+            client.load_cookies(cookies_path)
+            print('  [twikit] cookies cargadas OK')
+        else:
+            # Fallback: login directo (puede fallar en CI)
             await client.login(auth_info_1=username, auth_info_2=email, password=password)
             client.save_cookies(cookies_path)
             print('  [twikit] login OK, cookies guardadas')

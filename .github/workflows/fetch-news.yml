@@ -28,6 +28,7 @@ jobs:
           TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME }}
           TWITTER_EMAIL: ${{ secrets.TWITTER_EMAIL }}
           TWITTER_PASSWORD: ${{ secrets.TWITTER_PASSWORD }}
+          TWIKIT_COOKIES: ${{ secrets.TWIKIT_COOKIES }}
 
       - name: Commit news.json and cookies
         run: |
