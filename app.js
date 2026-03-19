@@ -18,6 +18,77 @@ const TMDB_KEY = '504f14f901ce7bdd31f468dadcd79165';
 
 const CAT_EMOJI = { tech: '🤖', israel: '🌍', poleco: '🏛️', sports: '⚽', cinema: '🎬', ar_pol: '🇦🇷' };
 
+// ---------- SHARED UTILITIES ----------
+
+// Logo X reutilizable (evita duplicar el SVG en 3+ lugares)
+const X_LOGO_SVG = `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>`;
+
+// Fecha local YYYYMMDD (evita desfase UTC en Argentina de noche)
+const fmtLocal = d =>
+  `${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`;
+
+// Status ESPN para fútbol — centralizado para evitar duplicación entre loadMatches/buildMatchCard
+const FINISHED_STATUSES = new Set([
+  'STATUS_FINAL', 'STATUS_FULL_TIME', 'STATUS_FT', 'STATUS_FINAL_OT', 'STATUS_FINAL_PEN'
+]);
+function getMatchStatus(ev) {
+  const statusName = ev.status?.type?.name ?? '';
+  const completed  = ev.status?.type?.completed === true;
+  const isLive     = statusName === 'STATUS_IN_PROGRESS';
+  const isHalf     = statusName === 'STATUS_HALFTIME' || statusName === 'STATUS_HALF_TIME';
+  const isFinished = completed || FINISHED_STATUSES.has(statusName);
+  return { statusName, isLive, isHalf, isFinished };
+}
+
+// ---------- TWEET RSS PARSER (module scope — hoisted de tryFetchTweetsClientSide) ----------
+// Precompila regex una sola vez (evita 32 allocations por llamada)
+const _RE_ITEM   = /<item>([\s\S]*?)<\/item>/g;
+const _RE_TITLE  = /<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i;
+const _RE_DATE   = /<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i;
+const _RE_DESC   = /<description[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i;
+const _RE_LINK   = /<link>(.*?)<\/link>/i;
+const TWEET_MAX_AGE = 14 * 86400000;
+
+function parseRssXml(xml) {
+  const items = [...xml.matchAll(_RE_ITEM)].map(m => m[0]);
+  const now   = Date.now();
+  const tag   = (raw, re) => { const m = raw.match(re); return m ? m[1].replace(/<[^>]+>/g,'').trim() : ''; };
+  return items.map(raw => {
+    const title   = tag(raw, _RE_TITLE);
+    const pubDate = tag(raw, _RE_DATE);
+    const desc    = tag(raw, _RE_DESC);
+    const linkM   = raw.match(_RE_LINK) || raw.match(/<link\s*\/?>([^<]+)/i);
+    const xUrl    = (linkM ? linkM[1].trim() : '').replace(/https?:\/\/[^/]+\//, 'https://x.com/');
+    if (!title || title.length < 10) return null;
+    if (pubDate && now - new Date(pubDate).getTime() > TWEET_MAX_AGE) return null;
+    return { id: btoa(unescape(encodeURIComponent(xUrl || title))).slice(0, 20),
+             title, summary: desc || title, link: xUrl, pubDate, source: 'MokedBitajon', cat: 'israel' };
+  }).filter(Boolean).slice(0, 8);
+}
+
+// ---------- CORS PROXY HELPERS ----------
+// Configuración de proxies para tweet/RSS fetching
+const TWEET_PROXIES = [
+  {
+    buildUrl: u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+    extract:  async res => { const d = await res.json(); return (d.status?.http_code ?? 200) === 200 ? d.contents : null; }
+  },
+  {
+    buildUrl: u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    extract:  res => res.text()
+  },
+  {
+    buildUrl: u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
+    extract:  res => res.text()
+  },
+];
+
+async function fetchViaProxy(rssUrl, proxy) {
+  const res = await fetch(proxy.buildUrl(rssUrl), { signal: AbortSignal.timeout(10000) });
+  if (!res.ok) return null;
+  return proxy.extract(res);
+}
+
 // ---------- BOLD TEXT PROCESSOR ----------
 function boldifyText(text) {
   if (!text) return '';
@@ -219,120 +290,60 @@ function renderAll() {
 }
 
 // ---------- TWEET CAROUSEL ----------
+let _tweetCarouselGen = 0; // guard contra doble-render en refreshes rápidos
+
 function renderTweetCarousel(id, articles) {
   const el = document.getElementById(id);
   if (!el) return;
   if (!articles.length) {
-    // Nitter no tenía tweets en news.json → intentar fetch client-side con proxy
+    // news.json no tiene tweets → fallback client-side en paralelo
+    const gen = ++_tweetCarouselGen;
     el.innerHTML = `<div class="tweet-scroll"><div class="tweet-card" style="opacity:.5;pointer-events:none">
-      <div class="tweet-header"><div class="tweet-avatar">
-        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-      </div><div class="tweet-handle-col"><div class="tweet-name">Moked Bitajon</div><div class="tweet-at">Cargando tweets…</div></div></div>
+      <div class="tweet-header"><div class="tweet-avatar">${X_LOGO_SVG}</div>
+      <div class="tweet-handle-col"><div class="tweet-name">Moked Bitajon</div><div class="tweet-at">Cargando tweets…</div></div></div>
     </div></div>`;
     tryFetchTweetsClientSide().then(tweets => {
-      if (tweets.length) {
-        el.innerHTML = `<div class="tweet-scroll">${tweets.map(buildTweetCard).join('')}</div>`;
-      } else {
-        el.innerHTML = `<div class="tweet-scroll">
-          <a href="https://x.com/MokedBitajon" target="_blank" rel="noopener" class="tweet-card" style="text-decoration:none">
-            <div class="tweet-header">
-              <div class="tweet-avatar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div>
-              <div class="tweet-handle-col"><div class="tweet-name">Moked Bitajon</div><div class="tweet-at">@MokedBitajon</div></div>
-            </div>
-            <div class="tweet-body" style="color:var(--text3)">Abrir cuenta en X →</div>
-          </a></div>`;
-      }
+      if (gen !== _tweetCarouselGen) return; // llamada ya superada por refresh posterior
+      el.innerHTML = tweets.length
+        ? `<div class="tweet-scroll">${tweets.map(buildTweetCard).join('')}</div>`
+        : `<div class="tweet-scroll">
+            <a href="https://x.com/MokedBitajon" target="_blank" rel="noopener" class="tweet-card" style="text-decoration:none">
+              <div class="tweet-header">
+                <div class="tweet-avatar">${X_LOGO_SVG}</div>
+                <div class="tweet-handle-col"><div class="tweet-name">Moked Bitajon</div><div class="tweet-at">@MokedBitajon</div></div>
+              </div>
+              <div class="tweet-body" style="color:var(--text3)">Abrir cuenta en X →</div>
+            </a></div>`;
     });
     return;
   }
   el.innerHTML = `<div class="tweet-scroll">${articles.map(buildTweetCard).join('')}</div>`;
 }
 
-// Intenta cargar tweets de @MokedBitajon directamente desde el navegador via CORS proxy
-async function tryFetchTweetsClientSide() {
-  const NITTER_BASES = [
-    'https://twiiit.com',
-    'https://nitter.cz',
-    'https://xcancel.com',
-    'https://lightbrd.com',
-    'https://nitter.privacydev.net',
-    'https://nitter.poast.org',
-    'https://nitter.tiekoetter.com',
-    'https://nitter.net',
-    'https://nitter.kavin.rocks',
-  ];
-  const MAX_AGE = 14 * 86400000;
+// Intenta cargar tweets en paralelo — Promise.any() devuelve el primero que responda
+// (peor caso: 10s en lugar de 270s del loop secuencial anterior)
+const NITTER_BASES = [
+  'https://twiiit.com', 'https://nitter.cz', 'https://xcancel.com',
+  'https://lightbrd.com', 'https://nitter.privacydev.net', 'https://nitter.poast.org',
+  'https://nitter.tiekoetter.com', 'https://nitter.net', 'https://nitter.kavin.rocks',
+];
 
-  const parseRssXml = (xml) => {
-    const items = xml.match(/<item>([\s\S]*?)<\/item>/g) || [];
-    const now = Date.now();
-    const get = (raw, tag) => {
-      const m = raw.match(new RegExp(`<${tag}[^>]*>(?:<!\\[CDATA\\[)?((?:.|\\n)*?)(?:\\]\\]>)?<\\/${tag}>`, 'i'));
-      return m ? m[1].replace(/<[^>]+>/g, '').trim() : '';
-    };
-    return items.map(raw => {
-      const title   = get(raw, 'title');
-      const pubDate = get(raw, 'pubDate');
-      const desc    = get(raw, 'description');
-      const linkM   = raw.match(/<link>(.*?)<\/link>/i) || raw.match(/<link\s*\/?>([^<]+)/i);
-      const xUrl    = (linkM ? linkM[1].trim() : '').replace(/https?:\/\/[^/]+\//, 'https://x.com/');
-      if (!title || title.length < 10) return null;
-      if (pubDate && now - new Date(pubDate).getTime() > MAX_AGE) return null;
-      return { id: btoa(unescape(encodeURIComponent(xUrl || title))).slice(0, 20),
-               title, summary: desc || title, link: xUrl, pubDate,
-               source: 'MokedBitajon', cat: 'israel' };
-    }).filter(Boolean).slice(0, 8);
+async function tryFetchTweetsClientSide() {
+  const attempt = async (base, proxy) => {
+    const xml = await fetchViaProxy(`${base}/MokedBitajon/rss`, proxy);
+    if (!xml?.includes('<item>')) throw new Error('no items');
+    const tweets = parseRssXml(xml);
+    if (!tweets.length) throw new Error('empty after parse');
+    return tweets;
   };
 
-  for (const base of NITTER_BASES) {
-    const rssUrl = `${base}/MokedBitajon/rss`;
-
-    // Proxy 1: allorigins (devuelve JSON)
-    try {
-      const res = await fetch(
-        `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`,
-        { signal: AbortSignal.timeout(10000) }
-      );
-      if (res.ok) {
-        const data = await res.json();
-        if (data.contents && (data.status?.http_code ?? 200) === 200) {
-          const tweets = parseRssXml(data.contents);
-          if (tweets.length) return tweets;
-        }
-      }
-    } catch { /* next proxy */ }
-
-    // Proxy 2: corsproxy.io
-    try {
-      const res = await fetch(
-        `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`,
-        { signal: AbortSignal.timeout(10000) }
-      );
-      if (res.ok) {
-        const xml = await res.text();
-        if (xml && xml.includes('<item>')) {
-          const tweets = parseRssXml(xml);
-          if (tweets.length) return tweets;
-        }
-      }
-    } catch { /* next proxy */ }
-
-    // Proxy 3: codetabs
-    try {
-      const res = await fetch(
-        `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rssUrl)}`,
-        { signal: AbortSignal.timeout(10000) }
-      );
-      if (res.ok) {
-        const xml = await res.text();
-        if (xml && xml.includes('<item>')) {
-          const tweets = parseRssXml(xml);
-          if (tweets.length) return tweets;
-        }
-      }
-    } catch { /* next base */ }
+  try {
+    return await Promise.any(
+      NITTER_BASES.flatMap(base => TWEET_PROXIES.map(proxy => attempt(base, proxy)))
+    );
+  } catch {
+    return []; // AggregateError — todos fallaron
   }
-  return [];
 }
 
 function buildTweetCard(a) {
@@ -342,9 +353,7 @@ function buildTweetCard(a) {
   return `
   <div class="tweet-card" onclick="window.open('${xUrl}','_blank','noopener')">
     <div class="tweet-header">
-      <div class="tweet-avatar">
-        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.26 5.632zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-      </div>
+      <div class="tweet-avatar">${X_LOGO_SVG}</div>
       <div class="tweet-handle-col">
         <div class="tweet-name">Moked Bitajon</div>
         <div class="tweet-at">@MokedBitajon</div>
@@ -697,9 +706,6 @@ function updateBadges() {
 async function loadMatches() {
   const container = document.getElementById('matches-container');
   try {
-    // Usar fecha LOCAL (no UTC) para evitar desfase en Argentina de noche
-    const fmtLocal = d =>
-      `${d.getFullYear()}${String(d.getMonth()+1).padStart(2,'0')}${String(d.getDate()).padStart(2,'0')}`;
     const today     = new Date();
     const yesterday = new Date(today.getTime() - 86400000);
 
@@ -721,11 +727,8 @@ async function loadMatches() {
       r.value.events.forEach(ev => {
         if (seenIds.has(ev.id)) return;
         seenIds.add(ev.id);
-        const card       = buildMatchCard(ev, r.value.label, r.value.emoji);
-        const statusName = ev.status?.type?.name || '';
-        const completed  = ev.status?.type?.completed === true;
-        const isLive     = statusName === 'STATUS_IN_PROGRESS' || statusName === 'STATUS_HALFTIME' || statusName === 'STATUS_HALF_TIME';
-        const isFinished = completed || statusName === 'STATUS_FINAL' || statusName === 'STATUS_FULL_TIME' || statusName === 'STATUS_FT' || statusName === 'STATUS_FINAL_OT' || statusName === 'STATUS_FINAL_PEN';
+        const card                      = buildMatchCard(ev, r.value.label, r.value.emoji);
+        const { isLive, isFinished }    = getMatchStatus(ev);
         if (card) entries.push({ card, isLive, isFinished, date: new Date(ev.date) });
       });
     });
@@ -755,12 +758,8 @@ function buildMatchCard(ev, label, emoji = '') {
     const away = comp.competitors?.find(c => c.homeAway === 'away');
     if (!home || !away) return null;
 
-    const statusName = ev.status?.type?.name || '';
-    const completed  = ev.status?.type?.completed === true;
-    const isLive     = statusName === 'STATUS_IN_PROGRESS';
-    const isHalf     = statusName === 'STATUS_HALFTIME' || statusName === 'STATUS_HALF_TIME';
-    const isFinished = completed || statusName === 'STATUS_FINAL' || statusName === 'STATUS_FULL_TIME' || statusName === 'STATUS_FT' || statusName === 'STATUS_FINAL_OT' || statusName === 'STATUS_FINAL_PEN';
-    const clock      = ev.status?.displayClock || '';
+    const { statusName, isLive, isHalf, isFinished } = getMatchStatus(ev);
+    const clock = ev.status?.displayClock || '';
 
     const homeName = home.team?.shortDisplayName || home.team?.displayName || '';
     const awayName = away.team?.shortDisplayName || away.team?.displayName || '';
