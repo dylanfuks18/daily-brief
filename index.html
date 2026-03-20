@@ -262,14 +262,27 @@
           </div>
         </div>
 
-        <!-- Placeholder contenido -->
-        <div class="ia-coming-soon">
-          <div class="ia-coming-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2a4 4 0 014 4v1h1a3 3 0 013 3v2a3 3 0 01-3 3h-1v1a4 4 0 01-8 0v-1H7a3 3 0 01-3-3v-2a3 3 0 013-3h1V6a4 4 0 014-4z"/></svg>
+        <!-- Noticias IA -->
+        <div class="block-header" style="padding-bottom:6px">
+          <div class="block-title-row">
+            <span class="cat-emoji">📰</span>
+            <span class="block-title">Noticias IA</span>
           </div>
-          <p>El contenido está en camino</p>
-          <span>Noticias de IA, comparador de herramientas y mucho más</span>
         </div>
+
+        <!-- Filtros -->
+        <div class="ia-filters">
+          <button class="ia-filter-chip active" data-filter="todo"          onclick="renderIaNews('todo')">Todo</button>
+          <button class="ia-filter-chip"        data-filter="empresas"      onclick="renderIaNews('empresas')">Empresas</button>
+          <button class="ia-filter-chip"        data-filter="modelos"       onclick="renderIaNews('modelos')">Modelos</button>
+          <button class="ia-filter-chip"        data-filter="herramientas"  onclick="renderIaNews('herramientas')">Herramientas</button>
+          <button class="ia-filter-chip"        data-filter="desarrollo"    onclick="renderIaNews('desarrollo')">Desarrollo</button>
+          <button class="ia-filter-chip"        data-filter="diseño"        onclick="renderIaNews('diseño')">Diseño</button>
+          <button class="ia-filter-chip"        data-filter="mercado"       onclick="renderIaNews('mercado')">Mercado</button>
+        </div>
+
+        <!-- Lista -->
+        <div id="ia-news-list" class="news-list" style="margin-top:10px; padding-bottom:8px"></div>
 
       </section>
 

@@ -118,6 +118,176 @@ function boldifyText(text) {
   return result;
 }
 
+// ---------- IA MOCK NEWS DATA ----------
+const IA_MOCK_NEWS = [
+  {
+    id: 'ia1',
+    title: 'OpenAI cierra ronda de $40.000 millones y alcanza valuación récord de $300B',
+    source: 'Bloomberg',
+    date: new Date(Date.now() - 1.5*3600000),
+    summary: 'La compañía liderada por Sam Altman completó la mayor ronda de financiamiento privado de la historia tech, con SoftBank como inversor principal.',
+    tags: ['Empresas', 'Mercado'],
+    cat: 'empresas',
+  },
+  {
+    id: 'ia2',
+    title: 'GPT-4.5 ya está disponible para todos los usuarios de ChatGPT',
+    source: 'OpenAI Blog',
+    date: new Date(Date.now() - 3*3600000),
+    summary: 'El nuevo modelo mejora notablemente la coherencia en conversaciones largas y reduce alucinaciones en un 40% respecto a GPT-4o.',
+    tags: ['Modelos'],
+    cat: 'modelos',
+  },
+  {
+    id: 'ia3',
+    title: 'Claude 3.7 Sonnet: razonamiento extendido en tiempo real disponible via API',
+    source: 'Anthropic',
+    date: new Date(Date.now() - 5*3600000),
+    summary: 'El modelo híbrido de Anthropic permite controlar el "tiempo de pensamiento" antes de responder, con mejoras notables en matemáticas y código.',
+    tags: ['Modelos', 'Desarrollo'],
+    cat: 'modelos',
+  },
+  {
+    id: 'ia4',
+    title: 'Cursor supera el millón de usuarios activos y se convierte en el IDE de IA más popular',
+    source: 'TechCrunch',
+    date: new Date(Date.now() - 8*3600000),
+    summary: 'El editor basado en VS Code lidera la nueva ola de herramientas para desarrolladores, con integraciones para Claude, GPT-4o y modelos locales.',
+    tags: ['Herramientas', 'Desarrollo'],
+    cat: 'herramientas',
+  },
+  {
+    id: 'ia5',
+    title: 'Google lanza Gemini 2.0 Ultra con ventana de contexto de 2 millones de tokens',
+    source: 'Google DeepMind',
+    date: new Date(Date.now() - 12*3600000),
+    summary: 'La nueva versión soporta entrada nativa de audio, video e imágenes simultáneas y supera a GPT-4o en 15 de 18 benchmarks evaluados.',
+    tags: ['Modelos', 'Empresas'],
+    cat: 'modelos',
+  },
+  {
+    id: 'ia6',
+    title: 'Adobe Firefly 3.0 integra generación de imágenes directamente en Photoshop y Premiere',
+    source: 'Adobe',
+    date: new Date(Date.now() - 18*3600000),
+    summary: 'La nueva versión incluye generación de video, relleno generativo mejorado y una paleta de estilos artísticos entrenados con contenido licenciado.',
+    tags: ['Diseño', 'Herramientas'],
+    cat: 'diseño',
+  },
+  {
+    id: 'ia7',
+    title: 'Meta lanza Llama 4 Scout y Maverick: open-source con arquitectura de mezcla de expertos',
+    source: 'Meta AI',
+    date: new Date(Date.now() - 24*3600000),
+    summary: 'Los nuevos modelos de Meta son competitivos con GPT-4o y están disponibles de forma gratuita para uso comercial bajo licencia comunitaria.',
+    tags: ['Modelos', 'Empresas'],
+    cat: 'modelos',
+  },
+  {
+    id: 'ia8',
+    title: 'Mistral AI lanza API gratuita con acceso a Mistral Small 3.1 para desarrolladores',
+    source: 'Mistral Blog',
+    date: new Date(Date.now() - 30*3600000),
+    summary: 'La startup francesa ofrece 1 billón de tokens gratuitos por mes para fomentar la adopción de sus modelos en proyectos independientes y startups.',
+    tags: ['Desarrollo', 'Herramientas'],
+    cat: 'desarrollo',
+  },
+  {
+    id: 'ia9',
+    title: 'Figma AI lanza "Make Design": generá interfaces completas desde texto en segundos',
+    source: 'Figma',
+    date: new Date(Date.now() - 36*3600000),
+    summary: 'La función más esperada de Figma genera layouts, componentes y prototipos navegables a partir de una descripción en lenguaje natural.',
+    tags: ['Diseño'],
+    cat: 'diseño',
+  },
+  {
+    id: 'ia10',
+    title: 'El mercado global de IA generativa superará el billón de dólares antes de 2028',
+    source: 'Goldman Sachs',
+    date: new Date(Date.now() - 48*3600000),
+    summary: 'Un nuevo informe proyecta un crecimiento anual del 67% impulsado por adopción empresarial, con Estados Unidos y China liderando la inversión.',
+    tags: ['Mercado'],
+    cat: 'mercado',
+  },
+  {
+    id: 'ia11',
+    title: 'xAI lanza Grok 3 con modo de razonamiento "Think" y acceso a búsqueda en tiempo real',
+    source: 'xAI',
+    date: new Date(Date.now() - 54*3600000),
+    summary: 'El modelo de Elon Musk incluye acceso nativo a X/Twitter y destaca en análisis de datos financieros, según benchmarks internos de la compañía.',
+    tags: ['Modelos', 'Empresas'],
+    cat: 'modelos',
+  },
+  {
+    id: 'ia12',
+    title: 'Anthropic y Amazon amplían acuerdo estratégico a $8.000 millones en infraestructura cloud',
+    source: 'Reuters',
+    date: new Date(Date.now() - 60*3600000),
+    summary: 'El acuerdo convierte a AWS en la nube preferida de Anthropic para entrenamiento e inferencia, con chips Trainium2 como base de la próxima generación de Claude.',
+    tags: ['Empresas', 'Mercado'],
+    cat: 'empresas',
+  },
+];
+
+const IA_FILTERS = [
+  { key: 'todo',        label: 'Todo' },
+  { key: 'empresas',   label: 'Empresas' },
+  { key: 'modelos',    label: 'Modelos' },
+  { key: 'herramientas', label: 'Herramientas' },
+  { key: 'desarrollo', label: 'Desarrollo' },
+  { key: 'diseño',     label: 'Diseño' },
+  { key: 'mercado',    label: 'Mercado' },
+];
+
+let _iaFilter = 'todo';
+
+function fmtRelative(date) {
+  const diff = Date.now() - date.getTime();
+  const m = Math.floor(diff / 60000);
+  if (m < 60) return `hace ${m} min`;
+  const h = Math.floor(m / 60);
+  if (h < 24) return `hace ${h}h`;
+  return `hace ${Math.floor(h/24)}d`;
+}
+
+function renderIaNews(filter) {
+  _iaFilter = filter;
+
+  // Actualizar chips activos
+  document.querySelectorAll('.ia-filter-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.filter === filter);
+  });
+
+  const list = filter === 'todo'
+    ? IA_MOCK_NEWS
+    : IA_MOCK_NEWS.filter(n => n.cat === filter);
+
+  const container = document.getElementById('ia-news-list');
+  if (!container) return;
+
+  container.innerHTML = list.map(n => `
+    <div class="news-card ia-news-card">
+      <div class="card-meta">
+        <span class="card-source">${n.source}</span>
+        <span class="card-time">${fmtRelative(n.date)}</span>
+      </div>
+      <div class="card-title">${n.title}</div>
+      <div class="card-preview">${n.summary}</div>
+      <div class="ia-card-tags">
+        ${n.tags.map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function initIaSection() {
+  const section = document.getElementById('section-ia');
+  if (section.dataset.initialized) return;
+  section.dataset.initialized = '1';
+  renderIaNews('todo');
+}
+
 // ---------- STATE ----------
 let allArticles    = [];
 let isDark         = localStorage.getItem('theme') !== 'light';
@@ -178,6 +348,7 @@ function showSection(name) {
   const btn = document.getElementById('nav-' + name);
   if (btn) btn.classList.add('active-nav');
   toggleMenu();
+  if (name === 'ia') initIaSection();
 }
 
 // ---------- COLLAPSE CATEGORY ----------

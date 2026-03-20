@@ -494,6 +494,52 @@ a { text-decoration: none; color: inherit; }
 }
 .ia-quick-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
 
+/* Filter chips */
+.ia-filters {
+  display: flex; gap: 8px;
+  padding: 4px 16px 12px;
+  overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none;
+}
+.ia-filters::-webkit-scrollbar { display: none; }
+.ia-filter-chip {
+  flex-shrink: 0;
+  padding: 7px 16px;
+  border-radius: 20px;
+  font-size: 13px; font-weight: 600;
+  font-family: inherit;
+  background: var(--bg2);
+  border: 1px solid var(--separator);
+  color: var(--text3);
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.ia-filter-chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.ia-filter-chip:active { opacity: 0.75; }
+
+/* IA news card extras */
+.ia-news-card { border-left: 2px solid rgba(191,90,242,0.25); }
+
+/* Tag pills */
+.ia-card-tags {
+  display: flex; gap: 6px; flex-wrap: wrap;
+  margin-top: 10px;
+}
+.ia-tag {
+  font-size: 10px; font-weight: 700; letter-spacing: 0.3px;
+  padding: 3px 9px; border-radius: 20px;
+  text-transform: uppercase;
+}
+.ia-tag-empresas   { background: rgba(59,130,246,0.15);  color: #60a5fa; }
+.ia-tag-modelos    { background: rgba(191,90,242,0.15);  color: #c084fc; }
+.ia-tag-herramientas { background: rgba(16,185,129,0.15); color: #34d399; }
+.ia-tag-desarrollo { background: rgba(251,191,36,0.15);  color: #fbbf24; }
+.ia-tag-diseño     { background: rgba(236,72,153,0.15);  color: #f472b6; }
+.ia-tag-mercado    { background: rgba(249,115,22,0.15);  color: #fb923c; }
+
 /* Coming soon placeholder */
 .ia-coming-soon {
   display: flex; flex-direction: column; align-items: center;
