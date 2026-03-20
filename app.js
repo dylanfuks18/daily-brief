@@ -364,7 +364,160 @@ const IA_FILTERS = [
   { key: 'mercado',    label: 'Mercado' },
 ];
 
-let _iaFilter = 'todo';
+let _iaFilter       = 'todo';
+let _iaToolsSaved   = JSON.parse(localStorage.getItem('iaToolsSaved') || '[]');
+
+// ---------- IA TOOLS DATA ----------
+const IA_TOOLS = [
+  {
+    id: 'tool-chatgpt',
+    name: 'ChatGPT',
+    company: 'OpenAI',
+    cat: 'Chat & Texto',
+    catKey: 'chat',
+    color: '#10a37f',
+    emoji: '🤖',
+    desc: 'El asistente de IA más popular del mundo. Responde preguntas, escribe, analiza y razona.',
+    sirve: ['Redacción', 'Análisis', 'Código', 'Estudio'],
+    precio: 'Freemium',
+    nivel: 'Principiante',
+    link: 'https://chat.openai.com',
+    pros: ['Muy fácil de usar', 'Enorme comunidad', 'Plugins y GPTs personalizados', 'Integración con DALL-E'],
+    cons: ['GPT-4o limitado en plan gratis', 'A veces inventa hechos', 'Sin acceso a internet en plan base'],
+    precioDetalle: 'Gratis con límites · Plus $20/mes · Team $25/mes',
+    resumen: 'ChatGPT es la puerta de entrada a la IA para la mayoría. Su versión gratuita es muy capaz para tareas cotidianas; el plan Plus vale la pena si lo usás más de 1h por día.',
+  },
+  {
+    id: 'tool-claude',
+    name: 'Claude',
+    company: 'Anthropic',
+    cat: 'Chat & Texto',
+    catKey: 'chat',
+    color: '#bf5af2',
+    emoji: '✦',
+    desc: 'El modelo más preciso y honesto del mercado. Destaca en razonamiento, escritura larga y código.',
+    sirve: ['Código', 'Documentos largos', 'Análisis', 'Escritura'],
+    precio: 'Freemium',
+    nivel: 'Principiante',
+    link: 'https://claude.ai',
+    pros: ['Contexto de 200k tokens', 'Honesto: reconoce sus límites', 'Excelente en código y razonamiento', 'Modo "Extended Thinking"'],
+    cons: ['Sin generación de imágenes', 'Límites de uso en plan gratis', 'Menos integraciones que ChatGPT'],
+    precioDetalle: 'Gratis con límites · Pro $20/mes · Team $25/mes',
+    resumen: 'Claude es la elección de quienes trabajan con textos largos o código complejo. Su razonamiento es más profundo que el de ChatGPT y sus respuestas tienden a ser más precisas y menos alucinadas.',
+  },
+  {
+    id: 'tool-perplexity',
+    name: 'Perplexity',
+    company: 'Perplexity AI',
+    cat: 'Búsqueda IA',
+    catKey: 'busqueda',
+    color: '#20b2aa',
+    emoji: '🔍',
+    desc: 'Motor de búsqueda potenciado por IA que responde con fuentes citadas en tiempo real.',
+    sirve: ['Investigación', 'Noticias', 'Preguntas factuales', 'Comparativas'],
+    precio: 'Freemium',
+    nivel: 'Principiante',
+    link: 'https://perplexity.ai',
+    pros: ['Respuestas con fuentes verificadas', 'Siempre actualizado', 'Interfaz muy limpia', 'Búsqueda en PDF y YouTube'],
+    cons: ['No es tan creativo como ChatGPT/Claude', 'Plan Pro caro para lo que ofrece', 'Puede citar fuentes de baja calidad'],
+    precioDetalle: 'Gratis · Pro $20/mes',
+    resumen: 'Perplexity es el mejor reemplazo de Google para preguntas que necesitan respuesta, no solo links. Si querés saber algo específico con fuentes confiables, es la herramienta correcta.',
+  },
+  {
+    id: 'tool-midjourney',
+    name: 'Midjourney',
+    company: 'Midjourney Inc.',
+    cat: 'Imágenes IA',
+    catKey: 'imagenes',
+    color: '#e91e8c',
+    emoji: '🎨',
+    desc: 'La IA de generación de imágenes más artística. Produce resultados fotorrealistas y de alta calidad.',
+    sirve: ['Diseño', 'Ilustración', 'Concept Art', 'Marketing'],
+    precio: 'Pago',
+    nivel: 'Intermedio',
+    link: 'https://midjourney.com',
+    pros: ['La mejor calidad de imagen del mercado', 'Estética artística única', 'V6 es fotorrealista', 'Comunidad muy activa'],
+    cons: ['No tiene plan gratuito', 'Requiere Discord o web', 'Curva de aprendizaje en prompts'],
+    precioDetalle: 'Basic $10/mes · Standard $30/mes · Pro $60/mes',
+    resumen: 'Midjourney sigue siendo el rey de las imágenes generadas por IA cuando la calidad artística importa. No es el más barato ni el más fácil, pero los resultados no tienen competencia real todavía.',
+  },
+  {
+    id: 'tool-runway',
+    name: 'Runway',
+    company: 'Runway AI',
+    cat: 'Video IA',
+    catKey: 'video',
+    color: '#ff6b35',
+    emoji: '🎬',
+    desc: 'Suite de IA creativa para generar y editar video. El estándar de la industria para video IA.',
+    sirve: ['Video IA', 'Efectos visuales', 'Edición', 'Animación'],
+    precio: 'Freemium',
+    nivel: 'Intermedio',
+    link: 'https://runwayml.com',
+    pros: ['Gen-3 produce video de alta calidad', 'Herramientas de edición integradas', 'Fácil de usar para no técnicos', 'Exportación en alta resolución'],
+    cons: ['Créditos se agotan rápido', 'Videos de máximo 10 seg en plan base', 'Caro si lo usás intensamente'],
+    precioDetalle: 'Gratis (125 créditos) · Standard $15/mes · Pro $35/mes',
+    resumen: 'Runway democratizó la producción de video con IA. Para creadores de contenido y equipos de marketing, es la herramienta más completa — aunque el límite de créditos obliga a ser estratégico con cada generación.',
+  },
+  {
+    id: 'tool-cursor',
+    name: 'Cursor',
+    company: 'Anysphere',
+    cat: 'Código IA',
+    catKey: 'codigo',
+    color: '#fbbf24',
+    emoji: '💻',
+    desc: 'Editor de código con IA integrada que entiende tu proyecto completo y edita múltiples archivos a la vez.',
+    sirve: ['Programación', 'Refactoring', 'Debugging', 'Documentación'],
+    precio: 'Freemium',
+    nivel: 'Intermedio',
+    link: 'https://cursor.sh',
+    pros: ['Edición multiarchivo en una sola instrucción', 'Contexto del proyecto completo', 'Compatible con cualquier lenguaje', 'Basado en VS Code (migración fácil)'],
+    cons: ['Requiere conocimiento básico de código', 'Plan Pro necesario para uso intensivo', 'Puede sugerir código incorrecto en proyectos complejos'],
+    precioDetalle: 'Gratis (hobby) · Pro $20/mes · Business $40/mes',
+    resumen: 'Cursor es el mejor IDE con IA para desarrolladores que ya saben programar. No reemplaza el conocimiento técnico, pero multiplica tu velocidad. El "Composer" (edición multiarchivo) es la función que cambia todo.',
+  },
+  {
+    id: 'tool-notion-ai',
+    name: 'Notion AI',
+    company: 'Notion Labs',
+    cat: 'Productividad',
+    catKey: 'productividad',
+    color: '#374151',
+    emoji: '📋',
+    desc: 'IA integrada en Notion que resume, escribe, traduce y organiza información directamente en tu workspace.',
+    sirve: ['Notas', 'Resúmenes', 'Documentación', 'Traducción'],
+    precio: 'Pago',
+    nivel: 'Principiante',
+    link: 'https://notion.so/product/ai',
+    pros: ['Totalmente integrado en Notion', 'No necesita cambiar de app', 'Excelente para resumir páginas largas', 'Genera tablas y listas automáticamente'],
+    cons: ['Requiere suscripción adicional a Notion', 'No tan potente como Claude/ChatGPT aislado', 'Solo útil si ya usás Notion'],
+    precioDetalle: 'Add-on $10/mes por miembro (requiere plan Notion)',
+    resumen: 'Notion AI tiene sentido solo si ya vivís en Notion. La integración es el valor real: no tenés que copiar y pegar entre apps. Si usás otro sistema de notas, Claude o ChatGPT hacen lo mismo y más.',
+  },
+  {
+    id: 'tool-elevenlabs',
+    name: 'ElevenLabs',
+    company: 'ElevenLabs',
+    cat: 'Audio & Voz',
+    catKey: 'audio',
+    color: '#7c3aed',
+    emoji: '🔊',
+    desc: 'La plataforma de síntesis de voz con IA más avanzada. Clona voces y genera narración hiperrealista.',
+    sirve: ['Podcasts', 'Voiceover', 'Audiobros', 'Doblaje'],
+    precio: 'Freemium',
+    nivel: 'Intermedio',
+    link: 'https://elevenlabs.io',
+    pros: ['Calidad de voz más natural del mercado', 'Clonación de voz con pocos segundos de audio', 'Soporte para 30+ idiomas incluyendo español', 'API disponible para desarrolladores'],
+    cons: ['Plan gratis muy limitado (10k caracteres/mes)', 'Precios suben rápido según uso', 'Clonación de voz genera dudas éticas'],
+    precioDetalle: 'Gratis (10k chars/mes) · Starter $5/mes · Creator $22/mes',
+    resumen: 'ElevenLabs es la mejor opción para síntesis de voz realista. Para creadores de contenido, la calidad justifica el precio. La clonación de voz es impresionante pero hay que usarla con responsabilidad.',
+  },
+];
+
+// Detalle extendido para el bottom sheet
+const IA_TOOL_DETAIL = {}; // populated below
+IA_TOOLS.forEach(t => { IA_TOOL_DETAIL[t.id] = t; });
 
 function fmtRelative(date) {
   const diff = Date.now() - date.getTime();
@@ -456,11 +609,132 @@ function openIaArticle(id) {
   document.body.style.overflow = 'hidden';
 }
 
+function renderIaTools() {
+  const container = document.getElementById('ia-tools-grid');
+  if (!container) return;
+  container.innerHTML = IA_TOOLS.map(t => {
+    const saved = _iaToolsSaved.includes(t.id);
+    const precioClass = t.precio === 'Gratis' ? 'gratis' : t.precio === 'Freemium' ? 'freemium' : 'pago';
+    const nivelClass  = t.nivel  === 'Principiante' ? 'prin' : t.nivel === 'Intermedio' ? 'inter' : 'avanz';
+    return `
+    <div class="ia-tool-card" onclick="openIaTool('${t.id}')">
+      <div class="ia-tool-header" style="background:${t.color}18; border-bottom:1px solid ${t.color}30">
+        <div class="ia-tool-avatar" style="background:${t.color}22; color:${t.color}">${t.emoji}</div>
+        <div class="ia-tool-header-text">
+          <span class="ia-tool-name">${t.name}</span>
+          <span class="ia-tool-company">${t.company}</span>
+        </div>
+        <button class="ia-tool-save ${saved ? 'saved' : ''}" onclick="event.stopPropagation(); toggleSaveTool('${t.id}')" id="save-btn-${t.id}">
+          <svg viewBox="0 0 24 24" fill="${saved ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+        </button>
+      </div>
+      <div class="ia-tool-body">
+        <div class="ia-tool-cat-badge" style="color:${t.color}; background:${t.color}18">${t.cat}</div>
+        <p class="ia-tool-desc">${t.desc}</p>
+        <div class="ia-tool-sirve">
+          <span class="ia-tool-sirve-label">Sirve para</span>
+          <div class="ia-tool-sirve-tags">
+            ${t.sirve.map(s => `<span class="ia-tool-tag">${s}</span>`).join('')}
+          </div>
+        </div>
+        <div class="ia-tool-footer">
+          <span class="ia-tool-precio ia-precio-${precioClass}">${t.precio}</span>
+          <span class="ia-tool-nivel ia-nivel-${nivelClass}">${t.nivel}</span>
+          <button class="ia-tool-ver" onclick="event.stopPropagation(); openIaTool('${t.id}')">Ver más →</button>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function toggleSaveTool(id) {
+  const idx = _iaToolsSaved.indexOf(id);
+  if (idx === -1) _iaToolsSaved.push(id);
+  else _iaToolsSaved.splice(idx, 1);
+  localStorage.setItem('iaToolsSaved', JSON.stringify(_iaToolsSaved));
+  const btn = document.getElementById('save-btn-' + id);
+  if (!btn) return;
+  const saved = _iaToolsSaved.includes(id);
+  btn.classList.toggle('saved', saved);
+  btn.querySelector('svg').setAttribute('fill', saved ? 'currentColor' : 'none');
+}
+
+function openIaTool(id) {
+  const t = IA_TOOL_DETAIL[id];
+  if (!t) return;
+
+  const hero = document.getElementById('article-hero');
+  hero.style.display = 'none'; hero.src = '';
+
+  document.getElementById('article-source').textContent = t.company;
+  document.getElementById('article-time').textContent   = t.cat;
+  document.getElementById('article-title').textContent  = t.name;
+
+  const existingBtn = document.getElementById('article-load-btn');
+  if (existingBtn) existingBtn.remove();
+
+  const precioClass = t.precio === 'Gratis' ? 'gratis' : t.precio === 'Freemium' ? 'freemium' : 'pago';
+  const pros  = t.pros.map(p => `<li>${p}</li>`).join('');
+  const cons  = t.cons.map(c => `<li>${c}</li>`).join('');
+
+  document.getElementById('article-body').innerHTML = `
+    <div class="ia-article-tldr" style="background:${t.color}14; border-color:${t.color}30">
+      <span class="ia-article-tldr-label" style="color:${t.color}">En resumen</span>
+      <p>${t.resumen}</p>
+    </div>
+
+    <div class="ia-article-section">
+      <div class="ia-article-section-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Sirve para
+      </div>
+      <div class="ia-tool-sirve-tags" style="margin-bottom:4px">
+        ${t.sirve.map(s => `<span class="ia-tool-tag">${s}</span>`).join('')}
+      </div>
+    </div>
+
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px">
+      <div class="ia-article-section" style="margin:0">
+        <div class="ia-article-section-title">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+          A favor
+        </div>
+        <ul class="ia-article-points">${pros}</ul>
+      </div>
+      <div class="ia-article-section" style="margin:0">
+        <div class="ia-article-section-title">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+          En contra
+        </div>
+        <ul class="ia-article-points">${cons}</ul>
+      </div>
+    </div>
+
+    <div class="ia-article-section">
+      <div class="ia-article-section-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg>
+        Precio
+      </div>
+      <span class="ia-tool-precio ia-precio-${precioClass}" style="font-size:13px">${t.precioDetalle}</span>
+    </div>
+
+    <a href="${t.link}" target="_blank" class="ia-tool-try-btn" onclick="event.stopPropagation()">
+      Probar ${t.name} →
+    </a>
+  `;
+
+  document.getElementById('article-scroll').scrollTop = 0;
+  document.getElementById('article-overlay').classList.add('open');
+  document.getElementById('article-sheet').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
 function initIaSection() {
   const section = document.getElementById('section-ia');
   if (section.dataset.initialized) return;
   section.dataset.initialized = '1';
   renderIaNews('todo');
+  renderIaTools();
 }
 
 // ---------- STATE ----------
