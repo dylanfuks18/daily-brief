@@ -693,6 +693,12 @@ function renderIaNeeds() {
   resultEl.innerHTML = '';
 }
 
+function clearNeed() {
+  _activeNeed = null;
+  document.querySelectorAll('.ia-need-chip').forEach(c => c.classList.remove('active'));
+  document.getElementById('ia-needs-result').innerHTML = '';
+}
+
 function selectNeed(id) {
   _activeNeed = id;
 
@@ -711,10 +717,13 @@ function selectNeed(id) {
   resultEl.innerHTML = `
     <div class="ia-need-result-header">
       <span class="ia-need-result-emoji">${need.emoji}</span>
-      <div>
+      <div style="flex:1">
         <p class="ia-need-result-title">${need.label}</p>
         <p class="ia-need-result-sub">${recs.length} herramientas recomendadas</p>
       </div>
+      <button class="ia-need-clear-btn" onclick="clearNeed()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
     </div>
     ${recs.map(r => {
       const tool = IA_TOOL_DETAIL[r.toolId];

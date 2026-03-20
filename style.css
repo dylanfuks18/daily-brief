@@ -751,6 +751,15 @@ a { text-decoration: none; color: inherit; }
 .ia-need-result-emoji { font-size: 28px; }
 .ia-need-result-title { font-size: 15px; font-weight: 800; color: var(--text); }
 .ia-need-result-sub   { font-size: 12px; color: var(--text3); margin-top: 2px; }
+.ia-need-clear-btn {
+  width: 30px; height: 30px; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  background: var(--bg3); border: none; border-radius: 50%;
+  cursor: pointer; color: var(--text3);
+  transition: background 0.15s, color 0.15s;
+}
+.ia-need-clear-btn:active { background: var(--bg4); color: var(--text); }
+.ia-need-clear-btn svg { width: 13px; height: 13px; }
 
 /* Recommendation card */
 .ia-need-rec-card {
