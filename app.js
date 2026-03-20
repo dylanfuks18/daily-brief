@@ -230,6 +230,130 @@ const IA_MOCK_NEWS = [
   },
 ];
 
+// Contenido enriquecido por artículo
+const IA_ARTICLE_CONTENT = {
+  ia1: {
+    tldr: 'OpenAI recaudó $40.000 millones liderados por SoftBank, triplicando su valuación a $300B en menos de un año.',
+    points: [
+      'SoftBank aportó la mayor parte con $30.000M; el resto lo completaron fondos como Coatue y Altimeter.',
+      'La valuación pasó de $157B (ronda anterior) a $300B en menos de 12 meses.',
+      'El dinero se destinará a infraestructura de cómputo y expansión del equipo de investigación.',
+      'Sam Altman confirmó que el camino a la AGI requiere inversiones "sin precedentes en la historia".',
+    ],
+    why: 'Esta ronda consolida a OpenAI como la startup más valiosa del mundo, por encima de SpaceX. Señala que los inversores todavía creen que la IA generativa es el negocio del siglo, a pesar de que OpenAI todavía no es rentable.',
+  },
+  ia2: {
+    tldr: 'GPT-4.5 llegó a todos los usuarios de ChatGPT con mejoras reales en coherencia y menos errores factuales.',
+    points: [
+      'Reduce alucinaciones en un 40% respecto a GPT-4o según pruebas internas de OpenAI.',
+      'Mejor manejo de contexto largo: mantiene coherencia en conversaciones de más de 50 turnos.',
+      'Disponible para usuarios Free, Plus y Team; sin costo adicional.',
+      'No es un salto en razonamiento, sino en confiabilidad y "personalidad" más natural.',
+    ],
+    why: 'GPT-4.5 no es el modelo que razona como o1/o3, pero es el más agradable de usar en el día a día. OpenAI apostó a que la mayoría de los usuarios prefieren respuestas fluidas antes que pensamiento profundo.',
+  },
+  ia3: {
+    tldr: 'Claude 3.7 Sonnet combina respuesta rápida con razonamiento extendido activable, siendo el primer modelo híbrido de este tipo.',
+    points: [
+      'El modo "extended thinking" permite que el modelo piense hasta varios minutos antes de responder.',
+      'Supera a GPT-4o en benchmarks de matemáticas (AIME) y código (SWE-bench).',
+      'Disponible via API con parámetro `thinking: {budget_tokens: N}` para controlar el tiempo de razonamiento.',
+      'Anthropic lo entrenó con énfasis en honestidad: el modelo admite cuando no sabe algo.',
+    ],
+    why: 'Es la propuesta más interesante del mercado ahora mismo: un solo modelo que funciona como respuesta rápida o como razonador profundo según lo que el desarrollador necesite. Ideal para apps que mezclan tareas simples y complejas.',
+  },
+  ia4: {
+    tldr: 'Cursor se volvió el editor de código de IA más popular del mundo con 1M de usuarios activos, superando a GitHub Copilot en satisfacción.',
+    points: [
+      'Basado en VS Code, integra Claude, GPT-4o y modelos locales (Ollama) en un solo entorno.',
+      'Su función "Composer" permite editar múltiples archivos a la vez con una sola instrucción.',
+      'Reportan que el 70% de sus usuarios escribe menos código que antes de usarlo.',
+      'Recaudó $60M en su última ronda con valuación de $400M.',
+    ],
+    why: 'Cursor demuestra que el editor de código es la interfaz más natural para IA en el trabajo real. GitHub Copilot llegó primero, pero Cursor ganó siendo más ambicioso: no solo autocompleta, sino que piensa con vos.',
+  },
+  ia5: {
+    tldr: 'Gemini 2.0 Ultra establece un nuevo récord con ventana de 2 millones de tokens y entrada nativa de audio, video e imagen simultánea.',
+    points: [
+      '2 millones de tokens equivalen a procesar unas 1.500 páginas de texto de una sola vez.',
+      'Supera a GPT-4o en 15 de 18 benchmarks, incluyendo MMLU, HumanEval y MATH.',
+      'Integración nativa con Google Search, Maps, Gmail y YouTube para respuestas con contexto real.',
+      'Disponible en Gemini Advanced y vía API en Google AI Studio sin costo adicional por ahora.',
+    ],
+    why: 'Google finalmente tiene un modelo que compite de igual a igual con OpenAI en calidad. La ventaja de Gemini es la integración con el ecosistema Google — nadie más puede ofrecer acceso a tu Gmail o tu historial de búsqueda.',
+  },
+  ia6: {
+    tldr: 'Adobe Firefly 3.0 lleva la IA generativa directamente al flujo de trabajo de diseñadores en Photoshop y Premiere, sin salir de la app.',
+    points: [
+      'Generación de video de hasta 60 segundos directamente en la línea de tiempo de Premiere Pro.',
+      'Relleno generativo mejorado: ahora mantiene iluminación y perspectiva del contexto original.',
+      'Paleta de 1.000+ estilos artísticos, todos entrenados con imágenes licenciadas (sin problemas de copyright).',
+      'Integración con Firefly API para que agencias puedan automatizar producción de assets.',
+    ],
+    why: 'Adobe entendió que los diseñadores no quieren salir a Midjourney y volver. Al meter todo dentro de sus apps, apuesta a que la conveniencia gana sobre la calidad pura. Y para trabajo comercial, el modelo libre de copyright es un argumento decisivo.',
+  },
+  ia7: {
+    tldr: 'Meta lanzó Llama 4 con arquitectura MoE (mezcla de expertos), siendo el modelo open-source más capaz hasta la fecha y de uso comercial libre.',
+    points: [
+      'Scout (17B activos / 109B totales) y Maverick (17B activos / 400B totales) disponibles para descargar.',
+      'Ventana de contexto de 10 millones de tokens en Scout — el mayor de cualquier modelo público.',
+      'Maverick supera a GPT-4o y Gemini 2.0 Flash en benchmarks de razonamiento multimodal.',
+      'Licencia comunitaria: cualquier empresa con menos de 700M de usuarios puede usarlo gratis.',
+    ],
+    why: 'Llama 4 es el mejor argumento contra el modelo cerrado. Si podés ejecutarlo en tus propios servidores con resultados comparables a GPT-4o, ¿por qué pagarle a OpenAI? Meta regala el modelo para destruir el negocio de sus competidores.',
+  },
+  ia8: {
+    tldr: 'Mistral ofrece 1B de tokens gratuitos por mes de su modelo Mistral Small 3.1 para que desarrolladores construyan sin fricción.',
+    points: [
+      'Mistral Small 3.1 corre localmente en una GPU de 24GB con rendimiento comparable a modelos 3x más grandes.',
+      'API compatible con el formato de OpenAI: migración con cambio mínimo de código.',
+      'Soporte para 80+ idiomas incluido español con excelente calidad.',
+      'El tier gratuito no requiere tarjeta de crédito ni aprobación manual.',
+    ],
+    why: 'Mistral está haciendo lo que hizo Stripe en pagos: quitar toda la fricción para que el primer MVP sea gratis. Una vez que integraste su API en tu app, cambiarla tiene costo. El tier gratuito es su estrategia de adquisición.',
+  },
+  ia9: {
+    tldr: 'La función Make Design de Figma genera pantallas completas desde texto, incluyendo componentes reales de tu design system.',
+    points: [
+      'Entiende el contexto: si tenés un design system cargado, usa tus propios componentes en lugar de generar nuevos.',
+      'Genera prototipos navegables, no solo imágenes estáticas.',
+      'Disponible para todos los planes de Figma, incluyendo el gratuito con límite de usos.',
+      'Funciona en español: podés describir la pantalla en tu idioma sin necesidad de prompt en inglés.',
+    ],
+    why: 'Make Design no reemplaza al diseñador pero sí cambia cuándo lo necesitás. Ahora el primer borrador lo puede hacer el product manager o el dev, y el diseñador entra a refinar. El proceso de diseño se acelera 3x en la etapa de exploración.',
+  },
+  ia10: {
+    tldr: 'Goldman Sachs proyecta que la IA generativa alcanzará $1 billón en ingresos anuales antes de 2028, con un crecimiento del 67% anual.',
+    points: [
+      'El software empresarial de IA será el segmento más grande, superando al hardware (chips) hacia 2026.',
+      'Estados Unidos y China concentran el 75% de la inversión global; Europa queda rezagada.',
+      'Las industrias más impactadas serán: finanzas, salud, manufactura y marketing.',
+      'El informe advierte que la productividad prometida todavía no se refleja en datos macroeconómicos.',
+    ],
+    why: 'El billón de dólares es la apuesta de que la IA pasa de "herramienta de experimentación" a "infraestructura crítica". La advertencia final del informe es honesta: todavía estamos en la fase de inversión, no de retorno.',
+  },
+  ia11: {
+    tldr: 'Grok 3 de xAI llega con modo de razonamiento propio y acceso en tiempo real a X/Twitter, posicionándose como alternativa real a GPT-4o.',
+    points: [
+      'El modo "Think" activa razonamiento paso a paso similar a o1 de OpenAI, pero con respuestas más concisas.',
+      'Acceso nativo a posts de X en tiempo real: puede analizar trending topics del momento.',
+      'Disponible para suscriptores de X Premium+ ($16/mes) y vía API para empresas.',
+      'Benchmarks internos muestran superioridad en análisis financiero y preguntas de cultura pop.',
+    ],
+    why: 'La gran apuesta de Grok es el acceso a X como fuente de datos en tiempo real. Ningún otro modelo tiene eso. Si necesitás saber qué está pasando ahora mismo en el mundo, Grok tiene una ventaja estructural que los otros no pueden copiar fácilmente.',
+  },
+  ia12: {
+    tldr: 'Anthropic duplicó su acuerdo con Amazon a $8B, convirtiendo a AWS en la nube exclusiva para entrenar y servir modelos de Claude.',
+    points: [
+      'Los chips Trainium2 de Amazon serán la base para entrenar la próxima generación de modelos Claude.',
+      'Claude estará disponible como servicio nativo dentro de Amazon Bedrock para empresas.',
+      'El acuerdo incluye colaboración en seguridad de IA: Anthropic asesora a Amazon en políticas de uso responsable.',
+      'Amazon tiene opción de participación accionaria en Anthropic como parte del trato.',
+    ],
+    why: 'Este acuerdo cambia la dinámica competitiva: Amazon tiene chips propios, infraestructura global y ahora el modelo más confiable del mercado. Microsoft tiene a OpenAI y Google tiene sus propios modelos. Amazon eligió la ruta de la alianza en lugar de construir desde cero.',
+  },
+};
+
 const IA_FILTERS = [
   { key: 'todo',        label: 'Todo' },
   { key: 'empresas',   label: 'Empresas' },
@@ -254,7 +378,6 @@ function fmtRelative(date) {
 function renderIaNews(filter) {
   _iaFilter = filter;
 
-  // Actualizar chips activos
   document.querySelectorAll('.ia-filter-chip').forEach(c => {
     c.classList.toggle('active', c.dataset.filter === filter);
   });
@@ -267,7 +390,7 @@ function renderIaNews(filter) {
   if (!container) return;
 
   container.innerHTML = list.map(n => `
-    <div class="news-card ia-news-card">
+    <div class="news-card ia-news-card" onclick="openIaArticle('${n.id}')">
       <div class="card-meta">
         <span class="card-source">${n.source}</span>
         <span class="card-time">${fmtRelative(n.date)}</span>
@@ -279,6 +402,58 @@ function renderIaNews(filter) {
       </div>
     </div>
   `).join('');
+}
+
+function openIaArticle(id) {
+  const n = IA_MOCK_NEWS.find(x => x.id === id);
+  if (!n) return;
+  const c = IA_ARTICLE_CONTENT[id] || {};
+
+  // Limpiar hero
+  const hero = document.getElementById('article-hero');
+  hero.style.display = 'none'; hero.src = '';
+
+  document.getElementById('article-source').textContent = n.source;
+  document.getElementById('article-time').textContent   = fmtRelative(n.date);
+  document.getElementById('article-title').textContent  = n.title;
+
+  // Eliminar botón de carga si existe (no aplica a IA)
+  const existingBtn = document.getElementById('article-load-btn');
+  if (existingBtn) existingBtn.remove();
+
+  // Construir cuerpo estructurado
+  const points = (c.points || []).map(p => `<li>${p}</li>`).join('');
+  document.getElementById('article-body').innerHTML = `
+    ${c.tldr ? `
+    <div class="ia-article-tldr">
+      <span class="ia-article-tldr-label">TL;DR</span>
+      <p>${c.tldr}</p>
+    </div>` : ''}
+    ${points ? `
+    <div class="ia-article-section">
+      <div class="ia-article-section-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+        Puntos clave
+      </div>
+      <ul class="ia-article-points">${points}</ul>
+    </div>` : ''}
+    ${c.why ? `
+    <div class="ia-article-section">
+      <div class="ia-article-section-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        Por qué importa
+      </div>
+      <p class="ia-article-why">${c.why}</p>
+    </div>` : ''}
+    <div class="ia-article-tags-row">
+      ${n.tags.map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('')}
+    </div>
+  `;
+
+  document.getElementById('article-scroll').scrollTop = 0;
+  document.getElementById('article-overlay').classList.add('open');
+  document.getElementById('article-sheet').classList.add('open');
+  document.body.style.overflow = 'hidden';
 }
 
 function initIaSection() {
