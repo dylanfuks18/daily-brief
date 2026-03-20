@@ -10,7 +10,7 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icon-192.png">
   <title>Daily Brief</title>
-  <link rel="stylesheet" href="style.css?v=20260318g">
+  <link rel="stylesheet" href="style.css?v=20260320a">
 </head>
 <body class="dark">
 
@@ -57,6 +57,13 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v2"/></svg>
         </span>
         <span>Busqueda Laboral</span>
+      </button>
+      <button class="menu-item" id="nav-ia" onclick="showSection('ia')">
+        <span class="menu-icon menu-icon-ia">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2a4 4 0 014 4v1h1a3 3 0 013 3v2a3 3 0 01-3 3h-1v1a4 4 0 01-8 0v-1H7a3 3 0 01-3-3v-2a3 3 0 013-3h1V6a4 4 0 014-4z"/><circle cx="9" cy="10" r="1" fill="currentColor"/><circle cx="15" cy="10" r="1" fill="currentColor"/><path d="M9 14s1 1.5 3 1.5 3-1.5 3-1.5"/></svg>
+        </span>
+        <span>Inteligencia Artificial</span>
+        <span class="menu-item-badge-new">NEW</span>
       </button>
       <div class="menu-divider"></div>
       <button class="menu-item theme-btn" onclick="toggleTheme()">
@@ -216,6 +223,56 @@
         </div>
       </section>
 
+      <!-- IA -->
+      <section id="section-ia" class="content-section">
+
+        <!-- Hero -->
+        <div class="ia-hero">
+          <div class="ia-hero-glow"></div>
+          <div class="ia-hero-content">
+            <div class="ia-hero-eyebrow">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>
+              Tu radar de inteligencia artificial
+            </div>
+            <h1 class="ia-hero-title">Inteligencia<br><span class="ia-hero-title-accent">Artificial</span></h1>
+            <p class="ia-hero-sub">Noticias, herramientas y comparativas. Todo lo que necesitás saber sobre IA, en un solo lugar.</p>
+
+            <!-- Search bar -->
+            <div class="ia-search">
+              <svg class="ia-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+              <input class="ia-search-input" type="text" placeholder='¿Para qué necesitás IA hoy?' readonly onclick="this.blur()">
+              <span class="ia-search-hint">Próximamente</span>
+            </div>
+
+            <!-- Quick access -->
+            <div class="ia-quick">
+              <button class="ia-quick-btn" onclick="">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 11a9 9 0 019-9M4 11a9 9 0 009 9"/><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/></svg>
+                Ver noticias
+              </button>
+              <button class="ia-quick-btn" onclick="">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+                Explorar herramientas
+              </button>
+              <button class="ia-quick-btn" onclick="">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 015.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                Buscar por necesidad
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Placeholder contenido -->
+        <div class="ia-coming-soon">
+          <div class="ia-coming-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2a4 4 0 014 4v1h1a3 3 0 013 3v2a3 3 0 01-3 3h-1v1a4 4 0 01-8 0v-1H7a3 3 0 01-3-3v-2a3 3 0 013-3h1V6a4 4 0 014-4z"/></svg>
+          </div>
+          <p>El contenido está en camino</p>
+          <span>Noticias de IA, comparador de herramientas y mucho más</span>
+        </div>
+
+      </section>
+
       <!-- JOBS -->
       <section id="section-jobs" class="content-section">
         <div class="block-header">
@@ -289,6 +346,6 @@
     </div>
   </div>
 
-  <script src="app.js?v=20260319a"></script>
+  <script src="app.js?v=20260320a"></script>
 </body>
 </html>
