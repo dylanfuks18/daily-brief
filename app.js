@@ -519,6 +519,75 @@ const IA_TOOLS = [
 const IA_TOOL_DETAIL = {}; // populated below
 IA_TOOLS.forEach(t => { IA_TOOL_DETAIL[t.id] = t; });
 
+// ---------- IA NEEDS DATA ----------
+const IA_NEEDS = [
+  { id: 'escribir',       label: 'Escribir',             emoji: '✍️' },
+  { id: 'resumir',        label: 'Resumir',               emoji: '📝' },
+  { id: 'investigar',     label: 'Investigar',            emoji: '🔍' },
+  { id: 'diseñar',        label: 'Diseñar imágenes',      emoji: '🎨' },
+  { id: 'presentaciones', label: 'Presentaciones',        emoji: '📊' },
+  { id: 'programar',      label: 'Programar',             emoji: '💻' },
+  { id: 'video',          label: 'Editar video',          emoji: '🎬' },
+  { id: 'trabajo',        label: 'Buscar trabajo',        emoji: '💼' },
+  { id: 'automatizar',    label: 'Automatizar tareas',    emoji: '⚡' },
+  { id: 'estudiar',       label: 'Estudiar mejor',        emoji: '📚' },
+];
+
+const IA_NEED_RECS = {
+  escribir: [
+    { toolId: 'tool-claude',   porQue: 'Genera textos largos con coherencia excepcional. Ideal para artículos, emails formales y contenido estructurado.', paraQuien: 'Redactores, estudiantes, profesionales que escriben mucho', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+    { toolId: 'tool-chatgpt',  porQue: 'Versátil para cualquier tipo de escritura: creativa, técnica o informal. El más popular por algo.', paraQuien: 'Todo el mundo, especialmente quienes recién empiezan con IA', dificultad: 'Fácil', alternativa: 'Claude' },
+    { toolId: 'tool-notion-ai',porQue: 'Si ya trabajás en Notion, escribir con IA dentro del mismo espacio es lo más cómodo que existe.', paraQuien: 'Equipos y personas que usan Notion como hub de trabajo', dificultad: 'Fácil', alternativa: 'Claude' },
+  ],
+  resumir: [
+    { toolId: 'tool-claude',     porQue: 'Con 200k tokens de contexto, puede leer y resumir documentos enteros de una sola vez sin perder el hilo.', paraQuien: 'Analistas, estudiantes, quienes leen muchos informes o papers', dificultad: 'Fácil', alternativa: 'Perplexity' },
+    { toolId: 'tool-perplexity', porQue: 'Puede resumir páginas web y PDFs con citas. Perfecto cuando querés el resumen y la fuente al mismo tiempo.', paraQuien: 'Investigadores y curiosos que leen mucho contenido online', dificultad: 'Fácil', alternativa: 'Claude' },
+    { toolId: 'tool-notion-ai',  porQue: 'Resumen integrado en tus notas: seleccionás un texto en Notion y con un clic lo resumís sin salir.', paraQuien: 'Usuarios de Notion que quieren flujo de trabajo ágil', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+  ],
+  investigar: [
+    { toolId: 'tool-perplexity', porQue: 'El mejor para investigar: responde con fuentes verificadas en tiempo real. Mucho mejor que buscar en Google y leer 10 páginas.', paraQuien: 'Estudiantes, periodistas, cualquiera que necesite info confiable rápido', dificultad: 'Fácil', alternativa: 'Claude' },
+    { toolId: 'tool-claude',     porQue: 'Ideal para análisis profundo cuando ya tenés la información. Procesá papers, PDFs o reportes largos de una sola vez.', paraQuien: 'Investigadores, analistas, estudiantes avanzados', dificultad: 'Fácil', alternativa: 'Perplexity' },
+    { toolId: 'tool-chatgpt',    porQue: 'Con navegación web habilitada en el plan Plus, puede buscar y sintetizar información actualizada al momento.', paraQuien: 'Usuarios de ChatGPT Plus que quieren todo en un lugar', dificultad: 'Fácil', alternativa: 'Perplexity' },
+  ],
+  'diseñar': [
+    { toolId: 'tool-midjourney', porQue: 'La mejor calidad de imagen con IA. Si querés que algo se vea impresionante, Midjourney es el estándar de la industria.', paraQuien: 'Diseñadores, artistas, marketers que necesitan imágenes de alto impacto', dificultad: 'Intermedio', alternativa: 'DALL-E 3 (dentro de ChatGPT)' },
+    { toolId: 'tool-notion-ai',  porQue: 'Para mockups rápidos de interfaces, Notion AI puede ayudarte a pensar la estructura antes de diseñar.', paraQuien: 'Diseñadores de producto en fase de ideación', dificultad: 'Fácil', alternativa: 'Midjourney' },
+    { toolId: 'tool-chatgpt',    porQue: 'DALL-E 3 integrado genera imágenes directamente en el chat, sin salir de la app. Menos potente pero muy cómodo.', paraQuien: 'Quienes quieren imágenes rápidas sin aprender otra herramienta', dificultad: 'Fácil', alternativa: 'Midjourney' },
+  ],
+  presentaciones: [
+    { toolId: 'tool-claude',    porQue: 'Estructurá el contenido, los títulos y el guión de cada slide en segundos. Lo exportás a PowerPoint o Canva.', paraQuien: 'Profesionales que necesitan presentaciones claras y bien argumentadas', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+    { toolId: 'tool-chatgpt',   porQue: 'Genera el esquema completo de una presentación y puede crear el contenido slide a slide si lo guiás bien.', paraQuien: 'Estudiantes y profesionales que necesitan presentar ideas rápido', dificultad: 'Fácil', alternativa: 'Claude' },
+    { toolId: 'tool-midjourney',porQue: 'Para las imágenes de fondo, ilustraciones o visuales que hacen que una presentación destaque visualmente.', paraQuien: 'Diseñadores o quienes quieren presentaciones visualmente impactantes', dificultad: 'Intermedio', alternativa: 'DALL-E 3' },
+  ],
+  programar: [
+    { toolId: 'tool-cursor',  porQue: 'El IDE con IA más poderoso. Entiende tu proyecto completo y puede editar múltiples archivos con una sola instrucción.', paraQuien: 'Desarrolladores con conocimiento básico o avanzado de código', dificultad: 'Intermedio', alternativa: 'GitHub Copilot' },
+    { toolId: 'tool-claude',  porQue: 'Mejor que ChatGPT para debugging y arquitectura. Explica el código con claridad y señala errores de lógica.', paraQuien: 'Devs que quieren un reviewer inteligente en el chat', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+    { toolId: 'tool-chatgpt', porQue: 'Perfecto para generar snippets, explicar errores y aprender conceptos nuevos de programación de forma conversacional.', paraQuien: 'Principiantes en programación o quienes aprenden un lenguaje nuevo', dificultad: 'Fácil', alternativa: 'Claude' },
+  ],
+  video: [
+    { toolId: 'tool-runway',    porQue: 'La suite de video IA más completa: generación, edición, rotoscopia y efectos visuales en una sola plataforma.', paraQuien: 'Creadores de contenido, marketers, cineastas indie', dificultad: 'Intermedio', alternativa: 'Sora (OpenAI)' },
+    { toolId: 'tool-midjourney',porQue: 'Generá el storyboard visual con imágenes de alta calidad antes de producir el video final.', paraQuien: 'Directores y creadores en fase de preproducción', dificultad: 'Intermedio', alternativa: 'DALL-E 3' },
+    { toolId: 'tool-elevenlabs',porQue: 'Narración en voz hiperrealista para voiceover de videos. Evitás grabar en estudio para contenido de calidad profesional.', paraQuien: 'YouTubers, podcasters, creadores que necesitan narración', dificultad: 'Intermedio', alternativa: 'Murf AI' },
+  ],
+  trabajo: [
+    { toolId: 'tool-chatgpt', porQue: 'Mejorá tu CV, escribí cartas de presentación personalizadas y preparate para entrevistas con práctica de preguntas reales.', paraQuien: 'Cualquiera en búsqueda activa de empleo', dificultad: 'Fácil', alternativa: 'Claude' },
+    { toolId: 'tool-claude',  porQue: 'Redacta emails profesionales perfectos, adapta tu perfil de LinkedIn y analiza ofertas laborales para ver si encajás.', paraQuien: 'Profesionales que quieren comunicación impecable con empleadores', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+    { toolId: 'tool-perplexity', porQue: 'Investigá empresas, industrias y salarios antes de una entrevista. Llegá sabiendo más que el entrevistador.', paraQuien: 'Candidatos que quieren ir preparados a cada entrevista', dificultad: 'Fácil', alternativa: 'Claude' },
+  ],
+  automatizar: [
+    { toolId: 'tool-chatgpt', porQue: 'Con GPTs personalizados y la API, podés crear flujos automáticos para emails, resúmenes y reportes sin saber programar.', paraQuien: 'Profesionales que quieren automatizar tareas repetitivas sin código', dificultad: 'Intermedio', alternativa: 'Claude API' },
+    { toolId: 'tool-cursor',  porQue: 'Si sabés un poco de código, Cursor te ayuda a crear scripts de automatización personalizados en minutos.', paraQuien: 'Devs o semi-técnicos que quieren automatizaciones a medida', dificultad: 'Avanzado', alternativa: 'ChatGPT' },
+    { toolId: 'tool-notion-ai', porQue: 'Automatizá la organización de tu workspace: generación de tareas, resúmenes de reuniones y plantillas con un clic.', paraQuien: 'Equipos que viven en Notion y quieren flujos más ágiles', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+  ],
+  estudiar: [
+    { toolId: 'tool-claude',     porQue: 'Explicá cualquier tema con la profundidad que querés: pedile que te lo explique como si tuvieras 10 años o como experto.', paraQuien: 'Estudiantes de todos los niveles que quieren entender, no solo memorizar', dificultad: 'Fácil', alternativa: 'ChatGPT' },
+    { toolId: 'tool-perplexity', porQue: 'Investigá temas con fuentes verificadas. Ideal para trabajos académicos donde necesitás citas confiables.', paraQuien: 'Universitarios e investigadores que necesitan fuentes', dificultad: 'Fácil', alternativa: 'Claude' },
+    { toolId: 'tool-chatgpt',    porQue: 'Creá flashcards, simulá exámenes y pedí que te haga preguntas de práctica sobre cualquier tema al instante.', paraQuien: 'Estudiantes que preparan exámenes y quieren práctica activa', dificultad: 'Fácil', alternativa: 'Claude' },
+  ],
+};
+
+let _activeNeed = null;
+
 function fmtRelative(date) {
   const diff = Date.now() - date.getTime();
   const m = Math.floor(diff / 60000);
@@ -607,6 +676,75 @@ function openIaArticle(id) {
   document.getElementById('article-overlay').classList.add('open');
   document.getElementById('article-sheet').classList.add('open');
   document.body.style.overflow = 'hidden';
+}
+
+function renderIaNeeds() {
+  const chipsEl = document.getElementById('ia-needs-chips');
+  const resultEl = document.getElementById('ia-needs-result');
+  if (!chipsEl) return;
+
+  chipsEl.innerHTML = IA_NEEDS.map(n => `
+    <button class="ia-need-chip" data-need="${n.id}" onclick="selectNeed('${n.id}')">
+      <span class="ia-need-emoji">${n.emoji}</span>
+      <span>${n.label}</span>
+    </button>
+  `).join('');
+
+  resultEl.innerHTML = '';
+}
+
+function selectNeed(id) {
+  _activeNeed = id;
+
+  // Actualizar chips
+  document.querySelectorAll('.ia-need-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.need === id);
+  });
+
+  const need  = IA_NEEDS.find(n => n.id === id);
+  const recs  = IA_NEED_RECS[id] || [];
+  const resultEl = document.getElementById('ia-needs-result');
+  if (!resultEl) return;
+
+  const difClass = d => d === 'Fácil' ? 'prin' : d === 'Intermedio' ? 'inter' : 'avanz';
+
+  resultEl.innerHTML = `
+    <div class="ia-need-result-header">
+      <span class="ia-need-result-emoji">${need.emoji}</span>
+      <div>
+        <p class="ia-need-result-title">${need.label}</p>
+        <p class="ia-need-result-sub">${recs.length} herramientas recomendadas</p>
+      </div>
+    </div>
+    ${recs.map(r => {
+      const tool = IA_TOOL_DETAIL[r.toolId];
+      if (!tool) return '';
+      return `
+      <div class="ia-need-rec-card" onclick="openIaTool('${tool.id}')">
+        <div class="ia-need-rec-top">
+          <div class="ia-need-rec-avatar" style="background:${tool.color}22; color:${tool.color}">${tool.emoji}</div>
+          <div class="ia-need-rec-info">
+            <span class="ia-need-rec-name">${tool.name}</span>
+            <span class="ia-tool-nivel ia-nivel-${difClass(r.dificultad)}" style="font-size:9px">${r.dificultad}</span>
+          </div>
+        </div>
+        <p class="ia-need-rec-porque">${r.porQue}</p>
+        <div class="ia-need-rec-meta">
+          <div class="ia-need-rec-meta-item">
+            <span class="ia-need-rec-meta-label">Para quién</span>
+            <span class="ia-need-rec-meta-val">${r.paraQuien}</span>
+          </div>
+          <div class="ia-need-rec-meta-item">
+            <span class="ia-need-rec-meta-label">Alternativa</span>
+            <span class="ia-need-rec-meta-val ia-need-alt" onclick="event.stopPropagation()">${r.alternativa}</span>
+          </div>
+        </div>
+      </div>`;
+    }).join('')}
+  `;
+
+  // Scroll suave al resultado
+  resultEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
 function renderIaTools() {
@@ -734,6 +872,7 @@ function initIaSection() {
   if (section.dataset.initialized) return;
   section.dataset.initialized = '1';
   renderIaNews('todo');
+  renderIaNeeds();
   renderIaTools();
 }
 
