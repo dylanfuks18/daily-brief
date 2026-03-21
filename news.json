@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "id": "aHR0cHM6Ly93d3cuZ2Vu",
-      "title": "Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta",
-      "summary": "Genbeta se lanzó al mundo en el año 2005, hace ya dos décadas (y algunos meses). Si ya eras usuario de Internet por aquellos tiempos, estarás de acuerdo con que éste ha cambiado mucho en estos últimos 20 años , y no siempre para mejor. Hagamos un breve recorrido por el carril de la nostalgia en la 'autopista de la información'. De la web de enlaces a la web de feeds A principios de los 2000, Internet se organizaba alrededor de enlaces . Uno llegaba a una página web, encontraba hipervínculos y decidía a dónde ir después. El control de la navegación estaba en el usuario. Los blogs enlazaban a otros blogs, y los buscadores indexaban páginas relativamente estáticas. Hoy, gran parte del tráfico pasa por feeds basados en algoritmos . En lugar de decidir qué leer, el usuario desplaza el dedo mientras un sistema decide por él. Esto no ocurre solo en redes sociales como Facebook, Instagram o TikTok ( que es donde la mayoría de los usuarios comparten sus contenidos , relegados ya los foros y los blogs a un lugar secundario), sino también en YouTube, Spotify, Netflix, Amazon o LinkedIn. El feed no es neutral: está optimizado para maximizar tiempo de permanencia, interacción y retorno publicitario. Eso significa priorizar contenido emocional, repetitivo, polarizante o diseñado para enganchar rápido, sumergiéndonos en una secuencia infinita que nos invita a no salir de ella. Donde el enlace distribuía la atención, el feed la centraliza. Y el usuario ahora consume contenidos preestablecidos por otros, en lugar de explorar Cuando las plataformas empeoran a propósito En los últimos años, se ha popularizado un término no del todo elegante, pero sí bastante preciso: enshittification (literalmente, enmierdización ). El concepto fue popularizado por Cory Doctorow para describir el ciclo de degradación típico de las plataformas digitales. El proceso suele seguir cuatro fases reconocibles: La plataforma es buena para los usuarios : Piensa en el Facebook de los años 2007–2012, en el busca",
-      "link": "https://www.genbeta.com/a-fondo/asi-ha-cambiado-internet-20-anos-transcurridos-lanzamiento-genbeta",
-      "pubDate": "Wed, 31 Dec 2025 11:01:00 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/616c06/chatgpt-image-30-dic-2025-18_30_10/1024_2000.png"
-    },
-    {
       "id": "aHR0cHM6Ly92ZW50dXJl",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud . As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications? said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up. The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a $20 million Series A from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors. Why three-minute deploy times have become unacceptable in the age of AI coding assistants Railway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using Terraform , the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like Claude , ChatGPT , and Cursor can generate wor",
@@ -53,44 +43,53 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFy",
-      "title": "Levante 4-2 Oviedo | Resumen LaLiga",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/2026/03/21/levante-4-2-oviedo-resumen-laliga-video.html",
-      "pubDate": "Sat, 21 Mar 2026 20:59:06 +0100",
+      "title": "El Sevilla tiene un problemón",
+      "summary": "El centrocampista del Valencia Largie Ramazani, celebra su gol contra el Sevilla.",
+      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/03/21/sevilla-mete-lio.html",
+      "pubDate": "Sat, 21 Mar 2026 23:04:39 +0100",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/21/69bef87fcf85a.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/21/69bf15e7ccd6f.jpeg"
     },
     {
       "id": "aHR0cHM6Ly9hY3R1YWxp",
-      "title": "Imágenes de las devastadoras consecuencias del ataque contra un complejo residencial y turístico en Irán",
-      "summary": "Un ataque aéreo estadounidense-israelí alcanzó un complejo residencial y turístico en la ciudad de Ahvaz, en el suroeste de Irán, dejándolo en ruinas. En el bombardeo murió un niño, mientras varias personas más resultaron heridas. Los equipos de rescate están trabajando en el lugar para retirar los escombros.",
-      "link": "https://actualidad.rt.com/actualidad/594366-imagenes-devastadoras-consecuencias-ataque-complejo-residencial-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 21 Mar 2026 20:09:14 +0000",
+      "title": "Vuelven a España más de 200 militares evacuados de Irak (VIDEO)",
+      "summary": "Desde el Ministerio de Defensa comunicaron previamente que la evacuación se produjo debido a la escalada en Oriente Medio provocada por la ofensiva de EE.UU. e Israel contra Irán, que Madrid califica de \"ilegal\".",
+      "link": "https://actualidad.rt.com/actualidad/594392-vuelven-espana-200-militares-evacuados-irak?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 21 Mar 2026 22:15:18 +0000",
       "source": "RT en Español",
       "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69bec3fae9ff71721e5e596a.jpeg"
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69beeeef59bf5b139a545b89.jpg"
     },
     {
       "id": "aHR0cHM6Ly93d3cubGFu",
-      "title": "El último informe Poverty Tracker revela una realidad crítica para la ciudad de Nueva York",
-      "summary": "Recientemente, se publicó el nuevo informe de Poverty Tracker que reveló datos sobre la pobreza en la ciudad de Nueva York . Los números corresponden a 2024 y representan la cifra más alta desde que se comenzó a realizar la medición hace más de una década. Además de la alerta en la comparación con otros años, la Gran Manzana también tiene un índice elevado en contraste con las cifras nacionales. Las cifras de pobreza en Nueva York que reveló el informe Poverty Tracker La última edición se conoció esta semana, aunque los datos anuales corresponden a 2024 . Los múltiples autores que llevaron a cabo la investigación publicaron las cifras y dieron algunas recomendaciones sobre qué hacer para enfrentar esta crisis. Según consta en el documento, estos fueron los números más relevantes del nuevo Poverty Tracker : En 2024, casi 2,2 millones de neoyorquinos , que representan al 26% de la población, vivían en la pobreza . La cifra duplicó el promedio nacional del 13% . Más de la mitad de los habitantes de la Gran Manzana eran de bajos ingresos , ya que no superaban el 200% del umbral de pobreza. Concretamente la cifra fue 5 millones de personas , el 59% . Dentro de las familias de Nueva York, el 51% de los adultos y el 59% de los niños sufrió al menos una dificultad material durante 2024 . Este concepto engloba cuestiones como falta de alimentos o problemas para pagar la renta . La urgencia económica se tradujo en problemas de salud , con el 20% que sufrió algún tipo de inconveniente y el 27% que tuvo angustia psicológica grave . Ambas cifras son superiores a los datos prepandemia. La llamada de Mamdani a una inquilina de Nueva York en medio de las audiencias Los latinos, los más afectados por la pobreza en Nueva York Además de las cifras globales, el Poverty Tracker también se enfocó en distinguir cuáles son las poblaciones que más sufren los bajos ingresos . En ese sentido, se presentaron las siguientes cifras: Los neoyorquinos latinos y asiáticos , con el 33% y 30% respect",
-      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/el-ultimo-informe-poverty-tracker-revela-una-realidad-critica-para-la-ciudad-de-nueva-york-nid21032026/",
-      "pubDate": "Sat, 21 Mar 2026 20:07:00 +0000",
+      "title": "Crean una Ferrari con detalles que la hacen una pieza única",
+      "summary": "La historia de Ferrari está atravesada por un concepto que excede lo mecánico: la posibilidad de crear autos únicos . Mucho antes de que existieran los programas de personalización como los conocemos hoy en día, la marca de Maranello ya producía sus impresionantes modelos hechos a medida para reyes, celebridades y magnates, que encargaban combinaciones irrepetibles de materiales, colores y terminaciones. Ese espíritu fundacional es el que hoy vuelve a cobrar protagonismo con una creación especial basada en el Ferrari 12Cilindri. En esta ocasión el modelo que no introduce cambios técnicos ni estructurales, pero que redefine su identidad a partir de una personalización con anclaje cultural. El Gobierno aplicó una modificación al cupo de importación de autos sin arancel aduanero El resultado es el Ferrari Tailor Made 12Cilindri , una unidad única desarrollada a lo largo de casi dos años y concebida como un ejercicio artístico tanto como automotriz. Un Ferrari distinto, aunque el punto de partida sea el mismo Desde lo técnico, el modelo conserva intacta su esencia: carrocería, arquitectura y denominación permanecen sin cambios. El protagonismo no solo está puesto en el V12 ni en la performance —ya conocida—, sino en todo aquello que rodea al vehículo y lo transforma en una pieza irrepetible. La clave está en el programa Ferrari Tailor Made , la propuesta de máxima personalización de la marca que permite intervenir cada aspecto del auto con una lógica cercana a la alta costura . En este caso, la compañía decidió llevar ese concepto un paso más allá y convertirlo en un proyecto cultural . El 12Cilindri Tailor Made nació de una colaboración inédita entre el Centro Stile Ferrari , un grupo de reconocidos artistas surcoreanos , la publicación estadounidense COOL HUNTING (especializada en diseño y cultura contemporánea) y JaeEun Lee , quien actuó como curadora general del proyecto. Durante casi dos años, equipos distribuidos entre Europa, Asia y Estados Unidos trabajaron de m",
+      "link": "https://www.lanacion.com.ar/autos/crean-una-ferrari-que-se-puede-disenar-como-si-fuese-un-vestido-de-alta-costura-nid11032026/",
+      "pubDate": "Sat, 21 Mar 2026 22:07:00 +0000",
       "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/H26365B6PNGSVJCIHZKY4TI5XA.jpg?auth=5992a4122015e25073f4e168beb79e47c5e8a4630d5d5fff4f8ef4ecbf8ebbfd&smart=true&width=6000&height=4000",
-      "subcat": "mercado"
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/5OTIVQFDHZGULPZO4VOXLUTA2A.jpg?auth=cdff05fde3d16b7a465ff6272ff5671cda5fa11493908350638a0311f47dcbb4&smart=true&width=11327&height=8495"
     },
     {
       "id": "aHR0cHM6Ly93d3cuY2xh",
-      "title": "Este tranquilo pueblo de Arizona es una joya subestimada que vale la pena visitar en 2026",
-      "summary": "Un lugar ideal para los amantes de experiencias auténticas, está en medio del desierto de Sonora. El pueblo logró su esplendor gracias a la explotación de una mina de cobre cerrada en 1996. Está rodeado de parques y montañas maravillosas.",
-      "link": "https://www.clarin.com/estados-unidos/tranquilo-pueblo-arizona-joya-subestimada-vale-pena-visitar-2026_0_UDabd5JDbU.html",
-      "pubDate": "Sat, 21 Mar 2026 20:00:12 +0000",
+      "title": "Brutal ataque a un capibara en Río: ocho hombres golpearon al animal hasta dejarlo al borde de la muerte",
+      "summary": "El grupo cercó al animal y lo golpeó con barras de hierro y trozos de madera, causándole graves heridas. Seis hombres y dos adolescentes fueron detenidos.",
+      "link": "https://www.clarin.com/internacional/ataque-brutal-capibara-rio-golpearon-grupo-quedo-borde-muerte_0_B1z6fvRZNw.html",
+      "pubDate": "Sat, 21 Mar 2026 21:25:00 +0000",
       "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/02/16/iZdoC4Ppb_1200x630__1.jpg"
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/03/21/Qq1Bo26NW_1200x630__1.jpg"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2lu",
+      "title": "Tom Holland adelanta la evolución más «catastrófica» de Peter Parker en Spider-Man: Brand New Day",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Lo que viene en Spider-Man: Brand New Day parece mucho más serio, más oscuro y bastante más raro de lo que esperábamos. Tom Holland ya ha soltado varias pistas y, sinceramente, la cosa pinta a cambio gordo para Peter Parker . Porque sí, Spider-Man: Brand New Day no solo trae de vuelta al trepamuros al UCM… también lo mete en una situación emocional y física bastante delicada. Y lo mejor (o lo peor, según se mire) es que todo esto viene directamente de lo que pasó en Spider-Man: No Way Home . Spider-Man: Brand New Day es un nuevo comienzo que no es tan bonito como parece Después de aquel final donde literalmente todo el mundo olvidaba quién era Peter Parker, muchos pensaban que Spider-Man: Brand New Day iba a ser un reinicio cómodo, de esos que empiezan con energía positiva y poco drama. Pues no. Nada de eso. Tom Holland lo ha dejado claro: esta película es un “nuevo comienzo”, sí, pero de los duros. De los que te obligan a reconstruirte desde cero mientras todo a tu alrededor sigue girando sin ti. Y claro, eso para un chaval que ya llevaba bastante encima… no es precisamente fácil de digerir. Según el actor, lo que vive Peter tras No Way Home es algo “profundo y único dentro del género de superhéroes”. Y no suena a frase promocional vacía, la verdad. Suena más bien a que vamos a ver una versión del personaje mucho más rota, más vulnerable y, ojo, más interesante. Vuelta a Nueva York… pero con un tono muy diferente Una de las grandes novedades de Spider-Man: Brand New Day es el regreso a lo básico. Nada de amenazas multiversales gigantes ni batallas que parecen sacadas de otro planeta. Aquí volvemos a Manhattan, a la calle, al barrio… al Spider-Man más cercano. El director Destin Daniel Cretton quiere recuperar esa esencia más urbana del personaje, y eso significa enfrentamientos más físicos, más directos y con villanos sacados directamente de los cómics. De esos que huelen a problema desde que aparecen en",
+      "link": "https://www.cinemascomics.com/tom-holland-cambio-spider-man-brand-new-day/",
+      "pubDate": "Sat, 21 Mar 2026 21:02:39 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Peter-Parker-en-Spider-Man-Brand-New-Day.jpg"
     },
     {
       "id": "aHR0cHM6Ly9oaXBlcnRl",
@@ -114,14 +113,14 @@
       "subcat": "herramientas"
     },
     {
-      "id": "aHR0cHM6Ly93d3cuY2lu",
-      "title": "Proyecto Salvación será un éxito de taquilla",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Si pensabas que este año el cine estaba tranquilo, llega Proyecto Salvación ( Project Hail Mary ) para desmontarte el plan. La nueva película de ciencia ficción dirigida por Phil Lord y Christopher Miller no solo ha aterrizado con críticas brutales, sino que apunta directamente a reventar la taquilla en su primer fin de semana. Y ojo, porque lo que viene no es poca cosa. Desde el minuto uno, Proyecto Salvación está dejando claro que no es una película de ciencia ficción más del montón. Con cifras que ya empiezan a marear y un boca a boca que va como un cohete, todo apunta a que estamos ante uno de esos estrenos que se comentan durante meses. ¿Te suena a hype? Pues espera, que hay datos. El arranque en taquilla de Proyecto Salvación ya huele a récord Lo de Proyecto Salvación en sus primeras horas es de manual de blockbuster bien hecho. La película ha arrancado con una previsión de unos 100 millones de dólares a nivel global en su primer fin de semana, con unos sólidos 63 millones solo en Norteamérica. Vamos, que no ha venido a probar suerte, ha venido a dominar. Sin olvidar que hay muchos países en los que todavía no se ha estrenado. Y lo curioso es que este impulso no ha salido de la nada. Antes incluso del estreno oficial, Proyecto Salvación ya había recaudado 12 millones en pases previos, superando a títulos recientes bastante potentes. Eso la coloca como el mejor arranque en previos de todo 2026 y el segundo mejor de la historia para una película original que no pertenece a ninguna saga conocida. No está mal, ¿no crees? Además, la recepción del público y la crítica está siendo casi unánime. Con un 95% en Rotten Tomatoes y un 98% de puntuación del público , la sensación es que estamos ante una de esas raras ocasiones en las que todo el mundo coincide. Y eso, hoy en día, tiene bastante mérito. Una apuesta enorme… y arriesgada Claro, todo esto tiene su truco. Proyecto Salvación no ha sido precisamente bar",
-      "link": "https://www.cinemascomics.com/proyecto-salvacion-sera-un-exito-de-taquilla/",
-      "pubDate": "Sat, 21 Mar 2026 19:02:05 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Proyecto-Salvacion-exito-taquilla.jpg"
+      "id": "aHR0cHM6Ly93d3cuZWxk",
+      "title": "Irán atacó la ciudad de Dimona, un punto clave de Israel y dejó un saldo de 39 heridos",
+      "summary": "En una acción que eleva la tensión regional, un misil iraní impactó en Dimona, epicentro del programa nuclear de Israel, con decenas de heridos, incendios y el colapso de un edificio. Un misil lanzado desde Ir n impact este s bado en Dimona, en el sur de Israel, ciudad donde se ubica una de las principales instalaciones nucleares israel es, causando al menos 39 heridos, entre ellos un ni o de diez a os. Las sirenas antia reas sonaron a las 19.07 hora local, tras lo cual se registraron varios impactos en la zona. De acuerdo con el servicio de emergencias Magen David Adom (MDA), sus equipos atendieron a unas 39 v ctimas con heridas por metralla, lesiones sufridas mientras se dirig an a zonas protegidas y cuadros de p nico. Entre los heridos figuran un ni o de diez a os y una en estado moderado, seg n MDA, que indic que contin a prestando asistencia a otras personas en el lugar. Por su parte, el Cuerpo de Bomberos y Servicios de Rescate de Israel inform del colapso de un edificio tras uno de los impactos, lo que provoc un incendio en la zona. Seg n el Comando del Frente Interno, la unidad del Ej rcito israel encargada de garantizar la seguridad de la poblaci n civil en Israel, desde la medianoche se registaron al menos siete oleadas de ataques iran es dirigidas contra Dimona y otras reas del sur del pa s. En paralelo, el servicio de bomberos inform de varios incidentes en el norte de Israel atribuidos a impactos de cohetes lanzados por Hizbul , con da os en algunos edificios. En total, 15 personas murieron en Israel por los ataques iran es. Adem s, cuatro mujeres perdieron la vida tras el impacto de un explosivo durante un bombardeo de Ir n en la localidad palestina de Beit Awwa (sur de Cisjordania). EFE JIB",
+      "link": "https://www.eldiarioar.com/mundo/iran-ataco-ciudad-dimona-punto-clave-israel-dejo-saldo-39-heridos_1_13087630.html",
+      "pubDate": "Sat, 21 Mar 2026 19:06:09 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/19670077-8b8e-4dd8-bc01-b81b9843f02d_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
       "id": "aHR0cHM6Ly93d3cuYmJj",
@@ -142,16 +141,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/LAN7NALSRZBWRG6DY2BVDR6P4M.jpg?auth=2b0186b1b0f36a1100d123153c67878caaf148f54015d42cbf44808079a84b59"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZWxk",
-      "title": "La SIDE atraviesa cambios internos en medio de la disputa entre Caputo y Karina Milei",
-      "summary": "Salidas de funcionarios y versiones de nuevos desembarcos alimentan la incertidumbre dentro del organismo dedicado al espionaje. La tensión en la cúpula del poder impacta en la conducción y deja en suspenso la reforma de la Ley de Inteligencia. El clima se volvi casi irrespirable puertas adentro de la Secretar a de Inteligencia del Estado (SIDE) . Lo que durante semanas circul como un rumor empez a tomar forma concreta en los ltimos d as con una serie de movimientos en el organigrama que encendieron todas las alarmas. Corrimientos en reas sensibles, reubicaciones sin explicaci n formal y salidas de funcionarios que hab an ganado peso tras la reforma de 2024 configuran un escenario de incertidumbre creciente , en medio de versiones cada vez m s insistentes sobre una eventual salida de su titular, Cristian Auguadra , que fue designado en el cargo hace apenas tres meses. No recuerdo haber vivido algo as , repiten en voz baja agentes de carrera que atravesaron distintos gobiernos y describen un cuadro at pico incluso para un organismo habituado al secreto y la discrecionalidad. La sensaci n que se impone, seg n pudo saber elDiarioAR a partir de distintos testimonios internos, es la de un esquema desorientado, sin una directriz clara y con niveles de intriga que comienzan a dificultar el funcionamiento cotidiano. Cristian Auguadra, el hasta ahora titular de la SIDE, hace solo tres meses que está al frente de su cargo. Pero el desconcierto no es s lo operativo. Tambi n es pol tico. Aunque formalmente el sistema de inteligencia responde a la rbita del Poder Ejecutivo y, en los hechos, a la influencia del asesor presidencial Santiago Caputo , en los pasillos de 25 de Mayo 11 crece la percepci n de que la conducci n real est atravesada por una disputa m s amplia. Hoy su pulseada es abiertamente con Karina , sintetiz una fuente con acceso habitual a La Casa, en referencia al avance de la secretaria general de la Presidencia sobre reas clave del Estado, como el Ministerio de J",
-      "link": "https://www.eldiarioar.com/politica/side-atraviesa-cambios-internos-medio-disputa-caputo-karina-milei_1_13083217.html",
-      "pubDate": "Sat, 21 Mar 2026 03:01:18 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/0d8308be-d48d-49e0-999c-3da4919a8648_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
       "id": "aHR0cHM6Ly93d3cucGVy",
@@ -206,12 +195,6 @@
         "cls": "rb-orange"
       },
       {
-        "name": "Llama",
-        "type": "Modelo",
-        "badge": "Alta atención",
-        "cls": "rb-orange"
-      },
-      {
         "name": "Sora",
         "type": "Video AI",
         "badge": "Alta atención",
@@ -228,5 +211,5 @@
       }
     ]
   },
-  "updated": "2026-03-21T20:19:47.950107+00:00"
+  "updated": "2026-03-21T22:18:26.485874+00:00"
 }
