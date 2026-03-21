@@ -597,6 +597,140 @@ function fmtRelative(date) {
   return `hace ${Math.floor(h/24)}d`;
 }
 
+// ============================================================
+// RADAR IA — datos mock + render
+// Para conectar datos reales: reemplazá RADAR_DATA con un
+// fetch a tu API o al news.json generado por GitHub Actions.
+// ============================================================
+const RADAR_DATA = {
+  chartCategories: [
+    { label: 'AI Models',   color: '#bf5af2', values: [62, 68, 74, 78, 85, 90] },
+    { label: 'Coding AI',   color: '#0a84ff', values: [70, 74, 80, 82, 84, 88] },
+    { label: 'Video AI',    color: '#ff9f0a', values: [30, 38, 48, 55, 68, 82] },
+    { label: 'Research AI', color: '#30d158', values: [45, 48, 52, 56, 60, 65] },
+    { label: 'Design AI',   color: '#ff375f', values: [55, 54, 58, 60, 62, 60] },
+  ],
+  chartLabels: ['Oct', 'Nov', 'Dic', 'Ene', 'Feb', 'Mar'],
+  trending: [
+    { name: 'GPT-4o',     type: 'Modelo',      badge: 'Trending',       cls: 'rb-green'  },
+    { name: 'Cursor',     type: 'Coding AI',   badge: 'Alta atención',  cls: 'rb-orange' },
+    { name: 'Sora 2',     type: 'Video AI',    badge: 'Muy mencionado', cls: 'rb-blue'   },
+    { name: 'Gemini 2.0', type: 'Modelo',      badge: 'En foco',        cls: 'rb-accent' },
+    { name: 'Perplexity', type: 'Búsqueda IA', badge: 'Trending',       cls: 'rb-green'  },
+  ],
+  rising: [
+    { name: 'Grok 3',        type: 'Modelo',    desc: 'El modelo de xAI supera benchmarks clave en razonamiento',     badge: 'Crecimiento fuerte', cls: 'rb-green'  },
+    { name: 'Runway Gen-3',  type: 'Video AI',  desc: 'Video cinematográfico sin esfuerzo desde texto o imágenes',    badge: 'Subiendo',          cls: 'rb-blue'   },
+    { name: 'Mistral Large', type: 'Modelo',    desc: 'Alternativa open-source con rendimiento de nivel top',         badge: 'Emergente',         cls: 'rb-accent' },
+    { name: 'Replit AI',     type: 'Coding AI', desc: 'Apps completas generadas directo en el navegador',             badge: 'Para seguir',       cls: 'rb-orange' },
+  ],
+  companies: [
+    { name: 'OpenAI',     focus: 'Modelos de lenguaje y agentes',       status: 'Muy activa',      cls: 'rb-green'  },
+    { name: 'Anthropic',  focus: 'IA segura y modelos de razonamiento', status: 'Lanzando fuerte', cls: 'rb-orange' },
+    { name: 'Google',     focus: 'Gemini, búsqueda con IA y hardware',  status: 'Muy activa',      cls: 'rb-green'  },
+    { name: 'Meta AI',    focus: 'Llama open-source e IA social',       status: 'Relevante',       cls: 'rb-muted'  },
+    { name: 'Nvidia',     focus: 'Chips e infraestructura de IA',       status: 'En seguimiento',  cls: 'rb-blue'   },
+    { name: 'Perplexity', focus: 'Búsqueda conversacional con IA',      status: 'Emergente',       cls: 'rb-accent' },
+  ],
+  topics: [
+    { name: 'Agentes',           desc: 'IA que actúa de forma autónoma en tareas complejas', spark: [2,3,4,6,8,9] },
+    { name: 'Video generativo',  desc: 'Creación de video desde texto o imágenes',           spark: [1,2,3,5,7,9] },
+    { name: 'Coding assistants', desc: 'IDEs y copilots que escriben código por vos',        spark: [4,5,6,7,8,9] },
+    { name: 'Búsqueda con IA',   desc: 'Respuestas directas sin páginas de resultados',      spark: [3,4,5,6,7,8] },
+    { name: 'Voz sintética',     desc: 'Voces hiperrealistas e IA de conversación',          spark: [2,3,3,4,5,7] },
+  ],
+};
+
+function _radarSparkline(vals, color) {
+  const W = 42, H = 18, max = Math.max(...vals), min = Math.min(...vals), range = max - min || 1;
+  const pts = vals.map((v, i) =>
+    `${((i / (vals.length - 1)) * W).toFixed(1)},${(H - ((v - min) / range) * (H - 3) - 1).toFixed(1)}`
+  ).join(' ');
+  return `<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}"><polyline points="${pts}" stroke="${color}" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+}
+
+function _radarBuildChart() {
+  const cats = RADAR_DATA.chartCategories;
+  const labels = RADAR_DATA.chartLabels;
+  const W = 300, H = 120, PL = 6, PR = 6, PT = 8, PB = 28;
+  const cW = W - PL - PR, cH = H - PT - PB, n = labels.length;
+  const xs = labels.map((_, i) => PL + (i / (n - 1)) * cW);
+  const mapY = v => PT + cH - (v / 100) * cH;
+
+  const grid = [25, 50, 75].map(v =>
+    `<line x1="${PL}" y1="${mapY(v).toFixed(1)}" x2="${W-PR}" y2="${mapY(v).toFixed(1)}" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>`
+  ).join('');
+
+  const xLabels = xs.map((x, i) =>
+    `<text x="${x.toFixed(1)}" y="${H - 7}" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.3)" font-family="-apple-system,sans-serif">${labels[i]}</text>`
+  ).join('');
+
+  let areas = '', lines = '';
+  cats.forEach(cat => {
+    const pts = cat.values.map((v, i) => [xs[i], mapY(v)]);
+    const lp  = pts.map((p, i) => `${i ? 'L' : 'M'}${p[0].toFixed(1)} ${p[1].toFixed(1)}`).join(' ');
+    const ap  = `${lp} L${pts[pts.length-1][0].toFixed(1)} ${(PT+cH).toFixed(1)} L${pts[0][0].toFixed(1)} ${(PT+cH).toFixed(1)} Z`;
+    areas += `<path d="${ap}" fill="${cat.color}" fill-opacity="0.07"/>`;
+    lines += `<path d="${lp}" stroke="${cat.color}" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;
+    const lp2 = pts[pts.length - 1];
+    lines += `<circle cx="${lp2[0].toFixed(1)}" cy="${lp2[1].toFixed(1)}" r="2.5" fill="${cat.color}"/>`;
+  });
+
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" style="display:block;overflow:visible">${grid}${areas}${lines}${xLabels}</svg>`;
+}
+
+function renderRadarIA() {
+  // Chart
+  document.getElementById('radar-chart-svg').innerHTML = _radarBuildChart();
+
+  // Legend
+  document.getElementById('radar-chart-legend').innerHTML =
+    RADAR_DATA.chartCategories.map(c =>
+      `<span class="radar-legend-item"><span class="radar-legend-dot" style="background:${c.color}"></span><span class="radar-legend-label">${c.label}</span></span>`
+    ).join('');
+
+  // Trending
+  document.getElementById('radar-trending').innerHTML = `
+    <div class="radar-card-title">🔥 Trending ahora</div>
+    <div class="radar-list">${RADAR_DATA.trending.map(t => `
+      <div class="radar-row">
+        <div class="radar-row-main"><span class="radar-row-name">${t.name}</span><span class="radar-row-type">${t.type}</span></div>
+        <span class="radar-badge ${t.cls}">${t.badge}</span>
+      </div>`).join('')}
+    </div>`;
+
+  // Rising
+  document.getElementById('radar-rising').innerHTML = `
+    <div class="radar-card-title">📈 Subiendo rápido</div>
+    <div class="radar-list">${RADAR_DATA.rising.map(r => `
+      <div class="radar-row radar-row--stack">
+        <div class="radar-row-top"><span class="radar-row-name">${r.name}</span><span class="radar-badge ${r.cls}">${r.badge}</span></div>
+        <div class="radar-row-type">${r.type}</div>
+        <div class="radar-row-desc">${r.desc}</div>
+      </div>`).join('')}
+    </div>`;
+
+  // Companies
+  document.getElementById('radar-companies').innerHTML = `
+    <div class="radar-card-title">🏢 Empresas en foco</div>
+    <div class="radar-list">${RADAR_DATA.companies.map(c => `
+      <div class="radar-row">
+        <div class="radar-row-main"><span class="radar-row-name">${c.name}</span><span class="radar-row-type">${c.focus}</span></div>
+        <span class="radar-badge ${c.cls}">${c.status}</span>
+      </div>`).join('')}
+    </div>`;
+
+  // Topics
+  document.getElementById('radar-topics').innerHTML = `
+    <div class="radar-card-title">💡 Temas calientes</div>
+    <div class="radar-list">${RADAR_DATA.topics.map(t => `
+      <div class="radar-row">
+        <div class="radar-row-main"><span class="radar-row-name">${t.name}</span><span class="radar-row-type">${t.desc}</span></div>
+        <div class="radar-topic-spark">${_radarSparkline(t.spark, '#bf5af2')}</div>
+      </div>`).join('')}
+    </div>`;
+}
+
 function renderIaNews(filter) {
   _iaFilter = filter;
 
@@ -880,6 +1014,7 @@ function initIaSection() {
   const section = document.getElementById('section-ia');
   if (section.dataset.initialized) return;
   section.dataset.initialized = '1';
+  renderRadarIA();
   renderIaNews('todo');
   renderIaNeeds();
   renderIaTools();
