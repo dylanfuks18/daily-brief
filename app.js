@@ -674,10 +674,10 @@ function renderIaNews(filter) {
     const time    = useReal ? timeAgo(n.pubDate) : fmtRelative(n.date);
     const onclick = useReal ? `openArticle('${n.id}')` : `openIaArticle('${n.id}')`;
     const tagHtml = useReal && n.subcat
-      ? `<div class="ia-card-tags"><span class="ia-tag">${n.subcat}</span></div>`
+      ? `<div class="ia-card-tags"><span class="ia-tag ia-tag-${n.subcat}">${n.subcat}</span></div>`
       : n.tags ? `<div class="ia-card-tags">${n.tags.map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('')}</div>` : '';
     return `
-      <div class="news-card ia-news-card" onclick="${onclick}">
+      <div class="news-card ia-news-card" onclick="openIaArticle('${n.id}')">
         <div class="card-meta">
           <span class="card-source">${n.source}</span>
           <span class="card-time">${time}</span>
@@ -689,25 +689,55 @@ function renderIaNews(filter) {
   }).join('');
 }
 
-function openIaArticle(id) {
-  const n = IA_MOCK_NEWS.find(x => x.id === id);
-  if (!n) return;
-  const c = IA_ARTICLE_CONTENT[id] || {};
+function _iaStructuredContent(summary, source, subcat) {
+  const clean = (summary || '').replace(/<[^>]+>/g, '').replace(/&[a-z]+;/gi, ' ').trim();
+  // TL;DR: primera oración o primeros 160 chars
+  const firstDot = clean.search(/[.!?]\s/);
+  const tldr = firstDot > 20 ? clean.slice(0, firstDot + 1) : clean.slice(0, 160).trim();
+  // Puntos clave: oraciones del resumen (min 40 chars), hasta 4
+  const sentences = clean.split(/(?<=[.!?])\s+/).map(s => s.trim()).filter(s => s.length >= 40);
+  const points = sentences.slice(0, 4);
+  // Por qué importa
+  const subcatLabel = subcat || 'inteligencia artificial';
+  const why = sentences.length > 4
+    ? sentences[sentences.length - 1]
+    : `Es una señal relevante del ecosistema de ${subcatLabel}, publicada por ${source}.`;
+  return { tldr, points, why };
+}
 
-  // Limpiar hero
+function openIaArticle(id) {
+  // Buscar primero en artículos reales, luego en mock
+  const real = allArticles.find(x => x.id === id);
+  const mock = IA_MOCK_NEWS.find(x => x.id === id);
+  const n = real || mock;
+  if (!n) return;
+
+  // Para reales: generar contenido estructurado del summary
+  // Para mock: usar IA_ARTICLE_CONTENT precargado
+  let c;
+  if (real) {
+    c = _iaStructuredContent(n.summary, n.source, n.subcat);
+  } else {
+    c = IA_ARTICLE_CONTENT[id] || _iaStructuredContent(n.summary, n.source, n.cat);
+  }
+
+  // Hero
   const hero = document.getElementById('article-hero');
-  hero.style.display = 'none'; hero.src = '';
+  if (n.image) { hero.src = n.image; hero.style.display = 'block'; }
+  else          { hero.style.display = 'none'; hero.src = ''; }
 
   document.getElementById('article-source').textContent = n.source;
-  document.getElementById('article-time').textContent   = fmtRelative(n.date);
+  document.getElementById('article-time').textContent   = real ? timeAgo(n.pubDate) : fmtRelative(n.date);
   document.getElementById('article-title').textContent  = n.title;
 
-  // Eliminar botón de carga si existe (no aplica a IA)
-  const existingBtn = document.getElementById('article-load-btn');
-  if (existingBtn) existingBtn.remove();
+  // Eliminar botón de carga previo si existe
+  document.getElementById('article-load-btn')?.remove();
 
-  // Construir cuerpo estructurado
   const points = (c.points || []).map(p => `<li>${p}</li>`).join('');
+  const tags   = real
+    ? (n.subcat ? `<span class="ia-tag ia-tag-${n.subcat}">${n.subcat}</span>` : '')
+    : (n.tags || []).map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('');
+
   document.getElementById('article-body').innerHTML = `
     ${c.tldr ? `
     <div class="ia-article-tldr">
@@ -730,9 +760,11 @@ function openIaArticle(id) {
       </div>
       <p class="ia-article-why">${c.why}</p>
     </div>` : ''}
-    <div class="ia-article-tags-row">
-      ${n.tags.map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('')}
-    </div>
+    ${tags ? `<div class="ia-article-tags-row">${tags}</div>` : ''}
+    ${real && n.link ? `
+    <a href="${n.link}" target="_blank" rel="noopener" class="ia-article-read-more">
+      Leer artículo completo en ${n.source} →
+    </a>` : ''}
   `;
 
   document.getElementById('article-scroll').scrollTop = 0;

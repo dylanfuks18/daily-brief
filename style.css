@@ -598,6 +598,15 @@ a { text-decoration: none; color: inherit; }
   border-left: 2px solid rgba(191,90,242,0.4);
   padding-left: 14px;
 }
+.ia-article-read-more {
+  display: block; margin-top: 20px;
+  padding: 12px 16px; border-radius: 12px;
+  background: var(--accent-dim); border: 1px solid rgba(191,90,242,0.3);
+  color: var(--accent); font-size: 13px; font-weight: 700;
+  text-align: center; text-decoration: none;
+  transition: background 0.15s;
+}
+.ia-article-read-more:active { background: rgba(191,90,242,0.25); }
 .ia-article-tags-row {
   display: flex; gap: 6px; flex-wrap: wrap;
   margin-top: 20px; padding-top: 16px;
