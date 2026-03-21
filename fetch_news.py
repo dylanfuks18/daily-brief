@@ -105,7 +105,12 @@ def get_mokedb_tweets_twikit():
     return asyncio.run(_fetch_twikit_async())
 
 SOURCES = [
-    # --- TECH & IA ---
+    # --- IA (fuentes dedicadas — clasifican directo como 'ia') ---
+    {'url': 'https://techcrunch.com/category/artificial-intelligence/feed/', 'cat': 'ia', 'name': 'TechCrunch AI'},
+    {'url': 'https://venturebeat.com/category/ai/feed/',                     'cat': 'ia', 'name': 'VentureBeat AI'},
+    {'url': 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', 'cat': 'ia', 'name': 'The Verge AI'},
+
+    # --- TECH & IA (los artículos de IA se reclasifican via classify()) ---
     {'url': 'https://www.xataka.com/feed',                        'cat': 'tech',    'name': 'Xataka'},
     {'url': 'https://hipertextual.com/feed',                      'cat': 'tech',    'name': 'Hipertextual'},
     {'url': 'https://feeds.weblogssl.com/genbeta',                'cat': 'tech',    'name': 'Genbeta'},
@@ -174,9 +179,92 @@ KEYWORDS = {
     'ar_pol':  ['milei', 'kirchner', 'peronismo', 'diputados', 'senado', 'casa rosada', 'kicillof', 'macri', 'bullrich', 'gobierno argentino', 'ministerio de'],
     'poleco':  ['trump', 'putin', 'xi jinping', 'banco central', 'inflaci', 'dolar', 'dólar', 'pbi', 'bolsa', 'mercado financiero', 'economia', 'economía', 'finanzas', 'elecciones', 'gobierno', 'politica', 'política', 'reservas', 'bonos', 'crypto', 'bitcoin'],
     'sports':  ['futbol', 'fútbol', 'river', 'boca', 'racing', 'san lorenzo', 'champions', 'premier', 'real madrid', 'barcelona', 'messi', 'seleccion', 'copa', 'gol', 'tenis', 'formula 1', 'f1', 'nba', 'rugby'],
-    'tech':    ['inteligencia artificial', ' ia ', 'chatgpt', 'openai', 'google', 'apple', 'microsoft', 'iphone', 'android', 'startup', 'robot', 'tecnologia', 'tecnología', 'software', 'ciberseguridad', 'gemini', 'deepseek', 'samsung', 'chip'],
+    'ia':      ['inteligencia artificial', 'chatgpt', 'openai', 'claude', 'anthropic', 'gemini', 'grok', 'llama', 'mistral', 'deepseek', 'midjourney', 'stable diffusion', 'sora', 'runway', 'elevenlabs', 'perplexity', 'copilot', 'cursor ai', 'machine learning', 'modelo de lenguaje', 'llm ', 'gpt-4', 'gpt-5', 'dall-e', 'ia generativa', 'xai ', 'gpt4'],
+    'tech':    [' ia ', 'google', 'apple', 'microsoft', 'iphone', 'android', 'startup', 'robot', 'tecnologia', 'tecnología', 'software', 'ciberseguridad', 'samsung', 'chip'],
     'cinema':  ['pelicula', 'película', 'cine', 'netflix', 'disney', 'hbo', 'amazon prime', 'marvel', 'dc comics', 'oscar', 'actor', 'actriz', 'director', 'estreno', 'trailer', 'tráiler', 'serie', 'streaming', 'temporada', 'spiderman', 'spider-man', 'avengers', 'batman', 'superman', 'pixar', 'anime', 'critica', 'crítica'],
 }
+
+# Sub-categorías dentro de 'ia' (para filtros del frontend)
+IA_SUBCAT_KW = {
+    'empresas':     ['openai', 'anthropic', 'google', 'meta ai', 'nvidia', 'microsoft', 'startup', 'investment', 'funding', 'acqui', 'billion', 'million', 'raises', 'valued'],
+    'modelos':      ['gpt', 'claude', 'gemini', 'grok', 'llama', 'mistral', 'deepseek', 'model', 'benchmark', 'parameter', 'release', 'version', 'update', 'o3', 'o4', 'gpt-5'],
+    'herramientas': ['cursor', 'copilot', 'midjourney', 'runway', 'elevenlabs', 'perplexity', 'notion ai', 'tool', 'product launch', 'app '],
+    'desarrollo':   ['api', 'code', 'developer', 'programming', 'python', 'sdk', 'agent', 'agentic', 'automation', 'open source', 'open-source'],
+    'diseño':       ['image', 'art', 'design', 'midjourney', 'stable diffusion', 'flux', 'dall-e', 'video ai', 'sora', 'generative image', 'visual'],
+    'mercado':      ['billion', 'million', 'valuation', 'investment', 'ipo', 'fund', 'acquisition', 'deal', 'revenue', 'profit'],
+}
+
+def ia_subcat(title, desc):
+    text = (title + ' ' + desc).lower()
+    for subcat, kws in IA_SUBCAT_KW.items():
+        if any(k in text for k in kws):
+            return subcat
+    return 'herramientas'
+
+# Herramientas conocidas para el Radar IA
+AI_TOOLS_KW = {
+    'ChatGPT': 'Modelo', 'GPT-4': 'Modelo', 'GPT-5': 'Modelo', 'o3': 'Modelo', 'o4': 'Modelo',
+    'Claude':  'Modelo', 'Gemini': 'Modelo', 'Grok': 'Modelo',
+    'Llama':   'Modelo', 'Mistral': 'Modelo', 'DeepSeek': 'Modelo',
+    'Cursor':  'Coding AI', 'Copilot': 'Coding AI', 'Replit': 'Coding AI', 'Devin': 'Coding AI',
+    'Midjourney': 'Imágenes IA', 'DALL-E': 'Imágenes IA', 'Stable Diffusion': 'Imágenes IA', 'Flux': 'Imágenes IA',
+    'Sora': 'Video AI', 'Runway': 'Video AI', 'Kling': 'Video AI', 'Pika': 'Video AI',
+    'Perplexity': 'Búsqueda IA', 'ElevenLabs': 'Voz IA', 'Whisper': 'Voz IA',
+}
+_TREND_BADGES  = [('Muy mencionado','rb-blue'), ('Trending','rb-green'), ('En foco','rb-accent'), ('Alta atención','rb-orange')]
+_RISING_BADGES = [('Crecimiento fuerte','rb-green'), ('Subiendo','rb-blue'), ('Emergente','rb-accent'), ('Para seguir','rb-orange')]
+
+def generate_radar(ia_articles):
+    now = datetime.now(timezone.utc)
+    counts = {}
+    for art in ia_articles:
+        text = (art.get('title', '') + ' ' + art.get('summary', '')).lower()
+        try:
+            pub = datetime.fromisoformat(art.get('pubDate', '').replace('Z', '+00:00'))
+            is_recent = (now - pub).total_seconds() < 48 * 3600
+        except Exception:
+            is_recent = False
+        for tool in AI_TOOLS_KW:
+            if tool.lower() in text:
+                if tool not in counts:
+                    counts[tool] = [0, 0, '']
+                counts[tool][0] += 1
+                if is_recent:
+                    counts[tool][1] += 1
+                if not counts[tool][2]:
+                    counts[tool][2] = art.get('title', '')
+
+    sorted_all    = sorted(counts.items(), key=lambda x: x[1][0], reverse=True)
+    sorted_recent = sorted(counts.items(), key=lambda x: x[1][1], reverse=True)
+
+    def trend_badge(total):
+        if total >= 10: return _TREND_BADGES[0]
+        if total >= 5:  return _TREND_BADGES[1]
+        if total >= 3:  return _TREND_BADGES[2]
+        return _TREND_BADGES[3]
+
+    def rise_badge(total, recent):
+        ratio = recent / total if total else 0
+        if ratio >= 0.8: return _RISING_BADGES[0]
+        if ratio >= 0.5: return _RISING_BADGES[1]
+        if recent >= 2:  return _RISING_BADGES[2]
+        return _RISING_BADGES[3]
+
+    trending = []
+    for name, (total, recent, title) in sorted_all[:5]:
+        badge, cls = trend_badge(total)
+        trending.append({'name': name, 'type': AI_TOOLS_KW[name], 'badge': badge, 'cls': cls})
+
+    top3 = {t['name'] for t in trending[:3]}
+    rising = []
+    for name, (total, recent, title) in sorted_recent:
+        if recent == 0 or name in top3: continue
+        badge, cls = rise_badge(total, recent)
+        desc = re.sub(r'<[^>]+>', '', title).strip()[:80]
+        rising.append({'name': name, 'type': AI_TOOLS_KW[name], 'desc': desc or f'Novedades sobre {name}', 'badge': badge, 'cls': cls})
+        if len(rising) >= 4: break
+
+    return {'trending': trending, 'rising': rising}
 
 
 def strip_html(text):
@@ -252,7 +340,7 @@ def classify(title, desc, default_cat):
         return default_cat
 
     # Orden de prioridad: mas especifico primero
-    for cat in ['israel', 'ar_pol', 'tech', 'cinema', 'sports', 'poleco']:
+    for cat in ['israel', 'ar_pol', 'ia', 'tech', 'cinema', 'sports', 'poleco']:
         if any(k in text for k in KEYWORDS.get(cat, [])):
             return cat
     return 'poleco'
@@ -310,16 +398,20 @@ for src in SOURCES:
             pub   = entry.get('published', datetime.now(timezone.utc).isoformat())
             image = get_image(entry)
 
-            articles.append({
+            cat = classify(title, desc, src['cat'])
+            article = {
                 'id':      make_id(link or title),
                 'title':   title,
                 'summary': desc,
                 'link':    link,
                 'pubDate': pub,
                 'source':  src['name'],
-                'cat':     classify(title, desc, src['cat']),
+                'cat':     cat,
                 'image':   image,
-            })
+            }
+            if cat == 'ia':
+                article['subcat'] = ia_subcat(title, desc)
+            articles.append(article)
             count += 1
 
         if count > 0:
@@ -342,8 +434,13 @@ for a in articles:
 # Sort by date descending
 unique.sort(key=lambda x: x.get('pubDate', ''), reverse=True)
 
+ia_articles = [a for a in unique if a.get('cat') == 'ia']
+radar = generate_radar(ia_articles) if ia_articles else {'trending': [], 'rising': []}
+print(f"[radar] trending: {[t['name'] for t in radar['trending']]} | rising: {[r['name'] for r in radar['rising']]}")
+
 output = {
     'articles': unique,
+    'radar':    radar,
     'updated':  datetime.now(timezone.utc).isoformat()
 }
 

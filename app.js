@@ -619,9 +619,13 @@ const RADAR_DATA = {
 };
 
 function renderRadarIA() {
+  const rd       = window._radarLive || RADAR_DATA;
+  const trending = rd.trending?.length ? rd.trending : RADAR_DATA.trending;
+  const rising   = rd.rising?.length   ? rd.rising   : RADAR_DATA.rising;
+
   document.getElementById('radar-trending').innerHTML = `
     <div class="radar-card-title">🔥 Trending ahora</div>
-    <div class="radar-list">${RADAR_DATA.trending.map(t => `
+    <div class="radar-list">${trending.map(t => `
       <div class="radar-row">
         <div class="radar-row-main">
           <span class="radar-row-name">${t.name}</span>
@@ -633,44 +637,56 @@ function renderRadarIA() {
 
   document.getElementById('radar-rising').innerHTML = `
     <div class="radar-card-title">📈 Subiendo rápido</div>
-    <div class="radar-list">${RADAR_DATA.rising.map(r => `
+    <div class="radar-list">${rising.map(r => `
       <div class="radar-row radar-row--stack">
         <div class="radar-row-top">
           <span class="radar-row-name">${r.name}</span>
           <span class="radar-badge ${r.cls}">${r.badge}</span>
         </div>
-        <span class="radar-row-type">${r.type} · ${r.desc}</span>
+        <span class="radar-row-type">${r.type}${r.desc ? ' · ' + r.desc : ''}</span>
       </div>`).join('')}
     </div>`;
 }
 
 function renderIaNews(filter) {
-  _iaFilter = filter;
+  window._iaFilter = filter;
 
   document.querySelectorAll('.ia-filter-chip').forEach(c => {
     c.classList.toggle('active', c.dataset.filter === filter);
   });
 
-  const list = filter === 'todo'
-    ? IA_MOCK_NEWS
-    : IA_MOCK_NEWS.filter(n => n.cat === filter);
+  const realArticles = allArticles.filter(a => a.cat === 'ia');
+  const useReal = realArticles.length > 0;
+
+  const list = useReal
+    ? (filter === 'todo' ? realArticles : realArticles.filter(a => a.subcat === filter))
+    : (filter === 'todo' ? IA_MOCK_NEWS : IA_MOCK_NEWS.filter(n => n.cat === filter));
 
   const container = document.getElementById('ia-news-list');
   if (!container) return;
 
-  container.innerHTML = list.map(n => `
-    <div class="news-card ia-news-card" onclick="openIaArticle('${n.id}')">
-      <div class="card-meta">
-        <span class="card-source">${n.source}</span>
-        <span class="card-time">${fmtRelative(n.date)}</span>
-      </div>
-      <div class="card-title">${n.title}</div>
-      <div class="card-preview">${n.summary}</div>
-      <div class="ia-card-tags">
-        ${n.tags.map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('')}
-      </div>
-    </div>
-  `).join('');
+  if (!list.length) {
+    container.innerHTML = '<div class="error-card" style="text-align:center;color:var(--text3);padding:24px">Sin noticias en esta categoría.</div>';
+    return;
+  }
+
+  container.innerHTML = list.map(n => {
+    const time    = useReal ? timeAgo(n.pubDate) : fmtRelative(n.date);
+    const onclick = useReal ? `openArticle('${n.id}')` : `openIaArticle('${n.id}')`;
+    const tagHtml = useReal && n.subcat
+      ? `<div class="ia-card-tags"><span class="ia-tag">${n.subcat}</span></div>`
+      : n.tags ? `<div class="ia-card-tags">${n.tags.map(t => `<span class="ia-tag ia-tag-${t.toLowerCase().replace(/\s/g,'-')}">${t}</span>`).join('')}</div>` : '';
+    return `
+      <div class="news-card ia-news-card" onclick="${onclick}">
+        <div class="card-meta">
+          <span class="card-source">${n.source}</span>
+          <span class="card-time">${time}</span>
+        </div>
+        <div class="card-title">${n.title}</div>
+        <div class="card-preview">${n.summary || ''}</div>
+        ${tagHtml}
+      </div>`;
+  }).join('');
 }
 
 function openIaArticle(id) {
@@ -1048,6 +1064,12 @@ async function fetchNews() {
     if (!res.ok) throw new Error('no file');
     const data = await res.json();
     allArticles = data.articles || [];
+    window._radarLive = (data.radar?.trending?.length || data.radar?.rising?.length) ? data.radar : null;
+    // Si la sección IA ya está abierta, refrescar con datos reales
+    if (document.getElementById('section-ia')?.dataset.initialized) {
+      renderRadarIA();
+      renderIaNews(window._iaFilter || 'todo');
+    }
     if (data.updated) {
       const t = new Date(data.updated).toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' });
       const el = document.getElementById('header-date');
