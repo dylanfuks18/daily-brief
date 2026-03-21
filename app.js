@@ -741,7 +741,7 @@ function openIaArticle(id) {
   document.getElementById('article-body').innerHTML = `
     ${c.tldr ? `
     <div class="ia-article-tldr">
-      <span class="ia-article-tldr-label">TL;DR</span>
+      <span class="ia-article-tldr-label">En resumen</span>
       <p>${c.tldr}</p>
     </div>` : ''}
     ${points ? `

@@ -105,7 +105,13 @@ def get_mokedb_tweets_twikit():
     return asyncio.run(_fetch_twikit_async())
 
 SOURCES = [
-    # --- IA (fuentes dedicadas — clasifican directo como 'ia') ---
+    # --- IA en ESPAÑOL (prioridad) ---
+    {'url': 'https://www.xataka.com/tag/inteligencia-artificial/feed/',       'cat': 'ia', 'name': 'Xataka IA'},
+    {'url': 'https://hipertextual.com/categoria/ia/feed/',                    'cat': 'ia', 'name': 'Hipertextual IA'},
+    {'url': 'https://www.genbeta.com/tag/inteligencia-artificial/feed/',      'cat': 'ia', 'name': 'Genbeta IA'},
+    {'url': 'https://www.nobbot.com/feed/',                                   'cat': 'ia', 'name': 'Nobbot'},
+
+    # --- IA en INGLÉS (complemento) ---
     {'url': 'https://techcrunch.com/category/artificial-intelligence/feed/', 'cat': 'ia', 'name': 'TechCrunch AI'},
     {'url': 'https://venturebeat.com/category/ai/feed/',                     'cat': 'ia', 'name': 'VentureBeat AI'},
     {'url': 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', 'cat': 'ia', 'name': 'The Verge AI'},
@@ -184,14 +190,14 @@ KEYWORDS = {
     'cinema':  ['pelicula', 'película', 'cine', 'netflix', 'disney', 'hbo', 'amazon prime', 'marvel', 'dc comics', 'oscar', 'actor', 'actriz', 'director', 'estreno', 'trailer', 'tráiler', 'serie', 'streaming', 'temporada', 'spiderman', 'spider-man', 'avengers', 'batman', 'superman', 'pixar', 'anime', 'critica', 'crítica'],
 }
 
-# Sub-categorías dentro de 'ia' (para filtros del frontend)
+# Sub-categorías dentro de 'ia' — orden de más específico a más general
 IA_SUBCAT_KW = {
-    'empresas':     ['openai', 'anthropic', 'google', 'meta ai', 'nvidia', 'microsoft', 'startup', 'investment', 'funding', 'acqui', 'billion', 'million', 'raises', 'valued'],
-    'modelos':      ['gpt', 'claude', 'gemini', 'grok', 'llama', 'mistral', 'deepseek', 'model', 'benchmark', 'parameter', 'release', 'version', 'update', 'o3', 'o4', 'gpt-5'],
-    'herramientas': ['cursor', 'copilot', 'midjourney', 'runway', 'elevenlabs', 'perplexity', 'notion ai', 'tool', 'product launch', 'app '],
-    'desarrollo':   ['api', 'code', 'developer', 'programming', 'python', 'sdk', 'agent', 'agentic', 'automation', 'open source', 'open-source'],
-    'diseño':       ['image', 'art', 'design', 'midjourney', 'stable diffusion', 'flux', 'dall-e', 'video ai', 'sora', 'generative image', 'visual'],
-    'mercado':      ['billion', 'million', 'valuation', 'investment', 'ipo', 'fund', 'acquisition', 'deal', 'revenue', 'profit'],
+    'diseño':       ['midjourney', 'stable diffusion', 'dall-e', 'flux ', 'sora', 'runway', 'text-to-image', 'text-to-video', 'generative image', 'image generation', 'video generation', 'generación de imagen', 'generación de vídeo', 'diseño generativo'],
+    'modelos':      ['gpt-4', 'gpt-5', 'gpt4', 'gpt5', 'claude 3', 'claude 4', 'gemini 2', 'grok 3', 'llama 3', 'mistral ', 'deepseek', 'o3 ', 'o4 ', 'benchmark', 'nuevo modelo', 'lanza modelo', 'model release', 'weights'],
+    'desarrollo':   ['open source', 'open-source', 'código abierto', 'api ', 'developer', 'programador', 'python ', 'sdk ', 'agent framework', 'agentes de ia', 'automatización', 'automation', 'github copilot'],
+    'mercado':      ['recauda', 'ronda de inversión', 'valorada en', 'raises $', 'million funding', 'billion funding', 'acquisition', 'adquisición', 'ipo ', 'revenue', 'valuation'],
+    'herramientas': ['cursor ', 'copilot', 'elevenlabs', 'perplexity', 'notion ai', 'herramienta', 'productivity tool', 'lanza app', 'nueva función'],
+    'empresas':     ['openai', 'anthropic', 'google deepmind', 'meta ai', 'nvidia', 'microsoft', 'xai ', 'startup de ia'],
 }
 
 def ia_subcat(title, desc):
