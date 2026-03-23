@@ -690,23 +690,81 @@ function renderIaNews(filter) {
 }
 
 function _iaStructuredContent(summary, source, cat) {
-  const clean = (summary || '').replace(/<[^>]+>/g, '').replace(/&[a-z]+;/gi, ' ').trim();
-  // En resumen: primera oración o primeros 160 chars
-  const firstDot = clean.search(/[.!?]\s/);
-  const tldr = firstDot > 20 ? clean.slice(0, firstDot + 1) : clean.slice(0, 160).trim();
-  // Puntos clave: oraciones del resumen (min 40 chars), hasta 4
-  const sentences = clean.split(/(?<=[.!?])\s+/).map(s => s.trim()).filter(s => s.length >= 40);
+  // --- Limpieza profunda ---
+  let clean = (summary || '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/gi,'&').replace(/&lt;/gi,'<').replace(/&gt;/gi,'>').replace(/&quot;/gi,'"')
+    .replace(/&#39;/gi,"'").replace(/&aacute;/gi,'á').replace(/&eacute;/gi,'é')
+    .replace(/&iacute;/gi,'í').replace(/&oacute;/gi,'ó').replace(/&uacute;/gi,'ú')
+    .replace(/&ntilde;/gi,'ñ').replace(/&nbsp;/gi,' ').replace(/&[a-z#0-9]+;/gi,' ')
+    .replace(/\[…\]|\[\.\.\.\]|\[\.{3}\]/g, '')        // quitar "[…]" típico de feeds
+    .replace(/\.{2,}\s*$/, '')                          // quitar "..." al final
+    .replace(/\s*(leer más|ver más|read more|continue reading)\s*\.?/gi, '')
+    .replace(/\s+/g, ' ').trim();
+
+  if (!clean) return { tldr: '', points: [], why: `Nota de ${source}.` };
+
+  // --- Partir en oraciones completas (terminan en . ! ?) ---
+  const sentences = clean
+    .split(/(?<=[.!?])\s+/)
+    .map(s => s.trim())
+    .filter(s =>
+      s.length >= 32 &&            // descartar muy cortas
+      !/\.{2,}$/.test(s) &&        // descartar las que terminan con "..."
+      !/^\s*\d+\s*$/.test(s)       // descartar líneas que son solo números
+    );
+
+  // --- EN RESUMEN: 1-3 oraciones hasta ~320 chars ---
+  let tldr = '';
+  if (sentences.length > 0) {
+    let buf = '';
+    for (const s of sentences.slice(0, 3)) {
+      if (buf && buf.length + s.length + 1 > 320) break;
+      buf += (buf ? ' ' : '') + s;
+    }
+    tldr = buf;
+  }
+  // Fallback: primer tramo continuo del texto hasta el primer punto
+  if (!tldr) {
+    const m = clean.match(/^.{50,350}[.!?]/);
+    tldr = m ? m[0] : clean.slice(0, 280).trim();
+  }
+
+  // --- PUNTOS CLAVE: hasta 4 oraciones ---
   const points = sentences.slice(0, 4);
-  // Por qué importa — fallback contextual según categoría
+
+  // --- POR QUÉ IMPORTA ---
   const CAT_LABELS = {
-    ia: 'inteligencia artificial', tech: 'tecnología', general: 'actualidad',
-    economy: 'economía', ar_pol: 'política argentina', poleco: 'política y economía',
-    israel: 'geopolítica', sports: 'deporte', cinema: 'entretenimiento'
+    ia:'inteligencia artificial', tech:'tecnología', general:'actualidad',
+    economy:'economía', ar_pol:'política argentina', poleco:'política y economía',
+    israel:'geopolítica', sports:'deporte', cinema:'entretenimiento'
   };
   const catLabel = CAT_LABELS[cat] || cat || 'actualidad';
-  const why = sentences.length > 4
-    ? sentences[sentences.length - 1]
-    : `Una nota relevante sobre ${catLabel}, según ${source}.`;
+
+  // Palabras que señalan relevancia/impacto — buscar la oración más explicativa
+  const IMPACT = ['porque','ya que','significa','implica','es importante','afecta',
+    'impacto','supone','marca un','primera vez','récord','record','hito','cambia',
+    'revolución','revolucion','millones','miles de','clave','fundamental','decisivo',
+    'histórico','historico','sin precedentes','logra','consigue','demuestra'];
+
+  let why = '';
+  // 1. Buscar oración con keywords de impacto que sea completa (termina en . ! ?)
+  const impactSent = sentences.find(
+    s => s.length >= 45 && /[.!?]$/.test(s) && IMPACT.some(kw => s.toLowerCase().includes(kw))
+  );
+  if (impactSent) {
+    why = impactSent;
+  } else if (sentences.length >= 3) {
+    // 2. Última oración completa
+    const last = sentences.filter(s => /[.!?]$/.test(s)).pop();
+    why = last || sentences[sentences.length - 1];
+  } else if (sentences.length === 2) {
+    why = sentences[1];
+  } else {
+    // 3. Fallback contextual
+    why = `Esta es una de las noticias destacadas del día en ${catLabel}, según ${source}.`;
+  }
+
   return { tldr, points, why };
 }
 
