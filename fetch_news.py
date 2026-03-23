@@ -105,11 +105,7 @@ def get_mokedb_tweets_twikit():
     return asyncio.run(_fetch_twikit_async())
 
 SOURCES = [
-    # --- IA en ESPAÑOL (prioridad) ---
-    {'url': 'https://www.xataka.com/tag/inteligencia-artificial/feed/',       'cat': 'ia', 'name': 'Xataka IA'},
-    {'url': 'https://hipertextual.com/categoria/ia/feed/',                    'cat': 'ia', 'name': 'Hipertextual IA'},
-    {'url': 'https://www.genbeta.com/tag/inteligencia-artificial/feed/',      'cat': 'ia', 'name': 'Genbeta IA'},
-    {'url': 'https://www.nobbot.com/feed/',                                   'cat': 'ia', 'name': 'Nobbot'},
+    # --- IA en ESPAÑOL (via classify() que promueve tech→ia si hay keywords de IA) ---
 
     # --- IA en INGLÉS (complemento) ---
     {'url': 'https://techcrunch.com/category/artificial-intelligence/feed/', 'cat': 'ia', 'name': 'TechCrunch AI'},
@@ -341,6 +337,12 @@ def classify(title, desc, default_cat):
     # NO se aplica a cinema: peliculas de narcos/thrillers/zombies contienen esas palabras
     if default_cat == 'sports' and any(k in text for k in CRIME_KWS):
         default_cat = 'general'
+
+    # Artículos de fuentes 'tech' pueden promoverse a 'ia' si tienen keywords de IA
+    if default_cat == 'tech':
+        if any(k in text for k in KEYWORDS.get('ia', [])):
+            return 'ia'
+        return 'tech'
 
     if default_cat not in ('general', 'economy'):
         return default_cat
