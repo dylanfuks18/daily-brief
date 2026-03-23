@@ -689,9 +689,9 @@ function renderIaNews(filter) {
   }).join('');
 }
 
-function _iaStructuredContent(summary, source, cat) {
+function _iaStructuredContent(summary, source, cat, title = '') {
   // --- Limpieza profunda ---
-  const clean = (summary || '')
+  const _strip = t => (t || '')
     .replace(/<[^>]+>/g, ' ')
     .replace(/&amp;/gi,'&').replace(/&lt;/gi,'<').replace(/&gt;/gi,'>').replace(/&quot;/gi,'"')
     .replace(/&#39;/gi,"'").replace(/&aacute;/gi,'á').replace(/&eacute;/gi,'é')
@@ -702,98 +702,93 @@ function _iaStructuredContent(summary, source, cat) {
     .replace(/\s*(leer más|ver más|read more|continue reading)\s*\.?/gi, '')
     .replace(/\s+/g, ' ').trim();
 
-  if (!clean) return { tldr: '', points: [], why: `Nota de ${source}.` };
+  let clean    = _strip(summary);
+  const cleanT = _strip(title);
+
+  // Si el resumen es muy corto o vacío, enriquecer con el título
+  // (muchos feeds como Marca solo dan 2-3 palabras como summary)
+  if (cleanT && clean.length < 120) {
+    // Añadir el título al inicio si no está ya contenido en el resumen
+    if (!clean.toLowerCase().includes(cleanT.slice(0, 25).toLowerCase())) {
+      clean = cleanT + (clean && clean.length > 4 ? '. ' + clean : '');
+    }
+    if (clean && !/[.!?]$/.test(clean)) clean += '.';
+  }
+
+  if (!clean) return { tldr: '', points: [], why: '' };
 
   // --- Oraciones completas (terminan en . ! ?) ---
   const sentences = clean
     .split(/(?<=[.!?])\s+/)
     .map(s => s.trim())
-    .filter(s => s.length >= 32 && !/\.{2,}$/.test(s) && !/^\s*\d+\s*$/.test(s));
+    .filter(s => s.length >= 20 && !/\.{2,}$/.test(s) && !/^\s*\d+\s*$/.test(s));
 
   // ================================================================
-  // EN RESUMEN — solo la 1ª oración: responde "¿qué pasó?" en 1 línea
+  // EN RESUMEN — 1ª oración: responde "¿qué pasó?" en 1 línea
   // ================================================================
   let tldr = '';
   if (sentences.length > 0) {
     tldr = sentences[0];
   } else {
-    const m = clean.match(/^.{50,280}[.!?]/);
-    tldr = m ? m[0] : clean.slice(0, 240).trim();
+    const m = clean.match(/^.{30,280}[.!?]/);
+    tldr = m ? m[0] : clean.slice(0, 200).trim();
   }
 
   // ================================================================
-  // PUNTOS CLAVE — hechos concretos, sin repetir lo del resumen
+  // PUNTOS CLAVE — hechos concretos, sin repetir el resumen
   // ================================================================
-  // 1. Tomar oraciones desde la 2ª en adelante
-  const bodyTexts = sentences.length >= 2 ? sentences.slice(1) : sentences;
-
-  // 2. Expandir cada oración en sub-puntos dividiéndola por conjunciones
-  //    coordinantes / adversativas españolas
   const CONJ_RE = /,?\s+(?:pero|aunque|sin embargo|además,?|también|asimismo|por otro lado|mientras que|no obstante|a su vez|al mismo tiempo|incluso|y además|y también|por su parte|al respecto)\s+/i;
+
+  // Partir oraciones desde la 2ª en sub-hechos
   const expanded = [];
+  const bodyTexts = sentences.length >= 2 ? sentences.slice(1) : [];
   for (const sent of bodyTexts) {
-    const parts = sent.split(CONJ_RE).map(s => s.trim()).filter(s => s.length >= 38);
+    const parts = sent.split(CONJ_RE).map(s => s.trim()).filter(s => s.length >= 22);
     expanded.push(...(parts.length > 1 ? parts : [sent]));
   }
 
-  // 3. Si con eso hay menos de 2 puntos, bajar el umbral y partir la primera oración también
+  // Si hay pocas frases, incluir también partes de la 1ª oración que no estén en tldr
   if (expanded.length < 2) {
-    const allExpanded = [];
     for (const sent of sentences) {
-      const parts = sent.split(CONJ_RE).map(s => s.trim()).filter(s => s.length >= 38);
-      allExpanded.push(...(parts.length > 1 ? parts : [sent]));
+      const parts = sent.split(CONJ_RE).map(s => s.trim()).filter(s => s.length >= 22);
+      if (parts.length > 1) expanded.push(...parts.filter(p => !tldr.includes(p.slice(0, 30))));
     }
-    // Quitar lo que ya está en el tldr (comparar primeros 50 chars)
-    const tldrKey = tldr.slice(0, 50).toLowerCase();
-    const deduped = allExpanded.filter(s => !s.toLowerCase().startsWith(tldrKey.slice(0, 40)));
-    expanded.push(...deduped);
   }
 
-  // 4. Como último recurso: partir el texto por comas para extraer más ítems
-  if (expanded.length < 2 && clean.length > 100) {
-    const commaParts = clean.split(/,\s+/).map(s => s.trim()).filter(s => s.length >= 38);
+  // Último recurso: partir por comas
+  if (expanded.length < 2 && clean.length > 80) {
+    const commaParts = clean.split(/,\s+/).map(s => s.trim()).filter(s => s.length >= 22);
     if (commaParts.length > 1) expanded.push(...commaParts.slice(1));
   }
 
-  // Eliminar duplicados exactos y limitar a 5 puntos
-  const seen = new Set([tldr.slice(0, 50).toLowerCase()]);
+  // Deduplicar contra el tldr y entre sí, máximo 5 puntos
+  const usedKeys = new Set([tldr.slice(0, 45).toLowerCase()]);
   const points = [];
   for (const p of expanded) {
-    const key = p.slice(0, 50).toLowerCase();
-    if (!seen.has(key)) { seen.add(key); points.push(p); }
+    const key = p.slice(0, 45).toLowerCase();
+    if (!usedKeys.has(key)) { usedKeys.add(key); points.push(p); }
     if (points.length >= 5) break;
   }
 
   // ================================================================
-  // POR QUÉ IMPORTA — la oración más explicativa/significativa
+  // POR QUÉ IMPORTA — oración más significativa, o vacío (sección oculta)
   // ================================================================
-  const CAT_LABELS = {
-    ia:'inteligencia artificial', tech:'tecnología', general:'actualidad',
-    economy:'economía', ar_pol:'política argentina', poleco:'política y economía',
-    israel:'geopolítica', sports:'deporte', cinema:'entretenimiento'
-  };
-  const catLabel = CAT_LABELS[cat] || cat || 'actualidad';
-
   const IMPACT = ['porque','ya que','significa','implica','es importante','afecta',
-    'impacto','supone','marca un','primera vez','récord','record','hito','cambia',
+    'impacto','supone','marca','primera vez','récord','record','hito','cambia',
     'revolución','revolucion','millones','miles de','clave','fundamental','decisivo',
     'histórico','historico','sin precedentes','logra','consigue','demuestra','permite'];
 
   let why = '';
-  const completeSents = sentences.filter(s => /[.!?]$/.test(s));
-  const impactSent = completeSents.find(s => s.length >= 45 && IMPACT.some(kw => s.toLowerCase().includes(kw)));
+  const completeSents = sentences.filter(s => /[.!?]$/.test(s) && s !== tldr && s.length >= 40);
+  const impactSent = completeSents.find(s => IMPACT.some(kw => s.toLowerCase().includes(kw)));
 
   if (impactSent) {
     why = impactSent;
-  } else if (completeSents.length >= 2) {
-    // Última oración completa que no sea el tldr
-    const candidates = completeSents.filter(s => s !== tldr);
-    why = candidates[candidates.length - 1] || completeSents[completeSents.length - 1];
-  } else if (sentences.length >= 2) {
-    why = sentences[sentences.length - 1];
-  } else {
-    why = `Una noticia relevante de ${catLabel}, según ${source}.`;
+  } else if (completeSents.length >= 1) {
+    // Última oración completa que aporte algo distinto al tldr
+    why = completeSents[completeSents.length - 1];
   }
+  // Si no hay nada de calidad, devolver vacío → la sección se oculta en el DOM
 
   return { tldr, points, why };
 }
@@ -809,9 +804,9 @@ function openIaArticle(id) {
   // Para mock: usar IA_ARTICLE_CONTENT precargado
   let c;
   if (real) {
-    c = _iaStructuredContent(n.summary, n.source, n.subcat);
+    c = _iaStructuredContent(n.summary, n.source, n.subcat, n.title);
   } else {
-    c = IA_ARTICLE_CONTENT[id] || _iaStructuredContent(n.summary, n.source, n.cat);
+    c = IA_ARTICLE_CONTENT[id] || _iaStructuredContent(n.summary, n.source, n.cat, n.title);
   }
 
   // Hero
@@ -1422,7 +1417,7 @@ function openArticle(id) {
   document.getElementById('article-load-btn')?.remove();
 
   // Generar contenido estructurado desde el resumen
-  const c = _iaStructuredContent(a.summary, a.source, a.cat);
+  const c = _iaStructuredContent(a.summary, a.source, a.cat, a.title);
 
   const points = (c.points || []).map(p => `<li>${p}</li>`).join('');
 
