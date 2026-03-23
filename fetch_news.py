@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 BROWSER_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
     'Accept': 'application/rss+xml, application/xml, text/xml, application/atom+xml, */*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Language': 'es-ES,es;q=0.9,en;q=0.5',
     'Accept-Encoding': 'gzip, deflate, br',
     'Cache-Control': 'no-cache',
 }
@@ -105,18 +105,18 @@ def get_mokedb_tweets_twikit():
     return asyncio.run(_fetch_twikit_async())
 
 SOURCES = [
-    # --- IA en ESPAÑOL (via classify() que promueve tech→ia si hay keywords de IA) ---
-
-    # --- IA en INGLÉS (complemento) ---
-    {'url': 'https://techcrunch.com/category/artificial-intelligence/feed/', 'cat': 'ia', 'name': 'TechCrunch AI'},
-    {'url': 'https://venturebeat.com/category/ai/feed/',                     'cat': 'ia', 'name': 'VentureBeat AI'},
-    {'url': 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', 'cat': 'ia', 'name': 'The Verge AI'},
-
-    # --- TECH & IA (los artículos de IA se reclasifican via classify()) ---
-    {'url': 'https://www.xataka.com/feed',                        'cat': 'tech',    'name': 'Xataka'},
-    {'url': 'https://hipertextual.com/feed',                      'cat': 'tech',    'name': 'Hipertextual'},
-    {'url': 'https://feeds.weblogssl.com/genbeta',                'cat': 'tech',    'name': 'Genbeta'},
-    {'url': 'https://www.technologyreview.com/feed/',             'cat': 'tech',    'name': 'MIT Tech Review'},
+    # --- TECH & IA en ESPAÑOL (los artículos de IA se reclasifican via classify()) ---
+    {'url': 'https://www.xataka.com/feed',                                                              'cat': 'tech', 'name': 'Xataka'},
+    {'url': 'https://hipertextual.com/feed',                                                            'cat': 'tech', 'name': 'Hipertextual'},
+    {'url': 'https://feeds.weblogssl.com/genbeta',                                                      'cat': 'tech', 'name': 'Genbeta'},
+    {'url': 'https://computerhoy.20minutos.es/feed',                                                    'cat': 'tech', 'name': 'Computer Hoy'},
+    {'url': 'https://www.muycomputer.com/feed/',                                                        'cat': 'tech', 'name': 'MuyComputer'},
+    {'url': 'https://www.elconfidencial.com/tecnologia/feed/',                                          'cat': 'tech', 'name': 'El Confidencial Tech'},
+    {'url': 'https://www.lavanguardia.com/rss/tecnologia.xml',                                          'cat': 'tech', 'name': 'La Vanguardia Tech'},
+    {'url': 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada',      'cat': 'tech', 'name': 'El País Tech'},
+    {'url': 'https://www.technologyreview.es/feed/',                                                    'cat': 'tech', 'name': 'MIT Tech Review ES'},
+    {'url': 'https://www.nobbot.com/feed/',                                                             'cat': 'tech', 'name': 'Nobbot'},
+    {'url': 'https://marketing4ecommerce.net/feed/',                                                    'cat': 'tech', 'name': 'Marketing4ecommerce'},
 
     # --- NOTICIAS GENERALES (se clasifican por keywords) ---
     {'url': 'https://feeds.bbci.co.uk/mundo/rss.xml',            'cat': 'general', 'name': 'BBC Mundo'},
