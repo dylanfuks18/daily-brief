@@ -691,49 +691,82 @@ function renderIaNews(filter) {
 
 function _iaStructuredContent(summary, source, cat) {
   // --- Limpieza profunda ---
-  let clean = (summary || '')
+  const clean = (summary || '')
     .replace(/<[^>]+>/g, ' ')
     .replace(/&amp;/gi,'&').replace(/&lt;/gi,'<').replace(/&gt;/gi,'>').replace(/&quot;/gi,'"')
     .replace(/&#39;/gi,"'").replace(/&aacute;/gi,'á').replace(/&eacute;/gi,'é')
     .replace(/&iacute;/gi,'í').replace(/&oacute;/gi,'ó').replace(/&uacute;/gi,'ú')
     .replace(/&ntilde;/gi,'ñ').replace(/&nbsp;/gi,' ').replace(/&[a-z#0-9]+;/gi,' ')
-    .replace(/\[…\]|\[\.\.\.\]|\[\.{3}\]/g, '')        // quitar "[…]" típico de feeds
-    .replace(/\.{2,}\s*$/, '')                          // quitar "..." al final
+    .replace(/\[…\]|\[\.\.\.\]|\[\.{3}\]/g, '')
+    .replace(/\.{2,}\s*$/, '')
     .replace(/\s*(leer más|ver más|read more|continue reading)\s*\.?/gi, '')
     .replace(/\s+/g, ' ').trim();
 
   if (!clean) return { tldr: '', points: [], why: `Nota de ${source}.` };
 
-  // --- Partir en oraciones completas (terminan en . ! ?) ---
+  // --- Oraciones completas (terminan en . ! ?) ---
   const sentences = clean
     .split(/(?<=[.!?])\s+/)
     .map(s => s.trim())
-    .filter(s =>
-      s.length >= 32 &&            // descartar muy cortas
-      !/\.{2,}$/.test(s) &&        // descartar las que terminan con "..."
-      !/^\s*\d+\s*$/.test(s)       // descartar líneas que son solo números
-    );
+    .filter(s => s.length >= 32 && !/\.{2,}$/.test(s) && !/^\s*\d+\s*$/.test(s));
 
-  // --- EN RESUMEN: 1-3 oraciones hasta ~320 chars ---
+  // ================================================================
+  // EN RESUMEN — solo la 1ª oración: responde "¿qué pasó?" en 1 línea
+  // ================================================================
   let tldr = '';
   if (sentences.length > 0) {
-    let buf = '';
-    for (const s of sentences.slice(0, 3)) {
-      if (buf && buf.length + s.length + 1 > 320) break;
-      buf += (buf ? ' ' : '') + s;
+    tldr = sentences[0];
+  } else {
+    const m = clean.match(/^.{50,280}[.!?]/);
+    tldr = m ? m[0] : clean.slice(0, 240).trim();
+  }
+
+  // ================================================================
+  // PUNTOS CLAVE — hechos concretos, sin repetir lo del resumen
+  // ================================================================
+  // 1. Tomar oraciones desde la 2ª en adelante
+  const bodyTexts = sentences.length >= 2 ? sentences.slice(1) : sentences;
+
+  // 2. Expandir cada oración en sub-puntos dividiéndola por conjunciones
+  //    coordinantes / adversativas españolas
+  const CONJ_RE = /,?\s+(?:pero|aunque|sin embargo|además,?|también|asimismo|por otro lado|mientras que|no obstante|a su vez|al mismo tiempo|incluso|y además|y también|por su parte|al respecto)\s+/i;
+  const expanded = [];
+  for (const sent of bodyTexts) {
+    const parts = sent.split(CONJ_RE).map(s => s.trim()).filter(s => s.length >= 38);
+    expanded.push(...(parts.length > 1 ? parts : [sent]));
+  }
+
+  // 3. Si con eso hay menos de 2 puntos, bajar el umbral y partir la primera oración también
+  if (expanded.length < 2) {
+    const allExpanded = [];
+    for (const sent of sentences) {
+      const parts = sent.split(CONJ_RE).map(s => s.trim()).filter(s => s.length >= 38);
+      allExpanded.push(...(parts.length > 1 ? parts : [sent]));
     }
-    tldr = buf;
-  }
-  // Fallback: primer tramo continuo del texto hasta el primer punto
-  if (!tldr) {
-    const m = clean.match(/^.{50,350}[.!?]/);
-    tldr = m ? m[0] : clean.slice(0, 280).trim();
+    // Quitar lo que ya está en el tldr (comparar primeros 50 chars)
+    const tldrKey = tldr.slice(0, 50).toLowerCase();
+    const deduped = allExpanded.filter(s => !s.toLowerCase().startsWith(tldrKey.slice(0, 40)));
+    expanded.push(...deduped);
   }
 
-  // --- PUNTOS CLAVE: hasta 4 oraciones ---
-  const points = sentences.slice(0, 4);
+  // 4. Como último recurso: partir el texto por comas para extraer más ítems
+  if (expanded.length < 2 && clean.length > 100) {
+    const commaParts = clean.split(/,\s+/).map(s => s.trim()).filter(s => s.length >= 38);
+    if (commaParts.length > 1) expanded.push(...commaParts.slice(1));
+  }
 
-  // --- POR QUÉ IMPORTA ---
+  // Eliminar duplicados exactos y limitar a 5 puntos
+  const seen = new Set([tldr.slice(0, 50).toLowerCase()]);
+  const points = [];
+  for (const p of expanded) {
+    const key = p.slice(0, 50).toLowerCase();
+    if (!seen.has(key)) { seen.add(key); points.push(p); }
+    if (points.length >= 5) break;
+  }
+
+  // ================================================================
+  // POR QUÉ IMPORTA — la oración más explicativa/significativa
+  // ================================================================
   const CAT_LABELS = {
     ia:'inteligencia artificial', tech:'tecnología', general:'actualidad',
     economy:'economía', ar_pol:'política argentina', poleco:'política y economía',
@@ -741,28 +774,25 @@ function _iaStructuredContent(summary, source, cat) {
   };
   const catLabel = CAT_LABELS[cat] || cat || 'actualidad';
 
-  // Palabras que señalan relevancia/impacto — buscar la oración más explicativa
   const IMPACT = ['porque','ya que','significa','implica','es importante','afecta',
     'impacto','supone','marca un','primera vez','récord','record','hito','cambia',
     'revolución','revolucion','millones','miles de','clave','fundamental','decisivo',
-    'histórico','historico','sin precedentes','logra','consigue','demuestra'];
+    'histórico','historico','sin precedentes','logra','consigue','demuestra','permite'];
 
   let why = '';
-  // 1. Buscar oración con keywords de impacto que sea completa (termina en . ! ?)
-  const impactSent = sentences.find(
-    s => s.length >= 45 && /[.!?]$/.test(s) && IMPACT.some(kw => s.toLowerCase().includes(kw))
-  );
+  const completeSents = sentences.filter(s => /[.!?]$/.test(s));
+  const impactSent = completeSents.find(s => s.length >= 45 && IMPACT.some(kw => s.toLowerCase().includes(kw)));
+
   if (impactSent) {
     why = impactSent;
-  } else if (sentences.length >= 3) {
-    // 2. Última oración completa
-    const last = sentences.filter(s => /[.!?]$/.test(s)).pop();
-    why = last || sentences[sentences.length - 1];
-  } else if (sentences.length === 2) {
-    why = sentences[1];
+  } else if (completeSents.length >= 2) {
+    // Última oración completa que no sea el tldr
+    const candidates = completeSents.filter(s => s !== tldr);
+    why = candidates[candidates.length - 1] || completeSents[completeSents.length - 1];
+  } else if (sentences.length >= 2) {
+    why = sentences[sentences.length - 1];
   } else {
-    // 3. Fallback contextual
-    why = `Esta es una de las noticias destacadas del día en ${catLabel}, según ${source}.`;
+    why = `Una noticia relevante de ${catLabel}, según ${source}.`;
   }
 
   return { tldr, points, why };
