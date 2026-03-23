@@ -11,15 +11,15 @@
       "image": "https://i.blogs.es/616c06/chatgpt-image-30-dic-2025-18_30_10/1024_2000.png"
     },
     {
-      "id": "aHR0cHM6Ly92ZW50dXJl",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like Amazon Web Services and Google Cloud . As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications? said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up. The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a $20 million Series A from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors. Why three-minute deploy times have become unacceptable in the age of AI coding assistants Railway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using Terraform , the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like Claude , ChatGPT , and Cursor can generate wor",
-      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "source": "VentureBeat AI",
+      "id": "aHR0cDovL3RlY2hub2xv",
+      "title": "El Pentágono prepara un plan para que empresas entrenen sus IA con datos clasificados",
+      "summary": "El Pentágono está debatiendo planes para crear entornos seguros en los que empresas de IA generativa puedan entrenar versiones específicas para uso militar de sus modelos con datos clasificados, según ha podido saber MIT Technology Review . Los modelos de IA como Claude, de Anthropic, ya se utilizan para responder preguntas en entornos clasificados, con aplicaciones que incluyen el análisis de objetivos en Irán. Pero permitir que los modelos se entrenen y aprendan a partir de datos clasificados sería un nuevo avance que plantea riesgos de seguridad singulares. Implicaría que información sensible —como informes de vigilancia o evaluaciones de campo de batalla— podría quedar incorporada en los propios modelos, y acercaría a las empresas de IA al manejo de datos clasificados más que nunca. Se espera que entrenar versiones de modelos de IA con datos clasificados los haga más precisos y eficaces en determinadas tareas, según un funcionario de defensa de EE UU que habló bajo condición de anonimato con MIT Technology Review . La noticia llega en un momento de fuerte demanda de modelos más potentes : el Pentágono ha alcanzado acuerdos con OpenAI y con xAI, de Elon Musk, para operar sus modelos en entornos clasificados, y está implementando una nueva agenda para convertirse en una “fuerza de combate ‘impulsada por la IA’” a medida que se intensifica el conflicto con Irán. (En el momento en el que se publicó esta noticia, el Pentágono no había comentado sus planes de entrenamiento con IA). El entrenamiento se llevaría a cabo en un centro de datos seguro acreditado para albergar proyectos gubernamentales clasificados y donde una copia de un modelo de IA se emparejaría con datos clasificados, según dos personas familiarizadas con el funcionamiento de este tipo de operaciones. Aunque el Departamento de Defensa seguiría siendo el propietario de los datos, en casos excepcionales, el personal de las empresas de IA podría acceder a esa información si dispone de la habilitación de se",
+      "link": "http://technologyreview.es/article/el-pentagono-prepara-un-plan-para-que-empresas-entrenen-sus-ia-con-datos-clasificados/",
+      "pubDate": "Thu, 19 Mar 2026 07:00:35 +0000",
+      "source": "MIT Tech Review ES",
       "cat": "ia",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30",
-      "subcat": "desarrollo"
+      "image": "",
+      "subcat": "mercado"
     },
     {
       "id": "aHR0cHM6Ly9jaGVxdWVh",
@@ -42,17 +42,6 @@
       "image": "https://fotos.perfil.com/2024/02/09/trim/540/304/20230210piparoprensahcdng-1753588.jpg"
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Do you want to build a robot snowman?",
-      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "pubDate": "Sun, 22 Mar 2026 19:45:07 +0000",
-      "source": "TechCrunch AI",
-      "cat": "ia",
-      "image": "",
-      "subcat": "empresas"
-    },
-    {
       "id": "aHR0cHM6Ly9yYWRpby5w",
       "title": "Milei - Villarruel: competencia de maldades",
       "summary": "El día en que se rompió la relación entre el Presidente y su vice. Traiciones, gritos, llantos y amenazas. Él la acusa de conspirar con Macri y ella, de ser espiada. Guerra en las redes. Infantilismo y el factor \"repostera\". Leer más",
@@ -64,93 +53,104 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFy",
-      "title": "El Madrid recurre la roja a Valverde: \"Si la entrada es a Koke es amarilla al 100%\"",
-      "summary": "La entrada de Valverde a Baena que acabó en roja.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/03/23/madrid-recurre-valverde-entrada-koke-amarilla-100.html",
-      "pubDate": "Mon, 23 Mar 2026 11:48:00 +0100",
+      "title": "El 'puñetazo en la mesa' de O'Reilly tras ser 'devorado' por Valverde",
+      "summary": "Nico O'Reilly, con la Copa de la Liga conquistada por el Manchester City.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/03/23/punetazo-mesa-reilly-devorado-valverde-fichaje-temporada.html",
+      "pubDate": "Mon, 23 Mar 2026 12:17:09 +0100",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c1197ac5d37.jpeg"
-    },
-    {
-      "id": "aHR0cHM6Ly9oaXBlcnRl",
-      "title": "Apple tiene nuevos HomePod mini y Apple TV listos, pero tardarían en llegar por culpa de Siri",
-      "summary": "Los rumores llevan mucho tiempo hablando de la posible renovación del HomePod mini y del Apple TV, que no termina de llegar. Del famoso y comentado HomePod con pantalla, hace poco supimos que se iba a retrasar, al menos hasta la nueva Siri, pero lo cierto es que el resto de dispositivos de hogar de Apple lleva ya un tiempo pidiendo a gritos una renovación. Y no solo en términos de hardware. Aunque iOS 26 y tvOS 26 han actualizado tanto la especificación de Matter como de Thread, lo cierto es que Apple todavía tiene pendientes algunas funcionalidades clave del hogar conectado, como compatibilidad de funciones básicas de vendor , como los sistemas de monitorización de energía de enchufes inteligentes integrados en su ecosistema, o algo tan simple como la gestión de la red Thread, es decir, la posibilidad de unificar y gestionar las diferentes Thread de nuestra casa. Muchos usuarios están esperando como agua de mayo los nuevos dispositivos de Apple para el hogar conectado, y ahora sabemos, gracias a la última newsletter de Gurman , PowerOn , que están listos y que pueden salir en cualquier momento. Y no solo que estén listos ya, sino que lo están desde el año pasado, pero como en el caso del HomePod con pantalla, Apple ha retrasado su lanzamiento hasta que se publique la versión más personalizada de Siri y otras mejoras de Apple Intelligence, que no llegarán hasta finales de este año. Teniendo esto en cuenta, si los nuevos modelos de Apple TV y HomePod mini siguen en los almacenes de Apple hasta que la nueva Siri no está disponible, que se espera como pronto con iOS 26.5 o iOS 27 , no tendremos noticias de esta renovación hasta marzo (como pronto) o hasta finales de septiembre de este año como muy tarde. Aunque respecto al hardware no hay noticias nuevas, todo parece indicar que veremos un renovado Apple TV con A17 Pro combinado con chip N1 de Apple y compatible con Wi-Fi 7, Bluetooth 6 y Thread. Y parece que, en todo caso, la renovación del HomePod mini iría por el mi",
-      "link": "https://hipertextual.com/apple/apple-tiene-nuevos-homepod-mini-y-apple-tv-listos-pero-tardarian-en-llegar-por-culpa-de-siri/",
-      "pubDate": "Mon, 23 Mar 2026 10:57:18 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/homepod-apple.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubGFu",
-      "title": "Hay alerta naranja por tormentas y vientos para este lunes 23 de marzo: las provincias afectadas",
-      "summary": "Tras un domingo de condiciones otoñales en el Área Metropolitana de Buenos Aires (AMBA), el Servicio Meteorológico Nacional (SMN) informó que este lunes 23 de marzo rigen alertas naranjas y amarillas en provincias del norte y sur del país. Según advirtió el organismo, se trata de \" fenómenos meteorológicos peligrosos para la sociedad, la vida, los bienes y el medio ambiente ”. El SMN detalló que las provincias alcanzadas por la alerta amarilla por tormentas son Chaco , Entre Ríos , Formosa , Misiones y Santa Fe , mientras que en Corrientes el aviso se eleva al nivel naranja . En el litoral, las lluvias y tormentas serán fuertes y podrán estar acompañadas por precipitaciones abundantes, actividad eléctrica frecuente, posible granizo y ráfagas que podrían superar los 90 kilómetros por hora. Se estiman valores de precipitación acumulada de entre 70 y 100 milímetros. Por su parte, las provincias del centro del país presentarán las mismas condiciones, pero con algunas diferencias. Las lluvias se suscitarán mayormente hasta el mediodía y con distinta intensidad. Está prevista la posibilidad de rayos, truenos y ráfagas de hasta 80 kilómetros por hora . En Chubut , Santa Cruz y Tierra del Fuego , en tanto, rige una alerta amarilla por lluvias , algunas localmente fuertes. Allí se esperan valores de precipitación acumulada de entre 10 y 30 milímetros, que pueden ser superados en forma local. Asimismo, no se descarta la ocurrencia de precipitación en forma de lluvia y nieve mezclada en zonas más elevadas. En las mismas provincias, el organismo nacional también emitió una alerta amarilla por vientos fuertes del sector oeste, que tendrán velocidades de entre 40 y 65 kilómetros por hora y ráfagas que podrán alcanzar los 110 kilómetros por hora. Frente a estos fenómenos, el SMN emitió una serie de recomendaciones para mantener protegida a la población y evitar mayores inconvenientes: Evitar salir. Retirar o asegurar objetos que puedan ser arrastrados por el viento, como macetas, ",
-      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-por-tormentas-para-este-lunes-23-de-marzo-las-provincias-afectadas-nid23032026/",
-      "pubDate": "Mon, 23 Mar 2026 10:47:31 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/XRT2UP4TIVCOBNUWKJURLVWX7U.png?auth=c79b0ebaa0322a4fa16fceb5b8e3dc5f3717438efadc5f400513fc5cc64b0791&smart=true&width=553&height=390"
-    },
-    {
-      "id": "aHR0cHM6Ly9hY3R1YWxp",
-      "title": "VIDEO: Caída de rocas sepulta un coche en plena carretera",
-      "summary": "Un coche quedó sepultado por un desprendimiento de rocas ocurrido este domingo en Aydincik, en la provincia turca de Mersin. El hecho quedó grabado por la cámara frontal del vehículo. De acuerdo con medios locales, el conductor resultó herido en el suceso, que hizo que se cortara el tráfico durante varias horas, provocando atascos de varios kilómetros en ambos sentidos.",
-      "link": "https://actualidad.rt.com/viral/594652-video-caida-rocas-sepultar-coche-turquia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 23 Mar 2026 10:47:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c1101b59bf5b159f0f25aa.jpg"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY2xh",
-      "title": "Dólar CCL hoy: a cuánto cotiza este lunes 23 de marzo",
-      "summary": "Mirá la cotización para la compra y venta del dólar CCL hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-      "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-lunes-23-marzo_0_bw8tdYGNvj.html",
-      "pubDate": "Mon, 23 Mar 2026 10:08:01 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2018/10/16/yAFCOaW81_1200x630__1.jpg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c120118ddea.jpeg"
     },
     {
       "id": "aHR0cHM6Ly9jaW5jb2Rp",
-      "title": "El castigo a los mercados se agrava: el Ibex cae el 11% desde el inicio de la guerra y el petróleo se dispara el 60%",
+      "title": "El petróleo se hunde un 10% en pocos minutos tras el anuncio de Trump",
       "summary": "Paneles de la Bolsa de Madrid.",
       "link": "https://cincodias.elpais.com/mercados-financieros/2026-03-23/la-bolsa-y-el-ibex-35.html",
-      "pubDate": "Mon, 23 Mar 2026 09:29:32 GMT",
+      "pubDate": "Mon, 23 Mar 2026 11:24:37 GMT",
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DRSDB7DT3ZN4NPUSAYBKAWGUIM.jpg?auth=4010e0ffd29256625c75e8a2b3b6f843a80d6e657005d434bc9a67c5a01cbf12"
     },
     {
-      "id": "aHR0cHM6Ly93d3cuY2lu",
-      "title": "Proyecto Salvación revienta la taquilla en su primer fin de semana",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Proyecto Salvación ha llegado a los cines y directamente ha arrasado con todo. Lo que parecía “otra gran pelicula de ciencia ficción” se ha convertido en el bombazo del año en cuestión de días, y hay varios motivos muy jugosos detrás. Ryan Gosling se ha plantado en la taquilla con una sonrisa de “esto va en serio” y el resultado ha sido demoledor. Proyecto Salvación ha debutado con más de 80 millones en su primer fin de semana solo en Estados Unidos , y ojo, porque la cosa se pone aún más loca cuando miras las cifras globales. Proyecto Salvación arrasa en taquilla y deja claro quién manda Cuando se anunciaron las primeras previsiones, ya se hablaba de un estreno potente, rondando los 65 millones. Pero claro, luego llegan las críticas positivas, la gente sale del cine flipando y el boca a boca empieza a hacer su magia. Resultado: Proyecto Salvación se dispara hasta los 80,5 millones, superando expectativas sin despeinarse. Y no es un dato cualquiera. Estamos hablando del mejor estreno en la historia de Amazon MGM , dejando atrás a Creed III como si fuera un entrenamiento previo. Además, se convierte en el debut más potente del año, superando incluso a propuestas más comerciales y conocidas. Vamos, que la jugada les ha salido redonda. Lo interesante es que no ha sido solo cosa de Estados Unidos. Fuera, Proyecto Salvación también ha conectado fuerte con el público, sumando más de 60 millones adicionales en 82 mercados. En total, casi 141 millones en su primer fin de semana . Eso ya no es un buen arranque… eso es empezar con el pie en modo turbo. Además, hay países en los que todavía no se ha estrenado, así que el potencial es enrome. Proyecto Salvación El efecto Gosling y una historia que engancha Aquí hay algo que no se puede ignorar: Ryan Gosling está en modo imán absoluto. Cada vez que aparece en pantalla, consigue que la historia se sienta cercana, incluso cuando hablamos de ciencia ficción con viajes in",
-      "link": "https://www.cinemascomics.com/proyecto-salvacion-revienta-la-taquilla/",
-      "pubDate": "Mon, 23 Mar 2026 09:01:00 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Proyecto-Salvacion-revienta-la-taquilla-en-su-primer-fin-de-semana.jpg"
+      "id": "aHR0cHM6Ly93d3cubGFu",
+      "title": "Dólar hoy y dólar blue hoy, precio en vivo: a cuánto cotizan este lunes 23 de marzo",
+      "summary": "La divisa minorista cerró el viernes pasado a $1360 para la compra y a $1410 para la venta.",
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-precio-en-vivo-a-cuanto-cotizan-este-lunes-23-de-marzo-nid23032026/",
+      "pubDate": "Mon, 23 Mar 2026 11:24:20 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/MXJZ2UNX7ZH6FHHZMQ4GKNYXAE.JPG?auth=073669589b3711e39ac8dc7fff812713461709766fd288fd8e50e81a02b73ee8&smart=true&width=2000&height=1333"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants. In the common area, a wildlife advocate spoke passionately to a crowd lounging in beanbags about a form of rodent birth control that could manage rat populations without poison. In the “Crustacean Room,” a dozen people sat in a circle, debating whether the sentience of insects could tell us anything about the inner lives of chatbots. In front of the “Bovine Room” stood a bookshelf stacked with copies of Eliezer Yudkowsky’s If Anyone Builds It, Everyone Dies , a manifesto arguing that AI could wipe out humanity . The event was hosted by Sentient Futures, an organization that believes the future of animal welfare will depend on AI. Like many Bay Area denizens, the attendees were decidedly “AGI-pilled”—they believe that artificial general intelligence, powerful AI that can compete with humans on most cognitive tasks, is on the horizon. If that’s true, they reason, then AI will likely prove key to solving society’s thorniest problems—including animal suffering. To be clear, experts still fiercely debate whether today’s AI systems will ever achieve human- or superhuman-level intelligence, and it’s not clear what will happen if they do. But some conference attendees envision a possible future in which it is AI systems, and not humans, who call the shots. Eventually, they think, the welfare of animals could hinge on whether we’ve trained AI systems to value animal lives. “AI is going to be very transformative, and it’s going to pretty much flip the game board,” said Constance Li, founder of Sentient Futures. “If you think that AI will make the majority of decisions, then it matters how they value animals and other sentient beings”—those that can feel and, therefore, suffer. Like Li, many summit attende",
-      "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-      "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000",
-      "source": "MIT Tech Review",
+      "id": "aHR0cHM6Ly9hY3R1YWxp",
+      "title": "Bases e infraestructuras de EE.UU. e Israel bajo nueva oleada de misiles y drones iraníes",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/594668-bases-e-infraestructuras-eeuu-israel?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 23 Mar 2026 11:23:22 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "aHR0cHM6Ly9tYXJrZXRp",
+      "title": "Los agentes de IA toman los mandos en WordPress.com: ahora pueden crear, editar y administrar contenidos",
+      "summary": "WordPress.com , la plataforma de hosting propiedad de Automattic, ha dado un importante paso en su conexión con agentes de IA externos , como ChatGPT o Claude, al permitir que estos puedan ejecutar funciones de escritura para convertirse en colaboradores activos de tu sitio web. Esto es posible gracias al Protocolo de Contexto de Modelo (MCP) , un estándar abierto que permite a las aplicaciones proporcionar contexto a grandes modelos de lenguaje (LLM), y con el que WordPress.com es compatible desde octubre de 2025. Hasta ahora, esta compatibilidad con el MCP permitía a los agentes de IA de herramientas como Claude, ChatGPT, OpenClaw y Cursor tener acceso al contenido, análisis y configuración del sitio web de WordPress con el que el propietario o propietaria los enlazase. Ahora, podrán pasar a gestionar directamente el contenido . Esta actualización ya ha comenzado a desplegarse en todos los planes de pago de WordPress.com , y para activarla solo debes acceder al panel de control de MCP . Tu agente de IA puede editar entradas, páginas, comentarios, categorías, etiquetas y archivos multimedia de tu web Al conectar tu agente de IA con WordPress.com gracias al MCP, podrás solicitar al agente que redacte, edite y publique contenido en tu sitio web mediante una sencilla conversación natural directamente desde la propia herramienta de IA. Esta nueva capacidad integra 19 nuevas herramientas de escritura aplicables a seis tipos de contenidos: entradas, páginas, comentarios, categorías, etiquetas y archivos multimedia . Además, el contenido generado mantendrá la coherencia estética con tu sitio web, ya que los agentes de IA pueden analizar y comprender el diseño, colores, fuentes, espaciado y patrones de bloques de tu tema de WordPress. « Esto da como resultado un diseño que hereda el sistema de diseño de tu sitio web y se adapta automáticamente cuando cambias de tema », explica el comunicado de la compañía. Algunas de las tareas que puedes encargar a tu agente de IA son: Re",
+      "link": "https://marketing4ecommerce.net/agentes-de-ia-wordpress-com/",
+      "pubDate": "Mon, 23 Mar 2026 11:01:22 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/los-agentes-de-IA-toman-los-mandos-en-WordPress.com_-1024x614.jpg",
+      "subcat": "desarrollo"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2lu",
+      "title": "Nuevo spot de The Mandalorian and Grogu con contenido inédito",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El nuevo spot de The Mandalorian and Grogu tiene de todo: acción, criaturas míticas y ese puntito adorable que te desarma sin pedir permiso. Sí, Grogu vuelve a hacer de las suyas. La película The Mandalorian and Grogu está a la vuelta de la esquina y este avance no solo sube el hype, lo dispara directamente al hiperespacio. Y lo mejor es que no se guarda casi nada: nuevas escenas, detalles curiosos y pistas bastante jugosas sobre lo que viene. El spot de The Mandalorian and Grogu cargado de acción… y momentos que te van a sacar una sonrisa El nuevo avance de The Mandalorian and Grogu mezcla perfectamente dos cosas que ya son marca de la casa: secuencias de acción bastante intensas y esos momentos en los que Grogu roba la escena sin esfuerzo. Y sí, vuelve a pasar. Uno de los momentos más comentados es ese en el que Grogu se sube al hombro de Din Djarin y empieza a golpear su casco como diciendo “vámonos ya”, justo cuando todo a su alrededor está explotando. Es imposible no sonreír con algo así, ¿no crees? Pero ojo, que esto no es solo ternura. El spot también deja claro que la película va a subir el nivel en cuanto a espectáculo. Hay persecuciones, disparos y una sensación constante de peligro que deja claro que esto ya no es solo una serie… es un salto al cine con todas las letras. Más criaturas, más universo Star Wars Uno de los detalles más interesantes de este nuevo vistazo a The Mandalorian and Grogu es la aparición de criaturas que conectan directamente con el universo más amplio de Star Wars . Por ejemplo, tenemos un primer vistazo a Marrok , el anooba que acompaña al cazarrecompensas Embo. Star Wars Si te suena, es normal. Este tipo de criatura ya apareció en The Clone Wars , así que aquí hay guiño directo para los que llevan años siguiendo la saga. Y no es el único. También se ha confirmado que varios Anzellans acompañarán a Grogu durante la aventura . Sí, esos pequeños mecánicos. Su presencia pue",
+      "link": "https://www.cinemascomics.com/nuevo-spot-the-mandalorian-and-grogu-inedito/",
+      "pubDate": "Mon, 23 Mar 2026 11:01:09 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/spot-The-Mandalorian-and-Grogu.jpg"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2xh",
+      "title": "Gonçalo M. Tavares, Premio Formentor 2026: “Hay países excitados por la idea de un conflicto”",
+      "summary": "El escritor portugués advirtió que el clima internacional presenta síntomas similares a los previos a la Primera Guerra Mundial. También defendió el papel de la buena literatura para formar lectores críticos frente a la violencia y la desinformación.",
+      "link": "https://www.clarin.com/cultura/goncalo-m-tavares-premio-formentor-2026-paises-excitados-idea-conflicto_0_ocFTdcaZIo.html",
+      "pubDate": "Mon, 23 Mar 2026 11:00:37 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/09/qoCzeII5d_1200x630__1.jpg"
+    },
+    {
+      "id": "aHR0cHM6Ly9oaXBlcnRl",
+      "title": "Nuevo drama con los móviles baratos de 2026. No solo serán más caros: así cambiará (a peor) tu próximo smartphone",
+      "summary": "La crisis de la memoria RAM no solo está haciendo que los móviles baratos dejen de serlo. Los precios están alcanzando tal nivel, que muchos de los fabricantes podrían estar a punto de dar otro paso con sus modelos de gama media y gama baja. ¿Cuál? Empezar a recortar en ciertos elementos para poder mantener los precios . Y sí, nos referimos a hacer peores móviles en ciertos aspectos para que el margen no se vea afectado y así poder venderlos con una subida no muy drástica. ¿La clave? Uno de los filtradores más importantes de la industria acaba de afirmar en sus redes sociales saber qué cosas van a empeorar en estos móviles baratos . Ya te lo adelantamos: no te van a gustar nada. Si lo que dice Digital Chat Station es cierto, la gama media y baja van a retroceder varios años por culpa del nuevo coste de la memoria RAM. Su teoría es la siguiente. A los fabricantes ya no les bastaría con subir un poco los precios: para seguir viendo móviles baratos en el mercado, sería necesario recortar en ciertos aspectos clave para destinar ese nuevo margen a la RAM . Es decir, dispositivos con un precio similar, pero con características más modestas o diseños no tan avanzados. Así serían los móviles baratos del 2026. Precios contenidos a cambio de peores características La fuente de la información no se anda con rodeos: gracias a su acceso a las cadenas de suministro en China ha podido saber de primera mano qué cosas del pasado volverán a los móviles baratos de 2026 . Y no, no son noticias muy esperanzadoras. Aquí va una lista de esos componentes, materiales y detalles que, por culpa del precio de la RAM podrían volver a los dispositivos de gama media y gama baja de este año. Móviles con la configuración de 8 GB de RAM y 512 GB de almacenamiento. Pantallas a 90 Hz con notch para alojar la cámara delantera. Ranura híbrida con SIM + tarjeta SD Diseños de plástico en móviles de 400-500 euros El primer cambio deja bastante claro el motivo y las consecuencias: los fabricantes podrían de",
+      "link": "https://hipertextual.com/mobile/nuevo-drama-con-los-moviles-baratos-de-2026-no-solo-seran-mas-caros-asi-cambiara-a-peor-tu-proximo-smartphone/",
+      "pubDate": "Mon, 23 Mar 2026 10:58:17 +0000",
+      "source": "Hipertextual",
       "cat": "tech",
-      "image": ""
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/moviles-baratos.jpg?fit=1024%2C652&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubXV5",
+      "title": "Tarjetas gráficas sin GPU ni VRAM, cajas llenas de detergente y el problema de la picaresca en el mercado tecnológico",
+      "summary": "Llevamos unos años muy locos en el mercado de las tarjetas gráficas, no porque se hayan producido nuevos lanzamientos importantes, sino porque se han incrementado los casos de estafas que se producen tanto contra consumidores como contra minoristas. Os pongo un ejemplo reciente, un usuario de los foros de Reddit compró una GeForce RTX 5090 a través de Amazon, y lo único que recibió fue una caja con un paquete de detergente en su interior. Como habréis podido imaginar solicitó una devolución, pero no ha tenido suerte, ya que Amazon le denegó el reembolso tras una investigación que duró ocho días. Esto le complica mucho las cosas, ya que tendrá que intentar recuperar su dinero de otra forma. En este caso, su última opción sería reclamar a su banco para que cancelen el pago , pero parece que no tiene suficientes pruebas como para sostener una reclamación de este tipo. Hemos visto también casos en los que los compradores han recibido cajas con pesas o incluso con piedras, y otros en los que se les han enviado modelos que no se correspondían con la tarjeta gráfica que querían comprar. Otro tipo de estafa que es más frecuente de lo que parece es la venta de tarjetas gráficas de gama alta que, por fuera, parecen estar en perfecto estado, pero que en realidad solo contienen un PCB casi vacío, sin GPU ni memoria gráfica . Esto afecta sobre todo a las GeForce RTX 5090 y GeForce RTX 4090, porque son las más valiosas. Es importante destacar que este tipo de estafa ocurre en varios niveles diferentes, es decir, tanto en el mercado de segunda mano como en el mercado de primera mano, y esto se debe a que algunas personas con formación en electrónica compran estas tarjetas gráficas, les quitan la GPU y la VRAM y las devuelven como si no las hubieran llegado a utilizar , lo que hace que vuelvan a entrar al canal, y que puedan llegar vacías a compradores inocentes. Consejos para evitar estafas al comprar tarjetas gráficas Recurre siempre a vendedores de confianza. Si compras en Amazo",
+      "link": "https://www.muycomputer.com/2026/03/23/tarjetas-graficas-sin-gpu-ni-vram-cajas-llenas-de-detergente-y-el-problema-de-la-picaresca-en-el-mercado-tecnologico/",
+      "pubDate": "Mon, 23 Mar 2026 10:46:54 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Tarjetas-graficas-vacias-estafa-2.jpg"
     },
     {
       "id": "aHR0cHM6Ly9lbHBhaXMu",
-      "title": "La Audiencia Nacional excarcela a 24 imputados por narcotráfico tras una sentencia del Constitucional",
-      "summary": "Carguero apresado el 12 de enero por la Policía y la Armada Española con el mayor alijo de cocaína aprehendido hasta la fecha en el mar por las fuerzas de seguridad europeas.",
-      "link": "https://elpais.com/espana/2026-03-23/la-audiencia-nacional-excarcela-a-24-imputados-por-narcotrafico-tras-una-sentencia-del-constitucional.html",
+      "title": "Cinco ‘gadgets’ que parecen de ciencia ficción, pero ya se pueden comprar",
+      "summary": "Un patito inteligente de LEGO Smart Play.",
+      "link": "https://elpais.com/tecnologia/tu-tecnologia/2026-03-23/cinco-gadgets-que-parecen-de-ciencia-ficcion-pero-ya-se-pueden-comprar.html",
       "pubDate": "Mon, 23 Mar 2026 04:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFTMQK2FFJIVXP3I62ICWCKCKU.jpg?auth=148168efcb4dc80b2783b68aed25a316021fa1a4a949eeb3800f13a92879c4cd"
+      "source": "El País Tech",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/6FVZV6WDNJFE3KJL7NWINIZ4MY.jpg?auth=3a9b452f3f316faba549226732fe22be6473484211723d846aec73e814275a30"
     },
     {
       "id": "aHR0cHM6Ly93d3cuZWxk",
@@ -183,27 +183,26 @@
       "image": "https://fotos.perfil.com/2025/11/10/trim/540/304/acma-asociacion-contra-el-maltrato-animal-10112025-2134822.jpg"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "AI influencer awards season is upon us",
-      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the creative talent 'behind' AI Influencers\" and recognize their growing commercial and cultural clout. Contestants will compete for a total prize f … Read the full story at The Verge.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-      "pubDate": "2026-03-22T20:01:00-04:00",
-      "source": "The Verge AI",
-      "cat": "ia",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "subcat": "herramientas"
+      "id": "aHR0cHM6Ly93d3cubGF2",
+      "title": "La justicia dictamina que Musk engañó a los accionistas de Twitter durante su compra",
+      "summary": "Los daños pueden ascender a 2.250 millones de euros para los accionistas minoritarios",
+      "link": "https://www.lavanguardia.com/tecnologia/20260321/11495631/justicia-dictamina-musk-engano-accionistas-twitter-compra.html",
+      "pubDate": "21 Mar 2026 10:01:23 +0100",
+      "source": "La Vanguardia Tech",
+      "cat": "tech",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/05/6984f64cc6875.r_d.3080-2053-0.jpeg"
     }
   ],
   "radar": {
     "trending": [
       {
-        "name": "ChatGPT",
+        "name": "Claude",
         "type": "Modelo",
         "badge": "Alta atención",
         "cls": "rb-orange"
       },
       {
-        "name": "Claude",
+        "name": "ChatGPT",
         "type": "Modelo",
         "badge": "Alta atención",
         "cls": "rb-orange"
@@ -213,23 +212,9 @@
         "type": "Coding AI",
         "badge": "Alta atención",
         "cls": "rb-orange"
-      },
-      {
-        "name": "ElevenLabs",
-        "type": "Voz IA",
-        "badge": "Alta atención",
-        "cls": "rb-orange"
       }
     ],
-    "rising": [
-      {
-        "name": "ElevenLabs",
-        "type": "Voz IA",
-        "desc": "AI influencer awards season is upon us",
-        "badge": "Crecimiento fuerte",
-        "cls": "rb-green"
-      }
-    ]
+    "rising": []
   },
-  "updated": "2026-03-23T10:58:43.903067+00:00"
+  "updated": "2026-03-23T11:28:07.306170+00:00"
 }
