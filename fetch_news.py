@@ -5,6 +5,7 @@ import json
 import os
 import re
 import base64
+import hashlib
 from datetime import datetime, timezone
 
 # Headers para imitar un navegador real (evita bloqueo de bot en nitter/xcancel)
@@ -355,7 +356,7 @@ def classify(title, desc, default_cat):
 
 
 def make_id(s):
-    return base64.b64encode(s[:60].encode('utf-8', errors='ignore')).decode()[:20]
+    return hashlib.md5(s.encode('utf-8', errors='ignore')).hexdigest()[:20]
 
 
 articles = []
