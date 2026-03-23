@@ -689,19 +689,24 @@ function renderIaNews(filter) {
   }).join('');
 }
 
-function _iaStructuredContent(summary, source, subcat) {
+function _iaStructuredContent(summary, source, cat) {
   const clean = (summary || '').replace(/<[^>]+>/g, '').replace(/&[a-z]+;/gi, ' ').trim();
-  // TL;DR: primera oración o primeros 160 chars
+  // En resumen: primera oración o primeros 160 chars
   const firstDot = clean.search(/[.!?]\s/);
   const tldr = firstDot > 20 ? clean.slice(0, firstDot + 1) : clean.slice(0, 160).trim();
   // Puntos clave: oraciones del resumen (min 40 chars), hasta 4
   const sentences = clean.split(/(?<=[.!?])\s+/).map(s => s.trim()).filter(s => s.length >= 40);
   const points = sentences.slice(0, 4);
-  // Por qué importa
-  const subcatLabel = subcat || 'inteligencia artificial';
+  // Por qué importa — fallback contextual según categoría
+  const CAT_LABELS = {
+    ia: 'inteligencia artificial', tech: 'tecnología', general: 'actualidad',
+    economy: 'economía', ar_pol: 'política argentina', poleco: 'política y economía',
+    israel: 'geopolítica', sports: 'deporte', cinema: 'entretenimiento'
+  };
+  const catLabel = CAT_LABELS[cat] || cat || 'actualidad';
   const why = sentences.length > 4
     ? sentences[sentences.length - 1]
-    : `Es una señal relevante del ecosistema de ${subcatLabel}, publicada por ${source}.`;
+    : `Una nota relevante sobre ${catLabel}, según ${source}.`;
   return { tldr, points, why };
 }
 
@@ -1325,21 +1330,42 @@ function openArticle(id) {
   document.getElementById('article-time').textContent   = timeAgo(a.pubDate);
   document.getElementById('article-title').textContent  = a.title;
 
+  // Eliminar botón previo si existe
+  document.getElementById('article-load-btn')?.remove();
+
+  // Generar contenido estructurado desde el resumen
+  const c = _iaStructuredContent(a.summary, a.source, a.cat);
+
+  const points = (c.points || []).map(p => `<li>${p}</li>`).join('');
+
   const bodyEl = document.getElementById('article-body');
-  bodyEl.innerHTML = boldifyText(a.summary || '');
-
-  // Botón "leer artículo completo" — siempre visible
-  const existingBtn = document.getElementById('article-load-btn');
-  if (existingBtn) existingBtn.remove();
-
-  if (a.link && a.link !== '#') {
-    const btn = document.createElement('button');
-    btn.id = 'article-load-btn';
-    btn.className = 'article-fetch-btn';
-    btn.textContent = 'Cargar artículo completo →';
-    btn.onclick = () => loadFullArticle(a.link, btn);
-    bodyEl.after(btn);
-  }
+  bodyEl.innerHTML = `
+    ${c.tldr ? `
+    <div class="ia-article-tldr">
+      <span class="ia-article-tldr-label">En resumen</span>
+      <p>${c.tldr}</p>
+    </div>` : ''}
+    ${points ? `
+    <div class="ia-article-section">
+      <div class="ia-article-section-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+        Puntos clave
+      </div>
+      <ul class="ia-article-points">${points}</ul>
+    </div>` : ''}
+    ${c.why ? `
+    <div class="ia-article-section">
+      <div class="ia-article-section-title">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        ¿Por qué importa?
+      </div>
+      <p class="ia-article-why">${c.why}</p>
+    </div>` : ''}
+    ${a.link && a.link !== '#' ? `
+    <a href="${a.link}" target="_blank" rel="noopener" class="ia-article-read-more">
+      Leer artículo completo en ${a.source} →
+    </a>` : ''}
+  `;
 
   updateModalButtons();
   document.getElementById('article-scroll').scrollTop = 0;
