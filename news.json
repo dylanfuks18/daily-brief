@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "id": "9a9ed9f116fed8b6b2e5",
-      "title": "Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta",
-      "summary": "Genbeta se lanzó al mundo en el año 2005, hace ya dos décadas (y algunos meses). Si ya eras usuario de Internet por aquellos tiempos, estarás de acuerdo con que éste ha cambiado mucho en estos últimos 20 años , y no siempre para mejor. Hagamos un breve recorrido por el carril de la nostalgia en la 'autopista de la información'. De la web de enlaces a la web de feeds A principios de los 2000, Internet se organizaba alrededor de enlaces . Uno llegaba a una página web, encontraba hipervínculos y decidía a dónde ir después. El control de la navegación estaba en el usuario. Los blogs enlazaban a otros blogs, y los buscadores indexaban páginas relativamente estáticas. Hoy, gran parte del tráfico pasa por feeds basados en algoritmos . En lugar de decidir qué leer, el usuario desplaza el dedo mientras un sistema decide por él. Esto no ocurre solo en redes sociales como Facebook, Instagram o TikTok ( que es donde la mayoría de los usuarios comparten sus contenidos , relegados ya los foros y los blogs a un lugar secundario), sino también en YouTube, Spotify, Netflix, Amazon o LinkedIn. El feed no es neutral: está optimizado para maximizar tiempo de permanencia, interacción y retorno publicitario. Eso significa priorizar contenido emocional, repetitivo, polarizante o diseñado para enganchar rápido, sumergiéndonos en una secuencia infinita que nos invita a no salir de ella. Donde el enlace distribuía la atención, el feed la centraliza. Y el usuario ahora consume contenidos preestablecidos por otros, en lugar de explorar Cuando las plataformas empeoran a propósito En los últimos años, se ha popularizado un término no del todo elegante, pero sí bastante preciso: enshittification (literalmente, enmierdización ). El concepto fue popularizado por Cory Doctorow para describir el ciclo de degradación típico de las plataformas digitales. El proceso suele seguir cuatro fases reconocibles: La plataforma es buena para los usuarios : Piensa en el Facebook de los años 2007–2012, en el busca",
-      "link": "https://www.genbeta.com/a-fondo/asi-ha-cambiado-internet-20-anos-transcurridos-lanzamiento-genbeta",
-      "pubDate": "Wed, 31 Dec 2025 11:01:00 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/616c06/chatgpt-image-30-dic-2025-18_30_10/1024_2000.png"
-    },
-    {
-      "id": "adfaacb6463e7512de95",
-      "title": "Un jefe boomer no entendía que sus empleados millennials no quisieran cargos directivos. Ellos tienen claras las razones",
-      "summary": "Un jefe de la generación del baby boom ha dicho estar muy desconcertado porque los trabajadores millennials rechazan recibir ascensos y sus razones tienen. En una publicación en Reddit (un foro que se ha convertido en esencial para entender las dinámicas laborales) un empleado millennial compartió una anécdota de su empresa : cuando los profesionales de su generación decidieron colectivamente no seguir el camino marcado por sus superiores boomers. El empleado explica que trabaja para una gran empresa en Europa Central y solo la sede central cuenta con unos 1.000 empleados. Dado que los millennials constituyen alrededor del 30% de la plantilla de la empresa , surgió una nueva tendencia entre los trabajadores: \"Muchos de ellos han estado rechazando ascensos u oportunidades para solicitar puestos más altos en la empresa\", tal y como recoge upworthy . Sobre todo, la tendencia se ha notado desde la pandemia del año 2020. En Genbeta Así son los &#039;boomers&#039;: los mayores en las empresas, leales al trabajo y que sacaron mucho partido a la bonanza económica Esto despertó la curiosidad de su jefe, un 'baby boomer', que quería saber por qué los trabajadores millennials no se presentaban para solicitar ningún ascenso. El jefe no les ofreció un ascenso, sino que simplemente les preguntó por qué no estaban interesados. Un dinero extra que no merece la pena las horas Esto llevó a la plantilla a hablar del tema y muchos de los trabajadores comparten la misma idea: \"mis compañeros y yo hemos hablado largo y tendido sobre esto y la conclusión es que simplemente no queremos trabajar como nuestros superiores\". Es decir, muchas horas, con muchas responsabilidades y un ingreso extra pero que no merece la pena el sobreesfuerzo. En Genbeta Empresas que echan a los jefes y dejan la responsabilidad a los trabajadores, que cobran menos: así se va asentando esta tendencia En sus palabras, él también tenía prisa por ascender cuando empecé pero ha visto cómo funciona el sistema y se ha de",
-      "link": "https://www.genbeta.com/laboral/jefe-boomer-no-entendia-que-sus-empleados-millennials-no-quisieran-cargos-directivos-ellos-tienen-claras-razones",
-      "pubDate": "Wed, 31 Dec 2025 09:01:00 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/b46954/jeshoots-com-fzoitus1diq-unsplash/1024_2000.jpeg"
-    },
-    {
       "id": "14db0552423d45562f47",
       "title": "Enfrentar la desinformación: desde las aulas y los libros escolares",
       "summary": "",
@@ -205,48 +185,6 @@
       "image": ""
     },
     {
-      "id": "81016203d4741aa2097e",
-      "title": "Meta se ha puesto a la cabeza de la carrera de los agentes de IA adquiriendo Manus por 2.000 millones de dólares",
-      "summary": "Meta acaba de cerrar una de las operaciones más llamativas de este final de año: la compra de Manus , una 'startup' de IA agéntica actualmente con sede en Singapur pero origen chino , conocida por ofrecer agentes capaces de ejecutar tareas complejas con poca supervisión. Las estimaciones sitúan el precio de dicha operación por encima de los 2.000 millones de dólares . Lo interesante no es solo el tamaño del cheque: es lo que compra Meta (capacidad 'agéntica' lista para ofrecer a sus clientes y usuarios) y lo que intenta evitar : ruido geopolítico, dudas regulatorias y riesgos reputacionales, para lo cual Meta insiste en que cortará los vínculos de Manus con China y reforzará barreras de seguridad y gobernanza de datos. Meta quiere agentes 'de verdad', no solo chatbots Manus saltó a la fama a comienzos de este año por vender la idea de un 'trabajador digital' más autónomo: un agente capaz de encadenar acciones —por ejemplo, analizar información, escribir código o ejecutar tareas propias de trabajo de oficina— a partir de instrucciones relativamente simples (por ejemplo: \"busca información, compárala, elabora un informe, genera una tabla y prepara un borrador listo para enviar\"). Aquí está el matiz: Meta ya tiene Meta AI y una estrategia de lanzamiento de modelos de lenguaje ya establecida, pero la IA agéntica es algo diferente: un producto que ofrece acciones y no sólo palabras . La operación sugiere que Meta quiere acelerar ese salto integrando la tecnología de Manus en sus servicios dirigidos a miles de millones de usuarios. Si 2023–2024 fue la época del auge del chatbot , 2025 se está cerrando con el inicio de otra carrera, la de los agentes de IA. El movimiento de Meta refuerza la idea de que los gigantes no solo competirán entrenando modelos: competirán comprando interfaces, equipos y productos que ya hayan resuelto parte del camino (seguridad, flujos de trabajo, integración con herramientas, etc.). La compra como atajo para fichar talento La carrera de la IA se",
-      "link": "https://www.genbeta.com/inteligencia-artificial/meta-se-ha-puesto-a-cabeza-carrera-agentes-ia-adquiriendo-manus-2-000-millones-dolares",
-      "pubDate": "Tue, 30 Dec 2025 15:08:27 +0100",
-      "source": "Genbeta",
-      "cat": "ia",
-      "image": "https://i.blogs.es/dac45f/chatgpt-image-30-dic-2025-15_00_08/1024_2000.png",
-      "subcat": "desarrollo"
-    },
-    {
-      "id": "01444db0d1433e2988e0",
-      "title": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
-      "summary": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto directivo de 'Responsable de preparación' , dedicado exclusivamente a anticipar, medir y contener los riesgos más graves de la inteligencia artificial avanzada. La cifra explica parte de la franqueza: hasta 555.000 dólares anuales de salario base, más acciones , según la documentación interna de la compañía. En Silicon Valley, donde los sueldos son altos por definición, superar el medio millón sigue siendo una señal clara de que hay algo más que el mero talento técnico implicado. Lo que está en juego es la posibilidad de que los modelos de IA más avanzados causen daños reales a gran escala... y de que alguien tenga la responsabilidad directa de evitarlo Anteponer la gestión de riesgos a la comercial Este puesto será una pieza clave para OpenAI en un momento 'crítico'. Los modelos mejoran a una velocidad sin precedentes y ya no solo generan texto o imágenes: encuentran vulnerabilidades de seguridad, influyen en estados mentales y empiezan a mostrar capacidades que podrían ser reutilizadas con fines destructivos . El propio Altman lo reconoce sin rodeos: en 2025, dice, la compañía ya ha experimentado \"un adelanto\" del impacto de estos sistemas en la salud mental, y ahora empieza a observar cómo los modelos se vuelven lo bastante competentes en ciberseguridad como para detectar fallos críticos. La empresa asume que el desarrollo de IA avanzada conlleva riesgos inevitables, y que la única opción responsable es poner a alguien bien pagado, con poder real y bajo enorme presión , a vigilar dónde y cuándo puede producirse el daño. En Genbeta El CEO de OpenAI ya tiene el búnker preparado mientras su compañía planifica cómo hacer frente a la creación de una &#039;IA fuerte&#039; Así, el ",
-      "link": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
-      "pubDate": "Tue, 30 Dec 2025 11:59:31 +0100",
-      "source": "Genbeta",
-      "cat": "ia",
-      "image": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
-      "subcat": "empresas"
-    },
-    {
-      "id": "52f5466c9eaf4126541c",
-      "title": "El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos \"muy especiales\" y explica quién tiene este perfil",
-      "summary": "El director ejecutivo de Randstad, Sander van 't Noordende, ha afirmado que el teletrabajo ha muerto oficialmente y que 3 días en la oficina es la nueva norma . La empresa que lidera es conocida por ser una de las mayores empresas de reclutamiento de nuevos trabajadores del mundo. Otra de sus afirmaciones es que esto es excepto para los talentos \"muy especiales\". Según palabras del ejecutivo a la publicación Fortune, l a guerra por el regreso a la oficina ha terminado y ha surgido una nueva jerarquía. Su planteamiento es que el teletrabajo ahora es una ventaja para los empleados de alto rendimiento. En Genbeta Han pasado años analizando a 3 millones de trabajadores y la conclusión es clara: los mejores renuncian para no volver a la oficina Lo que afirma este directivo viene corroborado por investigaciones. Ya recogimos en Genbeta cómo e l teletrabajo y la vuelta a las oficinas crean una nueva brecha y es que se está convirtiendo en un privilegio para ricos y jefes. De todos modos, también es relevante recordar que muchos buenos profesionales de grandes empresas como Amazon , Apple o Microsoft y de compañías en general se fueron cuando las empresas se empeñaron en meterlos en las oficinas. Gente con experiencia o nuevos contactos \"Hay que ser muy especial para poder exigir un trabajo 100 % remoto\", ha declarado van 't Noordende a Fortune. Y añade que eso se traduce a que \"hay que tener habilidades tecnológicas muy especiales o cierta experiencia\", es decir, que vuelve a dejar de lado a los profesionales de la generación Z que están arrancando ahora su vida en el mercado laboral. \"El fenómeno del trabajo freelance ha ido surgiendo, por supuesto, en las últimas décadas... pero también requiere habilidades especiales: buenas habilidades comerciales o de networking , que no todo el mundo posee\". En Genbeta 23 jefes de recursos humanos de empresas españolas quieren romper mitos del teletrabajo y animan a más empresas a unirse De todos modos, él si tiene algo que decir que",
-      "link": "https://www.genbeta.com/laboral/ceo-randstad-afirma-que-teletrabajo-ahora-se-reserva-solo-para-talentos-muy-especiales-explica-quien-tiene-este-perfil",
-      "pubDate": "Tue, 30 Dec 2025 10:01:00 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/78f97e/krakenimages-376kn_isple-unsplash/1024_2000.jpeg"
-    },
-    {
-      "id": "aeec5f605336bfab6f0a",
-      "title": "He comprado online porque en mi pueblo cada vez hay menos tiendas.... y siento que el proceso agota: es como horas extra de trabajo",
-      "summary": "En mi pueblo cada vez tenemos menos variedad de tiendas. Han ido cerrando comercios de electrodomésticos y otros útiles del hogar, por poner un ejemplo, y eso me ha llevado a tener que realizar diversas compras online. Ya he escrito otras veces cómo yo apuesto por las compras de comercio local siempre que puedo, pero no es posible todas las veces. En Genbeta Casi nunca he comprado online y no lo veo necesario en absoluto. Es una decisión de la que estoy muy orgullosa Las compras por internet han desterrado a ciertos comercios pequeños, porque la clientela de su pueblo tiene mucho más fácil comprar a tiendas remotas. Esto nos lleva a que tenemos menos comercio local y de barrio en general pero muchas opciones de conseguir lo que queramos a través de internet. Yo que no soy muy asidua a esta práctica, he tenido que hacer diversas compras en las últimas semanas y he sentido que el proceso es como un trabajo más, teniendo en cuenta que ya trabajo online y que pasar más horas con responsabilidades frente al ordenador es una especie de \"echar horas extra\". Pedidos que llegan en diferentes momentos El otro día, como regalo de fin de año para un amigo decidí comprarle algo porque es muy detallista conmigo y tenemos un viaje juntos planeado . Sabía que necesitaba unas gafas de natación y que le gustaban unas de sol de un estilo muy concreto. Así que recurrí a una reconocida tienda deportiva. Tenemos esa tienda en Asturias y no muy lejos (unos 20 minutos en coche desde mi casa), pero busqué online y lo que yo quería no estaba en tienda pero podía encargarse para luego recogerlo. Eso hice. Cuando fui a por mis pedidos un par de días más tarde, cual fue mi sorpresa al saber que sólo las gafas de buceo estaban en tienda, que las otras llegaban a casa. Cuando hice la compra no vi esa distinción. De hecho yo marqué que llegara todo a tienda pero resulta que las gafas de sol eran de otra tienda, porque hay grandes retailers que funcionan también a modo de marketplace, y que tenían ",
-      "link": "https://www.genbeta.com/a-fondo/he-comprado-online-porque-mi-pueblo-cada-vez-hay-tiendas-siento-que-proceso-agota-como-horas-extra-trabajo",
-      "pubDate": "Tue, 30 Dec 2025 09:01:00 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/c56d8d/campaign-creators-ogowdvlbmsc-unsplash/1024_2000.jpeg"
-    },
-    {
       "id": "0cec513f5cd5e48b3b28",
       "title": "Lule y Martín Menem: el poder de los Karinos",
       "summary": "Son los brazos ejecutores de \"El Jefe\" en el Congreso y la Casa Rosada. El rol de Lule en el casting de candidatos partidarios y la disputa por las cajas de los gremios. Los planes de Martín para el 2027. Y los otros Menem que salen del ostracismo. Leer más",
@@ -267,34 +205,376 @@
       "image": "https://fotos.perfil.com/2025/02/25/trim/540/304/colegio-en-sunchales-santa-fe-1973978.jpg"
     },
     {
-      "id": "ff9e12f039acf775e48d",
-      "title": "Quién ganó millones en minutos con el anuncio de Trump sobre Irán",
-      "summary": "Trump y el crecimiento del mercado",
-      "link": "https://www.marca.com/tiramillas/economia/2026/03/24/gano-millones-minutos-anuncio-trump-sobre-iran-alarmas-disparan-wall-street.html",
-      "pubDate": "Tue, 24 Mar 2026 07:50:56 +0100",
+      "id": "188d6940898c7cf63076",
+      "title": "El City vuelve a expandirse a EE.UU. con la primera academia del club en el país",
+      "summary": "Tottenham vs Manchester City",
+      "link": "https://www.marca.com/sport-business/2playbook/2026/03/24/manchester-city-vuelve-expandirse-eeuu-primera-academia-club-pais.html",
+      "pubDate": "Tue, 24 Mar 2026 09:36:56 +0100",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c23411e1dd0.png"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/01/30/697ca0d0806e7.jpeg"
     },
     {
-      "id": "e88a09c399634ccc7ccb",
-      "title": "Bill Cosby, declarado culpable de abuso sexual: debe pagar casi 20 millones de dólares",
-      "summary": "Bill Cosby condenado a pagar 20 millones de dólares por abuso sexual.",
-      "link": "https://www.marca.com/tiramillas/cine/2026/03/24/bill-cosby-condenado-pagar-20-millones-dolares-declarado-culpable-abuso-sexual.html",
-      "pubDate": "Tue, 24 Mar 2026 07:41:43 +0100",
+      "id": "24d9aaeccfbb851bd661",
+      "title": "'Clave Guido', un pack entre el jugador y la persona: \"Un buen tipo\"",
+      "summary": "Guido Rodríguez, un 'boom' para este Valencia.",
+      "link": "https://www.marca.com/futbol/valencia/2026/03/24/clave-guido-pack-jugador-persona-buen-tipo.html",
+      "pubDate": "Tue, 24 Mar 2026 09:16:51 +0100",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c229630271a.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c22f41da9a6.jpeg"
+    },
+    {
+      "id": "3b449cda68cb80428d81",
+      "title": "Los límites del fútbol: \"Un caso claro es el del Barça\"",
+      "summary": "Imagen del reportaje MARCA.",
+      "link": "https://www.marca.com/futbol/2026/03/24/limites-futbol-asi-funciona-sistema-condiciona-deporte-rey-caso-claro-barca.html",
+      "pubDate": "Tue, 24 Mar 2026 09:07:12 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/12/69b31f44be0a4.jpeg"
+    },
+    {
+      "id": "96ab2e96f67ee4b758f9",
+      "title": "Lance Stroll destroza al Aston Martin",
+      "summary": "Stroll, dentro del Aston Martin.",
+      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/24/lance-stroll-destroza-aston-martin-radio-inedita.html",
+      "pubDate": "Tue, 24 Mar 2026 08:55:51 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c240112d081.jpeg"
+    },
+    {
+      "id": "ed15b74c40dfadf6ddb2",
+      "title": "Hugo González es víctima del Catan en los Celtics: \"Lo odio\"",
+      "summary": "Hugo González es víctima del Catan en los Celtics: \"Lo odio\"",
+      "link": "https://www.marca.com/baloncesto/nba/2026/03/24/hugo-gonzalez-victima-catan-celtics-odio.html",
+      "pubDate": "Tue, 24 Mar 2026 08:49:18 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c2413fcf5dc.jpeg"
+    },
+    {
+      "id": "883aa6c09ba5f7990675",
+      "title": "Avalancha en los Alpes italianos: dos muertos y 25 esquiadores atrapados en Tirol del Sur",
+      "summary": "@soccorsoalpinoespeleologico/Instagram",
+      "link": "https://www.marca.com/otros-deportes/2026/03/24/avalancha-alpes-italianos-dos-muertos-25-esquiadores-atrapados-tirol-sur.html",
+      "pubDate": "Tue, 24 Mar 2026 08:49:10 +0100",
+      "source": "Marca",
+      "cat": "poleco",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c241e5dc382.jpeg"
+    },
+    {
+      "id": "b653ffbaf718365f1dc7",
+      "title": "EL CEO de NVIDIA defiende DLSS 5: «A mí tampoco me gusta la IA basura»",
+      "summary": "El CEO de NVIDIA ha concedido una entrevista donde habla, entre otras muchas cosas, de DLSS 5 , la próxima generación de la popular tecnología Super Resolution que hará uso de IA generativa para mejorar las escenas del juego con iluminación fotorrealista. Aunque DLSS 5 promete ser un antes y un después en el renderizado gráfico en videojuegos , su anuncio con imágenes de algunos juegos no estuvo exento de críticas ante lo que algunos entendieron como «un simple filtro de IA de baja calidad» y un futuro donde las mejoras visuales de DLSS 5 podrían terminar homogeneizando muchos juegos dispares hacia un único estándar de fotorrealismo plano y uniforme. Esta reacción (a nuestro juicio simplista y exagerada porque la tecnología mejorará todos los elementos de un juego ) tuvo respuesta de Jensen Huang con un comentario que resonó en los editoriales: «están completamente equivocados». Como era esperable, la declaración avivó más la polémica . Hay que entender que el consumidor de a pie está harto de tantas funciones de IA que se anuncian como «revolucionarias» y que son integraciones forzadas, intrusivas, ocupan recursos (que no tenemos en plena crisis de los semiconductores ), simplemente innecesarias, cuando no directamente software basura. Véase el ‘Microslop’ de Windows 11 como gran ejemplo, aunque hay muchos más. Jensen Huang, recordemos el máximo responsable de colocar a NVIDIA como la compañía de más valor del planeta, ha vuelto a salir a los medios para calmar los ánimos y en un tono donde dice entender la reacción de los consumidores: « Creo que su perspectiva tiene sentido y entiendo su punto de vista, porque a mí tampoco me gusta la basura generada por la IA &#8230; Ya sabes, todo el contenido generado por IA se parece cada vez más y es todo precioso, así que comprendo lo que piensan» . Qué es y qué no es DLSS 5 Además de ponerse en la piel de un consumidor de a pie (que no tiene el porqué entender las técnicas del renderizado neuronal) lo más interesante de la",
+      "link": "https://www.muycomputer.com/2026/03/24/el-ceo-de-nvidia-defiende-dlss-5-a-mi-tampoco-me-gusta-la-ia-basura/",
+      "pubDate": "Tue, 24 Mar 2026 08:42:29 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/DLSS-5_2.jpg",
+      "subcat": "empresas"
+    },
+    {
+      "id": "7a061cd51406dc934e0c",
+      "title": "Robots bailarines protagonizan la previa del debate presidencial en Perú (VIDEOS)",
+      "summary": "En Perú, dos robots fueron los protagonistas de la previa del debate presidencial, que se desarrolló este lunes en el Centro de Convenciones de Lima. En imágenes que circulan por redes sociales, se ve a los androides bailando portando una camiseta de Avanza País, agrupación que respalda la candidatura de José Williams Zapata.",
+      "link": "https://actualidad.rt.com/viral/594870-robots-bailarines-protagonizan-previa-debate?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 08:41:57 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c24b3ae9ff7173295ee486.jpg"
+    },
+    {
+      "id": "01b00326e8e912c961e0",
+      "title": "Sale a la luz el informe forense de la influencer Stefanie Pieper: pudo haber sido enterrada viva",
+      "summary": "Stefanie Pieper.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/03/24/sale-luz-informe-forense-influencer-stefanie-pieper-pudo-haber-sido-enterrada-viva.html",
+      "pubDate": "Tue, 24 Mar 2026 08:41:32 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c23d280ca6c.jpeg"
+    },
+    {
+      "id": "3e970ceac69e55b1a59e",
+      "title": "Jorge Ponce se pronuncia sobre la “mayor mentira” que se dice en España: “Está feo”",
+      "summary": "Jorge Ponce.",
+      "link": "https://www.marca.com/tiramillas/television/2026/03/24/jorge-ponce-pronuncia-sobre-mayor-mentira-dice-espana-feo.html",
+      "pubDate": "Tue, 24 Mar 2026 08:40:38 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/12/05/693282e767ce5.jpeg"
+    },
+    {
+      "id": "31c8eb9eff86be938a0f",
+      "title": "Puig se dispara un 14% en Bolsa en plenas negociaciones de fusión con Estée Lauder",
+      "summary": "Establecimiento de Estée Lauder.",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-03-24/puig-se-dispara-un-14-en-bolsa-en-plenas-negociaciones-de-fusion-con-estee-lauder.html",
+      "pubDate": "Tue, 24 Mar 2026 08:37:41 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/UGBGNY4SOJGVHOAD4DTDATHSRI.jpg?auth=ea4eca14ee3e9f44e7f15487552775135a110031fd712bbf42e4c601c78474e9"
+    },
+    {
+      "id": "564b0f944cbd90b73ea3",
+      "title": "Roberto Gómez revela los planes del Real Madrid con Arbeloa y Vinicius",
+      "summary": "El periodista cuenta en La Tribu detalles de cómo va la renovación del entrenador del equipo blanco y también la del jugador brasileño",
+      "link": "https://www.marca.com/radio/2026/03/24/roberto-gomez-revela-planes-real-madrid-arbeloa-vinicius.html",
+      "pubDate": "Tue, 24 Mar 2026 08:37:41 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/aM4ka1fmPAPvsvNeR.jpeg"
+    },
+    {
+      "id": "70aa5140dad820e78372",
+      "title": "Este país árabe está cerca de entrar en guerra con Irán",
+      "summary": "Los aliados de EE.UU. en el golfo Pérsico intentan no cruzar la línea que le aboque a desplegar abiertamente sus fuerzas armadas.",
+      "link": "https://actualidad.rt.com/actualidad/594864-pais-arabe-cerca-entrar-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 08:37:18 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c240f1e9ff71042d44ed4d.jpg"
+    },
+    {
+      "id": "4f9281a4c9b4876a49b4",
+      "title": "Tebas señala el poder del PSG en Francia: “Los demás guardan silencio”",
+      "summary": "Javier Tebas, en acto de LaLiga con Javier Gómez de fondo.",
+      "link": "https://www.marca.com/futbol/psg/2026/03/24/javier-tebas-senala-psg-francia-demas-guardan-silencio.html",
+      "pubDate": "Tue, 24 Mar 2026 08:37:17 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/18/69ba6abcc7d16.jpeg"
+    },
+    {
+      "id": "e54268bfd473063e44e6",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Las dudas sobre la desescalada en Oriente Próximo vuelven a colocar el petróleo por encima de los 100 dólares",
+      "summary": "Un edificio dañado tras un ataque aéreo, este martes en Tel Aviv.",
+      "link": "https://elpais.com/internacional/2026-03-24/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Tue, 24 Mar 2026 08:31:06 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/FIEANNYMTRFAHJOWIHYGUM3FCY.jpg?auth=480d189345fb76dc196f59cc3459f27989f7457079eb0651da736d3da00c0e0d"
+    },
+    {
+      "id": "ad1eb45b6e34b5df3b4f",
+      "title": "Alba Oliveros, narradora de LaLiga: \"Me siguen diciendo cosas horribles\"",
+      "summary": "Alba Oliveros, narradora de LaLiga: \"Me siguen diciendo cosas horribles\"",
+      "link": "https://www.marca.com/futbol/2026/03/24/alba-oliveros-narradora-laliga-me-siguen-diciendo-cosas-horribles.html",
+      "pubDate": "Tue, 24 Mar 2026 08:30:01 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c23c657134b.jpeg"
+    },
+    {
+      "id": "fdbf9bdd1a2f204d0549",
+      "title": "Cuánto cuesta la transferencia de una moto",
+      "summary": "Durante el año pasado se comercializaron 650.325 motovehículos 0km, lo que representó un crecimiento del 33,8% respecto de 2024, según datos de la Asociación de Concesionarios de Automotores de la República Argentina (Acara). De hecho, para este año proyectan un crecimiento superior al 10%. Patente 2026: qué autos no la pagan y quiénes deberán hacerlo desde este año Eso provoca que se expanda con fuerza el mercado de motos de segunda mano, por lo que resulta clave conocer cuánto cuesta transferir una moto, un trámite cuyo valor no es fijo y depende principalmente del origen del vehículo. El costo de la transferencia se calcula como un porcentaje sobre el valor de mercado de la unidad: es del 1,5% para las motos fabricadas en la Argentina y del 2% para las importadas. Este esquema busca incentivar y beneficiar a los modelos producidos o ensamblados a nivel local. Por ejemplo, una Honda CB125F Twister modelo 2018, valuada en $1.000.000 y de producción nacional, tiene un costo estimado de $15.000 en concepto de transferencia. A ese monto se le deben sumar otros gastos obligatorios, como el Formulario 08 —indispensable para oficializar el cambio de titularidad—, los sellos e impuestos correspondientes y la certificación de firmas. Cabe aclarar que el Formulario 08, que puede completarse de manera digital o presencial, debe presentarse dentro de los 30 días hábiles posteriores a la operación de compraventa. Para facilitar el cálculo, la Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y de Créditos Prendarios (DNRPA) pone a disposición en su sitio web un estimador de costos actualizado, tanto para la inscripción de motos 0km como para la transferencia de unidades usadas. Un dato clave a tener en cuenta es que desde hace un tiempo el Registro Automotor ya no exige la presentación del libre deuda de infracciones para concretar una transferencia. Se trata de un requisito opcional: si ni el vendedor ni el comprador desean presentarlo, la operación",
+      "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-la-transferencia-de-una-moto-nid23032026/",
+      "pubDate": "Tue, 24 Mar 2026 08:30:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/6YW3LHV5A5BUPECVXN756DZ5XU.jpg?auth=49c7d316d5a264065dfa31c0cc6efd42e6097f6b0b974d745d04a38fa916f2e2&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "670a72ef870f672dd7ac",
+      "title": "VIDEO: El momento del impacto de un avión y un camión en el aeropuerto de Nueva York",
+      "summary": "Imágenes impactantes captadas por las cámaras de vigilancia muestran el momento en el que una aeronave de Air Canada chocó en la medianoche del domingo contra un camión de bomberos de la Autoridad Portuaria en la pista número 4 del aeropuerto LaGuardia, en Nueva York. Las autoridades confirmaron que los dos pilotos fallecieron. Decenas de pasajeros y los dos ocupantes del camión resultaron heridos y fueron trasladados a hospitales cercanos.",
+      "link": "https://actualidad.rt.com/actualidad/594869-video-mostrar-momento-impacto-avion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 08:26:39 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c24766e9ff71147659cd16.jpg"
+    },
+    {
+      "id": "024ecca5a9e71b8673fe",
+      "title": "Susana Griso estalla contra Marc Giró: \"Que se lo haga mirar, yo no aspiro a ser política\"",
+      "summary": "Susanna Griso respondió con dureza a Marc Giró",
+      "link": "https://www.marca.com/tiramillas/television/2026/03/24/susana-griso-estalla-marc-giro-palabras-evole-haga-mirar-aspiro-politica.html",
+      "pubDate": "Tue, 24 Mar 2026 08:23:28 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c23bb87b216.jpeg"
+    },
+    {
+      "id": "145f2bf71f8ff5aee0ea",
+      "title": "El mercado de la vivienda reduce la velocidad en enero con una caída del 5% en las ventas",
+      "summary": "Una persona observa el escaparate de una inmobiliaria en Madrid.",
+      "link": "https://elpais.com/economia/vivienda/2026-03-24/el-mercado-de-la-vivienda-reduce-la-velocidad-en-enero-con-una-caida-del-5-en-las-ventas.html",
+      "pubDate": "Tue, 24 Mar 2026 08:22:34 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/L2HJT6RHTZABPGCWVIJAKG2MZE.JPG?auth=50d24649c668cfeb3e033aba5e5da1864b55456b50aa4f7509e560133dd074d8"
+    },
+    {
+      "id": "10134cdaf6f6436e48c2",
+      "title": "El nuevo Madrid tiene una pareja de moda imbatible",
+      "summary": "Imagen del partido de pádel.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/03/24/nuevo-real-madrid-muestra-union-padel-pareja-moda-imbatible-siguiente-ver-equipo-ganador.html",
+      "pubDate": "Tue, 24 Mar 2026 08:16:56 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c23a2604327.jpeg"
+    },
+    {
+      "id": "205ae1d62be98284f1b1",
+      "title": "Hércules C-130: así es el avión que se estrelló en Colombia con 128 personas a bordo",
+      "summary": "El trágico hecho, ocurrido el lunes en Putumayo, se saldó con la muerte de 66 uniformados.",
+      "link": "https://actualidad.rt.com/actualidad/594861-hercules-c-130-asi-avion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 08:11:38 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c23cd2e9ff711df75c1f20.jpg"
+    },
+    {
+      "id": "8fcdc0543297030ef950",
+      "title": "Criteria asciende a José María Méndez a consejero delegado y renueva a tres consejeros",
+      "summary": "El presidente de la Criteria Caixa, Isidro Fainé, y el nuevo cionsejero delegado, José María Méndez, en una imagen cedida por la compañía.",
+      "link": "https://cincodias.elpais.com/companias/2026-03-24/criteria-asciende-a-jose-maria-mendez-a-consejero-delegado-y-renueva-a-tres-consejeros.html",
+      "pubDate": "Tue, 24 Mar 2026 08:05:14 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/TKTNNBFHDBGDLNWUQNWZ7GH2U4.jpg?auth=2655bc9d68f7a8505e267851f08ff6d59d622dc9d5178429261ad66e7b2da978"
+    },
+    {
+      "id": "b7d0a6f5987f6fe3dc7f",
+      "title": "Racing e Independiente debutan en la Copa Argentina 2026: los partidos de esta semana",
+      "summary": "El torneo federal vuelve al ruedo y los equipos de Avellaneda ya están listos para jugar los 32avos de final. Acá, todos los conjuntos de Primera que verán acción a la brevedad.",
+      "link": "https://www.clarin.com/deportes/racing-independiente-copa-argentina-torneo-federal-semana-equipos-avellaneda-32avos_0_kXIdBwtD8u.html",
+      "pubDate": "Tue, 24 Mar 2026 08:00:49 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/02/14/C2cgEALMw_1200x630__1.jpg"
+    },
+    {
+      "id": "54160a37b91b16c9029a",
+      "title": "Numerología infantil: qué revela la fecha de nacimiento de los niños y y cómo ayudarlos a potenciar sus talentos",
+      "summary": "Cómo influye la numerología en la personalidad y el desarrollo de los chicos. Qué “energía” trae cada número para el año 2026, según la numeróloga Marcela Matteucci.",
+      "link": "https://www.clarin.com/astrologia/numerologia-infantil-revela-fecha-nacimiento-ninos-ayudarlos-potenciar-talentos_0_fWErY4r5Cv.html",
+      "pubDate": "Tue, 24 Mar 2026 08:00:49 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/02/17/U8r29pZ41_1200x630__1.jpg"
+    },
+    {
+      "id": "a3e89541a8e00f983fef",
+      "title": "Cita del día, de Bill Gates: “El éxito es un pésimo maestro; persuade a las personas brillantes a pensar que no pueden perder”",
+      "summary": "El exceso de confianza puede llegar a ser contraproducente, según el creador de Microsoft. No se trata de renegar del éxito, sino de evitar sus efectos colaterales.",
+      "link": "https://www.clarin.com/estados-unidos/cita-dia-bill-gates-exito-pesimo-maestro-persuade-personas-brillantes-pensar-pueden-perder_0_si7Yk2mbOJ.html",
+      "pubDate": "Tue, 24 Mar 2026 08:00:48 +0000",
+      "source": "Clarin",
+      "cat": "tech",
+      "image": "https://www.clarin.com/img/2022/09/07/8cqht9BG8_1200x630__1.jpg"
+    },
+    {
+      "id": "d78d9c0583de88c9f91c",
+      "title": "Dieta antiinflamatoria: ¿ciencia o moda?",
+      "summary": "No solo importa lo que se come, sino la forma de cocción. Pero no funciona lo mismo para todos. Cómo saber si estamos realmente inflamados.",
+      "link": "https://www.clarin.com/buena-vida/dieta-antiinflamatoria-ciencia-moda_0_SiIi0W6gx2.html",
+      "pubDate": "Tue, 24 Mar 2026 08:00:48 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/08/13/KWw_8c78v_1200x630__1.jpg"
+    },
+    {
+      "id": "d39b505ea249fa383b1b",
+      "title": "Luis Gil, nutricionista: \"El mejor desayuno para adelgazar consiste en grasas saludables y nada de azúcar\"",
+      "summary": "Un gesto tan simple como beber agua al levantarse o caminar unos minutos en ayunas puede marcar la diferencia si se busca perder peso de forma constante, natural y sin dietas extremas.",
+      "link": "https://www.clarin.com/estados-unidos/luis-gil-nutricionista-mejor-desayuno-adelgazar-consiste-grasas-saludables-azucar_0_g09X4j8vMw.html",
+      "pubDate": "Tue, 24 Mar 2026 08:00:48 +0000",
+      "source": "Clarin",
+      "cat": "israel",
+      "image": "https://www.clarin.com/img/2025/08/08/6WeEIS1xd_1200x630__1.jpg"
+    },
+    {
+      "id": "bff55d037b151bf3ee4b",
+      "title": "Por qué los chicos se portan peor con sus padres (y qué dice eso del vínculo)",
+      "summary": "Qué significa la mala conducta de los niños frente a sus progenitores y por qué puede ser una buena señal. Consejos para acompañar emocionalmente a los más pequeños.",
+      "link": "https://www.clarin.com/familias/chicos-portan-peor-padres-dice-vinculo_0_szCume5rki.html",
+      "pubDate": "Tue, 24 Mar 2026 08:00:48 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/17/GzlyuCMDw_1200x630__1.jpg"
+    },
+    {
+      "id": "0cb6c4cecba9915ef874",
+      "title": "Chile anuncia un aumento de precios de los combustibles por la guerra en Oriente Medio",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/594859-chile-anuncia-aumento-precios-combustibles?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 07:59:39 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "0f938e73d67418951581",
+      "title": "\"Alguien se ha hecho mucho más rico\": operaciones justo antes del anuncio de Trump sobre Irán levantan sospechas",
+      "summary": "El episodio se suma a otros casos recientes de grandes operaciones realizadas antes de anuncios oficiales del Gobierno de EE.UU. que generan un \"nivel de frustración\" entre los inversores.",
+      "link": "https://actualidad.rt.com/actualidad/594853-alguien-hecho-rico-operaciones-anuncio-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 07:50:55 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c22ef7e9ff711df75c1f0d.jpg"
+    },
+    {
+      "id": "e68996aaed3ff39b2cc8",
+      "title": "Una luchadora e influencer de 23 años muere tras ser arrollada por un camión",
+      "summary": "Dominika Elischerova, luchadora e influencer de 23 años, muere tras ser arrollada por un camión",
+      "link": "https://www.marca.com/otros-deportes/2026/03/24/luchadora-e-influencer-23-anos-muere-arrollada-camion.html",
+      "pubDate": "Tue, 24 Mar 2026 07:41:29 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c230f5d3356.jpeg"
+    },
+    {
+      "id": "0ee01627596f759ba7c6",
+      "title": "Al menos 66 muertos tras estrellarse un avión de la Fuerza Aérea Colombiana con 128 personas a bordo en el sur del país",
+      "summary": "La aeronave se accidentó poco después del despegue, cayendo a tierra a aproximadamente 1,5 km del aeródromo desde donde partió, según las autoridades.",
+      "link": "https://www.bbc.com/mundo/articles/c1d9p0k67qro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:30:13 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3558/live/891ff9e0-26e0-11f1-908d-0f187797fc2f.jpg"
     },
     {
       "id": "425136067a3d7ba32d90",
-      "title": "Capitán de España y un \"¡Gora Euzkadi!\" para la historia",
+      "title": "Primer capitán de España y un \"¡Gora Euzkadi!\" para la historia",
       "summary": "Belauste, con el Athletic.",
       "link": "https://www.marca.com/futbol/seleccion/2026/03/24/belauste-capitan-gora-euzkadi.html",
       "pubDate": "Tue, 24 Mar 2026 07:26:51 +0100",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/22/69c03dea9766c.jpeg"
+    },
+    {
+      "id": "757f287a826fd2c53888",
+      "title": "Rescatan a más de 200 migrantes hacinados en un remolque en México",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/594860-autoridades-rescatar-200-migrantes-hacinados?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 07:23:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "76805670464eafb8ec53",
+      "title": "El Ayuntamiento de Palencia denuncia a la concejala del PP que recibió un chalé VPO con piscina y a la secretaria municipal",
+      "summary": "Laura Lombraña, en una imagen de la web del Ayuntamiento de Palencia.",
+      "link": "https://elpais.com/espana/2026-03-24/el-ayuntamiento-de-palencia-denuncia-a-la-concejala-del-pp-que-recibio-un-chale-vpo-con-piscina-y-a-la-secretaria-municipal.html",
+      "pubDate": "Tue, 24 Mar 2026 07:22:20 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/JXIF6KCBXZB6DATKP6WTEPPOHU.jfif?auth=13c285b75fe955ac0dca90f6092a0e5888b4956cfe3c44521e9abe12ee762c2c"
+    },
+    {
+      "id": "6d10ac6ce7c34ec74128",
+      "title": "Anbernic lanza las consolas portátiles RG Vita a precio rebajado",
+      "summary": "Anbernic ha anunciado el lanzamiento de las consolas portátiles RG Vita. Unas máquinas inspiradas en la PS Vita de Sony, que llegan al mercado a precio muy interesante para como anda el mercado de la electrónica de consumo. La Vita fue la última portátil de Sony. Fue descontinuada por la explosión de venta de los smartphones y su versatilidad para todo tipo de tareas, incluyendo juegos. Hace muchos años que esperamos una sucesora, pero Sony no parece tener prisa. Hasta que ello llegue, Anbernic se ha propuesto recuperar su espíritu en pleno auge de las máquinas de mano para juegos . Cómo son las consolas portátiles RG Vita Hablamos en plural porque son dos las versiones que ha puesto en el mercado un fabricante chino que nos tiene acostumbrados a precios muy bajos y el gusto por lo retro. Las RG Vita y RG Vita Pro tienen un diseño similar , inspirado como decíamos en la PlayStation Vita. Sus especificaciones son diferentes , pero ambas pueden ejecutar juegos de Android, emular varias consolas retro hasta la PS2 y transmitir juegos desde un PC. RG Vita Dispone de una pantalla táctil IPS LCD de 5,46 pulgadas y resolución nativa de 1280 x 720 píxeles. Está equipada con un procesador ARM modelo Unisoc T618 que incluye una CPU 8 núcleos de procesamiento (2 núcleos Cortex-A75 a 2 GHz y 6 núcleos Cortex-A55 a 2 GHz) y gráfica integrada Mali-G52. Se acompaña de 3 Gbytes de memoria RAM y 64 GB de almacenamiento interno. Incluye lector de tarjetas microSD para almacenamiento extraíble, una batería de 5.000 mAh y compatibilidad con normas de conectividad inalámbrica, Wi-Fi 5 y Bluetooth 5.0. Se entrega con Android 12. RG Vita Pro Cuenta con una pantalla ligeramente más grande de 5,5 pulgadas y una resolución nativa superior hasta el FHD: 1920 x 1080 píxeles. Incorpora un procesador Rockchip RK3576, 4 GB de RAM y 64 GB de almacenamiento. Dispone de dos ranuras para tarjetas microSD, un puerto HDMI y un puerto USB-C con soporte para DisplayPort. También incluye Bluetooth 5.2, Wi",
+      "link": "https://www.muycomputer.com/2026/03/24/anbernic-lanza-las-consolas-portatiles-rg-vita-a-precio-rebajado/",
+      "pubDate": "Tue, 24 Mar 2026 07:19:43 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/consolas_portatiles_RG_Vita_3.jpg",
+      "subcat": "diseño"
     },
     {
       "id": "e3938859f8d62d175cd6",
@@ -307,6 +587,36 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c22bc49b292.jpeg"
     },
     {
+      "id": "220f784272d2f999faa4",
+      "title": "\"Muy infantiles e ingenuos\": así ve Israel a EE.UU., según expresidente de la Knéset",
+      "summary": "\"Eso es lo que son\", afirmó Avraham Burg durante una entrevista con Tucker Carlson.",
+      "link": "https://actualidad.rt.com/actualidad/594849-infantiles-ingenuos-asi-ve-israel-eeuu-expresidente-kneset?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 24 Mar 2026 07:15:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c2370459bf5b73e916bb8b.jpg"
+    },
+    {
+      "id": "7076c7b64e23f90cc317",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, martes 24 de marzo",
+      "summary": "Al menos seis personas murieron y nueve resultaron heridas tras un ataque conjunto entre Estados Unidos e Israel que impactó en una zona residencial de la provincia de Azerbaiyán Oriental, según informó la Agencia de Noticias Estudiantiles Iraní (ISNA). La agencia ISNA citó a funcionarios provinciales que afirmaron que el ataque tuvo lugar en la región de Shahid Mofatteh, en la provincia situada al noroeste de Irán, cerca de la frontera con Armenia, Azerbaiyán y Turquía. Según informó Times of Israel citando al Canal 12, la Policía israelí afirma que uno de los proyectiles que impactó en Tel Aviv tras los nuevos ataques de Irán en la mañana del martes contenía unos 100 kilogramos de explosivos, causando daños generalizados a edificios y vehículos. בניין בתל אביב נפגע במטח לעבר המרכז הבוקר, מכוניות עלו באש; מד א: אין נפגעים @tuvyayagelnik pic.twitter.com/vKPDvZZ0WA גלצ (@GLZRadio) March 24, 2026 Según reportó Times of Israel , al menos seis personas resultaron heridas en la ciudad de Tel Aviv, tras una nueva oleada de ataque con misiles de Irán. Pese a la intervención de los sistemas defensivos, algunos proyectiles alcanzaron a penetrar las defensas y tocar suelo en Tel Aviv. Se reportó un incendio en un edificio y otros tantos resultaron dañados. Significant damage seen to several commercial and residential buildings in Downtown Tel Aviv, as a result of numerous impacts from medium-range ballistic missiles fired by Iran. pic.twitter.com/IHzTdI2bqU OSINTdefender (@sentdefender) March 24, 2026 En la madrugada del martes, una fuerte explosión sacudió el sur de Líbano. Según reportó la agencia Al Jazeera , un misil israelí habría impactado una planta de gas cerca del campamento de refugiados palestinos de Rashidieh , lo que desató un inmenso hongo de fuego que se elevó hacia el cielo en la oscuridad de la noche. Según indicaron medios iraníes, el proyectil de Israel arremetió contra la planta de gas de Al- Amana , luego de que el ejército israelí solicitara a los habita",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-martes-24-de-nid24032026/",
+      "pubDate": "Tue, 24 Mar 2026 07:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/SLM7M4ZYCJEMFBWTJKAT4SGWYY.JPG?auth=66473c13ac4b2499e7429a4ca0f91ffa4f5b280420202f3261e82c57944446d4&smart=true&width=8864&height=5920"
+    },
+    {
+      "id": "2f1861cd8c0535aabb20",
+      "title": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+      "summary": "El Gobierno planea insistir este martes, a 50 años del golpe militar de 1976, con su postura de la “memoria completa” , una de las bases de su denominada “batalla cultural” . Será en línea con lo que hicieron el año pasado , con un video que se difundió a través de redes sociales y en el que se puso en duda el número de 30.000 desaparecidos durante la dictadura más sangrienta de la historia local. A través de la cuenta oficial de la Casa Rosada , el Poder Ejecutivo compartió un adelanto de poco más de un minuto titulado: “ Día de la Memoria por la Verdad y la Justicia, completa ”, en el mismo tono que los difundidos en 2024 y 2025. Leé la nota completa acá Luego del violento episodio que lo dejó hospitalizado, el diputado nacional de La Libertad Avanza, Federico Pelli , reconstruyó el ataque sufrido durante una recorrida solidaria en la localidad tucumana de La Madrid, una zona afectada por inundaciones. Pelli, que debió ser operado por una fractura de tabique tras recibir un cabezazo por parte del puntero Marcelo Segura, detalló que la iniciativa solidaria surgió tras observar la gravedad de las inundaciones allí y otros puntos de la provincia, lo que motivó a su equipo a organizar una colecta para asistir con artículos de urgencia a los damnificados. Diputado libertario Pelli Leé la nota completa acá En medio de las internas que sacuden al Gobierno y cuando el jefe de Gabinete, Manuel Adorni , es blanco de versiones sobre su continuidad en el cargo, el presidente Javier Milei compartió este lunes una historia en su cuenta de Instagram en la que se hace una sugestiva reflexión sobre el origen de la “traición”. “La traición nunca viene del enemigo...sino de alguien que supo ganarse tu confianza” , reposteó Milei a la cuenta @culturaconlectura. Lo hizo desde la quinta presidencial de Olivos, donde transcurrió la jornada, puesto que no concurrió a la Casa Rosada en el inicio de la semana. Leé la nota completa acá El gobierno de Javier Milei se prepara para avanzar con",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid24032026/",
+      "pubDate": "Tue, 24 Mar 2026 07:03:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/5HPFCSSR3ZGINNKJSYFC3KUJ7Q.jpg?auth=ff35fb1f9f7ff5ce08589055eb754aeccf0f3ae0e9c54e556c9cbaf9a628a6de&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "9046b5b11866b1a13c7c",
       "title": "Rodri es el jefe de España",
       "summary": ".",
@@ -315,6 +625,26 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c1822f01e63.jpeg"
+    },
+    {
+      "id": "627f12adfb4771e0445c",
+      "title": "Día 25 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente ingresa este martes 24 de marzo en su 25º día de guerra , en medio de una semana con rumores sobre una negociación: Donald Trump pospuso el ultimátum para que Irán reabra el estrecho de Ormuz , tras asegurar que mantiene “conversaciones muy positivas” con el régimen islámico. Sin embardo, desde Teherán desmienten un acuerdo. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy El presidente norteamericano, Donald Trump , pospuso el ultimátum para que Irán reabra el estrecho de Ormuz , tras “conversaciones muy positivas” con el régimen islámico. Arabia Saudita y Emiratos Árabes estarían por declararle la guerra a Irán , según The Wall Street Journal. Irán anunció una “nueva oleada de misiles” contra Israel. El gobierno de Trump pidió calma a industria petrolera inquieta por la guerra en Oriente Medio. El petróleo se desploma y las bolsas suben luego de que Trump anunciara una “pausa” en la guerra. Misiles de Hezbollah golpean en el norte de Israel tras un ataque de Irán que logró penetrar sus sofisticadas defensas. Otros hechos de importancia El ejército de Israel lanzó u na nueva ola de ataques “a gran escala” contra objetivos de la infraestructura de Teherán. Irán renovó los ataques contra sus vecinos del Golfo y amenazó nuevamente con comenzar un embate contras las plantas eléctricas. El primer ministro de Israel, Benjamin Netanyahu, dijo que Irán “tiene capacidad de llegar hasta lo más profundo de Europa” . La guerra en Medio Oriente podría llevar al mundo a su peor crisis energética en décadas, advirtió el lunes el director de la Agencia Internacional de Energía (AIE), Fatih Birol, quien calificó la situación como “muy severa”. Netanyahu dice que habló con Trump y que Israel continuará ataques en Irán y Líbano . El papa León XIV afirma que deberían prohibirse los ataques aéreos militares. Wall Street sube y el petróleo baja luego que Trump insinuara n",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-25-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid24032026/",
+      "pubDate": "Tue, 24 Mar 2026 07:02:12 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/BN72NZ4K4NHHFBRIGWF46X42WM.jpg?auth=d21b70f4b3287ff9ff959de80e431a2ef642f20a5d62e795b3176b9e2e6df3c0&smart=true&width=2000&height=1249"
+    },
+    {
+      "id": "ea48bafc74e24049052b",
+      "title": "Invincible presenta el infierno de la temporada 4",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Si pensabas que Invincible ya lo había enseñado todo con sus batallas brutales y giros inesperados… agárrate, porque lo que viene tiene fuego, demonios y bastante mala leche. Prime Video ha soltado un teaser que apunta a algo muy claro: Mark Grayson va a bajar al infierno . Literalmente. Y no parece que vaya a ser una visita corta. Lo curioso es que esta nueva dirección de Invincible no solo amplía el universo de la serie, sino que abre una puerta que en los cómics nunca se exploró del todo. Así que sí, lo que viene en la temporada 4 pinta a territorio completamente salvaje. Invincible se mete en terreno oscuro… y muy diferente a lo habitual Hell of an episode coming Wednesday. pic.twitter.com/VqOAGNqsLM — INVINCIBLE (@InvincibleHQ) March 23, 2026 El teaser que ha lanzado Prime Video no se anda con rodeos. La voz siniestra de Damien Darkblood vuelve a escena mientras vemos a Mark enfrentarse a criaturas que no tienen nada que ver con los villanos habituales. Aquí no hay tecnología alienígena ni conspiraciones políticas: estamos hablando de demonios de los de verdad. Prime Video Y ojo, porque este giro en Invincible no es solo estético. Cambia completamente las reglas del juego. Hasta ahora, la serie se había movido entre conflictos superheroicos y amenazas cósmicas, pero el concepto de infierno introduce una capa nueva que mezcla lo sobrenatural con lo físico. Es decir, no es un “más allá” etéreo… es un lugar al que puedes ir, pelear y, con suerte, salir. La escena postcréditos de la temporada 3 ya dejó pistas claras. Damien Darkblood, ese detective demoníaco que desapareció tras ser expulsado, vuelve invocando a una entidad mucho más poderosa. Y sí, todo apunta a que estamos ante una especie de Diablo con voz de Bruce Campbell . Casi nada. Un infierno que rompe con lo típico Aquí viene lo interesante. El infierno de Invincible no es el clásico lugar de castigo eterno que hemos visto mil veces. No es solo",
+      "link": "https://www.cinemascomics.com/invincible-infierno-temporada-4/",
+      "pubDate": "Tue, 24 Mar 2026 07:01:46 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Invincible-infierno.jpg"
     },
     {
       "id": "43ec609ae15991a47f90",
@@ -327,8 +657,18 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/19/aJlAa1fl19m0gwZYy.jpeg"
     },
     {
+      "id": "e89ce74a1771841469d4",
+      "title": "Dólar blue hoy: a cuánto cotiza este martes 24 de marzo",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-24-marzo_0_75NWia1eEX.html",
+      "pubDate": "Tue, 24 Mar 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2019/11/18/BnZdjOhE_1200x630__1.jpg"
+    },
+    {
       "id": "e23c292a8a7e2651b18c",
-      "title": "Messi supera los goles de falta directa de Pelé y va a por el récord de la historia del fútbol",
+      "title": "Messi supera a Pelé y va a por el récord de la historia del fútbol",
       "summary": "Messi supera los goles de falta directa de Pelé y va a por el récord de la historia del fútbol",
       "link": "https://www.marca.com/futbol/estados-unidos/2026/03/24/messi-supera-goles-falta-directa-pele-record-historia-futbol.html",
       "pubDate": "Tue, 24 Mar 2026 06:58:22 +0100",
@@ -338,7 +678,7 @@
     },
     {
       "id": "d6760c32514ba2a2baf2",
-      "title": "Panichelli, el agradecimiento del 'rey gol' de la Ligue 1 al Alavés: \"Es de las mejores cosas que me han pasado\"",
+      "title": "Panichelli, el agradecimiento del 'rey gol' de la Ligue 1 al Alavés",
       "summary": "Joaquín Panichelli celebra la clasificación en Conference frente al Rijeka.",
       "link": "https://www.marca.com/futbol/liga-francesa/2026/03/24/panichelli-agradecimiento-rey-gol-ligue-1-alaves-mejores-cosas-me-han-pasado.html",
       "pubDate": "Tue, 24 Mar 2026 06:54:27 +0100",
@@ -358,7 +698,7 @@
     },
     {
       "id": "5397c05b2be8ea1aad47",
-      "title": "Los grandes ausentes de la semana más decisiva en la historia reciente de la selección italiana: Chiesa, Zaniolo...",
+      "title": "Los grandes ausentes de la semana más decisiva en la historia reciente de Italia",
       "summary": "En el montaje, Vicario, Zaniolo, Chiesa o Kayode.",
       "link": "https://www.marca.com/futbol/mundial/2026/03/24/grandes-ausentes-semana-decisiva-historia-reciente-seleccion-italiana-chiesa-zaniolo.html",
       "pubDate": "Tue, 24 Mar 2026 06:53:57 +0100",
@@ -368,7 +708,7 @@
     },
     {
       "id": "8142585309d923512f20",
-      "title": "Pocognoli 'resucita' al Mónaco tras haber tocado fondo en el Bernabéu: \"Es la única manera\"",
+      "title": "Pocognoli 'resucita' al Mónaco tras haber tocado fondo en el Bernabéu",
       "summary": "Los jugadores del Mónaco celebran un gol",
       "link": "https://www.marca.com/futbol/liga-francesa/2026/03/24/pocognoli-resucita-monaco-haber-tocado-fondo-bernabeu-unica-manera.html",
       "pubDate": "Tue, 24 Mar 2026 06:53:28 +0100",
@@ -389,12 +729,12 @@
     {
       "id": "47bd6d9084171691609f",
       "title": "El FSB ruso frustra en Moscú actos de sabotaje y de terrorismo planeados por Kiev",
-      "summary": "Se trata del intento de los servicios especiales del régimen de Kiev de comprar drones en Rusia para usarlos en atentados terroristas en la capital rusa.",
+      "summary": "Se evitó \"una serie de atentados terroristas de gran repercusión\" con explosivos improvisados y drones dirigidos contra infraestructuras críticas, representantes de las autoridades, de las fuerzas de seguridad y militares.",
       "link": "https://actualidad.rt.com/actualidad/594858-fsb-ruso-frustra-moscu-actos-sabotaje-terrorismo-plneados-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "pubDate": "Tue, 24 Mar 2026 06:51:03 +0000",
       "source": "RT en Español",
       "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c235db59bf5b2df729f1f7.jpg"
     },
     {
       "id": "edeed4066bcda4b58297",
@@ -408,7 +748,7 @@
     },
     {
       "id": "9cfd4664eb9a24204b80",
-      "title": "\"Las palomitas de Lunin\"",
+      "title": "\"Una foto que dice muchísimo\"",
       "summary": "Andriy Lunin atrapa un balón en el derbi del domingo.",
       "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/03/24/palomitas-lunin.html",
       "pubDate": "Tue, 24 Mar 2026 06:50:18 +0100",
@@ -417,34 +757,14 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c173f2a0432.jpeg"
     },
     {
-      "id": "e54268bfd473063e44e6",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Las dudas sobre la desescalada en Oriente Próximo vuelven a colocar el petróleo por encima de los 100 dólares",
-      "summary": "Una columna de humo se levanta tras un ataque aéreo en Tel Aviv, este martes. Associate Press/ LaPresse Only Italy and Spain",
-      "link": "https://elpais.com/internacional/2026-03-24/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Tue, 24 Mar 2026 06:48:56 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/TXQPJQLAVFEZ3IK2ZDVOIZP5MM.jpg?auth=f513adaa08078e1ba885f727b06a99a5fbf5565d95eac4df3dce7e2c36c2cd5c"
-    },
-    {
-      "id": "7076c7b64e23f90cc317",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, martes 24 de marzo",
-      "summary": "Según informó Times of Israel citando al Canal 12, la Policía israelí afirma que uno de los proyectiles que impactó en Tel Aviv tras los nuevos ataques de Irán en la mañana del martes contenía unos 100 kilogramos de explosivos, causando daños generalizados a edificios y vehículos. בניין בתל אביב נפגע במטח לעבר המרכז הבוקר, מכוניות עלו באש; מד א: אין נפגעים @tuvyayagelnik pic.twitter.com/vKPDvZZ0WA גלצ (@GLZRadio) March 24, 2026 Según reportó Times of Israel , al menos seis personas resultaron heridas en la ciudad de Tel Aviv, tras una nueva oleada de ataque con misiles de Irán. Pese a la intervención de los sistemas defensivos, algunos proyectiles alcanzaron a penetrar las defensas y tocar suelo en Tel Aviv. Se reportó un incendio en un edificio y otros tantos resultaron dañados. Significant damage seen to several commercial and residential buildings in Downtown Tel Aviv, as a result of numerous impacts from medium-range ballistic missiles fired by Iran. pic.twitter.com/IHzTdI2bqU OSINTdefender (@sentdefender) March 24, 2026 En la madrugada del martes, una fuerte explosión sacudió el sur de Líbano. Según reportó la agencia Al Jazeera , un misil israelí habría impactado una planta de gas cerca del campamento de refugiados palestinos de Rashidieh , lo que desató un inmenso hongo de fuego que se elevó hacia el cielo en la oscuridad de la noche. Según indicaron medios iraníes, el proyectil de Israel arremetió contra la planta de gas de Al- Amana , luego de que el ejército israelí solicitara a los habitantes de la zona que evacuaran. Al menos dos personas murieron. En redes sociales se viralizaron diferentes videos que dieron cuenta del tenor de la explosión. El ataque se da luego de que el gobierno de Benjamin Netanyahu asegurara que los ataques contra objetivos de Hezbollah en el país libanés continuarían durante algunas semanas más, mientras persiste aún el conflicto con Irán, uno de los principales financiadores del grupo terrorista. Según informó The Wall Street Jou",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-martes-24-de-nid24032026/",
-      "pubDate": "Tue, 24 Mar 2026 06:45:33 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/SLM7M4ZYCJEMFBWTJKAT4SGWYY.JPG?auth=66473c13ac4b2499e7429a4ca0f91ffa4f5b280420202f3261e82c57944446d4&smart=true&width=8864&height=5920"
-    },
-    {
-      "id": "2f1861cd8c0535aabb20",
-      "title": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-      "summary": "Luego del violento episodio que lo dejó hospitalizado, el diputado nacional de La Libertad Avanza, Federico Pelli , reconstruyó el ataque sufrido durante una recorrida solidaria en la localidad tucumana de La Madrid, una zona afectada por inundaciones. Pelli, que debió ser operado por una fractura de tabique tras recibir un cabezazo por parte del puntero Marcelo Segura, detalló que la iniciativa solidaria surgió tras observar la gravedad de las inundaciones allí y otros puntos de la provincia, lo que motivó a su equipo a organizar una colecta para asistir con artículos de urgencia a los damnificados. Diputado libertario Pelli Leé la nota completa acá En medio de las internas que sacuden al Gobierno y cuando el jefe de Gabinete, Manuel Adorni , es blanco de versiones sobre su continuidad en el cargo, el presidente Javier Milei compartió este lunes una historia en su cuenta de Instagram en la que se hace una sugestiva reflexión sobre el origen de la “traición”. “La traición nunca viene del enemigo...sino de alguien que supo ganarse tu confianza” , reposteó Milei a la cuenta @culturaconlectura. Lo hizo desde la quinta presidencial de Olivos, donde transcurrió la jornada, puesto que no concurrió a la Casa Rosada en el inicio de la semana. Leé la nota completa acá El gobierno de Javier Milei se prepara para avanzar con una nueva privatización , después de concesionar en el verano más de 8500 kilómetros de rutas nacionales. De acuerdo a fuentes oficiales, está previsto que -tras varios vaivenes- el Poder el Ejecutivo lance esta semana la licitación para la venta de Intercargo , la empresa que presta servicios de rampa y de transporte de pasajeros en 16 aeropuertos de la Argentina . “Se lanza la licitación” , dijeron a LA NACION fuentes de Balcarce 50 al tanto del tema. Uno de los interlocutores, por las dudas, acotó: “Si no pasa nada raro”. Es que en los últimos meses hubo varios trascendidos sobre el derrotero de la licitación, que no se ejecutó todavía. Leé la nota comp",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid24032026/",
-      "pubDate": "Tue, 24 Mar 2026 06:38:50 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/5HPFCSSR3ZGINNKJSYFC3KUJ7Q.jpg?auth=ff35fb1f9f7ff5ce08589055eb754aeccf0f3ae0e9c54e556c9cbaf9a628a6de&smart=true&width=2000&height=1333"
+      "id": "b4ee8c2fe0bc41d3b0a4",
+      "title": "Habló el diputado libertario agredido con un cabezazo por un puntero en Tucumán: “Hubo que perseguir a la policía para que lo detuvieran”",
+      "summary": "Federico Pelli relató cómo fue el violento episodio ocurrido el 11 de marzo y cuestionó el accionar policial. El legislador, que fue intervenido por una fractura de tabique, contó que tal vez lo tengan que volver a operar.",
+      "link": "https://www.clarin.com/politica/hablo-diputado-libertario-agredido-cabezazo-puntero-tucuman-perseguir-policia-detuvieran_0_HEM03LG8Wi.html",
+      "pubDate": "Tue, 24 Mar 2026 06:40:38 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/24/phqgebtPT_1200x630__1.jpg"
     },
     {
       "id": "c9b000fc913301911221",
@@ -477,16 +797,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/E37JRP5FLFF4JKLQOWL7JQAQ7I.jpg?auth=d70035bc858951748d834d2ffd2608e3f2686e9edc48665c1f9d738080bf288f&smart=true&width=2000&height=1331"
     },
     {
-      "id": "8a13835544d146af6812",
-      "title": "EE.UU habla con un 'negociador secreto' de Irán: \"No lo olviden: hemos aniquilado la primera, la segunda y...\"",
-      "summary": "Donald Trump y cómo están las negociaciones para el fin de la guerra.",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/03/24/ee-uu-habla-negociador-secreto-iran-busca-paz-olviden-hemos-aniquilado-primera-segunda-gran-medida-tercera-fase-liderazgo.html",
-      "pubDate": "Tue, 24 Mar 2026 06:35:15 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c221856df63.jpeg"
-    },
-    {
       "id": "3537dd8cb76bca63fa5d",
       "title": "Un audio con la voz del capitán del ARA San Juan abrió una fuerte polémica en el juicio de Río Gallegos",
       "summary": "EL CALAFATE.- Con una fuerte controversia por la difusión de un audio con palabras del capitán de navío Pedro Martín Fernández , comandante del submarino ARA San Juan , y la falta de definiciones sobre el secreto militar que se impone a documentos claves de la causa, se reinició este lunes en Río Gallegos el juicio oral por el hundimiento del buque y la trágica muerte de sus 44 tripulantes, ocurrido en noviembre de 2017. El material sonoro, registrado durante una reunión del Consejo Asesor del Arma Submarina celebrada entre el 29 y 30 de abril de 2017 en la Escuela de Submarinos y Buceo, puso otra vez en el centro de la escena la situación técnica de la nave poco tiempo antes de su hundimiento, en un juicio donde se trata de establecer cuáles fueron las condiciones con las que salió a su última misión . La audiencia de este lunes, en la que se debate la responsabilidad de cuatro exoficiales superiores de la Armada Argentina -el contralmirante retirado Luis Enrique López Mazzeo, el capitán de navío destituido Claudio Javier Villamide , el capitán de navío retirado Héctor Aníbal Alonso y el capitán de fragata retirado Hugo Miguel Correa- se extendió por diez horas y media con breves cuartos intermedios y fue transmitida por la plataforma Zoom del Poder Judicial, ya que dos de los tres abogados querellantes siguen el juicio a distancia. En el audio reproducido en la sala se escucha la voz del capitán del ARA San Juan siete meses antes del hundimiento , en el cual informa a sus pares el estado en que se encuentra el submarino: “ El estado actual de la unidad es operativo con una profundidad limitada a 100 metros, una velocidad autoimpuesta a máxima etapa 3 y como importante la indiscreción del ruido de la línea de eje al momento de parar máquinas” , sostiene la voz del comandante Fernández, fallecido en el hundimiento. El audio fue difundido por el capitán de navío Villamide durante su declaración indagatoria. Según se reconstruyó en esta jornada del juicio que llevó ad",
@@ -505,16 +815,6 @@
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c22bed59bf5b2396247441.jpg"
-    },
-    {
-      "id": "4cd0d29c5732eecd01ec",
-      "title": "\"¿A qué espera Florentino?\"",
-      "summary": "Vinicius celebra en el Bernabéu tras marcar en el duelo de Liga Real Madrid-Atlético.",
-      "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/03/24/vinicius-inminente-renovacion.html",
-      "pubDate": "Tue, 24 Mar 2026 06:31:27 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c15ba41c857.jpeg"
     },
     {
       "id": "529b217b515df04d5338",
@@ -577,16 +877,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/ONFXPYLT65A2LJVJOGT3SFMUYM.png?auth=e69cb6c11fa392788de11f20c26c565cf47e76b502949900ee2f7cd4f10a735e&smart=true&width=1376&height=854"
     },
     {
-      "id": "b62b7a830f3e20bfee4a",
-      "title": "IMÁGENES SATELITALES: Así quedaron bases de EE.UU. en Oriente Medio atacadas por Irán",
-      "summary": "Las imágenes por satélite de bases de EE.UU. en países aliados de Oriente Medio evidencian que las defensas antiaéreas de Baréin, Arabia Saudita y Kuwait no son capaces de repeler todos los ataques de represalia que Irán lanza contra estos objetivos militares. Comparando las imágenes tomadas antes y después de los ataques, se observan claramente las consecuencias de los impactos de drones y de misiles iraníes contra hangares y radares, entre otros blancos.",
-      "link": "https://actualidad.rt.com/actualidad/594838-imagenes-satelitales-equipos-militares-bases-eeuu-ataques-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 06:20:21 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c23526e9ff717361303bd9.jpg"
-    },
-    {
       "id": "fccc055d2b8414b10b61",
       "title": "El día en que todo cambió para siempre",
       "summary": "Ocurrió un día de mediados de los años 80 en una oficina de la calle Venezuela, en el porteño barrio de Monserrat. Un dirigente peronista me había ofrecido su gestión para una entrevista con Isabel Perón , que no debía ser, aclaró, un reportaje, sino una conversación reservada. En esos años, eran frecuentes las visitas de Isabel, como la llamaban concisamente los peronistas, a la Argentina porque el presidente Raúl Alfonsín la invitaba a participar de actos oficiales en su carácter de última exjefa del Estado, antes de la irrupción militar, democráticamente elegida por la sociedad. Los peronistas inclinaban la cabeza ante la viuda de Perón. “Ese apellido sigue pesando en la gente común”, se justificaban. Alfonsín repetía además el argumento de que ella había estado injustamente presa por la dictadura militar durante más de cinco años. En rigor, también existía un propósito político en el presidente radical: radicaba en mostrarle a la sociedad argentina, para que esta no se olvidara, quién había sido la última presidenta de la Nación aupada por el peronismo. Aquella reunión fue breve porque me encontré con una mujer exigua intelectualmente, muy menuda en cualquier sentido. Era imposible percibir en ella las condiciones de alguien con capacidad para conducir un país con varias y profundas crisis. En un momento de la conversación, le pregunté si todavía les guardaba rencor a los militares. Me miró fijamente, vaciló unos segundos y luego descargó una frase llena de significados: “Mi peor enemigo no fueron los militares, sino los grupos de izquierda, sobre todo la izquierda peronista, porque ellos les abrieron las puertas a los militares” . En esas pocas palabras se encerraban los principales protagonistas (no todos) de la tragedia política de 1976. Los grupos insurgentes que se levantaron en armas contra el Estado, incluido el Estado gobernado por funcionarios elegidos por la sociedad; un gobierno peronista caótico, inepto y oscilante, y un partido militar decidido a oc",
@@ -627,16 +917,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/aM8Zm1fmQksEuvmOt.jpeg"
     },
     {
-      "id": "d628f6548a521b05c68b",
-      "title": "Irán difunde balance de víctimas mortales y afectados por la guerra",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/594848-iran-informar-balance-victimas-fatales?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 06:11:37 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "cce30f37bf1841700ba2",
       "title": "Dimitri Barkaia, tras el camino de Ilia Topuria: “Siempre he peleado contra los mayores”",
       "summary": "Dimitri Barkaia celebra un triunfo.",
@@ -655,36 +935,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/TACXHU33WNDUVGUDLO6EDL4XQM.jpg?auth=2278c55310b65e65b477ffc15228c9173e018440f5fe49c062d457a766b9ad78&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b646b9d82bfb9d63db6d",
-      "title": "Los Spurs vuelan con Wembanyama y Kevin Durant mete 40 puntos tras superar a Jordan",
-      "summary": "Los Spurs vuelan con Wembanyama y Kevin Durant mete 40 puntos tras superar a Michael Jordan",
-      "link": "https://www.marca.com/baloncesto/nba/2026/03/24/spurs-vuelan-wembanyama-kevin-durant-mete-40-puntos-superar-michael-jordan.html",
-      "pubDate": "Tue, 24 Mar 2026 06:08:53 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c21c46351a2.jpeg"
-    },
-    {
-      "id": "90166dbbf84484c0aafa",
-      "title": "Jordi Cruyff: \"Me siento súper orgulloso\"",
-      "summary": "Jordi Cruyff, ex jugador del Barcelona.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/03/24/jordi-cruyff-me-siento-super-orgulloso.html",
-      "pubDate": "Tue, 24 Mar 2026 06:07:25 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c19178cc2c1.jpeg"
-    },
-    {
-      "id": "11ab77066d897b59d254",
-      "title": "Johan Cruyff: un legado muy vivo",
-      "summary": "Este martes se cumplen diez años del fallecimiento del neerlandés",
-      "link": "https://www.marca.com/futbol/barcelona/2026/03/24/johan-cruyff-legado-vivo.html",
-      "pubDate": "Tue, 24 Mar 2026 06:07:07 +0100",
-      "source": "Marca",
-      "cat": "poleco",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c18d088006b.jpeg"
     },
     {
       "id": "1658886a4ec4fcaf879f",
@@ -717,16 +967,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/URFFNGAX6FEOXPIXU47Q4R3F3A.jpg?auth=ca5499d0a729851f4f8428ccda4c2868da31d0f96d4ee5da357b4fa6fa6b463e&smart=true&width=914&height=482"
     },
     {
-      "id": "f555f7d06f248f4735fc",
-      "title": "VIDEOS: Impactos en Tel Aviv tras ataque iraní con misiles",
-      "summary": "Medios israelíes han informado que seis personas han resultado heridas.",
-      "link": "https://actualidad.rt.com/actualidad/594852-impacto-misil-tel-aviv?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 05:53:34 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c22fba59bf5b2c8621dd86.png"
-    },
-    {
       "id": "58124b1cda98cee23ef4",
       "title": "Una boxeadora de 19 años quedó en coma tras ser noqueada en Estados Unidos",
       "summary": "La boxeadora Isis Sio , de 19 años , quedó en coma luego de ser noqueada durante un combate disputado este sábado en San Bernardino, Estados Unidos , y permanece internada en estado delicado. La joven fue trasladada de urgencia a un hospital tras recibir una serie de golpes en el primer asalto y, según informó la empresa promotora de la velada, actualmente respira por sus propios medios. El episodio fue reportado por Los Ángeles Times , que detalló que Sio, oriunda de Dakota del Norte, fue superada por su rival Jocelyn Camarillo en poco más de un minuto de pelea. La boxeadora quedó tendida en la lona tras una seguidilla de impactos y, de acuerdo con testigos presentes, presentó convulsiones antes de ser asistida por personal médico. Isis Sio quedó fuera de combate en el primer round Según un comunicado difundido por ProBoxTV , organizadora del evento, la deportista salió del coma inducido y permanece en la unidad de cuidados intensivos bajo observación de equipos médicos especializados. “Tenemos noticias prometedoras que compartir. Isis ya no se encuentra en coma inducido , le han retirado el respirador y ahora respira por sí misma”, indicó la promotora, que señaló que aguardan nuevos partes y que tienen esperanzas respecto a su recuperación. El caso generó cuestionamientos hacia el entorno de la boxeadora y los promotores , debido a que la joven había sido noqueada semanas antes , el 30 de enero, en una función en Long Beach. En ese contexto, su equipo defendió la decisión de volver a competir y explicó que aquella derrota se produjo por un golpe al cuerpo , lo que puede provocar una respuesta fisiológica involuntaria sin implicar un daño neurológico directo . También indicaron que Sio había cumplido con el período de suspensión correspondiente y contaba con autorización médica para pelear nuevamente. Tras el nocaut, Isis Sio tuvo convulsiones y debió ser internada En otro tramo del comunicado, el equipo y la familia de la boxeadora remarcaron que la decisión de en",
@@ -755,16 +995,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/JL3BQGZJAFGIBFR37YRPU6LIJE.jpg?auth=925109fa00e061505577e581ade6affe917353fcc980d8a17746ab5d70bd73ae&smart=true&width=2200&height=1333"
-    },
-    {
-      "id": "4d8aee056ad180a3d291",
-      "title": "Semafor: Israel no participa en las conversaciones entre Washington y Teherán",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/594847-israel-participa-conversaciones-washington-teheran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 05:29:13 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "37e494af5e51a25891e6",
@@ -808,16 +1038,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/E6QDP6DTFBBO3FDK74AMF4Q4X4.jpg?auth=e3da4ee8f41a60cf70072deeebd14e6a7c24db4c186318c764c745fcfd35cdbd&smart=true&width=2000&height=1333"
     },
     {
-      "id": "4787489e3013f3ddc032",
-      "title": "Un jugador no drafteado con 8 puntos de promedio trunca la racha de Doncic",
-      "summary": "Un Bad Boy 'anónimo' trunca la racha de los Lakers y somete al indultado Doncic, que anota compulsivamente",
-      "link": "https://www.marca.com/baloncesto/nba/2026/03/24/bad-boy-anonimo-trunca-racha-lakers-somete-indultado-doncic-anota-compulsivamente.html",
-      "pubDate": "Tue, 24 Mar 2026 05:07:49 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c20e0c9fd2a.jpeg"
-    },
-    {
       "id": "7936897407d354f094ba",
       "title": "Tren bala vs. avión en California: cuál sería más rápido entre Los Ángeles y San Francisco",
       "summary": "Cuando alguien planea un viaje entre Los Ángeles y San Francisco , una de las opciones suele ser el avión, en un vuelo directo que cubre aproximadamente 559 kilómetros . Sin embargo, California avanza en la construcción de un tren de alta velocidad que, cuando esté operativo, podría transformarse en una nueva alternativa. Cuánto tarda hoy el avión entre Los Ángeles y San Francisco En la comparación de tiempos puros, el avión mantiene una ventaja . Según datos de buscadores com Google Flights , la ruta aérea entre el área de Los Ángeles y San Francisco se encuentra entre las conexiones cortas dentro de California. El transporte aéreo en la actualidad ya cubre la ruta entre LAX y SFO con vuelos directos que, en su mejor tiempo, demandan 1 hora y 15 minutos . En otros servicios, el tiempo puede ubicarse cerca de las 2 horas , según la compañía aérea y la operación del día. En términos generales, el tramo suele completarse en una franja de entre 1 hora y 15 minutos y 1 hora y 35 minutos . Ese dato coloca al avión por delante del tren proyectado si se toma únicamente el tiempo de desplazamiento entre origen y destino . Incluso en escenarios donde el trayecto aéreo se extiende hasta una hora y media o cerca de dos horas, el rango se mantiene por debajo del objetivo de tiempo planteado para el tren de alta velocidad. Qué tiempo de viaje promete el tren de alta velocidad de California El sistema ferroviario fue concebido para unir las principales regiones económicas del estado mediante una red de alta velocidad. En su fase principal, el recorrido entre San Francisco y Los Ángeles tendría servicio expreso y tiene como objetivo completar el recorrido en menos de 2 horas y 40 minutos entre las dos grandes terminales urbanas. El tren de alta velocidad todavía no presta servicio en ese corredor completo, pero se anticipa que tendrá formaciones diseñadas para circular a velocidades de hasta 220 millas por hora (350 kilómetros por hora) . La idea central es ofrecer viajes frecuent",
@@ -826,16 +1046,6 @@
       "source": "La Nacion",
       "cat": "tech",
       "image": "https://resizer.glanacion.com/resizer/v2/W7TP7GRJHZDLFHGWVED7J6JSVM.jpg?auth=217d7be08c43c401483e3f8c27611e00621243239f0059a4ac093b77f48d4294&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "0ee01627596f759ba7c6",
-      "title": "Al menos 66 muertos tras estrellarse un avión de la Fuerza Aérea Colombiana con 128 personas a bordo en el sur del país",
-      "summary": "La aeronave se accidentó poco después del despegue, cayendo a tierra a aproximadamente 1,5 km del aeródromo desde donde partió, según las autoridades.",
-      "link": "https://www.bbc.com/mundo/articles/c1d9p0k67qro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 05:02:39 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3558/live/891ff9e0-26e0-11f1-908d-0f187797fc2f.jpg"
     },
     {
       "id": "b198e6b74c170ebafefb",
@@ -858,16 +1068,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/HZSJHYMJBZCNFIHYPGGAIGADJE.jpg?auth=f26313625a2ff5ae8f506540c72bd9b2088aa339bdb4fb04db17dc4d2501a368&smart=true&width=2000&height=1333"
     },
     {
-      "id": "40b1440809a7b7076ebc",
-      "title": "Sismo de magnitud 7,6 sacude las aguas de Tonga, en el Pacífico Sur",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/594846-sismo-magnitud-7-sacude-aguas-tonga-oceano-pacifico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 04:53:42 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "67d435b71b1dde425542",
       "title": "La incertidumbre por la prórroga de los alquileres aboca a un choque entre inquilinos y caseros en los tribunales",
       "summary": "Dos jóvenes observan la oferta de pisos en alquiler de una oficina inmobiliaria de Barcelona, en una imagen de archivo.",
@@ -878,44 +1078,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/O5J2Y36JDLYNK5DS56OWE64A3I.jpg?auth=6a9dfb3d67ec31d2a942d5e5d988003ceefdf1f95aca3495371aea4160337095"
     },
     {
-      "id": "5498625d5d893cf5d90f",
-      "title": "Estée Lauder, el gigante de la belleza que busca superar un bache de la mano de Puig",
-      "summary": "Boutique de Estée Lauder en Shanghái, China, el 1 de abril de 2025.",
-      "link": "https://elpais.com/economia/2026-03-24/estee-lauder-el-gigante-de-la-belleza-que-busca-superar-un-bache-de-la-mano-de-puig.html",
-      "pubDate": "Tue, 24 Mar 2026 04:45:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/UGBGNY4SOJGVHOAD4DTDATHSRI.jpg?auth=ea4eca14ee3e9f44e7f15487552775135a110031fd712bbf42e4c601c78474e9"
-    },
-    {
-      "id": "e3773a605c96dc72de26",
-      "title": "Las zapatillas que los abuelos llevaban al huerto y los nietos a los festivales de música: la historia de las Victoria",
-      "summary": "Modelo Inglesa 110, conmemorativo de los 110 años de creación de la marca.",
-      "link": "https://elpais.com/eps/2026-03-24/las-zapatillas-que-los-abuelos-llevaban-al-huerto-y-los-nietos-a-los-festivales-de-musica-la-historia-de-las-victoria.html",
-      "pubDate": "Tue, 24 Mar 2026 04:40:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/CMIAC657MFAOVD2T4FJ2PXMB64.JPG?auth=a553d6d7957ffc48087bb8e3876d0fc9c4f607260bad0974783d23c928a89237"
-    },
-    {
-      "id": "0c4b44576ae83db5982f",
-      "title": "MINUTO A MINUTO: Irán denuncia ataques a infraestructura energética y desmiente que dialogue con EE.UU.",
-      "summary": "El mandatario estadounidense ha insistido en que Washington y Teherán mantuvieron conversaciones.",
-      "link": "https://actualidad.rt.com/actualidad/594835-iran-denuncia-ataques-infraestructura-energetica?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 04:39:19 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c20ea8e9ff7153ae50c283.jpg"
-    },
-    {
-      "id": "bc42ad7d4fb134ad8176",
-      "title": "VIDEO: Misiles iraníes desafían la defensa aérea en cielos de Israel",
-      "summary": "Sirenas antiaéreas sonaron en la madrugada de este martes en varias partes de Israel ante un alerta por misiles iraníes. Imágenes difundidas muestran proyectiles atravesando el cielo, mientras los interceptores intentan alcanzarlos sin éxito. En algunos registros se observa cómo misiles iraníes superan o evaden la defensa aérea, en medio de maniobras a alta velocidad y múltiples intentos de intercepción.",
-      "link": "https://actualidad.rt.com/actualidad/594836-video-misiles-iranies-tipo-racimo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 04:37:24 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c214a5e9ff717361303bbd.jpg"
+      "id": "3ce9ea25c7d90da3e4be",
+      "title": "La denuncia en España de una actriz a su exmarido por enviar ‘deepfakes’ sexuales sacude a Alemania",
+      "summary": "Una participante en la manifestación de apoyo a la actriz sostiene un cartel con el lema \"Gracias, Collien\", el 22 de marzo en Berlín.",
+      "link": "https://elpais.com/sociedad/2026-03-24/la-denuncia-en-espana-de-una-actriz-a-su-exmarido-por-enviar-deepfakes-sexuales-sacude-a-alemania.html",
+      "pubDate": "Tue, 24 Mar 2026 04:30:01 GMT",
+      "source": "El País Tech",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/AKBYXK4WLNCO3P7JFVBL76JA4E.jpg?auth=e7b01818b9fe2ce2391a51ce998348ff3d9212d5abe8130db3170a4a9b57c1ac"
     },
     {
       "id": "8784190910a43f0a8b23",
@@ -930,7 +1100,7 @@
     {
       "id": "acd138b5922f494741d0",
       "title": "Vox SA, dentelladas por ¿un partido o un negocio?",
-      "summary": "Kiko Méndez-Monasterio, durante la manifestación convocada por Vox en Madrid, el 19 de marzo de 2022.",
+      "summary": "Kiko Méndez-Monasterio, durante una manifestación convocada por Vox en Madrid, el 19 de marzo de 2022.",
       "link": "https://elpais.com/espana/2026-03-24/vox-sa-dentelladas-por-un-partido-o-un-negocio.html",
       "pubDate": "Tue, 24 Mar 2026 04:30:01 GMT",
       "source": "El Pais",
@@ -940,7 +1110,7 @@
     {
       "id": "67659b216a08720c1b09",
       "title": "La escolta policial aumenta en la política del Ayuntamiento de Madrid: el acoso se traslada de las redes a la calle",
-      "summary": "La portavoz de Más Madrid en el Ayuntamiento de la capital, Rita maestre, en el edificio de grupos del Ayuntaminento de Madrid.",
+      "summary": "La portavoz de Más Madrid en el Ayuntamiento de la capital, Rita Maestre, en el edificio de grupos del Ayuntaminento de Madrid.",
       "link": "https://elpais.com/espana/madrid/2026-03-24/la-escolta-policial-aumenta-en-la-politica-del-ayuntamiento-de-madrid-el-acoso-se-traslada-de-las-redes-a-la-calle.html",
       "pubDate": "Tue, 24 Mar 2026 04:30:01 GMT",
       "source": "El Pais",
@@ -950,12 +1120,12 @@
     {
       "id": "b7e417f697053563d91c",
       "title": "Israel prepara la gran invasión del sur de Líbano, ante la desesperación de sus habitantes: “Nos están llegando familias enteras muertas”",
-      "summary": "Un hombre contempla la destrucción en la localidad libaneras de Chaat tras un ataque israelí, el 23 de marzo.",
+      "summary": "Un hombre contempla la destrucción en la localidad libanesa de Chaat tras un ataque israelí, el 23 de marzo.",
       "link": "https://elpais.com/internacional/2026-03-24/israel-prepara-la-gran-invasion-del-sur-de-libano-ante-la-desesperacion-de-sus-habitantes-nos-estan-llegando-familias-enteras-muertas.html",
       "pubDate": "Tue, 24 Mar 2026 04:30:01 GMT",
       "source": "El Pais",
       "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/EC2KS6FC7BJTZHN4RF3AHAHMHM.jpg?auth=d2a8700e7d1b1d25bafc58abb1cb9848d3e4a1c3d3a2644e58d91167193849f3"
+      "image": "https://imagenes.elpais.com/resizer/v2/6C73ZP3IQ5CIJLJBECXGGAHYXY.JPG?auth=9abd796d502c52634800f4091ebf8c5c3796d4f1773375314761206c8e1ab74d"
     },
     {
       "id": "7ec7f87bae96d902576a",
@@ -1059,16 +1229,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/TO37EBUTVRFNVFDW4EDE4WC3W4.jpg?auth=0c048efd3f1fb163de13d9ec7ce90d38adc7141679b15d38a02b42b83f63b839"
     },
     {
-      "id": "3ce9ea25c7d90da3e4be",
-      "title": "La denuncia en España de una actriz a su exmarido por enviar ‘deepfakes’ sexuales sacude a Alemania",
-      "summary": "Una participante en la manifestación de apoyo a la actriz sostiene un cartel con el lema \"Gracias, Collien\", el 22 de marzo en Berlín.",
-      "link": "https://elpais.com/sociedad/2026-03-24/la-denuncia-en-espana-de-una-actriz-a-su-exmarido-por-enviar-deepfakes-sexuales-sacude-a-alemania.html",
-      "pubDate": "Tue, 24 Mar 2026 04:30:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/AKBYXK4WLNCO3P7JFVBL76JA4E.jpg?auth=e7b01818b9fe2ce2391a51ce998348ff3d9212d5abe8130db3170a4a9b57c1ac"
-    },
-    {
       "id": "770f9f2a6c19d0343df5",
       "title": "‘Flora’, la abuela lince que enseñó a tres cachorros a valerse por sí mismos tras morir su madre atropellada",
       "summary": "Los cachorros de lince junto a su madre adoptiva Flora el 1 de mayo de 2025. Foto de la Consejería de Agricultura, Ganadería y Desarrollo Sostenible de la Junta de Extremadura",
@@ -1089,16 +1249,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GE22ILC3TZCFZCZ3OM27I3YN4E.jpg?auth=8f2c112afc1446a27549d821f1aea902a04a0615d2a7456dc5cdb81e512fc64d"
     },
     {
-      "id": "d7a4216c35813dcab74c",
-      "title": "Stephen Grosz, psicoanalista: “Hay personas a las que la infelicidad les resulta más cómoda que la entrega en el amor”",
-      "summary": "Stephen Grosz, durante la entrevista.",
-      "link": "https://elpais.com/salud-y-bienestar/2026-03-24/stephen-grosz-psicoanalista-hay-personas-a-las-que-la-infelicidad-les-resulta-mas-comoda-que-la-entrega-en-el-amor.html",
-      "pubDate": "Tue, 24 Mar 2026 04:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/7GTCAEC6QBFIBFLTGGFU6CO6CA.jpg?auth=b115949c718ceb91d8bde280ae26878009e11718d5cbf43e021b08115544ee59"
-    },
-    {
       "id": "a5508e4dbe663f0eb97e",
       "title": "El alto cargo de Ayuso que firmó los protocolos de residencias será investigado también por prevaricación",
       "summary": "Carlos Mur (dcha), junto a Isabel Díaz Ayuso y Sergio López, un cargo del PP en Fuenlabrada, durante una visita de la hoy presidenta al Hospital de Fuenlabrada en la campaña para las elecciones autonómicas de mayo de 2019.",
@@ -1107,16 +1257,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/6PM2T2WGVZBPNLCLWGL56BWLBY.jpg?auth=0e0c7023030aaf97d77a701e0d0d5cb072ce575c029175ba045c8373e2f97b5d"
-    },
-    {
-      "id": "d17da6c36c9cbe9f72d7",
-      "title": "Senado de EE.UU. confirma a Markwayne Mullin como secretario de Seguridad Nacional",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/594837-senado-eeuu-confirma-markwayne-mullin?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 24 Mar 2026 04:24:20 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "21ffe4d6f327a0a149c4",
@@ -1150,16 +1290,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Justin-Hartley-arrow.jpg"
     },
     {
-      "id": "b9a3e571be6170e9600d",
-      "title": "Bizcocho: 10 errores que evitar al prepararlo y una receta que funciona",
-      "summary": "Bizcocho: 10 errores que evitar al prepararlo y una receta que funciona | EL COMIDISTA",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-03-24/bizcocho-10-errores-que-evitar-al-prepararlo-y-una-receta-que-funciona.html",
-      "pubDate": "Tue, 24 Mar 2026 04:00:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/UVA4TAICSZEPVGR5JAKHSCBCFA.jpg?auth=c02102c6d08b5942e88080b9a3c393d56934871aac3f6266c1ca8c6075070c08"
-    },
-    {
       "id": "a1036fabc37967863804",
       "title": "De vender lombrices durante la pandemia a crear un vivero con café y comunidad",
       "summary": "En los últimos años, muchos emprendimientos vinculados al mundo verde nacieron de una necesidad doméstica: reconectar con las plantas, aprender a cuidarlas y, de paso, transformar los residuos en algo útil. Pero pocos recorrieron un camino tan inesperado como Ada Jardín , un proyecto que empezó con un pequeño compost en un trabajo, siguió con la venta de lombrices en un garage y hoy funciona como un espacio donde conviven vivero, café y comunidad . Ada Jardín es el proyecto de Luciana Amicone y Julián González Oliva, pareja y padres de dos niños. Aunque hoy el emprendimiento tiene identidad propia, su origen fue mucho más simple: el gusto cotidiano por convivir con plantas. “Desde que convivimos, Julián siempre fue el que se ocupó del verde en casa. En 2019, cansado de comprar, decidió empezar a compostar en su trabajo. En casa yo no confiaba demasiado en el proceso: imaginaba olor, moscas, caos. Así que él armó su propio sector de compost fuera de casa y se encargaba de todo”, cuenta Luciana. Mientras tanto, en febrero de 2020, Luciana creó una cuenta de Instagram para su suegra Ada, otra apasionada de las plantas para que pudiera ver fotos de sus nietos y, de paso, compartir su jardín. El nombre “Ada Jardín” apareció casi por casualidad, porque el usuario original ya estaba ocupado. Un mes después llegó la pandemia y la cuenta quedó en pausa. Las lombrices que cambiaron todo El giro llegó unos meses más tarde. En junio de 2020, Julián propuso una idea inesperada: vender las lombrices californianas que vivían en el compost. Publicaron un aviso en MercadoLibre sin demasiada expectativa. Pero la respuesta fue inmediata: en pocos días tenían pedidos para una semana entera. Sin planearlo, Ada Jardín pasó de ser un perfil de plantas a convertirse en una pequeña marca que promovía el compostaje domiciliario . La compostera se mudó al garage de la casa. “Armábamos los pedidos hasta la madrugada, con un bebé de seis meses despertándose en el medio. Repartíamos nosotros mis",
@@ -1168,16 +1298,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/DUOAUIE7JZCWZPEWNH3WZGIBSY.jpg?auth=8fcb9267fc217c1a1f9aaeda4000090201049154ae9e8813076234a2ce0d8127&smart=true&width=2002&height=1333"
-    },
-    {
-      "id": "448fc4a7392d099a3776",
-      "title": "Rating: todos los números de la gala de eliminación con votos positivos de Gran Hermano",
-      "summary": "Este lunes se cumplió un mes desde que los 28 participantes entraron en Gran Hermano . Desde figuras de la televisión, a tiktokers e influencers de las redes sociales, un grupo muy heterogéneo empezó a convivir en la casa más famosa del mundo. Y si bien en un comienzo hubo quejas de los televidentes por la cantidad de famosos y personajes conocidos que ingresaron al reality, con el correr de los días los conflictos de la convivencia, las historias personales y los enfrentamientos lograron atrapar el interés del público . Lo cierto es que la Generación dorada , nombre que le dieron a esta edición para celebrar los 25 años del ciclo, le dio pie a la producción de GH para implementar todo tipo de cambios dentro del formato. Y es que en menos de un mes, el programa tuvo cuatro eliminados, dos personas hospitalizadas, una participante que se fue por la muerte de su padre, dos nuevos ingresos y una expulsión por motivos de racismo . Y si algo le faltaba, estrenaron el DAR (Derecho a réplica ) Experimentado primero en Italia, el derecho a réplica le permite a una persona ajena al reality presentarse frente a frente con cualquiera de los participantes con el que esté relacionado para poder dar su versión de algo que hayan dicho dentro de la casa. Esta semana una de las figuras que es centro del reality tuvo que salir de la casa por problemas médicos. Andrea del Boca fue hospitalizada para hacerse chequeos por un cuadro de presión alta . Este proceso que es parte del protocolo del reality despertó todo tipo de especulaciones dentro y fuera de la casa. Santiago del Moro aclaró en sus redes sociales: “Amigos, a los que preguntan por Andrea les cuento que su vuelta a la casa depende del alta médica, en caso contrario en su lugar ingresará un reemplazo”. En cuanto a las nominaciones, debido a un complot grupal, Gran Hermano decidió que todos fueran a la placa de votos positivos . Manuel Ibero, líder de la cuarta semana, la noche anterior había fulminado a Cinzia Francischiello, ",
-      "link": "https://www.lanacion.com.ar/espectaculos/rating-todos-los-numeros-de-la-gala-de-eliminacion-con-votos-positivos-de-gran-hermano-nid24032026/",
-      "pubDate": "Tue, 24 Mar 2026 03:58:21 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/L5LQZZ4KDRDPZBBSJVBYNP7IVI.PNG?auth=b1ec5d12f86107f002c231796f18517e506f92102f87f3931f772ab640cced43&smart=true&width=499&height=359"
     },
     {
       "id": "5035497fd08262b2b3bf",
@@ -1200,86 +1320,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/gTJX9Uxtf_1200x630__1.jpg"
     },
     {
-      "id": "a50d5da2eb6bcd00410b",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_lZaQs2vTF0.html",
-      "pubDate": "Tue, 24 Mar 2026 03:51:49 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/qrC2hnAc8_1200x630__1.jpg"
-    },
-    {
-      "id": "5626a000a3eb7325f230",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_V9Qu6bhoAo.html",
-      "pubDate": "Tue, 24 Mar 2026 03:51:49 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg"
-    },
-    {
-      "id": "aa6772e7e2935290c8d7",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_1Luj7xeiLv.html",
-      "pubDate": "Tue, 24 Mar 2026 03:51:24 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg"
-    },
-    {
-      "id": "ff6a4a5f0c3e15339849",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_jEZSBr2OOL.html",
-      "pubDate": "Tue, 24 Mar 2026 03:51:24 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg"
-    },
-    {
-      "id": "c32c600549271f9c5055",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_MNJGqal3ag.html",
-      "pubDate": "Tue, 24 Mar 2026 03:51:24 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/gTJX9Uxtf_1200x630__1.jpg"
-    },
-    {
-      "id": "8fee062a95614168dbd3",
-      "title": "Clima hoy en Barquisimeto, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-barquisimeto-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_QVgONnf0Al.html",
-      "pubDate": "Tue, 24 Mar 2026 03:50:59 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
-    },
-    {
-      "id": "820ef262f810bacaf9f2",
-      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-martes-24-marzo-2026_0_UHb6HBzmg4.html",
-      "pubDate": "Tue, 24 Mar 2026 03:50:59 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
-    },
-    {
-      "id": "29de09d020489aec33f7",
-      "title": "Clima hoy en Tacuarembó, Uruguay: el pronóstico del tiempo para este martes 24 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-tacuarembo-uruguay-pronostico-tiempo-martes-24-marzo-2026_0_AbYVCN0NBW.html",
-      "pubDate": "Tue, 24 Mar 2026 03:50:58 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/k1TUADqrD_1200x630__1.jpg"
-    },
-    {
       "id": "8dd1516f4937c9d52e12",
       "title": "Colombia cuenta 66 muertos tras el accidente de un avión militar mientras Gobierno y oposición cruzan acusaciones",
       "summary": "Labores de rescate este lunes, en Puerto Leguizamo, Colombia.",
@@ -1291,23 +1331,13 @@
     },
     {
       "id": "35938628743466887e12",
-      "title": "¿Por qué los estados del Golfo no están tomando represalias contra Irán?",
+      "title": "¿Por qué los Estados del Golfo no están tomando represalias contra Irán?",
       "summary": "Los estados del Golfo se muestran reacios a implicarse directamente en la guerra, pero es poco probable que acepten ser atacados indefinidamente, afirman los expertos.",
       "link": "https://www.bbc.com/mundo/articles/czex3y3er3ko?at_medium=RSS&at_campaign=rss",
       "pubDate": "Tue, 24 Mar 2026 03:38:25 GMT",
       "source": "BBC Mundo",
       "cat": "sports",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e46/live/3959a840-26b1-11f1-b13a-5bcd17b65474.jpg"
-    },
-    {
-      "id": "b51924de60372d053986",
-      "title": "Los organismos de derechos humanos y partidos opositores se movilizan a Plaza de Mayo por los 50 años del golpe militar",
-      "summary": "Las movilizaciones por los 50 años del comienzo de la última dictadura militar que se realizarán este martes y tendrán como punto de confluencia la Plaza de Mayo ya están en gran parte definidas, con sus puntos de concentración e itinerarios diagramados. Estarán presentes las agrupaciones de derechos humanos, y también organizaciones políticas peronistas, radicales y de la izquierda. Los actos comenzaron anoche con una vigilia en la Plaza de Mayo. El escenario fue montado de espaldas a la Casa Rosada , más cerca de la calle Balcarce que de la pirámide del paseo histórico. La Asociación Madres de Plaza de Mayo convoca para este martes a las 13, en la sede de la Casa de las Madres, ubicada en Yrigoyen 1584. Realizará un acto político y, luego, llama a marchar hacia la Plaza de Mayo. Su consigna es “Rebeldía y coraje. Porque la única lucha que se pierde es la que se abandona”. La entidad de derechos humanos comunica su convocatoria con una imagen que incluye al gobernador de la provincia de Buenos Aires, Axel Kicillof , quien cita a su espacio, el Movimiento Derecho al Futuro (MDF), en ese mismo punto de concentración y en el mismo horario. La lectura del documento principal, del Encuentro Memoria Verdad y Justicia y la Mesa de Organizaciones de Derechos Humanos, está prevista para las 16.30, aproximadamente. Esa columna prevé hacer su ingreso a la Plaza de Mayo desde la Avenida de Mayo. Con la lectura del documento principal, confluirán la mayoría de las organizaciones que se manifestarán. En ese momento, estarán presentes organizaciones de izquierda que integran el Frente de Izquierda y de los Trabajadores (FIT), como el Movimiento Socialista de los Trabajadores (MST). Pero la izquierda mostrará divisiones y, luego del documento principal, se leerá otro, alrededor de las 17.30, que rubricarán otras organizaciones políticas del FIT, como el Partido de los Trabajadores Socialistas (PTS) o el Partido Obrero (PO). Este último documento, según pudo saber LA NACION , conte",
-      "link": "https://www.lanacion.com.ar/politica/los-organismos-de-derechos-humanos-y-partidos-opositores-se-movilizan-a-plaza-de-mayo-por-los-50-nid23032026/",
-      "pubDate": "Tue, 24 Mar 2026 03:32:49 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/JAW6NIHULJGYJHIQ5OA6EH6WNE.jpeg?auth=b30cbf43957f3cbddbd4f0da9b7c6ca74c9595f1b52958a377a3107d1045aa52&smart=true&width=2000&height=1333"
     },
     {
       "id": "53853145fc3636b19b35",
@@ -1470,26 +1500,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/dutton-ranch.jpg"
     },
     {
-      "id": "66decb466acc0361bf23",
-      "title": "Sinner, récord de 26 sets ganados de carrerilla en los Masters 1000",
-      "summary": "Sinner pega de revés.",
-      "link": "https://www.marca.com/tenis/miami-open/2026/03/24/sinner-pasa-octavos-miami-open-record-26-sets-ganados-carrerilla-masters-1000.html",
-      "pubDate": "Tue, 24 Mar 2026 01:42:06 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c1d66dbb884.jpeg"
-    },
-    {
-      "id": "8201c24e997889618450",
-      "title": "Por fin, Zidane",
-      "summary": "La resaca de la jornada liguera, con el derbi aún en la retina de todos, y el parón de selecciones son los temas que acaparan la atención de l prensa deportiva especializada",
-      "link": "https://www.marca.com/futbol/album/2026/03/24/portadas-dia.html",
-      "pubDate": "Tue, 24 Mar 2026 01:04:32 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c1d4d3b94a6.jpeg"
-    },
-    {
       "id": "5ed9b6f34ad1812ab334",
       "title": "Ice Hulk regresa en los X-Men y vuelve a poner a prueba el control de Iceman",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com El universo mutante acaba de recuperar a una de esas ideas locas que, cuando funcionan, se convierten en puro espectáculo. Y sí, estamos hablando del regreso de Ice Hulk, la versión más salvaje y descontrolada creada por Iceman que ahora vuelve a escena con fuerza en los cómics de Marvel . Porque si pensabas que los X-Men ya lo habían visto todo… igual te conviene prepararte. Marvel recupera a su “Hulk mutante” y apunta a lío dentro de los X-Men El anuncio de X-Men United #4 ha venido acompañado de una imagen que no deja lugar a dudas: Ice Hulk está de vuelta , y no precisamente para tomarse un té con Cíclope. La portada del nuevo número muestra a esta bestia de hielo enfrentándose tanto a Scott Summers como a Deathdream, dejando claro que la situación dentro del equipo mutante puede ponerse bastante tensa. La historia, escrita por Eve L. Ewing y con arte de Tiego Palma, sitúa la acción en la nueva escuela de mutantes, un lugar que en teoría debería ser seguro frente a amenazas externas. Sin embargo, Marvel lanza una idea que suena mucho más interesante: ¿qué pasa cuando el peligro nace desde dentro? Y aquí es donde entra Ice Hulk. El plan de Iceman que puede salir completamente mal Uno de los detalles más llamativos del avance es que todo apunta a que Iceman será el responsable directo de traer de vuelta a esta criatura , en lo que parece un experimento o entrenamiento poco convencional. La propia sinopsis deja caer un tono casi gamberro, con referencias a partidas de rol y dinámicas poco habituales dentro del equipo. Pero claro, cuando juegas con poderes a ese nivel, la cosa puede descontrolarse en segundos. La gran pregunta no es si Ice Hulk aparecerá, sino si Iceman será capaz de controlarlo esta vez . Porque si algo dejó claro su primera aparición es que esta criatura no se queda en simple construcción de hielo… evoluciona, piensa y, cuando toca, destruye todo lo que tiene delante. Quién es Ice Hulk ",
@@ -1508,16 +1518,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/EVR44IWZLRA5NIKEOEWT4L7IHM.jpg?auth=ccea48c722520e875d6f993cddf24e0a54f0ae4be2d1750e5bbf098cc2bc4e75"
-    },
-    {
-      "id": "94b0278cc981d02159e0",
-      "title": "El Sevilla cierra a Luis García Plaza",
-      "summary": "Luis García Plaza, durante su etapa como técnico del Alavés.",
-      "link": "https://www.marca.com/futbol/sevilla/2026/03/24/sevilla-cierra-luis-garcia-plaza-martes-hara-oficial.html",
-      "pubDate": "Tue, 24 Mar 2026 00:26:07 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c1cb6dad7f5.jpeg"
     },
     {
       "id": "9b2a238d895e55f72de9",
@@ -1887,16 +1887,6 @@
       "subcat": "desarrollo"
     },
     {
-      "id": "83a53ef5b23373967716",
-      "title": "La IA acaba con el anonimato en redes: así de fácil es desenmascarar cuentas con seudónimo",
-      "summary": "Un grupo de jóvenes mira sus móviles.",
-      "link": "https://elpais.com/tecnologia/2026-03-12/la-ia-acaba-con-el-anonimato-en-redes-asi-de-facil-es-desenmascarar-cuentas-con-seudonimo.html",
-      "pubDate": "Thu, 12 Mar 2026 04:30:01 GMT",
-      "source": "El País Tech",
-      "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/MOQ6O4SARFHLVAOGULNUYL5PVM.jpg?auth=9b6447497feb9081343d71f4adbc0833dc8b1f9d2a77a6f88fa3ffc61f0d1a51"
-    },
-    {
       "id": "44921ae4b1abc26ae99c",
       "title": "En Península Valdés aparecieron muertas 21 ballenas en lo que va de 2024: ¿Cuál es la explicación?",
       "summary": "El número de casos duplica los de 2023. Investigadores locales sospechan que una toxina paralizante en el zooplancton está causando las muertes, mientras se refuerzan las medidas de protección en la costa chubutense. Leer más",
@@ -1977,16 +1967,6 @@
       "image": "https://fotos.perfil.com/2024/02/09/trim/540/304/20230210piparoprensahcdng-1753588.jpg"
     },
     {
-      "id": "7e6a65401e00e7dea402",
-      "title": "Ubuntu es la distribución Linux más exitosa, pero hasta ellos tuvieron que cancelar estos ocho proyectos",
-      "summary": "En el ámbito de los Linux de escritorio, Ubuntu no solo ha sido y es popular: sigue siendo una de las distribuciones más influyentes del mundo . Simplificó las instalaciones, normalizó los lanzamientos regulares, mejoró drásticamente el soporte de hardware y lleva años siendo la principal puerta de entrada de millones de personas al ecosistema Linux. Precisamente por ese éxito, Canonical nunca se conformó con mantener el statu quo . Bajo el liderazgo de Mark Shuttleworth, la compañía ha apostado constantemente por ir más allá del PC tradicional , romper la fragmentación entre dispositivos y construir una experiencia unificada, abierta y competitiva frente a los grandes ecosistemas propietarios. Pero lo cierto es que muchos de sus intentos no llegaron a consolidarse, no por falta de ideas o talento, sino en muchos casos porque la ambición superó los límites económicos y del mercado del momento . Eso le ha llevado a acumular una cartera de 'proyectos cancelados' que, proporcionalmente, rivaliza con la de Google. Unity: el escritorio que dividió a la comunidad En 2011, Canonical tomó una decisión radical: abandonar GNOME como entorno por defecto y apostar por Unity , un escritorio propio diseñado desde cero para funcionar tanto con ratón como con pantallas táctiles. Así, Unity introdujo ideas adelantadas a su tiempo: Un lanzador lateral persistente . El Dash como centro de búsqueda unificada. Lentes y scopes capaces de mezclar resultados locales y online. Pero Unity también generó una fractura histórica en la comunidad Linux. Muchos usuarios rechazaron el cambio, mientras otros lo defendían viéndolo como una evolución necesaria. El problema real llegó cuando Unity dejó de ser solo un escritorio y pasó a ser la pieza central de un proyecto mucho mayor: la convergencia (ver siguiente sección). Así, cuando la convergencia se canceló, Unity 8 (que estaba destinado a ser la base de ese proyecto) siguió el mismo camino, y Canonical ya había perdido un tiempo precioso (y gast",
-      "link": "https://www.genbeta.com/linux/ubuntu-distribucion-linux-exitosa-ellos-tuvieron-que-cancelar-estos-ocho-proyectos",
-      "pubDate": "Sun, 28 Dec 2025 12:00:59 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/25d451/chatgpt-image-27-dic-2025-15_24_03/1024_2000.png"
-    },
-    {
       "id": "d157e1abfcaaac9ea866",
       "title": "Por qué hay caos en los aeropuertos de EE.UU. (y la polémica decisión de Trump de enviar a los agentes migratorios de ICE)",
       "summary": "Los pasajeros en varios de los aeropuertos más grandes de EE.UU. han tenido que hacer colas de varias horas en los controles de seguridad por una disputa política en Washington.",
@@ -2016,16 +1996,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Paapa-Essiedu-amenazas-harry-potter.jpg"
-    },
-    {
-      "id": "46afdacc35194f0d9224",
-      "title": "Charithra Chandran explica la relación entre Vivi y Luffy en One Piece",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Charithra Chandran , Vivi en One Piece , ha hablado claro sobre esa relación con Luffy que está dando mucho que comentar. Y ojo, porque lo que cuenta deja pistas muy interesantes de lo que viene. Una Vivi que encaja en One Piece… y además lo cambia todo Meterse en una serie tan querida como One Piece en su segunda temporada no es precisamente un paseo por la playa. Hay una tripulación ya establecida, personajes con mucho peso y un tono que funciona como un reloj. Pero Charithra Chandran ha conseguido algo complicado: no solo encajar como Vivi, sino hacer que todo gire un poco a su alrededor. Desde que deja atrás su identidad como Miss Wednesday en Baroque Works y se revela como la princesa de Alabasta, su personaje empieza a brillar con luz propia. Y no lo hace a base de gritos o escenas épicas sin sentido, sino desde algo mucho más interesante: liderazgo, inteligencia y una forma distinta de entender las cosas. Miss Wednesday one piece netflix En One Piece, donde Luffy suele actuar primero y pensar después, la llegada de Vivi introduce una especie de freno necesario. No es que quiera cambiarlo todo, pero sí aporta una mirada más estratégica que acaba afectando directamente al capitán. El momento clave que lo cambia todo Hay una escena en la temporada 2 de One Piece que resume perfectamente esta dinámica. En Drum Island, cuando Nami necesita ayuda urgente, Luffy está listo para liarla… pero Vivi le para los pies. Literalmente. Ese momento no es solo una discusión más dentro de la tripulación. Tiene algo diferente. Se nota en la intensidad, en cómo ella le habla y, sobre todo, en cómo él reacciona. No es una bronca cualquiera, es una llamada de atención que realmente le cala. Y ahí está la clave. Porque en One Piece, muchos personajes opinan, aconsejan o incluso discuten con Luffy. Pero no todos consiguen cambiarle. Y Vivi sí lo hace. Charithra Chandran lo tiene claro: Vivi sí influye en Luffy La propia ac",
-      "link": "https://www.cinemascomics.com/charithra-chandran-vivi-luffy-one-piece/",
-      "pubDate": "Sun, 22 Mar 2026 21:02:44 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Vivi-dance-one-piece.jpg"
     },
     {
       "id": "e3efb2ec4488be51b9bc",
@@ -2281,17 +2251,6 @@
       "image": "https://fotos.perfil.com/2025/08/30/trim/540/304/tapa-spagnuolo-2089879.jpg"
     },
     {
-      "id": "8114f0c78ff630ed9996",
-      "title": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
-      "summary": "El equilibrio entre la vida laboral y la personal vs las jornadas 996 que están exigiendo mucha empresas de IA tanto en Estados Unidos como en Europa. Hay una distancia importante entre lo que los empleados han empezado a apreciar con el paso del tiempo y lo que los directivos están exigiendo en las empresas a sus trabajadores bajo la amenaza de que una inteligencia artificial pueda quitarles el empleo. En Genbeta Trabajamos siete días a la semana en la oficina : las tech de Silicon Valley exigen jornadas laborales como las que China dejó atrás Y nuevos datos ponen sobre la mesa esta realidad. Según Randstad, el 74% de la generación Z considera que el equilibrio entre la vida laboral y personal es una de las principales consideraciones a la hora de elegir un trabajo en 2025, el porcentaje más alto de todas las generaciones. De acuerdo con Fortune, en 20 años que lleva elaborando su informe Workmonitor, es la primera vez que el equilibrio entre la vida laboral y personal supera al salario como factor principal para todos los trabajadores. En Genbeta Soy millenial, me comí la crisis de 2008, pero paso mucho tiempo con la Generación Z y entiendo sus frustraciones laborales En Genbeta ya hemos recogido otros informes que muestran tendencias similares. La consultora Deloitte afirmaba en un informe de 2023 que la juventud \"tiene una perspectiva totalmente única de las carreras profesionales y de cómo definir el éxito en la vida y en el mundo laboral\" frente a los mayores\" Y afirmaba el informe que \"sus prioridades son encontrar un equilibrio entre la vida laboral y personal pero también que su trabajo tenga un sentido de propósito y poder aprender y adquirir nuevas habilidades\". Las ambiciones de los trabajadores... y la IA Pero... todo esto choca con otra realidad. A medida que la IA ha remodelado las estructuras corporativas, muchos ejecutivos claman que trabajan más duro que nunca y esperan que todos los demás sigan su ejemplo. En Genbeta hemos analizado cómo las empre",
-      "link": "https://www.genbeta.com/inteligencia-artificial/ceo-cada-vez-exigen-horas-trabajo-empleados-valoran-que-nunca-ocio-ia-tiene-mucha-culpa-ambos",
-      "pubDate": "Sat, 27 Dec 2025 12:06:17 +0100",
-      "source": "Genbeta",
-      "cat": "ia",
-      "image": "https://i.blogs.es/0775c9/jordan-whitfield-sm3ub_ijkqg-unsplash/1024_2000.jpeg",
-      "subcat": "herramientas"
-    },
-    {
       "id": "70983b53980abf641d34",
       "title": "Qué fue el \"Monagato\", la primera vez que dos hermanos compartieron el poder en Venezuela hace más de 170 años",
       "summary": "Con la salida de Nicolás Maduro del poder, el país sudamericano vive la inusual situación de tener a un hermano al frente del gobierno y a otro presidiendo el parlamento. Hay un antecedente histórico de hermanos con gran poder.",
@@ -2330,17 +2289,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/37b4/live/de82aff0-24a0-11f1-9573-9907bc8f835c.jpg"
-    },
-    {
-      "id": "31b69b479f5920cd8d56",
-      "title": "Skoda Elroq, firmeza",
-      "summary": "Yo sólo confío en dos hombres, agente Larkin. Uno de ellos soy yo y el otro no es usted (Cameron Poe, Con Air 1997) «Hola. Estoy grabando esto. Claro, qué tontería, me estás escuchando. Espero. Bueno, es un vocal o como sea que se llame esto o cómo lo llamen. Ya sabes que prefiero escribir pero&#8230; pero no tengo tiempo ahora. Ahora no&#8230; Por donde empiezo&#8230; No ha sido un día tan malo en la oficina. Empezó mal, eso sí. El café era malísimo. Ya sabes que me pone de mal humor. Y empezó mal la mañana pero luego lo habitual. Un montón de cosas retrasadas, ya sabes que Carlos todo sonrisas pero no termina nada y me toca remar por los dos. Y el ascensor lo perdí y tuve que esperar junto a gente que no conocía. Pero nada, un día normal en el fondo. Menos el pájaro. Siempre me ha sorprendido que lleguen tan alto. Había un pájaro en la ventana. Estaba terminando uno de los informes que Carlos había dejado a medias, renegando en arameo y ahí estaba el pájaro. Cantando como si nada. Te juro que le vi cara de felicidad. Y yo haciendo unos informes que nadie lee, que a nadie le importan sobre cosas que a mí tampoco me importan. Y la silla que no acaba de funcionar bien y hay una esquina de la moqueta levantada y una parte del monitor que no funciona y me duele la espalda. Me duele. Y el pájaro sigue en la ventana y yo creo que me tomaba el pelo. Le lancé el calendario que no miro nunca, el que me trajo tu cuñado. Y el pájaro voló y yo sentí como un impulso y me levanté corriendo y me pegué a la ventana para ver hacia dónde iba. Y cogí las llaves y se me cayó la chaqueta pero no me paré a recogerla. Bajé por las escaleras de incendios hasta el garaje. Me encontré con gente en los descansillos. Uno escondía una de esas cosas, los vapeadores creo que se llaman, también vi a la secretaria del presidente. Esa que no te gusta que comente que es tan guapa. Me miró con tanto desprecio&#8230; Así que aceleré. Casi me caigo por las escaleras. Llegué al parking agotado pero segu",
-      "link": "https://www.muycomputer.com/2026/03/21/skoda-elroq-firmeza/",
-      "pubDate": "Sat, 21 Mar 2026 08:18:00 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Skoda-Elroq-2026-00037.jpg",
-      "subcat": "herramientas"
     },
     {
       "id": "11ec8a47adbdebef0200",
@@ -2424,59 +2372,6 @@
       "image": "https://fotos.perfil.com/2024/09/27/trim/540/304/el-papa-vs-milei-1881234.jpg"
     },
     {
-      "id": "bb03ab49b96f3ff7427c",
-      "title": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
-      "summary": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero : rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online. Sin embargo, este 2025 del que nos despedimos puede haber marcado un punto de inflexión, porque ha quedado definitivamente claro que los ataques digitales no solo afectan a servidores y cuentas bancarias, sino también cada vez más directamente a las vidas humanas. Una muerte confirmada: cuando el ransomware alcanza a los hospitales El caso más grave y simbólico fue el del ataque de ransomware contra Synnovis, proveedor de servicios de patología para hospitales clave de Londres. Aunque el ataque se produjo en 2024, no fue hasta 2025 cuando las autoridades sanitarias del Reino Unido confirmaron oficialmente que un paciente había fallecido durante el período en que los servicios se encontraban caídos a raíz del ciberataque. Se trata del primer fallecimiento confirmado directamente vinculado a un ataque de ransomware : hasta ahora, muertes relacionadas con ciberataques se movían en el terreno de las estimaciones estadísticas o los indicios indirectos. Un hito sombrío, sin duda. De lo digital a lo físico: violencia como servicio Lo que durante años fue considerado un escenario extremo —la traducción directa del delito digital en agresión física— dejó de ser excepcional en 2025 para convertirse en una tendencia. Y es que, en los últimos meses, el auge del ciberdelitos vinculado a las criptomonedas ha venido acompañado de una escalada de brutalidad muy poco 'virtual' . Empresas de ciberseguridad como CrowdStrike han estado alertando de un notable aumento en Europa de los casos de ' violence-as-a-service ': la externalización de agresiones físicas —intimidaciones, secuestros, torturas o mutilaciones— como parte de esquemas de ciberextorsión digital. En Genbeta &#039;Crime-as-a-Service&#039;: por qué ya todos podemos ser ci",
-      "link": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
-      "pubDate": "Mon, 29 Dec 2025 19:39:38 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png"
-    },
-    {
-      "id": "01183c68039cf9f3e08c",
-      "title": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
-      "summary": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador . Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibunda por parte de uno de los ingenieros más influyentes de la historia de la informática moderna. El protagonista de la polémica es Rob Pike , cocreador del lenguaje de programación Go , que ha cargado en redes contra lo que considera un síntoma más del deterioro tecnológico y social impulsado por la IA. Un agradecimiento que encendió la mecha Todo comenzó cuando Pike recibió un correo electrónico que le agradecía sus contribuciones al desarrollo de software sencillo y elegante. El mensaje no provenía de una persona real, sino de un agente de IA autónomo diseñado para realizar \"actos aleatorios de bondad\" . Lejos de sentirse halagado, Pike interpretó el gesto como una falta de respeto y una pérdida de tiempo. Su reacción fue inmediata y brutalmente honesta. Confesando no recordar \"la última vez que se había sentido tan enfadado\", Pike publicó una captura del correo en la red Bluesky, acompañada de un mensaje plagado de insultos en el que denunciaba el impacto ambiental de la infraestructura de la IA , el consumo masivo de recursos y la ironía de que \"viles máquinas\" le agradezcan su lucha por un software más simple. ¿Quién es Rob Pike y por qué importa su enfado? Para entender la magnitud de la reacción, hay que comprender quién es Rob Pike. No estamos ante un tecnófobo, ni ante un programador cualquiera: Pike es una figura clave en la historia de la computación . Trabajó en Bell Labs, participó en el desarrollo de Unix, fue coautor del sistema operativo Plan 9 y contribuyó a la creación de UTF-8 , el estándar que hoy permite que Internet funcione con múltiples idiomas. Ya trabajando para Google, junto a Ken Thompson y Robert Griesemer, dio forma a Go, un lenguaje pensado ",
-      "link": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
-      "pubDate": "Mon, 29 Dec 2025 15:58:02 +0100",
-      "source": "Genbeta",
-      "cat": "ia",
-      "image": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
-      "subcat": "desarrollo"
-    },
-    {
-      "id": "7898b3df820c7b7d2812",
-      "title": "Cadenas de TV como Telecinco o Antena 3 critican los \"realities\" de Internet: \"La Casa de los Gemelos\" campa a sus anchas en YouTube",
-      "summary": "Mientras que la televisión tiene una regulación creada para evitar contenidos que puedan ser perjudiciales , a través de la \"Ley Audiovisual\", en internet la situación es diferente. Solo hay que ver lo que está sucediendo con personas como Simón Pérez , un hombre adicto a las drogas al que, a través de redes sociales, las personas le suministran drogas para poder ver, en directo, cómo se comporta cuando está bajo el efecto de sustancias. La emisión del reality show La Casa de los Gemelos 2 (después de que la primera edición durara horas porque se tornó muy violenta ) está siendo motivo de disputa entre los canales de televisión tradicionales y la regulación (o falta de ella) en los contenidos de internet. En Genbeta Cada vez hay más canales de TV gratis por Internet: estas son las dos plataformas que más nos convencen Antena 3 y Telecinco se han unido a la Asociación de Usuarios de la Comunicación para denunciar públicamente que este programa que se emite por internet no cumple con la \"Ley Audiovisual\". A todo esto, Youtube, la plataforma en la que se está emitiendo, defiende que el formato cumple con las reglas, según explican desde Antena 3 . Qué alega la Asociación Concretamente, la Asociación de Usuarios de la Comunicación (AUC) ha pedido a la Comisión Nacional de los Mercados y la Competencia (CNMC) que se investigue si el reality \" La casa de los gemelos\" cumple la normativa audiovisual a la que están sometidos el resto de medios y desde informativos de cadenas como Antena 3 o Telecinco se han unido a esta crítica pública. En Telecinco explicaron este tema antes de mostrar las imágenes de la agresión de un hombre conocido de otros realities , llamado Labrador,a la drag Cherilyn Divine. En Genbeta El Gobierno aprueba la Ley de Influencers: controlará su contenido y publicidad... pero afectará a muy pocos En el documento de la AUC, la asociación solicita a la CNMC que pronuncie su postura respecto a este programa. Se trata de un reality creado por los gemelos Ca",
-      "link": "https://www.genbeta.com/actualidad/cadenas-tv-como-telecinco-antena-3-critican-realities-internet-casa-gemelos-campa-a-sus-anchas-youtube",
-      "pubDate": "Mon, 29 Dec 2025 13:30:32 +0100",
-      "source": "Genbeta",
-      "cat": "ia",
-      "image": "https://i.blogs.es/46bc7f/pj-gal-szabo-u8knv-0dcs0-unsplash/1024_2000.jpeg",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "bfd3285dc8a2931ef567",
-      "title": "El planazo pionero de China para evitar que los chatbots de IA aconsejen mal: recurrir a los humanos cuando hay temas espinosos",
-      "summary": "China planea restringir que los chatbots con inteligencia artificial influyan en las emociones humanas de maneras que puedan llevar al suicidio o la autolesión o incluso a apostar en juegos de azar, según un borrador de las normas que se han hecho públicas esta semana. Las regulaciones propuestas por la Administración del Ciberespacio para los denominados \" servicios interactivos de IA con características humanas \", según una traducción de CNBC del documento en chino, pretende desarrollar medidas para aplicarlas en el futuro a los productos o servicios de IA ofrecidos al público. Por ahora es un borrador y se espera lanzar la normativa más adelante. Ahora se reciben comentarios públicos hasta el 25 de enero. En Genbeta Una empresa puso a una de las mejores IA a dirigir un negocio para que ganara dinero. Lo arruinó en un mes Hace unos días veíamos cómo un apagón en San Francisco demostró que cuando hay problemas, los coches autónomos necesitan de la intervención humana para salir del caos; también hemos recogido historias de gente que se gana la vida arreglando problemas causados por la IA... y ahora tenemos que en China, si una persona tiene un tema delicado que tratar, el plan será exigir que una persona tome las riendas de la conversación. Regular la IA que parece humana pero no lo es Los chatbots, al estilo de ChatGPT tan usado en Europa o del reconocido DeepSeek de China, que simulan la personalidad humana e involucran emocionalmente a los usuarios a través de texto , imágenes, audio o video... pueden tener muchas consecuencias negativas. Al fin y al cabo no son personas expertas en la psicología humana, sino máquinas entrenadas con millones de datos varios. Ya hay casos de suicidios de adolescentes incitados por una IA e incluso han demandado a OpenAI por este motivo. En Genbeta La inteligencia artificial contribuye a la desigualdad social: hay IA para pobres e IA, muchísimo más potente, para ricos Las normas planificadas por Pekín marcarían el primer intento m",
-      "link": "https://www.genbeta.com/inteligencia-artificial/china-tiene-plan-para-evitar-que-chatbots-ia-manipulen-emociones-incluso-proponen-derivar-conversacion-a-humanos",
-      "pubDate": "Mon, 29 Dec 2025 10:20:23 +0100",
-      "source": "Genbeta",
-      "cat": "ia",
-      "image": "https://i.blogs.es/c094e1/mohamed-nohassi-2iurk025cec-unsplash/1024_2000.jpeg",
-      "subcat": "modelos"
-    },
-    {
-      "id": "a6b9a01ebfd6295d76b0",
-      "title": "La mayoría de autónomos en España tiene más de 45 años y la generación Z en España no parece querer emprender. El SEPE ve aquí un reto",
-      "summary": "El SEPE o Servicio Público de empleo acaba de presentar un informe en el que afirma que el empleo autónomo desempeña un papel fundamental en la economía y mercado laboral español, generando empleo y tejido empresarial. Este llega unas semanas más tarde de las protestas de los trabajadores del sector que llenaron las calles de las ciudades y las redes sociales de sus quejas y frustraciones. El empleo por cuenta propia se consolida como una pieza esencial en la economía española, representando el 14,58 % del total del empleo, por encima de la media europea (13,6 %). Andalucía, Cataluña, Comunidad Valenciana y Madrid concentran más de la mitad de los autónomos. En Genbeta Tener más de un trabajo en España para vivir: se dispara el número trabajadores por cuenta ajena que se hacen autónomos De acuerdo con el SEPE, \"los autónomos no solo se autoemplean, sino que muchos también generan puestos de trabajo para otras personas ; y se estima que contribuyen con una sexta parte al PIB y la riqueza nacional\". Y el organismo también reconoce que los trabajadores autónomos se enfrentan a una serie de retos y desafíos significativos de cara al futuro. La gente joven pasa El Observatorio de las Ocupaciones del Servicio Público de Empleo Estatal muestra datos relevantes en el informe El Empleo autónomo en España como que es un sector donde crece la presencia femenina (un tercio del total), extranjera y con discapacidad en el colectivo. En el mes de mayo, la Asociación de Trabajadores Autónomos hizo pública esta cifra : el 96,5% de los nuevos autónomos desde 2021 son personas extranjeras . De esta manera, de los 108.155 nuevos autónomos totales desde 2021, 104.338 han sido emprendedores extranjeros. En Genbeta El 90% del empleo creado entre enero de 2024 a marzo de 2025 en España fue ocupado por inmigrantes. El por qué es pura lógica Además, hay un reto: atraer jóvenes para garantizar la sostenibilidad del modelo laboral. Dos de cada tres autónomos superan los 45 años, mientras que s",
-      "link": "https://www.genbeta.com/laboral/trabajadores-autonomos-espana-superan-a-media-europea-muchos-estan-hartos-gente-joven-pasa-emprender",
-      "pubDate": "Mon, 29 Dec 2025 09:13:41 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/3bbe80/daniel-prado-2cox4tg0tc0-unsplash/1024_2000.jpeg"
-    },
-    {
       "id": "aba91a31893c005d7ed5",
       "title": "Cómo funciona la Guardia Pretoriana de Milei",
       "summary": "Desde la Fundacion Faro comandada por Agustín Laje y la agrupación Fuerzas del Cielo buscan instalar un nuevo relato de época. Militancia tuitera, discurso violento y escraches. El rol del Gordo Dan. La pulseada entre los \"pibes\" de Santiago Caputo y el armado de Karina. Leer más",
@@ -2525,36 +2420,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Spider-Man-Beyond-the-Spider-Verse.jpg"
-    },
-    {
-      "id": "f94e20c43007e8951510",
-      "title": "Arbeloa gana por mayoría",
-      "summary": "Imagen del voto en una urna.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/03/23/plantilla-vota-arbeloa.html",
-      "pubDate": "Mon, 23 Mar 2026 22:58:37 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c17265e32be.jpeg"
-    },
-    {
-      "id": "25aec92216762d29b441",
-      "title": "\"El Celta y su viaje alucinante\"",
-      "summary": "Los jugadores del Celta se lamentan durante el encuentro ante el Alavés.",
-      "link": "https://www.marca.com/futbol/primera-division/opinion/2026/03/23/celta-viaje-alucinante.html",
-      "pubDate": "Mon, 23 Mar 2026 22:43:34 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c18da3cf7f6.jpeg"
-    },
-    {
-      "id": "1d962fc2c8fadf86a1eb",
-      "title": "Ni Castellón ni Cultu lo ven claro",
-      "summary": "El meta local Matthys intenta atrapar el balón, que le tapa la cara",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/03/23/castellon-cultu-ven-claro.html",
-      "pubDate": "Mon, 23 Mar 2026 22:27:09 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/23/69c19ee7ca587.jpeg"
     },
     {
       "id": "ef38910e735f9e155d05",
@@ -2609,12 +2474,12 @@
     {
       "id": "295463968a8a31c11944",
       "title": "La convocatoria precipita el cambio de Gobierno más difícil: sustituir a María Jesús Montero",
-      "summary": "María Jesús Montero, el pasado miércoles en el Congreso.",
+      "summary": "La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, y la vicepresidenta primera y ministra de Hacienda, María Jesús Montero, en el Congreso, el pasado 18 de marzo.",
       "link": "https://elpais.com/espana/2026-03-23/la-convocatoria-precipita-el-cambio-de-gobierno-mas-dificil-sustituir-a-maria-jesus-montero.html",
       "pubDate": "Mon, 23 Mar 2026 20:21:52 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/NI6FQR7T2BCXTIWDHCVSEAI4HU.jpg?auth=96268cdd909f209f675a9d642308a1455774d0cd55f997e63f1fc6355e374d6d"
+      "image": "https://imagenes.elpais.com/resizer/v2/IDS7NW2YSBGJ5EQQWO4CYGLQ5I.jpg?auth=d035692a37654deadf160280f15db8fe4fc3d16da3327db7224acfa1a01218a0"
     },
     {
       "id": "87ff4af04fada42f8b77",
@@ -3448,16 +3313,6 @@
       "image": "https://fotos.perfil.com/2025/02/27/trim/540/304/martin-menem-y-victoria-villarruel-20250226-1974898.jpg"
     },
     {
-      "id": "99e3781edc1b2533fad0",
-      "title": "Sancionado un capitán del Ejército que permitió instalar un ordenador en una base militar de Zaragoza para minar criptomonedas",
-      "summary": "La constante aparición de nuevas tecnologías no deja de generar situaciones legales inéditas. Tanto como para provocar que la Guardia Civil precinte un local dentro de un cuartel del Ejército de Tierra y que un oficial en activo sea sancionado por permitir el uso indebido de instalaciones militares. ¿De qué clase de uso hablamos? Pues, concretamente, de la minería de criptomonedas. Eso es exactamente lo que ha ocurrido en Zaragoza, en un caso que ha terminado con una resolución firme del Tribunal Militar Central , que avala la sanción disciplinaria impuesta a un capitán. La sentencia, dictada tras analizar un recurso contencioso-disciplinario militar, confirma una pérdida de ocho días de sueldo al oficial por una falta grave , al considerar probado que permitió el uso de recursos públicos con fines particulares, al margen de que no se haya acreditado un beneficio económico directo para él. Una alerta interna Los hechos se remontan a un aviso interno recibido en un acuartelamiento de Zaragoza. Según el expediente disciplinario, se alertó de la existencia de una instalación informática conectada a la red eléctrica del cuartel , ubicada en un almacén de la Unidad de Servicio de Acuartelamiento (USAC) y destinada a usos ajenos al servicio. El capitán implicado, que tenía responsabilidades en el área de comunicaciones, decidió poner los hechos en conocimiento de la autoridad judicial, ante la sospecha de un posible delito de defraudación de fluido eléctrico . La investigación no fue asumida por la jurisdicción militar, sino por el Juzgado de Instrucción nº 11 de Zaragoza , que abrió diligencias previas. Fue en el marco de estas actuaciones cuando los agentes de la Guardia Civil se desplazaron al cuartel, accedieron al local señalado y procedieron a su precinto . Todo por la... cadena de bloques La denuncia señalaba directamente a un sargento primero , destinado en el centro de comunicaciones del acuartelamiento, como responsable de utilizar el local para minar criptomone",
-      "link": "https://www.genbeta.com/seguridad/sancionado-capitan-ejercito-que-permitio-instalar-ordenador-base-militar-zaragoza-para-minar-criptomonedas",
-      "pubDate": "Fri, 26 Dec 2025 19:18:46 +0100",
-      "source": "Genbeta",
-      "cat": "tech",
-      "image": "https://i.blogs.es/c19ae4/chatgpt-image-26-dic-2025-19_03_51/1024_2000.png"
-    },
-    {
       "id": "09b227834903f15f13f8",
       "title": "¿Cómo responde el algoritmo de X durante la campaña electoral? Una aproximación experimental sobre las elecciones de CABA y de PBA",
       "summary": "",
@@ -3476,16 +3331,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba48/live/95f1dbb0-24a7-11f1-a3d2-db15ec24c1f1.jpg"
-    },
-    {
-      "id": "49232fc5f3a4b56bd1e1",
-      "title": "Los Samsung Galaxy serán compatibles con AirDrop",
-      "summary": "Durante años, el intercambio rápido de archivos entre móviles ha estado marcado por una clara división entre ecosistemas . En el mundo de Apple, AirDrop se convirtió en una de las funciones más valoradas por su rapidez y simplicidad. En Android, Google lanzó Nearby Share en 2022 y Samsung presentó poco después Quick Share, dos soluciones que terminaron fusionándose bajo el nombre de Quick Share para unificar el intercambio de archivos dentro del ecosistema Android. Sin embargo, el verdadero problema nunca estuvo dentro de cada plataforma, sino entre ellas . Compartir archivos directamente entre un iPhone y un móvil Android seguía siendo una tarea incómoda, obligando a recurrir a aplicaciones de mensajería, correo electrónico o servicios en la nube. Esa barrera empezó a resquebrajarse hace unos meses, y ahora podría dar un nuevo paso importante. El primer movimiento llegó cuando hace unos meses, cuando Google habilitó compatibilidad entre Quick Share y AirDrop en los Google Pixel 10. Aquella decisión permitió que los teléfonos de Google pudieran detectar dispositivos Apple cercanos y transferir archivos cuando AirDrop estaba activo, creando por primera vez un puente directo entre ambos ecosistemas sin recurrir a aplicaciones externas ni a servicios en la nube. Ahora ese puente podría ampliarse considerablemente. Samsung ha confirmado que sus futuros teléfonos de la serie Samsung Galaxy S26 también serán compatibles con este sistema de intercambio de archivos. La información se ha dado a conocer durante una conferencia celebrada en Japón, donde Won-joon Choi, director de operaciones de la división MX de la compañía, ha explicado que la empresa planea implementar esta funcionalidad en su próxima generación de dispositivos. Según explicó el directivo, la compatibilidad se introducirá inicialmente en los Galaxy S26 y posteriormente se extenderá a otros teléfonos Galaxy mediante actualizaciones de software . Esto significa que no se tratará de una característica exclusiva",
-      "link": "https://www.muycomputer.com/2026/03/20/los-samsung-galaxy-seran-compatibles-con-airdrop/",
-      "pubDate": "Fri, 20 Mar 2026 19:27:49 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/AirDrop-2.jpg"
     },
     {
       "id": "5a0d0eb9f8e3ea1d89f1",
@@ -3996,13 +3841,13 @@
         "cls": "rb-blue"
       },
       {
-        "name": "ChatGPT",
+        "name": "Claude",
         "type": "Modelo",
         "badge": "Trending",
         "cls": "rb-green"
       },
       {
-        "name": "Claude",
+        "name": "ChatGPT",
         "type": "Modelo",
         "badge": "Trending",
         "cls": "rb-green"
@@ -4014,13 +3859,13 @@
         "cls": "rb-accent"
       },
       {
-        "name": "Gemini",
-        "type": "Modelo",
+        "name": "Sora",
+        "type": "Video AI",
         "badge": "En foco",
         "cls": "rb-accent"
       }
     ],
     "rising": []
   },
-  "updated": "2026-03-24T06:57:40.304409+00:00"
+  "updated": "2026-03-24T08:46:27.558830+00:00"
 }
