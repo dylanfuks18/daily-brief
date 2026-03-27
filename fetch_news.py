@@ -390,21 +390,23 @@ for src in SOURCES:
                 entry.get('description', '')
             )
 
-            # Para tweets de nitter: filtrar tweets viejos (> 14 días) y convertir link a x.com
+            # Para tweets de nitter: convertir link a x.com
             link = entry.get('link', '')
-            if is_mokedb:
-                pub_parsed = entry.get('published_parsed')
-                if pub_parsed:
-                    try:
-                        pub_dt = datetime(*pub_parsed[:6], tzinfo=timezone.utc)
-                        if (datetime.now(timezone.utc) - pub_dt).days > 14:
-                            continue  # ignorar tweets viejos
-                    except Exception:
-                        pass
-                if link:
-                    link = re.sub(r'https?://[^/]+/', 'https://x.com/', link)
+            if is_mokedb and link:
+                link = re.sub(r'https?://[^/]+/', 'https://x.com/', link)
 
             pub   = entry.get('published', datetime.now(timezone.utc).isoformat())
+
+            # Filtrar artículos más viejos de 7 días (feeds lentos como Genbeta a veces retienen artículos viejos)
+            pub_parsed = entry.get('published_parsed')
+            if pub_parsed:
+                try:
+                    pub_dt = datetime(*pub_parsed[:6], tzinfo=timezone.utc)
+                    if (datetime.now(timezone.utc) - pub_dt).days > 7:
+                        continue
+                except Exception:
+                    pass
+
             image = get_image(entry)
 
             cat = classify(title, desc, src['cat'])
