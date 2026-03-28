@@ -11,17 +11,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f496/live/2165df10-2774-11f1-82f7-f757ccb9d4bd.jpg"
     },
     {
-      "id": "44b05948a6b0ddd17352",
-      "title": "ASUS ROG Strix se renueva con Intel Core Ultra 9 y RTX 5080",
-      "summary": "ASUS ROG Strix lleva años ocupando un lugar destacado dentro del catálogo gaming de la compañía taiwanesa. Esta familia de portátiles se ha consolidado como una de las más reconocibles del mercado gracias a una combinación de hardware de alto rendimiento, diseño agresivo y una apuesta constante por pantallas rápidas y sistemas de refrigeración avanzados . En un sector donde la evolución tecnológica es constante, cada nueva generación tiene la misión de elevar ese listón un poco más. En ese contexto, ASUS ha presentado la nueva generación de portátiles ROG Strix G16 y ROG Strix G18 2026 , dos equipos diseñados para ofrecer un rendimiento de primer nivel en juegos y aplicaciones creativas exigentes. Ambos modelos incorporan el nuevo Intel Core Ultra 9 290HX Plus , un procesador orientado a cargas de trabajo intensivas que destaca por su capacidad multihilo y por integrar funciones de aceleración para inteligencia artificial. A esto se suma la posibilidad de configurarlos con GPU NVIDIA GeForce RTX 5080 para portátiles, lo que permite abordar sin problemas títulos AAA modernos, juegos competitivos de esports y tareas creativas aceleradas por GPU. El apartado gráfico se beneficia además de tecnologías recientes del ecosistema de NVIDIA. La compatibilidad con DLSS 4 y Multi-Frame Generation permite aumentar la tasa de fotogramas mediante técnicas de generación de imágenes asistidas por IA, mientras que el soporte para trazado de rayos ofrece una iluminación y reflejos más realistas en juegos compatibles. Esta combinación de CPU y GPU posiciona a la nueva serie Strix como una plataforma pensada tanto para jugadores competitivos que buscan altas tasas de refresco como para creadores que necesitan potencia gráfica en flujos de trabajo exigentes. Las pantallas también reciben mejoras importantes en esta generación. El ROG Strix G16 integra un panel ROG Nebula de 2,5K con tasa de refresco de 300 Hz , una evolución frente a los 240 Hz del modelo anterior que busca ofrecer una ",
-      "link": "https://www.muycomputer.com/2026/03/25/asus-rog-strix-se-renueva-con-intel-core-ultra-9-y-rtx-5080/",
-      "pubDate": "Wed, 25 Mar 2026 19:23:49 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/ASUS-2.jpg",
-      "subcat": "empresas"
-    },
-    {
       "id": "0b9ce6c19ccee86d8afd",
       "title": "Osmer H., el alumno de 15 años que mató a dos profesoras en México tras adelantarlo en sus redes sociales",
       "summary": "Un adolescente de 15 años se grabó en redes sociales portando un rifle antes de dirigirse a su preparatoria y matar a dos profesoras en Lázaro Cárdenas, en el oeste de México.",
@@ -331,28 +320,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Gillian-Anderson-revela-su-opinion-sobre-el-reinicio-de-Expediente-X.jpg"
     },
     {
-      "id": "23b46f166f63a20e1c9b",
-      "title": "Más cambios para Siri en iOS 27, que se podrá integrar con Claude y otras IA",
-      "summary": "De la mano de iOS 27 , Siri promete dar el salto más notorio de su historia. No solo porque el asistente virtual de Apple estrenará una versión impulsada por Gemini , los modelos de lenguaje de Google, sino también porque debutará una app independiente con la que expandirá su alcance. Pero la historia no concluirá allí, pues los de Cupertino también abrirán la puerta a su integración con Claude, Gemini y otros chatbots de inteligencia artificial . Así lo afirma un nuevo reporte de Mark Gurman para Bloomberg . De acuerdo con el periodista, Apple planea abandonar la exclusividad que tiene ChatGPT para conectarse con Siri, para abrirla a todas las apps de chatbots que se instalen desde la App Store. Se menciona en tal sentido que la empresa pretende incorporar un sistema de extensiones que permitirán conectar Siri con otros chatbots de IA. De esta manera, los usuarios tendrán la posibilidad de delegar la concreción de ciertas consultas o acciones a la IA de su preferencia que ya hayan descargado en su dispositivo, sea Claude, Gemini, etc. Gurman explica que esta característica de Siri en iOS 27 se implementará en paralelo con las demás reformas que recibirá el asistente y que ya mencionamos al comienzo. Esto significa que es parte de una estrategia más amplia por parte de Apple, que quiere instalar a los iPhone, iPad y Mac como los dispositivos de IA definitivos de uso diario. Siri debutará extensiones en iOS 27 para conectarse con Claude y otras IA Con los cambios que quiere aplicar Apple en iOS 27, la dinámica de uso de Siri será bastante peculiar . El asistente virtual de la manzana usará Gemini, de Google, como modelos de lenguaje subyacentes, mientras que los usuarios podrán elegir si desean complementarlo con ChatGPT, como ya sucede desde iOS 18, o con las apps de Claude, Gemini y otros chatbots. En simultáneo, Siri estrenará una aplicación independiente con formato de chatbot para competir con Claude, Gemini o ChatGPT. La cosa se pone un poco complicada, sin dud",
-      "link": "https://hipertextual.com/apple/siri-ios-27-extensiones-claude-gemini-otras-ia/",
-      "pubDate": "Thu, 26 Mar 2026 20:15:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/siri-iphone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "35e53aff26559d2735d8",
-      "title": "Google lanza una IA que busca por ti mientras le hablas y apuntas con la cámara",
-      "summary": "Google anunció el lanzamiento mundial de Search Live , su función de búsqueda conversacional en tiempo real. A partir de hoy, la herramienta llega a todos los idiomas y regiones donde el Modo IA de Google Search está disponible. Search Live es la función del buscador de Google que permite hacer consultas mediante voz y cámara en tiempo real , dentro del Modo IA. Está pensada para situaciones donde escribir no es práctico, ya sea porque tienes las manos ocupadas, necesitas contexto visual o cuando la pregunta requiere una conversación de ida y vuelta. De acuerdo con una publicación en su blog , el despliegue de Search Live es gracias a Gemini 3.1 Flash Live , un nuevo modelo de audio y voz que permite conversaciones más naturales e intuitivas . La compañía aprovechó el anuncio de su nueva IA para confirmar que estará disponible en las búsquedas interactivas en español y otros idiomas. Gemini 3.1 Flash Live es el modelo de audio de mayor calidad que Google ha lanzado hasta la fecha. Entre sus mejoras encontramos una comprensión tonal más avanzada, la posibilidad de detectar matices acústicos como el tono y el ritmo, así como menor latencia para que las respuestas sean más fluidas. Según la tecnológica, su IA está optimizada para ofrecer la velocidad y ritmo natural que requiere una interfaz de voz . En términos de rendimiento, el modelo obtiene una puntuación de 90.8% en el benchmark ComplexFuncBench, que mide la ejecución de tareas en varios pasos con distintas restricciones. Por otro lado, en la prueba de seguimiento de instrucciones complejas en conversaciones reales con interrupciones, Gemini 3.1 Flash Live supera a GPT-Realtime 1.5 de OpenAI y otros modelos de la competencia. Cómo usar Search Live en tu iPhone y Android Para acceder a Search Live, solo tenemos que abrir la aplicación de Google en Android o iOS y pulsar el ícono de Live que aparece debajo de la barra de búsqueda. Desde ahí se puede hacer una pregunta en voz alta y recibir una respuesta de audio, c",
-      "link": "https://hipertextual.com/internet/google-search-live-expansion-global/",
-      "pubDate": "Thu, 26 Mar 2026 19:25:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/google-search-live.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "modelos"
-    },
-    {
       "id": "d0c1436ef6f705ac8687",
       "title": "Muere Noelia Castillo: la lucha judicial de una joven de 25 años contra su padre para recibir la eutanasia en España",
       "summary": "El caso de la barcelonesa es el primero que llegó a los tribunales desde que entrara en vigor la ley de eutanasia en España. \"Yo solo quiero irme en paz y dejar de sufrir\", dijo.",
@@ -635,16 +602,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/900b/live/8d52b1a0-2952-11f1-98c5-01603f6fa96c.jpg"
     },
     {
-      "id": "e51ac1df60e5d329c6aa",
-      "title": "Vengadores: Doomsday añadirá escenas clave y Secret Wars abrirá paso a nuevos héroes",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Cuando parecía que Vengadores: Doomsday ya estaba bastante cargadita de multiverso y regresos imposibles, ahora llega una nueva tanda de rumores que apunta a algo todavía más jugoso: reshoots centrados en personajes y detalles de Vengadores: Secret Wars que pondría el foco en héroes que, por ahora, estarían más en segundo plano. Y ojo, porque aquí no hablamos solo de añadir dos escenas de pasillo y un chiste post-créditos. Lo que se está dibujando alrededor de Vengadores: Doomsday suena a ese tipo de jugada que Marvel utiliza cuando quiere que una película no solo funcione… sino que haga que el público explote. Marvel estaría afinando Vengadores: Doomsday donde más importa Según los últimos rumores que circulan en el entorno habitual de filtraciones marvelitas, los reshoots de Vengadores: Doomsday estarían centrados sobre todo en escenas más íntimas, más emocionales y más enfocadas en personajes concretos. Traducido al idioma que todos entendemos: menos explosión gratuita de fondo y más momentos de esos que luego terminan convertidos en memes, teorías y traumas compartidos. La información encaja bastante con lo que ya se venía comentando desde hace meses. Se decía que la película había arrancado su maquinaria con grandes secuencias de acción ya muy claras, pero con partes del desarrollo todavía pidiendo un poco más de cocción. Y, siendo honestos, no suena precisamente a desastre. Suena a los hermanos Russo haciendo lo que mejor se les da: construir un monstruo gigantesco, pero asegurándose de que dentro siga habiendo corazón. Con Vengadores: Doomsday, Marvel parece querer repetir esa fórmula. Y, la verdad, es bastante lógico. Si vas a meter a Doctor Doom, a los X-Men, a los 4 Fantásticos, a los Vengadores clásicos , a los nuevos y a medio multiverso en la misma coctelera… más vale que no todo se quede en fuegos artificiales. Secret Wars no sería una simple continuación, sino un cambio de foco Lo más inter",
-      "link": "https://www.cinemascomics.com/vengadores-doomsday-anadira-escenas-clave/",
-      "pubDate": "Thu, 26 Mar 2026 11:02:01 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/doomed-2099.jpg"
-    },
-    {
       "id": "6f4b0fc88384a999319a",
       "title": "Qué vendrá después de Resident Evil Requiem: más remakes, esto es todo lo que sabemos",
       "summary": "Resident Evil Requiem ha sido el último gran lanzamiento de Capcom dentro de la conocida franquicia. Ha sido un enorme éxito, pero nos ha dejado a todos con una clara pregunta en la cabeza: y ahora, ¿qué, qué será lo próximo? Está claro que un remake, ¿pero qué remake? Según las últimas informaciones que tenemos procedentes de fuentes fiables, como el insider Dusk Golem , que acumula una importante cantidad de aciertos con sus predicciones, ha dicho que el próximo lanzamiento de Capcom será Resident Evil Code Veronica Remake. Este nuevo remake será presentado a finales de este año , probablemente entre septiembre y octubre, y llegará en el primer o segundo trimestre de 2027 a PS5, Xbox Series S-X, Nintendo Switch 2 y PC. Dusk Golem afirma que este remake lleva en desarrollo más de cuatro años , y al igual que ocurrió con los otros remakes trae modificaciones importantes que afectan tanto a la narrativa como a la jugabilidad, a las localizaciones y a la historia. Qué vendrá después de Resident Evil Code Veronica Remake En teoría tendremos otro remake, el de Resident Evil 0 , un juego que en su momento no tuvo el éxito esperado por la introducción de algunos cambios que no fueron bien recibidos, como la eliminación de los baúles de almacenamiento y el control de dos personajes. Este podría llegar en 2028, y estará disponible para las mismas plataformas que el remake de Code Veronica. Más allá de esos dos próximos lanzamientos la cosa se complica. Se rumorea que entre 2029 y 2030 podríamos ver el lanzamiento de Resident Evil 10, la nueva entrega de la franquicia dentro de la línea principal y sucesor de Resident Evil Requiem. Tras el lanzamiento de Resident Evil 10, en Capcom se pondrían a trabajar en dos nuevos remakes. Primero veríamos el de Resident Evil 1, que en teoría estaría basado en la entrega original de 199 6 y no en la versión de 2002 que llegó primero a GameCube, y luego llegaría el remake de Resident Evil 5, un juego que se pospondría tanto en el tiempo p",
@@ -705,6 +662,277 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GGHK7BMNEJAUHBPQSU65WVNNVM.webp?auth=d9a1544f7660e6aaa8e6797eb664fe201d221105837747573011eb04e9c41f8b"
     },
     {
+      "id": "09a3fbc003f5d2c73706",
+      "title": "\"Tiger Woods necesita ayuda\"",
+      "summary": "Fichas policiales de Tiger Woods en 2026 y 2017",
+      "link": "https://www.marca.com/golf/opinion/2026/03/28/tiger-woods-necesita-ayuda.html",
+      "pubDate": "Sat, 28 Mar 2026 09:23:17 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c78f9512f43.jpeg"
+    },
+    {
+      "id": "438f53285ec08e9c2ee0",
+      "title": "Un día en el corazón del NSN de Iniesta: “Tener a alguien como Andrés te da una perspectiva nueva\"",
+      "summary": "MARCA estuvo en el coche del equipo durante un entrenamiento antes de la Volta a Catalunya",
+      "link": "https://www.marca.com/ciclismo/2026/03/28/dia-corazon-nsn-iniesta-alguien-andres-te-da-perspectiva-nueva.html",
+      "pubDate": "Sat, 28 Mar 2026 09:13:13 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/aOxF41fnukGy55jfR.jpeg"
+    },
+    {
+      "id": "2652352d29fb63104483",
+      "title": "Se hizo pasar por actriz porno y engañó a estrellas de la NFL y NBA: el escándalo que sacude a EE.UU.",
+      "summary": ".",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/03/28/hizo-pasar-actriz-porno-engano-estrellas-nfl-nba-escandalo-sacude-ee-uu.html",
+      "pubDate": "Sat, 28 Mar 2026 09:10:07 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c78a1a6359e.jpeg"
+    },
+    {
+      "id": "112e4f11ac8bb3c1fba7",
+      "title": "Alonso, demoledor",
+      "summary": "Alonso, en acción durante la clasificación.",
+      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/28/alonso-demoledor-proximas-10-carreras-tambien-seran-complicadas.html",
+      "pubDate": "Sat, 28 Mar 2026 08:59:53 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c7867b2f48f.jpeg"
+    },
+    {
+      "id": "31f8b6df6506a6d35f8f",
+      "title": "Ane Azkona vuelve a San Mamés: \"Son muchos estímulos\"",
+      "summary": "Ane Azkona posa para los medios gráficos del club.",
+      "link": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/03/28/ane-azkona-vuelve-san-mames-son-estimulos-momento-especial.html",
+      "pubDate": "Sat, 28 Mar 2026 08:52:06 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c63caa3d653.jpeg"
+    },
+    {
+      "id": "c01258817c462844c513",
+      "title": "La alcaldesa que transformó París se despide: \"Cambiar exige aceptar la impopularidad\"",
+      "summary": "Anne Hidalgo, la alcaldesa que cambió París, se despide de la ciudad: \"Cambiar una ciudad exige aceptar la impopularidad\"",
+      "link": "https://www.marca.com/tiramillas/politica/2026/03/28/anne-hidalgo-alcaldesa-cambio-paris-despide-ciudad-cambiar-ciudad-exige-aceptar-impopularidad.html",
+      "pubDate": "Sat, 28 Mar 2026 08:50:25 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c787ae6d385.jpeg"
+    },
+    {
+      "id": "15c75f7ea7f2fb137f92",
+      "title": "Todos a por Valverde: \"Muchos vinieron a buscarme\"",
+      "summary": "El centrocampista uruguayo empató de penalti en el último segundo y se llevó el dedo a la boca señalando a la grada",
+      "link": "https://www.marca.com/futbol/2026/03/28/todos-valverde-companeros-vinieron-buscarme-tirara-penalti.html",
+      "pubDate": "Sat, 28 Mar 2026 08:31:20 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/aOxDS1fnm9VefBrs8.jpeg"
+    },
+    {
+      "id": "a9a39646af0b5feca546",
+      "title": "Franco Colapinto largará 15º en el Gran Premio de Japón, donde Kimi Antonelli logró la pole position",
+      "summary": "Sabor agridulce para Franco Colapinto en el sábado de Suzuka. Empezó muy atrás, progresó en la prueba de clasificación y consiguió el 15º cajón de la grilla de largada, pero luego su compañero, Pierre Gasly, también con el modelo A526 de Alpine, consiguió el 7º puesto y quedó como “el mejor del resto”, o sea, el piloto mejor ubicado fuera de los que componen los tres equipos más poderosos del presente: Mercedes, McLaren y Ferrari. El Gran Premio de Japón de Fórmula 1 tendrá su partida a las 2 de la madrugada de este domingo para Argentina, y en la mejor posición de salida estará el italiano Kimi Antonelli, que viene de imponerse en la carrera principal de China. Inmediatamente detrás estará su compañero, George Russell, y después se alternarán los McLaren y los Ferrari: Oscar Piastri, Charles Leclerc, Lando Norris y Lewis Hamilton. Y entonces, entre los “comunes”, aparecerá primero Gasly con su Alpine. El francés fue el único del “resto” que no quedó a más de un segundo de Antonelli. Viene de capturar una 6ª posición en Shanghái y evidencia que, en efecto, la escudería de Enstone está mejor que el año pasado. Para Colapinto, en cambio, ese progreso es pequeño por ahora. El 15º lugar del bonaerense supone haber superado a dos marcas que están muy rezagadas en desarrollo, Cadillac y Aston Martin, y a Williams, que padece el sobrepeso y otros defectos de su modelo FW48. Sus seis pilotos quedaron detrás del argentino, como también, inesperadamente, Oliver Bearman, que con un Haas venía impresionando como uno de los destacados de la incipiente temporada. LA Q1 FUE BUENA, LA Q2 NOS FALTÓ MUCHO, HAY QUE LABURAR PARA MAÑANA , el análisis de Franco Colapinto tras el P15 en la Qualy en Japón. 📺 #JapaneseGP | Toda la temporada de #F1 por #DisneyPlus Plan Premium pic.twitter.com/ivXoHP09Ht SportsCenter (@SC_ESPN) March 28, 2026 En la Q1, lo mejor de su parte, Colapinto superó por 157 milésimas (derrotó a Alexander Albon en su último paso por la meta) el límite de clasificación ",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-prueba-de-clasificacion-del-gran-premio-de-japon-en-vivo-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 08:26:44 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/ULY7AF7DGRE2FCOIJE5IFEZFLA.JPG?auth=4563d2048b5ff198163053f664210b5a30bae75f797bfc8c89c8e66b6b4a3aba&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "cc2a4a45aebc329f02e0",
+      "title": "A vueltas con la polémica pausa de hidratación antes del Mundial: \"Tres minutos lo rompen todo\"",
+      "summary": "Una pausa en el Brasil vs Francia.",
+      "link": "https://www.marca.com/futbol/mundial/2026/03/28/vueltas-polemica-pausa-hidratacion-mundial-tres-minutos-rompen.html",
+      "pubDate": "Sat, 28 Mar 2026 08:26:27 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c782562d040.jpeg"
+    },
+    {
+      "id": "0ea51c573a132e2e7c66",
+      "title": "Antonelli va muy en serio",
+      "summary": "Kimi Antonelli, celebrando su segunda pole del año en Japón.",
+      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/28/antonelli-segunda-pole-excusa-russell-sainz-16-alonso-21.html",
+      "pubDate": "Sat, 28 Mar 2026 08:23:25 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c7815f7bf8e.jpeg"
+    },
+    {
+      "id": "3e5e4ed910d61fae92d3",
+      "title": "Las claves de la psicología para evitar que un adulto mayor se pierda al salir de la casa",
+      "summary": "Durante 2024, España registró un total de 26.345 denuncias por desapariciones, según los datos del Centro Nacional de Personas Desaparecidas (CNDES). De esta cifra, el 36,7% corresponde a personas mayores de edad, con una incidencia superior en varones (58%). Expertos de la Sociedad Española de Psicología Especializada en Desapariciones (Seped) advierten que una parte significativa de estos casos involucra a individuos con deterioro cognitivo , quienes pueden abandonar su domicilio y perder la capacidad de regresar o gestionar su entorno de manera segura. El deterioro cognitivo se define como la pérdida progresiva e irreversible de funciones esenciales como la memoria, la atención, la orientación y la planificación. Isabel Bermejo Gómez, psicóloga de la Seped, señala que estas capacidades son vitales para la independencia cotidiana. Cuando se ven alteradas, especialmente en patologías como el Alzheimer, el riesgo de que la persona se desoriente fuera de casa aumenta considerablemente. Además de la enfermedad neurodegenerativa, factores sociales como la soledad y la falta de una red de apoyo familiar o profesional elevan la vulnerabilidad de este colectivo, facilitando situaciones de riesgo que derivan en denuncias de desaparición. La detección temprana de una persona desorientada requiere observar detenidamente el comportamiento y el entorno. Según la Seped y la Asociación Nacional de Agrupaciones de Voluntarios de Protección Civil (ANAV), existen indicadores claros de que una persona mayor puede estar perdida: Comportamiento errático: Caminar sin rumbo fijo, repetir recorridos o permanecer sentado en un mismo lugar con signos de desconcierto. Apariencia física: Vestimenta no acorde a las condiciones climáticas o mal colocada. Dificultades de interacción: Confusión al responder sobre su nombre o domicilio, repetición constante de frases y mirada fija o perdida. Estado emocional: Presencia de ansiedad, miedo, agitación o irritabilidad injustificada. Acciones inusuale",
+      "link": "https://www.lanacion.com.ar/lifestyle/las-claves-de-la-psicologia-para-evitar-que-un-adulto-mayor-se-pierda-al-salir-de-la-casa-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 08:20:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/Z3IIP24YUNH2TPQYGX3AXYNXAU.JPG?auth=a6e7a5e9fc83e045285e8f0346838768c23c490cbfec998ec7a9fb1126c5c505&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f9e563a1c07a0fef4d2a",
+      "title": "El ‘WhatsApp’ que rescató a Fermín",
+      "summary": "Fermín López",
+      "link": "https://www.marca.com/futbol/barcelona/2026/03/28/whatsapp-rescato-fermin.html",
+      "pubDate": "Sat, 28 Mar 2026 08:18:06 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/26/69c5196598dc3.jpeg"
+    },
+    {
+      "id": "378dd7df0f7a103456e9",
+      "title": "Muere James Tolkan, actor de 'Regreso al futuro' y 'Top Gun'",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/595798-morir-james-tolkan-actor-regreso-futuro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 28 Mar 2026 08:15:21 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "0819872f5ca1f71610c1",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Los hutíes de Yemen se suman a la guerra de Irán con el lanzamiento de un misil contra Israel",
+      "summary": "Residentes de un edificio de Tel Aviv recogen pertenencias para abandonarlo tras un ataque iraní este sábado.",
+      "link": "https://elpais.com/internacional/2026-03-28/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Sat, 28 Mar 2026 08:15:01 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/EAPJEGROTNIHTKSNCTOCXYHQVE.jpg?auth=a8caae3a380e41373e27554926f61dc2c9bebf5c6722234afa2183f5d21d7996"
+    },
+    {
+      "id": "2a011d96a421776ec302",
+      "title": "Doncic, contundente sobre el MVP: \"Ya no sé qué hacer\"",
+      "summary": "Doncic celebra una acción en el partido ante los Pistons.",
+      "link": "https://www.marca.com/baloncesto/nba/2026/03/28/doncic-sobre-mvp-cuanto-mejor-abajo-ratings.html",
+      "pubDate": "Sat, 28 Mar 2026 08:14:04 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6bebd2351d.jpeg"
+    },
+    {
+      "id": "b2ab123f263c690976fb",
+      "title": "El increíble legado de un agricultor estadounidense de 97 años que escribe desde 1941",
+      "summary": ".",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/03/28/97-anos-agricultor-estadounidense-guarda-tesoro-forma-diarios-comenzo-registrar-1941-escribia-lapiz.html",
+      "pubDate": "Sat, 28 Mar 2026 08:11:45 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6e7d2cd130.jpeg"
+    },
+    {
+      "id": "e77cd95c0267f073ac18",
+      "title": "\"Creo que son demonios\": Vance se sincera sobre su \"obsesión\" con los archivos de ovnis",
+      "summary": "Desde su perspectiva cristiana, sostuvo que hay \"muchas cosas extrañas ahí fuera\" difíciles de explicar.",
+      "link": "https://actualidad.rt.com/actualidad/595786-son-demonios-vance-revela-obsesion-documentos-ovnis?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 28 Mar 2026 08:11:39 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c77d9759bf5b6605544be3.jpeg"
+    },
+    {
+      "id": "078e1d33c229c2655b91",
+      "title": "Lo impensable: ¡Verstappen, eliminado por sus compañeros!",
+      "summary": "Verstappen, en Suzuka.",
+      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/28/impensable-verstappen-eliminado-q2-companeros.html",
+      "pubDate": "Sat, 28 Mar 2026 08:06:25 +0100",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c77c69e12e0.jpeg"
+    },
+    {
+      "id": "23854bf63d7f3a72776d",
+      "title": "Israel afirma haber atacado instalaciones nucleares iraníes",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/595797-israel-ataque-instalaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 28 Mar 2026 08:04:20 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c78f0159bf5b55a560864d.jpg"
+    },
+    {
+      "id": "261b6c4bcdc6557634f5",
+      "title": "Wikipedia no quiere artículos escritos por la IA",
+      "summary": "Wikipedia , aún con algunas lagunas , es desde hace mucho tiempo uno de los pilares del conocimiento abierto en Internet, una enciclopedia colaborativa que depende en gran medida del trabajo de miles de voluntarios repartidos por todo el mundo. En un momento en el que la inteligencia artificial generativa es capaz de producir textos completos en cuestión de segundos, el proyecto se enfrenta a un nuevo desafío : cómo integrar estas herramientas sin comprometer la fiabilidad y la calidad de la información que ofrece. Tras meses de debate interno, la comunidad editorial de la versión en inglés de Wikipedia ha decidido tomar una postura clara: el uso de modelos de lenguaje de gran tamaño (LLM) para generar o reescribir el contenido de los artículos queda prohibido . La nueva política establece que los textos enciclopédicos no pueden ser producidos directamente por sistemas de IA, una decisión que busca preservar el principio fundamental del proyecto: que la información publicada sea verificable, revisada y respaldada por fuentes fiables. Uno de los motivos principales detrás de esta decisión tiene que ver con las limitaciones actuales de los modelos de IA generativa. Aunque estas herramientas pueden producir textos coherentes y aparentemente bien estructurados, también son conocidas por generar errores factuales, citas inexistentes o interpretaciones incorrectas de las fuentes, un fenómeno conocido como alucinaciones . En una plataforma donde la precisión y la trazabilidad de la información son esenciales, ese tipo de fallos puede convertirse en un problema serio. Eso no significa, sin embargo, que la inteligencia artificial quede completamente fuera del proyecto. La nueva política contempla algunas excepciones , empezando por el uso de IA para edición básica de texto . Los editores pueden utilizar herramientas automáticas para mejorar el estilo o la redacción de textos que ellos mismos hayan escrito previamente, siempre que el contenido original sea humano y que cualqu",
+      "link": "https://www.muycomputer.com/2026/03/28/wikipedia-no-quiere-articulos-escritos-por-la-ia/",
+      "pubDate": "Sat, 28 Mar 2026 08:02:42 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Wikipedia-2.jpg",
+      "subcat": "mercado"
+    },
+    {
+      "id": "98bb4ac2adb4551c599a",
+      "title": "Windows lleva años engañándote cada vez que apagas tu PC",
+      "summary": "Existe una confusión bastante extendida entre dos acciones que parecen idénticas, pero no lo son: reiniciar el equipo y apagarlo . La mayoría de los usuarios las trata como sinónimos, y esa suposición tiene consecuencias en el rendimiento y la salud de tu ordenador . Durante años, apagar y reiniciar el equipo tenían un resultado prácticamente idéntico: el sistema operativo se cerraba por completo antes de volver a arrancar. La diferencia era sobre todo de conveniencia, no de funcionamiento. En Windows XP o Vista, ese proceso era lento, y arrancar desde cero podía llevar varios minutos . Con Windows 8, las cosas cambiaron radicalmente tras la implementación del Inicio Rápido, una función dedicada para combatir los arranques lentos. En lugar de cerrar todo el sistema al apagar, Windows guarda el estado del kernel en el disco y lo recupera en el siguiente encendido. Esta característica cambió por completo el apagado tradicional y a la fecha existen muchos usuarios que no saben que la tienen activada. El problema es que ese kernel hibernado puede cargar consigo errores acumulados . Los controladores de hardware, los procesos en segundo plano y los servicios del sistema generan basura con el uso continuo. Es por ello que muchos han optado por deshabilitar el Inicio Rápido y volver a los tiempos de antaño, cuando presionar un botón apagaba por completo tu ordenador . A continuación te decimos cómo volver al apagado tradicional y por qué es recomendable que lo hagas. Cuándo deberías apagar tu PC de verdad Un apagado completo, con el Inicio Rápido deshabilitado, acaba con el círculo vicioso. Los componentes se desenergizan del todo, los capacitores se descargan y el kernel arranca desde cero la próxima vez. También resuelve un problema habitual con las actualizaciones de Windows en donde muchos parches que parecen instalarse correctamente quedan en realidad a medias porque la sesión del kernel anterior interfiere con las operaciones de archivo pendientes. La forma más rápid",
+      "link": "https://hipertextual.com/tecnologia/apagar-pc-correctamente-inicio-rapido-windows/",
+      "pubDate": "Sat, 28 Mar 2026 08:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/laptop-windows-11-encendida.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "704af275fdca15e3bfed",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, sábado 28 de marzo",
+      "summary": "El secretario de Estado estadounidense, Marco Rubio, declaró que espera que Israel tome medidas contra el aumento de la violencia de los colonos contra los palestinos en Cisjordania. “Nos preocupa”, declaró a tras una reunión del G7 en París. “Creo que al Gobierno israelí también le preocupa y hará algo al respecto”, dijo. Estados Unidos espera mantener una reunión esta semana con Irán para poner fin a la guerra en Medio Oriente, dijo este viernes el enviado especial del presidente estadounidense Donald Trump, Steve Witkoff, reportó la agencia AFP. “Creemos que habrá reuniones esta semana, sin duda tenemos esa esperanza”, dijo Witkoff en un foro empresarial en Miami cuando se le preguntó sobre las negociaciones con Irán. “Tenemos sobre la mesa un plan de 15 puntos. Esperamos que los iraníes respondan. Eso podría resolverlo todo”, añadió. La nueva imagen muestra un F-16 Fighting Falcon de la Fuerza Aérea de Estados Unidos aterrizando en una base en Medio Oriente tras un vuelo de combate en apoyo de la Operación Furia Épica. A U.S. Air Force F-16 Fighting Falcon lands at a base in the Middle East after a combat flight in support of Operation Epic Fury. pic.twitter.com/5ygl0gO3q3 U.S. Central Command (@CENTCOM) March 27, 2026 El presidente de Estados Unidos, Donald Trump, insistió en que es necesario que la república islámica abra el estrecho de Ormuz al tránsito de petróleo para poder alcanzar un acuerdo de paz. Y en una aparente confusión, el mandatario estadounidense se refirió a ese paso como “el estrecho de Trump”, aunque después dijo que con él “no hay accidentes”. “Estamos negociando ahora, y sería fantástico si pudiéramos hacer algo, pero tienen que abrirlo”, sostuvo en un foro de inversiones FII Priority respaldado por Arabia Saudita en Miami. Y sumó: “Tienen que abrir el estrecho de Trump. Quiero decir, de Ormuz. Discúlpenme, lo siento mucho. Qué error tan terrible”. PARÍS.- Es considerado uno de los mayores teóricos de la ética y la justicia en la guerra . M",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-28-de-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/UK6KXORKG5EUHH46IVECBUQGBM.JPG?auth=427c8ab2b1f37eed03a5dad0d0c89d2c152f4278899722fa6bcdabe6af3e32ce&smart=true&width=5211&height=3474"
+    },
+    {
+      "id": "9aebe6ed1d21da70d74b",
+      "title": "Los altos precios ganaderos y las nuevas lluvias impulsan la siembra de pasturas",
+      "summary": "Claramente, en 2026 se desarrolla una muy buena campaña de siembra de pasturas. “Por el lado de la demanda, luego de un enero tranquilo como consecuencia de la sequía, febrero mostró un fuerte dinamismo en la venta de semilla forrajera, tendencia que se mantiene durante marzo. En ese contexto, registramos un incremento en el volumen de ventas de entre el 20% y el 30% según especies, en comparación con el mismo período del año anterior ”, compara Enrique Bayá Casal , titular de la semillería homónima. ¿Sorgo de más de 10.000 kilos?: una empresa explicó qué hacer para tener un superrinde Desde principios de año se observa una pujante demanda en verdeos de invierno -raigrás, centeno y avena- para recuperar rápido el potencial forrajero de los campos. “A partir de febrero se intensificó también la demanda por semilla de pasturas, especialmente de especies para lomas, con fuerte protagonismo de la alfalfa y cebadilla. También hubo un crecimiento significativo en la siembra de pasturas para bajos, con demanda firme de agropiro, festuca y lotus corniculatus ”, agrega el empresario. En tanto, hubo un comportamiento expectante de los productores en la compra de fertilizantes, cuyas cotizaciones se balancean como una hamaca al ritmo de las novedades de la guerra. Precios a tiro Por el lado de la oferta, comienza a evidenciarse cierta restricción de algunas especies. En particular, el lotus muestra señales de agotamiento, igual que el agropiro, cuya disponibilidad empieza a verse ajustada. En tanto, el pasto ovillo -que en gran parte se abastece mediante importaciones— también comienza a mostrar signos de escasez . En el caso de la alfalfa, aún se dispone de stock, aunque de mantenerse el ritmo actual de demanda podría registrarse algún cuello de botella hacia adelante. Por ahora hay suficiente disponibilidad de festuca como consecuencia de muy buena cosecha, aunque la demanda continúa firme. En general, los precios de las forrajeras se ubican aproximadamente un 10% por debajo",
+      "link": "https://www.lanacion.com.ar/economia/campo/ganaderia/los-altos-precios-ganaderos-y-las-nuevas-lluvias-impulsan-la-siembra-de-pasturas-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/E3PSJCCQDBEMFFVYNYKQ7N6M6M.jpg?auth=ff3c2daa863448cfae5820c5606c9d02bc3083c95daea150bb6cc48d7b41105e&smart=true&width=1079&height=719"
+    },
+    {
+      "id": "311962c4abee33a0c70d",
+      "title": "El warrant un instrumento estratégico para el sistema financiero y la agroindustria",
+      "summary": "El financiamiento es el motor que impulsa la actividad productiva de cualquier economía. Sin acceso a crédito oportuno y en condiciones razonables, tanto las empresas —particularmente las pequeñas y medianas— como los productores enfrentan limitaciones estructurales para invertir, crecer y competir. En ese contexto, el warrant se presenta como un instrumento de enorme potencial transformador : permite convertir activos (granos, ganado y prácticamente cualquier producto o bien identificable) en una garantía real líquida, abriendo las puertas del crédito a productores y empresas. “Vine a comprar”: la niña que sorprende por su habilidad para elegir vacas en los remates y ya piensa en tener su propio campo La operatoria de warrants está regida por la Ley N° 9.643, una norma centenaria que, en los últimos años, fue objeto de importantes modificaciones a través del DNU Nº 70/2023 y el Decreto Reglamentario Nº 640/2024, tiene por objetivo impulsar el crédito. El warrant es, en esencia, un título de crédito que se emite sobre mercadería depositada , otorgando a su tenedor un derecho sobre un activo tangible, identificable y valorizado que puede ejecutar en caso de incumplimiento y con consecuencias legales gravosas para quien pretenda eludir sus obligaciones. La incorporación de tecnología a esta operatoria permite de una manera eficiente, simple y eficaz una verificación remota recurrente de la mercadería generando un mecanismo de control cruzado que reduce la asimetría informativa. Ventajas frente a otras formas de garantía La primera ventaja del warrant radica en su carácter auto liquidable . La mercadería tiene un valor de mercado conocido y cotizable, especialmente en el caso de commodities agrícolas. La segunda es su flexibilidad temporal y fácil implementación , permitiendo al productor obtener financiamiento en el momento preciso en que lo necesita —típicamente durante la cosecha o la etapa de acopio— sin verse obligado a vender su producción a precios que podrían s",
+      "link": "https://www.lanacion.com.ar/economia/campo/el-warrant-un-instrumento-estrategico-para-el-sistema-financiero-y-la-agroindustria-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/CXKI6NOER5CZ7PA4EJQ2ZZS23Y.jpeg?auth=497ac80519e6b08c92cdb44c5b94794829cb0adb38c8ec1dfacafe8d2a76409a&smart=true&width=1600&height=1066"
+    },
+    {
+      "id": "853f832f1d2a054df2c7",
+      "title": "Chicago se mueve al ritmo de los fondos, con la volatilidad como escenario de fondo",
+      "summary": "Muchas veces hemos dicho que, en los mercados agrícolas y a la larga, siempre triunfan los “fundamentals”. Y que en el corto plazo y en el día a día, los que mandan son los “fondos”. Nos referimos a los fondos de inversión que acuden a los mercados de futuros con fines especulativos. Y Chicago no es la excepción. Bueno, eso es lo que estamos viviendo en los últimos tiempos: variaciones de precios importantes y violentas en pocas horas, en un contexto signado por la volatilidad. Y la guerra conlleva volatilidad. Lo cierto es que al compás de los que diga o haga Trump, las cotizaciones de Chicago, plaza de referencia para los commodities agrícolas, se van moviendo. Porque esa es la “tarea de los fondos”. Anticiparse a lo que vendrá y así satisfacer a sus inversores. En ese contexto, los precios de la soja que habían subido más de US$/t 50 desde principios de año (previsible en nuestra opinión) han recortado más de 20 al miércoles 25/3. Así las cosas, predecir lo que vendrá de ahora en más es muy complejo y casi ajeno a nuestras posibilidades. Si nos ajustamos a los “fundamentals”, podemos afirmar que los factores de mercado a monitorear a partir de ahora son: Trigo : La tremenda e inesperada supercosecha local nos obligó a poner “on sale” nuestro excedente, con un valor FOB que se ubicó durante tres largos meses (diciembre/febrero) con descuentos que se ubicaron 50 dólares por debajo del FOB Golfo (inusual) e incluso por debajo del trigo francés. Como consecuencia de ello, las colocaciones externas fueron récord (a países no previstos) y Brasil (nuestro principal cliente) se durmió . Hoy, el ajustado excedente exportable permite suponer que podría sobrevenir el famoso “Efecto Mercosur”. Es decir, el FOB argentino se ve favorecido frente a otros competidores por la ventaja de no temer que pagar el AEC (arancel externo, que representa casi 30 dólares por tonelada). Girasol : se cumplió nuestra convicción de que esta oleaginosa sería la “vedette” del 2026. El problema (u",
+      "link": "https://www.lanacion.com.ar/economia/campo/chicago-se-mueve-al-ritmo-de-los-fondos-con-la-volatilidad-como-escenario-de-fondo-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/JVDACKWJQRG2FH6DTFPT5LRL6Q.jpg?auth=768a635819cd7f8cec123630315bfacc43a74b360d5aa57bcf5200718e6e15dc&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "0b36081e448ad729361e",
+      "title": "Franco Colapinto apuesta a una buena largada en Japón: \"El ritmo en carrera es mejor que en qualy\"",
+      "summary": "El argentino avanzó a Q2, la meta después de un inicio complicado en los entrenamientos, y quedó 15°. Sin embargo, su compañero Pierre Gasly volvió a meterse en Q3 y largará séptimo con el otro Alpine. El oriundo de Pilar viene de sumar su primer punto con el equipo francés en China.",
+      "link": "https://www.clarin.com/deportes/franco-colapinto-apuesta-buena-largada-japon-ritmo-carrera-mejor-qualy_0_Tbw6695d95.html",
+      "pubDate": "Sat, 28 Mar 2026 07:46:07 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/28/npk1G68uH_1200x630__1.jpg"
+    },
+    {
+      "id": "f17e6bfb503f71c240ac",
+      "title": "Al menos 5 muertos y decenas de heridos tras ataque de EE.UU. e Israel contra zonas civiles en Irán",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/595792-personas-murieron-ataque-estadounidense-israeli-residencial-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 28 Mar 2026 07:45:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
       "id": "44f1da9dd200337be7e5",
       "title": "El mejor Juan Lebrón buscará revancha contra Coello y Tapia en Miami",
       "summary": "Juan Lebrón celebrando un punto.",
@@ -715,34 +943,135 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c775cdc38e8.jpeg"
     },
     {
+      "id": "69069c03929647eb0ccb",
+      "title": "La médica que ayudó a morir a su madre, enfrentó a la justicia y abrió el debate sobre la eutanasia en el mundo",
+      "summary": "Antes de que la eutanasia encontrara un lugar en las leyes, hubo un caso en los Países Bajos que puso el debate sobre la mesa: el de Geertruida Postma , una médica que ayudó a morir a su madre después de que esta le suplicara que lo hiciera. Así, lo que hasta ese momento parecía una discusión filosófica o moral se convirtió en un caso que llegó a los tribunales y obligó a la sociedad neerlandesa a enfrentarse a una pregunta incómoda: hasta dónde podía llegar la autonomía de una persona frente al sufrimiento y qué lugar debía ocupar la Medicina en esa decisión. Geertruida Ebeldina Postma, conocida como Truus Postma, era médica clínica. Su madre, Margina Grevelink, de 78 años, había sufrido una hemorragia cerebral (ACV) y arrastraba un deterioro severo: estaba parcialmente paralizada, era sorda, tenía dificultades para hablar y debían atarla a una silla para evitar caídas. En ese contexto, había expresado en varias ocasiones su deseo de morir, mientras la familia seguía de cerca el agravamiento de su estado. El 19 de octubre de 1971, Postma le administró una dosis letal de morfina en la residencia de ancianos donde estaba internada. Luego avisó a las autoridades del establecimiento. Aunque el director médico de la residencia le había prometido registrar la muerte como natural, finalmente dio aviso al forense. Lo que debía quedar en el ámbito privado terminó así en manos de la Justicia. El proceso judicial, realizado en Leeuwarden a comienzos de 1973, sacudió a la sociedad y tuvo repercusión internacional. Bajo la legislación vigente en ese entonces, si la justicia encontraba a Postma culpable podía castigarse con hasta 12 años de prisión. Más de 1700 vecinos de Noordwolde -en su mayoría pacientes de Postma y de su esposo, Andries, también médico- impulsaron una campaña de firmas en su apoyo. El llamado “caso Postma” quedó así como el primer gran antecedente judicial de la eutanasia en los Países Bajos. Finalmente, Postma fue condenada a una semana de prisión condicion",
+      "link": "https://www.lanacion.com.ar/lifestyle/la-medica-que-ayudo-a-morir-a-su-madre-enfrento-a-la-justicia-y-abrio-el-debate-sobre-la-eutanasia-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 07:29:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/5FRNMMEVUBBKTGY7WVVK6Z26WM.png?auth=a0a611762a3d17c9f715ee9e961e6299f7987e1f08e474cec4a05f800550b1c7&smart=true&width=1254&height=698",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "cea1ceb4feda6961d2fa",
+      "title": "Hijo de Maduro a RT sobre el caso de su padre: \"Es un juicio político\"",
+      "summary": "\"No hay nada que indique que Nicolás Maduro y Cilia Flores cometieron un delito o un crimen\", aseveró Nicolás Maduro Guerra.",
+      "link": "https://actualidad.rt.com/actualidad/595789-hijo-maduro-rt-caso-padre?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 28 Mar 2026 07:24:29 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c77ce0e9ff71532135f881.jpg"
+    },
+    {
+      "id": "a0261f7aa0140643c0ee",
+      "title": "Hutíes se unen a las represalias de Irán y golpean Israel con misiles balísticos",
+      "summary": "El grupo rebelde yemení prometió continuar su ofensiva hasta que \"cese la agresión contra todos los frentes de resistencia\".",
+      "link": "https://actualidad.rt.com/actualidad/595793-huties-unen-represalias-iran-golpean?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 28 Mar 2026 07:19:22 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c7862759bf5b7e0a0af68b.jpg"
+    },
+    {
+      "id": "ad00a03ce2fabb229187",
+      "title": "Telekino 2421: estos son los premios del sorteo de este domingo 29 de marzo",
+      "summary": "El sorteo n° 2421 del Telekino se lleva a cabo este domingo 29 de marzo. Para los 15 aciertos se ofrece un viaje a Río de Janeiro para dos personas, una casa estilo americana y un auto 0 km . En tanto, desde la Lotería de la Provincia de Buenos Aires informaron que un pozo estimado de $750 millones. Adicionalmente, con el número de cada cartón se sortearán cinco premios de $2.000.000 . El sorteo se transmite en vivo por Canal 9 en todo el país a partir de las 16.30 y a través del canal oficial de YouTube de Telekino . Cada cartón cuesta $2000. Qué es el Telekino El Telekino es un juego de azar poceado que pertenece a la provincia de Buenos Aires . Consiste en la extracción de 15 bolillas de 25 en un sorteo, que sirve para determinar a los ganadores de los premios en efectivo. Cuándo se creó en 1992, este pertenecía a La Caja Popular de Ahorros de la Provincia de Tucumán. Hasta 2021 fue organizado por el mismo organismo junto a la empresa Loterking. Sin embargo, en 2022 pasó al Instituto Provincial de Lotería y Casinos de la provincia de Buenos Aires , tras adquirir los derechos del juego. Cómo jugar al Telekino Para jugar al Telekino es preciso comprar el cartón del sorteo, que tiene en su parte media 15 números elegidos al azar entre el 1 y el 25. Esto debe hacerse en las agencias de lotería oficiales. El pozo máximo del juego se obtiene acertando el pleno de los números. En caso de que no existan coincidencias, el pozo queda vacante y se acumula para el sorteo siguiente. También hay premios en efectivo para quienes tengan hasta 11 coincidencias. A continuación, cada una de las modalidades de juego de Telekino : Telekino : cada cartón tiene impreso en la parte media 15 números elegidos al azar de un total de 25 números (del 1 al 25). De un bolillero con 25 bolillas se sortean semanalmente 15 bolillas. Si algún apostador tiene las 15 coincidencias en su cartón con las 15 bolillas extraídas en el acto del sorteo, es el ganador del pozo máximo. En caso de que no exist",
+      "link": "https://www.lanacion.com.ar/loterias/telekino-2421-estos-son-los-premios-del-sorteo-de-este-domingo-29-de-marzo-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 07:10:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/VV2LM6VOTRGCFGVBM2DUISJTNE.png?auth=e9ec717f7a076e01a11c56ee387f13195c71bcc6c5334653895cdc90319f3519&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "825b8ebc009c3e43edf6",
+      "title": "Así fue la explosión y el incendio en un local gastronómico de Entre Ríos que dejó tres heridos graves",
+      "summary": "El episodio ocurrió durante la noche del viernes en Villaguay y provocó un amplio operativo de emergencia en una zona céntrica de la ciudad. El estallido sorprendió a un grupo de vecinos que se acercó a la zona para conocer qué estaba sucediendo. Intentan determinar el origen del fuego.",
+      "link": "https://www.clarin.com/sociedad/explosion-incendio-local-gastronomico-rios-dejo-heridos-graves_0_v5pz67Kbfz.html",
+      "pubDate": "Sat, 28 Mar 2026 07:05:36 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/28/lcRoKhrJB_1200x630__1.jpg"
+    },
+    {
+      "id": "05e71873ed8b461b9f75",
+      "title": "Apple TV ficha a dos estrellas de Marvel para su nueva serie",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Apple TV sigue empeñada en demostrar que lo suyo con la ciencia ficción no era una racha pasajera. Cuando parecía que ya tenía bastante con sus series potentes, ahora va y pone en marcha un nuevo thriller sci-fi con pinta de querer liarla fuerte . Y ojo, porque no llega solo: también se ha llevado a dos rostros muy reconocibles del universo Marvel. Sí, Apple TV ha reunido a Vanessa Kirby y Yahya Abdul-Mateen II para protagonizar Liminal , una nueva producción de acción, ciencia ficción y tensión psicológica que ya empieza a oler a proyecto serio. Si te gustan las historias con poderes, caos social y gente intentando sobrevivir mientras todo se va al demonio, aquí hay material. Apple TV apuesta fuerte por la ciencia ficción con Liminal Durante los últimos años, Apple TV ha ido construyendo un catálogo bastante curioso. Empezó con paso elegante, luego se metió de lleno en la ciencia ficción premium y ahora ya parece que ha decidido quedarse a vivir ahí. Series como Silo, Severance, Pluribus o Foundation han dejado claro que la plataforma sabe jugar en ese terreno. Ahora suma otra pieza a esa colección con Liminal, una nueva serie que estará dirigida por Louis Leterrier , cineasta al que seguro ubicas por Fast X , Ahora me ves o The Incredible Hulk . Vamos, que cuando le dan una historia con ritmo y caos, suele saber exactamente qué hacer con ella. Pero lo que más ruido está generando no es solo el director, sino la pareja protagonista. Porque Apple TV ha fichado a Vanessa Kirby , que es Sue Storm / Mujer Invisible en Los Cuatero Fantásticos: Primeros pasos, y a Yahya Abdul-Mateen II , que interpreta a Wonder Man de Disney+ . Y sí, será la primera vez que compartan pantalla. No está nada mal como carta de presentación. Vanessa Kirby y Yahya Abdul-Mateen II Liminal adapta un cómic con una premisa bastante salvaje Aquí viene lo interesante de verdad. Porque Liminal no nace de la nada ni es otra historia genéri",
+      "link": "https://www.cinemascomics.com/apple-tv-ficha-dos-estrellas-marvel-serie/",
+      "pubDate": "Sat, 28 Mar 2026 07:01:39 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/apple-tv-logo.jpg"
+    },
+    {
+      "id": "3b96aad45a9f9c238690",
+      "title": "Dólar blue hoy: a cuánto cotiza este sábado 28 de marzo",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-28-marzo_0_vxnIO6Fv5b.html",
+      "pubDate": "Sat, 28 Mar 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/05/12/K71HaG3_h_1200x630__1.jpg"
+    },
+    {
+      "id": "bca99b0d54cf5f23bdee",
+      "title": "Adiós a las diapositivas aburridas: cómo diseñar presentaciones impactantes con Canva",
+      "summary": "Canva es una de las aplicaciones más descargadas de internet. En ordenadores y en dispositivos móviles. Y también es una herramienta de referencia si hablamos de diseño para todos los públicos . En cuestión de minutos puedes editar y retocar una fotografía , crear un logotipo , una infografía , un diagrama o una presentación , preparar tus contenidos para publicarlos en redes sociales y, por si fuera poco, también permite editar video . En este artículo vamos a centrarnos en la tarea de crear presentaciones con Canva . Una de las más solicitadas. Una tarea que, a priori, te será muy fácil de cumplir. Pero si quieres ir más allá de una presentación al uso, te conviene aplicarte un poco más. Las presentaciones llevan entre nosotros varias décadas. Como el correo electrónico o el formato PDF. La presentación es uno de los formatos más habituales cuando hay que comunicar ideas de forma estructurada y atractiva visualmente . Ante un público o audiencia a la que hay que impresionar y persuadir . Y, hoy en día, las presentaciones pueden ser presenciales o digitales. En directo o grabadas. Y, a lo largo de tu vida, es inevitable que hayas hecho o tengas que hacer varias presentaciones. Como alumno y como profesor, en el colegio, instituto o universidad; en talleres y formaciones; en reuniones de trabajo, para convencer a tus jefes, compañeros o a tus clientes; en bodas y eventos familiares; como currículum o, incluso, como propuesta creativa para fotógrafos, artistas o diseñadores. La lista es interminable. Las presentaciones son un formato que también tiene mucho éxito en internet. Los webinars o seminarios online se basan en este tipo de comunicación. También los cursos y talleres online , que puedes encontrar en YouTube y en plataformas de formación para adultos. Incluso en redes sociales abundan los carruseles de diapositivas o vídeos en formato presentación. Las encontrarás en YouTube, Instagram, LinkedIn e incluso TikTok . Así que la competencia es dura . Crear presen",
+      "link": "https://hipertextual.com/guias/trucos-consejos-presentaciones-con-canva/",
+      "pubDate": "Sat, 28 Mar 2026 07:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Canva-Portatil-Presentaciones.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "68d6eace930a0b808574",
+      "title": "Efemérides del 28 de marzo: ¿qué pasó un día como hoy?",
+      "summary": "Las efemérides del 28 de marzo reúnen diferentes eventos que pasaron un día como hoy, y uno de ellos es que la actriz y cantante Lady Gaga cumple años. Nacida como Stefani Germanotta, la artista de la ciudad de Nueva York grabó algunos de los discos más influyentes en la escena pop de los 2010, como su debut de 2008, The Fame ; el EP siguiente, The Fame Monster y Born This Way , de 2011. Estos proyectos sentaron su prestigio y prepararon su tercer álbum, Artpop (2013), que debutó en el número uno estadounidense. El reconocimiento que le prodigan otros artistas se expresó en producciones como Cheek to Cheek , que grabó en dueto con Tony Benett. En 2016 editó su quinto LP, Joanne, y en 2020 lanzó Chromatica es. Este año sacó su última entrega en su discografía solista : MAYHEM . En su carrera, obtuvo 14 premios Grammy . Shallow, banda de sonido original de Nace una estrella (2018) - Fuente: YouTube También se destacó como actriz en la quinta temporada d e American Horror Story: Hotel , donde interpretó a la Condesa ―una vampiro que vivía en un hotel embrujado―, rol que le dio su primer Golden Globe. En el cine, debutó con el papel de Ally en la versión de 2018 de la película A star is born , de la mano de Bradley Cooper . Por este film obtuvo un premio Óscar a Mejor Canción Original por “Shallow”, así como una nominación a Mejor Actriz. A su vez, participó de otros largometrajes, como La casa Gucci (2021) y Guasón 2: Folie à Deux (2024). Efemérides del 28 de marzo: ¿qué pasó un día como hoy? 1936 – Nace Mario Vargas Llosa , escritor peruano ganador del Premio Nobel de Literatura. 1939 – Madrid se rinde a las tropas nacionalistas, y pone así fin a la república y a la guerra civil española. 1941 – Muere la escritora británica Virginia Woolf. 1963 – Se estrena la película Los Pájaros , de Alfred Hitchcock. 1969 – Muere Dwight Eisenhower, militar y expresidente de Estados Unidos. 1973 - La banda inglesa Led Zeppelin edita su quinto disco, Houses of the Holy. 1986 – Nace L",
+      "link": "https://www.lanacion.com.ar/lifestyle/efemerides-del-28-de-marzo-que-paso-un-dia-como-hoy-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 06:58:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/4Y36FMTSLJDZFCRU2BILW6IOZI.png?auth=87a6f7a8754de1b3841013dd417b97ceacf8421091f8950618eb94f24948fbf6&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "aeb20d3b56844b4a98c8",
+      "title": "Día 29 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente entra este sábado 28 de marzo en su 29° día de guerra , en un contexto de constantes tensiones. Una operación de Irán a una base en Arabia Saudita hirió a soldado de Estados Unidos, mientras que el ejército israelí anunció ataques a “gran escala” sobre Teherán. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Un ataque con misiles de Irán a una base en Arabia Saudita dañó aviones e hirió soldados de EE.UU. La ironía del presidente estadounidense en la cumbre FII Priority Summit: “El estrecho de Trump ”. El presidente advirtió que Irán debe reabrir el estrecho de Ormuz para alcanzar un acuerdo . Se espera que el portaaviones USS George H.W. se despliegue a un área cerca de la guerra con Irán. Trump dice que “ Cuba es la siguiente ”. Wall Street cierra a la baja preocupada por efectos de la guerra en Oriente Medio. Estados Unidos espera que Israel tome medidas contra la violencia de los colonos. Otros hechos de importancia Trump evalúa enviar tropas a Irán, según informa The Wall Street Journal. El ejército israelí dice que llevó a cabo ataques a “gran escala” sobre Teherán. A pesar de la propuesta de EE.UU, ni Israel ni Irán confirmaron que se haya abierto un canal de diálogo entre las partes. Trump extiende al 6 de abril el plazo para que Irán reabra el estrecho de Ormuz. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos terminado",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-29-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 06:56:19 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/LXXZPVGUC5CTFHVJQ23H5CO2RY.jpg?auth=1760deed4387914d8508f57eab120d65cfa173dbf8f1832837476f0972d013f0&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "776853e78e6520098232",
+      "title": "Cuál es el pozo del Quini 6 para el sorteo de este domingo 29 de marzo",
+      "summary": "Este domingo 29 de marzo se realiza un nuevo sorteo del Quini 6 , y en esta oportunidad el pozo estimado llega a los $6750 millones. Se trata de un juego de azar que tiene uno de los pozos más grandes del país. Se sortea este miércoles a las 21.15 en la sede de Lotería de la provincia de Santa Fe. La transmisión se puede seguir en vivo por RTS Santa Fe, IP Noticias, Telefe Santa Fe, Canal 9 (Paraná) y por streaming en la cuenta de YouTube oficial. ¿Qué es el Quini 6? Es un juego poceado , es decir, que el monto que se ofrece en premios (pozo) es variable y corresponde a un porcentaje de lo recaudado. Pertenece a la Caja de Asistencia Social de Santa Fe y se desarrolla desde 1988. ¿Cómo jugar al Quini 6? El Quini 6 es un juego de azar en el que el apostador elige 6 números entre el 00 y el 45 para ganar un premio establecido mediante un pozo. Las apuestas se toman en la agencia de lotería más cercana, donde el agenciero cargará los números del jugador y le dará un ticket que acredite el juego. Aunque el objetivo máximo del juego es acertar los 6 números, los que acierten cinco de seis tendrán el segundo premio y quienes adivinen cuatro de seis, el tercero. El Quini 6 propone tres variantes: Tradicional Revancha Siempre sale Para jugar a la Revancha y al Siempre Sale es necesario haber participado del sorteo Tradicional . Los montos de las apuestas varían según el juego y están sujetos a actualizaciones por parte de los organizadores. ¿Cuál fue el mayor premio en la historia del Quini 6? Al ser un juego cuyo premio depende de la recaudación, los montos que los miles de ganadores del Quini 6 a lo largo de la historia se llevaron a sus casas variaron. El récord máximo sigue fresco: en julio de 2021, un cordobés de Villa María retiró de la agencia $362.830.402. El afortunado ganador, cuya identidad no se hizo pública por motivos de seguridad, había acertado los 6 números, que fueron el 05, 19, 11, 41, 16-25. ¿Cuándo se sortea el Quini 6? Los sorteos se realizan los miérc",
+      "link": "https://www.lanacion.com.ar/loterias/cual-es-el-pozo-del-quini-6-para-el-sorteo-de-este-domingo-29-de-marzo-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 06:55:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/RUKHLBLVKFBUXOYZNERBZG2RWQ.png?auth=9dfb18761586349196030b7ee0b5b1f65f38ddc22c877bb901ed9664e5990ac0&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "6140309d5e6bc3792867",
+      "title": "El alimento prohibido en la dieta de Pedri antes del Mundial 2026: “Es complicado resistirme”",
+      "summary": "A falta de pocos meses para el Mundial 2026 , los futbolistas ya se preparan con entrenamientos personalizados y otros métodos, y uno de los que más sufre esta etapa es Pedri . El mediocampista español lleva adelante una dieta que incluye ayuno intermitente para llegar en su mejor ritmo a la competencia entre selecciones. Según sus palabras, lo que más le cuesta es evitar las croquetas de jamón que cocina su madre , prohibidas por los especialistas en su plan de alimentación. La dieta que hace Pedri antes del Mundial 2026 con un alimento prohibido Durante el último año, a sabiendas de que 2026 llegaba con el Mundial de Estados Unidos, México y Canadá, los profesionales comenzaron a prepararse de distintas maneras. Mientras algunos optimizan sus métodos de entrenamiento, Pedri implementó un estricto plan de alimentación a mediados de 2025. En principio, por consejo de su compañero de selección, Ferrán Torres, empezó a hacer ayuno intermitente. “Me animó a que lo probara y la verdad es que me siento mucho mejor desde entonces. Hago dos comidas al día, el almuerzo y la cena . A excepción de los días de partido, que nos metemos un buen desayuno“, relató, en una sesión de Fútbol Fiesta, un evento que organizó Decathlon en Barcelona. La estrategia del ayuno intermitente, si bien es difícil de aplicar, no le supuso un gran desafío al futbolista de España . En su lugar, el obstáculo más complicado fue evitar un alimento que siempre disfrutó en su hogar. \" Me resulta muy complicado resistirme a las croquetas de jamón que hace mi madre “, remarcó, citado por El Mundo . En ese sentido, agregó que solo las prueba “en alguna ocasión después de un partido”. Para concluir sus palabras al respecto, sentenció: “ ¡Ya tendré tiempo de comer todas las que quiera cuando me retire! “. Según la tienda en línea de alimentos Gastronomic Spain , las croquetas españolas se cocinan con salsa bechamel, que se elabora a partir de una grasa, como la mantequilla o el aceite, harina de trigo y lech",
+      "link": "https://www.lanacion.com.ar/estados-unidos/famosos/el-alimento-prohibido-en-la-dieta-de-pedri-antes-del-mundial-2026-es-complicado-resistirme-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 06:52:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/NRH3YUEZ3VEBJA6WJZ3R6JNBJU.jpg?auth=530abe23ac8291cdad4ea79f32e86c542a636e3d6411e590374e68383a3d5e76&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "fa636f2f0c59a2e5a406",
-      "title": "Drones golpean el puerto clave de Omán",
-      "summary": "",
+      "title": "VIDEO: Drones golpean el puerto clave de Omán",
+      "summary": "Un trabajador resultó herido, mientras se reportan daños en infraestructura portuaria, según una fuente de seguridad.",
       "link": "https://actualidad.rt.com/actualidad/595790-drones-golpear-puerto-clave-oman?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "pubDate": "Sat, 28 Mar 2026 06:47:14 +0000",
       "source": "RT en Español",
       "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
-    },
-    {
-      "id": "a9a39646af0b5feca546",
-      "title": "Franco Colapinto en la prueba de clasificación del Gran Premio de Japón, en vivo",
-      "summary": "Franco Colapinto progresa en Suzuka y gana otro puesto en la Q2, pero no la supera: con 1m30s627/1000, lo mejor suyo en el fin de semana de su estreno absoluto en Suzuka, el argentino llega a dejar atrás a Carlos Sainz y queda 15º. En ese puesto partirá en la carrera de este domingo. Se desarrolla la Q2, la segunda etapa de la qualy, que va clasificar a diez pilotos para la Q3 y a marginar a quienes largarán entre 11º y 16º este domingo. Tras su primera intervención, Franco Colapinto marcha 14º, a 1s243/1000 de la vanguardia, que ostenta Oscar Piastri, y a 514/1000 del 10º puesto, el último de avance a la parte final. Pierre Gasly está instalado 8º, a 671/1000 del australiano de McLaren. En el segmento inaugural de la prueba de clasificación dominó Charles Leclerc, con Ferrari, escoltado por los Mercedes, de George Russell y Kimi Antonelli. Siguieron rindiendo bien los Audi, de Nico Hülkenberg y Gabriel Bortoleto, y se ubicó bien Pierre Gasly, 10º con el otro Alpine. Resultaron eliminados Alexander Albon (Williams), Oliver Bearman (Haas), Sergio Pérez (Cadillac), Valtteri Bottas (Cadillac), Fernando Alonso (Aston Martin) y Lance Stroll (Aston Martin). La marginación de Bearman es sorpresiva. Q1 CLASSIFICATION Leclerc on top, Bearman the surprise elimination 👇 #F1 #JapaneseGP pic.twitter.com/sjVQ232wn6 Formula 1 (@F1) March 28, 2026 Presionado por las mejores de los Williams, que lo superaron en sus tentativas finales, Franco Colapinto da un salto en su último giro lanzado y alcanza la primera meta de la qualy: mejora medio segundo, supera a Alex Albon y se ubica 16º, en el último lugar de acceso a la Q2. El objetivo mínimo está cumplido por el argentino. Habiendo dos minutos remanentes del primer tramo de la prueba de clasificación, Franco Colapinto se mantiene 16º, con apenas 52 milésimas de diferencia sobre Alex Albon. El tailandés de Williams es por ahora el primero de los seis eliminados, pero se espera que mejore en su último giro. También debe hacerlo el pilot",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-prueba-de-clasificacion-del-gran-premio-de-japon-en-vivo-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 06:45:47 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/ULY7AF7DGRE2FCOIJE5IFEZFLA.JPG?auth=4563d2048b5ff198163053f664210b5a30bae75f797bfc8c89c8e66b6b4a3aba&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "704af275fdca15e3bfed",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, sábado 28 de marzo",
-      "summary": "Estados Unidos espera mantener una reunión esta semana con Irán para poner fin a la guerra en Medio Oriente, dijo este viernes el enviado especial del presidente estadounidense Donald Trump, Steve Witkoff, reportó la agencia AFP. “Creemos que habrá reuniones esta semana, sin duda tenemos esa esperanza”, dijo Witkoff en un foro empresarial en Miami cuando se le preguntó sobre las negociaciones con Irán. “Tenemos sobre la mesa un plan de 15 puntos. Esperamos que los iraníes respondan. Eso podría resolverlo todo”, añadió. La nueva imagen muestra un F-16 Fighting Falcon de la Fuerza Aérea de Estados Unidos aterrizando en una base en Medio Oriente tras un vuelo de combate en apoyo de la Operación Furia Épica. A U.S. Air Force F-16 Fighting Falcon lands at a base in the Middle East after a combat flight in support of Operation Epic Fury. pic.twitter.com/5ygl0gO3q3 U.S. Central Command (@CENTCOM) March 27, 2026 El presidente de Estados Unidos, Donald Trump, insistió en que es necesario que la república islámica abra el estrecho de Ormuz al tránsito de petróleo para poder alcanzar un acuerdo de paz. Y en una aparente confusión, el mandatario estadounidense se refirió a ese paso como “el estrecho de Trump”, aunque después dijo que con él “no hay accidentes”. “Estamos negociando ahora, y sería fantástico si pudiéramos hacer algo, pero tienen que abrirlo”, sostuvo en un foro de inversiones FII Priority respaldado por Arabia Saudita en Miami. Y sumó: “Tienen que abrir el estrecho de Trump. Quiero decir, de Ormuz. Discúlpenme, lo siento mucho. Qué error tan terrible”. PARÍS.- Es considerado uno de los mayores teóricos de la ética y la justicia en la guerra . Michael Walzer , filósofo estadounidense, teórico de la sociedad, ha trabajado mucho también en áreas como política, democracia y equidad. Leé la nota completa acá DUBÁI.– A un mes del inicio de la guerra con Irán, Estados Unidos e Israel se enfrentan a un adversario que combate más como una insurgencia que como un Estado , ",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-28-de-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 06:45:22 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/UK6KXORKG5EUHH46IVECBUQGBM.JPG?auth=427c8ab2b1f37eed03a5dad0d0c89d2c152f4278899722fa6bcdabe6af3e32ce&smart=true&width=5211&height=3474"
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c77f4059bf5b6605544be6.jpg"
     },
     {
       "id": "d4878e21b53f7efe1022",
@@ -795,16 +1124,6 @@
       "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c75ccf59bf5b3f6e049ee9.jpg"
     },
     {
-      "id": "214db0d0297a2be305c7",
-      "title": "Cae Sainz... ¡y Verstappen tampoco pasa a la Q3!",
-      "summary": "SUZUKA (Japan), 27/03/2026.- Williams driver Carlos Sainz Jr. of Spain in action during the first practice session of the Formula 1 Japanese Grand Prix at the Suzuka International Racing Course racetrack in Suzuka, Japan, 27 March 2026. The 2026 Formula 1 Japanese Grand Prix is held on 29 March. (Fórmula Uno, Japón, España) EFE/EPA/FRANCK ROBICHON",
-      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/28/05-0501-20260328-3-19.html",
-      "pubDate": "Sat, 28 Mar 2026 06:22:25 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c773cc6db5b.jpeg"
-    },
-    {
       "id": "b2a83f56d1639cc08544",
       "title": "Todos aportan a la agenda de la corrupción",
       "summary": "En las últimas semanas, la corrupción pasó a ser el tema central de la agenda mediática y la conversación pública local. Así como, en el orden internacional, la guerra en Medio Oriente desplazó del foco de atención al indefinible limbo venezolano y a la invasión rusa a Ucrania, aquí el caso Adorni les dio cierto respiro a los que venían transpirando por las revelaciones que se han sumado últimamente en los casos Libra, Andis y AFA. Aunque, como los detalles comprometedores de estos escándalos no dejan de salir a la luz, las páginas de los diarios y las pantallas de los canales de noticias pasan de un caso al otro, sin solución de continuidad y no siempre hundiendo el cuchillo en los hechos con la misma imparcialidad. Tanto chanchullo junto nos recuerda el país en el que vivimos, donde el curro es deporte nacional, desde la tímida mordida hasta el saqueo brutal , y donde las causas judiciales que deberían contener la afición del poder por el dinero público y los privilegios producen mucho ruido y pocas condenas. Condenada en una de estas excepciones, precisamente, la expresidenta suma también su aporte a este festival del escándalo, en el que hay para todos los gustos y en el que pocos se salvan. Quien sudó la gota gorda esta semana es el jefe de Gabinete, Manuel Adorni . Ha sido tan duro y enfático con aquellos que aprovechan al Estado en su propio beneficio que ahora la gravedad de los meneados vuelos y de las propiedades no declaradas se vio multiplicada por una ley natural: al que pontifica desde el púlpito no se le perdona el más mínimo pecado venial. La ley del karma también le jugó en contra : maltrata a los demás y serás maltratado. El exvocero presidencial suele dirigirse a periodistas y opositores, en ruedas de prensa y en las redes, con una soberbia que sabe a desprecio. La certeza libertaria de ser dueños de la única verdad posible, que tanto daño le hace al mismo gobierno. La palabra “fin” con la que cierra sus tuits, que da por cerrada unilateralmente l",
@@ -846,6 +1165,16 @@
       "subcat": "diseño"
     },
     {
+      "id": "ef3404f386d299266fe6",
+      "title": "Qué se sabe… La brillante noche de Anne Hathaway, el gran momento de Camila Morrone y la cita más amorosa de Miley Cyrus",
+      "summary": "VELADA BRILLANTE Milán volvió a reafirmarse como capital indiscutida del lujo y la creatividad con la presentación de Eclettica, la nueva colección de Alta Joyería y High‑End Watches de Bvlgari. En una velada marcada por la sofisticación italiana y una puesta en escena espectacular, la casa romana reunió a sus embajadoras y sus amigas más ilustres en Villa Arconati, conocida como la “pequeña Versalles de Milán”, entre jardines majestuosos y salones cargados de historia. Priyanka Chopra Jonas , Anne Hathaway y Dua Lipa se convirtieron en las protagonistas absolutas, cada una encarnando –a su manera– el espíritu de la nueva colección. El evento comenzó con una comida de gala privada, especialmente concebida por la reconocida chef con estrella Michelin Viviana Varese, y continuó con un impactante show‑performance. Fue una experiencia inmersiva en la que las modelos vestidas con diseños exclusivos del creador italiano Francesco Murano se desplazaron como estatuas vivientes, adornadas con las piezas de alta joyería, mientras músicos en vivo, bailarines y proyecciones digitales envolvían el espacio. CON ENCANTO ARGENTINO Camila Morrone sigue consolidando un lugar en la meca del cine y su reciente visita a The Tonight Show Starring Jimmy Fallon fue una prueba elocuente de este gran momento profesional. Invitada al emblemático late night show neoyorquino, la actriz desplegó simpatía, frescura y una naturalidad que conquistó a todos. La hija de la argentina Lucila Polack llegó al estudio para presentar su nuevo proyecto, la miniserie de suspenso psicológico Something Very Bad Is Going to Happen , de Netflix. La producción la tiene como una de sus grandes protagonistas y marca un giro en su carrera hacia papeles más oscuros y complejos. Durante la entrevista, Camila compartió una divertida anécdota que desató risas: recordó cómo, tras su reconocimiento por la serie Daisy Jones The Six, fue confundida en el aeropuerto de Los Ángeles con Anne Hathaway. “Pensé: ‘lo logré, ya soy",
+      "link": "https://www.lanacion.com.ar/revista-hola/que-se-sabe-la-brillante-noche-de-anne-hathaway-el-gran-momento-de-camila-morrone-y-la-cita-mas-nid28032026/",
+      "pubDate": "Sat, 28 Mar 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/6GIL2YWL3FHD7J5GB4WZWTSAJU.jpg?auth=ff52dfe19c03fa89524c42cde2369c3997a24aafb30062a267a565a6f7469a6c&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "65f1bb3439346721d08f",
       "title": "A 100 años de su nacimiento. Quiénes son las herederas de la inolvidable duquesa de Alba",
       "summary": "De todas las propiedades que componían su fabuloso patrimonio, el Palacio Las Dueñas era la casa favorita de Cayetana Fitz-James Stuart y de Silva, la duquesa de Alba . Allí pasó parte de su infancia durante la guerra civil española, hizo su “puesta de largo” (su presentación en sociedad, a los 17), celebró su boda con su primer marido, Luis Martínez de Irujo, y murió el 20 de noviembre de 2014, a los 88 años. También es en ese palacio de Sevilla, una espectacular construcción del siglo XV, donde el 4 de marzo se inauguró, con la presencia de Felipe VI, la exposición “Cayetana. Grande de España”, un homenaje a la noble española en el centenario de su nacimiento. El Rey fue recibido en Las Dueñas por el actual duque de Alba y mayor de los seis hijos de Cayetana, Carlos Martínez de Irujo, acompañado por cuatro de sus hermanos, Alfonso, Jacobo, Cayetano y Eugenia, la orgullosa curadora de la muestra que reúne doscientas piezas entre obras de arte, trajes, cartas, fotografías, mobiliario y autos de su madre. Del comité de bienvenida al monarca también participaron algunos de los nietos de la duquesa y su viudo, Alfonso Díez, el hombre con quien ella compartió sus últimos días. HEREDERAS DE UNA MUJER ÚNICA Cayetana era una mujer culta y divertida. A pesar de que era la persona con más títulos nobiliarios del mundo (más que los de cualquier rey o reina: cinco veces duquesa, dieciocho veces marquesa, veinte veces condesa, vizcondesa, condesa duquesa y condestablesa y, además, catorce veces grande de España, la mayor dignidad nobiliaria que se puede tener en ese país), podía vérsela disfrutando de las fiestas con amigos, bailando flamenco con solero y paseando por la playa en bikini, con más de 80 años de edad. Dejó su huella en la Casa de Alba (durante su ducado incrementó su patrimonio) y hoy son otras mujeres de la familia quienes trabajan para mantener vivo su legado. La primera de ellas, su hija Eugenia, quien se convirtió en una figura central de los Fitz-James Stuart",
@@ -864,16 +1193,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/UK4XCHAG5FH5FKCWSC7BRQLVFI.jpg?auth=27ddbe7308eabc57755636efeed0c14a13291c3bf85fc9376b2716d7880e2752&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ef3404f386d299266fe6",
-      "title": "Qué se sabe… La brillante noche de Anne Hathaway, el gran momento de Camila Morrone y la cita más amorosa de Miley Cyrus",
-      "summary": "VELADA BRILLANTE Milán volvió a reafirmarse como capital indiscutida del lujo y la creatividad con la presentación de Eclettica, la nueva colección de Alta Joyería y High‑End Watches de Bvlgari. En una velada marcada por la sofisticación italiana y una puesta en escena espectacular, la casa romana reunió a sus embajadoras y sus amigas más ilustres en Villa Arconati, conocida como la “pequeña Versalles de Milán”, entre jardines majestuosos y salones cargados de historia. Priyanka Chopra Jonas , Anne Hathaway y Dua Lipa se convirtieron en las protagonistas absolutas, cada una encarnando –a su manera– el espíritu de la nueva colección. El evento comenzó con una comida de gala privada, especialmente concebida por la reconocida chef con estrella Michelin Viviana Varese, y continuó con un impactante show‑performance. Fue una experiencia inmersiva en la que las modelos vestidas con diseños exclusivos del creador italiano Francesco Murano se desplazaron como estatuas vivientes, adornadas con las piezas de alta joyería, mientras músicos en vivo, bailarines y proyecciones digitales envolvían el espacio. CON ENCANTO ARGENTINO Camila Morrone sigue consolidando un lugar en la meca del cine y su reciente visita a The Tonight Show Starring Jimmy Fallon fue una prueba elocuente de este gran momento profesional. Invitada al emblemático late night show neoyorquino, la actriz desplegó simpatía, frescura y una naturalidad que conquistó a todos. La hija de la argentina Lucila Polack llegó al estudio para presentar su nuevo proyecto, la miniserie de suspenso psicológico Something Very Bad Is Going to Happen , de Netflix. La producción la tiene como una de sus grandes protagonistas y marca un giro en su carrera hacia papeles más oscuros y complejos. Durante la entrevista, Camila compartió una divertida anécdota que desató risas: recordó cómo, tras su reconocimiento por la serie Daisy Jones The Six, fue confundida en el aeropuerto de Los Ángeles con Anne Hathaway. “Pensé: ‘lo logré, ya soy",
-      "link": "https://www.lanacion.com.ar/revista-hola/que-se-sabe-la-brillante-noche-de-anne-hathaway-el-gran-momento-de-camila-morrone-y-la-cita-mas-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/6GIL2YWL3FHD7J5GB4WZWTSAJU.jpg?auth=ff52dfe19c03fa89524c42cde2369c3997a24aafb30062a267a565a6f7469a6c&smart=true&width=2000&height=1333"
     },
     {
       "id": "a625c51c1353bcf3b426",
@@ -937,31 +1256,11 @@
       "subcat": "herramientas"
     },
     {
-      "id": "aeb20d3b56844b4a98c8",
-      "title": "Día 29 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
-      "summary": "El conflicto en Medio Oriente entra este sábado 28 de marzo en su 29° día de guerra , en un contexto de constantes tensiones. Una operación de Irán a una base en Arabia Saudita hirió a soldado de Estados Unidos, mientras que el ejército israelí anunció ataques a “gran escala” sobre Teherán. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Un ataque con misiles de Irán a una base en Arabia Saudita dañó aviones e hirió soldados de EE.UU. La ironía del presidente estadounidense en la cumbre FII Priority Summit: “El estrecho de Trump ”. El presidente advirtió que Irán debe reabrir el estrecho de Ormuz para alcanzar un acuerdo . Se espera que el portaaviones USS George H.W. se despliegue a un área cerca de la guerra con Irán. Trump dice que “ Cuba es la siguiente ”. Wall Street cierra a la baja preocupada por efectos de la guerra en Oriente Medio. Estados Unidos espera que Israel tome medidas contra la violencia de los colonos. Otros hechos de importancia Trump evalúa enviar tropas a Irán, según informa The Wall Street Journal. El ejército israelí dice que llevó a cabo ataques a “gran escala” sobre Teherán. A pesar de la propuesta de EE.UU, ni Israel ni Irán confirmaron que se haya abierto un canal de diálogo entre las partes. Trump extiende al 6 de abril el plazo para que Irán reabra el estrecho de Ormuz. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos terminado",
-      "link": "https://www.lanacion.com.ar/el-mundo/dia-29-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 05:41:51 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/LXXZPVGUC5CTFHVJQ23H5CO2RY.jpg?auth=1760deed4387914d8508f57eab120d65cfa173dbf8f1832837476f0972d013f0&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "abbc7d9ec5818151777f",
       "title": "Hezbolá despierta a Israel con un ataque",
       "summary": "",
       "link": "https://actualidad.rt.com/actualidad/595781-hezbola-ataca-israel-misiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "pubDate": "Sat, 28 Mar 2026 05:37:13 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "3683365f139089bee4fc",
-      "title": "EE.UU. alivia las sanciones al sector de minerales de Venezuela",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/595778-eeuu-afloja-sanciones-sector-minerales?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 28 Mar 2026 05:34:48 +0000",
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://actualidad.rt.com/feeds/all.rss"
@@ -1038,16 +1337,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/XOE2N4WQ5VDY5NAOYMJ7SQYWVM.PNG?auth=7c1ce2cc17da33e84b92426c217105d426de0d908a27c841c6fd69c6207fd8ad&smart=true&width=552&height=400"
     },
     {
-      "id": "50e99a115f1dc60c1fe1",
-      "title": "Muere un menor en un ataque ucraniano contra provincia rusa",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/595779-muere-menor-ataque-ucraniano-provincia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 28 Mar 2026 05:15:16 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "290e5f6b2791d4ad1fcc",
       "title": "Belgrano eliminó a Rafaela de la Copa Argentina con una goleada en San Luis, pero se fue preocupado",
       "summary": "La Copa Argentina tuvo acción antes y después de la actuación de la selección argentina, en medio de una ventana FIFA que no detuvo al fútbol argentino, a excepción de la primera A. Sí tuvo la participación de equipos de la máxima categoría definiendo sus pases a los dieciseisavos de final del certamen más numeroso. Uno de ellos fue Belgrano , que en el estadio Parque La Pedrera, de Villa Mercedes, San Luis, venció por 3-0 a Rafaela en un partido en el que gozó de tres penales . Pero, asimismo, volverá preocupado: sufrió dos bajas importantes que pueden perderse la inminente visita al Monumental. El conjunto cordobés no tenía sencillo el compromiso. El santafesino transita un buen inicio en la Primera Nacional , en su regreso tras descender y pasar un año en el Federal A. Rafaela ya está en el pelotón superior, producto de los resultados al cabo de cinco fechas. El primer tiempo tuvo dominios repartidos. No en oportunidades claras, sino más bien en paridad del juego y disputa. Y al descanso se fue ganador el Pirata, cuando la chance más clara había sido de la Crema. Si bien los dirigidos por Ricardo Zielinski se asomaron más en el área, incluido un cabezazo alto de Leonardo Morales , Rafaela tuvo la posibilidad del primer gol mediante un desborde de Ijiel Protti (aquel delantero que ascendió en Tigre) y una definición cruzada de Agustín Obando , el ahora 10 que surgió en Boca (también ex del Matador): Thiago Cardozo se estiró justo y sacó un manotazo con gran reflejo. Contrariamente, Belgrano hizo una mezcla de enorme construcción con un final casual. Fue exquisita una doble pared entre el defensor lateral Federico Ricca y el volante Juan Velázquez por la que llegó la pelota limpia, en el área, a Lautaro Gutiérrez , pero éste pifió el remate de zurda y lo transformó en asistencia: Emiliano Rigoni sí ajustó el zurdazo. Diferente fue el período final. Dueño absoluto el Pirata, incluso cuando no tuvo a Franco Vázquez , que no salió a jugarlo por una dolencia en un tobi",
@@ -1076,56 +1365,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2026/03/28/YhFlXb0Ut_1200x630__1.jpg"
-    },
-    {
-      "id": "127142d601f6f6ac829f",
-      "title": "Irritación y dura respuesta: Rubio se enfrenta a Kallas por Ucrania",
-      "summary": "El acalorado intercambio tuvo lugar durante una reunión de cancilleres del G7.",
-      "link": "https://actualidad.rt.com/actualidad/595774-irritacion-fuerte-respuesta-rubio-enfrenta?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 28 Mar 2026 05:00:42 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c7562759bf5b3f6e049ee2.jpg"
-    },
-    {
-      "id": "cda320644e02a154886b",
-      "title": "Andrés Repetto, analista internacional: “Estamos al borde del abismo”",
-      "summary": "El analista internacional Andrés Repetto analizó en LN+ , la situación crítica en Medio Oriente tras el ataque contra el aeropuerto de Kuwait. La televisión local mostró imágenes de la terminal aérea en llamas dos días después de la ofensiva contra esta infraestructura comercial. Repetto describió el panorama actual de las hostilidades y el impacto de los proyectiles en diversos puntos estratégicos: “Sigue el conflicto, siguen los misiles iraníes lanzándose a diferentes partes del Golfo”. Andres Repetto en LN+ Por otro lado, Israel destruyó objetivos específicos lejos de su frontera para disminuir la capacidad de respuesta de Irán. Sobre este punto, sostuvo: “por otro lado el ejército israelí diciendo que destruyeron o que atacaron uno de los principales centros de producción y de lanzaderas de misiles de Irán a 800 kilómetros de Teherán”. La pérdida de arsenal y la destrucción de sus bases obligó al país a modificar su conducta bélica , ahora prioriza la puntería sobre el volumen de fuego masivo. Repetto explicó: “El cambio de estrategia de Irán, ya no lanzando la cantidad de drones y misiles al mismo tiempo, sino seleccionando porque fueron destruidos muchos de sus sitios, cuentan con mayor precisión. A pesar de que lanza menos, muchísimos menos misiles y drones, el efecto sigue siendo muy duro para los lugares donde impacta ”. El control del tránsito en el estrecho de Ormuz El dominio del paso marítimo otorga a Irán una herramienta de presión económica fundamental en el comercio global , ya que el flujo de embarcaciones comerciales cayó de forma drástica en las últimas semanas. “ El régimen iraní está diciendo quién pasa y quién no . Pasaban por día 110 barcos por el estrecho de Ormuz, ahora están pagando para pasar, se habla de millones de dólares, hoy pasan diez barcos por día de los 110″, detalló Repetto. Esta posición dominante permite al régimen manejar los tiempos y los costos de la región, según el especialista: “Irán es quien cierra y abre la canilla” y d",
-      "link": "https://www.lanacion.com.ar/el-mundo/andres-repetto-analista-internacional-estamos-al-borde-del-abismo-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 05:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/DTUICK4I3BCVHNW5KYKQU5EGFI.png?auth=b97ff264800dabea6b8342f52aa221a3604fac4f2cf2a271901e51df766c815d&smart=true&width=1094&height=637"
-    },
-    {
-      "id": "7804dd42fe57fcb7dda7",
-      "title": "Franco Colapinto finalizó 17º y lejos de Pierre Gasly la última sesión de práctica del Gran Premio de Japón",
-      "summary": "Franco Colapinto progresó 679/1000 en su mejor giro del sábado respecto al del viernes en el autódromo de Suzuka . Pero la posición final es la misma en el tercer entrenamiento que en el segundo: la 17ª . Y las distancias de referencia, también: 2,3 segundos contra la delantera de la clasificación , y casi 7 décimas en comparación con su compañero, Pierre Gasly . Es decir, no fue un buen sábado para el piloto argentino. El fin de semana del Gran Premio de Japón de Fórmula 1 no viene siendo alegre para el joven de Alpine , que por primera vez corre en el país del sol naciente. Claro que falta lo más importante, las competencias: la prueba de clasificación, que tendrá lugar a las 3 de la madrugada del sábado para Buenos Aires, y la carrera, que comenzará a las 2 del domingo. Esta última sesión de ensayos no tuvo mayores aristas para el muchacho de Pilar, que durante casi cinco minutos, los iniciales, fue el único piloto en la formidable pista nipona. Esta vez no cometió errores significativos –apenas se le vio una corrección a una coleada al transitar la chicana que antecede a la recta principal– y no se metió en problemas él ni a otros (finalmente, zafó de una sanción por haber obstaculizado en una vuelta rápida a Max Verstappen el viernes, luego de hacer un “cándido” descargo ante las autoridades). Pero a su A526 sigue faltándole velocidad . Por cierto, Suzuka no favorece al coche francés. Alpine peca de una deficiente aerodinámica en la parte frontal , eso propicia subvirancia y poco agarre en los sectores de alta velocidad y el legendario circuito japonés tiene varias curvas de tránsito muy rápido. El auto azul y rosado las sufre. Sus pilotos, principalmente. Pero Gasly lo hace menos que Colapinto. Nuevamente, el conductor normando sobresalió, con un inesperado 10º lugar , a 1s720/1000 de la vanguardia , que fue detentada por el triunfador de China, Kimi Antonelli . El italiano y su compañero, George Russell , devolvieron a Mercedes a la cúspide , con los únicos r",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-ultima-sesion-de-practica-del-gran-premio-de-formula-1-en-vivo-nid27032026/",
-      "pubDate": "Sat, 28 Mar 2026 04:55:56 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/7F2HBUZNK5EXLJXDOTGL7WXKAE.JPG?auth=ca11b452085888a85456a860b8d95ebec0684ebaa3f57e6d26c271eef5fa9568&smart=true&width=6244&height=4163"
-    },
-    {
-      "id": "0cc9ba4fa228deb2cec3",
-      "title": "India refuerza su defensa aérea de corto alcance con sistemas cañón-misil rusos",
-      "summary": "Los sistemas móviles cañón-misil Tunguska incorporan un radar, dos cañones automáticos de 30 mm y ocho misiles antiaéreos de corto alcance.",
-      "link": "https://actualidad.rt.com/actualidad/595662-india-defensa-aerea-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 28 Mar 2026 04:52:22 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c6adcfe9ff71031c54958b.jpg"
-    },
-    {
-      "id": "2495b6aaba80269349a5",
-      "title": "Antonelli se sube a las barbas de Russell y Alonso es último en Libres 3",
-      "summary": "Antonelli, el mejor en los Libres 3 de Japón.",
-      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/28/antonelli-suber-lar-barbas-russell-alonso-ultimo.html",
-      "pubDate": "Sat, 28 Mar 2026 04:49:51 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c74f15f078f.jpeg"
     },
     {
       "id": "9e08f029c6a9f1b88b6d",
@@ -1186,16 +1425,6 @@
       "source": "El Pais",
       "cat": "israel",
       "image": "https://imagenes.elpais.com/resizer/v2/HPNRZHQB4JNSBJ4SZH4AVEYZPQ.jpg?auth=3911429f5eee1fa78645c73c62a807fcabf16ba8cb202f1047d291134e53a977"
-    },
-    {
-      "id": "ce0ee94e1e2a8349fe68",
-      "title": "Irán y EE UU, una larga historia de falsas negociaciones de paz",
-      "summary": "Toma de rehenes en la embajada estadounidense de Teherán, en noviembre de 1979.",
-      "link": "https://elpais.com/internacional/2026-03-28/iran-y-ee-uu-una-larga-historia-de-falsas-negociaciones-de-paz.html",
-      "pubDate": "Sat, 28 Mar 2026 04:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/2MVXKXK76FBTPKYHVHEDQIDASU.jpg?auth=e6e3a7396f623fedfc84ca129be4db14fc0368e4e86d8e2d71bfa71cfdaada6e"
     },
     {
       "id": "0eb0ac3019534526b113",
@@ -1390,16 +1619,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/S5O6ZI22MVDOLGTJZC37FNGCEI.jpg?auth=60818649091f0aba1f9ca70608e585a4d25a9860dc002c33c46e3a56c6afca25"
     },
     {
-      "id": "439d57dffc1ad35d28fc",
-      "title": "Noticias de Texas: caos en el aeropuerto de Houston pese al acuerdo sobre la TSA",
-      "summary": "El pronóstico del Servicio Meteorológico Nacional ( NWS , por sus siglas en inglés) para este fin de semana en Texas anticipa un sábado fresco por un frente frío . Fort Worth registrará una máxima de 64°F (17,7°C) . San Antonio marcará 71°F (21,6°C) con ráfagas de 25 millas por hora (40 kilómetros por hora). Houston alcanzará los 75°F (23,8°C) con menor humedad y cielos soleados. Amarillo tendrá 68°F (20°C) bajo una advertencia de bandera roja por riesgo crítico de incendios hasta las 20 hs del sábado. El domingo marcará un ascenso térmico pronunciado en todo el territorio estatal con cifras superiores a los promedios normales de marzo. Amarillo experimentará un calor extremo con máximas de 90°F (32°C) . En el resto de las ciudades, las máximas se situaran entre los 84°F y 80°F (28,8°C y 26,6°C) . El Concejo Municipal de Austin aprobó una red de quioscos digitales interactivos . Esta modificación del Capítulo 25-10 del Código Municipal moderniza la infraestructura urbana sin costo para los contribuyentes . De acuerdo con el comunicado oficial , las pantallas ofrecen mapas, información sobre transporte público, internet gratuito y un directorio comercial para impulsar a los pequeños negocios locales. “Este programa representa un paso importante en la continua evolución de Austin como una ciudad conectada e innovadora”, dijo Anthony Segura, subdirector de Desarrollo Económico de Austin. El restaurante mexicano Don Pedro en San Antonio anunció en sus redes sociales que ofrecerá comida gratuita para los agentes de la TSA y sus familias . Esta iniciativa solidaria responde a la falta de financiamiento gubernamental que dejó a estos trabajadores sin sueldo durante semanas. Para acceder a este beneficio en el local de Military Drive, los oficiales solo deben presentar su identificación oficial vigente . El establecimiento busca aliviar la carga económica de los empleados federales. El gobernador Greg Abbott anunció designaciones oficiales para 11 organismos estatales estra",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-de-texas-hoy-en-vivo-ultimas-actualizaciones-del-viernes-27-de-marzo-nid27032026/",
-      "pubDate": "Sat, 28 Mar 2026 04:28:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/G6YCWWRWGFCAJEBAE2ZEFN2VAM.jpg?auth=cf07c8b3ad9184d26adfb652983133f0a3deb161cd02f5c60333dcca5f3fa993&smart=true&width=7008&height=4672"
-    },
-    {
       "id": "df2faeedb6cc27486cbb",
       "title": "Comprar una casa por 300.000 euros y acabar pagando 500.000: el precio real de adquirir una vivienda",
       "summary": "Escaparate de una agencia inmobiliaria en Barcelona, en una imagen de archivo.",
@@ -1418,26 +1637,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/JWPJUFIXIJEVBJS5SBMJ3U4A2M.jpg?auth=4e39508454c90a8a574106dfdf57f72f2531d9192fb0e56f3a4b326d7ed714fc"
-    },
-    {
-      "id": "a3e4558dd3c228427a16",
-      "title": "El gobierno de Milei volvió al mundo terrenal",
-      "summary": "La ventana de oportunidades abierta el último domingo de octubre acaba de cerrarse. El gobierno de Javier Milei regresó al mundo de los mortales del que creyó haberse elevado la noche en la que celebró un resonante triunfo electoral, doblemente importante por su dimensión y por el repunte para alcanzarlo. Milei tiene por delante dos necesidades obligatorias: evitar los efectos económicos de la guerra contra Irán y, todavía más importante, revisar su propio plan económico Milei aprovechó bien el tiempo que cruzó el verano. Construyó mayorías amplias sin pagar precios altos con los gobernadores, usó en su favor el desbande del peronismo y el encapsulamiento del kirchnerismo en representaciones tan pequeñas como nunca había tenido desde su aparición, en 2003. Nada es para siempre. Milei ya no tiene garantías de que esa realidad se mantenga el resto del año. El Presidente pudo entrever en el verano que el sistema político empezaba a diseñar planes para eludir su potencial electoral con el anticipo de elecciones locales para el primer semestre de 2027. Es un plan que hasta los intendentes peronistas del conurbano le están tratando de imponer a Axel Kicillof , por ahora el único aspirante que asoma la cabeza para competir contra Milei. En los últimos días se asomó Mauricio Macri para amagar con el armado de una alternativa intermedia. El presupuesto anual, la reforma laboral, la baja de imputabilidad a menores de 14 años y la ley de glaciares (cuyo trámite final está en curso) salieron según los planes del oficialismo libertario. Es un tiempo terminado al que el oficialismo le costará mucho revivir. Una fila de adversidades, algunas de ellas autoinfligidas, está asociada con el comienzo del otoño. El Gobierno pierde vitalidad según los verdes se van apagando. El avance de la causa judicial $Libra va más lento que las revelaciones que surgen en torno al caso La primera contrariedad es el cisne negro de la guerra de Estados Unidos e Israel contra Irán y su impacto en el abo",
-      "link": "https://www.lanacion.com.ar/ideas/el-gobierno-de-milei-volvio-al-mundo-terrenal-nid27032026/",
-      "pubDate": "Sat, 28 Mar 2026 04:23:25 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/6DEIURKENZG33KZHPB5W2ORXBE.jpg?auth=4f4b0acba54177b0b2d018f83824a1f5e832649d30dd088c278d68a1f676cdc7&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ee4103e8c7bb78f4e2ee",
-      "title": "El plan de posguerra de Europa para escoltar tanqueros por Ormuz ante la decepción de Trump",
-      "summary": "Los planes incluyen el envío de buques de guerra a la importante ruta marítima frente a las costas de Irán.",
-      "link": "https://actualidad.rt.com/actualidad/595761-lideres-europeos-planes-escoltar-petroleros-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 28 Mar 2026 04:23:12 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c746d859bf5b1e4461c332.jpg"
     },
     {
       "id": "5c4d198fb2e3ebd286d6",
@@ -1460,16 +1659,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/NH7DHCLJHFD2NG5RKPLBX3Y27A.jpg?auth=a4a1ae4b2d2a854ea075d1efaada88b80abe09b6af29f3c1d4c55e7e9002b4d9"
     },
     {
-      "id": "6b1fc48698838c75c4ef",
-      "title": "\"No tenemos que estar ahí\": Trump insinúa que EE.UU. podría abandonar la OTAN",
-      "summary": "Estados Unidos \"gasta cientos de miles de millones de dólares al año en la OTAN, cientos, protegiéndolos\", reclamó a sus socios el inquilino de la Casa Blanca.",
-      "link": "https://actualidad.rt.com/actualidad/595762-tener-trump-insinuar-eeuu-poder-abandonar-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 28 Mar 2026 04:04:24 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c749abe9ff717ed40fdfc9.jpg"
-    },
-    {
       "id": "a142cb0b06614b4e6a23",
       "title": "Man of Tomorrow: Lars Eidinger dice cómo será su Brainiac",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com A pesar de que varios nombres de la lista A de Hollywood estaban supuestamente en la mezcla para interpretar a Brainiac en la película de James Gunn, Superman: Man of Tomorrow , el director de Guardians of the Galaxy finalmente eligió al actor alemán Lars Eidinger para el papel. En una nueva entrevista con tipBerlin , Eidinger reveló lo que busca aportar a la secuela de Superman , y parece que el papel requerirá una preparación física considerable. Esto representa una pista importante para la trama, ya que en los cómics, Brainiac puede adoptar muchas formas: algunas que luchan físicamente contra el Hombre de Acero cara a cara, mientras que otras son más robóticas y envían creaciones mecánicas para amenazar al Último Hijo de Krypton. Lars Eidinger anunciado como Brainiac en Man of Tomorrow La colaboración con James Gunn y la recomendación de Greta Gerwig para Mon of Tomorrow Eidinger comentó al medio alemán: « James Gunn me escribió diciendo que está feliz de diseñar el papel junto conmigo. Me alegró esa formulación, porque significa que no solo debo ser un agente vicario, sino que puedo contribuir. Además, entreno cuatro veces por semana con un entrenador personal para estar en forma, más delgado y musculoso, como requiere el estudio». El actor añadió: «Ya siento la presión&#8230; El otro día volé a Estados Unidos de nuevo para una conversación de tres horas y una prueba de máscara igual de larga para intercambiar ideas». Curiosamente, reveló que fue Greta Gerwig (Barbie) quien lo recomendó a Gunn para el papel; ambos coincidieron en la película de 2022 White Noise . Detalles de producción y un elenco renovado en Man of Tomorrow El rodaje de Man of Tomorrow comenzará el 17 de abril de 2026, con la mayor parte de la producción planeada para Atlanta y Londres. La película tiene previsto su estreno para el 9 de julio de 2027. La secuela presentará una alianza poco probable entre el Superman de David Corenswe",
@@ -1490,37 +1679,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Mario-y-Star-Fox.jpg"
     },
     {
-      "id": "b9a238beec12140ec23a",
-      "title": "Aromas, colores y formas vegetales pueden reducir el estrés, mejorar el sueño y activar recuerdos profundos",
-      "summary": "Desde reducir el cortisol hasta activar memorias profundas: el jardín ya no es solo paisaje. Es una arquitectura viva capaz de dialogar con el sistema nervioso. Algunas plantas se piensan , se recuerdan y se sienten antes de ser nombradas. En los últimos años, la neurociencia empezó a confirmar algo que jardineros y paisajistas intuían desde siempre: ciertas formas, aromas y colores vegetales activan circuitos neuronales específicos, modulan hormonas del estrés y alteran, de manera medible, el estado mental. El cerebro humano procesa estímulos vegetales por medio de tres vías: el sistema visual, el sistema olfativo y el sistema límbico, donde se alojan memoria, emoción y aprendizaje. Allí, una flor no es solo botánica: es una señal bioquímica. Perfumes que viajan directo a la memoria El olfato es el único sentido que conecta sin escalas con el sistema límbico. No pasa primero por la corteza racional. Va directo al hipocampo y la amígdala, regiones donde se guardan recuerdos y emociones . Por eso, ciertos perfumes vegetales funcionan como llaves neuronales Hay perfumes que abren recuerdos : el azahar , el jazmín del país , la albahaca o el laurel funcionan como detonadores autobiográficos. La neurociencia lo llama memoria episódica inducida por estímulos olfativos . En jardines domésticos, estas plantas construyen algo más que paisaje: memoria vegetal . Otras plantas tienen efectos sobre el cerebro. La lavanda ( Lavandula angustifolia ) es el ejemplo más estudiado. Sus aceites esenciales —ricos en linalol y acetato de linalilo— reducen niveles de cortisol , disminuyen la actividad simpática y favorecen patrones cerebrales asociados a la relajación profunda. Estudios clínicos demostraron que su inhalación disminuye la ansiedad y mejora calidad de sueño. Pero la lavanda no está sola. El jazmín ( Jasminum officinale ) activa receptores GABA, los mismos sobre los que actúan algunos ansiolíticos suaves. Esto no significa que relaje; simplemente estabiliza y eso ya es much",
-      "link": "https://www.lanacion.com.ar/revista-jardin/aromas-colores-y-formas-vegetales-pueden-reducir-el-estres-mejorar-el-sueno-y-activar-recuerdos-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/MT6DVJAYKRGI3J7EJCZIEEWSQE.jpg?auth=8f78e645fd77389dfeece2a63da1e3c59c471d94d993de0e10829a77c51b8389&smart=true&width=2000&height=1333",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "d989f0c155057e97ca42",
-      "title": "Paleta de otoño: Cómo combinar ocres, cobres y dorados para un jardín más armónico",
-      "summary": "El verano se expresa en colores altos: rojos, amarillos brillantes, verdes saturados. El otoño , en cambio, trabaja en otra frecuencia. El jardín empieza a hablar en tonos más profundos — terracota, óxido, miel, bronce — y el paisaje adquiere una elegancia silenciosa. A medida que avanza la estación, la luz se vuelve más oblicua y los contrastes se suavizan . Muchas plantas reducen su intensidad de crecimiento y el color aparece en lugares inesperados: espigas maduras, semillas secas, follajes que cambian de tonalidad. En diseño paisajístico , las paletas terrosas permiten construir jardines armónicos durante este momento del año. Composiciones que funcionan a partir de matices cálidos y evocan directamente el paisaje natural. Terracota Los tonos terracota evocan la arcilla húmeda y las hojas que empiezan a secarse. En el jardín aparecen en flores rojizas, espigas maduras o tallos que adquieren pigmentos más cálidos. La Verbena bonariensis , por ejemplo, aporta una nube de pequeñas flores violáceas que, bajo la luz otoñal, adquieren un matiz más profundo. Combinada con gramíneas de espigas claras, genera una escena liviana pero cromáticamente rica. Bronce El bronce es uno de los grandes colores del otoño vegetal. Muchas gramíneas ornamentales desarrollan espigas que pasan del verde al dorado y luego a tonos cobrizos. Especies como Panicum virgatum o Pennisetum orientale capturan la luz baja de la tarde y aportan movimiento constante al jardín . Sus inflorescencias se vuelven casi luminosas cuando el sol atraviesa las espigas. Miel Algunas plantas producen tonos cálidos y dorados que se asocian al color de la miel o del trigo maduro. Son matices suaves que iluminan el jardín sin romper la armonía de la paleta. Las espigas de Chasmanthium latifolium , por ejemplo, adquieren reflejos dorados a medida que maduran. Suspendidas sobre tallos finos, se mueven con el viento y generan un ritmo visual muy sutil. Óxido El color óxido aparece en semillas secas, follajes envejeci",
-      "link": "https://www.lanacion.com.ar/revista-jardin/paleta-de-otono-como-combinar-ocres-cobres-y-dorados-para-un-jardin-mas-armonico-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/DG4X4TZ7KFFQZDU3BZZQCYVK3A.jpg?auth=2aeb029e5a993a4921aee577779331aa0ea9ec81c8793be09dbad4736f799453&smart=true&width=2002&height=1333"
-    },
-    {
-      "id": "9f31ad537c77b8ae5cb7",
-      "title": "Microjardines de autor: cómo crear escenas pequeñas pero contundentes",
-      "summary": "En un espacio reducido , cada decisión se vuelve visible. La proporción entre las plantas, la textura del follaje o la forma en que una gramínea intercepta la luz adquieren una presencia inmediata. De esa atención minuciosa nace el concepto de microjardines de autor , pequeñas composiciones vegetales pensadas con la lógica de un paisaje completo . Aunque ocupen apenas una maceta amplia, una jardinera o el borde de un cantero, estos jardines funcionan como escenas cuidadosamente compuestas. Cada especie ocupa un lugar preciso dentro del conjunto y participa de un equilibrio donde la forma, el volumen y el ritmo vegetal dialogan entre sí. En esa escala íntima, el jardín se vuelve casi una pieza artesanal, pensada para ser observada de cerca. El desafío consiste en aplicar los principios clásicos del paisajismo —estructura, proporción y contraste— dentro de un espacio muy acotado, donde cada planta tiene un peso visual claro. Crear profundidad Incluso en composiciones pequeñas, el jardín funciona mejor cuando se organiza en capas vegetales , un recurso habitual en el diseño paisajístico . Una planta estructural establece el eje visual y aporta cierta altura. A su alrededor aparecen otras especies de porte medio que agregan volumen y textura, mientras que las rastreras o cubresuelos suavizan el suelo y completan la escena. Esta organización permite que el microjardín tenga profundidad y movimiento, evitando la sensación de acumulación que suele aparecer cuando se suman demasiadas plantas en un espacio mínimo. El resultado es una escena vegetal donde cada especie encuentra su lugar. Texturas que enriquecen la escena Los microjardines se recorren con la mirada a corta distancia, por lo que el follaje adquiere tanta relevancia como la floración. Las hojas plateadas, finamente divididas o ligeramente aterciopeladas generan contrastes sutiles que mantienen el interés visual incluso cuando el jardín atraviesa momentos de menor floración. El diálogo entre esas texturas vegetal",
-      "link": "https://www.lanacion.com.ar/revista-jardin/microjardines-de-autor-como-crear-escenas-pequenas-pero-contundentes-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/HMUYYWBOIREFFCT4QZB6PVF5PQ.jpg?auth=42222feca3803f36dbdd516d569e57c3fe5c8eb15fc06e94141a3d25fb5558a9&smart=true&width=2002&height=1333"
-    },
-    {
       "id": "c43cb26ffac2efb40d7c",
       "title": "Por qué Alemania está buscando trabajadores inmigrantes y dónde los está encontrando",
       "summary": "La nación europea está teniendo dificultades encontrando empleados cualificados y por eso está aumentando el reclutamiento de jóvenes trabajadores extranjeros.",
@@ -1529,16 +1687,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53d7/live/472f0520-25dd-11f1-965f-2f5aaeeadad7.jpg"
-    },
-    {
-      "id": "0cc8378bbe94ccf6f459",
-      "title": "Urgentísimo: Adorni necesita un vocero",
-      "summary": "Perdón, seré políticamente incorrecto: no voy a sumarme al coro que pide la cabeza de Manuel Adorni, víctima de la turba mediática por una escapada a Punta del Este. OK: también por llevar a pasear a su mujer en el avión presidencial y por sus inversiones inmobiliarias. Hay motivos de sobra para entender, e incluso justificar, lo que hizo. Como contador público ejerció poco y nada, fue docente universitario y arrimaba el bochín como charlista de verbo picante en ciclos marginales de radio y TV. Quiero decir: siempre se le hizo cuesta arriba parar la olla. Tampoco monetizó sus rutilantes posteos en la entonces Twitter. De glándula pituitaria más volcada al ejercicio de la reflexión que al lucro, ni siquiera se le ocurrió patentar el célebre “Fin” con que terminaba y aún hoy termina sus cortas y punzantes sentencias en las redes. Hasta Milei le copió esa fórmula consagratoria. Por Dios, la guita que podría haber hecho. “ Manaos. La Coca de los Campeones del Mundo. Fin”. Queda así descripto, entonces, el hombre y sus circunstancias: estamos ante un tipo que, pudiendo ser rico, remaba para llegar a fin de mes. Un contador pobre es una rarísima avis; claro, eligió contar cosas ante los micrófonos. Todo eso hasta que fue tocado por la varita del León: Javi lo hizo su vocero, tarea que cumplía estampillado a Kari. De pronto se vio inmerso en un mundo fulgurante de rentabilidades sencillas, de tráfico fluido, de prometedores criptoactivos. En un suspiro pasó de claustros y estudios de radio al clima cultural de una Casa regida por los criterios economicistas de dos hermanos de moral libertaria. De qué otro tema le iban a hablar los Menem o Spagnuolo o Pareja, con los que tenía que tratar a diario o se los topaba en los pasillos. Entraba al despacho de Kari y la encontraba cerrando un contrato con Novelli o haciéndose una foto con el gringuito Hayden Davis. Es decir, un universo de prosperidad delante de sus narices. Después, jefe de Gabinete. Mamita mía: entre otras manuali",
-      "link": "https://www.lanacion.com.ar/opinion/urgentisimo-adorni-necesita-un-vocero-nid27032026/",
-      "pubDate": "Sat, 28 Mar 2026 03:41:56 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/7OCB3L4VWNDRLOJXPHCWUQ7KZQ.png?auth=efaef6ee0e95b04b25dd6bedc3ca011613043e8562cd26ac507eb02c649f2b1b&smart=true&width=2000&height=1333"
     },
     {
       "id": "a0e828f040c3e4e7177a",
@@ -1601,36 +1749,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
     },
     {
-      "id": "b658f6c65034e3f3de82",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este sábado 28 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-sabado-28-marzo-2026_0_1A1HBxEAu6.html",
-      "pubDate": "Sat, 28 Mar 2026 03:40:54 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/xjGlgNfnh_1200x630__1.jpg"
-    },
-    {
-      "id": "aa6f3ef4e017a534928e",
-      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este sábado 28 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-sabado-28-marzo-2026_0_rnDiGSJIei.html",
-      "pubDate": "Sat, 28 Mar 2026 03:40:30 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/0tmlBHI7p_1200x630__1.jpg"
-    },
-    {
-      "id": "8d0039c96fbbd99bbdb2",
-      "title": "Clima hoy en Barquisimeto, Venezuela: el pronóstico del tiempo para este sábado 28 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-barquisimeto-venezuela-pronostico-tiempo-sabado-28-marzo-2026_0_jSYa5KsXIQ.html",
-      "pubDate": "Sat, 28 Mar 2026 03:40:29 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_1200x630__1.jpg"
-    },
-    {
       "id": "cc5e2d94e0d33424fada",
       "title": "Confirman a otra estrella original de La Momia para la nueva película",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Los rumores que han circulado durante algún tiempo sobre una nueva película de The Mummy ( La Momia ) finalmente se han confirmado. Universal Pictures está avanzando con una secuela directa que contará con el regreso de sus estrellas originales, Brendan Fraser y Rachel Weisz, para una cuarta entrega bajo la dirección del dúo Radio Silence, formado por Matt Bettinelli-Olpin y Tyler Gillett ( Scream , Abigail ). Además, The Hollywood Reporter ha confirmado que John Hannah también regresará como el inolvidable Jonathan Carnahan, el hermano del personaje de Weisz. Hannah apareció en las tres películas originales junto a Fraser, mientras que Weisz solo participó en las dos primeras, siendo sustituida en la tercera entrega. John Hannah volverá en La Momia El regreso a las raíces de La Momia tras décadas de espera A pesar de las críticas mixtas en su momento, la película de 1999 de Stephen Sommers se convirtió en un éxito masivo y un favorito de culto. Las secuelas posteriores y el reinicio de 2017 protagonizado por Tom Cruise no lograron capturar la misma magia, llegando este último a sepultar los planes del «Dark Universe» de Universal. Brendan Fraser expresó su entusiasmo sobre este regreso en una entrevista reciente a The Associated Press : “La que yo quería hacer nunca se hizo&#8230; La tercera fue un modelo de&#8230; ¿cómo puedo decir esto? NBC tenía los derechos de los Juegos Olímpicos ese año, así que nos enviaron a China . Estoy orgulloso de ella, pero la que yo quería hacer es la que viene ahora. He esperado 20 años por esta llamada. Es hora de darles a los fans lo que quieren”. Producción y futuro de la franquicia de La Momia Mientras que el director Lee Cronin ( Evil Dead Rise ) prepara su propia versión de La Momia enfocada totalmente en el terror, la secuela de Radio Silence comenzará su producción a finales de este año en Londres y Marruecos. El estreno en cines está programado para el 19 de mayo ",
@@ -1639,17 +1757,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2025/11/brendan-fraser-la-momia.jpg"
-    },
-    {
-      "id": "a96a7693787687002d6b",
-      "title": "El bodegón de más de un siglo que se mantiene vigente con sus platos abundantes en el sur de la ciudad",
-      "summary": "Como en la época en que era un almacén de ramos generales y despacho de bebidas, los días de semana lo frecuentan los vecinos para tomarse una grapa, jugar un truco o simplemente para reunirse mientras el paso del tiempo allí parece detenido para siempre. Esa rutina vecinal cambia a partir de la noche de los viernes, cuando el bodegón se puebla de desconocidos, turistas o gente de otras zonas de Buenos Aires, dispuestos a comer unas buenas pastas mientras escuchan a un cantor de tangos. El magnético ambiente de Barracas le suma un condimento a este bodegón de comida abundante y casera. Algunas propuestas típicas son la carne al Malbec o los exquisitos malfatti con estofado. Pero, además, atrae por su historia: en este bodegón de Barracas persiste un pasado de calles adoquinadas a cuadras del riachuelo, barriadas de inmigrantes y gente sentada en la vereda, ese espacio mítico asociado a desafíos de payadores cuando no a los duelos a cuchillo entre malevos. Eso ocurría en La Flor hace una centuria. De hecho, hay un plato llamado La Puñalada, vinculado a una pelea que, según la leyenda, ocurrió allí mismo, frente a la puerta principal, ni bien se inauguró el bodegón, y terminó con uno de los duelistas muerto, su sangre salpicando el mismo piso de mosaicos calcáreos a rombitos que aún sobrevive. La Puñalada es un plato denso, elaborado con bondiola cocida en salsa de cerveza negra y miel que se acompaña con panceta crocante, papas rústicas y huevos fritos a caballo y compite en popularidad con los malfatti. Si algo caracteriza a este bodegón es su espíritu resiliente: superó distintas crisis como la del treinta, que afectó especialmente a Barracas y otros barrios obreros, cuando desaparecieron muchos talleres y pequeñas fábricas de su tejido social. La Flor sobrevivió a ese sacudón. La energía vital vino de España de la mano de dos mujeres que cruzaron el Atlántico, huyendo de la guerra civil española. Ellas introdujeron comidas ibéricas tradicionales como la tortilla (",
-      "link": "https://www.lanacion.com.ar/revista-lugares/el-bodegon-de-mas-de-un-siglo-que-se-mantiene-vigente-con-sus-platos-abundantes-en-el-sur-de-la-nid28032026/",
-      "pubDate": "Sat, 28 Mar 2026 03:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/P54E7OMZPFDCTD73K5OJOT2UKM.jpg?auth=5be59f4525ecb4ae320837f5a87dc1af20baf0e493104516d4a2a36b2033e48c&smart=true&width=2000&height=1333",
-      "subcat": "herramientas"
     },
     {
       "id": "55fbc32cdcdbe0e0432c",
@@ -1750,16 +1857,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/9cd5c207-44cb-4cc2-a117-06e2ead757ee_16-9-discover-aspect-ratio_default_1139722.jpg"
-    },
-    {
-      "id": "67af2e41b6095df1d987",
-      "title": "¡Cómo nos gusta España!",
-      "summary": "Así vienen los periódicos deportivos de este sábado 28 de marzo de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/03/28/portadas-dia.html",
-      "pubDate": "Sat, 28 Mar 2026 01:48:48 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c7251270cc9.jpeg"
     },
     {
       "id": "498e59fe535b50a6d13c",
@@ -1915,16 +2012,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6e97f870d9.jpeg"
     },
     {
-      "id": "1607cec2269f5da436a9",
-      "title": "Marc explica su tremenda caída",
-      "summary": "Marc Márquez, en Austin.",
-      "link": "https://www.marca.com/motor/motogp/gp-americas/2026/03/27/marc-marquez-adoro-curva-habia-baches-nuevos.html",
-      "pubDate": "Fri, 27 Mar 2026 23:54:00 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6ff575b73a.jpeg"
-    },
-    {
       "id": "f6c021ec6689185d70f1",
       "title": "Rodri desmiente que abriera las puertas del Real Madrid: \"Cortan lo que quieren de la entrevista...\"",
       "summary": "El capitán de la selección española respondió a MARCA sobre las palabras que pronunció en la entrevista en Onda Cero",
@@ -1955,14 +2042,14 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c707c80e1be.jpeg"
     },
     {
-      "id": "721ae189124265e7fa5d",
-      "title": "\"Yo no tengo duda alguna en la portería\"",
-      "summary": "Luis de la Fuente, sonriente durante el partido ante Serbia.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/27/fuente-oyarzabal-top-mundial.html",
-      "pubDate": "Fri, 27 Mar 2026 23:42:39 +0100",
+      "id": "f6f0dbc6679e9e2772d7",
+      "title": "El Barça somete al Estrella Roja en la prórroga y toma aire",
+      "summary": "Joel Parra celebra una canasta del Barcelona ante el Partizan.",
+      "link": "https://www.marca.com/baloncesto/euroliga/2026/03/27/barca-somete-estrella-roja-prorroga-toma-aire-euroliga.html",
+      "pubDate": "Fri, 27 Mar 2026 23:40:52 +0100",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c70172216ab.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c7069371de1.jpeg"
     },
     {
       "id": "a2cf0acba779964dca89",
@@ -1975,36 +2062,6 @@
       "image": "https://static.eldiario.es/clip/282bcf43-abd1-491b-91ee-5c07d38acd07_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "3d188a750d4c62518158",
-      "title": "Marruecos evita la derrota en el Metropolitano en el 88'",
-      "summary": "Brahim y Caicedo.",
-      "link": "https://www.marca.com/futbol/2026/03/27/marruecos-estrena-titulo-empate.html",
-      "pubDate": "Fri, 27 Mar 2026 23:21:05 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6f7238043e.jpeg"
-    },
-    {
-      "id": "eb010b24bec0aeb8486f",
-      "title": "Para la historia de Uruguay: Valverde silencia Wembley en el 94' y se lleva el dedito a la boca mandando callar",
-      "summary": "El centrocampista uruguayo empató de penalti en el último segundo y se llevó el dedo a la boca señalando a la grada",
-      "link": "https://www.marca.com/futbol/2026/03/27/historia-uruguay-valverde-silencia-wembley-94-lleva-dedito-boca-mandando-callar-video.html",
-      "pubDate": "Fri, 27 Mar 2026 23:14:04 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/aOxDS1fnm9VefBrs8.jpeg"
-    },
-    {
-      "id": "c8854ef7b17eddb3a8c6",
-      "title": "El Valencia pierde la cabeza",
-      "summary": "Darius Thompson intenta penetrar a canasta ante la defensa de Arijan Lakic. .",
-      "link": "https://www.marca.com/baloncesto/euroliga/2026/03/27/valencia-pierde-cabeza-regala-triunfo-belgrado.html",
-      "pubDate": "Fri, 27 Mar 2026 23:06:17 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6e5c9579a2.jpeg"
-    },
-    {
       "id": "bf9985c6dc9bff060cf4",
       "title": "Tráiler de Faces of Death: anticipa una experiencia perturbadora",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com El nuevo tráiler red band de Faces of Death ya está aquí, y deja claro que esta nueva versión no viene precisamente a jugar limpio. Si te gustan las propuestas que mezclan morbo, tensión y esa suciedad visual que parece sacada de internet a las tres de la mañana, ojo con esto. La nueva Faces of Death recupera el nombre de una de las cintas más polémicas del cine de culto y la adapta a una era mucho más peligrosa: la de los vídeos virales, la desinformación y el contenido extremo convertido en entretenimiento. Y sí, el tráiler ya apunta a una experiencia bastante turbia antes de su estreno el 10 de abril de 2026. Faces of Death regresa con una idea mucho más inquietante que el original La película original de Faces of Death, estrenada en 1978, no fue famosa por ser elegante, precisamente. Su fama venía de otro sitio: hacer creer a muchísima gente que lo que estaba viendo era real. Esa mezcla entre falso documental, imágenes perturbadoras y marketing salvaje convirtió a la cinta en una leyenda incómoda del terror. Era el tipo de VHS que parecía maldito solo por estar en la estantería. Ahora, en lugar de repetir la misma jugada, esta nueva Faces of Death decide actualizar el concepto. En vez de centrarse en una supuesta recopilación de muertes, la historia gira alrededor de Margot, interpretada por Barbie Ferreira , una moderadora de contenido de una plataforma tipo YouTube que se dedica a filtrar vídeos violentos y material que nadie querría encontrarse. Y claro, el problema llega cuando empieza a descubrir una serie de vídeos que parecen recrear, con una precisión enfermiza, los asesinatos de la película original. Ahí está la gracia macabra de Faces of Death: no sabes si estás viendo una performance grotesca, una campaña retorcida o algo mucho peor. Y cuanto más se mete Margot en ese agujero, más incómodo se vuelve todo. Lo interesante aquí es que la película no solo quiere provocar por provocar. También j",
@@ -2013,66 +2070,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/trailer-Faces-of-Death.jpg"
-    },
-    {
-      "id": "87b6ee1bff3b6e6671db",
-      "title": "Valverde silencia Wembley",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/cronica/2026/03/27/valverde-logra-valioso-empate-uruguay-wembley-penalti-94.html",
-      "pubDate": "Fri, 27 Mar 2026 23:01:28 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c7017bd8177.jpeg"
-    },
-    {
-      "id": "b60496ab950e5fb61ac4",
-      "title": "Visma pide perdón por el polémico y viral 'bidonazo' que costó una sanción",
-      "summary": "El corredor de Visma quedó descolgado y se agarró del coche de equipo para recuperar terreno",
-      "link": "https://www.marca.com/ciclismo/2026/03/27/visma-pide-perdon-polemico-viral-bidonazo-costo-sancion-lamentamos.html",
-      "pubDate": "Fri, 27 Mar 2026 22:56:04 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/aOpC21fnhN60rqpzk.jpeg"
-    },
-    {
-      "id": "0dca51503d79733b57b5",
-      "title": "Argentina tenía razón",
-      "summary": ".",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/27/argentina-tenia-razones-evitar-finalissima.html",
-      "pubDate": "Fri, 27 Mar 2026 22:51:40 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6fa6f2a577.jpeg"
-    },
-    {
-      "id": "3fc1e7bf39223d9fa003",
-      "title": "¡Qué ganas de Mundial!",
-      "summary": "Tres golazos, dos de Oyarzabal y uno del debutante Víctor Muñoz, culminan otro partido para la esperanza del grupo de De la Fuente",
-      "link": "https://www.marca.com/futbol/seleccion/cronica/2026/03/27/espana-finalissima.html",
-      "pubDate": "Fri, 27 Mar 2026 22:51:27 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6f1457cc7b.jpeg"
-    },
-    {
-      "id": "e3269dab790dce98ee54",
-      "title": "Países Bajos tiene un seguro de vida",
-      "summary": "Van Dijk celebra su gol ante Noruega.",
-      "link": "https://www.marca.com/futbol/cronica/2026/03/27/paises-bajos-seguro-vida-dijk-victoria-noruega-79-dias-debut-mundialista.html",
-      "pubDate": "Fri, 27 Mar 2026 22:47:25 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6f5aa359d5.jpeg"
-    },
-    {
-      "id": "b4149ce11d9dda5a9999",
-      "title": "El debut soñado de Víctor Muñoz con un gol histórico",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/27/debut-sonado-victor-munoz.html",
-      "pubDate": "Fri, 27 Mar 2026 22:43:21 +0100",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c6fd5c1ef44.jpeg"
     },
     {
       "id": "78f3914551f5c99f2b9b",
@@ -2827,7 +2824,7 @@
       "title": "El juez no desestima el caso contra Maduro y Flores durante la audiencia en el tribunal de Nueva York",
       "summary": "El expresidente de Venezuela y su esposa, Cilia Flores, comparecieron este jueves en la segunda audiencia ante un tribunal federal de EE.UU. en el proceso abierto contra ellos por delitos de \"conspiración narcoterrorista\" y otros relacionados al narcotráfico. Desde su detención, el 3 de enero, están recluidos en Nueva York.",
       "link": "https://www.bbc.co.uk/mundo/live/cm29lp59565t?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-28T06:51:21.512492+00:00",
+      "pubDate": "2026-03-28T08:31:54.625342+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf7/live/33a31b60-293c-11f1-a3a9-bba7bdbdde48.jpg"
@@ -2848,12 +2845,6 @@
         "cls": "rb-green"
       },
       {
-        "name": "Gemini",
-        "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
-      },
-      {
         "name": "Sora",
         "type": "Video AI",
         "badge": "Trending",
@@ -2864,9 +2855,15 @@
         "type": "Modelo",
         "badge": "Trending",
         "cls": "rb-green"
+      },
+      {
+        "name": "Gemini",
+        "type": "Modelo",
+        "badge": "Trending",
+        "cls": "rb-green"
       }
     ],
     "rising": []
   },
-  "updated": "2026-03-28T06:51:50.479597+00:00"
+  "updated": "2026-03-28T08:32:20.978615+00:00"
 }
