@@ -147,16 +147,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "35938628743466887e12",
-      "title": "¿Por qué los países del Golfo no están tomando represalias contra Irán?",
-      "summary": "Los estados del Golfo se muestran reacios a implicarse directamente en la guerra, pero es poco probable que acepten ser atacados indefinidamente, afirman los expertos.",
-      "link": "https://www.bbc.com/mundo/articles/czex3y3er3ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 16:52:49 GMT",
-      "source": "BBC Mundo",
-      "cat": "sports",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f24c/live/71d5d470-2772-11f1-934f-036468834728.jpg"
-    },
-    {
       "id": "98eb6eb2f8175b75d93b",
       "title": "Las mascotas del fútbol que consiguieron sacar a Curro de su retiro 34 años después",
       "summary": "Curro, emblema de la Expo 92, salta al césped del Estadio la Cartuja (Sevilla) para sorpresa de los aficionados de LALIGA DE LAS MASCOTAS.",
@@ -238,6 +228,16 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/AKBYXK4WLNCO3P7JFVBL76JA4E.jpg?auth=e7b01818b9fe2ce2391a51ce998348ff3d9212d5abe8130db3170a4a9b57c1ac"
+    },
+    {
+      "id": "c2661bdf9e7c3a208d48",
+      "title": "\"La era de la impunidad ha terminado\": ¿qué les espera a las grandes tecnológicas tras el histórico veredicto contra Meta y Google sobre la adicción a las redes sociales?",
+      "summary": "La justicia en EE.UU. declaró a Meta y Google responsables de causar daños a una joven a través del diseño adictivo de Instagram y YouTube respectivamente.",
+      "link": "https://www.bbc.com/mundo/articles/cp8d2280yl2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 21:43:39 GMT",
+      "source": "BBC Mundo",
+      "cat": "tech",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b01/live/77e49910-293d-11f1-934f-036468834728.jpg"
     },
     {
       "id": "d0c1436ef6f705ac8687",
@@ -391,56 +391,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BI33JQHGWRHLJGSSRQL5GZN46Q.jpg?auth=e2c772cfe6778c75013423ab8e9598a2e436e36c895f6515f7aa234f72af58a4"
     },
     {
-      "id": "cce1eadcfb57894df32d",
-      "title": "Estudian eliminar la función que apaga el motor del auto cuando está detenido",
-      "summary": "Una de las implementaciones que generó más controversia, especialmente en Estados Unidos, es el sistema start stop cuya función es apagar el motor de manera automática cuando el vehículo se encuentra detenido y lo enciende cuando avanza, buscando reducir las emisiones contaminantes y ahorrar combustible. ¿Qué diferencias existen entre las luces DRL y las luces bajas, y cuándo se deben usar cada una? Sin embargo, la Agencia de Protección Ambiental (EPA) de Estados Unidos ha aprobado una norma para eliminar los créditos fuera de ciclo, creados en la administración de Barack Obama en 2012. Y esto cambia completamente el panorama en la fabricación de vehículos. Dichos créditos eran incentivos o puntos que se les daban a los fabricantes por instalar tecnologías de ahorro de combustible, como en su momento lo fue el sistema start stop . Por lo anterior, muy pronto podría empezar a desaparecer de los autos nuevos. ¿Qué pasará con el sistema start stop? El administrador de la EPA, Lee Zeldin, indicó que el sistema start stop no sólo resultaba molesto para ciertos conductores estadounidenses, sino que también suele desgastar la batería de los autos y no posee beneficios significativos para el medio ambiente. “Los fabricantes de automóviles no deberían verse obligados a adoptar ni ser recompensados por tecnologías que son simplemente un trofeo de participación climática, sin reducciones mensurables de la contaminación”, señaló durante una conferencia. Sobre esa misma línea, el secretario del Departamento de Transporte de Estados Unidos, Sean Duffy, dijo “ esta administración está adoptando el enfoque del gobierno para hacer que los automóviles vuelvan a ser más asequibles, ya sea restableciendo los estándares de kilometraje o aboliendo un requisito de arranque y parada que todo conductor odia (...)”. En sentido estricto, la eliminación de los créditos fuera de ciclo es una medida que impacta la industria automotriz en Estados Unidos, pues aproximadamente el 60% de los autos n",
-      "link": "https://www.lanacion.com.ar/autos/estudian-eliminar-la-funcion-que-apaga-el-motor-cuando-esta-detenido-nid29032026/",
-      "pubDate": "Sun, 29 Mar 2026 23:58:39 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/VO7RSCJILRCXPBI6F62RMWRMHY.jpg?auth=e3da1663ed4fe1bda4cf9250f86822d2d66517c1d0fa1a79fd67354d058ca925&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "57188ced459d845f5263",
-      "title": "Las multas que se pueden impugnar y cómo hacerlo",
-      "summary": "Las infracciones de tránsito suelen convertirse en un verdadero dolor de cabeza para los conductores, ya sea al momento de renovar la licencia de conducir, cuando exigen saldar las multas pendientes, o al intentar vender un auto con el libre deuda en mano. ¿Qué diferencias existen entre las luces DRL y las luces bajas, y cuándo se deben usar cada una? Sin embargo, muchos desconocen que existen una serie de exigencias legales que deben cumplirse para que una infracción sea válida. Estas condiciones están establecidas tanto en la Constitución Nacional como en la Ley 24.449 y tienen como objetivo garantizar derechos constitucionales básicos. Cuando alguno de esos requisitos no se respeta, el acta puede ser impugnada. Esto no implica desmerecer la función de los radares de fiscalización ni promover el incumplimiento de las normas. Las reglas de tránsito y los límites de velocidad deben respetarse porque la seguridad vial salva vidas. “ El problema no es la cámara de fiscalización, el problema es cuando el radar funciona sin control constitucional ”, comentó Diego Daniel Díaz, abogado especialista en el régimen de faltas y multas viales, en diálogo con este medio. Los motivos por los que se puede impugnar una infracción Como se mencionó previamente, si la infracción de tránsito incumple aunque sea uno de los requisitos que se comentan a continuación, se puede solicitar la nulidad del acta a través de un descargo en el juzgado correspondiente. 1) Falta de notificación fehaciente Es uno de los motivos más frecuentes. Muchas personas se enteran de una multa dos o tres años después de cometida la supuesta infracción, generalmente al momento de renovar la licencia de conducir. “ Sin notificación válida no hay debido proceso ”, remarcó Díaz. Si el conductor no fue notificado en tiempo y forma, se vulnera el derecho a defensa consagrado en la Constitución Nacional. 2) Radar sin respaldo técnico acreditado Todas las cámaras de fiscalización deben estar homologadas y contar con u",
-      "link": "https://www.lanacion.com.ar/autos/las-multas-que-se-pueden-impugnar-y-como-hacerlo-nid28032026/",
-      "pubDate": "Sun, 29 Mar 2026 23:57:53 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/RHJ4DQFZNNCYZH7TMZE2HDS4XA.jpg?auth=83a6e0ba7a2cc64a2156ebb4bc1391898fef1cc1dae966e03e8a662d518fd79f&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "3c260d5670a03bf6f92c",
-      "title": "No conocía Europa pero se animó a comprar un pueblo escondido en España",
-      "summary": "España es un destino conocido por sus paisajes, playas y naturaleza, pero también por sus pintorescos pueblos escondidos entre los montes . Aunque es un p aís muy codiciado por los turistas , aún quedan aldeas escondidas con pocos habitantes, sobre todo en el centro del país, con el mismo atractivo. Fue de uno de estos territorios del que se enamoró el estadounidense Jason Lee Beckwith. Sin antes haber pisado Europa y sin saber español, el hombre supo que su destino estaba en suelo ibérico. Cuánto cuesta construir una casa “barata” de 100 metros cuadrados en marzo 2026 A través de Idealista, una plataforma de alquiler y venta de casas, vio un anuncio insólito: vendían una aldea entera deshabitada en una de las nueve provincias que componen la comunidad autónoma de Castilla y León. Salto de Castro es el nombre del territorio, dentro de la provincia de Zamora, y en la frontera de Portugal, que fue adquirido por la módica suma de €310.000 (US$365.500). “Aunque suene a loco supe que ese era mi futuro”, confesó el nuevo propietario en una entrevista con la agencia EFE. Los planes de Beckwith Jason Lee Beckwith no es principiante en el rubro hospitalario, ya que antes ya se había desarrollado en este negocio: era propietario de un hostel en California. En 2024, estaba buscando una nueva apuesta turística, junto con su mujer Ana Cristina Machado, y es ahí cuando encontraron esta oportunidad. “ No me traigo California a Zamora, la dejo atrás y mi vida estará en España ”, declaró Beckwith al diario español El País. Milagros Brito, empresaria de real estate: “Los proyectos no se piensan solo en metros, la gente se cansó de scrollear en el sillón y busca espacios para conectar” El estado actual del pueblo El pueblo cuenta con 44 viviendas, además de un bar, una iglesia, una escuela, un antiguo cuartel de la Guardia Civil, una piscina , zonas deportivas y un hotel en el que se podrían hacer 14 habitaciones, según detallan desde Idealista, quienes agregan que hay un embalse en e",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/no-conocia-europa-pero-se-animo-a-comprar-un-pueblo-escondido-en-espana-nid27032026/",
-      "pubDate": "Sun, 29 Mar 2026 23:54:27 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/4E43ROYTSBCXHCW47TYPS7ZMQE.JPG?auth=48f0de10bd419a64b3971afacab63fed5dda138f79008c130ffe66574d888337&smart=true&width=3000&height=2250"
-    },
-    {
-      "id": "af41c293161ca6024a9e",
-      "title": "¿Cuánto cuesta legalizar los planos de una vivienda en CABA?",
-      "summary": "Legalizar los planos de una vivienda en la ciudad de Buenos Aires es un trámite que aparece cada vez con más frecuencia , sobre todo cuando una propiedad tiene ampliaciones o modificaciones que nunca fueron declaradas . La necesidad suele surgir al momento de vender, subdividir o iniciar una reforma que exige que la documentación coincida con lo construido . En todos los casos, el proceso implica presentar planos actualizados y pagar los derechos correspondientes por la obra realizada sin permiso. Según explica la arquitecta y especialista en gestiones municipales Liliana Larrozza, regularizar una obra “es, en términos prácticos, como presentar un final de obra, pero con el agregado de que se deben abonar derechos y multas por lo construido sin permiso”. Esto aplica siempre que no haya clausuras ni intimaciones previas; en esos casos, el procedimiento es distinto. Cuando se trata de una regularización formal, el propietario debe presentar planos que reflejen la situación real de la vivienda y cumplir con los requisitos técnicos que exige la Ciudad. Cuánto cuesta construir una casa “barata” de 100 metros cuadrados en marzo 2026 El trámite requiere la intervención de un profesional matriculado —arquitecto, ingeniero civil o maestro mayor de obras, según el alcance— que firme digitalmente los planos y las encomiendas profesionales. Esa firma no es un detalle administrativo: certifica la responsabilidad técnica sobre el proyecto y habilita la presentación ante el sistema municipal. En el caso de viviendas, la Ciudad obliga a presentar lo que se conoce como “plano único” , un documento que integra arquitectura, estructura e instalaciones en una sola presentación digital. Allí se incluyen los cálculos de superficies, las siluetas, las planillas sanitarias, eléctricas y de incendio, y toda la documentación técnica necesaria. Este formato unificado demanda más tiempo de preparación, pero agiliza la revisión: “Lo ve un solo analista, lo que hace más eficiente la aprobación”,",
-      "link": "https://www.lanacion.com.ar/propiedades/cuanto-cuesta-legalizar-los-planos-de-una-vivienda-en-caba-nid27032026/",
-      "pubDate": "Sun, 29 Mar 2026 23:53:24 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/SZHI7YVZPBDGJDBBV5BT6QWGHU.JPG?auth=8a00c6a7886cdea1a316be3365d3893a5d6d9042a834afda7b732d0fb59f6510&smart=true&width=2000&height=1334"
-    },
-    {
-      "id": "e6245dbf7faa797439f2",
-      "title": "Consejo financiero del presidente del Parlamento iraní para no caer en una \"trampa\"",
-      "summary": "El alto funcionario dijo que es importante desconfiar de las noticias previas a la apertura del mercado y operar al revés de la narrativa que intentan imponer.",
-      "link": "https://actualidad.rt.com/actualidad/596049-consejo-financiero-presidente-parlamento-irani?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 29 Mar 2026 23:36:03 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9a1e859bf5b24710e6c56.jpg"
-    },
-    {
       "id": "4228e7506edd1f73824b",
       "title": "Resumen Moto GP Las Américas · Bezzecchi imparable",
       "summary": "El piloto italiano se impone en Austin por delante de Jorge Martín y Pedro Acosta",
@@ -449,16 +399,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/aPnLW1foPd6Ts_tvt.jpeg"
-    },
-    {
-      "id": "d419fdbc186a2692f6a0",
-      "title": "Miriam Zorrilla, la joya de Unicaja premiada con el MVP MARCA MadCup",
-      "summary": "Miriam Zorrilla, recibiendo el MVP MARCA MADCUP Basket Élite Sub-16 femenino.",
-      "link": "https://www.marca.com/baloncesto/2026/03/29/miriam-zorrilla-joya-unicaja-premiada-mvp-marca-madcup.html",
-      "pubDate": "Sun, 29 Mar 2026 23:25:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9380f98fe4.jpeg"
     },
     {
       "id": "ae9250f55050b1a138fd",
@@ -499,26 +439,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/UWQ3WQJKYVIPDEMDDUL2K6DNLI.jpg?auth=f8f02496af7e8cd79e7deb05e2771602120d063b41defab85a3d3582b3073769"
-    },
-    {
-      "id": "132a1e4a4ead83afc909",
-      "title": "VIDEO: Una bola de fuego se eleva sobre Irán tras ataque de EE.UU. e Israel",
-      "summary": "Un video difundido en redes muestra el momento en el que un ataque conjunto de EE.UU. e Israel impacta un objetivo en Irán, provocando una enorme bola de fuego que se eleva hacia el cielo nocturno. Reportes indican que se trata de una explosión en el complejo petroquímico de la ciudad de Tabriz.",
-      "link": "https://actualidad.rt.com/actualidad/596066-video-bola-fuego-eleva-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 29 Mar 2026 23:08:02 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9afa3e9ff717567011554.jpg"
-    },
-    {
-      "id": "367faf9bab8e8385b91c",
-      "title": "General del CGRI: Las respuestas de Irán al enemigo serán cada vez \"más severas\"",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/596047-general-cgri-respuesta-iran-ataque?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 29 Mar 2026 23:05:49 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c995ad59bf5b19f16081c6.jpg"
     },
     {
       "id": "96041911f02cc5ca1b4f",
@@ -571,18 +491,8 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/GJeNA.jpeg"
     },
     {
-      "id": "5293002a0df4173ed1a2",
-      "title": "Israel impide a la máxima autoridad católica oficiar la misa de Domingo de Ramos en el Santo Sepulcro",
-      "summary": "Pierbattista Pizzaballa, durante la misa del Domingo de Ramos, en la Iglesia del Getsemaní de Jerusalén, este domingo.",
-      "link": "https://elpais.com/internacional/2026-03-29/israel-impide-a-la-maxima-autoridad-catolica-oficiar-la-misa-de-domingo-de-ramos-en-el-santo-sepulcro-de-jerusalen.html",
-      "pubDate": "Sun, 29 Mar 2026 22:15:04 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/H626NFJ6RJITVCSXV67FZWMKFU.jpg?auth=935876360c43a23d0102fccbcc74c9523e11dfb437c5e673b2edd646fd900a66"
-    },
-    {
       "id": "fa1ee12a228b6ca07e95",
-      "title": "El Barça cierra su semana fantástica",
+      "title": "El Barça cierra su semana fantástica tumbando a un Unicaja de dos velocidades",
       "summary": ".",
       "link": "https://www.marca.com/baloncesto/acb/2026/03/29/barca-cierra-semana-fantastica-tumbando-unicaja-dos-velocidades.html",
       "pubDate": "Sun, 29 Mar 2026 22:01:23 +0200",
@@ -599,36 +509,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/logo-harry-potter-hbo.jpg"
-    },
-    {
-      "id": "01ce5893b0f1b5cce26c",
-      "title": "Clausuran el estadio donde Perú juega como local por culpa de... unos conciertos de salsa",
-      "summary": "Una imagen del Estadio Nacional de Lima.",
-      "link": "https://www.marca.com/futbol/2026/03/29/clausuran-estadio-peru-juega-local-culpa-conciertos-salsa.html",
-      "pubDate": "Sun, 29 Mar 2026 21:31:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97e1b2df0c.jpeg"
-    },
-    {
-      "id": "db48d99afd610d372c09",
-      "title": "Pyfer confiesa que pensó en suicidarse dos semanas antes del K.O. a Adesanya",
-      "summary": "Joe Pyfer y su equipo tras el UFC Seattle.",
-      "link": "https://www.marca.com/combates-ufc/2026/03/29/pyfer-confiesa-penso-suicidarse-dos-semanas-k-adesanya.html",
-      "pubDate": "Sun, 29 Mar 2026 21:26:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97761b8956.jpeg"
-    },
-    {
-      "id": "50844d7f98df1f0cd097",
-      "title": "Agius gana después de un gran accidente",
-      "summary": "Senna Agius, en Austin.",
-      "link": "https://www.marca.com/motor/motogp/gp-americas/2026/03/29/agius-gana-moto2-despues-gran-accidente.html",
-      "pubDate": "Sun, 29 Mar 2026 21:23:08 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97b021d574.jpeg"
     },
     {
       "id": "488979ff22e98d5fed72",
@@ -651,56 +531,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97f09649f0.jpeg"
     },
     {
-      "id": "1b674a7e530ad037b1ea",
-      "title": "De las oposiciones al traslado: así ha defendido el presidente valenciano el puesto de su pareja",
-      "summary": "El presidente de la Generalitat valenciana, Juanfran Pérez Llorca, durante una sesión de control, en Les Corts Valencianes, a 26 de marzo de 2026, en Valencia.",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-03-29/de-las-oposiciones-al-traslado-asi-ha-defendido-el-presidente-valenciano-el-puesto-de-su-pareja.html",
-      "pubDate": "Sun, 29 Mar 2026 21:00:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VVC6E5B44JHK7BDXIU642DP5S4.jpg?auth=47e1faf4688812063af60c17385cc7369e3348c59a37a75d53b92cf985a574ce"
-    },
-    {
-      "id": "aa76ab4d60c136ef7634",
-      "title": "Un gran Valencia tumba al Hozono Global Jairis y reina en la Copa",
-      "summary": ".",
-      "link": "https://www.marca.com/baloncesto/basketfeb/2026/03/29/gran-valencia-tumba-hozono-global-jairis-reina-copa.html",
-      "pubDate": "Sun, 29 Mar 2026 20:50:23 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97442b1bfe.jpeg"
-    },
-    {
-      "id": "f41c0f74dce6ea2be9d7",
-      "title": "\"Por respeto a Ter Stegen no le voy a cerrar la puerta del Mundial, pero...\"",
-      "summary": "Un montaje con una imagen de Nagelsmann y otra de Ter Stegen.",
-      "link": "https://www.marca.com/futbol/mundial/2026/03/29/nagelsmann-mundial-ter-stegen-posibilidades-son-escasas.html",
-      "pubDate": "Sun, 29 Mar 2026 20:35:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c96d24afd67.jpeg"
-    },
-    {
-      "id": "8b30de468f47aebfbc80",
-      "title": "El Zaragoza vuelve a amargar al Racing y otea la salvación",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/03/29/zaragoza-vuelve-amargar-racing-otea-salvacion.html",
-      "pubDate": "Sun, 29 Mar 2026 20:34:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97ae32199a.jpeg"
-    },
-    {
-      "id": "5eca0637b9cda0af6b2e",
-      "title": "Se desinfla el globo",
-      "summary": "Cartel del Mayweather contra Pacquiao 2 en Netflix.",
-      "link": "https://www.marca.com/boxeo/2026/03/29/desinfla-globo-mayweather-dice-combate-pacquiao-sera-exhibicion.html",
-      "pubDate": "Sun, 29 Mar 2026 20:32:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c96cd5a31ac.jpeg"
-    },
-    {
       "id": "35faa2806721cea39729",
       "title": "Impiden a la máxima autoridad católica en Jerusalén entrar al lugar más sagrado del cristianismo el Domingo de Ramos",
       "summary": "La primera ministra italiana, Giorgia Meloni, dijo que la medida era \"una ofensa no solo para los creyentes sino para cualquier comunidad que respete la libertad religiosa\".",
@@ -709,16 +539,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6697/live/903eb100-2ba2-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "id": "e238a9942ae508ce6943",
-      "title": "\"He sentido vergüenza, no se puede consentir algo así en el fútbol profesional\"",
-      "summary": "Paz, entrenador del Antequera.",
-      "link": "https://www.marca.com/futbol/atletico/2026/03/29/abraham-paz-he-sentido-vergueenza-consentir-asi-futbol-profesional.html",
-      "pubDate": "Sun, 29 Mar 2026 20:16:20 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c96c6ae1a6f.jpeg"
     },
     {
       "id": "b1806b97d53bdc8be399",
@@ -739,46 +559,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2010/10/machete.jpg"
-    },
-    {
-      "id": "ddf1ba9be263ac67a2cb",
-      "title": "Irán acusa a Estados Unidos de planificar una invasión mientras habla de negociaciones",
-      "summary": "La sede destruida de la cadena de televisión catarí Al Araby tras un ataque aéreo en el norte de Teherán, este domingo.",
-      "link": "https://elpais.com/internacional/2026-03-29/iran-acusa-a-estados-unidos-de-planificar-una-invasion-mientras-habla-de-negociaciones.html",
-      "pubDate": "Sun, 29 Mar 2026 19:46:32 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/BSI4ARGU3RO77KX3Q5TNVWOZAM.jpg?auth=65e7d86b29fe2a1369381b72755d1667d5b79ffba79c35d6524cedd1f93bd3e4"
-    },
-    {
-      "id": "661f982d325c9f824b3a",
-      "title": "Un incendio quema 400 hectáreas en Murcia y obliga a evacuar a 80 ‘scouts’",
-      "summary": "El incendio forestal de este domingo en Totana.",
-      "link": "https://elpais.com/espana/2026-03-29/un-incendio-quema-400-hectareas-en-murcia-y-obliga-a-evacuar-a-80-scouts.html",
-      "pubDate": "Sun, 29 Mar 2026 19:42:12 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/5OTH5T3LLBL2JESYNQYKMDUC7A.jpg?auth=1d06eae998b419c34b2063ee1b9e826d367f2a8a0bc51ca888f49bd0bdc77d21"
-    },
-    {
-      "id": "a3a9327959512e077311",
-      "title": "Pini pesca su primera victoria en la lucha entre Carpe y Perrone",
-      "summary": "Guido Pini, en Austin.",
-      "link": "https://www.marca.com/motor/motogp/gp-americas/2026/03/29/pini-pesca-primera-victoria-lucha-carpe-perrone.html",
-      "pubDate": "Sun, 29 Mar 2026 19:41:38 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c964228ebb2.jpeg"
-    },
-    {
-      "id": "d3e208704bedaf76f504",
-      "title": "\"Suena a cachondeo...\"",
-      "summary": "Videomarcador del Allianz Arena con el 0-4 de 2014",
-      "link": "https://www.marca.com/futbol/champions-league/opinion/2026/03/29/bayern-bestia-negra-real-madrid.html",
-      "pubDate": "Sun, 29 Mar 2026 19:37:10 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c962dd70e5a.png"
     },
     {
       "id": "91d54e70eaffd67ec549",
@@ -1148,16 +928,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/spider-man-mutante.jpg"
     },
     {
-      "id": "b33e9297a1849b704f13",
-      "title": "Testigo de todas las vidas de Nicolás Maduro",
-      "summary": "Nicolás Maduro y Cilia Flores llegan al Palacio de Miraflores la noche del 13 de abril de 2002, durante un intento de golpe de Estado en Venezuela.",
-      "link": "https://elpais.com/america/2026-03-29/testigo-de-todas-las-vidas-de-nicolas-maduro.html",
-      "pubDate": "Sun, 29 Mar 2026 04:45:00 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/7J4HCH43ZRBOTN4XMDZMHZA3CA.jpg?auth=6dbb09625d8ac37c28fbfa3570b9b4da5079940e97eb4c0193b1fe4a1b2631fa"
-    },
-    {
       "id": "d7ad565abb3ada834855",
       "title": "La película que casi le daña la carrera a Charlie Cox antes de Daredevil",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Lanzada en 2007, Stardust fue una épica aventura de fantasía basada en la novela de 1999 de Neil Gaiman, creador de Sandman . La película fue dirigida por Matthew Vaughn, recién salido del éxito de Layer Cake y antes de dar el salto al cine de superhéroes con Kick-Ass y X-Men: First Class . Las estrellas emergentes Charlie Cox y Claire Danes encabezaron el reparto, rodeados de figuras de primer nivel como Sienna Miller, Ricky Gervais, Peter O&#8217;Toole, Michelle Pfeiffer y Robert De Niro. El impacto de la taquilla en la carrera de Charlie Cox antes de Daredevil Aunque la película recibió críticas positivas (77% en Rotten Tomatoes ), tuvo dificultades en taquilla, recaudando 137.5 millones de dólares a nivel mundial con un presupuesto reportado de más de 70 millones. En Estados Unidos, solo alcanzó los 38.6 millones. Charlie Cox en Stardust antes de Daredevil Cox reflexionó en On Film&#8230; With Kevin McCarthy sobre cómo el flojo fin de semana de estreno de Stardust —eclipsado totalmente por el estreno de Rush Hour 3 — afectó su capacidad para conseguir trabajo: «Había tenido esta gran película. Había recibido buenas críticas. A la gente le gustó&#8230; Pero aquí no generó dinero. Y en aquel entonces, los números de los que la gente hablaba eran: ¿cuánto recaudó una película en su fin de semana de estreno? Eso era todo de lo que se hablaba. Y esta tuvo un fin de semana de estreno terrible&#8230; De repente, no podía conseguir trabajo. No lograba que nadie me contratara». El rescate de Boardwalk Empire y el camino hacia Daredevil Cox confesó que tuvo que abandonar Los Ángeles por falta de dinero, pensando que la actuación podría no funcionar para él. Fue la serie de HBO, Boardwalk Empire, la que le dio una segunda oportunidad: «Cuando llegó Boardwalk Empire , la gente que vio esa serie pensará que yo era un gran personaje. Cuando hice esa audición, eran quizás tres episodios, una escena por episodio, sin",
@@ -1188,204 +958,15 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2025/10/Bugonia-trailer.jpg"
     },
     {
-      "id": "2425bc766edc87f07662",
-      "title": "Guerra a los fondos y las compras de casas por extranjeros ricos: “Muchos solo vienen de fin de semana”",
-      "summary": "Concentración del pasado miércoles en Barcelona para impedir el desalojo del bloque de Sant Agustí, en Barcelona.",
-      "link": "https://elpais.com/economia/2026-03-29/guerra-a-los-fondos-y-las-compras-de-casas-por-extranjeros-ricos-muchos-solo-vienen-de-fin-de-semana.html",
-      "pubDate": "Sun, 29 Mar 2026 03:45:01 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/YOD7WZQ2IZO6XM6YE5EWVFJKZQ.jpg?auth=7604683cacbaf6d4fbe4b7811e854c7dfee9c03bd2ba510b4929e3b9a5232d13"
-    },
-    {
-      "id": "f85b287197828132baf6",
-      "title": "Carmen Maura se desnuda a los 80 años: “Me caen bien los señores, pero ya no me interesan”",
-      "summary": "A sus 80 años, Carmen Maura vuelve al cine con 'Calle Málaga'. La actriz lleva jersey de Zara y pendientes y collares de Bulgari.",
-      "link": "https://elpais.com/eps/2026-03-29/carmen-maura-se-desnuda-a-los-80-anos-me-caen-bien-los-senores-pero-ya-no-me-interesan.html",
-      "pubDate": "Sun, 29 Mar 2026 03:40:00 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/F3XHILW7E5BSDMIUSWL2U6JVMQ.JPG?auth=30e0f38354350fce7bc1ae834b68090c15f8db5988e86c7eb137ba0ef4e20974"
-    },
-    {
-      "id": "e1981d8c649fe57570c6",
-      "title": "Estamos en lo que estamos",
-      "summary": "Un niño delante de un misil iraní sin explotar en un campo abierto en las afueras de Qamishli (Siria) el pasado 4 de marzo.",
-      "link": "https://elpais.com/eps/2026-03-29/estamos-en-lo-que-estamos.html",
-      "pubDate": "Sun, 29 Mar 2026 03:40:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VQXEAZRTRJAB7NCXZDHA4YAIO4.JPG?auth=4f5de8d09ef77d751120292c9c57812adc0d9c4bce58220e0adac2bd8b5ad68d"
-    },
-    {
-      "id": "75fee29dd06e1fbef6e7",
-      "title": "Viaje en el expreso nocturno desde Pekín a la frontera de la hermética Corea del Norte",
-      "summary": "El expreso K-27 con destino a Pyongyang cruza hacia Corea del Norte desde la ciudad china fronteriza de Dandong, el jueves 26 de marzo.",
-      "link": "https://elpais.com/internacional/2026-03-29/viaje-en-el-expreso-nocturno-desde-pekin-a-la-frontera-de-la-hermetica-corea-del-norte.html",
-      "pubDate": "Sun, 29 Mar 2026 03:40:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XWRKLCI76BEL7JDD2WMGBOGQ34.jpeg?auth=4ba7d36e71ebfb4fe8e687c11be4e12d90d8f87b77818b4732f64081189c13ae"
-    },
-    {
-      "id": "356648712c56d596a8df",
-      "title": "Mapas | Más de 3.000 ataques en Oriente Próximo: un mes de guerra sin pausa",
-      "summary": "Metodología El análisis utiliza la base de datos de ACLED , una organización internacional que ha registrado los incidentes desde el inicio del conflicto. Se contabilizan 3.088 ataques entre el 28 de febrero y el 26 de marzo. Se incluyen tanto los ataques balísticos, aéreos y con drones. Se incluyen tanto los proyectiles que han llegado a su objetivo como los interceptados, que pueden dar lugar a metralla que cause daños. ACLED ha creado una base de datos específica para el conflicto entre EE UU, Israel e Irán, que es la que se muestra en los gráficos, pero también mantiene otra más amplia con enfrentamientos en Oriente Próximo, donde recoge por ejemplo los ataques israelíes sobre Líbano: estos últimos solo se muestran en el mapa. Cuando diferentes bombardeos se producen en el mismo lugar y el mismo día, ACLED los considera un solo evento.",
-      "link": "https://elpais.com/internacional/oriente-proximo/2026-03-29/mapas-mas-de-3000-ataques-en-oriente-proximo-un-mes-de-guerra-sin-pausa.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": ""
-    },
-    {
-      "id": "1e4f0859ca1cf4bdab19",
-      "title": "Rosalía no ha sido la primera: estrellas del pop que saben de danza",
-      "summary": "Rosalía en un concierto de la gira 'Lux' en el Accor Arena, en París, el 18 de marzo de 2026.",
-      "link": "https://elpais.com/cultura/2026-03-29/rosalia-no-ha-sido-la-primera-estrellas-del-pop-que-saben-de-danza.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/7KLWHFXE4NH7TBUGZI54WB72YI.jpg?auth=b73776b99091018cc445604bd332d8eb14df5a55432a23c0c7cebbbc420cbb64"
-    },
-    {
-      "id": "7ce0f50b8a71bd6dcf0e",
-      "title": "La autopista al infierno de Tiger Woods, entre el mito y el hombre",
-      "summary": "Tiger Woods, en el Masters de 2024.",
-      "link": "https://elpais.com/deportes/2026-03-29/la-autopista-al-infierno-de-tiger-woods-entre-el-mito-y-el-hombre.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/2KCUZ3DEVJNCBIMP35HCZ5E6JY.jpg?auth=9ecf79a6f6f0f8727b6cb1621d041b11714680d833306eff132dbc6a1bd1a9fb"
-    },
-    {
-      "id": "10bf18a5a69f0e4ffb96",
-      "title": "Cómo Los Delinqüentes sobrevivieron a la muerte a los 21 años de su líder",
-      "summary": "Los dos miembros de Los Delinqüentes (desde la izquierda, Marcos del Ojo, 'Canijo de Jerez', y Diego Pozo 'El Ratón') posando el 23 de febrero en el barrio de San José Obrero (zona rural de Jerez) con un grafiti del otro componente del grupo, Miguel Ángel Benítez 'Migue', fallecido en 2004.",
-      "link": "https://elpais.com/cultura/2026-03-29/como-los-delinquentes-sobrevivieron-a-la-muerte-a-los-21-anos-de-su-lider.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VELNSZ6GVBCRBIUK24PR27VE5E.jpg?auth=b6b08d56091356f49348f371340355335a464cb638f4fc3f46dfa40ef6d35e99"
-    },
-    {
-      "id": "3b9ca319f2e052137be8",
-      "title": "Joan Laporta: “Tuve que tomar una decisión con Messi y creo que acerté”",
-      "summary": "Joan Laporta, presidente electo del Barcelona, retratado en su despacho.",
-      "link": "https://elpais.com/deportes/futbol/2026-03-29/joan-laporta-tuve-que-tomar-una-decision-con-messi-y-creo-que-acerte.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/I4IUHGT4DNEDDOSTLJXHIN2E3E.JPG?auth=5b135805d2fbae8b8481a4dccb4df9a3939d31ebd5cc87df7b74719c8ba8975e"
-    },
-    {
-      "id": "5d71bc70a6fbe2ccc8db",
-      "title": "Magnesio, la nueva píldora milagro para mejorar el sueño sin evidencia científica",
-      "summary": "Píldoras de magnesio en una foto de recurso.",
-      "link": "https://elpais.com/salud-y-bienestar/2026-03-29/magnesio-la-nueva-pildora-milagro-para-mejorar-el-sueno-sin-evidencia-cientifica.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/PGNHPDX6XVDDFAZVK2HJZ7OO5I.jpg?auth=4303894258080749f0703cd5145237e0431927feffc3f4e66f5d493c4e92fd52"
-    },
-    {
-      "id": "f8170edb0c320f4431dd",
-      "title": "Noelia Castillo era una mujer mayor de edad",
-      "summary": "Noelia Castillo en la entrevista en 'Y ahora Sonsoles', en Antena 3.",
-      "link": "https://elpais.com/television/2026-03-29/noelia-castillo-era-una-mujer-mayor-de-edad.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/J25N3JQGTFFBBN5T23AD2AAQJM.jpg?auth=1d80e050549003e304b4a771686746e7795eb6bedcc584a2b19bbfbdd3763395"
-    },
-    {
-      "id": "96b204e15882e432ee3c",
-      "title": "Cambiar de clase",
-      "summary": "Marian Álvarez, Israel Elejalde y Suso Nanclares, en 'Altas capacidades'.",
-      "link": "https://elpais.com/opinion/2026-03-29/cambiar-de-clase.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/EMWF4HQTXJEZ7BZVJSPOZRU26M.jpg?auth=a517ba96fbe6396b58287a5addb09a94e34005bbf8033403407dac58025db46e"
-    },
-    {
-      "id": "bb039545b64496872b1a",
-      "title": "Nueva fruta del paraíso",
-      "summary": "Para un lector imaginativo no existen barreras, todo le está permitido. Puede romper la ley de la gravedad y toda clase de cadenas morales que le impidan ser libre, porque leer es como volar, es como navegar con el viento a favor. Las páginas de un libro abierto son las alas de un ave listas para llevarlo en su vuelo por selvas, desiertos, cordilleras de vuelta al paraíso y también a la Luna, a Marte, sin abandonar el sofá. El lomo de un libro es la quilla, y las tapas abiertas son los costados de un barco que puede convertir al lector en explorador de mares nunca antes navegados, en capitán de piratas, en ballenero, en náufrago en una isla desierta, que, siempre acaba siendo la isla del tesoro. Con esa navegación o con ese vuelo puede remontar las aguas del curso del tiempo y volver a las dulces praderas de la inocencia, pero en ese retorno hacia el pasado cualquier lector puede detenerse en aquellos días que uno recuerda como los más felices de su vida. Te preguntas cómo eran aquellos días. Por mi parte, los llevo muy asociados al placer de la lectura, que para la gente de mi generación fue a menudo un placer pecaminoso, pero a su vez nada tan excitante como que un librero amigo te abriera la trastienda donde se hallaban a tu merced los libros prohibidos por la censura. En cierto modo, la dictadura tenía una ventaja, puesto que bajo su férrea moral eclesiástica cualquier placer se convertía en un arma de combate por la libertad. Qué maravillosos pecados aquellos que consistían en sentirse rebelde bañándose desnudo a la luz de la luna, navegando en aquel velero con los amigos bajo el sonido del viento en las velas y la voz de Melina Mercouri en alta mar. Para cometer pecados tan maravillosos como aquellos había que ser joven y tener la carne muy apretada. La lectura es un don apacible que te permite volver al paraíso a cualquier edad. Pero el lector puede que ahora encuentre allí bajo el árbol de la ciencia la serpiente que le tentará con la otra manzana de la inte",
-      "link": "https://elpais.com/opinion/2026-03-29/nueva-fruta-del-paraiso.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/RQSBGAPE4ZEBFLW2Y2IMCDFQI4.png?auth=274d55c48c78bc3de0e40567e38416bb8f0616b5a8787b7799c1247a26824253"
-    },
-    {
-      "id": "f009636c471d42c46e41",
-      "title": "La crónica | Sánchez no quiere preparar la salida: piensa en ganar",
-      "summary": "El vicepresidente primero y ministro de Economía, Carlos Cuerpo, durante la jura de su cargo ante el rey Felipe VI en presencia del presidente del Gobierno, Pedro Sánchez, este viernes en el Palacio de La Zarzuela.",
-      "link": "https://elpais.com/espana/2026-03-29/la-cronica-sanchez-no-quiere-preparar-la-salida-piensa-en-ganar.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/3HMRJVTTU5FFFLKGTJ2AHLVT7M.jpg?auth=cd79134df45dde223a399a94c70735e6d7d3b8cee25b1810589e97ed8b89c3bc"
-    },
-    {
-      "id": "aeb486e36e4ca98bc4f9",
-      "title": "55 kilos de coca, un chivato y una ‘madame’: así operaba la red del jefe policial de Valladolid",
-      "summary": "Composición con pruebas gráficas del sumario judicial que incriminan al inspector jefe Luis Fernández (en la foto circular).",
-      "link": "https://elpais.com/espana/2026-03-29/55-kilos-de-coca-un-chivato-y-una-madame-asi-operaba-la-red-del-jefe-policial-de-valladolid.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VGL7CIEKHVHK3B72JLGLQRNCM4.jpg?auth=afff31fde08ca8a3b2e3125fee159b0a50f973301db00b17f34a8489bf40be01"
-    },
-    {
-      "id": "b3456fb6c926bba0cd81",
-      "title": "Inés Soria, magistrada: “El Gobierno vasco garantiza que Txeroki y Anboto reconocen el daño causado”",
-      "summary": "Inés Soria, jueza por la que pasan las excarcelaciones de etarras en el País Vasco.",
-      "link": "https://elpais.com/espana/2026-03-29/ines-soria-magistrada-el-gobierno-vasco-garantiza-que-txeroki-y-anboto-reconocen-el-dano-causado.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/UCO3WCP5GBAJHCP6JE6UWHNY6U.jpg?auth=4218c6923b3553a8217e0345f1932bba8c8615cd7c50d929129505bef2c10d0d"
-    },
-    {
-      "id": "da510c66ae00ac243a53",
-      "title": "Estados Unidos se lanza a colonizar la Luna con la primera misión tripulada en más de medio siglo",
-      "summary": "El cohete SLS en la plataforma de despegue del Centro Espacial Kennedy de la NASA, en Florida, Estados Unidos.",
-      "link": "https://elpais.com/ciencia/2026-03-29/estados-unidos-se-lanza-a-colonizar-la-luna-con-la-primera-mision-tripulada-en-mas-de-medio-siglo.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VYPRP2HPT5EYZF5OEKI7C2L7YU.jpg?auth=89dd7c4a0dc7721f2c87f1e2ef3d00e7aca4cc31d604cd7edf46a7a75a690446"
-    },
-    {
-      "id": "2e5a4bf402a005fc3dc3",
-      "title": "Las heridas (y lecciones) que deja la eutanasia de Noelia Castillo",
-      "summary": "Noelia Castillo y su madre Yolanda Ramos, durante la entrevista al programa 'Y ahora Sonsoles', de Antena 3.",
-      "link": "https://elpais.com/sociedad/2026-03-29/las-heridas-y-lecciones-que-deja-la-eutanasia-de-noelia-castillo.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/FQ32A4WNDZE2FDGRTKNIE3NTAQ.jpg?auth=d3a1637713c8044d0d61da2e75fcb3d0c5197fdc4b91cbd689a951bb9db6b5d3"
-    },
-    {
-      "id": "24bbf0a58909806ca4c9",
-      "title": "“Pep ha soltado el freno de mano”: por qué Guardiola vuelve a ser el más elegante del fútbol",
-      "summary": "Pep Guardiola el pasado 17 de marzo durante el partido que enfrentó al Manchester y al Real Madrid.",
-      "link": "https://elpais.com/icon/2026-03-29/pep-ha-soltado-el-freno-de-mano-por-que-guardiola-vuelve-a-ser-el-mas-elegante-del-futbol.html",
+      "id": "bceb3b7da99dbc59986b",
+      "title": "Todos firmes ante la soldado Foster",
+      "summary": "Jessica Foster, una militar creada por inteligencia artificial que apareció en una cuenta que Instagram ha tenido que cerrar.",
+      "link": "https://elpais.com/ideas/2026-03-29/todos-firmes-ante-la-soldado-foster.html",
       "pubDate": "Sun, 29 Mar 2026 03:30:00 GMT",
       "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/HRLXDJLCRVFYXN5SZKOI6BUZTU.jpg?auth=98e3e57d274eb2237dbcd9ea5ebc62eed3be8f7009dbac790aa4f7ebea06514a"
-    },
-    {
-      "id": "cfd43888a61371a12b61",
-      "title": "Tras los primeros pasos en África del fármaco revolucionario que puede acabar con el sida: “No consigo protegerme porque ellos no quieren usar condón”",
-      "summary": "Una enfermera prepara una dosis de lenacapavir en una clínica de Esuatini, el 17 de marzo de 2026. Este pequeño reino africano, especialmente castigado por el VIH, se ha convertido en uno de los primeros países del mundo en distribuir este fármaco preventivo.",
-      "link": "https://elpais.com/planeta-futuro/2026-03-29/tras-los-primeros-pasos-en-africa-del-farmaco-revolucionario-que-puede-acabar-con-el-sida-no-consigo-protegerme-porque-ellos-no-quieren-usar-condon.html",
-      "pubDate": "Sun, 29 Mar 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/N6B4S75EIZFMFB76JBNIR6XMSM.jpg?auth=547a7390ffa29711f8c173f98980ce8d8003d25a9d4581649167df7e28a5874b"
+      "cat": "ia",
+      "image": "https://imagenes.elpais.com/resizer/v2/WTGTTU23FFBVPMJCOZPNZEGGYU.jpg?auth=4abc3f17668883b476930fbcb48c14170967c1670008e5db7f674b8b418aab4e",
+      "subcat": "herramientas"
     },
     {
       "id": "cd2183078a408fb69d06",
@@ -1538,16 +1119,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/tras-el-corazon-verde.jpg"
     },
     {
-      "id": "7485c5c92eb1eed0b0f7",
-      "title": "Cómo los gigantes de la IA intentaron tomar al asalto el último reducto de la mente humana: las olimpiadas matemáticas",
-      "summary": "Imagen del segundo día de examen en la IMO de Australia 2025.",
-      "link": "https://elpais.com/ciencia/2026-03-22/como-los-gigantes-de-la-ia-intentaron-tomar-al-asalto-el-ultimo-reducto-de-la-mente-humana-las-olimpiadas-matematicas.html",
-      "pubDate": "Sun, 22 Mar 2026 04:30:01 GMT",
-      "source": "El País Tech",
-      "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/GGHK7BMNEJAUHBPQSU65WVNNVM.webp?auth=d9a1544f7660e6aaa8e6797eb664fe201d221105837747573011eb04e9c41f8b"
-    },
-    {
       "id": "566a405a959fa5152d39",
       "title": "Chris Claremont revelará el secreto mejor guardado del pasado de Gambito",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Hay personajes que entran en los X-Men y ya está… y luego está Gambito , que siempre ha tenido ese aura de tipo peligroso, elegante y con más secretos que bolsillos en la gabardina. Ahora, Marvel ha decidido volver a uno de los rincones más jugosos de su historia con una miniserie que promete enseñarnos justo lo que muchos llevaban años queriendo ver: qué pasó realmente antes de que se convirtiera en uno de los mutantes más carismáticos de los cómics. Y lo mejor de todo es que no lo hará cualquiera. Será Chris Claremont , una auténtica institución mutante, quien se encargue de abrir ese cajón cerrado con llave. Así que sí, esto tiene muy buena pinta. Porque cuando el creador vuelve a tocar a uno de sus personajes más queridos, normalmente no viene a perder el tiempo. Marvel rescata uno de los huecos más interesantes en la historia de Gambito La nueva serie se titulará Gambit: Wanted y llegará este mes de julio con una propuesta muy clara: contarnos la última gran aventura de Gambito antes de unirse oficialmente a los X-Men . Y ojo, porque no estamos hablando de una anécdota menor ni de una historia de relleno con cuatro poses y dos explosiones. Marvel la está vendiendo como una pieza importante del pasado del personaje. La historia nos lleva de vuelta a Nueva Orleans, ese escenario inseparable de Remy LeBeau , donde el personaje regresa después de haber tenido ya contacto con el grupo mutante. El problema es que Gambito todavía no está preparado para dejar atrás su antigua vida, sus amistades, sus códigos y ese estilo de supervivencia tan suyo que siempre ha ido a medio camino entre lo heroico y lo delictivo. Y ahí está precisamente la gracia. Gambito nunca ha sido un héroe limpio, de esos que entran por la puerta principal con el uniforme planchado. Lo suyo siempre ha funcionado mejor en la zona gris, en ese terreno donde un ladrón puede acabar salvando el día y donde un buen tipo puede tomar decisiones ",
@@ -1676,16 +1247,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/What-if-50-aniversario-marvel-comics.jpg"
-    },
-    {
-      "id": "4cb3101b85cbd5998166",
-      "title": "Larry Fink, presidente de BlackRock y el hombre más poderoso del mercado: “La economía mundial entrará en recesión si la guerra en Irán se alarga más de un año”",
-      "summary": "Larry Fink, el pasado miércoles en el club Monteverdi de Madrid, durante la entrevista.",
-      "link": "https://elpais.com/economia/negocios/2026-03-28/larry-fink-presidente-de-blackrock-y-el-hombre-mas-poderoso-del-mercado-si-la-guerra-en-iran-se-alarga-mas-de-un-ano-la-economia-mundial-entrara-en-recesion.html",
-      "pubDate": "Sat, 28 Mar 2026 16:50:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XF6BJNQ3KRHJPOQKBDWOWM5NV4.jpg?auth=814e0dd07c5efa668b56160961d8ec000cae34f5403afd0b035142b6b76c8798"
     },
     {
       "id": "d959a21e344658767437",
@@ -1830,16 +1391,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/5PHJOWMKRZEW3AYUP3MIJ32TFA.jpg?auth=de4df3ba23e0adab7ff92bcce46e8447a61e40285bcd39a49b46400cf689f778"
     },
     {
-      "id": "5c4d198fb2e3ebd286d6",
-      "title": "Daredevil Born Again: Marvel confirma dónde se sitúa la temporada 2 en la línea temporal",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Mucho se ha dicho sobre dónde encaja la temporada 2 de Daredevil: Born Again en la línea de tiempo del Universo Cinematográfico de Marvel, especialmente ante las preocupaciones de que Thunderbolts* contradiga de alguna manera los eventos de ambas temporadas. No hay nada en la película que sugiera que la Fuerza de Tarea Anti-Vigilantes del alcalde Wilson Fisk esté patrullando las calles, pero la batalla con The Void ocurre bastante rápido, lo que significa que es factible que no tuvieran tiempo de llegar allí. Aun así, parece que el impacto del ataque de The Sentry no se sentirá en Daredevil o Kingpin . La cronología oficial de Daredevil: Born Again Para aquellos ansiosos por saber dónde encaja la temporada 2 en la cronología del UCM, aquí está la respuesta definitiva: Temporada 1: Se desarrolla después de Deadpool Wolverine y Agatha All Along . Temporada 2: Ocurre después de Captain America: Brave New World , Thunderbolts* y The Fantastic Four: First Steps . Esto implica que las tres películas se sitúan durante los seis meses de diferencia entre cada temporada. Conexiones adicionales: Se ha confirmado que Wonder Man ocurre después de los eventos de la temporada 2 de Born Again . Del mismo modo, Spider-Man: Brand New Day también se sitúa después de esta temporada, algo confirmado por un spoiler considerable en su primer tráiler. Aunque se debe tomar con cautela, el insider @Cryptic4KQual ha mencionado que, si bien es poco probable que Daredevil se una a los Vengadores, las «posibilidades de que esté en Doomsday han subido un poco». El regreso de caras conocidas y nuevos fichajes en Daredevil: Born Again Charlie Cox adelantó en una entrevista con Entertainment Weekly el enfrentamiento físico y emocional entre el Hombre sin Miedo y el Kingpin mientras la trama del «Alcalde Fisk» llega a su fin antes de la temporada 3. El reparto de esta temporada 2 de Daredevil: Born Again es una mezcla de nostalgia y nuevas",
-      "link": "https://www.cinemascomics.com/daredevil-born-again-2-marvel-linea-temporal/",
-      "pubDate": "Sat, 28 Mar 2026 04:17:04 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/02/daredevil-born-again.jpg"
-    },
-    {
       "id": "c43cb26ffac2efb40d7c",
       "title": "Por qué Alemania está buscando trabajadores inmigrantes y dónde los está encontrando",
       "summary": "La nación europea está teniendo dificultades encontrando empleados cualificados y por eso está aumentando el reclutamiento de jóvenes trabajadores extranjeros.",
@@ -1910,6 +1461,728 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg"
     },
     {
+      "id": "909418684434bb8acedd",
+      "title": "Gaitán y Saviola, sobre el incidente Vini-Prestianni: \"No estamos a favor de que se digan ciertas cosas... pero tampoco de la provocación\"",
+      "summary": "Nico Gaitán y Saviola hablaron sobre el incidente de Prestianni con Vinicius.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/03/30/gaitan-saviola-sobre-incidente-vini-prestianni-favor-digan-cosas-tampoco-provocacion.html",
+      "pubDate": "Mon, 30 Mar 2026 06:06:24 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c984291d04d.jpeg"
+    },
+    {
+      "id": "0b0d4c52f69748411137",
+      "title": "Se juegan un billete para el para el Mundial",
+      "summary": "Luis de la Fuente, durante un partido.",
+      "link": "https://www.marca.com/futbol/seleccion/2026/03/30/espana-egipto-ultima-prueba-resolver-batallas-mundialistas.html",
+      "pubDate": "Mon, 30 Mar 2026 06:02:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c984f7bb5fe.jpeg"
+    },
+    {
+      "id": "de5f654e793d29e243b4",
+      "title": "César Tárrega: “Fuera soy tranquilo, pero en el campo saco mi agresividad”",
+      "summary": "César Tárrega, jugador del Valencia, en la ciudad deportiva de Paterna.",
+      "link": "https://www.marca.com/futbol/valencia/2026/03/30/cesar-tarrega-fuera-tranquilo-campo-saco-mi-agresividad.html",
+      "pubDate": "Mon, 30 Mar 2026 05:59:04 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c95646354ae.jpeg"
+    },
+    {
+      "id": "6650423eeffdd51c365f",
+      "title": "Ocho ‘primeras’ se juegan el Mundial",
+      "summary": "Lewandowski, Bakambú y Arda Güler.",
+      "link": "https://www.marca.com/futbol/mundial/2026/03/30/ocho-primeras-juegan-mundial.html",
+      "pubDate": "Mon, 30 Mar 2026 05:58:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9852b7ccd4.jpeg"
+    },
+    {
+      "id": "49d4a88044c3c02e39df",
+      "title": "Cuatro 'españoles' para vengar a un país que se convirtió en un chiste del Mundial",
+      "summary": "Nicolae Rainea enseña la amarilla a Mwepu Ilunga en el Zaire-Brasil.",
+      "link": "https://www.marca.com/futbol/mundial/2026/03/30/republica-democratica-congo-quiere-volver-mundial-jugo-nombre-bandera-dejo-imagen-historica.html",
+      "pubDate": "Mon, 30 Mar 2026 05:58:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9612ee4e3c.jpeg"
+    },
+    {
+      "id": "b22bd789ed7b360498fb",
+      "title": "Raya vuelve a su debut",
+      "summary": "David Raya, con Luis Enrique, tras su debut con España.",
+      "link": "https://www.marca.com/futbol/seleccion/2026/03/30/raya-vuelve-debut.html",
+      "pubDate": "Mon, 30 Mar 2026 05:58:04 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c98927a2bac.jpeg"
+    },
+    {
+      "id": "503ea6d109a517a816b9",
+      "title": "Garrido: \"Para Egipto no existen los amistosos\"",
+      "summary": "Juan Carlos Garrid logró dos títulos en sólo cinco meses que lleva al frente del equipo cairota Al Ahly.",
+      "link": "https://www.marca.com/futbol/seleccion/2026/03/30/garrido-egipto-existen-amistosos.html",
+      "pubDate": "Mon, 30 Mar 2026 05:57:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9873890573.jpeg"
+    },
+    {
+      "id": "8c729f9e25297fe433fc",
+      "title": "Toscana Viar: \"Una mala alimentación puede impedir que un potencial campeón llegue a serlo\"",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/seleccion/2026/03/30/toscana-viar-mala-alimentacion-impedir-potencial-campeon-llegue-serlo.html",
+      "pubDate": "Mon, 30 Mar 2026 05:57:15 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/69c683e5a3791.jpeg"
+    },
+    {
+      "id": "cb0d2aaa0299a04dcbf9",
+      "title": "Llorente 'copia' la fórmula Cucurella",
+      "summary": "Marcos Llorente, al llegar a la concentración de la selección.",
+      "link": "https://www.marca.com/futbol/seleccion/2026/03/30/llorente-copia-formula-cucurella.html",
+      "pubDate": "Mon, 30 Mar 2026 05:56:56 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c84ab0c2962.jpeg"
+    },
+    {
+      "id": "eb11ebcc3f1abde4593d",
+      "title": "\"El fútbol según Rousseau\"",
+      "summary": "El Betis se proclamó campeón del mundial sub 12",
+      "link": "https://www.marca.com/futbol/opinion/2026/03/30/futbol-rousseau.html",
+      "pubDate": "Mon, 30 Mar 2026 05:56:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9543f36884.jpeg"
+    },
+    {
+      "id": "61567f414f57be8b14ad",
+      "title": "Galán y Chingotto vuelven a derrotar a los Coello y Tapia más vulnerables",
+      "summary": "Chingotto y Galán celebrando el título en Miami.",
+      "link": "https://www.marca.com/padel/2026/03/30/galan-chingotto-vuelven-derrotar-coello-tapia-vulnerables.html",
+      "pubDate": "Mon, 30 Mar 2026 05:53:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69c9d6d57758b.jpeg"
+    },
+    {
+      "id": "72a026b695f8925fb778",
+      "title": "El Gobierno oficializó los aumentos en las tarifas de gas que regirán a partir del 1° de abril",
+      "summary": "El Gobierno oficializó un aumento del 1,8% en las tarifas de gas para los usuarios de Metrogas y de las empresas regionales de todo el país, que comenzará a regir desde el 1° de abril de 2026 , como resultado de la actualización del precio del servicio, la aplicación de un nuevo tramo de la revisión quinquenal tarifaria y los mecanismos de ajuste mensual previstos en la normativa vigente. La medida se formalizó mediante una serie de resoluciones del Ente Nacional Regulador del Gas (Enargas), publicadas este lunes en el Boletín Oficial. El aumento combina distintos factores . Por un lado, el traslado a las tarifas finales de los nuevos precios del gas establecidos en el marco del Plan Gas.Ar , que determinan el costo del fluido en el punto de ingreso al sistema de transporte (PIST). A su vez, la resolución dispuso la aplicación de una nueva cuota del incremento surgido de la Revisión Quinquenal de Tarifas (RQT). Ese proceso prevé que el ajuste total se instrumente en treinta y un aumentos mensuales y consecutivos a lo largo del período 2025-2030. El esquema tarifario también incorpora la actualización mensual prevista en las Reglas Básicas de la Licencia . Ese mecanismo se basa en la variación de índices definidos por el ente regulador y forma parte del sistema de adecuación periódica de los ingresos de la distribuidora. De acuerdo con los valores incluidos en el anexo de la resolución, los montos varían según categoría y nivel de consumo . En el caso de los usuarios residenciales sin subsidios, el cargo fijo mensual para la categoría más baja (R1) se ubica en $3824 en la Ciudad de Buenos Aires y en $4416 en el conurbano , mientras que en los niveles de mayor consumo (R4) superan los $91.000 en la Capital Federal . En paralelo, el cargo por consumo presenta valores escalonados que parten de $272 por metro cúbico en las categorías más bajas y superan los $400 en los segmentos de mayor demanda, según la estructura tarifaria definida para abril. El detalle técnico del c",
+      "link": "https://www.lanacion.com.ar/economia/el-gobierno-oficializo-los-aumentos-en-las-tarifas-de-gas-que-regiran-a-partir-del-1-de-abril-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 04:27:31 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/HHVVL4RLV5BLFNSJSW7ALKU4PY.JPG?auth=8efa7807af11e3d7942e3734da639c0adbf0168f022eafe9d6198cdaa852b513&smart=true&width=4928&height=3280"
+    },
+    {
+      "id": "e27304ac7789d4e09ccd",
+      "title": "La fuerte crítica de Rafael Dudamel a la AFA y a los amistosos de la selección: “Otros juegan contra Mauritania...”",
+      "summary": "El exfutbolista y entrenador venezolano, Rafael Dudamel , cuestionó el nivel de los amistosos que pautó la selección argentina para disputar en la previa del Mundial 2026 y los comparó la “ valiente ” planificación de Colombia , que este domingo perdió contra Francia por 3 a 1 y el jueves cayó frente a Croacia por 2 a 1. “ Dentro lo deslucido que pudo mostrarse Colombia ante Croacia y Francia hay que resaltar la valentía de esta planificación previa al Mundial , que implicó jugar contra Croacia y contra Francia\", destacó Dudamel durante el cierre de la transmisión del partido entre el combinado cafetero y el equipo subcampeón del mundo. Fue entonces que lanzó un dardo venenoso contra la Argentina: “ Mientras otros jugaban contra Guatemala o Mauritania, Colombia decidió medirse a lo grande y eso te desnuda muchas falencias “. Sus declaraciones se producen en un contexto en el que el seleccionado nacional quedó envuelto en cuestionamientos por la calidad de sus recientes amistosos . Tras la suspensión de la Finalissima frente a España por el conflicto bélico en Medio Oriente, la agenda del equipo dirigido por Lionel Scaloni debió reconfigurarse a contrarreloj, y la primera opción fue Guatemala. No obstante, esa alternativa también se cayó y la AFA avanzó entonces con la organización de dos encuentros ante seleccionados africanos. Los rivales elegidos fueron Mauritania —partido que ganó Argentina 2-1 en La Bombonera— y Zambia , contra quienes se medirán este martes 31 de marzo , también en el estadio de Boca. Durante los días previos a los partidos, la elección de los rivales generó cuestionamientos en el ámbito local por el bajo nivel de exigencia deportiva que representan. En ese contexto, las declaraciones de Dudamel se alinean con esas críticas y les agregan una mirada externa, al contrastar la planificación de Colombia con la del seleccionado argentino. Ese malestar generado contra la planificación hecha por la AFA se trasladó incluso al estadio. En la previa del ",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-fuerte-critica-de-rafael-dudamel-a-la-afa-y-a-los-amistosos-de-la-seleccion-otros-juegan-contra-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 04:01:40 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/XJKD7DGKJRA57LPWEIGOGMDERA.jpg?auth=abc1282c13a76ddbd9437645191c357e683840278f6f3d155185633412ba2692&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "416db9c3f1e17aa9e59d",
+      "title": "Detrás de un lote urbano típico, se despliega un paisaje inmersivo que propone otra forma de habitar el exterior",
+      "summary": "El Estudio Bulla estuvo a cargo del paisajismo de este jardín bien urbano de 175 m² en el barrio de Palermo. El proyecto de paisaje para la casa se concibe como una operación de sutura entre arquitectura y naturaleza: un sistema en el que los límites entre interior y exterior se disuelven, y donde la vegetación actúa como materia constructiva tanto como el hormigón o la madera. Desde el acceso, el espacio se organiza en torno a una pieza principal: módulos de lajas realizadas in situ articulan la circulación y estructuran el espacio exterior. Las juntas vegetadas se intercalan y permiten que el suelo mineral conviva con el crecimiento vegetal, lo que genera un tapiz dinámico que cambia con las estaciones y acompaña el uso cotidiano de la casa. La vegetación se dispone en bordes densos y envolventes, casi selváticos, que activan un clima propio dentro del lote estrecho y urbano. Salvias, helechos, pastos palmeras acompañan la circulación creando una sensación de inmersión y una transición progresiva entre lo doméstico y lo natural. Se prioriza el uso de especies de sombra y media sombra , adaptadas al tejido urbano de Palermo. Éstas, en un gran porcentaje, son nativas que aportan a la atracción de biodiversidad y permiten la incorporación de diferentes especies de pájaros, mariposas, abejas a la vida cotidiana. La arquitectura, a cargo del Estudio Grimaldi Natch, se lee como un soporte que contiene y enmarca el paisaje . Los muros funcionan como fondo neutro para que la vegetación trepadora ascienda y tome altura. El diseño busca que los espacios exteriores sean utilizables y habitables todo el año. La estrategia general propone un paisaje denso , cercano y sensorial, que enfatiza la experiencia de caminar, tocar y oler. Cada desplazamiento por el jardín construye una secuencia espacial: pasajes estrechos envueltos en vegetación , aperturas hacia el patio principal, rincones semicubiertos y claros donde la luz cae filtrada entre hojas. En un contexto urbano consolida",
+      "link": "https://www.lanacion.com.ar/revista-jardin/detras-de-un-lote-urbano-tipico-se-despliega-un-paisaje-inmersivo-que-propone-otra-forma-de-habitar-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 04:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/33UKLAR2NJEGVK4D7XXYMM3TCM.jpg?auth=9afaead7196335b39052cbdd92572b101a9b2a7bd201c871b127447163e9c9f8&smart=true&width=2002&height=1333"
+    },
+    {
+      "id": "9183b9ae0bbba8f99588",
+      "title": "Exasesor de Trump insta a hacer con Irán \"lo que hizo Alejandro Magno hace 2.300 años\"",
+      "summary": "\"Si vamos a ir a la guerra, que sea una guerra total\", sostuvo Steve Bannon.",
+      "link": "https://actualidad.rt.com/actualidad/596098-exasesor-trump-hacer-iran-alejando-magno?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 03:51:37 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e812e9ff710f8b527852.jpg"
+    },
+    {
+      "id": "cfdcb0e6dff8196f6970",
+      "title": "¿Cuántas horas trabajan los funcionarios de tu ayuntamiento? El 40% de las grandes ciudades aún no han instaurado las 35 horas",
+      "summary": "Fachada del Ayuntamiento de Valencia, en una imagen de archivo.",
+      "link": "https://elpais.com/economia/2026-03-30/cuantas-horas-trabajan-los-funcionarios-de-tu-ayuntamiento-esta-es-la-jornada-pactada-en-las-principales-ciudades.html",
+      "pubDate": "Mon, 30 Mar 2026 03:45:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/5RQHGMPGFJDNTOUSHVEHNRI3SA.jpg?auth=dcb6272a06b0aef2d08817d8be3625b4c4f14deda4b65a114b2006a5117e044a"
+    },
+    {
+      "id": "4f313cbb5c53fc9843ce",
+      "title": "Netflix contra YouTube: ¿solo puede quedar uno?",
+      "summary": "Las reglas del juego audiovisual están cambiando y ahora la lucha de dos titanes del entretenimiento marcará el futuro de la televisión",
+      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-03-30/netflix-contra-youtube-solo-puede-quedar-uno.html",
+      "pubDate": "Mon, 30 Mar 2026 03:45:01 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": ""
+    },
+    {
+      "id": "641a36c4bd1fdc4a345f",
+      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El SMN anticipa para este lunes temperaturas entre 21°C y 26°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-lunes-30-marzo-2026_0_KFaJeuAO5p.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:56 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/g8BBYIxw-_1200x630__1.jpg"
+    },
+    {
+      "id": "6dfc94b52ed537f7583d",
+      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_xWHDwLmwn0.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:33 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/ceMHVSe3W_1200x630__1.jpg"
+    },
+    {
+      "id": "48bebfe5226977edc1de",
+      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_F4Nrsj6OuD.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:33 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg"
+    },
+    {
+      "id": "18584fd3728b271b144f",
+      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_wmXqNolYpQ.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:33 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg"
+    },
+    {
+      "id": "1fbc1500bdaad6969058",
+      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_vegGr6FhXA.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:08 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
+    },
+    {
+      "id": "7038027a756772c5470f",
+      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_dY7epmcOBL.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:08 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
+    },
+    {
+      "id": "3e785d0e90fe18a19efe",
+      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_IUz7ycYGHU.html",
+      "pubDate": "Mon, 30 Mar 2026 03:41:07 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/ceMHVSe3W_1200x630__1.jpg"
+    },
+    {
+      "id": "713c269c0adfd09e4256",
+      "title": "Clima hoy en Tacuarembó, Uruguay: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-tacuarembo-uruguay-pronostico-tiempo-lunes-30-marzo-2026_0_2TDIrxh0RF.html",
+      "pubDate": "Mon, 30 Mar 2026 03:40:43 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/TVpsiwPVQ_1200x630__1.jpg"
+    },
+    {
+      "id": "b40e6e78dc4e8deac268",
+      "title": "Clima hoy en Barquisimeto, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-barquisimeto-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_9vsk5rDSRe.html",
+      "pubDate": "Mon, 30 Mar 2026 03:40:43 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
+    },
+    {
+      "id": "277f33334a003bd378a9",
+      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
+      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_1NLlkwTWxi.html",
+      "pubDate": "Mon, 30 Mar 2026 03:40:43 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/30/FDp8zU61M_1200x630__1.jpg"
+    },
+    {
+      "id": "f0ca9987c1bdb000f913",
+      "title": "Las derrotas de Trump desnudan los límites de EE UU",
+      "summary": "Intervención de Trump en el foro FII Priority este viernes, en Miami.",
+      "link": "https://elpais.com/internacional/2026-03-30/las-derrotas-de-trump-desnudan-los-limites-de-ee-uu.html",
+      "pubDate": "Mon, 30 Mar 2026 03:40:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/GS7AJZ6PJNIUDFHEQ6IJ3DL634.jpg?auth=bd38320633c981c5c319c355585581b5b8431aecb3ad5c0a02bb1e99f1f60b99"
+    },
+    {
+      "id": "d80b10dd114df5b04d9f",
+      "title": "Radiografía del poder hoy en Irán: la Guardia Revolucionaria toma el mando",
+      "summary": "Un agente de las fuerzas de seguridad iraníes vigila durante el funeral del portavoz de la Guardia Revolucionria, Ali Mohammad Naini, el 21 de marzo en Teherán.",
+      "link": "https://elpais.com/internacional/2026-03-30/radiografia-del-poder-hoy-en-iran-la-guardia-revolucionaria-toma-el-mando.html",
+      "pubDate": "Mon, 30 Mar 2026 03:40:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/P5XB44HJQFDGBD34EMYN44MR2M.jpg?auth=633e508e39b84eb328643e415fa12a831fa39c8db542d3e35527039f26a216f9"
+    },
+    {
+      "id": "c218a61fcbe1982e9f5f",
+      "title": "Las grandes capitales de Europa se resisten ante el apogeo de la extrema derecha",
+      "summary": "La candidata a la alcaldía de París del partido ultraderechista ¡Reconquista!, Sarah Knafo, en un mitin en febrero en la capital francesa.",
+      "link": "https://elpais.com/internacional/2026-03-30/las-grandes-capitales-de-europa-se-resisten-ante-el-apogeo-de-la-ultraderecha.html",
+      "pubDate": "Mon, 30 Mar 2026 03:40:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/E67WM5B5RNOS5NUFT4MOBIIV7M.jpg?auth=948561682f418c987a1eca60b9bebfd8062fa8aa7baf3c2a495deaa5d8e0cdcb"
+    },
+    {
+      "id": "4dbfc8a6989c8a88262c",
+      "title": "España cierra su espacio aéreo a los vuelos de aviones que participan en la guerra de Irán",
+      "summary": "Un avión estadounidense B-52H en Morón, en mayo de 2025.",
+      "link": "https://elpais.com/espana/2026-03-30/espana-cierra-su-espacio-aereo-a-los-vuelos-de-aviones-que-participan-en-la-guerra-de-iran.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/JZMUNH7SEFETTBXWAEFF5H3HAU.jpg?auth=3423c949f75702209667eaf3a1c4195fb59da93ccee1685ad8c23048adda4533"
+    },
+    {
+      "id": "44452cb58698c1f49a97",
+      "title": "¿Hasta qué punto pueden los hutíes escalar el conflicto en Irán?",
+      "summary": "¿Pueden los hutíes escalar el conflicto en Irán?",
+      "link": "https://elpais.com/videos/2026-03-30/hasta-que-punto-pueden-los-huties-escalar-el-conflicto-en-iran.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/IYNCZOYQLNGF5KBF4IPFPFQ6A4.jpg?auth=0d3e3bca7e32ed70e01221636b103fb4d2ede0adebd6c7807a57a8fb429c2f22"
+    },
+    {
+      "id": "c10a10d2ac94f1dc3dc6",
+      "title": "La gran misa pagana de Rosalía: todas las claves del ‘Lux Tour’ en su desembarco en España",
+      "summary": "Rosalía, durante su concierto en el Accor Arena de París, el 18 de marzo, segunda fecha del 'Lux Tour' tras su estreno en Lyon.",
+      "link": "https://elpais.com/cultura/2026-03-30/la-gran-misa-pagana-de-rosalia-todas-las-claves-del-lux-tour-en-su-desembarco-a-espana.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/E757P46S55GHVF6QXNNYBABL2A.jpg?auth=294d90b0dd0e6c1abde6cb4bce78720a6d760a6aaa2953623a2249907546ed8a"
+    },
+    {
+      "id": "7416b64f787f156f3923",
+      "title": "Eve Babitz, la díscola cronista de Los Ángeles resucita",
+      "summary": "Retrato de Eve Babitz con una copia de uno de sus libros, en una imagen cedida por su hermana Mirandi Babitz.",
+      "link": "https://elpais.com/cultura/2026-03-30/eve-babitz-la-discola-cronista-de-los-angeles-resucita.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/2SISCLLP3JHBTPU7TCIOA7ZFPQ.jpg?auth=ac30eec8bd3ae807cfa146ab976726e6f922e791ab1c0dab919ae9ded61a8883"
+    },
+    {
+      "id": "53bf70ba6bdbbd2be9f8",
+      "title": "De una exempleada de Facebook a padres desesperados: así se fraguó el mayor revés judicial contra las redes sociales",
+      "summary": "Familiares y abogados celebran la sentencia contra Meta y Google el 25 de marzo en Los Ángeles.",
+      "link": "https://elpais.com/tecnologia/2026-03-30/de-una-exempleada-de-facebook-a-padres-desesperados-asi-se-fraguo-el-mayor-reves-judicial-contra-las-redes-sociales.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/5MADOGXGSZGDLNKC7P6G3HVCPQ.JPG?auth=f2125e76153fac5af89aa8b9010303614c22568e2cf596a7feda582e23bf4528"
+    },
+    {
+      "id": "d0297c5f1df2a44f7f73",
+      "title": "Esa subvención de la que usted me habla",
+      "summary": "Santiago Segura en un momento de 'Torrente 5: Operación Eurovegas'.",
+      "link": "https://elpais.com/television/2026-03-30/esa-subvencion-de-la-que-usted-me-habla.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/6PADRS7DVFH2VD7TA543ZKIR54.jpg?auth=66d0a45ab5bb89ab2c491fd17ede5ccec0c4517c7da3daf0bef13d873dcd6ee3"
+    },
+    {
+      "id": "a3893ee7fc2cf610e9eb",
+      "title": "¿Hernán Cortés o Cuauthémoc?",
+      "summary": "De manera un tanto informal, Felipe VI ha dejado caer que en la conquista de América hubo abusos y controversias. Gran noticia y notable escándalo. Le ha costado años hacerlo, pero sus palabras, bastante medidas, pueden servir para suavizar las relaciones con México, emponzoñadas por la cuestión. Sin embargo, destacadas voces de la extrema derecha, y de la derecha extrema, se han revuelto con ferocidad, porque semejante afirmación pone en duda sus creencias más profundas: al parecer, los enemigos de España acechan incluso entre los consejeros del Monarca. Seguir leyendo",
+      "link": "https://elpais.com/opinion/2026-03-30/hernan-cortes-o-cuauthemoc.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/DPVRTY3PHFBLRHQH5SEC2NRFEA.jpg?auth=7bc1ef375adb03e62605a8a7f62eb6b736f2cbe8c8c131300fd137a4d565b5a9"
+    },
+    {
+      "id": "d4303cb8ef5fdc2af244",
+      "title": "“La dirección nos presionó para que echáramos a Espinosa de los Monteros”, asegura un exdirectivo de Vox",
+      "summary": "José Francisco Garre, Espinosa de los Monteros y José Ángel Antelo, exdirigentes de Vox, en una foto cedida por Garre.",
+      "link": "https://elpais.com/espana/2026-03-30/la-direccion-nos-presiono-para-que-echaramos-a-espinosa-de-los-monteros-asegura-un-exdirectivo-de-vox.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/JSGXM5I5JNEG5BO5GRLYHDINJQ.jpg?auth=aeea600556b65c55028343d6f22ba7d3e0e83562dbc7f035b36eb3ef55f41738"
+    },
+    {
+      "id": "a76f9df68ca11f1b7b0c",
+      "title": "Sánchez reunirá a las principales organizaciones progresistas en Barcelona",
+      "summary": "Pedro Sánchez, en noviembre de 2025 en el Consejo de la Internacional Socialista celebrado en Malta.",
+      "link": "https://elpais.com/espana/2026-03-30/sanchez-reunira-a-las-principales-organizaciones-progresistas-en-barcelona.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/FKGZJHCQDBCKJA2S2NSOBLU2XE.jpg?auth=1e8dc1065413d0307a30ecf2c66171892213dff68da359ac0c807016d33a9dff"
+    },
+    {
+      "id": "cb389b008784289baa4c",
+      "title": "China pisa el acelerador en la carrera de los implantes cerebrales",
+      "summary": "El implante cerebral Beinao-1, expuesto en la sede del Instituto Chino de Investigación Cerebral el pasado jueves.",
+      "link": "https://elpais.com/ciencia/2026-03-30/china-pisa-el-acelerador-en-la-carrera-de-los-implantes-cerebrales.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/LQHVWPPWEFOMDGUUWHHRBT2LD4.jpg?auth=4d98519a06c73adc76b151cf6910fe8031da42e5bc5eb493f98c60d2dd57a145"
+    },
+    {
+      "id": "77620164dbcae94fee42",
+      "title": "Dubái: el refugio de “la clase alta del narco” comienza a tambalearse",
+      "summary": "“En Dubái están los que disparan con el teclado del teléfono, calentitos en sus casas, mientras aquí se montan algunos pitotes que flipas . Aunque ahora empiezan a no tenerlo tan fácil”. Juan —nombre ficticio mediante— resume en dos frases cómo y desde dónde opera lo que él llama con guasa “la clase alta de narcolandia”, que él conoce bien desde dentro. Tiene amigos ahí, ha invertido en algún porte de hachís y se conoce a la mayoría de los capos del Estrecho de Gibraltar, pero reconoce que llegar a esas esferas de poder son palabras mayores y peligrosas. Hace ya cuatro años que la cúspide del negocio de la droga del país, especialmente si es cocaína, mudó su “oficina central”, como la define un policía del Grupo de Respuesta Especial para el Crimen Organizado (GRECO) de Cádiz, a esta ciudad de Emiratos Árabes. Sin embargo, la guerra de Irán, la nueva colaboración policial con las autoridades emiratíes y la pérdida del anonimato del destino como refugio del narco están llevando a los más poderosos a mover ficha. Seguir leyendo",
+      "link": "https://elpais.com/espana/2026-03-30/dubai-el-refugio-de-la-clase-alta-del-narco-comienza-a-tambalearse.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "ia",
+      "image": "https://imagenes.elpais.com/resizer/v2/JMUXSEWDIVB45IZ4KDIV6AKDLM.jpeg?auth=6dc11069c4e9ba04fcf3a1619038da6ebede189a750d3dcfce445837a639c41c",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "656edeff71444e16769f",
+      "title": "María recibió 2.990 euros por un amigo y acabó condenada por estafa",
+      "summary": "Los abogados María Angeles Ten y Francisco José Montero Arroyo, junto a su cliente condenada por hacer de mula en una estafa financiera.",
+      "link": "https://elpais.com/espana/madrid/2026-03-30/maria-recibio-2990-euros-por-un-amigo-y-acabo-condenada-por-estafa.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/7VAMZUKITVFVZO74EDCKYNV3ME.jpg?auth=a299086432f33065641a253b59d696c7a89ac3ad872cf153bcdb4d1f5b5c68bf"
+    },
+    {
+      "id": "f837b89d3594b7f197a9",
+      "title": "Europa torpedea su futuro",
+      "summary": "Votación en sesión plenaria del Parlamento Europeo, en Bruselas el pasado día 26.",
+      "link": "https://elpais.com/opinion/2026-03-30/europa-torpedea-su-futuro.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/GZVC4WEVVBLSXL4U6ZIR3AC63M.jpg?auth=9b72863cade1148317ae4dae804d0cccc669ed374fad921260cc02ad6a1753a2"
+    },
+    {
+      "id": "0ab225a74831ccba9a57",
+      "title": "Los eurobonos ya no son (solo) cuestión de solidaridad",
+      "summary": "Miembros del Parlamento Europeo votan durante una sesión plenaria, el pasado día 26.",
+      "link": "https://elpais.com/opinion/2026-03-30/los-eurobonos-ya-no-son-solo-cuestion-de-solidaridad.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/XH7B3ZMYEJPLVMFK575DLUST3Q.jpg?auth=e71ffd43b8b9fffe13ff1abbf8963733e2e11ea81cb9e4c058a23e3b30518111"
+    },
+    {
+      "id": "217129d5970a78e3fd8a",
+      "title": "El Roto: arte de temporada",
+      "summary": "",
+      "link": "https://elpais.com/opinion/2026-03-30/el-roto-arte-de-temporada.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZP5XGQ446BEXNIZIAQS5TGAQIY.jpg?auth=c2cbf2dd8f0c70a323eed23034b7c252229c6bd967ee541293f582c3f2f8d390"
+    },
+    {
+      "id": "7d4f68a4b64bd62805a8",
+      "title": "Aquí no puede pasar",
+      "summary": "Agentes de seguridad y un grupo de migrantes interceptados en aguas internacionales en el puerto albanés de Shengjin, el 16 de octubre de 2024, donde fueron deportados por la Armada italiana.",
+      "link": "https://elpais.com/opinion/2026-03-30/aqui-no-puede-pasar.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/YQNUNDD2JNCFPFAKTWDIOWI33M.jpg?auth=031854f5fc89892c4866afeb5ac2f3433a083b11f3eab8016cdfad02e01ac616"
+    },
+    {
+      "id": "7b2cf3aea2df64eeb36c",
+      "title": "Estas son las profesiones mejor pagadas de España (con sueldos superiores a 50.000 euros)",
+      "summary": "La necesidad de médicos especialistas hace que sus ofertas de empleo sean las mejor remuneradas.",
+      "link": "https://elpais.com/economia/negocios/2026-03-30/estas-son-las-profesiones-mejor-pagadas-de-espana-con-sueldos-superiores-a-50000-euros.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/DFLXI2L5IBD4VIT35H2MBB6BUI.jpg?auth=c024ba54ec6dd12b8fb0b9093392f913a16a3d5d320a4cc5942e444472b8bb93"
+    },
+    {
+      "id": "7f30969e8d688496faee",
+      "title": "La redención de India Rose James: la arrogante heredera que quemaba billetes ahora presume de trabajo, familia y sobriedad",
+      "summary": "India Rose James en la semana de la moda de Londres, el 19 de septiembre de 2023.",
+      "link": "https://elpais.com/gente/2026-03-30/la-redencion-de-india-rose-james-la-arrogante-heredera-que-quemaba-billetes-ahora-presume-de-trabajo-familia-y-sobriedad.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/GE7TUFRINNH3RKFQPVGV4TC34I.jpg?auth=ce2e972f3f951a94e22573c323f031957088b66e24bd006bf23f5451ff973565"
+    },
+    {
+      "id": "23f7cba48bc997331c03",
+      "title": "Trump asegura que Irán aceptó \"la mayor parte\" del plan de paz, pero planteará exigencias adicionales",
+      "summary": "El mandatario estadounidense especificó que piensa \"pedir un par de cosas más\" en las negociaciones con Irán.",
+      "link": "https://actualidad.rt.com/actualidad/596099-trump-asegura-iran-acepto-mayor?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 03:28:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e785e9ff710f8b52784d.jpg"
+    },
+    {
+      "id": "31ac7df5020e0db575b7",
+      "title": "El verdadero pastrami ni es de Nueva York ni provoca orgasmos",
+      "summary": "'Pastramă' en los mostradores de las carnicerías del mercado de Obor, el mayor de Bucarest (Rumanía).",
+      "link": "https://elpais.com/gastronomia/2026-03-30/el-verdadero-pastrami-ni-es-de-nueva-york-ni-provoca-orgasmos.html",
+      "pubDate": "Mon, 30 Mar 2026 03:25:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/J2NRSVFAS5HNPOXDMRC32QA4QU.JPG?auth=d885a343b4953af234d9eb5d79593101dde95f00d8ed69a1313065bf71b697d7"
+    },
+    {
+      "id": "ba680cdff29846fa4961",
+      "title": "Veterinarios curan las heridas de un heroico perro de rescate iraní (VIDEO)",
+      "summary": "Un perro de rescate de la Media Luna Roja iraní resultó herido mientras participaba en una operación de búsqueda y salvamento. Tras sus heroicas proezas, veterinarios del equipo lo atienden con dedicación, velando por su pronta recuperación.",
+      "link": "https://actualidad.rt.com/actualidad/596093-veterinarios-curan-heridas-heroico-perro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 03:24:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e70759bf5b35e73b7968.jpg"
+    },
+    {
+      "id": "9acdb712ff791595d602",
+      "title": "Diplomático renuncia tras filtrar planes de un posible ataque nuclear contra Irán",
+      "summary": "Mohamad Safa manifestó que suspendía sus funciones \"para no ser parte ni testigo de este crimen contra la humanidad, en un intento de evitar un invierno nuclear\".",
+      "link": "https://actualidad.rt.com/actualidad/596095-diplomatico-renuncia-filtrar-planes-nuclear-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 03:21:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e6e759bf5b5fbd4041e9.jpg"
+    },
+    {
+      "id": "4c913e452a79e43e7849",
+      "title": "Razones para escribir",
+      "summary": "He pasado los ochenta y no siento que haya llegado la hora de despedirme de la escritura, como ha hecho mi contemporáneo, al que tanto admiro, Julian Barnes, porque cree que “ya ha tocado todas sus melodías”. Quiero ser escritor hasta la muerte, mientras conserve esos dos atributos fundamentales, sin los cuales no hay escritura: memoria e imaginación. “No puedes recordar sin imaginar, ni imaginar sin recordar”, dice el mismo Julian Barnes. Y no hay que olvidar un tercero: la curiosidad. Cuando empecé a escribir era impaciente. Al llegar a la universidad para estudiar derecho, empezamos a publicar una revista literaria, y me llevaba de la tipografía tiras de papel de las que servían para imprimir las pruebas con un rodillo. Aquellas largas tiras las metía en el carro de alguna máquina de escribir que estuviera ociosa en las oficinas de la universidad, y me sentaba a teclear como un desesperado, porque no quería desperdiciar el tiempo sacando y metiendo en el carro de la máquina las hojas de tamaño normal. Martillaba las teclas con dos dedos, y corregía muy poco porque pensaba que el mundo estaba ansioso de leer lo que escribía. La vida dedicada a escribir, y no con la constancia que hubiera querido, porque hubo largas interrupciones, me ha enseñado que la paciencia es también madre de la escritura. La paciencia para desechar lo escrito por mucho que te guste, porque reconoces en la página defectos y debilidades; para encontrar los errores de congruencia, para tachar, borrar, corregir, volver a empezar; saber, como decía Kafka, que el arte de escribir es el arte de suprimir. Hay quien dice que escribir es un acto de sufrimiento; si fuera así, nunca hubiera sido escritor. Hacer lo que no te gusta es la peor manera de cumplir una tarea. De la escritura uno no se retira; no hay tercera edad en este oficio. Con la edad llega el tiempo de la reflexión sobre la página escrita, y se desarrolla ese sentido crítico sin el cual toda escritura se vuelve peligrosa. Es lo que Hemi",
+      "link": "https://www.lanacion.com.ar/opinion/razones-para-escribir-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:13:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": ""
+    },
+    {
+      "id": "19889ff848489c0684ff",
+      "title": "Las PASO en la era de la IA",
+      "summary": "El Gobierno de Javier Milei avanza con una reforma electoral de cara a 2027 . La intención es eliminar o flexibilizar las Primarias Abiertas, Simultáneas y Obligatorias (PASO). Mientras que Unión por la Patria se prepara para resistir la supresión total, comienza a ganar terreno un “mal menor”: que dejen de ser obligatorias. Es el momento exacto para ir más lejos. Las PASO, como las conocemos desde 2009, fracasaron en su promesa democratizadora. Los partidos políticos no promovieron la competencia interna y cuando lo hicieron, en algunos casos, lo que se buscó fue la generosa financiación para imprimir las boletas partidarias. Hoy tenemos la chance de transformarlas en un instrumento moderno, voluntario y digital: primarias no obligatorias con voto remoto por internet. Una iniciativa destinada a los jóvenes electores que cada año que pasa son más relevantes en el padrón electoral. Las PASO nacieron con la idea de “democratizar” las candidaturas , pero en la práctica resultaron un gasto económico y logístico oneroso. Solo en 2023, el Estado destinó recursos equivalentes a obras públicas de gran envergadura para una instancia que, muchas veces, solo sirvió como una encuesta cara o para dirimir internas que los partidos debieron resolver puertas adentro. En la actualidad el ordenamiento del gasto es un tema central para la agenda del oficialismo. Aun siendo obligatorias, la participación osciló entre el 65-70%, por debajo de las generales. Las tecnologías avanzan en el mundo y en materia electoral el referente global de innovación es Estonia, que utiliza el i-Voting desde 2005. Según datos de Decoding the Vote , en las elecciones parlamentarias de 2023 se alcanzó un hito histórico: por primera vez, más del 51% de los votos se emitieron de forma electrónica. El sistema estonio es una cátedra de eficiencia: permite votar desde cualquier lugar, ofrece encriptación de extremo a extremo y —un detalle vital para la transparencia— permite “revotar” cuantas veces se quiera has",
+      "link": "https://www.lanacion.com.ar/opinion/las-paso-en-la-era-de-la-ia-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:13:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": ""
+    },
+    {
+      "id": "93356c480443454c9e62",
+      "title": "Netanyahu habilitó el acceso al Santo Sepulcro tras prohibir una misa en ese lugar",
+      "summary": "“Vamos adelantados con Irán. Llevamos semanas de adelanto... y tenemos un grupo, es realmente un nuevo régimen. Es un nuevo grupo de personas, personas con las que nunca habíamos tratado antes, que se están comportando de manera muy razonable”, expresó Trump en diálogo con la prensa desde el Air Force One. . @POTUS : We're ahead of schedule with Iran. We're weeks ahead of schedule... and we have a group, it's really a new regime. It's a new group of people — people that we've never dealt with before, that are acting very reasonable. pic.twitter.com/fcTLiAKnNx Rapid Response 47 (@RapidResponse47) March 30, 2026 El índice Nikkei de Japón cayó 5% en la apertura de las bolsas asiáticas el lunes y el surcoreano Kospi perdió más de 4% , luego de que los precios del petróleo volvieron a superar los 100 dólares por barril. El Nikkei sucumbía 5,16% y el Kospi caía 4,41% en las primeras horas del lunes, ante la ausencia de señales de una salida a la guerra en Medio Oriente. El barril de petróleo West Texas Intermediate (WTI), referencia del mercado estadounidense, subió 3,23% a 102,86 dólares. En tanto, el Brent del mar del Norte, referencia del mercado mundial, despuntaba 2,95% a 115,89 dólares el barril. El presidente Donald Trump afirmó el domingo que Estados Unidos negoció con Irán el paso inminente de 20 petroleros por el estrecho de Ormuz, cuya parálisis desde el inicio de la guerra en Medio Oriente disparó el precio del oro negro. “Nos han dado, por respeto creo, 20 barcos petroleros, grandes, muy grandes barcos petroleros que van a pasar por el estrecho de Ormuz, y eso empieza mañana por la mañana, durante los próximos días”, aseguró el presidente estadounidense a los periodistas. Con información de AFP. BEIRUT.– Los ataques aéreos y las operaciones terrestres israelíes del último mes han aislado en gran medida el sur del Líbano del resto del país , despoblando decenas de ciudades y dañando servicios públicos esenciales que son vitales para los residentes que aún perm",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-29-de-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:11:44 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/OE4NI65DGBG5TOQZAXNCZVC3XU.JPG?auth=4207824d1ce674e3f3b2ba800022909f8f3c1fa365f076277e7d60a955fe0025&smart=true&width=6000&height=4000"
+    },
+    {
+      "id": "80376b21d47362a62a7e",
+      "title": "Las minicentrales nucleares tienen un contexto propicio para salir de tierra",
+      "summary": "A principios de este año, había en el mundo 416 centrales nucleares en actividad más 63 reactores en construcción y 127 minirreactores en proyecto para responder al consumo energético de los 8.000 millones de personas que habitan el planeta. A pesar de esa aparente abundancia, la población mundial corre serio riesgo de entrar en el período de penuria energética más grave de los últimos decenios, debido al impacto conjugado de la guerra en Oriente Medio y la proliferación de los data centers que requiere el vertiginoso desarrollo de la Inteligencia Artificial (IA). Ese escenario se agudizó con la devastación que generó el conflicto entre Estados Unidos e Israel contra Irán. En esas condiciones, parece imposible alcanzar el objetivo definido en 2023 por la conferencia de Dubai sobre cambio climático (COP28), que aspiraba a triplicar la producción nuclear a 1.100 gigawatts antes de 2050 para reducir el consumo de energía fósil. El campo de ruinas que dejaron las bombas y misiles obligará a acelerar los proyectos previstos para los próximos 25 años en Irán, Arabia Saudita y los estados del Golfo Pérsico (Emiratos Árabes Unidos, Bahrein, Omán, Kuwait y Qatar), donde fueron pulverizadas “decenas” de instalaciones productoras de gas y petróleo, puertos y hubs energéticos, refinerías y plantas de energía eléctrica. Aunque no existen cálculos precisos sobre la magnitud y el costo de los daños, los especialistas estiman que las guerras modernas destruyen entre 30 % y 80 % de la potencia instalada. Este escenario será la más grave de las seis “disrupciones globales” que sufrió la industria petrolera desde 1974, según el experto norteamericano Daniel Yergin en The Prize: The Epic Quest for Oil, Money, and Power (Precio. La épica búsqueda de petróleo, dinero y poder). En el caso actual, resulta extremadamente arduo realizar previsiones , teniendo en cuenta que el conflicto aún está en curso. De cualquier modo, se necesitarán sumas colosales para reparar o remplazar las infraestr",
+      "link": "https://www.lanacion.com.ar/opinion/las-minicentrales-nucleares-tienen-un-contexto-propicio-para-salir-de-tierra-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:11:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/CFOHAUEJGJBLVBKG6LKS5XYFKE.jpg?auth=e4570dd4a3e1e3b6888c00959510ab33131bb829e5c883f1bee6f060861bee54&smart=true&width=1346&height=850"
+    },
+    {
+      "id": "fd2a90d00069b24e642b",
+      "title": "La modernización laboral y el Tribunal Superior porteño",
+      "summary": "La ley de modernización laboral ha introducido reformas muy importantes. Una de ellas vino a poner coto a un cuestionamiento que las cámaras nacionales de la Capital Federal realizaban a la Corte Suprema de Justicia de la Nación . Antes de esta norma, la ley establecía que las sentencias de las Cámaras Nacionales de Apelación de la Capital Federal podían ser apeladas ante la Corte Suprema si se daba alguno de los supuestos de la ley 48 o si las resoluciones apeladas eran arbitrarias. La nueva ley modificó radicalmente esta situación. Una breve explicación facilitará la comprensión de un problema técnico que puede resultar complicado para quienes no son abogados. A fines de 2024, en el caso “Ferrari vs. Levinas” , la Corte, con la disidencia de Carlos Rosenkrantz , dictó una sentencia trascendente que alteró ese esquema recursivo. En efecto, en el caso mencionado la sentencia objetada provenía de la Cámara Civil y el máximo tribunal, por mayoría, sostuvo que el recurso extraordinario para acceder a sus estrados no debía provenir de la Cámara Civil sino del Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires . Obviamente, fruto del carácter ejemplar de esa decisión, ese resultado se reiteró luego en centenas de sentencias subsiguientes provenientes de todos los fueros de la Capital Federal. El principio se aplicaba a todas las cámaras de apelación capitalinas. Entonces, como consecuencia de esta reforma, quien obtuviera una sentencia desfavorable de una Cámara Nacional debía acudir ante el Superior Tribunal de Justicia. Y si este tribunal fallaba en contra de alguna de las partes, recién entonces la perjudicada podría recurrir a la Corte Suprema, cuando se reunieran los requisitos pertinentes. Es de esperar que ahora los tribunales nacionales dejen de lado su oposición recalcitrante y se apeguen a lo dispuesto en la nueva norma Esto generó un alzamiento de ribetes escandalosos de las cámaras nacionales, que en sendas resoluciones objetaron airadamente ",
+      "link": "https://www.lanacion.com.ar/editoriales/la-modernizacion-laboral-y-el-tribunal-superior-porteno-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/6GWPRVMFXFGGVE5EPTZT6TMXJQ.png?auth=f2a71badea0d2ff2724b184d0205512dc60a7cd1ecd292bac557d29198b2b4e2&smart=true&width=1600&height=1066"
+    },
+    {
+      "id": "e08f8b26d97d098d4113",
+      "title": "Fútbol, amor sin límites",
+      "summary": "El fútbol enciende pasiones dentro y fuera de las canchas. Muchos que supieron protagonizar encendidos partidos se vieron luego imposibilitados de competir por la posesión de la pelota con sus antiguos pares. Una enfermedad o un accidente discapacitante marcan un antes y un después en la vida de cualquiera, mucho más en las de quienes utilizan el propio cuerpo como herramienta. Nació así el llamado “fútbol de amputados”, algo que por definición parecería imposible pero que arrancó en los años 80 en Estados Unidos . Fue necesario definir nuevas reglas: equipos de 7 jugadores, canchas y arcos reducidos, tiempos de 25 minutos de juego, sin ley del offside , entre otras normas. No está permitido utilizar prótesis en las canchas, apenas bastones canadienses. A los arqueros, que no pueden salir del área, les falta un miembro superior y a los jugadores de campo, uno inferior. En nuestro país, la Federación Argentina de Futbolistas Amputados se creó en 1999. La Agrupación Entrerriana de Futbolistas Amputados empujó su crecimiento en 2001 para que muchos pasaran de la placita o el club de barrio a jugar campeonatos regionales y mundiales. La convocatoria permitió conformar una selección que debió autogestionarse con mucho esfuerzo para poder viajar. El flamante equipo federal se bautizó como Los Rengos y debutaron ese mismo año en el Sudamericano disputado en Río de Janeiro. En 2010 tuvo lugar en Crespo, Entre Ríos, el mundial organizado por la Federación Mundial de Fútbol de Amputados , donde la selección albiceleste se consagró subcampeona ante más de 22 mil espectadores. Una experiencia inolvidable para quienes con tanto esfuerzo oficiaron de anfitriones. Unos 180 jugadores amputados de clubes de Córdoba, Santa Fe, Buenos Aires, Tucumán, Misiones, Entre Ríos y Mendoza integran la Liga Nacional, creada en 2017. El torneo local 2024 vio triunfar a Los Teros de Córdoba. Junto con los Guerreros de Rosario, fueron convocados en la primera semana de febrero para disputar la pri",
+      "link": "https://www.lanacion.com.ar/editoriales/futbol-amor-sin-limites-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/7LQFRHMDC5EIRBK6P5GFG64VHQ.jpg?auth=cb738848ff00607640fd9443849ec6539a905e02fec1efd9aa05c02c4e2940cb&smart=true&width=2000&height=1333",
+      "subcat": "mercado"
+    },
+    {
+      "id": "31c1150ebd7b5ab7385f",
+      "title": "Sólo en Off: Dante Gebel ahora sí viene a la Argentina y dará otro paso hacia una candidatura en 2027",
+      "summary": "Días atrás, en el microestadio de Lanús, su ausencia fue la noticia . Entusiasmado con aquella convocatoria, Dante Gebel decidió dejar por unos días la comodidad de su vida en Los Angeles y viajar a Buenos Aires, sin definir aún si será, como esperan sus armadores de confianza, candidato a presidente en 2027 . “El mes que viene está por acá” , cuentan, orgullosos pero también cautos, cerca del pastor evangélico y conferencista internacional con sede central en Estados Unidos, quien envió sus felicitaciones privadas a los responsables del evento: el sindicalista Juan Pablo Brey (Aeronavegantes) y el legislador porteño Eugenio Casielles , expulsado meses atrás, junto a Ramiro Marra , por Karina Milei del paraíso libertario. Sindicalistas con peso en la CGT y programas taquilleros de la televisión y la radio figuran en la inminente agenda de Gebel, quien sin dar pistas apela a su rol de outsider e intenta captar el descontento de una franja de la opinión pública con el gobierno de Javier Milei , apalancado en su notoriedad mediática y un discurso llano que suena familiar a muchos peronistas. La exdiputada Graciela Camaño , de larga militancia en el PJ y el Frente Renovador, fue de la partida en Lanús a través de un video y es una de las incorporaciones más valoradas, al igual que el excrack futbolístico Walter Ervitti , que según cuentan fuentes del espacio ya está en la mesa chica de las decisiones del plan Gebel 2027. En tren de buscar apoyos nacionales, los partidarios de la por ahora promesa evangélica aseguran que no es casualidad que Mariano Almada , secretario de Culto de Córdoba, haya estado en Lanús. “ [Martín] Llaryora está cerca”, dicen en relación al gobernador cordobés, que también integra el espacio Provincias Unidas junto a su par de Santa Fe, Maximiliano Pullaro . La posibilidad de unir fuerzas con el Pro de Mauricio Macri no es descartada, pero con reparos. “Si se quieren sumar, bienvenidos”, provocan desde las oficinas céntricas en las que los operado",
+      "link": "https://www.lanacion.com.ar/politica/solo-en-off-dante-gebel-ahora-si-viene-a-la-argentina-y-dara-otro-paso-hacia-una-candidatura-en-2027-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/OZ4ADDSO2FGDZGAM4BXUMF57O4.jpg?auth=6cbb98bbd93a2e0311107666310219929ce5324d2c16cc6bcdf79913f5330b28&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "5a34a8f255a0c07e9745",
+      "title": "Cartas de lectores: Malversación, laberinto, festejo",
+      "summary": "Malversación Pareciera que en la Argentina, tan devastada por malos y corruptos gobiernos, es más importante el cuanto malversó un funcionario que el hecho de que lo haya hecho. Con los muy publicitados viajes de Adorni y familia (tres en total, hasta ahora) comparados con los más de 150 de Cristina Fernández de Kirchner a El Calafate y Río Gallegos pretendiendo que es más grave un hecho que el otro, se elude el tema central, malversar o usar los bienes del Estado en provecho propio está objetivamente mal. El monto de lo erogado es secundario, si se diera la posibilidad, ¿se malversaría más? Es como comparar en un homicidio simple con uno múltiple, la gravedad de uno no exculpa la del otro, lo que está mal es asesinar. Horacio Durán DNI 10.795.424 Laberinto Del magnífico y reciente artículo de José Claudio Escribano, titulado “Borges habla sobre el caso Adorni”, destaco el símbolo oculto del laberinto. Allí reside el quid de la cuestión, ya que el laberinto en el que el azar caótico de la vida ha ubicado al actual jefe de Gabinete, no tiene ni puerta ni fin por más terquedad que se aplique, conforme al soneto borgiano. Nicolás V. Gallo ngallo@fibertel.com.ar Festejo El jefe de Gabinete celebró en redes sociales el fallo de la justicia de Nueva York por el caso YPF . Culminó su mensaje con un “Dios bendiga a la República Argentina. Fin.” Señor Adorni: “Al César lo que es del César, y a Dios lo que es de Dios” Hugo Perini DNI 10 224 705 Discursos Es evidente que el presidente Milei, cree que introducir groserías en sus discursos, lo distinguen y le agregan personalidad. En realidad es asi, pero lamentablemente, no precisamente en el sentido que el espera y que sería deseable para nuestra imagen internacional… Carlos Alberto Blanco carlosalbertoblanco294@gmail.com Racismo Ante el calvario que sufre en Brasil nuestra compatriota Agostina Páez, por el hecho de haber respondido con una morisqueta a un grupo de hombres que las habían molestado a ella y sus amigas, no cabe ",
+      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-malversacion-laberinto-festejo-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/7YKLQJFJMZG4BHG2RB5G7D6TOU.jpg?auth=5d7f73f701aca0f358e06c84b91433c99db7ffb3a5837be97d1859c3890585c4&smart=true&width=1183&height=1019"
+    },
+    {
+      "id": "ef4a9edaeebf2119d03c",
+      "title": "Debates pendientes a cincuenta años del golpe",
+      "summary": "A medio siglo del golpe de estado que marcó a la Argentina, y tras reflexionar sobre lo vivido, llego a una conclusión pesimista: como sociedad, aprendimos poco o nada de la tragedia vivida. Al revisar comentarios en las redes, estudios académicos, artículos periodísticos, cartas de lectores y películas, videos y documentales, advierto que -salvo excepciones- persisten algunos vacíos críticos en el análisis, incluso de fuentes serias. Muchos de estos silencios, ya sea por desconocimiento o por intencionales omisiones estratégicas, han conducido a conclusiones incompletas y sesgadas. Veamos algunos temas ausentes en el debate público: ● La destrucción de las vías legales para combatir la guerrilla que implicó la disolución de la Cámara Federal en lo Penal que, al momento de su clausura, llevaba juicios orales y públicos contra terroristas y con cientos de condenados y procesados. El informe Nunca Más menciona las diferencias entre cómo se enfrentó el terrorismo en Italia y en la Argentina, pero omite la responsabilidad de quienes ordenaron su disolución y decretaron la amnistía de 1973. ● No se habla de la amnistía decretada en 1973 que liberó a cientos de guerrilleros (y a muchos presos comunes) que no fue una decisión de un grupo aislado, sino del Congreso de la Nación, respaldada por todos los partidos con expresiones laudatorias hacia los terroristas agresores registradas en los diarios de sesiones. ● No se habla de Perón y de su enorme responsabilidad en lo ocurrido, primero alentando la violencia y luego al iniciar la represión ilegal, con la Triple A. Nada se dice sobre la masacre de Ezeiza de 1973, que enfrentó a la derecha con la izquierda peronista y produjo una cantidad de muertes nunca aclarada y sin ningún condenado. ● No se habla de la demencial estrategia de la guerrilla para enloquecer a las FFAA y llevarlas a derrocar al gobierno constitucional, con un plan que implicaba matar a un militar por semana (llegando hasta asesinar a un oficial naval jubila",
+      "link": "https://www.lanacion.com.ar/opinion/debates-pendientes-a-cincuenta-anos-del-golpe-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": ""
+    },
+    {
+      "id": "8f765fe3fb0ae70f6910",
+      "title": "\"¿Qué es lo siguiente?\": Dron iraní presume de algunas de sus victorias ante EE.UU. (FOTOS)",
+      "summary": "Un dron Shahed 136 iraní exhibe en su fuselaje una lista de sistemas estadounidenses marcados como derribados: el radar AN/MPQ-65 del sistema Patriot, el AN/TPY-2 del THAAD, el FPS-132 y el costoso avión de alerta temprana E-3 AWACS. Otra foto incluye imágenes de estos y otros dispositivos militares de EE.UU. en calcomanías. El mensaje culmina con la pregunta \"What's the next?\" (\"¿Qué es lo siguiente?\"), mostrando la confianza de Teherán en sus tecnologías de defensa.",
+      "link": "https://actualidad.rt.com/actualidad/596086-dron-irani-presume-victorias-objetivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 03:04:42 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e637e9ff710ca631b936.jpg"
+    },
+    {
+      "id": "2347b386aaf47e044bbf",
+      "title": "La agenda de la TV del lunes: los amistosos internacionales y la Copa Argentina",
+      "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del lunes 30 de marzo de 2026. FÚTBOL Amistosos internacionales 13 Chipre vs. Moldavia. Disney+ 15.45 Alemania vs. Ghana. ESPN Copa Argentina 21.15 Unión vs. Agropecuario. Los 32avos de final. TyC Sports RUGBY Super Rugby Américas 19.55 Dogos XV vs. Capibaras XV. ESPN 3",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-los-amistosos-internacionales-y-la-copa-argentina-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:02:00 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/EWWZGTK3QJAKBIZZVHXKT54TJM.JPG?auth=3f4bb82b1a89096d1c4eeda8bf57959b7de12c3da9ed003a2ab7168420be1120&smart=true&width=1725&height=1150"
+    },
+    {
+      "id": "20e09e9b55f79b950500",
+      "title": "Nunca cuatro 30/3/2026",
+      "summary": "Cómo jugar al Nunca Cuatro Nunca Cuatro es un juego online que propone completar todos los casilleros vacíos con un círculo o una cruz. Pero el desafío reside en que nunca aparezcan cuatro signos iguales alineados en una misma fila, columna o diagonal. Una vez completados todos los casilleros, junto al juego -al lado del botón de “reiniciar”- aparecerá la opción “ver resolución “, con la que podrás controlar tus respuestas en línea. Cuando completes el Nunca Cuatro de hoy, podés disfrutar de otros pasatiempos online en LN Juegos : Crucigrama , Sudoku , Sopa de letras , Palabras cruzadas , Trivias , Criptograma y más desafíos diarios. Tu experiencia nos importa. Por eso, si tenés observaciones, inquietudes o sugerencias respecto de nuestros juegos online, envianos un mensaje a LNJuegos@lanacion.com.ar y contanos tus ideas. También podés seguirnos en nuestro canal de WhatsApp.",
+      "link": "https://www.lanacion.com.ar/juegos/nunca-cuatro/nunca-cuatro-3032026-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/VSGCP6CFNFENJBZFB5N5F4R5DM.png?auth=29c1ffb6e40025b0d2aa3a37be169fef5ad5dbc9893e4538afcbf343168db239&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "3192e050b2ed9f383cc4",
+      "title": "Newell’s no detiene su derrumbe: ahora perdió contra Acassuso y se despidió de la Copa Argentina",
+      "summary": "Acassuso concretó una de las sorpresas de los 32avos. de final de la Copa Argentina al imponerse por 2-0 sobre Newell’s en el estadio Nuevo Monumental de Rafaela. El conjunto de la Primera Nacional, que presentó una formación con mayoría de suplentes , se clasificó a la siguiente instancia en la que se enfrentará al ganador del cruce entre Gimnasia y Esgrima La Plata y Camioneros. El resultado profundizó el presente adverso del equipo rosarino , que no logra revertir su dinámica negativa en la temporada. En cambio, Acassuso ratificó el buen inicio que había mostrado en el torneo y trasladó ese rendimiento a un escenario de eliminación directa. “A veces uno se queda sin recursos y herramientas para poder cambiarlo. No quiero decir cosas que después me arrepienta. No tengo muchos argumentos para dar explicaciones extensivas como las di en otro momento”, remarcó Frank Kudelka, el conductor de este Newell´s que sufrió tres derrotas en cinco partidos desde su vuelta al Rojinegro. “No van a diferir mis palabras a las que dije apenas llegué. Damos un paso para adelante y dos para atrás, no hay muchas explicaciones. Es la tónica que se lleva desde hace mucho tiempo, a veces uno se queda sin recursos para poder cambiar la situación. Veníamos ilusionados, pero a la hora del momento delicada que tiene todo partido, sucumbimos rápido, nos hacen un gol de un ataque nuestro”, explicó el DT. El desarrollo del encuentro mostró desde el inicio a Newell’s con mayor protagonismo territorial. En los primeros minutos generó aproximaciones a partir de remates de Jerónimo Russo y David Sotelo, además de un intento de Walter Núñez que se fue desviado. Sin embargo, la solidez defensiva de Acassuso, sumada a la respuesta del arquero César Atamañuk, sostuvo el empate en el tramo inicial. La apertura del marcador llegó a los 20 minutos del primer tiempo. Tras una acción iniciada por Agustín Hermoso, Martín Schlotthauer definió y estableció el 1-0 para el equipo de San Isidro. A partir de ese m",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/newells-no-detiene-su-derrumbe-ahora-perdio-contra-acassuso-y-se-despidio-de-la-copa-argentina-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 02:50:11 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/F4OHOAOMNBAGLGF37ASY5OJOII.JPG?auth=a52361b0c511deb5ff8543be8e9105303b11ade297058292f4eccf4f24e5e5ba&smart=true&width=1999&height=1333"
+    },
+    {
+      "id": "dbd41e56c3eac88427a6",
+      "title": "WSJ: Trump estaría considerando una operación militar para apropiarse del uranio iraní",
+      "summary": "El mandatario estadounidense está \"abierto a la idea\", ya que podría ayudar a alcanzar su objetivo principal de poner fin al programa nuclear de la República Islámica.",
+      "link": "https://actualidad.rt.com/actualidad/596084-wsj-trump-estaria-considerando-operacion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 02:44:36 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9d45259bf5b2d1808f7cc.jpg"
+    },
+    {
+      "id": "a7167f49d9398f388054",
+      "title": "Trump: El \"cambio de régimen\" en Irán ya ocurrió",
+      "summary": "El presidente de EE.UU. explicó su afirmación con el hecho de que \"todos [los dirigentes iraníes] murieron\".",
+      "link": "https://actualidad.rt.com/actualidad/596080-trump-cambio-regimen-iran-ocurrio?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 02:36:18 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9d66059bf5b247b36a685.png"
+    },
+    {
+      "id": "66369adac391130de135",
+      "title": "\"Gran día en Irán\": Trump anuncia la destrucción de muchos objetivos largamente buscados",
+      "summary": "El presidente de EE.UU. elogió al Ejército de su país, calificándolo del \"mejor y más letal del mundo\".",
+      "link": "https://actualidad.rt.com/actualidad/596094-gran-dia-iran-trump-anuncia-destruccion-objetivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 02:34:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e2eb59bf5b4d6d2f5f76.jpg"
+    },
+    {
+      "id": "bae1b6fc436ba226b27b",
+      "title": "Trump agradece a Lukashenko por indultar a otros 250 prisioneros en Bielorrusia",
+      "summary": "Con esta decisión del líder bielorruso, el número total de presos liberados por Minsk asciende ya a más de 500 desde el pasado mayo.",
+      "link": "https://actualidad.rt.com/actualidad/596087-trump-agradece-lukashenko-indultar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 02:23:54 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9dca2e9ff710ed35be44b.jpg"
+    },
+    {
+      "id": "3b2611494f6fff526917",
+      "title": "Reportan que Kiev envió 5 millones de euros por semana a la oposición en Hungría",
+      "summary": "La revelación por un exagente de inteligencia ucraniana tiene lugar dos semanas antes de las elecciones parlamentarias en el país centroeuropeo.",
+      "link": "https://actualidad.rt.com/actualidad/596071-zelenski-enviar-5-millones-euros?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 02:22:15 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9bff8e9ff710a713d2e35.jpg"
+    },
+    {
+      "id": "28bebb971d04226b11b1",
+      "title": "El fantasma que inquieta a Trump: busca develar un presunto fraude en Puerto Rico en las elecciones 2020",
+      "summary": "El jueves 19 de marzo, en Washington, la titular de la Oficina del Director de Inteligencia Nacional (ODNI, por sus siglas en inglés), Tulsi Gabbard, afirmó que su dependencia confiscó máquinas de votación en Puerto Rico a pedido de la fiscalía federal del territorio, según reveló un reporte. Sin embargo, no mencionó que esa misma oficina había sido señalada por impulsar una investigación orientada a reactivar una teoría sobre un supuesto fraude en las elecciones presidenciales de 2020 . ¿Qué explicó Gabbard sobre la incautación? De acuerdo con The Guardian , Gabbard sostuvo que la medida respondió a cuestionamientos sobre posibles fallas en los sistemas electorales . Ante el congresista Jim Himes, explicó que “existían dudas sobre si había vulnerabilidades que pudieran haber sido aprovechadas por una amenaza”. La funcionaria indicó que ese fue el motivo del pedido de investigación. Sin embargo, no precisó a qué proceso electoral correspondía la revisión y presentó la incautación como una acción vinculada a la seguridad electoral, según el medio citado. Un empleado de inteligencia señaló a The Guardian que la revisión no estaba vinculada a ninguna elección específica. Aun así, el informe indica que podría no tratarse de una coincidencia . Esto es porque la fiscalía que solicitó la incautación, encabezada por W. Stephen Muldrow, llevaba adelante una línea de investigación que sostenía que podía haber existido una intervención extranjera en los sistemas de votación utilizados en 2020. Esa hipótesis planteaba que el gobierno de Nicolás Maduro habría tenido capacidad para influir en máquinas de votación a nivel global y alterar resultados de forma remota , en el contexto de la elección en la que fue derrotado Donald Trump . Esa versión se enmarcaba en las denuncias impulsadas por el republicano tras esos comicios, que incluían acusaciones sobre votantes fallecidos, papeletas robadas, fraude por correo y participación de personas no ciudadanas. En ese contexto, el exfunc",
+      "link": "https://www.lanacion.com.ar/estados-unidos/el-fantasma-que-inquieta-a-trump-busca-develar-un-presunto-fraude-en-puerto-rico-en-las-elecciones-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 02:20:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/THLY3SGQ6NEBNKUENRUFZT6VJE.png?auth=1168625afe1530b58f904bea632eb8e44874cc183d1abbe2321ea772a69a9158&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "6ef1cd5b7377a9492485",
+      "title": "Los creadores de Stranger Things triunfan con su nueva serie",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Puede que Stranger Things ya esté terminada, pero los hermanos Duffer no tenían ninguna intención de desaparecer en una nube de nostalgia ochentera. Su nuevo proyecto ya está dando que hablar en Netflix . La nueva serie ha aterrizado con fuerza, se ha colado entre lo más visto y demuestra que, cuando se trata de incomodar al espectador, todavía tienen gasolina para rato. La serie se llama Something Very Bad is Going to Happen (Algo terrible está a punto de suceder) , y con un título así no hace falta ser detective para intuir que aquí no venimos a una boda precisamente tranquila. Lo curioso es que, aunque el sello de los creadores de Stranger Things ha servido como gran reclamo, buena parte del mérito creativo recae en Haley Z. Boston , responsable de levantar una historia tan incómoda como hipnótica. Y sí, tiene esa vibra de “algo va mal desde el minuto uno” que funciona peligrosamente bien. La nueva apuesta tras Stranger Things no va de monstruos… pero casi da más miedo Después de años asociados a criaturas del Upside Down , bicicletas, luces parpadeantes y traumas adolescentes, era lógico pensar que los Duffer intentarían repetir fórmula. Pero no. Esta vez el terror no llega desde otra dimensión, sino desde algo bastante más cotidiano y, por eso mismo, bastante más turbio: una boda . La protagonista es Rachel, interpretada por Camila Morrone , una joven que debería estar viviendo una de las semanas más felices de su vida. Ya sabes, preparativos, nervios, flores, vestidos, gente sonriendo demasiado. El problema es que Rachel empieza a sentir que algo no encaja a medida que se acerca el gran día. Y esa sensación, lejos de quedarse en paranoia pasajera, va creciendo como una humedad rara en una casa antigua. Eso es justo lo que hace que la serie funcione tan bien. Something Very Bad is Going to Happen no necesita lanzarte un susto cada cinco minutos para atraparte. Prefiere cocinar la tensión a fuego lent",
+      "link": "https://www.cinemascomics.com/creadores-stranger-things-triunfan-serie/",
+      "pubDate": "Mon, 30 Mar 2026 02:04:33 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Something-Very-Bad-Is-Going-to-Happen-Algo-terrible-esta-a-punto-de-suceder.jpg"
+    },
+    {
       "id": "0a4b4d088998f63ce633",
       "title": "El Barça piensa en un futbolista que el Madrid tiene controlado",
       "summary": "Así vienen los periódicos deportivos de este lunes 30 de marzo de 2026.",
@@ -1918,26 +2191,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69c9bc8e958eb.jpeg"
-    },
-    {
-      "id": "93356c480443454c9e62",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 29 de marzo",
-      "summary": "El presidente Donald Trump afirmó el domingo que Estados Unidos negoció con Irán el paso inminente de 20 petroleros por el estrecho de Ormuz, cuya parálisis desde el inicio de la guerra en Medio Oriente disparó el precio del oro negro. “Nos han dado, por respeto creo, 20 barcos petroleros, grandes, muy grandes barcos petroleros que van a pasar por el estrecho de Ormuz, y eso empieza mañana por la mañana, durante los próximos días”, aseguró el presidente estadounidense a los periodistas. Con información de AFP. BEIRUT.– Los ataques aéreos y las operaciones terrestres israelíes del último mes han aislado en gran medida el sur del Líbano del resto del país , despoblando decenas de ciudades y dañando servicios públicos esenciales que son vitales para los residentes que aún permanecen en la zona. Esta semana, Israel anunció que se apoderaría del sur del Líbano hasta el río Litani para crear una “zona de amortiguación” contra el grupo armado libanés Hezbollah , que arrastró al Líbano a la guerra regional al disparar contra Israel el 2 de marzo en solidaridad con su aliado Irán. El anuncio ha desatado profundos temores ante una prolongada ocupación israelí del sur, que estuvo ocupado por el ejército israelí durante más de dos décadas, hasta el año 2000. Leé la nota completa acá. WASHINGTON.– A medida que la guerra en Irán amenaza con poner en peligro el legado del presidente Donald Trump , también aumentan las apuestas políticas para dos de sus principales ayudantes : el vicepresidente J. D. Vance y el secretario de Estado Marco Rubio . Ambos, considerados por muchos como posibles sucesores de Trump, se han visto inmersos en negociaciones aún en desarrollo para poner fin a la guerra, en un momento en que el Partido Republicano ya está sopesando su futuro tras la era Trump. Vance adoptó un enfoque cauteloso , reflejando su escepticismo hacia una prolongada intervención militar estadounidense, mientras que Rubio se alineó estrechamente con la postura belicista de Trump y se ",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-29-de-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 01:40:04 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/UPLFYMLKNVEMJH7OFM6TTNBEZY.JPG?auth=694a7ed9847f31b970fbf37c549314319c4efc3bd924d1460082d14bb6a21d67&smart=true&width=5568&height=3712"
-    },
-    {
-      "id": "63d3d97b41ff7e14d6fa",
-      "title": "La ingeniosa forma con la que marines rusos accedieron a las comunicaciones del enemigo",
-      "summary": "Un comandante ruso contó toda la historia y relató qué papel desempeñaron en ella prisioneros ucranianos.",
-      "link": "https://actualidad.rt.com/actualidad/596069-ingeniosa-forma-marines-rusos-accedieron?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 01:38:51 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9bfd459bf5b2d1808f7b3.png"
     },
     {
       "id": "87f8d0714300df88ca5a",
@@ -1960,16 +2213,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69c9b4e3bd7b6.jpeg"
     },
     {
-      "id": "3de71b533c3778a20516",
-      "title": "VIDEO: Resistencia Islámica lanza flotilla de drones en apoyo a Irán",
-      "summary": "Una flotilla con múltiples drones pertenecientes a la Resistencia Islámica iraquí fue lanzada hacia objetivos militares estadounidenses en apoyo a los ataques de represalia de Irán contra sus agresores. En un video de reciente circulación, puede observarse cómo los vehículos aéreos no tripulados son enviados estratégicamente a golpear al enemigo.",
-      "link": "https://actualidad.rt.com/actualidad/596057-resistencia-iraqui-lanza-flotilla-drones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 01:23:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9b0fbe9ff713f8e1d9032.jpg"
-    },
-    {
       "id": "b176494623e781e96bfc",
       "title": "Resumen Moto2 GP Las Américas · Agius gana después de un gran accidente",
       "summary": "Guevara, en el podio y Manu González, nuevo líder",
@@ -1988,16 +2231,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/5GOXLI5QEFDXHHZRUAVSDJJ6DA.jpg?auth=49565df9aeae4adad091f3b80b399c679888607c3c04f1a69b37336fdc9864ca&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "c449ccbb92dda2f5f517",
-      "title": "Juicio por YPF: el fallo en favor de Argentina podría mejorar el clima financiero",
-      "summary": "Para los analistas, el fallo le da al gobierno de Javier Milei un \"respiro estratégico\". Y apuntan que ayudaría a la baja del riesgo país.",
-      "link": "https://www.clarin.com/economia/juicio-ypf-fallo-favor-argentina-podria-mejorar-clima-financiero_0_uB0FfxkDzc.html",
-      "pubDate": "Mon, 30 Mar 2026 01:12:32 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/03/27/OhjmETX8n_1200x630__1.jpg"
     },
     {
       "id": "99fe9e379b4f6d1293b0",
@@ -2020,29 +2253,9 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/aPoZq1foR45v9h5Cj.jpeg"
     },
     {
-      "id": "d4e4477f4871f1966d75",
-      "title": "Trump: El Gobierno iraní hará todo lo que queramos o no tendrá país",
-      "summary": "Irán \"renunciará a la búsqueda de armas nucleares\" y \"entregará el polvo nuclear\" a Washington, según el presidente estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/596083-trump-gobierno-iran-hacer-querer-tener-pais?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 01:05:26 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9cf2259bf5b241f39876b.jpg"
-    },
-    {
-      "id": "b273d93e93f4f84342c9",
-      "title": "Horóscopo de hoy, lunes 30 de marzo: las predicciones para la salud, el amor y el dinero",
-      "summary": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-hoy-lunes-30-marzo-predicciones-salud-amor-dinero_0_UAIk3Y5sCb.html",
-      "pubDate": "Mon, 30 Mar 2026 01:05:12 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/Fpk73rLHR_1200x630__1.jpg"
-    },
-    {
       "id": "c11421fc1dd743081c5f",
       "title": "Pablo Quirno tras el fallo por YPF: “Con Luis Caputo venimos salvándole las papas a Kicillof hace muchos años”",
-      "summary": "El canciller Pablo Quirno afirmó esta noche que “no hay nada que agradecerle” al gobernador bonaerense Axel Kicillof , luego de la resolución favorable para el país del juicio en Estados Unidos contra la expropiación de la petrolera estatal YPF . “No hay que agradecerle nada a Kicillof, que fue el responsable de la expropiación, una aventura kirchnerista que comenzó cuando trajeron a la familia Eskenazi a la compañía”, afirmó el canciller al programa de Luis Majul en LN+ . “Con (Luis) Caputo venimos salvándole las papas a Kicillof hace muchos años\", completó el encargado de la diplomacia nacional, en referencia a gestiones conjuntas con el hoy ministro de Economía para resolver demandas de los fondos buitre, durante el gobierno de Cambiemos. El viernes pasado, tras el fallo de la Justicia de Estados Unidos a favor de la Argentina, que evitará el pago de US$18.000 millones, Kicillof sostuvo: “Milei se disfraza con el mameluco de YPF, pero nunca la defendió”. La ex presidenta Cristina Kirchner fue más allá, al defender la estrategia de expropiación de YPF, que a su juicio generó el actual boom del yacimiento de Vaca Muerta. “Esa frase hay que verla de dos formas. Porque ‘disfrazar’ es una palabra ofensiva, no solo para el presidente, lo cual está mal, sino que, si él cree que defiende YPF, para YPF también”, le retrucó a Kicillof el titular de YPF, Horacio Marín , un rato antes que Quirno en el mismo programa televisivo. “Todos los fallos eran en contra, así que algo diferente se hizo” , puntualizó el canciller como modo de seguir marcando diferencias con la estrategia del kirchnerismo. “En 2012 ya había cepo, no había forma de que entraran inversiones. Lo que estamos haciendo ahoras es pelear por el derecho a la propiedad privada”, expresó. Alineamiento En relación al presunto apoyo del gobierno de Estados Unidos para torcer un fallo que podría haber sido desfavorable, Quirno negó cualquier influencia de la administración Trump , aunque reconoció que “el caso afectab",
+      "summary": "El canciller Pablo Quirno afirmó esta noche que “no hay nada que agradecerle” al gobernador bonaerense Axel Kicillof , luego de la resolución favorable para el país del juicio en Estados Unidos contra la expropiación de la petrolera estatal YPF . “No hay que agradecerle nada a Kicillof, que fue el responsable de la expropiación, una aventura kirchnerista que comenzó cuando trajeron a la familia Eskenazi a la compañía”, afirmó el canciller al programa de Luis Majul en LN+ . Pablo Quirno Amado Boudou Es El Tren Fantasma “Con (Luis) Caputo venimos salvándole las papas a Kicillof hace muchos años\", completó el encargado de la diplomacia nacional, en referencia a gestiones conjuntas con el hoy ministro de Economía para resolver demandas de los fondos buitre, durante el gobierno de Cambiemos. El viernes pasado, tras el fallo de la Justicia de Estados Unidos a favor de la Argentina, que evitará el pago de US$18.000 millones, Kicillof sostuvo: “Milei se disfraza con el mameluco de YPF, pero nunca la defendió”. La ex presidenta Cristina Kirchner fue más allá, al defender la estrategia de expropiación de YPF, que a su juicio generó el actual boom del yacimiento de Vaca Muerta. “Esa frase hay que verla de dos formas. Porque ‘disfrazar’ es una palabra ofensiva, no solo para el presidente, lo cual está mal, sino que, si él cree que defiende YPF, para YPF también”, le retrucó a Kicillof el titular de YPF, Horacio Marín , un rato antes que Quirno en el mismo programa televisivo. “Todos los fallos eran en contra, así que algo diferente se hizo” , puntualizó el canciller como modo de seguir marcando diferencias con la estrategia del kirchnerismo. “En 2012 ya había cepo, no había forma de que entraran inversiones. Lo que estamos haciendo ahoras es pelear por el derecho a la propiedad privada”, expresó. Alineamiento En relación al presunto apoyo del gobierno de Estados Unidos para torcer un fallo que podría haber sido desfavorable, Quirno negó cualquier influencia de la administración",
       "link": "https://www.lanacion.com.ar/politica/pablo-quirno-con-luis-caputo-venimos-salvandole-las-papas-a-kicillof-hace-muchos-anos-nid29032026/",
       "pubDate": "Mon, 30 Mar 2026 01:03:24 +0000",
       "source": "La Nacion",
@@ -2058,86 +2271,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/KNROUW3JWNDWRIJG5ZE2CP3GWY.jpg?auth=496fd4d37d727d0789d017b37d6ef2da03122a4117c77c33ddd2e826d2c57e6c&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b5b434303ccefd3ca508",
-      "title": "Un gigantesco centro cultural en China reúne biblioteca, teatro y museo en un solo lugar",
-      "summary": "Se encuentra en una zona próxima a Hong Kong y Macao. Es una obra del estudio de arquitectura Atelier Apeiron.",
-      "link": "https://www.clarin.com/internacional/gigantesco-centro-cultural-china-reune-biblioteca-teatro-museo-solo-lugar_0_X1vmD3az82.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:12 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/03/18/zPQi8RtWk_1200x630__1.jpg"
-    },
-    {
-      "id": "df3de13f3f84f688025f",
-      "title": "Horóscopo Piscis de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 20 de febrero y el 20 de marzo en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-piscis-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_ICMSFQ5KrJ.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:10 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/CARw9hXRq_1200x630__1.jpg"
-    },
-    {
-      "id": "27b6fcdbf120d2613867",
-      "title": "Horóscopo Capricornio de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 23 de diciembre y el 20 de enero en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-capricornio-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_qDevIcz4NA.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:09 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/oBXiT9egH_1200x630__1.jpg"
-    },
-    {
-      "id": "ef061cf3400c0abf29c0",
-      "title": "Horóscopo Acuario de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 21 de enero y el 19 de febrero en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-acuario-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_GbxB6KjwwM.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:09 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/3aUZrbf7g_1200x630__1.jpg"
-    },
-    {
-      "id": "78eb874527f691a6fa31",
-      "title": "Horóscopo Sagitario de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 23 de noviembre y el 22 de diciembre en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-sagitario-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_6xrsEycw2l.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:08 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/YS7h77-K__1200x630__1.jpg"
-    },
-    {
-      "id": "d7514fc1650f957531e9",
-      "title": "Horóscopo Escorpio de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 24 de octubre y el 22 de noviembre en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-escorpio-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_b8f3OCcg7b.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:07 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/ue6e-5xau_1200x630__1.jpg"
-    },
-    {
-      "id": "3ef9e88f41eb37bdee3b",
-      "title": "Horóscopo Libra de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 24 de septiembre y el 23 de octubre en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-libra-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_Ofs5rGazI0.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:05 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/Bp8SjAzWu_1200x630__1.jpg"
-    },
-    {
-      "id": "a2185cae225bec7c2026",
-      "title": "Horóscopo Virgo de hoy, 30 de marzo de 2026: las predicciones para la salud, el amor y el dinero",
-      "summary": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 24 de agosto y el 23 de septiembre en este día de la semana.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-virgo-hoy-30-marzo-2026-predicciones-salud-amor-dinero_0_HkpMACRrJi.html",
-      "pubDate": "Mon, 30 Mar 2026 01:00:05 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/07/07/ff-2UbFdW_1200x630__1.jpg"
     },
     {
       "id": "7b687fcebc8548ad0082",
@@ -2201,16 +2334,6 @@
       "subcat": "mercado"
     },
     {
-      "id": "4dec655f4bc436ed1c78",
-      "title": "Trump: Cuba será la siguiente, en poco tiempo, colapsará",
-      "summary": "Las nuevas amenazas de Trump se unen a un historial de declaraciones agresivas contra La Habana y la orden de restricción que impuso aranceles a los países que intenten ayudar a la isla.",
-      "link": "https://actualidad.rt.com/actualidad/596081-trump-confirma-cuba-sera-siguiente?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 00:50:33 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9cccc59bf5b5fbd4041ce.jpg"
-    },
-    {
       "id": "55f6e04fe9d6d3231467",
       "title": "Aristóteles sobre las 10 virtudes humanas: “Una persona de gran alma es indiferente a la buena y a la mala fortuna”",
       "summary": "Históricamente, los grandes filósofos han planteado preguntas clave sobre la felicidad y la plenitud , tales como: ‘¿Es posible ser feliz?, ¿deberían las personas buscar la felicidad para sí mismas y para los demás?, ¿cómo se puede hacer para lograr este objetivo?’. No obstante, hay discrepancias sobre la definición o el significado de la felicidad . Pensadores como Sócrates, Platón y Aristóteles desarrollaron distintas teorías frente a esta cuestión. En el caso de Aristóteles , filósofo griego que vivió entre el 384 al 322 a.C. y considerado uno de los pensadores más influyentes de la historia occidental, aborda en su obra Ética a Nicómaco el concepto de la eudaimonía: traducido comúnmente como “felicidad” o “vida plena”. Para él, constituye el fin último de la existencia humana y solo puede alcanzarse mediante la práctica de la virtud y moralidad . Describe las virtudes como rasgos de carácter y tendencias a actuar de una manera particular que se adquieren mediante la práctica y la imitación de “ejemplos morales”. En síntesis, una persona se vuelve templada practicando la templanza y valiente practicando la valentía. Con el tiempo, la virtud se convierte en un hábito, pero es importante ser cauteloso, ya que, según el griego: “cada virtud es el término medio entre un vicio de exceso y deficiencia” . Un reconocido neurólogo español trabaja en cómo detectar la demencia cuando es asintomática A continuación, las 10 virtudes que el filósofo recomienda para ser feliz y la vasta evidencia académica que las respalda. 1. Coraje El coraje −capacidad de actuar frente al miedo en lugar de ceder ante él− invita a la felicidad, según el griego. Y la ciencia lo respalda: en un estudio titulado “Contribuciones biológicas al bienestar: las relaciones entre el temperamento, las fortalezas del carácter y la resiliencia”, un grupo de académicos demostró que, al atravesar situaciones adversas, el coraje puede conducir a la resiliencia y esta última, encaminarlo a uno hacia una mayor ",
@@ -2241,16 +2364,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/ON5R6GNM5BCOPBB5Z4P4YH7NEY.JPG?auth=09b00bfee4d85773940048b165a50a84e5cc37a58595aae11214f6e1397478a3&smart=true&width=2000&height=1335"
     },
     {
-      "id": "61303480567ad2c02458",
-      "title": "Trump no tiene objeción a que países, incluida Rusia, suministren petróleo a Cuba",
-      "summary": "El presidente de EE.UU. afirmó que no le importa dejar que alguien reciba un cargamento si lo necesita.",
-      "link": "https://actualidad.rt.com/actualidad/596082-trump-tiene-objecion-paises-incluida?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 00:48:50 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9cc2be9ff717d1741cbfc.jpg"
-    },
-    {
       "id": "5e4acb7ddd2f920ff3d3",
       "title": "Horóscopo: cómo será tu semana del 29 de marzo al 4 de abril de 2026",
       "summary": "Aries 21/3 al 20/4 AMOR: Venus suaviza sus aristas, fomenta la ternura y también el romance. Sabrá conciliar conflictos en forma diplomática y sensible. DINERO: Mercurio genera confusión en los negocios. Evite mezclar emociones con intereses financieros. CLAVE DE LA SEMANA: Alimente el idealismo y construirá un futuro mejor. Tauro 21/4 al 21/5 AMOR: Venus en su signo le aporta renovada energía. Los planes amorosos se cumplen y usted expresa sus sentimientos con decisión. DINERO: El trabajo en red es fundamental. Organice tareas grupales; los proyectos individuales demoran el éxito. CLAVE DE LA SEMANA: La creatividad surge gracias a la colaboración. Géminis 22/5 al 21/6 AMOR: Experimenta una dulce melancolía por historias del pasado. Cierto desgano traba hoy el inicio de nuevos y mejores vínculos. DINERO: Crecimiento profesional. Se habilita un deseo que lo lleva velozmente al éxito. Nuevos contactos muy necesarios. CLAVE DE LA SEMANA: Deje ir lo anterior para poder avanzar. Qué es el “Honeymoon Effect”: la ciencia detrás de esa etapa en la que todo parece perfecto Cáncer 22/6 al 22/7 AMOR: La integración social fortalece a la pareja. Alta probabilidad de encontrar un gran amor gracias a su grupo de amigos. DINERO: Puede que se concreten viajes de negocios. Acepte toda propuesta que posibilite su expansión. CLAVE DE LA SEMANA: Nuevas experiencias lo colman de alegría. Inténtelo. Leo 23/7 al 23/8 AMOR: Cumple con un objetivo sentimental muy deseado, pero altas exigencias profesionales van a restarle tiempo de disfrute compartido. DINERO: Ideal para las inversiones. Sea precavido ante posibles errores o engaños de terceros malintencionados. CLAVE DE LA SEMANA: Resguarde su patrimonio si hay luchas de poder. Virgo 24/8 al 23/9 AMOR: Renace su ilusión tras una etapa de crisis. Deje de idealizar al otro. Se abren nuevas opciones en su universo emocional. DINERO: Delegue en vez de hacer todo el trabajo solo. Seleccione un equipo o asóciese con personas adecuadas. CLAVE DE ",
@@ -2259,36 +2372,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/Z7D35JHZAFFGVKWQL5JQDGKEC4.jpg?auth=061453775f5d9def95b26cf55ae5d00a127c49bbc5017526c26bfb999e47d3f6&smart=true&width=1920&height=1440"
-    },
-    {
-      "id": "0a42acfbb1028049adb9",
-      "title": "Maritchu Seitún, especialista en crianza: “El mensaje de la sobreprotección es “vos no podés” y perjudica la autoestima de los hijos“",
-      "summary": "A medida que crecen , los chicos van haciendo pequeños despegues de sus padres, y es importante que los adultos entendamos que parte de nuestra tarea es facilitarlos, reconociendo el valor que tiene para ellos una autonomía creciente. Esto implica confiar en su capacidad para lograrlo y también en la nuestra para acompañarlos y enseñarles, despidiéndonos –con cierta nostalgia – de cada etapa que termina… pero da lugar a otra nueva, igual de maravillosa. Al procesar su propio duelo , los adultos pueden acompañar el de los niños y adolescentes, ya que crecer es maravilloso, pero también duele. Busquemos que crecer sea, para ellos –y para nosotros–, una celebración y no una penitencia ni una amenaza ; que no despierte miedo, ni duela más de lo inevitable (que pueden procesar a nuestro lado). Qué es el “Honeymoon Effect”: la ciencia detrás de esa etapa en la que todo parece perfecto Las oportunidades para los sucesivos despegues son muchas y, por diferentes razones, a menudo no las favorecemos, dejamos que se acumulen, pero en algún momento la realidad nos fuerza y tenemos que hacer varios a la vez, en lugar de hacer pequeños cambios graduales a medida que crecen. Veamos un ejemplo de cómo suele ocurrir: un niño duerme con sus padres en la cama grande. Cuando nace el hermanito, la situación se complica, porque ya no están cómodos todos en la misma cama. Además, seguramente ese niño esté adaptándose al jardín de infantes mientras intentan que duerma en su cuarto y en su propia cama. A eso se agrega que la odontóloga les dijo que deje el chupete porque se le están torciendo los dientes, y que el jardín pide que los niños no lleven chupete, ¡y a los papás les gusta ese jardín y no otro! Por si fuera poco, tener dos niños con pañales en casa implica un gasto difícil de sostener en el tiempo…. ¿Suena conocido este relato? La autonomía es muy visible a partir de los seis meses, cuando se desplazan y gatean alejándose de su mamá y cuando, a partir del año, caminan . Qué distin",
-      "link": "https://www.lanacion.com.ar/salud/mente/maritchu-seitun-especialista-en-crianza-el-mensaje-de-la-sobreproteccion-es-vos-no-podes-y-perjudica-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:47:47 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/67JX43VNRNH7TNIJT434KGNKD4.jpg?auth=97fcaacca61871e9071a25dbe087a1234baf54e4656d9d4550fc8b918a28d81b&smart=true&width=6500&height=4333"
-    },
-    {
-      "id": "68e51fa9549c7d463a99",
-      "title": "El Gobierno dice que pasó el “punto máximo” del caso Adorni, pese al impacto en las encuestas",
-      "summary": "Luego de casi tres semanas marcadas por una fuerte polémica en torno al crecimiento patrimonial y a los viajes del jefe de Gabinete, Manuel Adorni , en el Gobierno creen que el “punto máximo” del escándalo “ya se tocó” y apuntan a que a partir de ahora, decrecerá la atención mediática sobre el caso. Más allá de ese optimismo, que choca de frente con el impacto que mostró en la encuestas (tanto en la imagen de Adorni como la que proyecto sobre el Gobierno en general), en Balcarce 50 se enfocan en retomar la gestión y el control de la iniciativa. En ese sentido, entre lunes y martes se concretaría una nueva reunión de la mesa política , con la mira puesta en la reactivación de la agenda parlamentaria. En el Gobierno apuestan también a una nueva conferencia de Adorni , prevista para el miércoles, pese al saldo que dejó la presentación del jefe de Gabinete la semana pasada. Y cifran sus mayores expectativas en mayo, cuando se presente la nueva declaración jurada del funcionario . En la Casa Rosada se muestran convencidos de que una vez que Adorni presente su nueva declaración jurada de bienes “va a quedar todo aclarado” . No explican por qué no lo hizo hasta ahora ni ofreció comprobantes de los gastos que quedaron bajo sospecha. En el Gobierno dan por hecho que las revelaciones periodísticas por los viajes en jet privado a Punta del Este y las nuevas propiedades volverá a filtrarse en la próxima conferencia de Adorni , pero creen que eso “no sería un problema”. Pero las opiniones están divididas. Mientras algunos funcionarios están convencidos de que Adorni debería ampliar lo que ya dijo, otros creen que debería replegarse y reiterar que mientras haya una investigación en curso no debe expedirse públicamente. De cualquier modo, hay coincidencia en que debe mostrarse y hablar. “Es importante que hable y se siga mostrando como es” , afirmaban. En el cierre de la semana pasada, en el Gobierno cayó como un regalo del cielo la noticia del fallo favorable en el juicio por YPF",
-      "link": "https://www.lanacion.com.ar/politica/el-gobierno-dice-que-paso-el-punto-maximo-del-caso-adorni-pese-al-impacto-en-las-encuestas-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:47:23 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/6BCRTDS46REZ7HV47OAXLSWDQQ.JPG?auth=0fbfe4f265801dc0e57bb30c721b770388519652b46eb9c890e799ac19e5716a&smart=true&width=1263&height=947"
-    },
-    {
-      "id": "2ad9b987097365656cdf",
-      "title": "Copa Argentina: Huracán pasó con lo justo ante Olimpo, por un gol muy especial de Blondel",
-      "summary": "Apretado al final, dependiendo de un par de atajadas salvadoras de Sebastián Meza y un cierre oportuno de Lucas Blondel, Huracán le ganó por 2-1 a Olimpo y avanzó a los 16os de final de la Copa Argentina, etapa en la que se medirá ante Barracas Central, rival ante el que fue perjudicado por los arbitrajes en los últimos dos partidos por los torneos Clausura y Apertura. En un partido disputado en la cancha de Estudiantes de Caseros, el Globo se impuso a un rival del Federal A con dos goles desde fuera del área. El 1-0 lo marcó el paraguayo Óscar Romero con un tiro libre esquinado, que tuvo una floja respuesta del arquero Juan Lungarzo. Olimpo no tiene tanto ritmo de competencia, ya que viene de debutar en el torneo de ascenso con una victoria por 2-0 sobre Alvarado. El equipo de Parque Patricios no contó con dos jugadores convocados a la selección de Ecuador: el arquero Hernán Galíndez y el delantero Jordy Caicedo. Olimpo empató a los 37 minutos del segundo tiempo, con un tanto de Enzo Coacci. El técnico Diego Martínez le dio la titularidad a tres juveniles de Huracán: los defensores Máximo Palazzo, que debutó la semana pasada contra Barracas, e Ignacio Campo, y el volante Facundo Kalinger, que había entrado en el último minuto en el clásico ante San Lorenzo. Tuvo descanso un mediocampista titular, Leonardo Gil, que ingresó en la última media hora, cuando el desarrollo se le puso cuesta arriba a Huracán. Lo más destacado de Huracán 2 - Olimpo 1 El partido tuvo un sentido reivindicatorio para Blondel, autor del 2-1 a los 17 minutos de la segunda etapa. Ocupó el puesto de volante por la derecha, delante del lateral campo. Blondel estuvo mucho tiempo marginado en Boca, ni siquiera figuraba como alternativa de Barinaga. Recién a principios de marzo consiguió salir del Xeneize con un préstamo al Globo. Tanta inactividad compromete seriamente su posibilidad de ir al Mundial con la selección de Suiza, en la que suma cuatro cotejos. En la fecha FIFA que se está disputando no",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/copa-argentina-huracan-paso-con-lo-justo-ante-olimpo-por-un-gol-muy-especial-de-blondel-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:31:52 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/R3KL6XHP65DPFO4BYESUUN76BI.JPG?auth=3b15ec7353679622c6f8ba5c5eb5693c15d1c0a56c098cf47ecc37cd70ef95cc&smart=true&width=2000&height=1333"
     },
     {
       "id": "e653f60477b905244d71",
@@ -2301,36 +2384,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69c9a72dc0ea0.jpeg"
     },
     {
-      "id": "682f008dfe5323efb4ad",
-      "title": "Trump se pronuncia sobre la posibilidad de tomar el control de la 'joya petrolera' de Irán",
-      "summary": "El mandatario estadounidense admitió que tiene la intención de quedarse con el petróleo iraní.",
-      "link": "https://actualidad.rt.com/actualidad/596077-trump-pronuncia-posibilidad-intentar-tomar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 00:21:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9c9c759bf5b686c4f097e.jpg"
-    },
-    {
-      "id": "a3bc5dec4df8f41371a5",
-      "title": "Miami Open: Jannik Sinner se consagró y completó un mes perfecto para acercarse a Alcaraz",
-      "summary": "Fue un domingo de nubes, lluvias y clima poco propicio en el Hard Rock Stadium. Poco de eso le importó a Jannik Sinner , al que le alcanzó un rato libre de interrupciones para quedarse con el título del Masters 1000 de Miami , el segundo en este año para el italiano, al doblegar al checo Jiri Lehecka por 6-4 y 6-4, en una hora y 33 minutos de acción. De este modo, Sinner se convirtió en el primer italiano y el octavo jugador en conquistar el Sunshine Double , tal como se conoce al doblete que integran Indian Wells y Miami, un logro que previamente consiguieron en este siglo Roger Federer (2005, 2006 y 2017), Novak Djokovic (2011, 2014, 2015 y 2016) y Andre Agassi (2001); antes fue para Marcelo Ríos (1998), Pete Sampras (1994), Michael Chang (1992) y Jim Courier (1991). El nacido en San Candido es, eso sí, el primero en lograrlo sin ceder ni un set . Acumula 17 triunfos 34 parciales consecutivos ganados en forma consecutiva en torneos de la serie Masters 1000, y el tercero en fila, ya que había ganado de la misma manera en Indian Wells y, a fines del año pasado, en París. En cuanto al ranking, con sus victorias en la gira norteamericana, Sinner continúa en el número 2 del mundo, pero ahora llega a 12.400 puntos y redujo buena parte de la ventaja que le llevaba Carlos Alcaraz, líder con 13.590, pero ahora solamente 1190 por delante del italiano. Además, el panorama es complejo ahora para el español, que en las próximas semanas deberá defender 2330 puntos, correspondientes a los títulos de Montecarlo y Roma y la final de Barcelona del año pasado. En todo caso, la situación ahora está en manos del italiano: si es campeón en Montecarlo, regresará a la cima del circuito, independientemente de cómo le vaya a Alcaraz en el polvo de ladrillo del Principado. SUNSHINE DOUBLE 🌴 WITHOUT LOSING A SET 😱 The moment @janniksin completed a historic #MiamiOpen title! pic.twitter.com/b5o1mN3kf4 Tennis TV (@TennisTV) March 29, 2026 Favorito indiscutido al título tras la temprana elimina",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/miami-open-jannik-sinner-se-consagro-y-completo-un-mes-perfecto-para-acercarse-a-alcaraz-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:21:18 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/KNROUW3JWNDWRIJG5ZE2CP3GWY.jpg?auth=496fd4d37d727d0789d017b37d6ef2da03122a4117c77c33ddd2e826d2c57e6c&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "419795bc4e09c0a27a3b",
-      "title": "Trump: \"Para ser sincero, lo que prefiero es quedarme con el petróleo de Irán\"",
-      "summary": "\"Tal vez tomemos la isla de Jarg, tal vez no. Tenemos muchas opciones\", afirmó el mandatario estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/596075-trump-apoderarse-crudo-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 00:18:22 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9c63a59bf5b19f16081f6.jpg"
-    },
-    {
       "id": "d336ddf862690e13e671",
       "title": "La disyuntiva de Sergio Ramos a los 40",
       "summary": "SR5, con Rayados de México, su último equipo hasta ahora.",
@@ -2341,56 +2394,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c985bcabfd4.jpeg"
     },
     {
-      "id": "00b310f805f797e94e74",
-      "title": "Francia también intimida con los suplentes: ganó 3-1 y dejó preocupada a Colombia",
-      "summary": "Francia tiene titulares de primer nivel y un recambio que le permite seguir siendo fuertemente competitivo. Esas son las confirmaciones que se lleva el director técnico Didier Deschamps tras la serie de amistosos contra dos rivales sudamericanos de envergadura. Al 2-1 sobre Brasil con Kylian Mbappé como líder ofensivo, le siguió el 3-1 a Colombia de este domingo, construido con un sobrio trabajo colectivo, un libreto que osciló entre el juego de posición y el contraataque, y que tuvo como individualidades destacadas a Rayan Cherki, N’Golo Kanté y Warren Zaïre-Emery . El balance de los dos amistosos en los Estados Unidos es negativo para Colombia en cuanto a los resultados. Tras la derrota 2-1 contra Croacia, la caída contra el subcampeón del mundo solo le deja el espíritu de reacción en el segundo tiempo, la rebeldía ante la superioridad adversaria y la mayor profundidad ofensiva con los ingresos de Jaminton Campaz (autor del descuento) y Juanfer Quintero (intentó un córner olímpico y participó en el gol). El ciclo de Néstor Lorenzo al frente de Colombia dio un giro a partir de la derrota contra la Argentina en la final de la Copa América 2024. Hasta entonces registraba un invicto de 25 partidos. A partir de ahí sufrió seis derrotas en 17 encuentros. Colombia perdió consistencia y confianza, no parece en su mejor momento a 79 días del debut en el Mundial, contra Uzbekistán. Resumen de Colombia vs. Francia Después de ganarle a Brasil con la mayoría de los titulares que seguramente comenzarán el Mundial, Deschamps aplicó una rotación completa. Aprovechó la profundidad del plantel que convocó y armó una formación con otros 11 apellidos , algunos ya con un largo recorrido en la selección, como el defensor Lucas Hernández y el volante Kanté, que llevó la cinta de capitán. En cuanto a Colombia, si bien Lorenzo había hecho hincapié en el desgaste y lo contraproducente de afrontar los dos amistosos con menos de 72 horas de descanso, mantuvo a nueve de los titulares ante Cro",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/francia-tambien-intimida-con-los-suplentes-gano-3-1-y-dejo-preocupada-a-colombia-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:10:01 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/KWSDCU5F7NGULEJX6RE2TTITHY.JPG?auth=2c7087c99d099d9ae04d6cf7baa0ac4f6bbdc9f11f96705230e2880eab8e24cb&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b9cd8d904b001c0c0895",
-      "title": "Semana Azul: la información clave sobre la población con autismo que exigen al Estado las ONG y las familias",
-      "summary": "En la antesala del 2 de abril, Día Mundial de la Concientización sobre el Autismo , mañana comenzará en todo el país una nueva edición de la Semana Azul , una iniciativa que busca visibilizar la condición, promover la empatía y fomentar la convivencia a través de actividades culturales, educativas y deportivas. La propuesta, que se desarrollará del 30 de marzo al 5 de abril, articula por tercer año consecutivo a ONG, instituciones y ciudadanos en una agenda federal que incluye –según anticiparon– intervenciones urbanas, campañas en medios y redes sociales, y encuentros en distintas provincias. Comenzó, sin embargo, de manera simbólica con la iluminación del Obelisco en ese color el viernes por la noche. El lanzamiento formal será este lunes con la jornada “ Miradas que conectan ”, que se realizará en la Facultad de Derecho de la Universidad de Buenos Aires (UBA), con la participación de especialistas, familias, organizaciones sociales, empresas y representantes del sector público. Organizada por la asociación civil TEActiva, la actividad se desarrollará entre las 10 y las 18 en el Salón Azul de la sede ubicada sobre la avenida Figueroa Alcorta. Funcionará como un espacio de intercambio y puesta en común sobre los principales desafíos en torno al autismo. La asociación reúne a ONG y familias que se agruparon para instalar el autismo en la agenda pública a través de una multiplataforma que compila, da soporte y apoya las acciones y actividades colectivas y gratuitas que se realizarán para este día. A las 11.30 está prevista la participación del jefe de gobierno porteño, Jorge Macri, y más tarde las organizaciones que impulsan la Semana Azul firmarán un documento conjunto en el que reclamarán al Estado la generación de estadísticas oficiales sobre autismo. ¿Por qué azul? Los organizadores explican que ese es el color que representa al mar. A veces, el mar está tranquilo y, en otras oportunidades, está revuelto. Lo mismo sucede en la vida de una persona con autismo y su",
-      "link": "https://www.lanacion.com.ar/sociedad/semana-azul-firmaran-un-documento-para-reclamar-al-estado-la-generacion-de-estadisticas-oficiales-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:08:26 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/6EBS3BXVKVDSPIUTYBQV2UJGCE.jpg?auth=9e2d7399a5e30f602569639075a0b80b54dd7f663ff39f16076ac53efac98c45&smart=true&width=1132&height=725"
-    },
-    {
-      "id": "38e12b28d6881d2317b5",
-      "title": "Una por una, cuánto cuestan las multas de tránsito en la ciudad de Buenos Aires",
-      "summary": "Las infracciones de tránsito suelen ser un dolor de cabeza para los conductores, especialmente cuando el titular necesita renovar su licencia de conducir o quiere vender su vehículo con el libre deuda de multas. En ese contexto, el problema no sólo es administrativo, sino que también puede implicar montos muy elevados. Tras la última actualización, una de las faltas más graves alcanzó los $3,8 millones en suelo porteño. Cuánto cuesta el Toyota Yaris Cross en marzo de 2026 Esto se debe a que los valores de las multas se actualizan cada seis meses en la Ciudad de Buenos Aires. En rigor, lo que se modifica no es cada infracción en particular, sino el valor de la Unidad Fija (UF), que es la unidad de medida utilizada para calcular el monto de las sanciones y que está atada al precio promedio de medio litro de nafta de mayor octanaje en la Ciudad de Buenos Aires. En ese sentido, desde el 3 de marzo y hasta el próximo 2 de septiembre el valor de cada UF pasó a ser de $949,99. Esto representa un aumento del 18%, ya que antes de este ajuste equivalía a $798,51. De esta manera, las falta de tránsito a partir de marzo 2026 cuentan con los siguientes montos: No respetar los límites de velocidad máximos (entre 400 y 4000 UF): entre $379.996 y $3.799.960. Conducir con alcohol en sangre (entre 250 y 2000 UF): entre $237.498 y $1.899.980. Cruzar el semáforo en rojo (entre 300 y 1500 UF): entre $284.997 y $1.424.985. Tapar o adulterar la patente (1000 UF): $949.990. No contar con la VTV (entre 100 y 400 UF): entre $94.999 y $379.996. No usar cinturón de seguridad (100 UF): $94.999. Uso del celular (100 UF): $94.999. Cómo revisar si un auto cuenta con infracciones en CABA Existen tres formas para verificar si un vehículo tiene multas en la Ciudad de Buenos Aires: se puede realizar la consulta de manera presencial, en la oficina de la Dirección General de Administración de Infracciones (DGAI) o en cualquier sede comunal con el Documento Nacional de Identidad (DNI) o por la patente de",
-      "link": "https://www.lanacion.com.ar/autos/una-por-una-cuanto-cuestan-las-multas-de-transito-en-la-ciudad-de-buenos-aires-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:07:47 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/W2GZ45OIVRDVHHQPRB3V3ZKI2Q.jpeg?auth=b1c370db6d28f20070d74a8246e62a9fa67271afde83fd1dee94764c4727ceb2&smart=true&width=1360&height=910"
-    },
-    {
-      "id": "2781a90e054b72b29ccb",
-      "title": "Venden un icónico Aston Martin por 685.000 euros: cómo es y por qué es tan caro",
-      "summary": "En el universo de la Fórmula 1 , pocos vehículos alcanzan una dimensión simbólica que trasciende su extrema función técnica. Uno de esos casos es el del Aston Martin Vantage que hoy se ofrece a la venta en Inglaterra y que formó parte de la flota oficial de Safety Car entre 2021 y 2023 . Vendió un auto por 10 euros y terminó en una trama judicial que desvela a los fanáticos de los modelos clásicos No se trata de una unidad convencional, ya que fue uno de los autos conducidos por Bernd Mayländer y estuvo presente en algunos de los episodios más intensos y controvertidos de la categoría en los últimos años . Un concesionario oficial de Aston Martin en Leeds puso en el mercado el denominado “SC02” (VIN N00045), una de las dos unidades de los modelos utilizados en la máxima competición automovilística del mundo que pasarán a manos privadas . El primer ejemplar, identificado como “SC03”, ya fue vendido. Ambos autos cuentan con las firmas de los actuales pilotos del equipo británico, Fernando Alonso y Lance Stroll , lo que potencia su valor como pieza de colección. Este Vantage en particular participó en 20 Grandes Premios y recorrió más de 4280 kilómetros durante fines de semana oficiales de Fórmula 1, además de intervenciones en Fórmula 2 y Fórmula 3. El odómetro marca actualmente unos 20.078 kilómetros . Mantiene su decoración original de Safety Car, la iluminación especial homologada por la FIA y parte del equipamiento específico que se instaló para su tarea en pista . Fue matriculado por primera vez en enero de 2018 y según el anuncio se encuentra en correcto estado de funcionamiento. El precio solicitado es de 599.990 libras esterlinas, una cifra que ronda aproximadamente los 685.000 euros al tipo de cambio actual. Más allá de sus especificaciones técnicas —motor V8 y preparación acorde a los estándares de la máxima categoría—, el valor responde principalmente a su carga histórica . El Aston Martin Vantage quedó asociado de manera directa al desenlace del Gran Premi",
-      "link": "https://www.lanacion.com.ar/autos/venden-un-iconico-aston-martin-por-685000-euros-como-es-y-por-que-es-tan-caro-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:07:04 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/PTYK77VFGVHLZHGPBHC4NJDHOA.jpg?auth=d2a9ae76577704b05bc1dd4ffdfe2840febc13debc5522ea1e3f4972cc2915de&smart=true&width=1920&height=1440"
-    },
-    {
-      "id": "3532a1018fc06bd55c2e",
-      "title": "Vendió un auto por 10 euros y terminó en una trama judicial que desvela a los fanáticos de los modelos clásicos",
-      "summary": "Hay autos que construyen leyenda por su diseño, otros por su desempeño y algunos por su escasez. El caso del Alfa Romeo 33 Stradale reúne las tres condiciones. Considerado por muchos especialistas como uno de los deportivos más bellos jamás creados , su valor de mercado ronda hoy unos 30 millones de euros ( poco más de US$35 millones ). A pesar de su cotización exorbitante, uno de los apenas 18 ejemplares fabricados entre 1967 y 1969 fue transferido por apenas 10 euros y poco después salió de Italia sin dejar rastro. Entraron a un galpón abandonado, encontraron una colección de autos invaluables, pero un detalle les llamó la atención El caso ya es investigado por la fiscalía de Milán bajo sospechas de extorsión y falsificación de documentación. Lo que comenzó como la sucesión de un coleccionista francés fallecido terminó convirtiéndose en una trama judicial que inquieta al mundo de los autos clásicos. El 33 Stradale nació como versión homologada para la calle del prototipo de competición Tipo 33 . Conservaba el chasis tubular y el V8 de alta revolución, pero adaptado a un uso vial. Su silueta baja, sus puertas de apertura vertical y la pureza de sus proporciones lo convirtieron en una referencia estética de la década del 60 . La producción fue extremadamente limitada: solo 18 unidades Stradale salieron de fábrica. Esa cifra, combinada con su linaje deportivo y su diseño, explica su cotización multimillonaria actual. Uno de esos ejemplares permanecía en los últimos años en un taller especializado en clásicos en la provincia de Nápoles. Tras la muerte de su propietario, la situación patrimonial derivó en una operación de compraventa que hoy está bajo la lupa judicial. Una venta que despierta sospechas Según trascendió en medios italianos, el vehículo habría sido transferido por apenas 10 euros. Si bien el precio simbólico no constituye por sí mismo un delito, los herederos cuestionan la validez de los documentos firmados y denuncian presiones psicológicas ejercidas so",
-      "link": "https://www.lanacion.com.ar/autos/vendio-un-auto-por-una-suma-irrisoria-pero-denuncia-a-su-comprador-por-extorsion-y-hacer-desaparecer-nid03032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:06:39 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/OW7ZSQTXT5CTDESBXNY2MZKXSA.jpg?auth=332231d3b7583e6c3a4e5bf0783deff24281e6af17c88a3e8f8d20959ddba44b&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "1eb679ce44a951d382c7",
       "title": "Sinner, al abordaje: alza Miami, culmina el doblete y compromete el trono de Alcaraz",
       "summary": "Sinner devuelve de revés, este domingo en un instante de la final contra Lehecka.",
@@ -2399,26 +2402,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/O5ZH6Y246FP6NI2PULMYJGHNTE.jpg?auth=7210a8e392a547633cd3f4ec88a234292f987ec9848c8c29c56afdb79af68a11"
-    },
-    {
-      "id": "2501b9bfcf5c4181896b",
-      "title": "Lanzan un SUV híbrido de 346 caballos: cómo es y cuánto cuesta",
-      "summary": "El avance de los modelos electrificados en la Argentina suma un nuevo capítulo. En un mercado que comenzó a diversificar su oferta con alternativas híbridas y 100% eléctricas, ahora se incorpora una variante más potente de un SUV ya conocido en el país , que apuesta por combinar rendimiento, tecnología y eficiencia en un mismo paquete. Un reconocido SUV se renueva y suma más equipamiento y nuevo diseño Se trata del Jetour T1 i-DM , la versión híbrida enchufable del SUV mediano de la marca china que se suma a la gama local con un esquema mecánico que eleva la potencia respecto de la variante convencional. El modelo llega al país de la mano del Grupo Famly, que también maneja en el país KYC y hasta hace poco Kaiyi, que cambió de representante. Más potencia, misma silueta El nuevo T1 i-DM declara una potencia combinada de 346 CV , resultado de la asociación entre un motor naftero 1.5 TGDI de 140 CV (a 5200 rpm) y un propulsor eléctrico de 150 kW, gestionados por una transmisión híbrida dedicada (DHT) . En términos de dimensiones, mantiene las proporciones del T1 equipado con motor 2.0 TDGI y tracción integral. Mide 4705 mm de largo, 1967 mm de ancho y 1843 mm de alto, con una distancia entre ejes de 2800 mm y un despeje mínimo de 160 mm. El tanque de combustible tiene una capacidad de 70 litros y el habitáculo está configurado para cinco ocupantes. Tecnología y confort a bordo Puertas adentro, el SUV refuerza su perfil tecnológico. Incorpora materiales con terminaciones tipo soft-touch, arranque por botón y remoto y una pantalla central de 15,6 pulgadas compatible de forma inalámbrica con Android Auto y Apple CarPlay . El equipamiento incluye conexiones USB, USB-C y toma de 12V, gaveta con refrigeración y cargador inalámbrico para teléfonos. El asiento del conductor ofrece regulación eléctrica en seis posiciones con memorias , mientras que el del acompañante ajusta en cuatro direcciones. El volante, multifunción y revestido en eco-cuero , regula en altura y profundidad",
-      "link": "https://www.lanacion.com.ar/autos/lanzan-un-suv-hibrido-de-346-caballos-como-es-y-cuanto-cuesta-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:00:31 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/S7CZIHPDRBET5FNTF4TFDNEG74.jpg?auth=3cc91d7e933d1961fcea97c075d0a6e7ddcfbd2ea34092d7acfea8dc6c00bb95&smart=true&width=8000&height=4500"
-    },
-    {
-      "id": "dae197c015e18ce5a548",
-      "title": "Fue el 9 de River, se graduó en el Business School y hoy lo recuerdan con mucho amor en Aston Villa: “Leyenda”",
-      "summary": "Juan Pablo Ángel , exjugador de River , se recibió de Director Deportivo en la PFA Business School de Reino Unido . Esta institución está validada mundialmente para aquellos deportistas y exdeportistas que deciden volcarse a un rol más empresarial dentro del mundo del fútbol como puede ser manager y representantes. “Extremadamente orgulloso de haber formado parte. Muchísimas gracias a PFA Business School. Gracias a todos los profesores por crear una plataforma para el desarrollo y crecimiento personal de jugadores y exjugadores , por su orientación y por el apoyo, el conocimiento y los consejos que me brindaron durante el curso”, indicó el atacante colombiano, quien recibió su diploma de graduación en septiembre del año pasado. Oriundo de Medellín, Ángel, a los 50 años, recibió una distinción al especializarse en gestión y liderazgo dentro de los clubes de fútbol. Con una vasta experiencia en el mundo del deporte al jugar en River, Aston Villa de Inglaterra y en la selección de Colombia , el exdelantero trasladará sus conocimientos -hoy reforzados académicamente- a los clubes que requieran de sus servicios. En Instagram, la PFA Business School destacó su sapiencia durante la cursada para poder recibirse con honores. “El héroe de culto del Aston Villa, Juan Pablo Ángel estuvo entre los graduados de la Escuela de Negocios PFA. El ex internacional colombiano cruzó el escenario para asegurar su Diplomado en Dirección Deportiva ”, subrayó la institución educativa. Las fotos que acreditan su título académico muestran a Ángel con el birrete de recibida, sumado a dos fotos grupales con el resto de la cursada que logró el objetivo propuesto y hoy tiene la posibilidad de brindar un panorama más global dentro de la industria del fútbol. Juan Pablo Ángel dio sus primeros pasos en el fútbol profesional con la camiseta de Atlético Nacional de Colombia, donde realizó las categorías formativas. En 1997 dio el gran salto al fútbol argentino tras ser traspasado a River, donde debutar",
-      "link": "https://www.lanacion.com.ar/deportes/fue-el-9-de-river-se-graduo-en-el-business-school-y-hoy-lo-recuerdan-con-mucho-amor-en-aston-villa-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/UBHN3SFW4RC7JAXZKHTZIYKBQU.jpg?auth=87b2a7902d52ce7d78f80f79ac050a8e4a570898492740712bfae853a53bf2d6&smart=true&width=2000&height=1333"
     },
     {
       "id": "4e8c49d1924d847f69c5",
@@ -2811,7 +2794,7 @@
       "title": "El juez no desestima el caso contra Maduro y Flores durante la audiencia en el tribunal de Nueva York",
       "summary": "El expresidente de Venezuela y su esposa, Cilia Flores, comparecieron este jueves en la segunda audiencia ante un tribunal federal de EE.UU. en el proceso abierto contra ellos por delitos de \"conspiración narcoterrorista\" y otros relacionados al narcotráfico. Desde su detención, el 3 de enero, están recluidos en Nueva York.",
       "link": "https://www.bbc.co.uk/mundo/live/cm29lp59565t?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-30T01:54:13.639762+00:00",
+      "pubDate": "2026-03-30T04:41:23.712709+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf7/live/33a31b60-293c-11f1-a3a9-bba7bdbdde48.jpg"
@@ -2852,5 +2835,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-03-30T01:54:38.127092+00:00"
+  "updated": "2026-03-30T04:42:07.581698+00:00"
 }
