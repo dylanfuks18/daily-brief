@@ -147,16 +147,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "98eb6eb2f8175b75d93b",
-      "title": "Las mascotas del fútbol que consiguieron sacar a Curro de su retiro 34 años después",
-      "summary": "Curro, emblema de la Expo 92, salta al césped del Estadio la Cartuja (Sevilla) para sorpresa de los aficionados de LALIGA DE LAS MASCOTAS.",
-      "link": "https://elpais.com/deportes/branded/la-fuerza-de-nuestro-futbol/2026-03-24/las-mascotas-del-futbol-que-consiguieron-sacar-a-curro-de-su-retiro-34-anos-despues.html",
-      "pubDate": "Tue, 24 Mar 2026 16:40:49 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/PAMI5EEWK5GTFKKWFOZ6GHOPLY.jpg?auth=df52073be8b36edfa4e5fa95a4b5dbaf442617bad81cda219f231906213e61df"
-    },
-    {
       "id": "cf906ba2cc85fecfdcd3",
       "title": "Claude ahora puede controlar tu ordenador para realizar tareas de forma autónoma",
       "summary": "Anthropic continúa avanzando a paso firme en la carrera de la IA, y su último gran anuncio así lo demuestra. La tecnológica acaba de lanzar una nueva función que permite a Claude tomar los mandos de tu ordenador para realizar las tareas que le encomiendes. Las personas suscritas a planes Pro y Max en versión macOS ya pueden empezar a probarla con Claude Cowork y con Claude Code Desktop . La versión para Windows se activará en las próximas semanas. Esta es una capacidad en la que Anthropic lleva bastante tiempo trabajando. De hecho, en octubre de 2024 la puso a disposición de los desarrolladores y desarrolladoras en beta pública para que estos la probasen y diesen feedback. Cómo funciona la autonomía de Claude Esta nueva capacidad de Calude le permitirá a la IA comprender y controlar tu ordenador, actuando sobre el cursor, el teclado y la pantalla, y pudiendo navegar y abrir cualquier aplicación . De este modo, podrás solicitar a Claude que te ayude a realizar investigaciones, a abrir y editar archivos concretos, a completar hojas de cálculo con datos, a revisar tu correo, a depurar una aplicación nativa en la que estés trabajando o a ejecutar tareas de software complejas, entre otras posibilidades. Es importante destacar que Claude prioriza el uso de conectores directos mediante API para interactuar con herramientas como Slack o Google Calendar , ya que este método es más rápido, preciso y seguro al intercambiar datos mediante código interno. En caso de que la tarea encomendada requiera una herramienta sin integración oficial, te pedirá permiso para abrir esa aplicación directamente en tu pantalla. Si bien este es un avance reseñable, Anthropic no ha querido &#8220;vender humo&#8221; y ha reconocido que esta capacidad todavía se encuentra bastante verde, por lo que pude ser lenta y torpe . Así lo confesó Felix Rieseberg , responsable de ingeniería de Claude Cowork y Claude Code Desktop, a través de un hilo en Twitter : « Todo el ámbito del uso de la informática está",
@@ -403,12 +393,12 @@
     {
       "id": "ae9250f55050b1a138fd",
       "title": "El gigante Aday Mara hace historia",
-      "summary": "Aday Mara celebra una canasta de Michigan ante Tennessee.",
+      "summary": "El pívot español firmó un gran partido ante Tenesse con 11 puntos, cuatro rebotes y dos tapones",
       "link": "https://www.marca.com/baloncesto/2026/03/29/gigante-aday-mara-historia-sera-primer-espanol-disputar-final-four-ncaa.html",
       "pubDate": "Sun, 29 Mar 2026 23:24:57 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c98f704990f.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/kfwj1.jpeg"
     },
     {
       "id": "f7464b0acc45ecc6911f",
@@ -438,67 +428,7 @@
       "pubDate": "Sun, 29 Mar 2026 23:08:46 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/UWQ3WQJKYVIPDEMDDUL2K6DNLI.jpg?auth=f8f02496af7e8cd79e7deb05e2771602120d063b41defab85a3d3582b3073769"
-    },
-    {
-      "id": "96041911f02cc5ca1b4f",
-      "title": "El Pichichi pone al Almería muy Arribas",
-      "summary": "Arribas celebra el gol que le marcó al Sanse.",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/03/29/pichichi-pone-almeria-arribas.html",
-      "pubDate": "Sun, 29 Mar 2026 22:56:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9822168b22.jpeg"
-    },
-    {
-      "id": "b246b46100f6af5e7bf4",
-      "title": "Todo un Clásico",
-      "summary": "Ona Batlle celebra su gol ante el Real Madrid en el Di Stéfano.",
-      "link": "https://www.marca.com/futbol/futbol-femenino/primera-division/cronica/2026/03/29/barcelona-pequeno-real-madrid.html",
-      "pubDate": "Sun, 29 Mar 2026 22:51:13 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c98c08d57a2.jpeg"
-    },
-    {
-      "id": "0e52b254f0a6a3e350e4",
-      "title": "Bezzecchi toma el mando; Martín y Acosta, podio... y Marc minimiza daños",
-      "summary": "1",
-      "link": "https://www.marca.com/motor/motogp/gp-americas/2026/03/29/bezzecchi-imparable-doblete-aprilia-remontada-marc-marquez.html",
-      "pubDate": "Sun, 29 Mar 2026 22:50:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c99c8128a84.jpeg"
-    },
-    {
-      "id": "d022c487655f812a7d27",
-      "title": "Así está la clasificación: Marc Márquez pierde comba",
-      "summary": "Jorge Martín, Marco Bezzecchi y Pedro Acosta, en el podio de Austin.",
-      "link": "https://www.marca.com/motor/motogp/gp-americas/2026/03/29/asi-queda-clasificacion-motogp-2026-bezzecchi-jorge-martin-alejan-marc-marquez.html",
-      "pubDate": "Sun, 29 Mar 2026 22:48:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c99b4b8d9d8.jpeg"
-    },
-    {
-      "id": "c345200e2ab0dad23a70",
-      "title": "El tierra trágame del fútbol femenino: primer partido en el Vélodrome y haces esto en el minuto 1...",
-      "summary": "Por primera vez el Olympique de Marsella jugaba en el Velodrome ante 35.000 espectacores",
-      "link": "https://www.marca.com/futbol/futbol-femenino/2026/03/29/tierra-tragame-futbol-femenino-primer-partido-velodrome-haces-esto-minuto-1-video.html",
-      "pubDate": "Sun, 29 Mar 2026 22:38:58 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/GJeNA.jpeg"
-    },
-    {
-      "id": "fa1ee12a228b6ca07e95",
-      "title": "El Barça cierra su semana fantástica tumbando a un Unicaja de dos velocidades",
-      "summary": ".",
-      "link": "https://www.marca.com/baloncesto/acb/2026/03/29/barca-cierra-semana-fantastica-tumbando-unicaja-dos-velocidades.html",
-      "pubDate": "Sun, 29 Mar 2026 22:01:23 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9782c1705b.jpeg"
+      "image": "https://imagenes.elpais.com/resizer/v2/LAQAHAWSPFGNHPBHC7KR25H5QM.jpg?auth=bedb372e509cf5d8e54f378e25d02ba6a967c4d990288dfd3ed6daade2ddcddc"
     },
     {
       "id": "0ab4be91f0f3f85f9717",
@@ -509,26 +439,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/logo-harry-potter-hbo.jpg"
-    },
-    {
-      "id": "488979ff22e98d5fed72",
-      "title": "Hay debate nacional: ¿Raya, Remiro, Joan García o Unai Simón?",
-      "summary": "Entre Unai Simón, David Raya, Alex Remiro y Joan García saldrá el portero titular y el descarte de Luis de la Fuente para el Mundial.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/29/hay-debate-nacional-raya-remiro-joan-garcia-unai-simon-video.html",
-      "pubDate": "Sun, 29 Mar 2026 21:22:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/aPcvc1foIUiY85Ryd.jpeg"
-    },
-    {
-      "id": "412e033edf2ddfccaef2",
-      "title": "Palou es el Sheriff de Alabama",
-      "summary": "Álex Palou celebra el triunfo en el GP de Alabama de 2026",
-      "link": "https://www.marca.com/motor/indycar/2026/03/29/palou-sheriff-alabama-gana-nuevo-barber-roza-liderato.html",
-      "pubDate": "Sun, 29 Mar 2026 21:20:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c97f09649f0.jpeg"
     },
     {
       "id": "35faa2806721cea39729",
@@ -1371,16 +1281,6 @@
       "subcat": "mercado"
     },
     {
-      "id": "05e71873ed8b461b9f75",
-      "title": "Apple TV ficha a dos estrellas de Marvel para su nueva serie",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Apple TV sigue empeñada en demostrar que lo suyo con la ciencia ficción no era una racha pasajera. Cuando parecía que ya tenía bastante con sus series potentes, ahora va y pone en marcha un nuevo thriller sci-fi con pinta de querer liarla fuerte . Y ojo, porque no llega solo: también se ha llevado a dos rostros muy reconocibles del universo Marvel. Sí, Apple TV ha reunido a Vanessa Kirby y Yahya Abdul-Mateen II para protagonizar Liminal , una nueva producción de acción, ciencia ficción y tensión psicológica que ya empieza a oler a proyecto serio. Si te gustan las historias con poderes, caos social y gente intentando sobrevivir mientras todo se va al demonio, aquí hay material. Apple TV apuesta fuerte por la ciencia ficción con Liminal Durante los últimos años, Apple TV ha ido construyendo un catálogo bastante curioso. Empezó con paso elegante, luego se metió de lleno en la ciencia ficción premium y ahora ya parece que ha decidido quedarse a vivir ahí. Series como Silo, Severance, Pluribus o Foundation han dejado claro que la plataforma sabe jugar en ese terreno. Ahora suma otra pieza a esa colección con Liminal, una nueva serie que estará dirigida por Louis Leterrier , cineasta al que seguro ubicas por Fast X , Ahora me ves o The Incredible Hulk . Vamos, que cuando le dan una historia con ritmo y caos, suele saber exactamente qué hacer con ella. Pero lo que más ruido está generando no es solo el director, sino la pareja protagonista. Porque Apple TV ha fichado a Vanessa Kirby , que es Sue Storm / Mujer Invisible en Los Cuatero Fantásticos: Primeros pasos, y a Yahya Abdul-Mateen II , que interpreta a Wonder Man de Disney+ . Y sí, será la primera vez que compartan pantalla. No está nada mal como carta de presentación. Vanessa Kirby y Yahya Abdul-Mateen II Liminal adapta un cómic con una premisa bastante salvaje Aquí viene lo interesante de verdad. Porque Liminal no nace de la nada ni es otra historia genéri",
-      "link": "https://www.cinemascomics.com/apple-tv-ficha-dos-estrellas-marvel-serie/",
-      "pubDate": "Sat, 28 Mar 2026 07:01:39 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/apple-tv-logo.jpg"
-    },
-    {
       "id": "9e08f029c6a9f1b88b6d",
       "title": "Probé un dispositivo para hacer compost en casa y acabé replanteándome la gestión de toda mi basura",
       "summary": "Contenedores de cocina para clasificar y reciclar los residuos domésticos.",
@@ -1461,6 +1361,256 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg"
     },
     {
+      "id": "6ddf5c551c5bc3567586",
+      "title": "Bernardo Silva explica su marcha del City: \"Culturalmente Mánchester no se corresponde con mi ideal de vida\"",
+      "summary": "Bernardo celebra uno de los goles del City al Arsenal en la final de la Copa de la Liga inglesa.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/03/30/bernardo-silva-explica-marcha-city-culturalmente-manchester-corresponde-mi-ideal-vida.html",
+      "pubDate": "Mon, 30 Mar 2026 09:10:38 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69ca21a4e503c.jpeg"
+    },
+    {
+      "id": "a7cb2025e91f662b478b",
+      "title": "De Hass pasea su fichaje por Valencia",
+      "summary": "Justin de Haas en Portugal.",
+      "link": "https://www.marca.com/futbol/valencia/2026/03/30/hass-pasea-fichaje-valencia.html",
+      "pubDate": "Mon, 30 Mar 2026 09:04:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69ca1fdf53202.jpeg"
+    },
+    {
+      "id": "33f364fd4da1de782ed2",
+      "title": "La locura del marzo universitario en su máximo esplendor: Duke, eliminada por UCONN",
+      "summary": "UCONN, tras robar el balón, consiguió anotar un triple para remontar una desventaja de 15 puntos y eliminar a una de las grandes favoritas del torneo",
+      "link": "https://www.marca.com/baloncesto/2026/03/30/locura-marzo-universitario-maximo-esplendor-duke-eliminada-video.html",
+      "pubDate": "Mon, 30 Mar 2026 08:56:59 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/aPwi61foXd93LPAOE.jpeg"
+    },
+    {
+      "id": "9830f01007cfa82fb791",
+      "title": "El duelo más clásico de la era moderna, Vingegaard no suelta a Pogacar: \"Aún voy a estar mejor\"",
+      "summary": "Tadej Pogacar y Jonas Vingegaard, en el Tour de Francia 2024",
+      "link": "https://www.marca.com/ciclismo/2026/03/30/duelo-clasico-moderna-vingegaard-suelta-pogacar-aun-mejor.html",
+      "pubDate": "Mon, 30 Mar 2026 08:54:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/02/12/698e21e3710a7.jpeg"
+    },
+    {
+      "id": "c46b9ce5b6c2ce01e45a",
+      "title": "Williams felicita a Sainz y promete darle en Miami, \"un coche digno\"",
+      "summary": "Carlos Sainz, antes de la carrera en el GP de Japón.",
+      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/30/williams-felicita-sainz-promete-darle-miami-coche-digno.html",
+      "pubDate": "Mon, 30 Mar 2026 08:53:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69ca1cf37e16c.jpeg"
+    },
+    {
+      "id": "2c9626194155b84fc563",
+      "title": "Roberto Gómez estalla con El Clásico femenino: \"Que Florentino se cargue la sección\"",
+      "summary": "Críticas a la desigualdad entre Barcelona y Real Madrid en el fútbol femenino",
+      "link": "https://www.marca.com/radio/2026/03/30/roberto-gomez-estalla-clasico-femenino-me-dado-pena.html",
+      "pubDate": "Mon, 30 Mar 2026 08:36:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/aPx4w1foXtGElLPBD.jpeg"
+    },
+    {
+      "id": "824fe2ed6e7f0f5c4ccf",
+      "title": "El guiño de Enzo Fernández a Madrid al ser preguntado por su futuro",
+      "summary": "Enzo, durante el Mundial de clubes del pasado verano.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/03/30/guino-enzo-fernandez-madrid-preguntado-futuro.html",
+      "pubDate": "Mon, 30 Mar 2026 08:32:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69ca18acf1cca.jpeg"
+    },
+    {
+      "id": "7e63259137ea56016553",
+      "title": "La realidad de Aston Martin: \"Ahora tenemos que dar grandes pasos, no pequeños\"",
+      "summary": "Alonso, durante la carrera del GP de Japón.",
+      "link": "https://www.marca.com/motor/formula1/gp-japon/2026/03/30/realidad-aston-martin-dar-grandes-pasos-pequenos.html",
+      "pubDate": "Mon, 30 Mar 2026 07:46:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69ca0d1203d7d.jpeg"
+    },
+    {
+      "id": "8758754bd71669399ea5",
+      "title": "Trump cambia el tono sobre Cuba: \"Tienen que sobrevivir\"",
+      "summary": ".",
+      "link": "https://www.marca.com/tiramillas/politica/2026/03/30/trump-cambia-tono-sobre-cuba-pleno-pulso-politico-sobrevivir.html",
+      "pubDate": "Mon, 30 Mar 2026 07:23:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69ca075eb7afa.jpeg"
+    },
+    {
+      "id": "5e1d724f10370aeb0b83",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump especula con apoderarse del petróleo iraní y tomar militarmente la isla de Jarg",
+      "summary": "Donald Trump habla con periodistas a bordo del Air Force 1, esta madrugada.",
+      "link": "https://elpais.com/internacional/2026-03-30/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Mon, 30 Mar 2026 07:18:54 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/R37T6SB36BM35NEXMWLNEJPV5I.jpg?auth=f43538b8c10a259b743597865bf706fd2538c10657afa7718b5421974adcd83a"
+    },
+    {
+      "id": "6ac0fa6bec9e85103b3d",
+      "title": "10 sitios web para descargar libros electrónicos gratuitos",
+      "summary": "Conseguir libros electrónicos gratuitos es posible siempre que sepas donde buscar y hay tantos que necesitarás vivir muchas vidas para poderlos leerlos todos. Son un complemento perfecto a las tiendas oficiales como la de eBooks Kindle de Amazon donde se puede encontrar casi cualquier título que busques y a muy buen precio. Pero si hablamos de gratis total, hay portales legales que tienen un poco de todo y con títulos que se salen fuera del círculo comercial. Sí; el placer de la lectura de un libro físico sigue siendo inigualable, pero incluso los más puristas hemos ‘caído’ en la tentación de lo digital por sus ventajas, como la facilidad para organizar la biblioteca, poder llevar en un pequeño dispositivo 20, 100 o 300 títulos o escucharlos en un formato de audiolibro cada vez más presente. Si quieres disfrutar del placer de la lectura en tu ereader (o en tu móvil o tablet) ten a mano estos portales. 10 sitios para descargar libros electrónicos gratuitos Overdrive Sin duda, una de las mejores bibliotecas digitales donde obtener material de manera gratuita y no solo los que son de dominio público, sino también títulos principales lanzados recientemente. Sin embargo, hay un problema: necesitarás una tarjeta de biblioteca pública válida y activa o ser estudiante para tener acceso. Overdrive trabaja con más de 30.000 bibliotecas públicas en más de 40 países diferentes en todo el mundo. Además de libros electrónicos, también puede escuchar audiolibros de forma gratuita. Library Genesis Es un motor de búsqueda de material de lectura gratuito, incluidos libros electrónicos, artículos, revistas, cómics y más. Actualmente, indexa cerca de tres millones de libros electrónicos y 60 millones de artículos. No tendrías vida para consumir todo lo que se ofrece aquí. Cubre tanto ficción como no ficción y diferentes géneros y tipos. La interfaz de usuario es poco menos que terrible y su legalidad ha sido puesto en duda ya que supuestamente ha enlazado a copias piratas. Pero el siti",
+      "link": "https://www.muycomputer.com/2026/03/30/libros-electronicos-gratuitos-descarga/",
+      "pubDate": "Mon, 30 Mar 2026 07:14:39 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2022/11/libros-electronicos-gratuitos_2.jpg"
+    },
+    {
+      "id": "a9fbcee90788666e7fe4",
+      "title": "Desmantelan en México un laboratorio de drogas (VIDEO)",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/596113-desmantelar-mexico-laboratorio-drogas-destruir-metanfetamina?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 07:10:28 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "6f4b705faba83842f813",
+      "title": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+      "summary": "Días atrás, en el microestadio de Lanús, su ausencia fue la noticia . Entusiasmado con aquella convocatoria, Dante Gebel decidió dejar por unos días la comodidad de su vida en Los Angeles y viajar a Buenos Aires, sin definir aún si será, como esperan sus armadores de confianza, candidato a presidente en 2027 . “El mes que viene está por acá” , cuentan, orgullosos pero también cautos, cerca del pastor evangélico y conferencista internacional con sede central en Estados Unidos, quien envió sus felicitaciones privadas a los responsables del evento: el sindicalista Juan Pablo Brey (Aeronavegantes) y el legislador porteño Eugenio Casielles , expulsado meses atrás, junto a Ramiro Marra , por Karina Milei del paraíso libertario. Leé la nota completa acá La carrera por la jefatura de gobierno se recalienta en la Legislatura porteña . Es que, tras la apertura de sesiones ordinarias, La Libertad Avanza (LLA) presentó una batería de proyectos para “simplificar” el Estado, bajar impuestos y recuperar el orden público en la ciudad. Es una agenda que se disputarán este año con Jorge Macri, a quien acusan de replicar sus iniciativas y buscarán desplazar del Ejecutivo en 2027. En el partido de Javier Milei prefieren no adelantarse a la campaña del año que viene, pero ya hablan en privado de su eventual desembarco en Uspallata. Evitan hablar de nombres propios. Sucede que quiénes se perfilaban como posibles candidatos se encuentran hoy alejados de la discusión porteña: mientras Patricia Bullrich se muestra enfocada en sus tareas en el Senado, Manuel Adorni intenta sortear el escándalo por sus propiedades y el vuelo privado a Punta del Este . Leé la nota completa acá La recompensa es grande y, por lo tanto, requiere de un acuerdo amplio y bien aceitado . Con ese objetivo en la mira, el oficialismo en el Senado ya trabaja en las negociaciones con representantes de todos los bloques para tratar de completar las más de 200 vacantes de la justicia federal y nacional en un trámite legisla",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 07:10:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/N7IZSJZ6ORABRGWOLIEWZS4HB4.jpg?auth=f1c860832687fb1002b4f3fcae69f7b2513871f07bd9dc7805ca5443cd014400&smart=true&width=2958&height=2218"
+    },
+    {
+      "id": "a66c2fe8a8e27aae2044",
+      "title": "Dormir en el aeropuerto de Miami: qué es Wait n’ Rest, el nuevo servicio con vista a la pista",
+      "summary": "Dormir en un aeropuerto suele ser, para muchos viajeros, una experiencia incómoda, improvisada y poco placentera . Sin embargo, esa realidad ahora cambió en el Aeropuerto Internacional de Miami (MIA), donde un nuevo servicio promete transformar esa realidad. Se trata de Wait n’ Rest , una propuesta que introduce suites privadas dentro de la terminal . El desembarco en Florida de la empresa de suites privadas en aeropuertos Según expresó la alcaldesa del condado de Miami-Dade, Daniella Levine Cava , a través de su cuenta oficial en X , el aeropuerto incorporó por primera vez en América del Norte este tipo de espacios pensados exclusivamente para el descanso dentro de una terminal aérea. En su publicación, la funcionaria destacó: “Hoy le dimos la bienvenida a Wait ‘n Rest en el MIA al traer las primeras suites de descanso en aeropuertos de América del Norte. Este nuevo servicio brinda a los viajeros un lugar cómodo para relajarse, recargar energías y resetearse entre vuelos” . La incorporación de estas unidades no solo amplía la oferta de servicios del aeropuerto , sino que también responde a una demanda creciente de los pasajeros que buscan mayor confort durante sus viajes, especialmente en escalas largas o vuelos demorados. Qué es Wait ‘n Rest y cuál es su propuesta: dormir entre vuelos De acuerdo con la información institucional de la empresa, Wait ‘n Rest fue fundada en 2015 con una misión concreta: cambiar la experiencia de los viajeros en los aeropuertos. Su propuesta consiste en ofrecer espacios privados, tecnológicamente avanzados , donde los usuarios puedan descansar antes de continuar su itinerario . El objetivo de Wait ‘n Rest es brindar un descanso entre vuelos La compañía plantea un modelo basado en habitaciones inteligentes, adaptables y de fácil acceso, con un sistema de auto check-in que elimina procesos burocráticos. Algunas, incluso, tienen vista a la pista. La idea central es que cada pasajero pueda gestionar su descanso de manera autónoma, sin depe",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/dormir-en-el-aeropuerto-de-miami-que-es-wait-n-rest-el-nuevo-servicio-con-vista-a-la-pista-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/IFYRJQ4PPBEKXNR4Y7UKERFJTE.png?auth=137ee24a10dc0c68010f8ae977a63db5c9be1b032e80ab1f9dd8c5270fc8d979&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f9bbc32b8995e093c6cf",
+      "title": "Día 31 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente entra este lunes 30 de marzo en su 31° día de guerra . Crece la tensión respecto de lo que puede pasar en el estrecho de Ormuz , continúan los ataques y el Estado israelí redobla sus esfuerzos en el Líbano. Donald Trump aseguró que en Irán ya hubo “un cambio de régimen” y aseguró que el gobierno islamista permitirá el tránsito de 20 buques petroleros en el estrecho. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Funcionarios estadounidenses informaron que El Pentágono se está preparando para semanas de operaciones terrestres en Irán. Desde Teherán acusan que, mientras dicen querer negociar, autoridades de Estados Unidos planean una ofensiva “en secreto” . Israel busca avanzar sobre territorio libanés para crear una “zona de amortiguación” contra Hezbollah . Pese a que Trump afirma haber destruido la capacidad militar, Irán sigue protagonizando ataques en diferentes países de Medio Oriente . En tanto, la guerra redefine el escenario político de Estados Unidos y se perfilan posibles candidatos a suceder a Trump. El nuevo Líder Supremo de Irán, Mojtaba Khamenei , agradeció a Irak por su apoyo en la guerra contra Estados Unidos e Israel. Trump asegura que Irán dejará pasar 20 petroleros por el estrecho de Ormuz en los próximos días Otros hechos de importancia Israel impidió celebrar el Domingo de Ramos en la Iglesia del Santo Sepulcro . Tras esa decisión, la UE denunció una “violación de la libertad religiosa” . Finalmente, Netanyahu habilitó el acceso . Este domingo, el Ministerio de Salud de Líbano informó que, desde el inicio de la guerra, en ese país murieron más de 1200 personas . Se informó que murió un casco azul en el sur de Líbano. Los ministros de Asuntos Exteriores de Egipto, Arabia Saudita, Turquía y Pakistán se reunieron para discutir la evolución del conflicto bélico. La Unión Europea mostró su apoyo a los países del Golfo atacados por Irá",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-31-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:51:33 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZNDSDUDRHFE2NKH6REEXYYY63A.JPG?auth=eb3db58bf3af7470f6cd0bc248c7e42e1586b84e33896eea727a90c87aef6bb9&smart=true&width=2456&height=1684"
+    },
+    {
+      "id": "c0cd1c270dd2fc8e02ca",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, lunes 30 de marzo",
+      "summary": "WASHINGTON.− El Pentágono se está preparando para semanas de operaciones terrestres en Irán , según informaron funcionarios norteamericanos, mientras miles de soldados e infantes de marina estadounidenses llegan a Medio Oriente para lo que podría convertirse en una nueva y peligrosa fase de la guerra si el presidente Donald Trump decide intensificarla. Según los funcionarios, cualquier posible operación terrestre no llegaría a ser una invasión a gran escala y, en cambio, podría consistir en incursiones conjuntas de fuerzas especiales y tropas de infantería convencionales. Todos hablaron bajo condición de anonimato para poder abordar planes militares de alta sensibilidad que llevan semanas en desarrollo. Una misión de este tipo podría exponer al personal estadounidense a diversas amenazas, como drones y misiles iraníes, fuego terrestre y explosivos improvisados . El viernes no estaba claro si Trump aprobaría todos, algunos o ninguno de los planes del Pentágono. Leé la nota completa acá. WASHINGTON.– A medida que la guerra en Irán amenaza con poner en peligro el legado del presidente Donald Trump , también aumentan las apuestas políticas para dos de sus principales ayudantes : el vicepresidente J. D. Vance y el secretario de Estado Marco Rubio . Ambos, considerados por muchos como posibles sucesores de Trump, se han visto inmersos en negociaciones aún en desarrollo para poner fin a la guerra, en un momento en que el Partido Republicano ya está sopesando su futuro tras la era Trump. Vance adoptó un enfoque cauteloso , reflejando su escepticismo hacia una prolongada intervención militar estadounidense, mientras que Rubio se alineó estrechamente con la postura belicista de Trump y se convirtió en uno de los defensores más acérrimos de la campaña por parte de la administración. Por Steve Holland y Nandita Bose Leé la nota completa acá. WEST PALM BEACH.- El presidente de Estados Unidos, Donald Trump , aseguró que no tiene “ningún problema” con que el buque petrolero ruso q",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-lunes-30-de-marzo-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:45:02 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/T3XGKKZK6ZAMZONMBDZVKFF3HQ.jpg?auth=a145f231007212e680d253faf8a9573c635f02b23f1ae8ea5ed27e9a12c3ee71&smart=true&width=7502&height=5001"
+    },
+    {
+      "id": "80d2730fd4c9d78d4ec6",
+      "title": "Rusia repele ataque masivo perpetrado con 102 drones ucranianos durante la noche",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/596112-rusia-repele-ataque-masivo-102-drones-ucranianos-noche?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 06:43:03 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "f54296459a7353c4a9cc",
+      "title": "Hay alerta naranja y amarilla por tormentas y lluvias para este lunes 30 de marzo: las provincias afectadas",
+      "summary": "El Servicio Meteorológico Nacional (SMN) emitió una serie de alertas naranjas y amarillas por tormentas y lluvias para este lunes 30 de marzo. El organismo dependiente del Ministerio de Defensa indicó que habrá 10 provincias afectadas . Además, se aclaró que el nivel naranja implica que se esperan “fenómenos meteorológicos peligrosos para la sociedad, la vida, los bienes y el medio ambiente”. La alerta naranja por tormentas rige en el este de Río Negro , donde se prevén tormentas aisladas de variada intensidad, algunas localmente severas. Estas condiciones pueden incluir lluvias intensas en cortos períodos, actividad eléctrica frecuente, caída de granizo y ráfagas de hasta 90 kilómetros por hora. Se esperan acumulados de precipitación entre 40 y 50 milímetros, que podrían superarse de manera puntual. Por su parte, la alerta amarilla por tormentas alcanza al sudoeste y sectores del noroeste de la provincia de Buenos Aires , el norte de Río Negro , el noroeste de Chubut , el sur y el noroeste de La Pampa , el sur de Córdoba , el oeste de La Rioja , el oeste de Catamarca , una pequeña zona del noroeste de Tucumán y el sur de Salta . En estas regiones están pronosticadas lluvias y tormentas de variada intensidad, algunas localmente fuertes, con abundantes precipitaciones en cortos períodos, actividad eléctrica, ocasional granizo y ráfagas de hasta 80 kilómetros por hora. Los valores de precipitación acumulada oscilarán entre 30 y 50 milímetros. Además, el SMN emitió alerta amarilla por lluvias en el oeste de Santa Cruz , donde se esperan precipitaciones, algunas localmente fuertes, con acumulados entre 10 y 20 milímetros. No se descarta la ocurrencia de nieve en zonas elevadas. Frente a este panorama, para las zonas bajo alerta naranja el organismo recomienda seguir las indicaciones de las autoridades, evitar salir si no es necesario , permanecer en lugares cerrados y seguros, desconectar los electrodomésticos ante posibles ingresos de agua y alejarse de zonas inundable",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-lluvias-para-este-lunes-30-de-marzo-las-provincias-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:37:10 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/3Z32XGGRYJEQNFD5SOR5U6G4IA.png?auth=d9b1cb4a745aca6618c2e92ab4d6d215fffc326a59d4751c8d60fb4beda100d5&smart=true&width=244&height=142"
+    },
+    {
+      "id": "82eb67f101a5907bfd63",
+      "title": "VIDEO: Perros son sacados en brazos de un refugio azotado por fuertes inundaciones",
+      "summary": "Habitantes de la república rusa de Daguestán, actualmente azotada por fuertes inundaciones tras torrenciales lluvias, salieron al rescate de varios perros de un refugio que habían quedado atrapados en sus jaulas al aire libre y estaban a punto de quedar sumergidos en el agua. Los animales, visiblemente asustados, ladraban pidiendo atención. Varias personas acudieron a su llamado. Los liberaron y los cargaron en sus manos en medio de las anegadas calles, salvándolos así de una muerte segura.",
+      "link": "https://actualidad.rt.com/actualidad/596108-perros-rescatar-refugio-inundado-daguestan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 06:32:54 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "cda8a9a8bb7ed5c985e6",
+      "title": "Con Villarruel como límite, se impone en el PJ la idea de ampliar y aceptar incorporaciones extrapartidarias",
+      "summary": "La reunión que, hace alrededor de un mes, tuvieron la expresidenta Cristina Kirchner y el diputado Miguel Pichetto dio una pista de la búsqueda que intentará el peronismo para conseguir ser competitivo en las elecciones de 2027. La incorporación de dirigentes que fueron parte de sus filas, pero se alejaron, o de otros que quieran sumarse al justicialismo, aparece como una necesidad compartida en las principales vertientes del espacio: el cristinismo, el kicillofismo y el massismo. La condición que ponen en esos campamentos para ser parte es tener diferencias con el proyecto de Javier Milei ; el límite es compartido por los tres: la vicepresidenta Victoria Villarruel . La visita de Pichetto a Cristina Kirchner en el departamento de la calle San José 1111, en el barrio porteño de Constitución, volvió “digerible” para sectores del cristinismo al excandidato a vicepresidente de Mauricio Macri en las elecciones de 2019. Así lo admitió una fuente del sector consultada al respecto por LA NACION . “Cristina lo respeta”, resaltó la fuente. Entre otras reuniones políticas, luego de ese encuentro Pichetto se mostró con Guillermo Moreno , pero también con dirigentes alejados del peronismo, como los hermanos Santiago y Manuel Passaglia , o los exlibertarios alineados con Carlos Kikuchi , además de peronistas distanciados del cristinismo. El último domingo, en vísperas de la marcha por los 50 años del golpe militar de 1976 que se realizó el martes, el senador camporista Eduardo “Wado” de Pedro marcó límites para el diálogo político que se propicia en las distintas vertientes del peronismo. Al referirse a Victoria Villarruel, hoy alejada de La Libertad Avanza, afirmó: “Con una persona que reivindica la dictadura y a los asesinos, no me siento”, señaló. “Si ella, que visita a los presos y tiene vínculos con los genocidas, se arrepiente y nos dice dónde están los niños secuestrados, en qué familias están hoy nuestros hermanos, dónde están los cuerpos de los miles de desaparecidos, s",
+      "link": "https://www.lanacion.com.ar/politica/con-villarruel-como-limite-se-impone-en-el-pj-la-idea-de-ampliar-y-aceptar-incorporaciones-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:31:11 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/EE6BVIYB5BD5LARRH3VFZIWSI4.jpg?auth=cf41d065835fa60f5db7d4d9e5441e696890ea0c80638b2253e6398c8a4af896&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "a5a8887b52e007327601",
+      "title": "Récord en la actividad que no llega al bolsillo: las señales detrás del modelo Milei que preocupan a los economistas",
+      "summary": "“La gente dice ‘no llego a fin de mes’. Y al mismo tiempo el Indec muestra que el nivel de actividad es el más alto de la historia” , planteó la semana pasada el economista Ricardo Arriazu en un seminario organizado por La Gaceta de Tucumán. “¿Alguien miente? No… es consistente”, concluyó el reconocido analista. La frase sintetiza una de las principales paradojas que atraviesa la economía argentina durante el gobierno de Javier Milei —algo que ya generó tensiones entre funcionarios y analistas privados—: indicadores como el Producto Bruto Interno (PBI) o el consumo se encuentran en niveles récord, pero esa mejora no se percibe de forma generalizada en el bienestar de la población. El Estimador Mensual de Actividad Económica (EMAE) , que elabora el Indec, encadenó en enero su segundo mes consecutivo de suba, con un avance de 0,4% mensual tras el salto de 1,8% en diciembre, y alcanzó un nuevo máximo histórico. En términos interanuales, la actividad creció 1,9% y se ubica 6,4% por encima del nivel previo a la asunción de Milei. Pero ese número agregado tiene una salvedad central. “Estos niveles de actividad no se traducen en un bienestar en máximos históricos” , señaló la consultora Analytica. Al ajustar la serie por población —una métrica más representativa del bienestar—, la actividad por habitante se ubica 6,8% por debajo del pico de 2011 y apenas en línea con el promedio previo a la pandemia, calculó en un informe. El mismo contraste aparece en los ingresos. Datos de la consultora Eco Go muestran que, si bien el ingreso disponible de los hogares registró cierta mejora durante la actual gestión, se mantiene claramente por debajo de los niveles alcanzados en la década pasada. Descontando el peso de los servicios — como tarifas, transporte, educación y salud —, el ingreso disponible sigue lejos de los máximos de 2015 y también por debajo de los niveles previos a la pandemia, destaca. Otro indicador refuerza esa lectura: la relación entre salarios y costo de vida . Seg",
+      "link": "https://www.lanacion.com.ar/economia/record-en-la-actividad-que-no-llega-al-bolsillo-las-senales-detras-del-modelo-milei-que-preocupan-a-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:30:49 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/D374J5PDFFESNNT3TGTV2ZSY6A.jpg?auth=4da6114fdfea3840ddff003f6d8c565fe50860ed59094d5ed470fafc97965bd9&smart=true&width=6178&height=4119"
+    },
+    {
+      "id": "2c54d926fb384cbac5a0",
+      "title": "¿Irán se quedó sin colmillos? La destrucción que causan sus drones y misiles lo contradicen",
+      "summary": "TEHERÁN.– Un ataque contra una base militar de Estados Unidos en Arabia Saudita en el que resultaron heridas dos docenas de soldados . Dos drones que hicieron blanco en un puerto de Omán, y un ataque contra el Aeropuerto Internacional de Kuwait. Y un ataque con misiles y drones contra una fábrica de aluminio en los Emiratos Árabes Unidos que dejó varios operarios heridos. El presidente Donald Trump dice que Estados Unidos ha pulverizado las capacidades militares de Irán y lo pinta como un adversario inerme . El ejército norteamericano sostiene que desde los primeros días de la guerra el número de ataques lanzados por Irán disminuyó alrededor de un 90%, y el ejército israelí asegura haber inutilizado cerca del 70% de los cientos de lanzadores de misiles del régimen de los ayatollahs. Sin embargo, con su serie de ataques de los últimos días contra Israel y los países del Golfo, Irán vuelve a confirmar que tiene suficientes misiles y drones para desestabilizar la región y castigar duramente a sus enemigos , lo que demuestra que, contrariamente a las afirmaciones de Trump, sigue en una guerra sin cuartel. Hay millones de israelíes que siguen refugiados día y noche en búnkeres antiaéreos para protegerse de la lluvia de misiles iraníes , una rutina diaria de sirenas y explosiones que paraliza y siembra terror. Según el servicio de emergencias de Israel, el ataque con misiles del jueves contra el centro el país dejó un saldo de siete heridos. Las imágenes de las cámaras de vigilancia muestran a dos personas huyendo del peligro antes de que un automóvil plateado cercano estallara y volara por los aires. El viernes, un hombre de Tel Aviv murió por la submunición de una ojiva de bombas de racimo. De hecho, las armas iraníes pueden causar daños incluso cuando son interceptadas : el jueves, en Abu Dhabi murieron dos personas alcanzadas por la metralla de un misil que había sido interceptado. La campaña estadounidense-israelí ha sido muy efectiva para descabezar la cúpula iraní ",
+      "link": "https://www.lanacion.com.ar/el-mundo/iran-se-quedo-sin-colmillos-la-destruccion-que-causan-sus-drones-y-misiles-lo-contradicen-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:27:04 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/RGKN3WU24RHSFPKHIF2ICRAJ3Y.jpg?auth=59a8f4373b0378f4bf72daa73f21805466c28406fc78830e93b992e59de7ed6a&smart=true&width=2000&height=1125"
+    },
+    {
+      "id": "65d7a344614505f21ffe",
+      "title": "La Corte Suprema cierra filas y se muestra unida en la presentación del nuevo reglamento para elegir jueces",
+      "summary": "La Corte Suprema de Justicia cerró filas en torno a la propuesta del nuevo reglamento para la selección de jueces y convocó para este lunes a un acto público donde estarán los tres jueces supremos −y no solo los dos que lo firmaron− para hacer una presentación formal de la iniciativa. La propuesta del nuevo sistema para seleccionar magistrados surgió de los jueces de la Corte Carlos Rosenkrantz y Ricardo Lorenzetti . Pero inicialmente, Rosatti no lo firmó . Rosenkrantz y Lorenzetti firmaron el miércoles pasado una acordada en la que plantearon que los jueces deben ser elegidos por concursos anticipados , antes de que se produzcan las vacantes, mediante un sistema de banco de preguntas con multiple choice y restando discrecionalidad a los consejeros para reducir las chances de que hagan ascender o descender a los candidatos en el orden de mérito a partir de la entrevista personal. Rosatti no firmó esa acordada, lo que alimentó las versiones de diferencias internas en la Corte en torno a este tema. Lo que sería toda una novedad, pues desde que Rosatti preside la Corte, Rosenkrantz lo respaldó en las decisiones de conjunto, mientras que Lorenzetti exhibió juego propio y muchas veces quedó en minoría. Sin embargo, con el correr de las horas lo que parecieron diferencias entre ambos magistrados fueron explicadas como “razones formales” . Fuentes de los tribunales indicaron a LA NACION que Rosatti no firmó la acordada porque no podía hacerlo en su doble carácter de presidente del Consejo de la Magistratura y de la Corte Suprema de Justicia. Las fuentes señalaron que Rosatti no estampa su firma en las cuestiones jurisdiccionales , como por ejemplo los pedidos de licencia que involucran a jueces con trámites en el Consejo. Una manera de aventar los rumores, que desbordaron los tribunales y alcanzaron al Congreso y al Consejo de la Magistratura, será presentarse los tres jueces juntos en el acto de presentación de este reglamento, que tendrá lugar este lunes en la Sala de Au",
+      "link": "https://www.lanacion.com.ar/politica/la-corte-suprema-cierra-filas-y-se-muestra-unida-en-la-presentacion-del-nuevo-reglamento-para-elegir-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:25:39 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/YHXDWW5PNVDDRJCH6FPH34ZOCU.JPG?auth=4488f853be23323d92d3580d34185e05562cc597af78c3a365fa356aca2a9b3c&smart=true&width=2000&height=1336"
+    },
+    {
+      "id": "68e51fa9549c7d463a99",
+      "title": "El Gobierno dice que pasó el “punto máximo” del caso Adorni, pese al impacto en las encuestas",
+      "summary": "Luego de casi tres semanas marcadas por una fuerte polémica en torno al crecimiento patrimonial y a los viajes del jefe de Gabinete, Manuel Adorni , en el Gobierno creen que el “punto máximo” del escándalo “ya se tocó” y apuntan a que a partir de ahora, decrecerá la atención mediática sobre el caso. Más allá de ese optimismo, que choca de frente con el impacto que mostró en la encuestas (tanto en la imagen de Adorni como la que proyecto sobre el Gobierno en general), en Balcarce 50 se enfocan en retomar la gestión y el control de la iniciativa. En ese sentido, entre lunes y martes se concretaría una nueva reunión de la mesa política , con la mira puesta en la reactivación de la agenda parlamentaria. En el Gobierno apuestan también a una nueva conferencia de Adorni , prevista para el miércoles, pese al saldo que dejó la presentación del jefe de Gabinete la semana pasada. Y cifran sus mayores expectativas en mayo, cuando se presente la nueva declaración jurada del funcionario . En la Casa Rosada se muestran convencidos de que una vez que Adorni presente su nueva declaración jurada de bienes “va a quedar todo aclarado” . No explican por qué no lo hizo hasta ahora ni ofreció comprobantes de los gastos que quedaron bajo sospecha. En el Gobierno dan por hecho que las revelaciones periodísticas por los viajes en jet privado a Punta del Este y las nuevas propiedades volverá a filtrarse en la próxima conferencia de Adorni , pero creen que eso “no sería un problema”. Pero las opiniones están divididas. Mientras algunos funcionarios están convencidos de que Adorni debería ampliar lo que ya dijo, otros creen que debería replegarse y reiterar que mientras haya una investigación en curso no debe expedirse públicamente. De cualquier modo, hay coincidencia en que debe mostrarse y hablar. “Es importante que hable y se siga mostrando como es” , afirmaban. En el cierre de la semana pasada, en el Gobierno cayó como un regalo del cielo la noticia del fallo favorable en el juicio por YPF",
+      "link": "https://www.lanacion.com.ar/politica/el-gobierno-dice-que-paso-el-punto-maximo-del-caso-adorni-pese-al-impacto-en-las-encuestas-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:25:10 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/6BCRTDS46REZ7HV47OAXLSWDQQ.JPG?auth=0fbfe4f265801dc0e57bb30c721b770388519652b46eb9c890e799ac19e5716a&smart=true&width=1263&height=947"
+    },
+    {
+      "id": "586a03db79acc9750d98",
+      "title": "LG gram Pro 17, llega el portátil más ligero del mundo con 17″",
+      "summary": "El LG gram Pro 17 encabeza el catálogo de portátiles de la firma surcoreana para este año y llega al mercado presumiendo de ser el portátil más delgado del mundo con 17 pulgadas y gráfica dedicada. y con el estreno de los últimos procesadores de Intel como mayor novedad de hardware. Los ‘gram’ de LG han venido destacado por su extrema delgadez y peso , desde el lanzamiento de la serie y para la firma surcoreana quiere dar un paso. Si hasta ahora LG usaba materiales como el aluminio y el magnesio y un diseño especializado desde su base para conseguir la máxima portabilidad en sus ultra portátiles, para la nueva generación estrena el comentado Aerominum que refuerza la resistencia estructural, cumple con los estándares tipo militar MIL, ofrecen una mayor resistencia a los arañazos y su estructura aero plateada con cepillado de taller ofrecen un elegante acabado metálico que realza el diseño sin añadir volumen. El nuevo LG gram Pro 17 monta una pantalla LCD-IPS de 17 pulgadas con resolución nativa 2,5 K (2560 x 1600 píxeles), soporte del 99% a la gama de color DCI-P3, brillo máximo de 350 nits y una relación de contraste 1200:1. La novedad en el hardware interno llega de los procesadores &#8216;Panther Lake&#8217; de Intel , con opción de equipar un Core Ultra 5 325 o el Core Ultra 7 355. Las alternativas Ultra X se limitarán a los Gram Pro 16. LG limita las opciones de memoria RAM LPDDR5X a 16 o 32 Gbytes, lo que nos confirma que estamos ante un portátil de batalla para el gran consumo. Lo mismo el almacenamiento, con opciones de SSD de 512 GB o 1 Tbyte. Para el apartado gráfico, incluye una gráfica RTX 5050 , básica, pero dedicada. Incluye una batería de 77 Wh que, según LG, ofrece hasta 17,5 horas de reproducción de vídeo entre cargas, dentro de un chasis de 15 mm de grosor que rebaja su peso por debajo de la barrera de 1,4 kg . Para poner en perspectiva este peso, decir que es inferior que el portátil barato de Apple, el MacBook Neo . Dispone de puertos USB4 (Thund",
+      "link": "https://www.muycomputer.com/2026/03/30/lg-gram-pro-17-llega-el-portatil-mas-ligero-del-mundo-con-17/",
+      "pubDate": "Mon, 30 Mar 2026 06:09:55 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/LG_gram_Pro_17_3.jpg"
+    },
+    {
       "id": "909418684434bb8acedd",
       "title": "Gaitán y Saviola, sobre el incidente Vini-Prestianni: \"No estamos a favor de que se digan ciertas cosas... pero tampoco de la provocación\"",
       "summary": "Nico Gaitán y Saviola hablaron sobre el incidente de Prestianni con Vinicius.",
@@ -1472,7 +1622,7 @@
     },
     {
       "id": "0b0d4c52f69748411137",
-      "title": "Se juegan un billete para el para el Mundial",
+      "title": "Se juegan un billete para el Mundial",
       "summary": "Luis de la Fuente, durante un partido.",
       "link": "https://www.marca.com/futbol/seleccion/2026/03/30/espana-egipto-ultima-prueba-resolver-batallas-mundialistas.html",
       "pubDate": "Mon, 30 Mar 2026 06:02:22 +0200",
@@ -1481,8 +1631,49 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c984f7bb5fe.jpeg"
     },
     {
+      "id": "5c3335558112532ba8c8",
+      "title": "Trump opinó sobre el buque petrolero ruso que se acerca a Cuba, en medio de la crisis energética que atraviesa la isla",
+      "summary": "WEST PALM BEACH.- El presidente de Estados Unidos, Donald Trump , aseguró que no tiene “ningún problema” con que el buque petrolero ruso que navega hacia Cuba entregue ayuda a la isla, la cual atraviesa una dura crisis debido a un bloqueo al petróleo de EE.UU. “ Tienen que sobrevivir ”, evaluó. “Hay un buque petrolero ahí. No nos importa que reciban un cargamento porque lo necesitan ”, declaró Trump en diálogo con periodistas a bordo del avión presidencial Air Force One rumbo a Washington desde Florida, cuando se le preguntó sobre la información que había revelado The New York Times acerca de que se le permitiría a la embarcación atracar en Cuba. “ Les dije: si un país quiere enviar algo de petróleo a Cuba ahora mismo, no tengo ningún problema, sea Rusia o no ”, manifestó Trump sobre el buque Anatoly Kolodkin , sancionado por Estados Unidos, la Unión Europea y el Reino Unido debido a la guerra en Ucrania. Según revelaron los datos de seguimiento, el buque, que cargo con aproximadamente 730.000 barriles de petróleo , se encontraba el domingo frente al extremo oriental de la isla y tenía previsto llegar a la ciudad de Matanzas este martes. Periodistas que trabajan para medios estatales cubanos también informaron sobre la llegada prevista del barco, aunque las autoridades de la isla no respondieron de momento a una solicitud de comentarios. En las últimas semanas, Trump cortó casi la totalidad del acceso de Cuba a los envíos de petróleo como parte de un intento por forzar un cambio de régimen en La Habana. El bloqueo tuvo efectos devastadores entre la población civil de Cuba a la que Trump y su secretario de Estado, Marco Rubio , aseguran que quieren ayudar. Desde el endurecimiento del bloqueo, hubo al menos dos apagones masivos a nivel nacional que causaron estragos en la población de diferentes ciudades, mientras que la falta de gasolina y recursos básicos paralizó hospitales y redujo las operaciones del transporte público. Los expertos aseguran que el envío a bordo ",
+      "link": "https://www.lanacion.com.ar/el-mundo/trump-opino-sobre-el-buque-petrolero-ruso-que-se-acerca-a-cuba-en-medio-de-la-crisis-energetica-que-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:01:49 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/2OCDSKJRVRHJNM5MPKGHEGJONA.jpg?auth=47d8f0757edad4cffeb8aa1caebcbc83002ba7aebf8c32ac5f185bc435914d01&smart=true&width=1200&height=630"
+    },
+    {
+      "id": "c1a3b1789f88e513d8a5",
+      "title": "Scott Snyder revela detalles de la serie Wytches de Prime Video",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Si eres de los que disfruta pasando un mal rato entre árboles oscuros y leyendas que te ponen los pelos de punta, saca el calendario porque esto te va a interesar. Resulta que Scott Snyder acaba de soltar una bomba informativa sobre la esperadísima adaptación de su cómic más terrorífico, y parece que las cosas van mucho más rápido de lo que esperábamos. A veces, estar atrapado en un aeropuerto puede ser la mejor noticia para los que seguimos la actualidad del mundo del cómic. Eso fue exactamente lo que le pasó a Scott Snyder hace apenas unos días. Mientras esperaba su vuelo y combatía el aburrimiento interactuando con la gente en redes sociales, el guionista decidió que era un momento tan bueno como cualquier otro para dar una actualización de esas que te alegran el lunes. Scott Snyder confirmó que el episodio piloto de la serie animada de Wytches para Prime Video ya está terminado. Y no solo eso, sino que el propio Scott Snyder confirmó que lo vio literalmente la noche anterior a sus mensajes. Imagina la escena: el creador de la criatura, sentado en su sofá, viendo por fin cómo cobran vida esos seres deformes que nos quitaron el sueño en 2014. Dice estar «realmente orgulloso» del resultado, lo cual, viniendo de alguien con su nivel de exigencia, nos da una tranquilidad tremenda. ¿Tú también sientes ese gusanillo en el estómago al pensar en ver a las brujas en movimiento? Wytches Lo mejor de todo es que el proyecto no se queda solo en un «ya lo hemos visto». El equipo ya está dándole vueltas a cuándo podrán soltar más prenda sobre el reparto de voces, los primeros teasers y todo ese material que nos encanta analizar fotograma a fotograma. Está claro que Prime Video quiere repetir el éxito de Invincible , y viendo el material de origen, tienen todas las papeletas para conseguirlo. Seguro que recuerdas que, allá por 2021, la idea original era hacer una serie con actores de carne y hueso. Sin embargo, en 202",
+      "link": "https://www.cinemascomics.com/scott-snyder-revela-detalles-serie-wytches/",
+      "pubDate": "Mon, 30 Mar 2026 06:01:19 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Wytches-Scott-Snyder-serie.jpg"
+    },
+    {
+      "id": "2a7bfc24865f9a137faa",
+      "title": "A los 81 años, relata su llegada al país, las marcas de la guerra y por qué es feliz: “Lo que hemos logrado en Argentina”",
+      "summary": "María Pilar Cardiel, una mujer de 81 años, se conmueve ante la idea de narrar su historia. Sus recuerdos vuelven a su infancia, a su padre, un hombre que fue partícipe en la guerra civil española (1936-1939) y que sufrió sus consecuencias: muerte, destrucción, pérdidas, necesidades, falencias, falta de alimentos y de trabajo, entre otras calamidades que trae un conflicto bélico. Pero hubo más, los hermanos de su padre vivían en distintos puntos de España, por lo que tuvo que enfrentarse con ellos, no por creencia sino por obligación, ya que los bandos (el Nacional y el Republicano) controlaban distintos puntos geográficos que dividieron a un país: “Y lo que quedó después de la guerra fue desolación para todos. Ninguno gana en esas circunstancias”, relata Pilar, con un tono solemne. Luego llegaron los tiempos de la libreta de racionamiento para administrar los alimentos, y los trabajos duros, como el de la madre de Pilar, que como lacayo, pasaba sus días de rodillas fregando los pisos. Su padre rotó por varias ocupaciones, entre ellas, y en los últimos días en España, como pastor. Pilar recuerda cuando llegó la carta desde Argentina. Por aquel entonces, sobrepasados por las olas migratorias de los años cuarenta, para ingresar al país se hizo común solicitar una carta de llamada. Esa carta que a Pilar y a su familia les cambió la vida. “Mi tía, que había sido llamada a su vez por su prima hermana, ya vivía en Argentina. Ella envió el llamado y mis padres decidieron aceptarlo, con la esperanza de vivir una mejor vida, sin pasar necesidades”. Una muñeca gigante y un largo camino hacia el nuevo hogar: “¿A dónde vamos a meternos?” “Siempre recuerdo a mi papá hablar de la libreta de racionamiento de la posguerra, donde se incluía harina de maíz con la que su familia se cocinaba polenta. Cuando llegó a la Argentina se encontró que la polenta era algo común en las mesas y no la podía ni ver”, observa Pilar, mientras continúa con su historia. La familia Cardiel embarcó rumbo ",
+      "link": "https://www.lanacion.com.ar/lifestyle/a-los-81-anos-relata-su-llegada-al-pais-las-marcas-de-la-guerra-y-por-que-es-feliz-lo-que-hemos-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/ERLYLCE6DVDKNFDP4EZVZCE2YM.jpg?auth=1917c7c268f3434d668510ba4d76b192213b94370829842afa56e145734ffeb4&smart=true&width=1360&height=905",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "82a38347ccc6b75a024c",
+      "title": "María Conorti. Diseñadora de zapatos top e íntima amiga de Juliana Awada, posa con Cala, su hija de 15 años",
+      "summary": "El cielo amenaza con desplomarse en un rato y el jardín impecable de la casa de María Conorti cambia sus colores una y otra vez, de manera pintoresca. A pura sonrisa (“en casa no se admite la mala onda”, dirá en un rato), la diseñadora avanza abrazada a Cala (15), la menor de sus tres hijos (es mamá también de Santiago, de 24 y de Pablito, de 17), que es su calco y con quien posará en exclusiva para ¡HOLA! Aunque por su amabilidad y predisposición pareciera tener todo el tiempo del mundo, su agenda es ajustadísima e itinerante. Hace veintisiete años creó Demaria, una marca de zapatos, accesorios y ahora también ropa de cuero y está detrás de cada detalle, pero eso no le impide ir y venir por el mundo, donde el polo de los hombres de la casa la lleve. “Ahora nos vinimos para la celebración del aniversario de mi marca, y mañana nos volvemos a Palm Beach para reencontrarnos con Santi, que quedó allá. Y a fin de abril la familia se divide otra vez porque el mayor normalmente juega en Los Hamptons y Pablo y Pablito parten a Canadá”, arranca María. Y sigue: “Es cuestión de organizarse. Yo soy muy activa, demasiado, te diría. Mi marido me dice que afloje un poco, pero es mi personalidad”. –Recién decías veintisiete años. ¿Qué te pasa cuando mirás para atrás y ves tu recorrido? –Me parece increíble. Arranqué en marzo de 1999, a mis veintipico. Dirigía el Museo Renault, pero tenía muy a flor de piel el diseño de moda, que me viene de familia (es tercera generación de zapateros y su madre era diseñadora de ropa). Calculo que tuve un poco de suerte, pero también muchísima garra y pasión. Me levanto con ganas de ir a trabajar, eso es el disfrute para mí. Y ahora, como una forma de renovarme, sumé la ropa de cuero, que completa mi marca. –Entre tus amigas-clientas, está Juliana Awada. ¿Cómo se conocieron? –Más allá de lo mona que es y su porte espectacular, Juliana es una mujer impresionante. Y por supuesto que me resulta un placer verla con mi ropa. Somos amigas de la vida, des",
+      "link": "https://www.lanacion.com.ar/revista-hola/maria-conorti-disenadora-de-zapatos-top-e-intima-amiga-de-juliana-awada-posa-con-cala-su-hija-de-15-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/XCRGLVUG3RGU7IO2BPNI2DTQYU.jpg?auth=95edda90138c9124a2f631a6764593181b662ebe4c654537e4da4006dbde9bea&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "de5f654e793d29e243b4",
-      "title": "César Tárrega: “Fuera soy tranquilo, pero en el campo saco mi agresividad”",
+      "title": "“El Levante me dejó seis meses sin jugar cuando fiché por el Valencia”",
       "summary": "César Tárrega, jugador del Valencia, en la ciudad deportiva de Paterna.",
       "link": "https://www.marca.com/futbol/valencia/2026/03/30/cesar-tarrega-fuera-tranquilo-campo-saco-mi-agresividad.html",
       "pubDate": "Mon, 30 Mar 2026 05:59:04 +0200",
@@ -1509,16 +1700,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9612ee4e3c.jpeg"
-    },
-    {
-      "id": "b22bd789ed7b360498fb",
-      "title": "Raya vuelve a su debut",
-      "summary": "David Raya, con Luis Enrique, tras su debut con España.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/30/raya-vuelve-debut.html",
-      "pubDate": "Mon, 30 Mar 2026 05:58:04 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c98927a2bac.jpeg"
     },
     {
       "id": "503ea6d109a517a816b9",
@@ -1571,6 +1752,86 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/69c9d6d57758b.jpeg"
     },
     {
+      "id": "07f24428a601efd03f11",
+      "title": "Trump quiere el petróleo de Irán mientras Teherán promete represalias cada vez más severas, MINUTO A MINUTO",
+      "summary": "El presidente estadounidense afirma que Irán ha aceptado \"la mayoría\" de los 15 puntos del plan de paz que le remitió y considera posible alcanzar un acuerdo pronto. Teherán, por su parte, desmiente la existencia de un diálogo y dice que no tiene intención de negociar.",
+      "link": "https://actualidad.rt.com/actualidad/596104-trump-quiere-petroleo-iran-teheran-promete-represalias-mas-severas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 05:50:18 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69ca0439e9ff710ca631b94a.jpg"
+    },
+    {
+      "id": "54aed294dab20e917af0",
+      "title": "El Gobierno otorgará un bono de hasta $70.000 a jubilados y pensionados en abril",
+      "summary": "El Gobierno otorgará un bono extraordinario previsional de hasta $70.000 a jubilados , pensionados y otros beneficiarios del sistema de seguridad social, que se pagará en abril de 2026 . La medida fue oficializada mediante el Decreto 213/2026 , publicado este lunes en el Boletín Oficial, y está dirigida principalmente a quienes perciben ingresos más bajos dentro del sistema previsional. La normativa establece que el beneficio será liquidado por la Administración Nacional de la Seguridad Social (Anses) y alcanzará a titulares de jubilaciones y pensiones contributivas , a beneficiarios de la Pensión Universal para el Adulto Mayor (PUAM) y a quienes perciben pensiones no contributivas , como las otorgadas por invalidez o a madres de siete hijos o más. El decreto precisa que el monto máximo del bono será de $70.000 para quienes cobren haberes iguales o inferiores al haber mínimo previsional . En cambio, quienes perciban ingresos superiores recibirán un monto proporcional , que se calculará como la diferencia necesaria para alcanzar el tope equivalente a un haber mínimo más el valor máximo del bono. El bono extraordinario tendrá carácter no remunerativo , no será susceptible de descuentos y no se computará para otros conceptos. Además, para acceder al beneficio, los haberes deberán encontrarse vigentes en el mes en que se realice la liquidación. En el caso de pensiones con copartícipes, se considerará como correspondiente a un único titular. El texto del decreto fundamenta la medida en la necesidad de sostener el poder adquisitivo de las prestaciones previsionales, en particular en los segmentos de menores ingresos. En los considerandos se señala que, en los últimos años, se implementaron bonos extraordinarios de manera mensual como mecanismo de refuerzo para los haberes, una práctica que se llevó a cabo desde enero de 2024. En ese marco, la norma vincula esta política con los efectos que atribuye a la f órmula de movilidad jubilatoria establecida por la Ley 27.609 , del",
+      "link": "https://www.lanacion.com.ar/economia/el-gobierno-otorgara-un-bono-de-hasta-70000-a-jubilados-y-pensionados-en-abril-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 05:36:51 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/WKAPAD74OFGMDPD6SVZM67PDBA.jpg?auth=efac8da0d842c067e6e090d7b42d67f754e281db794c538c385b23fcf76a2d63&smart=true&width=1360&height=905"
+    },
+    {
+      "id": "017ca5fd0abe6b222d3e",
+      "title": "Encuestas elecciones 2028 en EE.UU.: el sondeo que pone a Kamala Harris de primera en la carrera",
+      "summary": "Kamala Harris aparece al frente de la interna demócrata rumbo a las elecciones presidenciales de EE.UU. de 2028 . Los estudios de opinión más recientes la muestran como la dirigente con mayor nivel de apoyo dentro de su partido, aunque con una competencia todavía abierta. Elecciones presidenciales demócratas 2028: cuánto mide Kamala Harris frente a sus rivales La consultora de datos RealClear Polling recaudó los resultados de nueve encuestas realizadas entre el 9 de enero y el 20 de marzo . El promedio difundido ubicó a la exvicepresidenta a la cabeza con un amplio margen que la aleja de sus oponentes. Los resultados mostraron: Kamala Harris : contó con un 26,2% de apoyo entre los posibles votantes. Gavin Newsom : el gobernador de California se ubicó en el segundo lugar con el 19,2% . Pete Buttigieg : el exsecretario de Transporte de Estados Unidos obtuvo el 10,5% . Alexandria Ocasio-Cortez : la miembro de la Cámara de Representantes obtuvo el 8,6% . Josh Shapiro : el gobernador de Pensilvania contó con el 6,5% . Mark E. Kelly : el senador de EE.UU. recibió el 5,6% de apoyo. Estos resultados mostraron que Kamala Harris lleva una ventaja de siete puntos con su contrincante más cercano , Gavin Newsom. La dispersión del voto evidencia que, por ahora, la exvicepresidenta lidera, pero sin una candidatura cerrada en el partido . Kamala Harris 2028: qué encuesta la pone primera La ventaja de Harris se sostiene en varias mediciones individuales, aunque no todas muestran la misma diferencia: Uno de los sondeos más favorables fue el de I I/TIPP , realizado entre el 27 y 29 de enero, que la ubicó con 38% frente al 13% de Newsom . El sondeo del Centro de Estudios Políticos Americanos de la Universidad de Harvard , elaborado entre el 25 y 26 de febrero, le dio 39% de apoyo y una distancia de 15 puntos sobre el gobernador de California. También hubo encuestas en las que alcanzó 34% , como la de Rasmussen Reports , y mantuvo una diferencia de dos dígitos frente a sus rivales más c",
+      "link": "https://www.lanacion.com.ar/estados-unidos/encuestas-elecciones-2028-en-eeuu-el-sondeo-que-pone-a-kamala-harris-de-primera-en-la-carrera-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 05:16:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/537U6XURKBCSXDQZ3TY4YVJJJA.JPG?auth=6e21dd32e926973bf33e6c3b0975beca6955da5bb160eccf647b245f4e5722d3&smart=true&width=6237&height=4158"
+    },
+    {
+      "id": "28dd108bc473ac451d1f",
+      "title": "Cierran autopistas y puentes porteños a partir de hoy: habrá cortes totales y desvíos de tránsito",
+      "summary": "A partir de este lunes 30 de marzo , desde las 22 hasta las 6 del martes no se podrá circular por la autopista Illia en sentido norte ni por la avenida Intendente Cantilo, debido a que Autopistas Urbanas (AUSA) realizará el hormigonado del nuevo puente Labruna . A la vez, la autopista Dellepiane también estará cerrada en sentido hacia la provincia desde el mismo día a las 22 hasta las 5 de mañana, por trabajos de hormigonado del nuevo puente Río Negro . El martes 31 de marzo, se interrumpirá además el tránsito en Dellepiane mano al centro porteño. El Ministerio de Movilidad e Infraestructura de la ciudad informó que, durante la franja horaria de trabajo, el tránsito que habitualmente toma Illia y Cantilo hacia el norte deberá desviarse por las avenidas Figueroa Alcorta o Del Libertador. También se cortará el Paseo del Bajo en sentido norte, a la altura de Retiro, por lo que el tránsito pesado será desviado hacia la avenida Costanera para luego incorporarse a Cantilo en el ingreso ubicado después del Puente Labruna. En sentido contrario, hacia el centro, tanto la autopista Illia como Lugones permanecerán habilitadas con tránsito normal. Por las obras, también permanecerán cerrados los puentes Labruna y Scalabrini Ortiz , a la altura de Parque Norte. Esta restricción afectará la salida de Lugones hacia el aeroparque Jorge Newbery y la avenida Costanera. Como alternativa, se podrá continuar hasta la salida de la avenida Sarmiento. Este sábado 28 de marzo , ya se redujo la calzada de la avenida Lugones a la altura del Puente Labruna y continuará cerrada la salida a la avenida Udaondo desde Cantilo hasta mediados de abril, debido a trabajos de terminación en la estructura de hormigón. Como alternativa, los usuarios pueden salir antes, en Parque Norte, o continuar hasta el Parque de los Niños. Cierre de la Dellepiane También hoy, desde las 22 y durante siete horas hasta las 5 de la madrugada del martes , se cortará la autopista Dellepiane en sentido a la provincia, ya que",
+      "link": "https://www.lanacion.com.ar/sociedad/cierran-autopistas-y-puentes-portenos-desde-manana-habra-cortes-totales-y-desvios-de-transito-nid29032026/",
+      "pubDate": "Mon, 30 Mar 2026 05:11:57 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/AEG3UU5BSJHFRE2ED3WZBEP6QI.jpeg?auth=0744b43109ad38c07fa8d507f76897fe2bf04e30de44f8ea972e730af1920a03&smart=true&width=1600&height=900"
+    },
+    {
+      "id": "6606a9a58c46dd4d286e",
+      "title": "Un muerto y varios heridos tras ataque masivo con drones ucranianos en sur de Rusia",
+      "summary": "La ofensiva afectó principalmente a la ciudad de Taganrog y a otros seis distritos de la provincia de Rostov.",
+      "link": "https://actualidad.rt.com/actualidad/596106-muerto-heridos-ataque-drones-ucrania-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 05:03:55 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69ca0236e9ff7160531ec58f.jpg"
+    },
+    {
+      "id": "6978cbd42f37daa80389",
+      "title": "Desvelarse a propósito: el nuevo fenómeno que preocupa a los especialistas del sueño",
+      "summary": "Son las doce de la noche y, aunque el cansancio pesa en los párpados con una fuerza física casi dolorosa, la luz azul del smartphone sigue iluminando el rostro de millones de personas que, en lugar de entregarse al descanso, eligen deliberadamente postergarlo . No se trata de un insomnio clínico ni de una obligación laboral ineludible; es un acto de rebeldía silenciosa contra las exigencias del reloj diurno. Este comportamiento, bautizado como Revenge Bedtime Procrastination (procrastinación de venganza a la hora de acostarse), se ha convertido en un objeto de estudio prioritario para la medicina del sueño . La premisa es tan simple como devastadora: cuando el individuo siente que no tiene el control sobre su vida durante el día, intenta recuperarlo sacrificando las horas de sueño por la noche, convirtiendo el ocio nocturno en un botín de guerra personal que, paradójicamente, termina por socavar su propia salud. Del scroll infinito a la venganza de las sábanas La profundidad de este fenómeno radica en que no es una simple distracción, sino una respuesta psicológica estructurada ante el agotamiento de la autonomía. Según la investigación titulada Estudio exploratorio sobre la procrastinación del sueño: Procrastinación a la hora de acostarse vs. mientras se está en la cama , para que un retraso en la hora de dormir se considere oficialmente como tal, deben coexistir tres factores: una reducción real del tiempo total de sueño, la ausencia total de una razón de fuerza mayor y la plena conciencia de que esta conducta tendrá consecuencias negativas al amanecer. Lo que diferencia a esta práctica de otros tipos de procrastinación, como la postergación de tareas domésticas, es que el intercambio se percibe como una recompensa. El capítulo extra de una serie o el scroll infinito en redes sociales se transforman en los únicos espacios de libertad absoluta donde nadie demanda productividad, un refugio temporal que se vuelve especialmente tentador en culturas laborales hipercone",
+      "link": "https://www.lanacion.com.ar/lifestyle/desvelarse-a-proposito-el-nuevo-fenomeno-que-preocupa-a-los-especialistas-del-sueno-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 05:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/2WP2FTIM4ZDC3KPPOABNBKBGV4.jpg?auth=43e5388c7ea75f4f8d472d898622b3d7d0dacab718f87b5facc7513db3ec9c60&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "31081e014a538cc12efd",
+      "title": "Precio del petróleo crudo Brent se alza nuevamente en medio de las tensiones en Oriente Medio",
+      "summary": "El precio subió este lunes, alcanzando los 116,12 dólares el barril.",
+      "link": "https://actualidad.rt.com/actualidad/596105-precio-petroleo-crudo-brent-alza-nuevamente?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 30 Mar 2026 04:58:15 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69ca0721e9ff716e9f1816cb.jpg"
+    },
+    {
+      "id": "6db2f24d55f3a130b20a",
+      "title": "\"Si esto no es la casta... ¿la casta dónde está?\"",
+      "summary": "",
+      "link": "https://www.clarin.com/cartas-al-pais/casta-casta_0_fHD2PpsAxz.html",
+      "pubDate": "Mon, 30 Mar 2026 04:30:12 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/26/NXRYFQQVX_1200x630__1.jpg"
+    },
+    {
       "id": "72a026b695f8925fb778",
       "title": "El Gobierno oficializó los aumentos en las tarifas de gas que regirán a partir del 1° de abril",
       "summary": "El Gobierno oficializó un aumento del 1,8% en las tarifas de gas para los usuarios de Metrogas y de las empresas regionales de todo el país, que comenzará a regir desde el 1° de abril de 2026 , como resultado de la actualización del precio del servicio, la aplicación de un nuevo tramo de la revisión quinquenal tarifaria y los mecanismos de ajuste mensual previstos en la normativa vigente. La medida se formalizó mediante una serie de resoluciones del Ente Nacional Regulador del Gas (Enargas), publicadas este lunes en el Boletín Oficial. El aumento combina distintos factores . Por un lado, el traslado a las tarifas finales de los nuevos precios del gas establecidos en el marco del Plan Gas.Ar , que determinan el costo del fluido en el punto de ingreso al sistema de transporte (PIST). A su vez, la resolución dispuso la aplicación de una nueva cuota del incremento surgido de la Revisión Quinquenal de Tarifas (RQT). Ese proceso prevé que el ajuste total se instrumente en treinta y un aumentos mensuales y consecutivos a lo largo del período 2025-2030. El esquema tarifario también incorpora la actualización mensual prevista en las Reglas Básicas de la Licencia . Ese mecanismo se basa en la variación de índices definidos por el ente regulador y forma parte del sistema de adecuación periódica de los ingresos de la distribuidora. De acuerdo con los valores incluidos en el anexo de la resolución, los montos varían según categoría y nivel de consumo . En el caso de los usuarios residenciales sin subsidios, el cargo fijo mensual para la categoría más baja (R1) se ubica en $3824 en la Ciudad de Buenos Aires y en $4416 en el conurbano , mientras que en los niveles de mayor consumo (R4) superan los $91.000 en la Capital Federal . En paralelo, el cargo por consumo presenta valores escalonados que parten de $272 por metro cúbico en las categorías más bajas y superan los $400 en los segmentos de mayor demanda, según la estructura tarifaria definida para abril. El detalle técnico del c",
@@ -1619,16 +1880,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/5RQHGMPGFJDNTOUSHVEHNRI3SA.jpg?auth=dcb6272a06b0aef2d08817d8be3625b4c4f14deda4b65a114b2006a5117e044a"
-    },
-    {
-      "id": "4f313cbb5c53fc9843ce",
-      "title": "Netflix contra YouTube: ¿solo puede quedar uno?",
-      "summary": "Las reglas del juego audiovisual están cambiando y ahora la lucha de dos titanes del entretenimiento marcará el futuro de la televisión",
-      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-03-30/netflix-contra-youtube-solo-puede-quedar-uno.html",
-      "pubDate": "Mon, 30 Mar 2026 03:45:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": ""
     },
     {
       "id": "641a36c4bd1fdc4a345f",
@@ -1721,24 +1972,14 @@
       "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
     },
     {
-      "id": "277f33334a003bd378a9",
-      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este lunes 30 marzo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-lunes-30-marzo-2026_0_1NLlkwTWxi.html",
-      "pubDate": "Mon, 30 Mar 2026 03:40:43 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/FDp8zU61M_1200x630__1.jpg"
-    },
-    {
       "id": "f0ca9987c1bdb000f913",
       "title": "Las derrotas de Trump desnudan los límites de EE UU",
-      "summary": "Intervención de Trump en el foro FII Priority este viernes, en Miami.",
+      "summary": "Donald Trump a su llegada a la Casa Blanca, el domingo 29 de marzo.",
       "link": "https://elpais.com/internacional/2026-03-30/las-derrotas-de-trump-desnudan-los-limites-de-ee-uu.html",
       "pubDate": "Mon, 30 Mar 2026 03:40:00 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/GS7AJZ6PJNIUDFHEQ6IJ3DL634.jpg?auth=bd38320633c981c5c319c355585581b5b8431aecb3ad5c0a02bb1e99f1f60b99"
+      "image": "https://imagenes.elpais.com/resizer/v2/SLKZIJJIHVFJBJ4263TWPXQLH4.jpg?auth=7829b03c2568f16fb8708d219b900a303eff2c5e9b36a7f81711033a6b2f192c"
     },
     {
       "id": "d80b10dd114df5b04d9f",
@@ -1771,16 +2012,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/JZMUNH7SEFETTBXWAEFF5H3HAU.jpg?auth=3423c949f75702209667eaf3a1c4195fb59da93ccee1685ad8c23048adda4533"
     },
     {
-      "id": "44452cb58698c1f49a97",
-      "title": "¿Hasta qué punto pueden los hutíes escalar el conflicto en Irán?",
-      "summary": "¿Pueden los hutíes escalar el conflicto en Irán?",
-      "link": "https://elpais.com/videos/2026-03-30/hasta-que-punto-pueden-los-huties-escalar-el-conflicto-en-iran.html",
-      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/IYNCZOYQLNGF5KBF4IPFPFQ6A4.jpg?auth=0d3e3bca7e32ed70e01221636b103fb4d2ede0adebd6c7807a57a8fb429c2f22"
-    },
-    {
       "id": "c10a10d2ac94f1dc3dc6",
       "title": "La gran misa pagana de Rosalía: todas las claves del ‘Lux Tour’ en su desembarco en España",
       "summary": "Rosalía, durante su concierto en el Accor Arena de París, el 18 de marzo, segunda fecha del 'Lux Tour' tras su estreno en Lyon.",
@@ -1793,12 +2024,12 @@
     {
       "id": "7416b64f787f156f3923",
       "title": "Eve Babitz, la díscola cronista de Los Ángeles resucita",
-      "summary": "Retrato de Eve Babitz con una copia de uno de sus libros, en una imagen cedida por su hermana Mirandi Babitz.",
+      "summary": "Retrato de Eve Babitz con una copia de su libro 'Eve 's Hollywood', en una imagen cedida por su hermana Mirandi Babitz.",
       "link": "https://elpais.com/cultura/2026-03-30/eve-babitz-la-discola-cronista-de-los-angeles-resucita.html",
       "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/2SISCLLP3JHBTPU7TCIOA7ZFPQ.jpg?auth=ac30eec8bd3ae807cfa146ab976726e6f922e791ab1c0dab919ae9ded61a8883"
+      "image": "https://imagenes.elpais.com/resizer/v2/HGXWDM5V7FCPRLV2R6MM6VEWF4.jpg?auth=0532242f4e362a6154217b2715775a679d6cdc7d6c96bed541d98cd92d2f7f11"
     },
     {
       "id": "53bf70ba6bdbbd2be9f8",
@@ -1863,13 +2094,12 @@
     {
       "id": "77620164dbcae94fee42",
       "title": "Dubái: el refugio de “la clase alta del narco” comienza a tambalearse",
-      "summary": "“En Dubái están los que disparan con el teclado del teléfono, calentitos en sus casas, mientras aquí se montan algunos pitotes que flipas . Aunque ahora empiezan a no tenerlo tan fácil”. Juan —nombre ficticio mediante— resume en dos frases cómo y desde dónde opera lo que él llama con guasa “la clase alta de narcolandia”, que él conoce bien desde dentro. Tiene amigos ahí, ha invertido en algún porte de hachís y se conoce a la mayoría de los capos del Estrecho de Gibraltar, pero reconoce que llegar a esas esferas de poder son palabras mayores y peligrosas. Hace ya cuatro años que la cúspide del negocio de la droga del país, especialmente si es cocaína, mudó su “oficina central”, como la define un policía del Grupo de Respuesta Especial para el Crimen Organizado (GRECO) de Cádiz, a esta ciudad de Emiratos Árabes. Sin embargo, la guerra de Irán, la nueva colaboración policial con las autoridades emiratíes y la pérdida del anonimato del destino como refugio del narco están llevando a los más poderosos a mover ficha. Seguir leyendo",
+      "summary": "Alijo de cocaína intervenido en noviembre de 2021 en el puerto de Algeciras presuntamente relacionado con el narco conocido como 'El Tigre'",
       "link": "https://elpais.com/espana/2026-03-30/dubai-el-refugio-de-la-clase-alta-del-narco-comienza-a-tambalearse.html",
       "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
       "source": "El Pais",
-      "cat": "ia",
-      "image": "https://imagenes.elpais.com/resizer/v2/JMUXSEWDIVB45IZ4KDIV6AKDLM.jpeg?auth=6dc11069c4e9ba04fcf3a1619038da6ebede189a750d3dcfce445837a639c41c",
-      "subcat": "herramientas"
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/JMUXSEWDIVB45IZ4KDIV6AKDLM.jpeg?auth=6dc11069c4e9ba04fcf3a1619038da6ebede189a750d3dcfce445837a639c41c"
     },
     {
       "id": "656edeff71444e16769f",
@@ -1880,6 +2110,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/7VAMZUKITVFVZO74EDCKYNV3ME.jpg?auth=a299086432f33065641a253b59d696c7a89ac3ad872cf153bcdb4d1f5b5c68bf"
+    },
+    {
+      "id": "8b8a0f330ce4c3870fff",
+      "title": "El último refugio del cisne que enviudó: el santuario de aves La Cañada de los Pájaros afronta su propio peligro de extinción",
+      "summary": "El biólogo Plácido Rodríguez, cofundador de la reserva concertada La Cañada de los Pájaros, con 'Maravilla', la hembra de cisne que enviudó hace un año.",
+      "link": "https://elpais.com/espana/andalucia/2026-03-30/el-ultimo-refugio-del-cisne-que-enviudo-el-santuario-de-aves-la-canada-de-los-pajaros-afronta-su-propio-peligro-de-extincion.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/3437NOOGKRD3RE4HEXN2O2U6D4.jpg?auth=b4103150f27160c9d373ed4c72d605b65601f89f8a872a863de2b5c4f4279849"
     },
     {
       "id": "f837b89d3594b7f197a9",
@@ -1930,6 +2170,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DFLXI2L5IBD4VIT35H2MBB6BUI.jpg?auth=c024ba54ec6dd12b8fb0b9093392f913a16a3d5d320a4cc5942e444472b8bb93"
+    },
+    {
+      "id": "9d33d3bd79ce5d8af824",
+      "title": "El cáncer colorrectal ya no solo se opera",
+      "summary": "Según la Asociación Española Contra el Cáncer, en 2025 se diagnosticaron 45.000 casos nuevos de cáncer colorrectal, 27.300 hombres y 17.300 en mujeres.",
+      "link": "https://elpais.com/salud-y-bienestar/el-medico-de-cerca/2026-03-30/el-cancer-colorrectal-ya-no-solo-se-opera.html",
+      "pubDate": "Mon, 30 Mar 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/UHEXXPV6VZHPBBUQPNIJMJXLCA.jpg?auth=e3af4f00fb1ce5ff473971b438c18c2a98c64f4f605781ddc9d27bf06825f512"
     },
     {
       "id": "7f30969e8d688496faee",
@@ -2022,6 +2272,26 @@
       "image": "https://resizer.glanacion.com/resizer/v2/CFOHAUEJGJBLVBKG6LKS5XYFKE.jpg?auth=e4570dd4a3e1e3b6888c00959510ab33131bb829e5c883f1bee6f060861bee54&smart=true&width=1346&height=850"
     },
     {
+      "id": "31c1150ebd7b5ab7385f",
+      "title": "Sólo en Off: Dante Gebel ahora sí viene a la Argentina y dará otro paso hacia una candidatura en 2027",
+      "summary": "Días atrás, en el microestadio de Lanús, su ausencia fue la noticia . Entusiasmado con aquella convocatoria, Dante Gebel decidió dejar por unos días la comodidad de su vida en Los Angeles y viajar a Buenos Aires, sin definir aún si será, como esperan sus armadores de confianza, candidato a presidente en 2027 . “El mes que viene está por acá” , cuentan, orgullosos pero también cautos, cerca del pastor evangélico y conferencista internacional con sede central en Estados Unidos, quien envió sus felicitaciones privadas a los responsables del evento: el sindicalista Juan Pablo Brey (Aeronavegantes) y el legislador porteño Eugenio Casielles , expulsado meses atrás, junto a Ramiro Marra , por Karina Milei del paraíso libertario. Sindicalistas con peso en la CGT y programas taquilleros de la televisión y la radio figuran en la inminente agenda de Gebel, quien sin dar pistas apela a su rol de outsider e intenta captar el descontento de una franja de la opinión pública con el gobierno de Javier Milei , apalancado en su notoriedad mediática y un discurso llano que suena familiar a muchos peronistas. La exdiputada Graciela Camaño , de larga militancia en el PJ y el Frente Renovador, fue de la partida en Lanús a través de un video y es una de las incorporaciones más valoradas, al igual que el excrack futbolístico Walter Ervitti , que según cuentan fuentes del espacio ya está en la mesa chica de las decisiones del plan Gebel 2027. En tren de buscar apoyos nacionales, los partidarios de la por ahora promesa evangélica aseguran que no es casualidad que Mariano Almada , secretario de Culto de Córdoba, haya estado en Lanús. “ [Martín] Llaryora está cerca”, dicen en relación al gobernador cordobés, que también integra el espacio Provincias Unidas junto a su par de Santa Fe, Maximiliano Pullaro . La posibilidad de unir fuerzas con el Pro de Mauricio Macri no es descartada, pero con reparos. “Si se quieren sumar, bienvenidos”, provocan desde las oficinas céntricas en las que los operado",
+      "link": "https://www.lanacion.com.ar/politica/solo-en-off-dante-gebel-ahora-si-viene-a-la-argentina-y-dara-otro-paso-hacia-una-candidatura-en-2027-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/OZ4ADDSO2FGDZGAM4BXUMF57O4.jpg?auth=6cbb98bbd93a2e0311107666310219929ce5324d2c16cc6bcdf79913f5330b28&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "5a34a8f255a0c07e9745",
+      "title": "Cartas de lectores: Malversación, laberinto, festejo",
+      "summary": "Malversación Pareciera que en la Argentina, tan devastada por malos y corruptos gobiernos, es más importante el cuanto malversó un funcionario que el hecho de que lo haya hecho. Con los muy publicitados viajes de Adorni y familia (tres en total, hasta ahora) comparados con los más de 150 de Cristina Fernández de Kirchner a El Calafate y Río Gallegos pretendiendo que es más grave un hecho que el otro, se elude el tema central, malversar o usar los bienes del Estado en provecho propio está objetivamente mal. El monto de lo erogado es secundario, si se diera la posibilidad, ¿se malversaría más? Es como comparar en un homicidio simple con uno múltiple, la gravedad de uno no exculpa la del otro, lo que está mal es asesinar. Horacio Durán DNI 10.795.424 Laberinto Del magnífico y reciente artículo de José Claudio Escribano, titulado “Borges habla sobre el caso Adorni”, destaco el símbolo oculto del laberinto. Allí reside el quid de la cuestión, ya que el laberinto en el que el azar caótico de la vida ha ubicado al actual jefe de Gabinete, no tiene ni puerta ni fin por más terquedad que se aplique, conforme al soneto borgiano. Nicolás V. Gallo ngallo@fibertel.com.ar Festejo El jefe de Gabinete celebró en redes sociales el fallo de la justicia de Nueva York por el caso YPF . Culminó su mensaje con un “Dios bendiga a la República Argentina. Fin.” Señor Adorni: “Al César lo que es del César, y a Dios lo que es de Dios” Hugo Perini DNI 10 224 705 Discursos Es evidente que el presidente Milei, cree que introducir groserías en sus discursos, lo distinguen y le agregan personalidad. En realidad es asi, pero lamentablemente, no precisamente en el sentido que el espera y que sería deseable para nuestra imagen internacional… Carlos Alberto Blanco carlosalbertoblanco294@gmail.com Racismo Ante el calvario que sufre en Brasil nuestra compatriota Agostina Páez, por el hecho de haber respondido con una morisqueta a un grupo de hombres que las habían molestado a ella y sus amigas, no cabe ",
+      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-malversacion-laberinto-festejo-nid30032026/",
+      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/7YKLQJFJMZG4BHG2RB5G7D6TOU.jpg?auth=5d7f73f701aca0f358e06c84b91433c99db7ffb3a5837be97d1859c3890585c4&smart=true&width=1183&height=1019"
+    },
+    {
       "id": "fd2a90d00069b24e642b",
       "title": "La modernización laboral y el Tribunal Superior porteño",
       "summary": "La ley de modernización laboral ha introducido reformas muy importantes. Una de ellas vino a poner coto a un cuestionamiento que las cámaras nacionales de la Capital Federal realizaban a la Corte Suprema de Justicia de la Nación . Antes de esta norma, la ley establecía que las sentencias de las Cámaras Nacionales de Apelación de la Capital Federal podían ser apeladas ante la Corte Suprema si se daba alguno de los supuestos de la ley 48 o si las resoluciones apeladas eran arbitrarias. La nueva ley modificó radicalmente esta situación. Una breve explicación facilitará la comprensión de un problema técnico que puede resultar complicado para quienes no son abogados. A fines de 2024, en el caso “Ferrari vs. Levinas” , la Corte, con la disidencia de Carlos Rosenkrantz , dictó una sentencia trascendente que alteró ese esquema recursivo. En efecto, en el caso mencionado la sentencia objetada provenía de la Cámara Civil y el máximo tribunal, por mayoría, sostuvo que el recurso extraordinario para acceder a sus estrados no debía provenir de la Cámara Civil sino del Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires . Obviamente, fruto del carácter ejemplar de esa decisión, ese resultado se reiteró luego en centenas de sentencias subsiguientes provenientes de todos los fueros de la Capital Federal. El principio se aplicaba a todas las cámaras de apelación capitalinas. Entonces, como consecuencia de esta reforma, quien obtuviera una sentencia desfavorable de una Cámara Nacional debía acudir ante el Superior Tribunal de Justicia. Y si este tribunal fallaba en contra de alguna de las partes, recién entonces la perjudicada podría recurrir a la Corte Suprema, cuando se reunieran los requisitos pertinentes. Es de esperar que ahora los tribunales nacionales dejen de lado su oposición recalcitrante y se apeguen a lo dispuesto en la nueva norma Esto generó un alzamiento de ribetes escandalosos de las cámaras nacionales, que en sendas resoluciones objetaron airadamente ",
@@ -2043,26 +2313,6 @@
       "subcat": "mercado"
     },
     {
-      "id": "31c1150ebd7b5ab7385f",
-      "title": "Sólo en Off: Dante Gebel ahora sí viene a la Argentina y dará otro paso hacia una candidatura en 2027",
-      "summary": "Días atrás, en el microestadio de Lanús, su ausencia fue la noticia . Entusiasmado con aquella convocatoria, Dante Gebel decidió dejar por unos días la comodidad de su vida en Los Angeles y viajar a Buenos Aires, sin definir aún si será, como esperan sus armadores de confianza, candidato a presidente en 2027 . “El mes que viene está por acá” , cuentan, orgullosos pero también cautos, cerca del pastor evangélico y conferencista internacional con sede central en Estados Unidos, quien envió sus felicitaciones privadas a los responsables del evento: el sindicalista Juan Pablo Brey (Aeronavegantes) y el legislador porteño Eugenio Casielles , expulsado meses atrás, junto a Ramiro Marra , por Karina Milei del paraíso libertario. Sindicalistas con peso en la CGT y programas taquilleros de la televisión y la radio figuran en la inminente agenda de Gebel, quien sin dar pistas apela a su rol de outsider e intenta captar el descontento de una franja de la opinión pública con el gobierno de Javier Milei , apalancado en su notoriedad mediática y un discurso llano que suena familiar a muchos peronistas. La exdiputada Graciela Camaño , de larga militancia en el PJ y el Frente Renovador, fue de la partida en Lanús a través de un video y es una de las incorporaciones más valoradas, al igual que el excrack futbolístico Walter Ervitti , que según cuentan fuentes del espacio ya está en la mesa chica de las decisiones del plan Gebel 2027. En tren de buscar apoyos nacionales, los partidarios de la por ahora promesa evangélica aseguran que no es casualidad que Mariano Almada , secretario de Culto de Córdoba, haya estado en Lanús. “ [Martín] Llaryora está cerca”, dicen en relación al gobernador cordobés, que también integra el espacio Provincias Unidas junto a su par de Santa Fe, Maximiliano Pullaro . La posibilidad de unir fuerzas con el Pro de Mauricio Macri no es descartada, pero con reparos. “Si se quieren sumar, bienvenidos”, provocan desde las oficinas céntricas en las que los operado",
-      "link": "https://www.lanacion.com.ar/politica/solo-en-off-dante-gebel-ahora-si-viene-a-la-argentina-y-dara-otro-paso-hacia-una-candidatura-en-2027-nid30032026/",
-      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/OZ4ADDSO2FGDZGAM4BXUMF57O4.jpg?auth=6cbb98bbd93a2e0311107666310219929ce5324d2c16cc6bcdf79913f5330b28&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "5a34a8f255a0c07e9745",
-      "title": "Cartas de lectores: Malversación, laberinto, festejo",
-      "summary": "Malversación Pareciera que en la Argentina, tan devastada por malos y corruptos gobiernos, es más importante el cuanto malversó un funcionario que el hecho de que lo haya hecho. Con los muy publicitados viajes de Adorni y familia (tres en total, hasta ahora) comparados con los más de 150 de Cristina Fernández de Kirchner a El Calafate y Río Gallegos pretendiendo que es más grave un hecho que el otro, se elude el tema central, malversar o usar los bienes del Estado en provecho propio está objetivamente mal. El monto de lo erogado es secundario, si se diera la posibilidad, ¿se malversaría más? Es como comparar en un homicidio simple con uno múltiple, la gravedad de uno no exculpa la del otro, lo que está mal es asesinar. Horacio Durán DNI 10.795.424 Laberinto Del magnífico y reciente artículo de José Claudio Escribano, titulado “Borges habla sobre el caso Adorni”, destaco el símbolo oculto del laberinto. Allí reside el quid de la cuestión, ya que el laberinto en el que el azar caótico de la vida ha ubicado al actual jefe de Gabinete, no tiene ni puerta ni fin por más terquedad que se aplique, conforme al soneto borgiano. Nicolás V. Gallo ngallo@fibertel.com.ar Festejo El jefe de Gabinete celebró en redes sociales el fallo de la justicia de Nueva York por el caso YPF . Culminó su mensaje con un “Dios bendiga a la República Argentina. Fin.” Señor Adorni: “Al César lo que es del César, y a Dios lo que es de Dios” Hugo Perini DNI 10 224 705 Discursos Es evidente que el presidente Milei, cree que introducir groserías en sus discursos, lo distinguen y le agregan personalidad. En realidad es asi, pero lamentablemente, no precisamente en el sentido que el espera y que sería deseable para nuestra imagen internacional… Carlos Alberto Blanco carlosalbertoblanco294@gmail.com Racismo Ante el calvario que sufre en Brasil nuestra compatriota Agostina Páez, por el hecho de haber respondido con una morisqueta a un grupo de hombres que las habían molestado a ella y sus amigas, no cabe ",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-malversacion-laberinto-festejo-nid30032026/",
-      "pubDate": "Mon, 30 Mar 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/7YKLQJFJMZG4BHG2RB5G7D6TOU.jpg?auth=5d7f73f701aca0f358e06c84b91433c99db7ffb3a5837be97d1859c3890585c4&smart=true&width=1183&height=1019"
-    },
-    {
       "id": "ef4a9edaeebf2119d03c",
       "title": "Debates pendientes a cincuenta años del golpe",
       "summary": "A medio siglo del golpe de estado que marcó a la Argentina, y tras reflexionar sobre lo vivido, llego a una conclusión pesimista: como sociedad, aprendimos poco o nada de la tragedia vivida. Al revisar comentarios en las redes, estudios académicos, artículos periodísticos, cartas de lectores y películas, videos y documentales, advierto que -salvo excepciones- persisten algunos vacíos críticos en el análisis, incluso de fuentes serias. Muchos de estos silencios, ya sea por desconocimiento o por intencionales omisiones estratégicas, han conducido a conclusiones incompletas y sesgadas. Veamos algunos temas ausentes en el debate público: ● La destrucción de las vías legales para combatir la guerrilla que implicó la disolución de la Cámara Federal en lo Penal que, al momento de su clausura, llevaba juicios orales y públicos contra terroristas y con cientos de condenados y procesados. El informe Nunca Más menciona las diferencias entre cómo se enfrentó el terrorismo en Italia y en la Argentina, pero omite la responsabilidad de quienes ordenaron su disolución y decretaron la amnistía de 1973. ● No se habla de la amnistía decretada en 1973 que liberó a cientos de guerrilleros (y a muchos presos comunes) que no fue una decisión de un grupo aislado, sino del Congreso de la Nación, respaldada por todos los partidos con expresiones laudatorias hacia los terroristas agresores registradas en los diarios de sesiones. ● No se habla de Perón y de su enorme responsabilidad en lo ocurrido, primero alentando la violencia y luego al iniciar la represión ilegal, con la Triple A. Nada se dice sobre la masacre de Ezeiza de 1973, que enfrentó a la derecha con la izquierda peronista y produjo una cantidad de muertes nunca aclarada y sin ningún condenado. ● No se habla de la demencial estrategia de la guerrilla para enloquecer a las FFAA y llevarlas a derrocar al gobierno constitucional, con un plan que implicaba matar a un militar por semana (llegando hasta asesinar a un oficial naval jubila",
@@ -2073,16 +2323,6 @@
       "image": ""
     },
     {
-      "id": "8f765fe3fb0ae70f6910",
-      "title": "\"¿Qué es lo siguiente?\": Dron iraní presume de algunas de sus victorias ante EE.UU. (FOTOS)",
-      "summary": "Un dron Shahed 136 iraní exhibe en su fuselaje una lista de sistemas estadounidenses marcados como derribados: el radar AN/MPQ-65 del sistema Patriot, el AN/TPY-2 del THAAD, el FPS-132 y el costoso avión de alerta temprana E-3 AWACS. Otra foto incluye imágenes de estos y otros dispositivos militares de EE.UU. en calcomanías. El mensaje culmina con la pregunta \"What's the next?\" (\"¿Qué es lo siguiente?\"), mostrando la confianza de Teherán en sus tecnologías de defensa.",
-      "link": "https://actualidad.rt.com/actualidad/596086-dron-irani-presume-victorias-objetivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 03:04:42 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e637e9ff710ca631b936.jpg"
-    },
-    {
       "id": "2347b386aaf47e044bbf",
       "title": "La agenda de la TV del lunes: los amistosos internacionales y la Copa Argentina",
       "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del lunes 30 de marzo de 2026. FÚTBOL Amistosos internacionales 13 Chipre vs. Moldavia. Disney+ 15.45 Alemania vs. Ghana. ESPN Copa Argentina 21.15 Unión vs. Agropecuario. Los 32avos de final. TyC Sports RUGBY Super Rugby Américas 19.55 Dogos XV vs. Capibaras XV. ESPN 3",
@@ -2091,86 +2331,6 @@
       "source": "La Nacion",
       "cat": "tech",
       "image": "https://resizer.glanacion.com/resizer/v2/EWWZGTK3QJAKBIZZVHXKT54TJM.JPG?auth=3f4bb82b1a89096d1c4eeda8bf57959b7de12c3da9ed003a2ab7168420be1120&smart=true&width=1725&height=1150"
-    },
-    {
-      "id": "20e09e9b55f79b950500",
-      "title": "Nunca cuatro 30/3/2026",
-      "summary": "Cómo jugar al Nunca Cuatro Nunca Cuatro es un juego online que propone completar todos los casilleros vacíos con un círculo o una cruz. Pero el desafío reside en que nunca aparezcan cuatro signos iguales alineados en una misma fila, columna o diagonal. Una vez completados todos los casilleros, junto al juego -al lado del botón de “reiniciar”- aparecerá la opción “ver resolución “, con la que podrás controlar tus respuestas en línea. Cuando completes el Nunca Cuatro de hoy, podés disfrutar de otros pasatiempos online en LN Juegos : Crucigrama , Sudoku , Sopa de letras , Palabras cruzadas , Trivias , Criptograma y más desafíos diarios. Tu experiencia nos importa. Por eso, si tenés observaciones, inquietudes o sugerencias respecto de nuestros juegos online, envianos un mensaje a LNJuegos@lanacion.com.ar y contanos tus ideas. También podés seguirnos en nuestro canal de WhatsApp.",
-      "link": "https://www.lanacion.com.ar/juegos/nunca-cuatro/nunca-cuatro-3032026-nid30032026/",
-      "pubDate": "Mon, 30 Mar 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/VSGCP6CFNFENJBZFB5N5F4R5DM.png?auth=29c1ffb6e40025b0d2aa3a37be169fef5ad5dbc9893e4538afcbf343168db239&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "3192e050b2ed9f383cc4",
-      "title": "Newell’s no detiene su derrumbe: ahora perdió contra Acassuso y se despidió de la Copa Argentina",
-      "summary": "Acassuso concretó una de las sorpresas de los 32avos. de final de la Copa Argentina al imponerse por 2-0 sobre Newell’s en el estadio Nuevo Monumental de Rafaela. El conjunto de la Primera Nacional, que presentó una formación con mayoría de suplentes , se clasificó a la siguiente instancia en la que se enfrentará al ganador del cruce entre Gimnasia y Esgrima La Plata y Camioneros. El resultado profundizó el presente adverso del equipo rosarino , que no logra revertir su dinámica negativa en la temporada. En cambio, Acassuso ratificó el buen inicio que había mostrado en el torneo y trasladó ese rendimiento a un escenario de eliminación directa. “A veces uno se queda sin recursos y herramientas para poder cambiarlo. No quiero decir cosas que después me arrepienta. No tengo muchos argumentos para dar explicaciones extensivas como las di en otro momento”, remarcó Frank Kudelka, el conductor de este Newell´s que sufrió tres derrotas en cinco partidos desde su vuelta al Rojinegro. “No van a diferir mis palabras a las que dije apenas llegué. Damos un paso para adelante y dos para atrás, no hay muchas explicaciones. Es la tónica que se lleva desde hace mucho tiempo, a veces uno se queda sin recursos para poder cambiar la situación. Veníamos ilusionados, pero a la hora del momento delicada que tiene todo partido, sucumbimos rápido, nos hacen un gol de un ataque nuestro”, explicó el DT. El desarrollo del encuentro mostró desde el inicio a Newell’s con mayor protagonismo territorial. En los primeros minutos generó aproximaciones a partir de remates de Jerónimo Russo y David Sotelo, además de un intento de Walter Núñez que se fue desviado. Sin embargo, la solidez defensiva de Acassuso, sumada a la respuesta del arquero César Atamañuk, sostuvo el empate en el tramo inicial. La apertura del marcador llegó a los 20 minutos del primer tiempo. Tras una acción iniciada por Agustín Hermoso, Martín Schlotthauer definió y estableció el 1-0 para el equipo de San Isidro. A partir de ese m",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/newells-no-detiene-su-derrumbe-ahora-perdio-contra-acassuso-y-se-despidio-de-la-copa-argentina-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 02:50:11 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/F4OHOAOMNBAGLGF37ASY5OJOII.JPG?auth=a52361b0c511deb5ff8543be8e9105303b11ade297058292f4eccf4f24e5e5ba&smart=true&width=1999&height=1333"
-    },
-    {
-      "id": "dbd41e56c3eac88427a6",
-      "title": "WSJ: Trump estaría considerando una operación militar para apropiarse del uranio iraní",
-      "summary": "El mandatario estadounidense está \"abierto a la idea\", ya que podría ayudar a alcanzar su objetivo principal de poner fin al programa nuclear de la República Islámica.",
-      "link": "https://actualidad.rt.com/actualidad/596084-wsj-trump-estaria-considerando-operacion?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 02:44:36 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9d45259bf5b2d1808f7cc.jpg"
-    },
-    {
-      "id": "a7167f49d9398f388054",
-      "title": "Trump: El \"cambio de régimen\" en Irán ya ocurrió",
-      "summary": "El presidente de EE.UU. explicó su afirmación con el hecho de que \"todos [los dirigentes iraníes] murieron\".",
-      "link": "https://actualidad.rt.com/actualidad/596080-trump-cambio-regimen-iran-ocurrio?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 02:36:18 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9d66059bf5b247b36a685.png"
-    },
-    {
-      "id": "66369adac391130de135",
-      "title": "\"Gran día en Irán\": Trump anuncia la destrucción de muchos objetivos largamente buscados",
-      "summary": "El presidente de EE.UU. elogió al Ejército de su país, calificándolo del \"mejor y más letal del mundo\".",
-      "link": "https://actualidad.rt.com/actualidad/596094-gran-dia-iran-trump-anuncia-destruccion-objetivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 02:34:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9e2eb59bf5b4d6d2f5f76.jpg"
-    },
-    {
-      "id": "bae1b6fc436ba226b27b",
-      "title": "Trump agradece a Lukashenko por indultar a otros 250 prisioneros en Bielorrusia",
-      "summary": "Con esta decisión del líder bielorruso, el número total de presos liberados por Minsk asciende ya a más de 500 desde el pasado mayo.",
-      "link": "https://actualidad.rt.com/actualidad/596087-trump-agradece-lukashenko-indultar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 02:23:54 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9dca2e9ff710ed35be44b.jpg"
-    },
-    {
-      "id": "3b2611494f6fff526917",
-      "title": "Reportan que Kiev envió 5 millones de euros por semana a la oposición en Hungría",
-      "summary": "La revelación por un exagente de inteligencia ucraniana tiene lugar dos semanas antes de las elecciones parlamentarias en el país centroeuropeo.",
-      "link": "https://actualidad.rt.com/actualidad/596071-zelenski-enviar-5-millones-euros?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 30 Mar 2026 02:22:15 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69c9bff8e9ff710a713d2e35.jpg"
-    },
-    {
-      "id": "28bebb971d04226b11b1",
-      "title": "El fantasma que inquieta a Trump: busca develar un presunto fraude en Puerto Rico en las elecciones 2020",
-      "summary": "El jueves 19 de marzo, en Washington, la titular de la Oficina del Director de Inteligencia Nacional (ODNI, por sus siglas en inglés), Tulsi Gabbard, afirmó que su dependencia confiscó máquinas de votación en Puerto Rico a pedido de la fiscalía federal del territorio, según reveló un reporte. Sin embargo, no mencionó que esa misma oficina había sido señalada por impulsar una investigación orientada a reactivar una teoría sobre un supuesto fraude en las elecciones presidenciales de 2020 . ¿Qué explicó Gabbard sobre la incautación? De acuerdo con The Guardian , Gabbard sostuvo que la medida respondió a cuestionamientos sobre posibles fallas en los sistemas electorales . Ante el congresista Jim Himes, explicó que “existían dudas sobre si había vulnerabilidades que pudieran haber sido aprovechadas por una amenaza”. La funcionaria indicó que ese fue el motivo del pedido de investigación. Sin embargo, no precisó a qué proceso electoral correspondía la revisión y presentó la incautación como una acción vinculada a la seguridad electoral, según el medio citado. Un empleado de inteligencia señaló a The Guardian que la revisión no estaba vinculada a ninguna elección específica. Aun así, el informe indica que podría no tratarse de una coincidencia . Esto es porque la fiscalía que solicitó la incautación, encabezada por W. Stephen Muldrow, llevaba adelante una línea de investigación que sostenía que podía haber existido una intervención extranjera en los sistemas de votación utilizados en 2020. Esa hipótesis planteaba que el gobierno de Nicolás Maduro habría tenido capacidad para influir en máquinas de votación a nivel global y alterar resultados de forma remota , en el contexto de la elección en la que fue derrotado Donald Trump . Esa versión se enmarcaba en las denuncias impulsadas por el republicano tras esos comicios, que incluían acusaciones sobre votantes fallecidos, papeletas robadas, fraude por correo y participación de personas no ciudadanas. En ese contexto, el exfunc",
-      "link": "https://www.lanacion.com.ar/estados-unidos/el-fantasma-que-inquieta-a-trump-busca-develar-un-presunto-fraude-en-puerto-rico-en-las-elecciones-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 02:20:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/THLY3SGQ6NEBNKUENRUFZT6VJE.png?auth=1168625afe1530b58f904bea632eb8e44874cc183d1abbe2321ea772a69a9158&smart=true&width=2000&height=1333"
     },
     {
       "id": "6ef1cd5b7377a9492485",
@@ -2223,26 +2383,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/aPoqA1foRCz3xJYL7.jpeg"
     },
     {
-      "id": "6b6f7ae9ca846911e4ee",
-      "title": "Del banco a las vacas: la reinvención de Luis Otero Monsegur, el empresario que le vende 6000 toneladas de carne a Noruega",
-      "summary": "Hay decisiones que no solo cambian un rumbo profesional, sino que redefinen una vida entera. La de Luis Otero Monsegur fue una de ellas. A los 80 años, repasa su historia y encuentra un recorrido marcado por giros profundos. Abogado de formación, expresidente de un banco y hoy referente de la ganadería argentina, su recorrido condensa una transformación poco habitual: dejar el mundo financiero y apostar de lleno a la producción agropecuaria. “Nací en Buenos Aires y estudié en el Colegio San Andrés, donde me recibí en 1963. De ahí directamente ingresé a la UCA a la carrera de abogacía y me recibí en 1970”, recuerda a LA NACION sobre sus primeros pasos. “Profunda preocupación”: crece la incertidumbre por el futuro de una láctea con 700 empleados “Vengo de una familia de abogados, mi padre, mis abuelos, todos eran abogados y yo también”, dice, como quien repasa una herencia inevitable. El estudio jurídico familiar fue su primer paso aunque no tardó en buscar su propio camino. Eran tiempos de la dictadura del Proceso de Reorganización Nacional y con otros jóvenes abogados apostaron a un proyecto ambicioso. Creían en una Argentina que crecería y para la cual había que estar preparados. “Así lo hicimos, éramos 15 y participamos en algunos proyectos importantes”, cuenta sobre ese impulso juvenil, compartido con colegas. Era una apuesta al futuro que no llegó. “Fue una enorme desilusión, ese proyecto de desarrollo nunca se produjo”, admite, sin rodeos. El país no acompañó y, con esa frustración, comenzó a mirar hacia otro horizonte. El giro hacia el sistema financiero llegó después. “Decidí alejarme de la profesión e ingresé en el directorio del Banco Francés del Río de la Plata”, cuenta. Allí, desarrolló una carrera sólida hasta alcanzar la presidencia. Preocupación empresaria: por la suba del gasoil aumenta el costo para cosechar y en el transporte hay 6500 pymes en vilo Pero nuevamente el contexto macroeconómico iba a marcar un quiebre. “Señores, nosotros no estamos disp",
-      "link": "https://www.lanacion.com.ar/economia/campo/de-un-banco-lider-a-las-vacas-la-reinvencion-de-luis-otero-monsegur-el-empresario-que-le-vende-6000-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 01:15:44 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/5GOXLI5QEFDXHHZRUAVSDJJ6DA.jpg?auth=49565df9aeae4adad091f3b80b399c679888607c3c04f1a69b37336fdc9864ca&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "99fe9e379b4f6d1293b0",
-      "title": "Cuándo se van los agentes del ICE de los aeropuertos de EE.UU.: el “zar de la frontera” puso una condición",
-      "summary": "Tom Homan , conocido como “zar de la frontera” , afirmó que los agentes del Servicio de Control de Inmigración y Aduanas de EE.UU. ( ICE , por sus siglas en inglés) podrían no retirarse de los aeropuertos de inmediato . De acuerdo con el funcionario, la decisión dependerá de la cantidad de empleados de la Administración de Seguridad en el Transporte ( TSA ) que regresen a sus puestos. Qué dijo Tom Homan sobre la presencia de los agentes en los aeropuertos de EE.UU. Homan habló sobre la presencia de la agencia en el programa “State of the Union ”. Allí, detalló que los agentes permanecerán en los aeropuertos hasta que la TSA pueda reanudar sus “operaciones normales”. “Depende de cuántos agentes de la Administración de Seguridad en el Transporte regresen a trabajar”, dijo el conocido zar de la frontera en relación con el retiro de la agencia migratoria de los aeropuertos. “¿Cuántos agentes han renunciado y no tienen intención de volver a trabajar? Estoy colaborando de manera estrecha con el administrador y el director del ICE para decidir qué aeropuerto necesita qué“ , agregó. Al ser consultado sobre si se retirarían una vez que los empleados de la TSA reciban sus salarios, respondió con un “ya veremos” , debido a que la decisión depende de cuántos trabajadores vuelvan a sus puestos y de los que hayan renunciado. Cuántos empleados de la TSA renunciaron y el rol del ICE en los aeropuertos De acuerdo con The New York Times , más de 500 agentes han renunciado y miles se han ausentado . El pasado viernes 27 de marzo, cerca de 3560 empleados de la TSA faltaron , lo que representa la cifra más alta desde que comenzó el cierre parcial del gobierno. “Durante este tiempo, miles más se han visto obligados a ausentarse del trabajo porque no pueden costearse necesidades básicas como gasolina, cuidado de niños, comida o alquiler” , dijo una portavoz de la agencia. Bajo esta premisa, Homan aseguró que los tiempos de espera han disminuido desde la llegada de los agentes del ICE , qu",
-      "link": "https://www.lanacion.com.ar/estados-unidos/cuando-se-van-los-agentes-del-ice-de-los-aeropuertos-de-eeuu-el-zar-de-la-frontera-puso-una-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 01:11:15 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/Y7QAEB6AHVAGHEU37UPDQ6CRGY.jpg?auth=6e89e85086c880338d1f30655bdd50c37b20c699f034077f4a79440a894b217c&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "31ec3d8cc14db8e8e1b2",
       "title": "Resumen Moto3 GP Las Américas · Pini se impone en la lucha entre Carpe y Perrone",
       "summary": "Quiles terminó segundo y es más líder",
@@ -2251,127 +2391,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/30/aPoZq1foR45v9h5Cj.jpeg"
-    },
-    {
-      "id": "c11421fc1dd743081c5f",
-      "title": "Pablo Quirno tras el fallo por YPF: “Con Luis Caputo venimos salvándole las papas a Kicillof hace muchos años”",
-      "summary": "El canciller Pablo Quirno afirmó esta noche que “no hay nada que agradecerle” al gobernador bonaerense Axel Kicillof , luego de la resolución favorable para el país del juicio en Estados Unidos contra la expropiación de la petrolera estatal YPF . “No hay que agradecerle nada a Kicillof, que fue el responsable de la expropiación, una aventura kirchnerista que comenzó cuando trajeron a la familia Eskenazi a la compañía”, afirmó el canciller al programa de Luis Majul en LN+ . Pablo Quirno Amado Boudou Es El Tren Fantasma “Con (Luis) Caputo venimos salvándole las papas a Kicillof hace muchos años\", completó el encargado de la diplomacia nacional, en referencia a gestiones conjuntas con el hoy ministro de Economía para resolver demandas de los fondos buitre, durante el gobierno de Cambiemos. El viernes pasado, tras el fallo de la Justicia de Estados Unidos a favor de la Argentina, que evitará el pago de US$18.000 millones, Kicillof sostuvo: “Milei se disfraza con el mameluco de YPF, pero nunca la defendió”. La ex presidenta Cristina Kirchner fue más allá, al defender la estrategia de expropiación de YPF, que a su juicio generó el actual boom del yacimiento de Vaca Muerta. “Esa frase hay que verla de dos formas. Porque ‘disfrazar’ es una palabra ofensiva, no solo para el presidente, lo cual está mal, sino que, si él cree que defiende YPF, para YPF también”, le retrucó a Kicillof el titular de YPF, Horacio Marín , un rato antes que Quirno en el mismo programa televisivo. “Todos los fallos eran en contra, así que algo diferente se hizo” , puntualizó el canciller como modo de seguir marcando diferencias con la estrategia del kirchnerismo. “En 2012 ya había cepo, no había forma de que entraran inversiones. Lo que estamos haciendo ahoras es pelear por el derecho a la propiedad privada”, expresó. Alineamiento En relación al presunto apoyo del gobierno de Estados Unidos para torcer un fallo que podría haber sido desfavorable, Quirno negó cualquier influencia de la administración",
-      "link": "https://www.lanacion.com.ar/politica/pablo-quirno-con-luis-caputo-venimos-salvandole-las-papas-a-kicillof-hace-muchos-anos-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 01:03:24 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/TJJGXPGWBRBCXNYOMEJ5S5JBWA.jpg?auth=ae06a54735765fa4246a019f2319c4a8f7bc7ed47bde2df913475eefecaddb07&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "9e2430a7158f5f69678f",
-      "title": "Así quedó la tabla histórica de campeones del Masters 1000 de Miami, tras el título de Jannik Sinner",
-      "summary": "Jannik Sinner (2°) se coronó campeón del Masters 1000 de Miami que se disputó en el Hard Rock Stadium al derrotar este domingo en la final al checo Jiri Lehecka (21°) por un doble 6-4 y logró el segundo título, con el que escaló una posición en la tabla de campeones históricos. El encuentro para decidir al sucesor de Jakub Mensik -ganó la edición 2025 al superar a Novak Djokovic-, comenzó a las 16 (hora argentina) y concluyó varias horas después a raíz de las inclemencias del tiempo en la península de la Florida en Estados Unidos que obligaron a una larga interrupción tras el primer set. El italiano logró ‘Sunshine Double’ (‘Doblete del sol’), es decir conquistar Indian Wells y Miami en un mismo año. El último que lo había conseguido fue Roger Federer en 2017. Más allá de la coronación, seguirá siendo el número 2 del ranking mundial de la ATP por detrás de Carlos Alcaraz (1°), eliminado en la tercera ronda por Sebastián Korda. Sinner, con la estrella en Miami, llegó a los 27 trofeos en su carrera de los cuáles siete de ellos son en Masters 1000 con la particularidad de que no repitió en ninguno: Canadá 2023; Miami, Cincinnati y Shanghái 2024; París 2025; e Indian Wells y Miami 2026. El camino de Sinner al título en el Masters 1000 de Miami Primer ronda: Bye. Segunda ronda : 6-3 y 6-3 al bosnio Damir Dzumhur (76°). Octavos de final : 6-1 y 6-4 al francés Corentin Moutet (33°). Cuartos de final : 7-5 y 7-6 (4) al estadounidense Alex Michelsen (40°). Semifinal : 6-3 y 7-6 (4) al alemán Alexander Zverev (4°). Final: 6-4 y 6-4 al checo Jiri Lehecka (21°). View this post on Instagram Sinner volvió a ganar el campeonato tras su conquista en 2024. Así, subió al cuarto puesto del escalafón histórico y comparte la ubicación con los legendarios Andy Murray, Andy Roddick e Iván Lendl. Los máximos ganadores del Masters 1000 de Miami son el serbio Novak Djokovic y el estadounidense Andre Agassi con seis estrellas cada uno. El segundo lugar lo ostenta Federer, con cinco, mientras ",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-la-tabla-historica-de-campeones-del-masters-1000-de-miami-tras-el-titulo-de-jannik-sinner-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 01:02:22 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/KNROUW3JWNDWRIJG5ZE2CP3GWY.jpg?auth=496fd4d37d727d0789d017b37d6ef2da03122a4117c77c33ddd2e826d2c57e6c&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "7b687fcebc8548ad0082",
-      "title": "Quién es Kenny Minaya: de hijo de inmigrantes dominicanos a jefe de las pequeñas empresas en Nueva York",
-      "summary": "El alcalde de Nueva York, Zohran Mamdani , designó en una de sus más recientes medidas a Kenny Minaya como comisionado del Servicio para Pequeñas Empresas de la ciudad ( SBS , por sus siglas en inglés). El funcionario es hijo de inmigrantes dominicanos y anteriormente se desempeñó en distintos cargos en el ayuntamiento. Ahora, enfrentará el desafío de reducir la burocracia y facilitar la creación y gestión de los negocios . El hijo de inmigrantes dominicanos que ahora es jefe de las pequeñas empresas en Nueva York Nacido y criado en Nueva York en el corazón de una familia de inmigrantes dominicanos , desde muy joven Minaya estuvo ligado a las pequeñas empresas . Sus padres fueron propietarios y administraron durante 42 años una pequeña panadería en Inwood . Kenny Minaya, el hijo de inmigrantes dominicanos designado como nuevo comisionado en Nueva York Según informó la oficina de Mamdani, el nuevo comisionado asistió a escuelas públicas de la ciudad. Posteriormente, obtuvo una licenciatura en Artes del City College de Nueva York y un doctorado en Jurisprudencia de la Facultad de Derecho de CUNY. Antes de llegar al Ayuntamiento, Minaya trabajó en Catholic Migration Services y Make the Road New York. Allí, representó a inquilinos inmigrantes que buscaban mantener sus viviendas asequibles en los distritos de Brooklyn y Queens. Luego, en 2016, se incorporó al gobierno como Jefe Adjunto de Gabinete. Más tarde, en 2022, asumió el cargo de comisionado adjunto del Departamento de Protección al Consumidor y al Trabajador ( DCWP , por sus siglas en inglés), en el cual se desempeñó hasta hace poco tiempo. “Como hijo de inmigrantes propietarios de pequeñas empresas , conozco de primera mano los desafíos que enfrentan nuestros emprendedores . Me entusiasma colaborar con los dedicados funcionarios públicos del SBS, cuyo trabajo diario apoya a las empresas de todos los barrios”, expresó Minaya, citado por la oficina de Mamdani. Qué trabajo realizará el hijo de inmigrantes dominican",
-      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/quien-es-kenny-minaya-de-hijo-de-inmigrantes-dominicanos-a-jefe-de-las-pequenas-empresas-en-nueva-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 01:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/Q4M24V2QLJH7DGLUFMM3W2U3TA.jpg?auth=1e3abcc18c90465a8b32282df323a76059e0cf7e80944cc744a2b2e978228852&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "a61091201bba844ba868",
-      "title": "Jessie Inchauspé, bioquímica experta en glucosa: “No hay que restringir alimentos, el orden y las combinaciones moldean la curva glucémica”",
-      "summary": "El nuevo demonio de la salud en esta era parece ser la resistencia a la insulina . Según un metaanálisis publicado en Nutrients , las fluctuaciones bruscas de glucosa en sangre se asocian con mayor fatiga, irritabilidad y dificultades en la concentración incluso en personas sin diabetes. Otro estudio de la Universidad de Stanford mostró que picos y caídas rápidas de azúcar en sangre se correlacionan con mayor sensación de hambre pocas horas después de comer, independientemente de las calorías ingeridas. La conclusión es incómoda: muchas de nuestras “faltas de voluntad” podrían ser, en realidad, respuestas fisiológicas previsibles . Jessie Inchauspé lo descubrió en carne propia. Nació en Biarritz, en el sur de Francia, y se mudó a París a los cinco años tras el divorcio de sus padres. Por entonces, soñaba con ser cantante como Britney Spears. A los 19 años sufrió un accidente que impactó en su salud mental. Estudió matemáticas en King’s College London y luego bioquímica en Georgetown. Por curiosidad, un día se colocó un monitor continuo de glucosa . No era diabética, pero lo que vio cambió su vida: cada pico coincidía con cambios en su energía, su claridad mental y su estado de ánimo . Séneca sobre la importancia del autoestima: “Cuando uno es amigo de sí mismo, lo es también de todo el mundo” En Glucose Revolution y en su trabajo más reciente, “9 meses que contarán para siempre”, desarrolla una idea simple y potente: no se trata de prohibir alimentos, sino de entender cómo y cuándo los comemos . Cambiar el orden como elegir desayunos salados , acompañar los carbohidratos para suavizar el impacto glucémico, pueden significar pequeños ajustes con efectos profundos. “No se trata de tener más disciplina, sino de entender qué está haciendo tu biología”, dice. —Si tuvieras que resumir tu propuesta en una transformación concreta en la vida cotidiana de las personas, ¿cuál sería? —Que dejen de sentirse víctimas de su energía, de sus antojos y de sus cambios de humor, y empi",
-      "link": "https://www.lanacion.com.ar/salud/jessie-inchauspe-bioquimica-experta-en-glucosa-no-hay-que-restringir-alimentos-el-orden-y-las-nid27032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:53:30 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/HFD3OH3V6FAK3DMBRINB6MBNSA.jpg?auth=98c947873300a43b92210aaf97084e0a6952fa355cb8a4fdf51e6a8543a97f07&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "69a167a03d398206759a",
-      "title": "Horacio Marín criticó a Axel Kicillof por cuestionar que Milei utilice el mameluco de YPF: “Es la vestimenta del hacer”",
-      "summary": "El presidente de YPF, Horacio Marín , le respondió este domingo por la noche a Axel Kicillof , luego de que el gobernador bonaerense criticara a Javier Milei por la utilización del mameluco de la petrolera y asegurara que el Gobierno hoy se beneficia de la decisión suya y de Cristina Kirchner de expropiar la empresa en 2012. “Son juegos políticos que me parecen que no le hacen bien a la Argentina” , pronunció Marín. El viernes, tras el fallo de la Justicia de Estados Unidos a favor de la Argentina, que evitará el pago de US$18.000 millones, Kicillof escribió en un posteo de X : “Milei se disfraza con el mameluco de YPF, pero nunca la defendió” . Consultado en LN+ al respecto, Marín consideró: “Esa frase hay que verla de dos formas. Porque ‘disfrazar’ es una palabra ofensiva, no solo para el presidente, lo cual está mal, sino que, si él cree que defiende YPF, para YPF también”. Horacio Marín, Habla El CEO De YPF Tras El Fallo Histórico Esto Despeja El Camino “La gente de YPF siente orgullo de que el Presidente se ponga el mameluco”, dijo y explicó: “ Es la vestimenta del hacer, de los que estamos en los pozos. Es un gran acto del presidente, honorable y de una humildad extraordinaria. Y si vamos al tema de marketing, es la mejor campaña que podemos tener”. Para Marín, las críticas de la oposición “son juegos políticos” que “no le hacen bien a la Argentina”. “ Hay que reconocer cuando otro hace las cosas bien y después decir: yo las voy a hacer mejor. Hay que calentarse por hacer las cosas bien”, enfatizó respecto al trabajo que llevó a cabo la administración libertaria para motivar el fallo a favor. En ese sentido, señaló: “El Estado nacional siempre tiene, en los juicios, por ser soberano, muchas más respuestas en defensa de las que tiene una compañía privada como YPF, que cotiza en la bolsa. Para YPF hubiera sido terrible perder el juicio ”. Por otra parte, contó que cuando comenzó su gestión al frente de la empresa, en la primera reunión que tuvo para abordar la p",
-      "link": "https://www.lanacion.com.ar/politica/horacio-marin-critico-a-axel-kicillof-por-cuestionar-que-milei-utilice-el-mameluco-de-ypf-es-la-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:51:44 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/4XYVZHV7MJH3DBP5SRWG4YNVEY.PNG?auth=346c6d10bceaa75e024477d60af207ff3f86c5cd6f562659c69e50992c50c40b&smart=true&width=963&height=526"
-    },
-    {
-      "id": "c4b5fa402dce2257c51b",
-      "title": "“Cada vez es más normal que en los hospitales les peguen a los médicos”: trabajadores de la salud denuncian hechos de violencia en el Gran Buenos Aires",
-      "summary": "En febrero, dos médicos de la guardia del Hospital Municipal Santamarina, de Monte Grande, fueron golpeados por una pareja que exigía atención inmediata por una sutura en el cuero cabelludo, aunque aún no había llegado el cirujano que debía encargarse de coser a la mujer. La semana pasada, una paciente psiquiátrica le dio una paliza y le destrozó el celular a una empleada de mesa de entradas del Hospital Materno Infantil Dr. Eduardo Oller, de San Francisco Solano . ¿El motivo?: que no dejaban entrar a la pastora de la mujer a una área restringida del centro asistencial. Dos hechos, dos meses. No han sido los únicos, aunque sí incidieron para mantener el peligroso promedio que señalan los médicos bonaerenses: cada mes, entre 20 y 30 profesionales de la salud sufren episodios de violencia en sus puestos de trabajo a manos de pacientes o familiares; al menos 15 son ataques físicos que les provocan lesiones. No hay cifras oficiales sobre esta problemática. Pero el Observatorio de Violencia de la Federación Médica de la Provincia de Buenos Aires (Femeba) señala una cifra alarmante: el 44% de los profesionales médicos ha sido blanco de agresiones durante sus horas de servicio . En el caso de las guardias médicas, este número asciende como consecuencia de las extensas jornadas y el contacto casi sin mediaciones con los pacientes recién llegados que siempre exigen ser los primeros en ser atendidos. En la primera línea de atención para ciudadanos que demandan asistencia urgente, quienes están a cargo de dar salud están, paradójicamente, en peligro. “ La violencia sucede generalmente en las guardias porque es en la espera de atención que [los pacientes] se ponen nerviosos . Hay también una saturación en la salud pública por el costo de la prepaga y los ‘caídos’ del sistema, lo que hace que las demoras sean mayores”, indicó Julio Dunogent, presidente del Colegio de Médicos del Distrito V (ColMed V) bonaerense. En “patota” desde la sala de espera El 8 de febrero, una mujer ingr",
-      "link": "https://www.lanacion.com.ar/seguridad/cada-vez-es-mas-normal-que-en-los-hospitales-les-peguen-a-los-medicos-trabajadores-de-la-salud-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:51:42 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/QFM2V7XZQNCMZLFZK3MPFKOKBM.jpg?auth=7791d2070b5e04cb5b3b197433358163615e1764718623e5fe128e9e817125ab&smart=true&width=1505&height=883"
-    },
-    {
-      "id": "6e436818e8efd2fec372",
-      "title": "Ana Ibañez, neurocientífica: “La capacidad del cerebro para crear nuevas conexiones se mantiene siempre”",
-      "summary": "Para Ana Ibáñez , el cerebro funciona como una radio, emitiendo ondas Delta, Theta, Alpha y Beta, cada una surge ante una situación determinada y cree que es posible articularlas a favor . La especialista es una reconocida neurocientífica que se ha enfocado en el entrenamiento cerebral para el alto rendimiento profesional y deportivo. Directora de los centros Mindstudio para niños y adultos es, además, piloto de helicóptero, oradora, formadora y autora del bestseller Sorprende a tu mente que va por su 14ª edición. “ Hoy sabemos que podemos influir directamente en cómo gestionamos nuestras emociones y en cómo percibimos nuestra autoestima -afirma-. Esto se debe a la neuroplasticidad, la capacidad del cerebro para reorganizarse y formar nuevas conexiones”. Séneca sobre la importancia del autoestima: “Cuando uno es amigo de sí mismo, lo es también de todo el mundo” La especialista explica que al entrenar las áreas cerebrales que regulan nuestras emociones y percepciones , se pueden modificar patrones de pensamiento y reacciones automáticas. “Así hay áreas específicas en nuestro hemisferio derecho, en el área frontal y prefrontal que cuando ejercitamos vemos cómo se optimizan, armonizan sus frecuencias y como resultado la persona se siente mucho más cómoda a nivel emocional. Reduce la activación de la amígdala y permite que funcione mejor el cortex prefrontal”, desarrolla. También agrega que en Mindstudio, realizan este tipo de entrenamientos “como si se tratara de gimnasio cerebral y tenemos unos resultados fantásticos en este ámbito, potenciando la autoconfianza y estabilidad emocional”. -Hasta no hace mucho se decía que la posibilidad de desarrollar nuestro cerebro se detenía en cierto momento de la vida. Ahora sabemos que esto no es así. ¿Puede explicarnos por qué? -Durante mucho tiempo se creyó que el cerebro alcanzaba su desarrollo máximo en la juventud y que, después, todo era cuesta abajo. Hoy sabemos que esto es un mito. La neuroplasticidad, que es la capacidad",
-      "link": "https://www.lanacion.com.ar/salud/ana-ibanez-neurocientifica-la-capacidad-del-cerebro-para-crear-nuevas-conexiones-se-mantiene-siempre-nid27032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:51:25 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/CEQEYJHBNRFCVPLNVQMWDCOL6U.JPG?auth=9e565aaf80f49b2f09640eecbe0eae4dcb40e7df090e3a5ba4f202fa5a681747&smart=true&width=3000&height=1962"
-    },
-    {
-      "id": "47af3f5d82a4b1095097",
-      "title": "Marina Simian, científica: “Estamos desarrollando un test para detectar el cáncer de mama con un análisis de sangre”",
-      "summary": "“Tuve mucha suerte”, dice Marina Simian (54) cuando se refiere a su carrera como investigadora. Pero más que suerte, lo suyo puede llamarse mérito. Mérito a su esfuerzo, dedicación y tenacidad para perseguir sus sueños. Desde chica se interesó por las ciencias y se destacó entre sus pares. En 4º año del colegio Northlands, se ganó una beca para estudiar biología marina durante un semestre en los Estados Unidos , algo poco habitual en esa época. Cuando cursaba la licenciatura en la Facultad de Ciencias Exactas y Naturales de la UBA, el reconocido biólogo Alberto Kornblihtt le despertó una profunda vocación por la biología molecular y celular. “Dictaba la materia Introducción a la Biología Celular y Molecular en el primer año de la carrera y era un genio como docente. Me atrapó mal”, recuerda Simian con entusiasmo. Aquella fascinación inicial marcó el rumbo de su carrera. Realizó el doctorado en el Lawrence Berkeley National Laboratory, de la Universidad de California , y posteriormente completó un posdoctorado en el Instituto de Oncología Ángel H. Roffo, en Buenos Aires. Como tantos científicos argentinos, regresó al país, donde trabajó como investigadora del Conicet durante más de 20 años y se especializó en la biología del cáncer y el microambiente tumoral . En 2021 decidió dar un paso más: dejó el laboratorio para emprender. Junto a su socia, la investigadora Adriana de Servi, fundó su propia empresa enfocada en la detección temprana del cáncer de mama . Hoy reparte sus días entre Buenos Aires; La Pedrera, en Uruguay, donde, después de trabajar, aprovecha para hacer kitesurf y pasar tiempo con su marido y sus tres hijos; y Estados Unidos, donde viaja unos dos meses al año para recaudar fondos. En una charla con LA NACION, repasa su trayectoria y los desafíos que atraviesan las mujeres que dedican su vida a la ciencia. –¿Cómo es la vida de una investigadora? –El trayecto para convertirse en investigadora es largo, algo que mucha gente no imagina: es casi comparable",
-      "link": "https://www.lanacion.com.ar/salud/vida_sana/marina-simian-cientifica-estamos-desarrollando-un-test-para-detectar-el-cancer-de-mama-con-un-simple-nid26032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:50:43 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/7NOZIQTVKZGH7HBXHML4WSFQSE.jpg?auth=5f0101a92dad7c6ae4931e3385c9610c10660374ddec80c675e0b219a96a706b&smart=true&width=5583&height=3904",
-      "subcat": "mercado"
-    },
-    {
-      "id": "55f6e04fe9d6d3231467",
-      "title": "Aristóteles sobre las 10 virtudes humanas: “Una persona de gran alma es indiferente a la buena y a la mala fortuna”",
-      "summary": "Históricamente, los grandes filósofos han planteado preguntas clave sobre la felicidad y la plenitud , tales como: ‘¿Es posible ser feliz?, ¿deberían las personas buscar la felicidad para sí mismas y para los demás?, ¿cómo se puede hacer para lograr este objetivo?’. No obstante, hay discrepancias sobre la definición o el significado de la felicidad . Pensadores como Sócrates, Platón y Aristóteles desarrollaron distintas teorías frente a esta cuestión. En el caso de Aristóteles , filósofo griego que vivió entre el 384 al 322 a.C. y considerado uno de los pensadores más influyentes de la historia occidental, aborda en su obra Ética a Nicómaco el concepto de la eudaimonía: traducido comúnmente como “felicidad” o “vida plena”. Para él, constituye el fin último de la existencia humana y solo puede alcanzarse mediante la práctica de la virtud y moralidad . Describe las virtudes como rasgos de carácter y tendencias a actuar de una manera particular que se adquieren mediante la práctica y la imitación de “ejemplos morales”. En síntesis, una persona se vuelve templada practicando la templanza y valiente practicando la valentía. Con el tiempo, la virtud se convierte en un hábito, pero es importante ser cauteloso, ya que, según el griego: “cada virtud es el término medio entre un vicio de exceso y deficiencia” . Un reconocido neurólogo español trabaja en cómo detectar la demencia cuando es asintomática A continuación, las 10 virtudes que el filósofo recomienda para ser feliz y la vasta evidencia académica que las respalda. 1. Coraje El coraje −capacidad de actuar frente al miedo en lugar de ceder ante él− invita a la felicidad, según el griego. Y la ciencia lo respalda: en un estudio titulado “Contribuciones biológicas al bienestar: las relaciones entre el temperamento, las fortalezas del carácter y la resiliencia”, un grupo de académicos demostró que, al atravesar situaciones adversas, el coraje puede conducir a la resiliencia y esta última, encaminarlo a uno hacia una mayor ",
-      "link": "https://www.lanacion.com.ar/salud/vida_sana/aristoteles-sobre-las-10-virtudes-humanas-una-persona-de-gran-alma-es-indiferente-a-la-buena-y-a-la-nid27032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:50:06 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/DJTA3DLHUNG6LA4YJJFGZK2CXQ.webp?auth=b583491a94c31203770616483930f3d28c739c75717bfb98ffe03662284dfc1d&smart=true&width=1600&height=916"
-    },
-    {
-      "id": "b4aed636e0d366270d1d",
-      "title": "Los “detalles” de tu casa afectan el cerebro: cómo lograr un espacio que mejore la calidad de vida",
-      "summary": "“Una casa es una máquina para vivir” , escribió alguna vez Le Corbusier, aunque con el tiempo quedó claro que también funciona como una máquina para sentir . Cada ambiente, incluso el más inadvertido, emite señales que el cuerpo capta antes de que la mente pueda traducirlas. El hogar no se limita a alojar rutinas, recuerdos y personas; también organiza estados de ánimo, modula el estrés y condiciona la forma en que pensamos, dormimos o discutimos. Mirar la casa como un organismo emocional activo implica desmontar el viejo binomio orden versus caos y animarse a leer lo doméstico como un lenguaje silencioso que opera todos los días. Desde la psicología ambiental , disciplina que estudia la relación entre las personas y sus entornos construidos, se sabe que el cerebro evalúa de manera constante variables como la luz, el ruido, la temperatura y la complejidad visual. Esa lectura ocurre de forma automática y tiene efectos medibles. Un trabajo liderado por Gary Evans, psicólogo ambiental de la Universidad de Cornell, mostró que la exposición crónica al ruido doméstico incrementa los niveles de cortisol y deteriora la memoria de trabajo. Evans explicó en el momento de la presentación de su investigación que “ los entornos residenciales con alta carga sensorial exigen un esfuerzo cognitivo constante , lo que termina generando fatiga mental, irritabilidad y una menor capacidad para regular las emociones en la vida cotidiana”. Qué es el “Honeymoon Effect”: la ciencia detrás de esa etapa en la que todo parece perfecto La neurociencia aporta otra capa. El cerebro humano está diseñado para anticipar amenazas y buscar señales de seguridad. Un pasillo oscuro, una circulación trabada o una acumulación visual excesiva activan circuitos de alerta que elevan la tensión basal, incluso cuando la persona no registra conscientemente incomodidad. Roger Ulrich, especialista en diseño basado en evidencia de la Universidad de Texas A M, demostró que ciertos entornos reducen el estrés en minut",
-      "link": "https://www.lanacion.com.ar/salud/los-detalles-de-tu-casa-afectan-el-cerebro-como-lograr-un-espacio-que-mejore-la-calidad-de-vida-nid29032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:49:19 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/ONNG6VT45NGWJENCFWJVGIZAGI.jpeg?auth=069c20d5bc3364371175f4f8aabc073853134582d7b060badbee161b38af3a18&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "3ed2e275c978660d4f92",
-      "title": "Provenza en bicicleta: el imperdible circuito europeo, ideal para recorrer durante 5 días",
-      "summary": "La combinación entre turismo y deporte es una ecuación perfecta, sobre todo cuando el destino es la Provence , una región encantadora de pueblitos que parecen detenidos en el tiempo, campiñas y viñedos en el sur de Francia. Recorrerla en bicicleta permite conocer el detrás de escena de la zona, accediendo a lugares que de otra manera serían difíciles de alcanzar, y le da al viajero la posibilidad de conectar con los sentidos: los caminos invitan a hacer pausas para disfrutar de un picnic entre los viñedos, meterse por callecitas donde los autos no circulan y llegar a pueblitos inhóspitos y llenos de encanto. Para vivir la experiencia no hace falta ser un viajero intrépido: se puede optar por distintos tipos de bicicletas, desde la clásica o rutera hasta una asistida, con batería. Esta última permite activar la asistencia en los tramos más exigentes del recorrido y desactivarla cuando el camino se vuelve más amable. En general, las bicicletas se alquilan a través de agencias especializadas que, además, ofrecen un servicio muy práctico: el traslado diario del equipaje de hotel en hotel, ideal para pedalear liviano, aunque siempre existe la opción de llevarlo con uno. Esta región está totalmente preparada para el turismo sobre dos ruedas, con una excelente infraestructura pensada para ciclistas de todos los niveles. Cuenta con una amplia red de véloroutes —bicisendas— que la recorren de punta a punta, conectando pueblos, viñedos, campos de lavanda y paisajes naturales. La mejor época para recorrer la Provence en bicicleta es entre mayo y octubre, durante la primavera y el verano, cuando los días son largos y las temperaturas superamigables para pedalear. Además, entre mayo y julio la región regala uno de sus mayores espectáculos: los campos de lavandas empiezan a florecer y tiñen el paisaje de tonos violetas. La experiencia, en primera persona, de llegar a la cima del Lanín Día 1: a orillas del Ródano Desde Avignon hasta Saint-Rémy-de-Provence . Es un trayecto de aprox",
-      "link": "https://www.lanacion.com.ar/salud/el-imperdible-circuito-europeo-ideal-para-recorrer-durante-5-dias-en-bicicleta-nid28032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:48:54 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/ON5R6GNM5BCOPBB5Z4P4YH7NEY.JPG?auth=09b00bfee4d85773940048b165a50a84e5cc37a58595aae11214f6e1397478a3&smart=true&width=2000&height=1335"
-    },
-    {
-      "id": "5e4acb7ddd2f920ff3d3",
-      "title": "Horóscopo: cómo será tu semana del 29 de marzo al 4 de abril de 2026",
-      "summary": "Aries 21/3 al 20/4 AMOR: Venus suaviza sus aristas, fomenta la ternura y también el romance. Sabrá conciliar conflictos en forma diplomática y sensible. DINERO: Mercurio genera confusión en los negocios. Evite mezclar emociones con intereses financieros. CLAVE DE LA SEMANA: Alimente el idealismo y construirá un futuro mejor. Tauro 21/4 al 21/5 AMOR: Venus en su signo le aporta renovada energía. Los planes amorosos se cumplen y usted expresa sus sentimientos con decisión. DINERO: El trabajo en red es fundamental. Organice tareas grupales; los proyectos individuales demoran el éxito. CLAVE DE LA SEMANA: La creatividad surge gracias a la colaboración. Géminis 22/5 al 21/6 AMOR: Experimenta una dulce melancolía por historias del pasado. Cierto desgano traba hoy el inicio de nuevos y mejores vínculos. DINERO: Crecimiento profesional. Se habilita un deseo que lo lleva velozmente al éxito. Nuevos contactos muy necesarios. CLAVE DE LA SEMANA: Deje ir lo anterior para poder avanzar. Qué es el “Honeymoon Effect”: la ciencia detrás de esa etapa en la que todo parece perfecto Cáncer 22/6 al 22/7 AMOR: La integración social fortalece a la pareja. Alta probabilidad de encontrar un gran amor gracias a su grupo de amigos. DINERO: Puede que se concreten viajes de negocios. Acepte toda propuesta que posibilite su expansión. CLAVE DE LA SEMANA: Nuevas experiencias lo colman de alegría. Inténtelo. Leo 23/7 al 23/8 AMOR: Cumple con un objetivo sentimental muy deseado, pero altas exigencias profesionales van a restarle tiempo de disfrute compartido. DINERO: Ideal para las inversiones. Sea precavido ante posibles errores o engaños de terceros malintencionados. CLAVE DE LA SEMANA: Resguarde su patrimonio si hay luchas de poder. Virgo 24/8 al 23/9 AMOR: Renace su ilusión tras una etapa de crisis. Deje de idealizar al otro. Se abren nuevas opciones en su universo emocional. DINERO: Delegue en vez de hacer todo el trabajo solo. Seleccione un equipo o asóciese con personas adecuadas. CLAVE DE ",
-      "link": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-29-de-marzo-al-4-de-abril-de-2026-nid28032026/",
-      "pubDate": "Mon, 30 Mar 2026 00:48:17 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/Z7D35JHZAFFGVKWQL5JQDGKEC4.jpg?auth=061453775f5d9def95b26cf55ae5d00a127c49bbc5017526c26bfb999e47d3f6&smart=true&width=1920&height=1440"
     },
     {
       "id": "e653f60477b905244d71",
@@ -2464,17 +2483,6 @@
       "source": "Marketing4ecommerce",
       "cat": "tech",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/Copia-de-Articulo-podcast-750x450-51.jpg"
-    },
-    {
-      "id": "f4d0a99b73c5be732f37",
-      "title": "Estas son las principales agencias de publicidad del mundo",
-      "summary": "Esta vez hemos decidido conocer un poco más la historia de las 5 agencias de publicidad digital líderes en el sector a nivel mundial . Sus cuentas, campañas y especialistas han ayudado a modelar, de una u otra forma, la historia de las redes sociales y la publicidad en todo el mundo. Omnicom WPP Publicis Accenture Dentsu Omnicom Omnicom, la tercera agencia de publicidad más grande del mundo hasta ahora, completó en noviembre de 2025 la adquisición de Interpublic Group (IPG) oficialmente, que era la sexta de esta lista. La nueva empresa, que mantiene el nombre de Omnicom y cotizará bajo el símbolo OMC en la Bolsa de Nueva York, es ahora la agencia de publicidad más grande del mundo. De esta manera supera a WPP en volumen de negocio volviendo a repetir su estrategia de crecimiento una vez más ya que Omnicom, también nació de la fusión de dos agencias de publicidad. Estas eran BBDO y DDB , que tras ser conscientes del crecimiento que estaba teniendo su más grande competidor, WPP se fusionaron para dar lugar a Omnicom en 1986 en la ciudad de Nueva York. En su día, también incluyeron a la agencia TBWA, que ha trabajado con marcas de alto renombre como Nike, McDonald&#8217;s o Pfizer; o incluso con Correos en España. En 2021, crearon la Communications Consultancy Network (CCN), formada por Omnicom Public Relations Group, con agencias como FleishmanHillard, Ketchum, Marina Maher Communications y Porter Novelli, entre otras. A estas se le unen las que pertenecían a Interpublic: FCB, IPG, Mediabrands, McCann Worldgroup y MullenLowe Group. Por otro lado, DAS Group of Companies , es una división de Omnicom y un grupo global de empresas de servicios de marketing compuesto por: Health Group, Precision Marketing Group, Commerce Group y Advertising Collective. WPP Curiosamente, WPP no comenzó como una agencia publicitaria, sino como una participación mayoritaria de un pequeño fabricante británico de cestas de alambre y teteras llamada Wire and Plastic Products que fue adquirida po",
-      "link": "https://marketing4ecommerce.net/top-las-principales-agencias-de-publicidad-del-mundo/",
-      "pubDate": "Mon, 23 Mar 2026 08:38:22 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "ia",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2023/02/agencias-de-publciidad.jpg",
-      "subcat": "mercado"
     },
     {
       "id": "9e979c4e61f28151b8b4",
@@ -2740,16 +2748,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/licencias-urcdkey.jpg"
     },
     {
-      "id": "f513015baee614551d3d",
-      "title": "El Razer Blade 16 de 2026 estrena los últimos procesadores de Intel",
-      "summary": "El nuevo Razer Blade 16 de 2026 ha sido presentado en sociedad con mejoras en varios apartados . Es más ligero, su pantalla OLED es más brillante, su memoria más rápida y estrena los procesadores &#8216; Panther Lake &#8216; de Intel como mayor novedad de hardware. El Razer Blade 16 actual es un portátil impresionante como pudiste ver en el análisis a fondo que publicamos. Como casi todo lo que comercializa Razer, está en la élite de esos portátiles que te permiten prescindir de las computadoras de sobremesa para juegos y también para creación de contenido. Siempre que estés dispuesto a invertir lo que cuesta, porque no es un producto económico. Cómo es el nuevo Razer Blade 16 de 2026 Razer mantiene la pantalla OLED de 16 pulgadas , con resolución nativa de 2560 x 1600 píxeles y una frecuencia de actualización de 240 Hz. Su brillo máximo se ha elevado a 110o nits en modo HDR. Una pequeña mejora para una pantalla que ya era de altos vuelos, con su cobertura del 100% en la gama de colores DCI-P3 y cuenta con la certificación Calman Verified con perfiles de color calibrados a medida. La gran novedad en el hardware interno es el uso de procesadores de Intel (un cambio frente al uso de los Ryzen de AMD en el modelo anterior) y en concreto un Core Ultra 9 386H con 16 núcleos y una frecuencia de trabajo de hasta 4,9 GHz. Para el apartado gráfico, el fabricante sigue confiando en las soluciones de NVIDIA, con opción de montar la RTX 5070 Ti como punto de partida o escalar a las RTX 5080 o la RTX 5090. La velocidad de la memoria RAM aumenta a 9600MT/s con posibilidad de instalar hasta 64 Gbytes LPDDR5x, mientras que el almacenamiento está cubierto con unidades de estado sólido PCIe Gen5. En cuanto a conectividad, el uso de procesadores Intel le permite usar puertos Thunderbolt 5 , además de Wi-Fi 7, Bluetooth 6.0, HDMI 2.1, USB y lector de tarjetas de memoria SD. El sistema de audio está igual de cuidado que el gráfico, con seis altavoces (cuatro tweeters y dos subwoofers), ",
-      "link": "https://www.muycomputer.com/2026/03/27/el-razer-blade-16-de-2026-adelgaza-y-estrena-los-ultimos-procesadores-de-intel/",
-      "pubDate": "Fri, 27 Mar 2026 08:04:15 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Razer_Blade_16_2.jpg"
-    },
-    {
       "id": "df2776aade6a8446e1cb",
       "title": "Nuevas funciones en WhatsApp que debes conocer: retoque fotográfico, multicuenta para dispositivos iOS y mucho más",
       "summary": "WhatsApp no pisa el freno. La aplicación de mensajería reina de Meta acaba de anunciar una r onda de actualizaciones diseñadas para mejorar la experiencia de usuario, optimizar la productividad y, sobre todo, integrar la IA de forma más orgánica en nuestro día a día. 1. Adiós al mensaje de &#8220;debes liberar espacio para continuar&#8221; ¿Quién no ha tenido el móvil al límite de capacidad por culpa de los vídeos del grupo de la familia? Hasta ahora, gestionar el almacenamiento era un proceso algo farragoso. Con la nueva actualización, WhatsApp permite buscar y eliminar archivos grandes directamente desde cada chat. La gran ventaja es la selectividad: ahora puedes vaciar los archivos multimedia (fotos, vídeos, documentos) manteniendo el historial de mensajes de texto intacto. Solo tienes que ir al nombre del chat y entrar en &#8220;Administrar almacenamiento&#8221; . Una vez ahí verás todos los archivos que se han enviado y podrás ordenarlos según la fecha que lo enviaron (más reciente o más antiguo) o según su tamaño (para poner los más grandes primero). 2. Multicuenta en iOS Una de las funciones más demandadas por los usuarios de Apple finalmente cruza la frontera. Al igual que ya ocurría en Android, los usuarios de iOS podrán tener dos cuentas de WhatsApp conectadas simultáneamente en un mismo dispositivo. ¿Cómo funciona? Podrás alternar entre tu cuenta personal y la profesional sin cerrar sesión. Esto es ideal para aquellas personas que utilicen un número específico para su actividad profesional. Así no tendrán que usar dos teléfonos diferentes o usar su propio número de WhatsApp para hablar con sus clientes. Para evitar confusiones, tu foto de perfil aparecerá visible en la pestaña inferior, indicándote en todo momento en qué cuenta te encuentras. Como quien cambia de cuenta de Instagram. 3. Transfiere tus chats de WhatsApp a otro dispositivo sin tanto lío Si decides pasarte de Android a iOS, o al revés, puedes quedarte tranquila porque ya no será un drama par",
@@ -2760,14 +2758,14 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/nuevas-funciones-whatsapp-1024x614.jpg"
     },
     {
-      "id": "06c8443054c78cb5bdc2",
-      "title": "Netflix sube sus precios (sí, otra vez)",
-      "summary": "Netflix fue durante años el gran símbolo de la revolución del streaming. Su propuesta era sencilla y muy atractiva: un catálogo enorme de series y películas accesible por una cuota mensual relativamente asequible. Aquella fórmula rompía con el modelo de televisión de pago tradicional y prometía algo mucho más cómodo para el usuario. Sin embargo, con el paso del tiempo esa promesa inicial se ha ido transformando. Hoy el streaming vive una etapa muy distinta , marcada por subidas de precios constantes, catálogos fragmentados y una experiencia cada vez más parecida a aquello que originalmente pretendía sustituir . La plataforma ha confirmado ahora una nueva subida de precios, que por el momento se aplicará en Estados Unidos . El plan con publicidad pasa de 7,99 a 8,99 dólares al mes, el plan estándar sin anuncios sube de 17,99 a 19,99 dólares, y el plan premium alcanza los 26,99 dólares mensuales. También aumenta el precio de añadir usuarios adicionales fuera del hogar principal, una práctica que Netflix lleva tiempo intentando limitar para reforzar su modelo de ingresos. Los nuevos precios ya se aplican a los nuevos usuarios desde el 26 de marzo, mientras que los suscriptores actuales verán el cambio reflejado en sus cuentas durante los próximos meses. Aunque estos cambios afectan inicialmente al mercado estadounidense, la experiencia de años anteriores nos deja bastante claro que este tipo de ajustes suele extenderse tarde o temprano a otros países. Netflix ha aplicado históricamente una estrategia bastante uniforme en materia de precios, por lo que es solo c uestión de tiempo que subidas similares terminen llegando también a España . En otras palabras: lo que hoy ocurre en Estados Unidos suele ser un anticipo bastante fiable de lo que terminará ocurriendo en otros mercados. El problema para muchos usuarios no es únicamente la subida en sí, sino el contexto en el que se produce . Durante los últimos años el precio del streaming ha ido aumentando mientras el valor per",
-      "link": "https://www.muycomputer.com/2026/03/27/netflix-sube-sus-precios-si-otra-vez/",
-      "pubDate": "Fri, 27 Mar 2026 07:03:02 +0000",
-      "source": "MuyComputer",
+      "id": "953b7553dd3fb5098704",
+      "title": "Marketing digital para suplementos naturales: cómo atraer, convertir y fidelizar clientes",
+      "summary": "Vender suplementos naturales en internet plantea retos muy distintos a los que se encuentran en industrias menos ligadas al bienestar, donde la confianza juega un papel crucial, casi como si cada marca tuviera que ganarse su lugar a pulso. Hoy en día, los consumidores buscan ante todo credibilidad y transparencia , pero rara vez se conforman solo con etiquetas bonitas. En medio de tanta competencia, contar con el apoyo de un especialista puede marcar la diferencia entre ser uno más o liderar tu nicho. Por cierto, antes de lanzarte a la piscina, no subestimes el impacto de saber manejar bien las estrategias de atracción, retención y conversión. Cada paso, al final, suma. De hecho, existen recursos útiles para quienes deseen profundizar en este mercado, por ejemplo, si buscas información sobre suplementos nutricionales naturales , encontrarás opciones reconocidas y valoradas en el sector. Estrategias para atraer tráfico cualificado a tu tienda de suplementos Segmentar bien al público es una jugada acertada porque no todos buscan lo mismo: hay quien sólo quiere energía para el día a día y otros que apuestan por mantener su peso o reforzar el sistema inmune. No podemos olvidar a los deportistas ni a quienes simplemente ya están pensando en la salud a largo plazo. En vez de intentar convencer a todo el mundo, conviene posicionar la marca en espacios digitales donde los potenciales clientes realmente leen y buscan consejos fiables, como si recomendaras una cafetería favorita solo a quienes disfrutan de buen café. Eso sí, quien decía que solo hace falta estar presente en redes, seguramente nunca observó cómo un cliente decide antes de hacer clic en &#8220;comprar&#8221;. Una presencia efectiva es la suma de pequeñas grandes decisiones diarias. Creación de contenido y posicionamiento orgánico Hablar únicamente del suplemento y sus propiedades resulta monótono, aburrido y poco útil. Por eso, el inbound marketing aparece como el héroe inesperado: los artículos, vídeos, podcas",
+      "link": "https://marketing4ecommerce.net/vender-suplementos-naturales-online/",
+      "pubDate": "Fri, 27 Mar 2026 07:35:38 +0000",
+      "source": "Marketing4ecommerce",
       "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Netflix-2.jpg"
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/suplementos-1024x614.jpg"
     },
     {
       "id": "ebde0d1d4a0afa17403d",
@@ -2794,7 +2792,7 @@
       "title": "El juez no desestima el caso contra Maduro y Flores durante la audiencia en el tribunal de Nueva York",
       "summary": "El expresidente de Venezuela y su esposa, Cilia Flores, comparecieron este jueves en la segunda audiencia ante un tribunal federal de EE.UU. en el proceso abierto contra ellos por delitos de \"conspiración narcoterrorista\" y otros relacionados al narcotráfico. Desde su detención, el 3 de enero, están recluidos en Nueva York.",
       "link": "https://www.bbc.co.uk/mundo/live/cm29lp59565t?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-30T04:41:23.712709+00:00",
+      "pubDate": "2026-03-30T07:19:44.307617+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf7/live/33a31b60-293c-11f1-a3a9-bba7bdbdde48.jpg"
@@ -2835,5 +2833,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-03-30T04:42:07.581698+00:00"
+  "updated": "2026-03-30T07:20:12.375108+00:00"
 }
