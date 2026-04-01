@@ -52,28 +52,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/2CAPPXKINBESPJGXURVXXUCHRM.jpg?auth=9c930774efa8d3242ed2bd58e74f9be82849223dac547339318c187ba22d20a9"
     },
     {
-      "id": "86fb2dacd90b37d0e5ef",
-      "title": "OpenAI cierra Sora app, su “red social” de vídeos con IA, provocando el fin de su acuerdo con Disney",
-      "summary": "OpenAI acaba de anunciar el cierre de Sora app , la aplicación que combinaba las capacidades de generación de vídeo de Sora con un espacio social que buscaba competir con plataformas como TikTok. Si bien, por ahora, no se han dado explicaciones acerca de los motivos tras la decisión, lo que sí queda claro es que este ambicioso proyecto no ha logrado cumplir con las expectativas de la compañía. Sam Altman prometió cerrar Sora si no hacía sentir a sus usuarios que su vida era mejor Cuando se lanzó Sora app, Sam Altman fue claro y tajante : « La mayoría de los usuarios, al repasar los últimos 6 meses, deberían sentir que su vida es mejor usando Sora que si no lo hubieran hecho. De no ser así, implementaremos cambios significativos ( y si no podemos solucionarlo, dejaremos de ofrecer el servicio ) ». Finalmente, y apenas seis días antes de que se cumpliese ese plazo de seis meses, OpenAI ha decretado el fin de Sora app , dejando patente que no ha conseguido «optimizar la satisfacción de los usuarios y usuarias a largo plazo». La tecnológica ha compartido un breve comunicado en el perfil oficial de Sora en Twitter en el que expone: « Nos despedimos de Sora app. A todos los que crearon con Sora, la compartieron y construyeron una comunidad a su alrededor: gracias . Lo que crearon con Sora fue importante, y sabemos que esta noticia es decepcionante. Pronto compartiremos más información , incluyendo los plazos para la aplicación y la API, así como detalles sobre cómo conservar tu trabajo ». Disney da por terminado su acuerdo con OpenAI En diciembre de 2025, Disney cerró un acuerdo con OpenAI que establecía una inversión de 1.000 millones de dólares y daba permiso para generar vídeos e imágenes con más de 200 personajes en Sora y ChatGPT Images. Según el acuerdo, se podrían usar personajes animados de Disney, Marvel, Pixar y Star Wars , incluyendo vestuario, utilería, vehículos y entornos icónicos. Sin embargo, el cierre de Sora app parece haberlo cambiado todo. Y es que, se",
-      "link": "https://marketing4ecommerce.net/openai-cierra-sora-app-fin-acuerdo-disney/",
-      "pubDate": "Wed, 25 Mar 2026 12:40:28 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "ia",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/openai-cierra-sora-app-provocando-el-fin-de-su-acuerdo-con-Disney-1024x614.jpg",
-      "subcat": "diseño"
-    },
-    {
-      "id": "17c7c8a159af3a592a1e",
-      "title": "Google completa en un solo día su spam update más veloz: luchando contra la proliferación del contenido de baja calidad",
-      "summary": "Hace días que veníamos hablando de que la volatilidad SEO estaba en máximos históricos (lo sigue estando) y que la situación parecía anticipar una de esas core updates que hacen temblar los cimientos de los resultados de búsqueda. Y efectivamente, Google ha lanzado una actualización de su algoritmo , pero no en la forma que habíamos previsto. En la tarde del martes llegó una nueva spam update . Como es habitual, Google no dio demasiadas explicaciones sobre este movimiento, salvo que esperaba que tarde &#8220;unos días&#8221; en completarse. Lo habitual habría sido entre una y dos semanas, pero esta vez se ha pasado de rápida. En apenas 24 horas, Google ha dado por cerrada la actualización de su algoritmo más veloz en muchos años. Recordemos que esta es la primera spam update de 2026, habiéndose producido la anterior en el mes de agosto de 2025. Ese año solo hubo una de estas actualizaciones, frente a las tres desarrolladas en 2024. ¿Qué es una spam update? Las spam updates son actualizaciones del algoritmo de Google destinadas a castigar a aquellos sitios web que recurran a malas prácticas SEO para manipular los resultados de búsqueda a su favor. Aunque utiliza esa llamativa palabra, &#8220;spam&#8221;, estas actualizaciones no tienen que ver con el correo electrónico no deseado , sino con webs que no son útiles para los usuarios, que ofrecen una mala experiencia o parecen creadas para motores de búsqueda en lugar de para personas. En general, podríamos decir que son las que intentan engañar al algoritmo de Google con el fin de mejorar su posicionamiento, o que directamente realizan actividades ilícitas. Tal y como explica la propia Google en su documentación al respecto: &#8220;Aunque los sistemas automatizados de Google para detectar spam en la búsqueda funcionan continuamente, a veces les hacemos mejoras notables. Cuando eso ocurre, nos referimos a estas mejoras como actualizaciones de spam y las compartimos en nuestra lista de actualizaciones en el posicionamien",
-      "link": "https://marketing4ecommerce.net/google-lanza-una-spam-update-2026/",
-      "pubDate": "Wed, 25 Mar 2026 11:12:39 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "ia",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/spam-update-5-1-1024x614.jpg",
-      "subcat": "herramientas"
-    },
-    {
       "id": "7ec62572ecf3e215443c",
       "title": "OpenAI cierra su generador de vídeo Sora solo seis meses después de su lanzamiento como app",
       "summary": "El logo de Sora junto al de OpenAI.",
@@ -95,8 +73,178 @@
       "image": "https://imagenes.elpais.com/resizer/v2/WE5AUS4Z7ZG6PDLY5AADZTU3WQ.jpg?auth=7c2f8808de9bd41466a44b8e48c3eda00132c52793bfe8ff167607fbcc87c59b"
     },
     {
+      "id": "9a0884435b94f9180031",
+      "title": "Los clubes de LaLiga superan los 1.580 millones de euros de negocio comercial en la 2024-25",
+      "summary": "Edificio de LaLiga con el logo",
+      "link": "https://www.marca.com/sport-business/2playbook/2026/04/01/clubes-laliga-superan-1-580-millones-euros-negocio-comercial-2024-25.html",
+      "pubDate": "Wed, 01 Apr 2026 10:52:34 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccdcbbcf6fe.png"
+    },
+    {
+      "id": "f59e942f2d210f6e5766",
+      "title": "Ducati hace autocrítica: \"La moto no permite ver al Marc Márquez que conocemos\"",
+      "summary": "Marc Márquez, aplaudido al llegar al box de Ducati.",
+      "link": "https://www.marca.com/motor/motogp/gp-americas/2026/04/01/ducati-autocritica-moto-permite-ver-marc-marquez-conocemos.html",
+      "pubDate": "Wed, 01 Apr 2026 10:48:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccd60296f00.jpeg"
+    },
+    {
+      "id": "fa4e6607c40e93b2da68",
+      "title": "La Federación Internacional de Pelota Vasca se va de España casi un siglo después",
+      "summary": "Imagen del Jai Alai de Biarritz. En ese edificio estará la nueva sede social de la FIPV.",
+      "link": "https://www.marca.com/otros-deportes/2026/04/01/federacion-internacional-pelota-vasca-espana-siglo-despues.html",
+      "pubDate": "Wed, 01 Apr 2026 10:40:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccd93266d40.jpeg"
+    },
+    {
+      "id": "0b305f8f2e799b761be8",
+      "title": "Gavi: preparado para competir... por todo",
+      "summary": "Gavi.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/01/gavi-preparado-competir.html",
+      "pubDate": "Wed, 01 Apr 2026 10:25:37 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/11/69b171fbb040a.jpeg"
+    },
+    {
+      "id": "e9847a41019044f1d8e4",
+      "title": "A tumba abierta by AMIX: \"Red Bull va a tener un problema en verano con Roglic y Lipowitz\"",
+      "summary": "A tumba abierta by AMIX con José Rodríguez y Nacho Labarga.",
+      "link": "https://www.marca.com/ciclismo/2026/04/01/tumba-abierta-by-amix-red-bull-problema-verano-roglic-lipowitz.html",
+      "pubDate": "Wed, 01 Apr 2026 10:09:32 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/01/16/696a2f094089f.jpeg"
+    },
+    {
+      "id": "4e7f9300a983472e698c",
+      "title": "Irán declara la 'guerra' a Apple y otras empresas de IA: serán \"objetivos militares\"",
+      "summary": "Apple",
+      "link": "https://www.marca.com/tecnologia/2026/04/01/iran-declara-guerra-apple-empresas-ia-seran-objetivos-militares.html",
+      "pubDate": "Wed, 01 Apr 2026 10:09:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/10/69b02b1da89dc.jpeg"
+    },
+    {
+      "id": "5016975a0246ffe51433",
+      "title": "Las lágrimas de Messi que emocionan a toda Argentina",
+      "summary": "Las lágrimas de Messi captadas por TyC Sports",
+      "link": "https://www.marca.com/futbol/mundial/2026/04/01/lagrimas-messi-emocionan-toda-argentina-video.html",
+      "pubDate": "Wed, 01 Apr 2026 10:07:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/07/20/1D.jpeg"
+    },
+    {
+      "id": "fa54c0707ba82e0d2f3e",
+      "title": "Los Pistons olvidan rápido su derrota en Oklahoma y los Antetokounmpo hacen historia en la NBA",
+      "summary": "Alex Antetokounmpo (izqda.), Durant (arriba dcha.) y Harris y Duren (abajo dcha.)",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/01/pistons-olvidan-rapido-derrota-oklahoma-antetokounmpo-historia-nba.html",
+      "pubDate": "Wed, 01 Apr 2026 10:02:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cccea74d9c3.jpeg"
+    },
+    {
+      "id": "379c9986c0b608ae8590",
+      "title": "\"Los cánticos estaban organizados por la extrema derecha\"",
+      "summary": "Vergonzoso cántico de la grada a los diez minutos de partido.",
+      "link": "https://www.marca.com/futbol/seleccion/2026/04/01/canticos-estaban-organizados-extrema-derecha.html",
+      "pubDate": "Wed, 01 Apr 2026 09:58:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/zaPN2C_.jpeg"
+    },
+    {
+      "id": "a55ade701dcfe810061f",
+      "title": "Un aficionado se cuela en la rueda de prensa de Scaloni para lanzarle un aviso",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/mundial/2026/04/01/aficionado-cuela-rueda-prensa-scaloni-lanzarle-aviso-preparate-francia-mejor-espana-brasil-video.html",
+      "pubDate": "Wed, 01 Apr 2026 09:55:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cccf4cd31c1.png"
+    },
+    {
+      "id": "5587f6392bd88440f225",
+      "title": "Así queda el ránking FIFA antes del Mundial: Francia adelanta a España",
+      "summary": "Lamine Yamal y Dembélé, en el encuentro de la Nations disputado el año pasado.",
+      "link": "https://www.marca.com/futbol/2026/04/01/asi-queda-ranking-fifa-mundial-francia-adelanta-espana.html",
+      "pubDate": "Wed, 01 Apr 2026 09:49:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cccd9de12ed.jpeg"
+    },
+    {
+      "id": "f2dbeae0d399b02af8df",
+      "title": "De la risa... al llanto: las redes recuperan la celebración de Dimarco y Vicario cuando les tocó Bosnia",
+      "summary": "Dos jugadores de la selección italiana celebran el pase de Bosnia",
+      "link": "https://www.marca.com/futbol/mundial/2026/04/01/risa-llanto-redes-recuperan-celebracion-dimarco-vicario-les-toco-bosnia-video.html",
+      "pubDate": "Wed, 01 Apr 2026 09:48:15 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/27/aOamC1fnaKezYWu5y.jpeg"
+    },
+    {
+      "id": "f8ffe4b57d537168043a",
+      "title": "Las fechas clave previas al arranque del Mundial",
+      "summary": "Las fechas clave.",
+      "link": "https://www.marca.com/futbol/mundial/2026/04/01/fechas-clave-previas-arranque-mundial.html",
+      "pubDate": "Wed, 01 Apr 2026 09:43:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cccc318a5fe.jpeg"
+    },
+    {
+      "id": "5809ea3a52e57bb58f94",
+      "title": "La saga continúa: todos los Antetokounmpo ya han anotado puntos en la NBA",
+      "summary": "El menor, Alex, hizo su debut anoche con los Milwaukee Bucks",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/01/saga-continua-todos-antetokounmpo-han-anotado-puntos-nba-video.html",
+      "pubDate": "Wed, 01 Apr 2026 09:41:33 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aRqqU1fpCgsoYjvRO.jpeg"
+    },
+    {
+      "id": "ee1407590d1f1481514b",
+      "title": "Primeras palabras de Aitana Sánchez-Gijón tras sus fotos con Maxi Iglesias: \"¿De qué vais?\"",
+      "summary": "Aruser@s",
+      "link": "https://www.marca.com/tiramillas/series/2026/04/01/primeras-palabras-aitana-sanchez-gijon-fotos-maxi-iglesias-vais.html",
+      "pubDate": "Wed, 01 Apr 2026 09:27:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccc837a9214.jpeg"
+    },
+    {
+      "id": "fd1c37b27b44e9b20d59",
+      "title": "La bestialidad de Vinicius con Brasil que acabó en gol tras dejar con el molde a tres defensas",
+      "summary": "El madridista realizó una acción individual espectacular para abrir la lata ante Croacia",
+      "link": "https://www.marca.com/futbol/2026/04/01/bestialidad-vinicius-brasil-acabo-gol-dejar-molde-tres-defensas-video.html",
+      "pubDate": "Wed, 01 Apr 2026 09:23:17 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aRpOK1fpCRGik_l_k.jpeg"
+    },
+    {
+      "id": "02bfd3404aac445b68f3",
+      "title": "Lebron vuelve a superar otro récord de Kareem Abdul-Jabbar",
+      "summary": "Lebron James penetra a canasta ante la defensa de Thomas Bryant.",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/01/lebron-vuelve-superar-record-kareem-abdul-jabbar.html",
+      "pubDate": "Wed, 01 Apr 2026 09:10:29 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccbe0bd96fc.jpeg"
+    },
+    {
       "id": "a1918fec811392c8d0bd",
-      "title": "La crisis interminable del fútbol italiano: \"Somos la única selección de primer nivel que no va al Mundial\"",
+      "title": "Una crisis interminable",
       "summary": "Los jugadores de Italia, durante la tanda de penaltis.",
       "link": "https://www.marca.com/futbol/mundial/2026/04/01/crisis-interminable-futbol-italiano-unica-seleccion-primer-nivel-mundial.html",
       "pubDate": "Wed, 01 Apr 2026 08:58:34 +0200",
@@ -105,14 +253,44 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc814283c2d.jpeg"
     },
     {
-      "id": "f3f6fead67c32a6628fe",
-      "title": "Roberto Gómez: \"Lo de ayer es una vergüenza\"",
-      "summary": "Las selecciones de España y Egipto forman en el terrero de juego antes de comenzar el partido.",
-      "link": "https://www.marca.com/radio/2026/04/01/roberto-gomez-ayer-vergueenza.html",
-      "pubDate": "Wed, 01 Apr 2026 08:37:52 +0200",
+      "id": "6b4fecb09418ccd7d022",
+      "title": "La Administración Trump abre una investigación sobre la eutanasia de Noelia en España",
+      "summary": ".",
+      "link": "https://www.marca.com/tiramillas/politica/2026/04/01/administracion-trump-abre-investigacion-sobre-eutanasia-noelia-espana.html",
+      "pubDate": "Wed, 01 Apr 2026 08:52:08 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc3ac1ae7b7.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccbfd3e06d7.jpeg"
+    },
+    {
+      "id": "c23d358bddaa5559c256",
+      "title": "‘Daredevil: Born Again’ confirma el estado de Punisher en Marvel antes de su especial ‘One Last Kill’",
+      "summary": "La serie de Daredevil: Born Again por fin ha abordado el estado de Punisher en el Universo Cinematográfico de Marvel . El personaje de Jon Bernthal , que regresó en la primera temporada el año pasado, ya no aparece en esta. Sin embargo, sabemos que dentro de muy poco protagonizará The Punisher: One Last Kill , un nuevo especial de Marvel para Disney+. Además, después también aparecerá en Spider-Man: Brand New Day . Sin embargo, Punisher ha dejado de formar parte del reparto de la serie del Hombre sin Miedo en su temporada 2. Algo que ha levantado muchos rumores y especulaciones. Por fortuna, el tercer episodio de Daredevil: Born Again ha despejado todas las dudas. Y es que hay que recordar que en la escena post-créditos de la primera entrega , el antihéroe empezaba su propia operación de fuga de la prisión en la que le habían encerrado las Fuerzas Anti-Vigilantes del alcalde Fisk . Ahora, cuando El Espadachín es declarado culpable y se le vuelve a encerrar en su jaula, no hay ni rastro de Frank Castle . Algo que hace entrever que consiguió escapar. Y posteriormente, Matt y Karen lo aclaran todo. En Daredevil: Born Again , Punisher se encuentra \"desaparecido\" . Ni siquiera ellos mismos saben dónde se encuentra actualmente. Una explicación algo vaga pero suficiente para que la serie cierre esta subtrama y los fans puedan dejar de preocuparse por él. Lo más probable es que, tras conseguir escapar de las garras de Fisk , Punisher se haya escondido para rehacer su arsenal y empezar su propia cruzada. Por ahora, será una operación ajena a todo lo que están tramando Matt y Karen . Y, a buen seguro, también será bastante más violenta y despiadada. En unas pocas semanas, cuando se estrene el especial The Punisher: One Last Kill en Disney+ , saldremos de dudas definitivamente. Lo cierto es que habría tenido sentido que Punisher se uniera a la lucha contra Fisk y sus fuerzas especiales. Pero el exmarine tiene un código moral muy diferente al de Daredevil , tal y como ya vimos ",
+      "link": "https://hipertextual.com/cine-television/daredevil-born-again-confirma-el-estado-de-punisher-en-marvel-antes-de-su-especial-one-last-kill/",
+      "pubDate": "Wed, 01 Apr 2026 08:47:13 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/Diseno-sin-titulo-222.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "9f773796eac27a93e32a",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Estados Unidos se retirará “en dos o tres semanas” de la guerra de Irán",
+      "summary": "Un bombero intenta apagar el fuego de un vehículo incendiado a causa de un ataque israelí en Beirut este miércoles.",
+      "link": "https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Wed, 01 Apr 2026 08:44:42 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/QNMZSTODAJCMDFI7GZ7ZAIKLMM.jpg?auth=7d454333227671abad5c87d09aacf35f361649f3112ae5b2b14746d4b3584fc8"
+    },
+    {
+      "id": "276cae578c39554ff829",
+      "title": "Las Bolsas se disparan y el petróleo cae ante la esperanza de que la guerra acabe pronto",
+      "summary": "Parqué de la Bolsa de Madrid.",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-04-01/la-bolsa-y-el-ibex-35.html",
+      "pubDate": "Wed, 01 Apr 2026 08:34:26 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/7KGKYNSW6JIAHPJDYDL36FRIQY.jpg?auth=2303ba82507c02cb3ee5d816c6392cda27182e23058306f5ee46e4c81b432a84"
     },
     {
       "id": "e37c2cf1aa05b95df762",
@@ -122,7 +300,7 @@
       "pubDate": "Wed, 01 Apr 2026 08:33:41 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/o1fpBXhdIbOPb.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/01/o1fpBXhdIbOPb.r_d.794-266-0.jpeg"
     },
     {
       "id": "6de876fa447a4fb64679",
@@ -135,14 +313,196 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69ccb97a85440.jpeg"
     },
     {
+      "id": "a6570e6bd104dc0697f1",
+      "title": "River aprobó la licitación del techado y ampliación del Monumental a la empresa Grupo ENG: costará más de 145 millones de dólares",
+      "summary": "La obra llevará la capacidad del estadio a 101.000 espectadores. Además, se le agregará el techo para todo el sector de tribunas. Para realizarla se presentaron seis oferentes.",
+      "link": "https://www.clarin.com/deportes/river-aprobo-licitacion-techado-ampliacion-monumental-empresa-grupo-eng-costara-145-millones-dolares_0_H1eGRiF0Uv.html",
+      "pubDate": "Wed, 01 Apr 2026 08:26:42 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/04/01/5PTjpfFcp_1200x630__1.jpg"
+    },
+    {
+      "id": "53f472aa1a90ee5ad998",
+      "title": "La provincia de Buenos Aires bajo alerta naranja por tormentas fuertes este miércoles",
+      "summary": "El aviso lo emitió este martes el Servicio Meteorológico Nacional (SMN). Fue durante una jornada donde se registraron fuertes tormentas e inundaciones en distintas partes del territorio bonaerense. Otras cuatro provincias están bajo alerta amarilla.",
+      "link": "https://www.clarin.com/sociedad/provincia-buenos-aires-alerta-naranja-tormentas-fuertes-miercoles_0_Eqk9PzFq1T.html",
+      "pubDate": "Wed, 01 Apr 2026 08:26:23 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/01/b6M98xOti_1200x630__1.jpg"
+    },
+    {
+      "id": "54c8ceca57d1327bccc4",
+      "title": "Elma Saiz lamenta el giro del PP con la regularización de inmigrantes: “Están supeditados a acuerdos que les marca la ultraderecha”",
+      "summary": "La portavoz del Gobierno y ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, ayer en La Moncloa.",
+      "link": "https://elpais.com/espana/2026-04-01/elma-saiz-lamenta-el-giro-del-pp-con-la-regularizacion-de-inmigrantes-estan-supeditados-a-acuerdos-que-les-marca-la-ultraderecha.html",
+      "pubDate": "Wed, 01 Apr 2026 08:23:34 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/LTJMRUPLEZLRBIXZDFSSR6GVWI.jpg?auth=521d7474d6234e8a94bea788b22ae5e5aa4ab2f82a96082817e7aec7ecd66830"
+    },
+    {
+      "id": "56b2c74b0f2ad626fba8",
+      "title": "Cómo Reese Witherspoon se rebeló ante la inercia convirtiéndose en la mujer más poderosa y rica de Hollywood",
+      "summary": "Reese Witherspoon en un evento de Apple TV el pasado mes de febrero en Los Ángeles.",
+      "link": "https://elpais.com/smoda/famosos/2026-04-01/como-reese-witherspoon-se-rebelo-ante-la-inercia-convirtiendose-en-la-mujer-mas-poderosa-y-rica-de-hollywood.html",
+      "pubDate": "Wed, 01 Apr 2026 08:20:59 GMT",
+      "source": "El Pais",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/CWWAVGTKQ5B6BFTW7NY2FAF3GI.jpg?auth=0f5acbac424f480c54723f0879d8bdf6e5586157067c752ef633b8e45bba3356"
+    },
+    {
       "id": "68389bb848daa6a715ec",
       "title": "El reencuentro que emociona al madridismo: \"¿No tienes un abuelo brasileño?\"",
-      "summary": "A la conclusión del partido que disputaron Brasil y Croacia Vinicius y Endrick tuvieron una larga y distendida conversación con Luka Modric sobre el terreno de juego para ponerse al día. Endrick inlcuso levantó al croata del suelo, le dio un gran abrazó y le dijo ¿Qué pasa, papi?",
+      "summary": "El madridista realizó una acción individual espectacular para abrir la lata ante Croacia",
       "link": "https://www.marca.com/futbol/real-madrid/2026/04/01/emotivo-reencuentro-vinicius-endrick-ancelotti-modric-tienes-abuelo-brasileno.html",
       "pubDate": "Wed, 01 Apr 2026 08:20:12 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aRikQ1fpBHYMuNjgk.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aRpOK1fpD33DR4dTn.jpeg"
+    },
+    {
+      "id": "53a0bfc06ec248990302",
+      "title": "Araghchi: EE.UU. está utilizando a los Estados del Golfo como \"escudos humanos\"",
+      "summary": "El ministro de Exteriores iraní no entiende por qué los países de la región \"ignoran\" esa situación y no condenan a EE.UU. e Israel.",
+      "link": "https://actualidad.rt.com/actualidad/596513-araghchi-eeuu-utilizar-estados-golfo-escudos-humanos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 01 Apr 2026 08:18:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69ccccade9ff713ea7035823.jpg"
+    },
+    {
+      "id": "b056e20a24484a3eb8e5",
+      "title": "El sorpresivo gesto de Djokovic durante la eliminación de Italia en el repechaje para el Mundial 2026",
+      "summary": "El tenista Novak Djokovic volvió a demostrar su fanatismo por el fútbol y asistió este martes al partido por el repechaje para clasificar al Mundial 2026 entre Italia y Bosnia y Herzegovina , en lo que fue derrota para los dirigidos por Gennaro Gattuso. El deportista serbio estuvo en la tribuna del seleccionado ganador, fue ovacionado y tuvo una llamativa reacción durante la clasificación. Cuando Bryan Cristante erró su penal -el segundo yerrl de Italia- Djokovic reaccionó con una sonrisa de sorpresa , mientras miraba a los hinchas bosnios celebrar. Luego, cuando se concretó la clasificación, se abrazó con los aficionados y aplaudió con alegría. De todos modos, el respaldo del serbio a Bosnia y Herzegovina no llamó la atención, sino que ya había manifestado su preferencia y anunciado que iba a viajar a presenciar el partido. En la fase anterior, cuando el país balcánico le ganó a Gales, Djokovic celebró el triunfo y felicitó al delantero Edin Dzeko en sus redes sociales: “Bravo Edin, bravo Bosnia “. La reacción de Djokovic durante la eliminación de Italia Serbia, su selección, no logró clasificar a la Copa del Mundo porque terminó tercera en el grupo K , en el que también estaban Inglaterra, Albania, Letonia y Andorra. Sin embargo, había accedido a las últimas dos ediciones, aunque en ninguna de las dos pudo pasar la fase de grupos. Si bien se desconocen los motivos por los que Djokovic alentó a Bosnia y Herzegovina en el duelo, se sabe que el tenista es un aficionado del fútbol. En su país es hincha de Estrella Roja de Belgrado y, sorpresivamente, también tiene otro club favorito: el Milan, de Italia . De hecho, durante la última final de la Champions League expresó su preferencia por PSG, ya que su rival era Inter de Milán. A su vez, también dejó su huella en el fútbol argentino . En 2014, durante una visita a la Argentina, el deportista visitó la Bombonera y recibió como regaló las camisetas de Boca y San Lorenzo. Si bien marcó que no tiene ninguna preferencia en",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-sorpresivo-gesto-de-djokovic-durante-la-eliminacion-de-italia-del-mundial-2026-nid01042026/",
+      "pubDate": "Wed, 01 Apr 2026 08:12:19 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/NM3QXKU2JZFEHB336XSNT7EKDU.PNG?auth=b055066ea5324b1667cb244905a2ff78f5fbc1d027131294e0d8b63b39af7fcd&smart=true&width=438&height=324",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "5a9e91c4817047db0ede",
+      "title": "El 'entrenador invisible' en la vela olímpica",
+      "summary": "La flota de los iQFOiL y abajo Bernat Cortés y Xisco Gil usando SailData.",
+      "link": "https://www.marca.com/vela/2026/04/01/entrenador-invisible-vela-olimpica.html",
+      "pubDate": "Wed, 01 Apr 2026 08:07:34 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc4aab99064.jpeg"
+    },
+    {
+      "id": "12fa70bc3c70d404d131",
+      "title": "Los seis colores que más usan quienes tienen baja autoestima, según la psicología",
+      "summary": "Según los expertos, la forma en que nos vestimos dice mucho sobre la visión que tenemos de nosotros mismos.",
+      "link": "https://www.clarin.com/estados-unidos/colores-usan-baja-autoestima-psicologia_0_vxJ4ePOsh8.html",
+      "pubDate": "Wed, 01 Apr 2026 08:06:42 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/04/03/CZ2B1CwOC_1200x630__1.jpg"
+    },
+    {
+      "id": "f8a9c21e04329bfc2e06",
+      "title": "Jordi Segués, experto en desarrollo personal: “Las personas te dan lo que son, no lo que mereces”",
+      "summary": "Si te encuentras en una situación incómoda, el divulgador aconseja recordar esta lección para todos los ámbitos de la vida.",
+      "link": "https://www.clarin.com/estados-unidos/jordi-segues-experto-desarrollo-personal-personas-dan-mereces_0_SZRsdhqvwf.html",
+      "pubDate": "Wed, 01 Apr 2026 08:06:42 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/31/Urp20iTzP_1200x630__1.jpg"
+    },
+    {
+      "id": "d740b735fef7068d9c3d",
+      "title": "Seguro Social en abril de 2026: fechas exactas de pago según tu nacimiento",
+      "summary": "La Administración del Seguro Social (SSA, por sus siglas en inglés) ya definió el calendario de pagos de abril de 2026 . Los depósitos están previstos para el 1, 3, 8, 15 y 22 del mes , según el tipo de beneficio y la fecha de nacimiento. El cronograma de abril de 2026 por fecha de nacimiento El calendario mensual organiza los pagos regulares del Seguro Social en tres grupos. Cada uno corresponde a un miércoles distinto del mes. Segundo miércoles (8 de abril): nacidos entre el 1 y el 10 Tercer miércoles (15 de abril): nacidos entre el 11 y el 20 Cuarto miércoles (22 de abril): nacidos entre el 21 y el 31 La SSA establece que la fecha de pago no puede modificarse. ¿Quiénes cobran el 1° y el 3 de abril de 2026? El organismo también fija los pagos que no dependen de la fecha de nacimiento . Estos corresponden a beneficios específicos dentro del sistema. Miércoles 1° de abril de 2026: pago del Ingreso Suplementario de Seguridad (SSI, por sus siglas en inglés). Viernes 3 de abril: pago del Seguro Social para quienes lo reciben desde antes de mayo de 1997 o cobran ambos beneficios. ¿Qué hacer si el pago del Seguro Social no llega en la fecha prevista? La SSA recomienda esperar tres días adicionales si el pago no llega en la fecha prevista . Luego, indica comunicarse primero con el banco o la institución financiera , que puede registrar demoras en el procesamiento. Si el pago no aparece, el beneficiario puede reportarlo como tardío, perdido o robado . Para hacerlo, debe comunicarse con la SSA al 1-800-772-1213 y marcar 7 para español (TTY 1-800-325-0778), o contactar a su oficina local . El organismo revisa el caso y, si corresponde, emite un reemplazo del pago . ¿En qué casos pueden embargar o retener pagos del Seguro Social? El sistema de beneficios puede retener dinero de los pagos cuando recibe una orden judicial de embargo , explica en su sitio . En esos casos, aplica la deducción según lo dispuesto por el tribunal. Si el beneficiario tiene dudas sobre el embargo, deb",
+      "link": "https://www.lanacion.com.ar/estados-unidos/seguro-social-en-abril-de-2026-fechas-exactas-de-pago-segun-tu-nacimiento-nid01042026/",
+      "pubDate": "Wed, 01 Apr 2026 08:06:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/EQJ7O6CQZRHIDHRSWZMU4LWWDM.png?auth=2a032987d4d7c651590564fd51b903e138de16755318c0675f88113ca2c5283e&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "32b53781113c3e4b230c",
+      "title": "El desconocido truco de abrir la puerta del coche con la mano contraria para evitar un accidente",
+      "summary": "Esta técnica puede evitar muchos accidentes al abrir las puertas del coche.",
+      "link": "https://www.marca.com/coches-y-motos/trafico/2026/04/01/desconocido-truco-abrir-puerta-coche-mano-contraria-evitar-accidente.html",
+      "pubDate": "Wed, 01 Apr 2026 08:03:48 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cbc8935fe98.jpeg"
+    },
+    {
+      "id": "f52a2144a5c5460a6a85",
+      "title": "Irán pone en la diana a Silicon Valley por su «participación» en la guerra",
+      "summary": "El Cuerpo de la Guardia Revolucionaria Islámica (CGRI), la rama de élite de las fuerzas armadas de Irán, ha amenazado directamente a las tecnológicas estadounidenses con intereses en Asia Occidental. Les acusa de «colaborar» y actuar como «espías» en los ataques de Estados Unidos e Israel contra infraestructuras, y en los asesinatos de dirigentes y funcionarios del país. Aunque la CGRI ya había advertido a empresas tecnológicas y de defensa extranjeras con presencia en Oriente Medio y había atacado centros de datos de la región, como los de AWS en Bahréin y los Emiratos Árabes Unidos, es la primera vez que pone una fecha y listado concreto para los ataques. Incluye 18 empresas consideradas «objetivos legítimos», las tecnológicas OpenAI, Antrhropic, Cisco, HP, Intel, Oracle, Microsoft, Apple, Google, Meta, IBM, Dell o NVIDIA, además de compañías de defensa como Palantir, Boeing y Tesla, y financieras como JPMorgan. «Estas empresas deben esperar la destrucción de sus unidades por cada acto terrorista en Irán, a partir de las 8 de la noche, hora de Teherán, del miércoles», declaró la Guardia Revolucionaria Islámica en un mensaje publicado en la aplicación de mensajería Telegram, donde también advierte a los empleados de estas organizaciones y les insta a que «abandonen sus puestos de trabajo de inmediato para salvar sus vidas». Asimismo, alerta a los residentes de los alrededores de estas empresas en todos los países de la región a abandonar sus hogares en un radio de un kilómetro y dirigirse a un lugar seguro. Toda la información en MCPRO La entrada Irán pone en la diana a Silicon Valley por su «participación» en la guerra se publicó primero en MuyComputer .",
+      "link": "https://www.muycomputer.com/2026/04/01/iran-pone-en-la-diana-a-silicon-valley-por-su-participacion-en-la-guerra/",
+      "pubDate": "Wed, 01 Apr 2026 08:03:26 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "",
+      "subcat": "empresas"
+    },
+    {
+      "id": "e76555cb466aa7d5b0ba",
+      "title": "Demon Slayer: La fortaleza infinita destroza otro récord en 2026",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El fenómeno de Demon Slayer sigue imparable. Cuando parecía que su techo ya estaba marcado tras su exitoso paso por cines en 2025, la historia de Tanjiro vuelve a sacudir la industria con un nuevo récord que confirma lo que muchos ya intuían: estamos ante uno de los mayores fenómenos del anime de todos los tiempos. Y no es una exageración. La película Demon Slayer: La fortaleza infinita no solo ha dominado la taquilla mundial, sino que en 2026 ha consolidado definitivamente su posición como la película de anime más exitosa de la historia. Lo realmente llamativo es que, incluso meses después de su estreno, sigue generando titulares y cifras difíciles de igualar. No te pierdas el gran concierto de la saga que llega a España. Demon Slayer rompe otro récord y refuerza su dominio absoluto Los nuevos datos lo dejan muy claro. Demon Slayer: La fortaleza infinita ha superado los 27,34 millones de espectadores solo en Japón, alcanzando una recaudación de más de 40.000 millones de yenes . Traducido a cifras más reconocibles, hablamos de más de 250 millones de dólares en el mercado japonés. Lo interesante es que esta cifra prácticamente duplica lo conseguido en Estados Unidos, donde la película ha superado los 135 millones de dólares. Un contraste que demuestra hasta qué punto Demon Slayer es un auténtico fenómeno cultural en Japón, aunque también mantiene una enorme fuerza internacional. A nivel global, el resultado es todavía más contundente. La película ha alcanzado los 738 millones de dólares en todo el mundo, situándose cómodamente como la película de anime más taquillera de la historia. No hay competencia real ahora mismo… salvo ella misma. Un éxito que sigue creciendo incluso después de su estreno Lo más sorprendente es que el crecimiento de Demon Slayer: La fortaleza infinita no se ha detenido tras su paso por cines, ya que sigue recaudando en formatos premium . Mientras muchos esperan su llegada a plataform",
+      "link": "https://www.cinemascomics.com/demon-slayer-la-fortaleza-infinita-ot-record/",
+      "pubDate": "Wed, 01 Apr 2026 08:01:47 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Demon-Slayer-La-fortaleza-infinita.jpg"
+    },
+    {
+      "id": "fd771822e4cdc98dc5ad",
+      "title": "Cita del día, del astrónomo Carl Sagan: “En algún lugar, algo increíble está esperando ser conocido”",
+      "summary": "Las palabras del astrónomo nos recuerdan todos los misterios que el cosmos guarda y que aún nos faltan por descubrir.",
+      "link": "https://www.clarin.com/estados-unidos/cita-dia-astronomo-carl-sagan-algun-lugar-increible-esperando-conocido_0_pu0NpDmfXL.html",
+      "pubDate": "Wed, 01 Apr 2026 08:00:42 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2022/11/08/xJYZ0kFxV_1200x630__1.jpg"
+    },
+    {
+      "id": "702042b6b01466fd5b1b",
+      "title": "Actualizan las recomendaciones sobre entrenamiento de fuerza: qué hacer, cómo y con qué frecuencia",
+      "summary": "Se trata de la primera actualización relevante desde 2009. Los mayores beneficios se obtienen de la constancia más que de la complejidad de los ejercicios.",
+      "link": "https://www.clarin.com/buena-vida/actualizan-recomendaciones-entrenamiento-fuerza-hacer-frecuencia_0_2QatZ8jPNM.html",
+      "pubDate": "Wed, 01 Apr 2026 08:00:42 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/27/ibjl2eJX6_1200x630__1.jpg"
+    },
+    {
+      "id": "462f195f4dccf4b64b2a",
+      "title": "Qué es la limerencia, la obsesión amorosa que puede durar años y afectar la vida cotidiana",
+      "summary": "Pensamientos obsesivos, idealización y necesidad de ser correspondido: de qué se trata. Por qué puede confundirse con el enamoramiento. Qué dicen especialistas sobre su vínculo con conductas adictivas.",
+      "link": "https://www.clarin.com/relaciones/limerencia-obsesion-amorosa-puede-durar-anos-afectar-vida-cotidiana_0_03iAaJoX08.html",
+      "pubDate": "Wed, 01 Apr 2026 08:00:42 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/11/16/YxvpXrq9ls_1200x630__1.jpg"
+    },
+    {
+      "id": "660ac2d73b743597c948",
+      "title": "Yoga para envejecer mejor: “Los beneficios se notan a los dos meses”",
+      "summary": "Está demostrado que el yoga mejora la salud física y mental de todas las personas, pero resulta especialmente beneficioso para aquellos que ya se están adentrando en la edad madura.",
+      "link": "https://www.clarin.com/internacional/yoga-envejecer-mejor-beneficios-notan-meses_0_M5A8UFZ5my.html",
+      "pubDate": "Wed, 01 Apr 2026 08:00:42 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/29/tqAblyY1q_1200x630__1.jpg"
+    },
+    {
+      "id": "3d66c108424465a8148b",
+      "title": "La jueza deja fuera del ‘caso Pegasus’ a un exdirector de la Guardia Civil por ser magistrado del Supremo",
+      "summary": "El exdirector de la Guardia Civil y magistrado del Tribunal Supremo, Félix Azón, en un acto oficial en 2019.",
+      "link": "https://elpais.com/espana/2026-04-01/la-jueza-deja-fuera-del-caso-pegasus-a-un-exdirector-de-la-guardia-civil-por-ser-magistrado-del-supremo.html",
+      "pubDate": "Wed, 01 Apr 2026 07:55:58 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/DGYDWEW4V75W3EGSIVAP5FCJPQ.jpg?auth=5addfc2781c3123e60ab37ce93d8b0e6074183bcca18030c840ec6913a4ec518"
     },
     {
       "id": "052f7b016412e36876af",
@@ -155,14 +515,97 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aRhJ21fpB2DEK1HeQ.jpeg"
     },
     {
-      "id": "9f773796eac27a93e32a",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Estados Unidos se retirará “en dos o tres semanas” de la guerra de Irán",
-      "summary": "Un bombero intenta apagar el fuego de un vehículo incendiado a causa de un ataque israelí en Beirut este miércoles.",
-      "link": "https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Wed, 01 Apr 2026 07:05:27 GMT",
-      "source": "El Pais",
+      "id": "6585830027a5e75723f2",
+      "title": "Caos en Tel Aviv: vecinos y rescatistas recorren las zonas afectadas por un ataque iraní (VIDEOS)",
+      "summary": "Los medios israelíes difunden imágenes de los daños causados por un ataque iraní esta mañana en el centro de Israel. Se reportan varios puntos de impacto, dos de ellos en Bnei Brak, en la periferia sur de Tel Aviv, donde varios edificios resultaron afectados y se registran heridos. Mientras los equipos de emergencia inspeccionan los daños en la localidad, los vecinos permanecen en las calles, haciendo caso omiso de las indicaciones del Mando del Frente Interior y de la Policía.",
+      "link": "https://actualidad.rt.com/actualidad/596511-caos-tel-aviv-vecinos-rescatistas-recorren-zonas-afectadas-ataque-irani?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 01 Apr 2026 07:39:44 +0000",
+      "source": "RT en Español",
       "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/QNMZSTODAJCMDFI7GZ7ZAIKLMM.jpg?auth=7d454333227671abad5c87d09aacf35f361649f3112ae5b2b14746d4b3584fc8"
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "fb99b6047fc96678583a",
+      "title": "Canciller iraní: \"Respetamos la soberanía árabe a diferencia de los estadounidenses\"",
+      "summary": "Araghchi también criticó actitudes de Washington hacia los países de Oriente Medio.",
+      "link": "https://actualidad.rt.com/actualidad/596507-canciller-irani-respetamos-soberania-arabe?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 01 Apr 2026 07:38:11 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69ccbc4c59bf5b04a926e763.jpeg"
+    },
+    {
+      "id": "b22ca779fb1c773a5cae",
+      "title": "Un acróbata sufrió una grave caída durante una función en un circo de San Luis",
+      "summary": "El accidente ocurrió durante una rutina con telas y fue registrado por espectadores. El artista fue trasladado a un hospital, donde fue operado y evoluciona favorablemente.",
+      "link": "https://www.clarin.com/sociedad/acrobata-sufrio-grave-caida-funcion-circo-san-luis_0_EWEQkKYjJv.html",
+      "pubDate": "Wed, 01 Apr 2026 07:33:21 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/01/Gf1FjlrlG_1200x630__1.jpg"
+    },
+    {
+      "id": "d4b706690d24c7d9440e",
+      "title": "El fenómeno Claude se cuela en el top 10 de las apps más descargadas en España en marzo",
+      "summary": "Tras un febrero marcado por la inesperada presencia de las apps de Kutxabank, Clave PIN o Certificado Digital entre las más descargadas de España, el mes de marzo en el mercado de aplicaciones móviles en España devuelve el protagonismo absoluto a la IA y a las herramientas destinadas a gestiones administrativas. Analicemos los datos procedentes de una de las referencias del mercado, Data.ai: Cuáles son las apps más descargadas de España en marzo ChatGPT mantiene su liderazgo indiscutible en el número 1 y Google Gemini escala desde el 6º lugar hasta situarse en la 2ª posición, pero la gran noticia del mes es, sin duda, Claude. La aplicación ha protagonizado una subida meteórica de más de 100 puestos hasta colocarse en la 8ª posición del ranking general. Recordemos que este ascenso sucede en el mismo mes en el que Claude, su empresa matriz Anthropic y su CEO, Darío Amodei , se han visto en el centro de la polémica tras manifestar su oposición a que el Gobierno Trump utilizase esta IA para fines de guerra autónoma y control ciudadano . Una situación impensable hace apenas unos meses que ha llevado a la Casa Blanca a excluir a esta empresa de su cadena de proveedores y que ha motivado la reacción opuesta de miles de ciudadanos norteamericanos , que se la han descargado, incluso comenzando a migrar a gran escala desde otras opciones como ChatGPT . Vistos los datos de descargas de la app en España, parece claro que esa tendencia ha cruzado el Atlántico, al menos por un mes. ChatGPT Google Gemini Cl@ve PIN TikTok Pro Temu TikTok Lidl Plus Claude Certificado digital FNMT Shein En cualquier caso, un mes más, las aplicaciones para trámites oficiales ocupan puestos de privilegio. Cl@ve PIN sube una posición hasta alcanzar el 3º puesto, mientras que el Certificado digital FNMT ocupa el 9º. Lidl Plus, la sorpresa del retail En el sector del gran consumo, Lidl Plus ha dado la sorpresa con un incremento de más de veinte posiciones, situándose en el 7º lugar. Por su parte, aunque s",
+      "link": "https://marketing4ecommerce.net/claude-top-10-de-las-apps-mas-descargadas-en-espana-en-marzo/",
+      "pubDate": "Wed, 01 Apr 2026 07:25:14 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/apps-mas-descargadas-4-1-1024x614.jpg",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "1bba87f1c1c28ed5b5d6",
+      "title": "Top 10: las mejores IA generadoras de imágenes",
+      "summary": "La inteligencia artificial avanza a un ritmo vertiginoso, ofreciendo novedosas soluciones, muchas de las cuales ya hemos adoptado como algo cotidiano. Y una de las tecnologías que parece predestinada a convertirse en una herramienta más que presente en nuestro día a día son las IA generadoras de imágenes . Sistemas capaces de crear imágenes realistas o ilustraciones a partir de descripciones escritas por sus usuarios o usuarias. Si todavía no conoces estas herramientas o si solamente has oído hablar de unas pocas, te traemos un listado de las mejores IA generadoras de imágenes , ordenado en base a los resultados del ranking de Arena.ai , una plataforma abierta para evaluar modelos de lenguaje a través de votaciones anónimas de usuarios y usuarias. (Datos a 31 de marzo de 2026). Además, al final del artículo te daremos consejos sobre cómo crear buenos prompts para conseguir los mejores resultados. Nano Banana 2 ChatGPT MAI-Image-2 Reve Grok Imagine Flux HunyuanImage 3.0 Seedream 4.5 Qwen Recraft v4 Otras IA generadoras de imágenes destacadas El protagonismo que estos modelos están cobrando ha ido in crescendo y, lejos de detenerse, continúa aumentando. Así mismo, su complejidad y su capacidad de comprensión y ejecución también han evolucionado , pasando de unos sencillos prototipos iniciales a modelos con resultados más que precisos. Estas inteligencias artificiales son capaces de lograr un entendimiento profundo del lenguaje escrito , generando imágenes que se ajusten a la descripción indicada. Toda una revolución que democratiza la creación de imágenes, acercando el &#8220;diseño&#8221; a todo el mundo, independientemente de sus habilidades artísticas. 1. Nano Banana 2 Lanzado a finales de febrero de 2026, Nano Banana 2 es el modelo de generación de imágenes más potente de Google . Impulsado por la IA de Gemini 3.1 Flash Image , ofrece alta fidelidad y velocidad gracias a que combina la inteligencia y calidad de Nano Banana Pro con la rapidez de los modelos Flash. ",
+      "link": "https://marketing4ecommerce.net/top-ia-generadoras-de-imagenes/",
+      "pubDate": "Wed, 01 Apr 2026 07:19:42 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2024/02/ias-generadoras-de-imagenes.jpg",
+      "subcat": "diseño"
+    },
+    {
+      "id": "577ab392c462dc6207ae",
+      "title": "Lenovo Yoga Mini i, un compacto diferente desde el diseño",
+      "summary": "El Lenovo Yoga Mini i es una computadora con diseño diferente a la mayoría de mini-PCs . En lugar del típico diseño cuadrado o rectangular, tiene un chasis redondo que parece un disco de hockey gigante adornado por una tira de luz brillante en la parte inferior. Un compacto singular que llega equipado a la última gracias a los nuevos procesadores de Intel, Panther Lake , con opción de varias configuraciones . La configuración básica incluye 16 GB de RAM y un chip Intel Core Ultra 5 325 de ocho núcleos con una GPU integrada Intel Graphics de 4 núcleos, mientras que los modelos de mayor rendimiento cuentan con 32 GB de RAM y un chip Core Ultra X7 358H de 16 núcleos con una iGPU Intel Arc B390 de 12 núcleos que se ha mostrado sorprendentemente capaz en el apartado de juegos. Incluirán de serie memoria LPDDR5x-8533 soldada a la placa base y no reemplazable, lo que deberá ser tenido en cuenta por los usuarios. El almacenamiento a base de SSD sí podrá ser actualizado con opciones de 512 GB, 1 o 2 Tbytes de capacidad. A pesar de su tamaño compacto, con unas dimensiones de 130 x 130 x 48,5 mm y un peso aproximado de 600 g, el mini PC ofrece una configuración de E/S relativamente completa . Esto incluye múltiples puertos USB tipo C con soporte para Thunderbolt 4 y DisplayPort, HDMI 2.1 y USB-A. La conectividad a Internet por cable se realiza con un puerto LAN de 2.5 GbE, mientras que la inalámbrica para Wi-Fi 7 y Bluetooth 6 se consigue mediante un conector M.2 adicional al destinado al almacenamiento. El sistema integra hardware de audio básico con un altavoz incorporado de 2 W y micrófonos duales, lo que permite interactuar con el asistente de voz o realizar llamadas de audio sin necesidad de una cámara web ni un micrófono externo. Las funciones de seguridad incluyen un lector de huellas dactilares integrado en el botón de encendido, detección de presencia humana y bloqueo por ausencia. El Lenovo Yoga Mini i es compatible con detección Wi-Fi, lo que le permite activarse au",
+      "link": "https://www.muycomputer.com/2026/04/01/lenovo-yoga-mini-i-un-compacto-diferente-desde-el-diseno/",
+      "pubDate": "Wed, 01 Apr 2026 07:17:45 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Lenovo_Yoga_Mini_i_2.jpg",
+      "subcat": "mercado"
+    },
+    {
+      "id": "b12dd50132fb1ee2aca6",
+      "title": "Se derrumbó una parte del techo del edificio central de Edesur y debieron evacuar a 50 personas",
+      "summary": "Un derrumbe parcial en el edificio central de Edesur obligó a evacuar a 50 personas en el barrio porteño de Monserrat, luego de que cediera una losa en el quinto piso . El episodio ocurrió durante la noche del martes, fuera del horario laboral, y activó un operativo de emergencia con la intervención de bomberos, personal de salud y fuerzas de seguridad. Según informó el SAME a LA NACION, no se registraron víctimas . El incidente se produjo alrededor de las 21.30 en la sede ubicada en San José 140 , esquina Adolfo Alsina. Tras un fuerte estruendo, el personal que se encontraba de guardia dio aviso al 911, lo que derivó en la rápida llegada de un móvil policial que confirmó la situación y solicitó refuerzos, según indicó Crónica con un móvil en el lugar. En pocos minutos, se desplegaron 13 unidades del SAME , junto con Bomberos y efectivos de la Policía de la Ciudad . De acuerdo a lo informado por el sistema de atención médica de emergencia, el colapso correspondió a un colapso parcial de losa de terraza , lo que provocó desprendimientos en el quinto piso del edificio. El SAME indicó que la evacuación se realizó de manera preventiva y que no se registraron personas heridas . Además se señaló que el operativo de auxilio ya finalizó. Por su parte, la empresa Edesur informó en un comunicado difundido durante la madrugada que el episodio se originó tras “un fuerte estruendo que se escuchó esta noche dentro de nuestro edificio central” , lo que llevó al personal de guardia a dar aviso inmediato a las fuerzas de seguridad. La compañía señaló que, tras la intervención de Bomberos, Defensa Civil y la Policía, se iniciaron las primeras evaluaciones para determinar el origen del incidente. Bomberos, Defensa Civil y Policía llegaron al lugar. Los primeros peritajes determinaron que el ruido se produjo al ceder una loza, lo que generó daños en la mampostería. Edesur informa que no hay empleados heridos ni está afectado el normal desarrollo de nuestras operaciones. Edesur Argentin",
+      "link": "https://www.lanacion.com.ar/sociedad/se-derrumbo-una-parte-del-techo-del-edificio-central-de-edesur-y-debieron-evacuar-a-50-personas-nid01042026/",
+      "pubDate": "Wed, 01 Apr 2026 07:17:31 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/H67XNXORHJAT5KUN7X6U5EXZPY.webp?auth=d939414d5b13968be2fc48044df229f56db67b2b3c79cb5f47b3f6f9910a4605&smart=true&width=680&height=510"
+    },
+    {
+      "id": "fc106aff271b6b826d8b",
+      "title": "\"Honor y buen sentido\": Meryl Streep visitó México y elogió a la presidenta Claudia Sheinbaum",
+      "summary": "La estrella de Hollywood estuvo en Ciudad de México para la gira promocional de su película 'El diablo viste a la moda 2'.",
+      "link": "https://actualidad.rt.com/actualidad/596509-meryl-streep-elogiar-presidenta-mexico-sheinbaum?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 01 Apr 2026 07:13:57 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69ccb76ae9ff7167754616d1.jpg"
+    },
+    {
+      "id": "8df8a1ae07112f60d9ca",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, miércoles 1 de abril",
+      "summary": "El Gobierno argentino declaró al Cuerpo de la Guardia Revolucionaria Islámica (CGRI) como organización terrorista e informó su incorporación al Registro Público de Personas y Entidades vinculadas a Actos de Terrorismo y su Financiamiento (Repet). La medida fue comunicada por la Oficina del Presidente . Según indica el comunicado, la decisión se vincula con que los atentados ocurridos en la Argentina durante la década de 1990, a Embajada de Estado de Israel y a la Asociación Mutual Israelita Argentina (AMIA) , según determinan investigaciones judiciales, “fueron planificados, financiados y ejecutados con participación directa de altos funcionarios del régimen iraní y de operativos de la Guardia Revolucionarias”. La incorporación del CGRI al REPET habilita la aplicación de sanciones financieras y restricciones operativas , con el objetivo de limitar su capacidad de acción en el país y proteger al sistema financiero de posibles usos ilícitos. La medida fue adoptada en coordinación entre la Cancillería, el Ministerio de Seguridad Nacional, el Ministerio de Justicia y la Secretaría de Inteligencia de Estado. El presidente Javier Milei , según se indica en el comunicado, sostuvo que la decisión busca saldar una “deuda histórica” con los familiares de las víctimas de los atentados y reafirma el compromiso del Gobierno con la lucha contra el terrorismo y el crimen organizado. pic.twitter.com/ds0Jx5mXIm Oficina del Presidente (@OPRArgentina) April 1, 2026 La portavoz de la Casa Blanca, Karoline Leavitt , informó que el presidente de Estados Unidos, Donald Trump, dará una cadena nacional este miércoles por la noche en donde se referirá a la guerra en Medio Oriente contra Irán. TUNE IN: Tomorrow night at 9PM ET, President Trump will give an Address to the Nation to provide an important update on Iran. Karoline Leavitt (@PressSec) March 31, 2026 Los ministros de Relaciones Exteriores de China y Pakistán, Wang Yi e Ishaq Dar, presentaron un plan en cinco puntos para “restablecer",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-1-de-nid01042026/",
+      "pubDate": "Wed, 01 Apr 2026 07:06:48 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/JTQYUJAY5RE77CNWB7DQ2R3F5M.JPG?auth=57d22638036ecf71d58fbe4408033a1601379dd2e3cb28d3bd13f4d88f8a675f&smart=true&width=3902&height=2601"
     },
     {
       "id": "bf8d6d4ab80e0cc3e74d",
@@ -187,7 +630,7 @@
     {
       "id": "19a1e2f50cd310b6fd1f",
       "title": "En medio de las revelaciones patrimoniales, Manuel Adorni canceló su conferencia y tendrá agenda en Olivos",
-      "summary": "Manuel Adorni no dará su conferencia de prensa prevista para este miércoles, la cual había sido confirmada cerca suyo luego de que la semana pasada diera la primera después de 45 días. El jefe de ministros tendrá agenda en Olivos, aunque por el momento no trascendieron precisiones de las actividades allí. “Tiene agenda en Olivos; así que no se sabe todavía” era la frase con Por la noche finalmente llegó la confirmación de que no se haría la conferencia. Este martes, Adorni tuvo actividad en la sede de gobierno durante la jornada. Allí recibió al presidente de la Sociedad Rural Argentina (SRA), Nicolás Pino . En tanto este jueves participará del acto de conmemoración de los 44 años del comienzo de la guerra de Malvinas , en Plaza San Martín. Allí volverá a mostrarse con el presidente Javier Milei y su hermana Karina Milei . Adorni enfrenta desde hace tres semanas serios cuestionamientos por la compra de propiedades y viajes privados y públicos. En la Casa Rosada, las opiniones sobre la conferencia de Adorni inicialmente prevista para este miércoles se dividieron. Algunos funcionarios deslizaron que era mejor no hacerla -en medio de las nuevas revelaciones patrimoniales - y estaban quienes aseguraban que la presentación, en rigor, nunca estuvo completamente confirmada. Adorni dio una conferencia la semana pasada, en la que se refirió a las polémicas que lo salpican, pero declinó de dar explicaciones amparándose en que hay una investigación judicial en curso. El funcionario quedó en el centro de la polémica y de una investigación judicial, en manos del juez Ariel Lijo y el fiscal Gerardo Pollicita . El último movimiento en ese expediente se dio este martes, cuando Pollicita pidió la declaración testimonial de la escribana que intervino en la escritura del departamento de Adorni en Caballito. Fue luego de que LA NACION revelara que dos mujeres que aparecían como titulares del departamento figuran también como las prestamistas de una hipoteca de 200.000 dólares para Ador",
+      "summary": "Manuel Adorni no dará su conferencia de prensa prevista para este miércoles, la cual había sido confirmada cerca suyo luego de que la semana pasada diera la primera después de 45 días. El jefe de ministros tendrá agenda en Olivos, aunque por el momento no trascendieron precisiones de las actividades allí. “Tiene agenda en Olivos; así que no se sabe todavía” , era la frase con la que explicaban la situación en el Ejecutivo. Sin embargo, por la noche finalmente llegó la confirmación de que no se haría la conferencia. Este martes, Adorni tuvo actividad en la sede de gobierno durante la jornada. Allí recibió al presidente de la Sociedad Rural Argentina (SRA), Nicolás Pino . En tanto este jueves participará del acto de conmemoración de los 44 años del comienzo de la guerra de Malvinas , en Plaza San Martín. Allí volverá a mostrarse con el presidente Javier Milei y su hermana Karina Milei . Adorni enfrenta desde hace tres semanas serios cuestionamientos por la compra de propiedades y viajes privados y públicos. En la Casa Rosada, las opiniones sobre la conferencia de Adorni inicialmente prevista para este miércoles se dividieron. Algunos funcionarios deslizaron que era mejor no hacerla -en medio de las nuevas revelaciones patrimoniales - y estaban quienes aseguraban que la presentación, en rigor, nunca estuvo completamente confirmada. Adorni dio una conferencia la semana pasada, en la que se refirió a las polémicas que lo salpican, pero declinó de dar explicaciones amparándose en que hay una investigación judicial en curso. El funcionario quedó en el centro de la polémica y de una investigación judicial, en manos del juez Ariel Lijo y el fiscal Gerardo Pollicita . El último movimiento en ese expediente se dio este martes, cuando Pollicita pidió la declaración testimonial de la escribana que intervino en la escritura del departamento de Adorni en Caballito. Fue luego de que LA NACION revelara que dos mujeres que aparecían como titulares del departamento figuran también com",
       "link": "https://www.lanacion.com.ar/politica/en-medio-de-las-revelaciones-patrimoniales-manuel-adorni-deja-su-conferencia-en-duda-y-arma-agenda-nid31032026/",
       "pubDate": "Wed, 01 Apr 2026 07:03:55 +0000",
       "source": "La Nacion",
@@ -223,6 +666,16 @@
       "source": "La Nacion",
       "cat": "israel",
       "image": "https://resizer.glanacion.com/resizer/v2/T3XGKKZK6ZAMZONMBDZVKFF3HQ.jpg?auth=a145f231007212e680d253faf8a9573c635f02b23f1ae8ea5ed27e9a12c3ee71&smart=true&width=7502&height=5001"
+    },
+    {
+      "id": "ae1362ba208d3d49375d",
+      "title": "Dólar blue hoy: a cuánto cotiza este miércoles 01 de abril",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-01-abril_0_MClAkhYaDa.html",
+      "pubDate": "Wed, 01 Apr 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/05/19/RonC3-q2b_1200x630__1.jpg"
     },
     {
       "id": "0b13b9cc00218d067070",
@@ -295,16 +748,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc0ade7ebe4.jpeg"
     },
     {
-      "id": "8df8a1ae07112f60d9ca",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, miércoles 1 de abril",
-      "summary": "El Gobierno argentino declaró al Cuerpo de la Guardia Revolucionaria Islámica (CGRI) como organización terrorista e informó su incorporación al Registro Público de Personas y Entidades vinculadas a Actos de Terrorismo y su Financiamiento (Repet). La medida fue comunicada por la Oficina del Presidente . Según indica el comunicado, la decisión se vincula con que los atentados ocurridos en la Argentina durante la década de 1990, a Embajada de Estado de Israel y a la Asociación Mutual Israelita Argentina (AMIA) , según determinan investigaciones judiciales, “fueron planificados, financiados y ejecutados con participación directa de altos funcionarios del régimen iraní y de operativos de la Guardia Revolucionarias”. La incorporación del CGRI al REPET habilita la aplicación de sanciones financieras y restricciones operativas , con el objetivo de limitar su capacidad de acción en el país y proteger al sistema financiero de posibles usos ilícitos. La medida fue adoptada en coordinación entre la Cancillería, el Ministerio de Seguridad Nacional, el Ministerio de Justicia y la Secretaría de Inteligencia de Estado. El presidente Javier Milei , según se indica en el comunicado, sostuvo que la decisión busca saldar una “deuda histórica” con los familiares de las víctimas de los atentados y reafirma el compromiso del Gobierno con la lucha contra el terrorismo y el crimen organizado. pic.twitter.com/ds0Jx5mXIm Oficina del Presidente (@OPRArgentina) April 1, 2026 La portavoz de la Casa Blanca, Karoline Leavitt , informó que el presidente de Estados Unidos, Donald Trump, dará una cadena nacional este miércoles por la noche en donde se referirá a la guerra en Medio Oriente contra Irán. TUNE IN: Tomorrow night at 9PM ET, President Trump will give an Address to the Nation to provide an important update on Iran. Karoline Leavitt (@PressSec) March 31, 2026 Los ministros de Relaciones Exteriores de China y Pakistán, Wang Yi e Ishaq Dar, presentaron un plan en cinco puntos para “restablecer",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-1-de-nid01042026/",
-      "pubDate": "Wed, 01 Apr 2026 06:33:35 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/JTQYUJAY5RE77CNWB7DQ2R3F5M.JPG?auth=57d22638036ecf71d58fbe4408033a1601379dd2e3cb28d3bd13f4d88f8a675f&smart=true&width=3902&height=2601"
-    },
-    {
       "id": "08849b5a88136f2a3886",
       "title": "DMV en Texas: licencia y ley para registrar un auto como inmigrante desde abril 2026",
       "summary": "En Texas , ya comenzaron a regir nuevas reglas para los registros de autos ante el Departamento de Vehículos Motorizados (DMV , por sus siglas en inglés). En abril continúa vigente la norma que obliga a inmigrantes a mostrar una prueba de estadía legal para completar el proceso. Mientras tanto, la licencia de conducir mantiene el mismo requisito. El DMV de Texas exige prueba de estadía legal a migrantes para registrar un vehículo El cambio se anunció hace meses y finalmente se hizo efectivo el último 5 de marzo . De acuerdo a lo que fue publicado en un boletín oficial , en una primera instancia la norma aplica solamente a nuevos registros . Concretamente, la modificación en las normas obliga a las oficinas locales de Texas a verificar la identidad del solicitante en todos los registros iniciales. Para pasar este filtro, se deberá demostrar una prueba de estadía legal en Estados Unidos . Por lo tanto, los migrantes deberán tener alguna de las alternativas de documentación aceptada . En caso de fallar en ese paso, no podrán avanzar en el registro. Aunque la novedad se había conocido públicamente en noviembre, en febrero el directorio del DMV del Estado de la Estrella Solitaria votó de manera unánime para comenzar su aplicación . La normativa se alinea con nuevos estándares de exigencia, como los usados para el trámite de licencias profesionales . Requisito de inspección de seguridad del DMV: ya no rige para vehículos no comerciales A partir de esa decisión, se incluyó en los nuevos manuales y se notificó a los conductores sobre los requisitos. Mientras que la exigencia de prueba legal ya aplica para nuevos registros, comenzará a regir en las renovaciones a partir del 1° de enero de 2027 . Qué documentos necesita un migrante para registrar un vehículo en Texas En el mencionado manual, las autoridades explicaron que existen dos categorías con opciones de documentación . Para un registro estándar , el que usan la mayoría de los propietarios particulares, se necesitará pr",
@@ -313,16 +756,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/WAG4ZKSL4JCA3AZ3EUTKKVW2G4.jpg?auth=44b109d6d489996ae7f7d10d84188a2a1ca294efb20f4b7bad2a273715179cbc&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b12dd50132fb1ee2aca6",
-      "title": "Se derrumbó una parte del techo del edificio central de Edesur y debieron evacuar a 50 personas",
-      "summary": "Un derrumbe parcial en el edificio central de Edesur obligó a evacuar a 50 personas en el barrio porteño de Monserrat, luego de que cediera una losa en el quinto piso . El episodio ocurrió durante la noche del martes, fuera del horario laboral, y activó un operativo de emergencia con la intervención de bomberos, personal de salud y fuerzas de seguridad. Según informó el SAME a LA NACION, no se registraron víctimas . El incidente se produjo alrededor de las 21.30 en la sede ubicada en San José 140 , esquina Adolfo Alsina. Tras un fuerte estruendo, el personal que se encontraba de guardia dio aviso al 911, lo que derivó en la rápida llegada de un móvil policial que confirmó la situación y solicitó refuerzos, según indicó Crónica con un móvil en el lugar. En pocos minutos, se desplegaron 13 unidades del SAME , junto con Bomberos y efectivos de la Policía de la Ciudad . De acuerdo a lo informado por el sistema de atención médica de emergencia, el colapso correspondió a un colapso parcial de losa de terraza , lo que provocó desprendimientos en el quinto piso del edificio. El SAME indicó que la evacuación se realizó de manera preventiva y que no se registraron personas heridas . Además se señaló que el operativo de auxilio ya finalizó. Por su parte, la empresa Edesur informó en un comunicado difundido durante la madrugada que el episodio se originó tras “un fuerte estruendo que se escuchó esta noche dentro de nuestro edificio central” , lo que llevó al personal de guardia a dar aviso inmediato a las fuerzas de seguridad. La compañía señaló que, tras la intervención de Bomberos, Defensa Civil y la Policía, se iniciaron las primeras evaluaciones para determinar el origen del incidente. En esa línea, precisó que “los primeros peritajes determinaron que el ruido se produjo al ceder una losa, lo que generó daños en la mampostería” y remarcó que “no hay empleados heridos ni está afectado el normal desarrollo de sus operaciones . Bomberos, Defensa Civil y Policía llegaron al lug",
-      "link": "https://www.lanacion.com.ar/sociedad/se-derrumbo-una-parte-del-techo-del-edificio-central-de-edesur-y-debieron-evacuar-a-50-personas-nid01042026/",
-      "pubDate": "Wed, 01 Apr 2026 06:20:59 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/AZSL3NHRI5FCXHZNMTYXGK6PAQ.png?auth=ed6f3b5e7e632bab8fb07bd51e3a3d5c194d5a6f5fdfbe28e166628568d0fbdf&smart=true&width=811&height=613"
     },
     {
       "id": "fa1d8f7aa187d862166e",
@@ -364,36 +797,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc41e28a8ff.jpeg"
-    },
-    {
-      "id": "9fe303ba08762e340a95",
-      "title": "Ferrari se impone deberes extra en abril, con tres pruebas en pista",
-      "summary": "Leclerc. Russell y Hamilton, durante el GP de Japón.",
-      "link": "https://www.marca.com/motor/formula1/2026/04/01/ferrari-impone-deberes-extra-abril-tres-pruebas-pista.html",
-      "pubDate": "Wed, 01 Apr 2026 06:09:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc030140212.jpeg"
-    },
-    {
-      "id": "e2fd524708808d221f8b",
-      "title": "La metamorfosis de Carlos Espí: \"Este tío me saca las castañas del fuego\"",
-      "summary": "La metamorfosis de Carlos Espí: del Tavernes al Levante pasando por el Alzira.",
-      "link": "https://www.marca.com/futbol/levante/2026/04/01/metamorfosis-carlos-espi-tio-me-saca-castanas-fuego.html",
-      "pubDate": "Wed, 01 Apr 2026 06:09:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc4fc744c57.jpeg"
-    },
-    {
-      "id": "31c99d38c4bb11328461",
-      "title": "¿Cómo era el mundo la última vez que Italia jugó un Mundial?",
-      "summary": "Pirlo tras la eliminación de Italia en Brasil 2014.",
-      "link": "https://www.marca.com/futbol/2026/04/01/mundo-ultima-vez-italia-jugo-mundial.html",
-      "pubDate": "Wed, 01 Apr 2026 06:08:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc4a1f85ad7.jpeg"
     },
     {
       "id": "6a154ab4da773b6e3673",
@@ -487,16 +890,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/GDIPPBRZ5FHCVKIJUHAXPKHY3I.JPG?auth=8d5fdb070a15b98ef5dd10a32f4e3e009eabf40289997250b56e282addb29b4c&smart=true&width=5000&height=3333"
     },
     {
-      "id": "fb8be4174f7d67fb39bc",
-      "title": "Delirio, color y épica en los desbordantes festejos en las calles de Bosnia y Congo por la clasificación al Mundial 2026",
-      "summary": "Sarajevo se vio desbordada por una multitud que, con bengalas y banderas inundó las calles principales tras dejar afuera a Italia. Bajo una lluvia torrencial, en Kinshasa, la gente también ganó las calles celebrando el pasaje del país africano, tras 52 años de espera.",
-      "link": "https://www.clarin.com/deportes/delirio-color-epica-desbordantes-festejos-calles-bosnia-congo-clasificacion-mundial-2026_0_nPS63xW5j8.html",
-      "pubDate": "Wed, 01 Apr 2026 05:38:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/01/3Zh4ZNnVL_1200x630__1.jpg"
-    },
-    {
       "id": "abe9f1f8e5b565b9844b",
       "title": "Bolivia perdió 2 a 1 con Irak en el repechaje y se terminó su sueño de clasificar al Mundial 2026",
       "summary": "Tras una agónica victoria ante Surinam, Bolivia no pudo superar a Irak y se terminó su sueño de clasificar al Mundial 2026. Este miércoles a la madrugada perdió por 2 a 1 ante el equipo asiático en el último partido del repechaje . El conjunto iraquí abrió el marcador de la mano de Ali Al-Hamadi y los dirigidos por Óscar Villegas lograron empatar a los 38 minutos con un gol de Moisés Paniagua , pero Aymen Hussein apareció a los 53 y sentenció la eliminatoria. Este jueves, Bolivia estuvo a pocos minutos de quedar a fuera de la Copa del Mundo, pero reaccionó a justo tiempo . En el primer partido de repechaje, contra Surinam, iba perdiendo 1 a 0 por un gol de Liam van Gelderen a los 48 minutos y logró empatarlo recién a los 72 de la mano de Moisés Paniagua. Luego, cinco minutos más tarde, Miguel Terceros lo dio vuelta de penal y le dio la tranquilidad a la selección sudamericana. IRAK ELIMINÓ A BOLIVIA Y REGRESA A LA COPA MUNDIAL DE LA FIFA 2026™ TRAS 40 AÑOS 🤯🇮🇶 #MundialEnDSPORTS pic.twitter.com/YUTsqkBlJo DSPORTS (@DSports) April 1, 2026 Una vez consumadas las eliminatorias de cada confederación, el cuadro de clasificación determinó que Bolivia, Surinam e Irak debían enfrentarse en un triangular para definir la única plaza disponible. Sin embargo, las selecciones americanas se cruzaron en el Repechaje 2 intercontinental y el país asiático disputó un solo partido en el reducido -contra el ganador- porque era el mejor ubicado en el ranking de la FIFA. A pesar de que el partido se disputó en una cancha neutral, en Monterrey, Bolivia se sintió visitante por momentos: abajo en el marcador y con la pelota en dominio de Irak, los hinchas mexicanos le cantaron “ole” a los jugadores del seleccionado sudamericano. De esta manera, Irak clasificó a un Mundial después de 40 años . La última -y única- edición en la que participó fue en México 1986, en la que terminó último en su grupo, sin sumar puntos. El primero fue el anfitrión, con 5 unidades, luego Paraguay, con cuatro, y ter",
@@ -535,16 +928,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/AVXOE2MNJ5A6HNNLHJRCIARFKE.jpg?auth=d502e3deee1b1fdb98f66d8d2e5ddfc3fe9c5ca37a2823372cfc3b3bdb6df004&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "c97988328113e7904402",
-      "title": "Mundial 2026: uno por uno, todos los clasificados a la Copa del Mundo la lista completa tras los repechajes",
-      "summary": "Con Argentina a la cabeza, se confirman las últimas selecciones. Este martes 31 fue la fecha de los cruces en UEFA y los internacionales. Por la noche, Bolivia e Irak se juegan el último boleto rumbo a Nortemérica 2026.",
-      "link": "https://www.clarin.com/deportes/mundial-2026-clasificados-copa-mundo-lista-completa-repechajes_0_2oZjwuoWjM.html",
-      "pubDate": "Wed, 01 Apr 2026 05:29:00 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/04/01/dBxUXH8-f_1200x630__1.jpg"
     },
     {
       "id": "10a7fd0dfb07c3ee29e2",
@@ -608,26 +991,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/KYSOUYINPBFCTKCWAOJ6XNCSWM.JPG?auth=a40f2776b9be8a635f841a3b83a54791cda750c43944357973a3b2a383e52acf&smart=true&width=2545&height=1696"
     },
     {
-      "id": "bb99fe1efd8b5e0ca709",
-      "title": "Resultado de Bolivia vs. Irak: quién ganó el partido del repechaje del Mundial 2026",
-      "summary": "Bolivia e Irak protagonizaron este miércoles en la madrugada de la Argentina el último de los repechajes para el Mundial Estados Unidos-México-Canadá 2026 , el intercontinental 2 de la FIFA que se lo quedaron los asiáticos con una victoria 2 a 1 en el estadio BBVA de Monterrey, México. Los goles del ganador, que vuelve a una Copa del Mundo 40 años después -la anterior fue México 1986- fueron de Ali Al Hamadi de cabeza y de Aymen Hussein. Moisés Paniagua igualó transitoriamente para los sudamericanos, que se quedaron a las puertas de volver a una cita ecuménica tras su participación por última vez en Estados Unidos 1994. Los otros combinados que también obtuvieron su plaza en los repechajes fueron la República Democrática del Congo, Bosnia, Suecia, República Checa y Turquía. Así llegaron al repechaje Los iraquíes aguardaron en la definición del Repechaje 2 intercontinental por un oponente a raíz de que de los tres participantes -el otro fue Surinam- es el mejor ubicado en el ranking de la FIFA. Dirigido por el australiano Graham Arnold, el mismo que dirigió a su país en Qatar 2022 y perdió ante la Argentina en octavos de final, accedió a la repesca tras derrotar a Emiratos Árabes Unidos en un partido de la quinta ronda de la Confederación Asiática de Fútbol (CAF). Sueña con volver a jugar una Copa del Mundo tras México 1986. La Verde, por su parte, venció en semifinales a Surinam 2 a 1 con goles de Moisés Paniagua y Miguel Terceros. En las Eliminatorias sudamericanas, el combinado dirigido por Óscar Villegas se ubicó séptimo con 20 puntos, 17 de ellos como local en la altura incluyendo el triunfo de la última fecha ante Brasil por 1 a 0. El único antecedente entre ambos seleccionados, hasta el choque del repechaje, había sido el 20 de noviembre de 2018 en el marco de un amistoso internacional. En aquella oportunidad, en un encuentro disputado en el Khalifa bin Zayed Stadium de Al Ain, Emiratos Árabes Unidos, empataron 0 a 0. Hay tres jugadores de Bolivia que disputar",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/bolivia-vs-irak-hoy-hora-y-como-ver-la-transmision-en-vivo-del-repechaje-al-mundial-2026-nid31032026/",
-      "pubDate": "Wed, 01 Apr 2026 05:11:20 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/UCHDVICDFBBGXDA753WY2JZWBI.JPG?auth=9b3afe67af303386a0342ef2a19d99fcc8a409109a0fd402a77dd988765a2ded&smart=true&width=5928&height=3952"
-    },
-    {
-      "id": "d625a9f687d381f76d08",
-      "title": "En Florida: la ley del clima y criterios meteorológicos de la NASA para el lanzamiento de Artemis II",
-      "summary": "La NASA planea lanzar la misión Artemis II este 1º de abril desde el Centro Espacial Kennedy en Florida para enviar a cuatro astronautas a la Luna. El equipo de meteorólogos supervisa una estricta lista de verificación ante la posibilidad de que factores climáticos obliguen a cancelar el histórico despegue . Este protocolo de seguridad busca garantizar que el cohete SLS atraviese la atmósfera sin riesgos eléctricos o térmicos durante su ascenso inicial. Atención al clima por el lanzamiento de Artemis II en Florida Según informó FOX Weather , la seguridad es la prioridad absoluta y el sistema de lanzamiento tiene prohibido volar bajo la lluvia o a través de columnas de humo . De esta manera, se resguarda la vida de los astronautas, además de la efectividad de la misión. “Para que la misión Artemis II despegue, la NASA no solo busca un cielo despejado ; sigue criterios específicos para determinar si el lanzamiento es seguro”, explicaron los especialistas del medio citado. El viento también está bajo el ojo de los profesionales , ya que las ráfagas máximas en el momento del despegue deben permanecer, especialmente, por debajo de un rango de entre 33 y 45 mph (53 a 72 km/h) en altitudes de hasta 457,5 pies (139,5 metros). Relámpagos y nubes como mayor obstáculo técnico en la misión a la Luna Las reglas sobre rayos representan el obstáculo más complejo para el equipo en la Space Coast . La misión permanecerá en tierra si se detectan relámpagos dentro de las 10 millas náuticas de la trayectoria de vuelo. Por este motivo, el clima es un factor determinante. El protocolo exige una ventana de 30 minutos de calma total antes de intentar un reinicio. Esta precaución se extiende a las nubes espesas (superiores a 4500 pies o 1371,6 metros) que alcancen temperaturas de congelación, ya que estas condiciones podrían desencadenar una descarga eléctrica sobre el cohete . La temperatura en la plataforma también es un factor crucial para los componentes sensibles. El mercurio debe mant",
-      "link": "https://www.lanacion.com.ar/estados-unidos/florida/en-florida-la-ley-del-clima-y-criterios-meteorologicos-de-la-nasa-para-el-lanzamiento-de-artemis-ii-nid01042026/",
-      "pubDate": "Wed, 01 Apr 2026 05:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/BBEL3C5UOBCABPAJ6EVJWNH7QQ.png?auth=2be5cc90a7e11190da654a3ccc82e747416a7b9e27177f6dd0f083aa7dd65c26&smart=true&width=880&height=586"
-    },
-    {
       "id": "11001d2428afe301b51b",
       "title": "EE.UU. critica al Gobierno español por la eutanasia de Noelia Castillo",
       "summary": "Washington expresó su preocupación por las \"numerosas fallas sistémicas en materia de derechos humanos\" en el caso de la joven.",
@@ -636,36 +999,6 @@
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69cc84c0e9ff713ea7035801.jpg"
-    },
-    {
-      "id": "8688ce6c07a4aa000aab",
-      "title": "El mensaje de Chiqui Tapia tras los amistosos de la Selección Argentina y la foto con un Messi sonriente: \"Vamos con todo\"",
-      "summary": "El presidente de la AFA estuvo presente en La Bombonera, acompañando a la Albiceleste. Fue su primera aparición pública tras el procesamiento de la Justicia por evasión fiscal.",
-      "link": "https://www.clarin.com/deportes/mensaje-chiqui-tapia-amistosos-seleccion-argentina-foto-messi-sonriente-vamos_0_Lf4dbbiJ0q.html",
-      "pubDate": "Wed, 01 Apr 2026 04:42:32 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/04/01/MHENE4unM_1200x630__1.jpg"
-    },
-    {
-      "id": "2be79207bbcc53a177c3",
-      "title": "Juliana Santillán afirmó que se reunió con el embajador de Checoslovaquia, país que se disolvió hace más de tres décadas",
-      "summary": "La diputada libertaria realizó una publicación en redes que levantó polémica. Actualmente preside la comisión de Relaciones Exteriores y Culto de la Cámara baja.",
-      "link": "https://www.clarin.com/politica/juliana-santillan-afirmo-reunio-embajador-checoslovaquia-pais-disolvio-hace-decadas_0_NjlUTT2Eu2.html",
-      "pubDate": "Wed, 01 Apr 2026 04:35:36 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2024/10/09/MytoMm9cj_1200x630__1.jpg"
-    },
-    {
-      "id": "5e7e3efea710ab52506d",
-      "title": "Vinicius y Endrick inventan",
-      "summary": "Vinicius celebra abrazado con Danilo el gol de Brasil.",
-      "link": "https://www.marca.com/futbol/cronica/2026/04/01/vinicius-endrick-lideran-brasil-debil-croacia.html",
-      "pubDate": "Wed, 01 Apr 2026 04:04:13 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc750744c82.jpeg"
     },
     {
       "id": "a17422390ea301885f93",
@@ -688,136 +1021,6 @@
       "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69cc61c4e9ff715fb655d1de.jpg"
     },
     {
-      "id": "f925738c09ce736075cd",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este miércoles 1 abril de 2026",
-      "summary": "El SMN anticipa para este miércoles temperaturas entre 21°C y 27°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-miercoles-1-abril-2026_0_ofdbLNZOdD.html",
-      "pubDate": "Wed, 01 Apr 2026 03:57:41 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/aVTNaPfI3_1200x630__1.jpg"
-    },
-    {
-      "id": "dcd59c58f9a48507ba33",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este miércoles 1 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-miercoles-1-abril-2026_0_gR3gJ0Jlqr.html",
-      "pubDate": "Wed, 01 Apr 2026 03:57:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/ceMHVSe3W_1200x630__1.jpg"
-    },
-    {
-      "id": "7e01b3e06f0226dfb9eb",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este miércoles 1 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-miercoles-1-abril-2026_0_cgCXMFMeVm.html",
-      "pubDate": "Wed, 01 Apr 2026 03:57:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/owb6L8N_q_1200x630__1.jpg"
-    },
-    {
-      "id": "af2652759f9827071e17",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este miércoles 1 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-miercoles-1-abril-2026_0_VhdGXQEJLL.html",
-      "pubDate": "Wed, 01 Apr 2026 03:57:16 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg"
-    },
-    {
-      "id": "eccf220d24f3ef650f41",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este miércoles 1 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-miercoles-1-abril-2026_0_m3bBshY8QJ.html",
-      "pubDate": "Wed, 01 Apr 2026 03:56:52 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/Hm-nGLi3-_1200x630__1.jpg"
-    },
-    {
-      "id": "328e9b83737dfecb7e5d",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este miércoles 1 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-miercoles-1-abril-2026_0_6ykcBrG89t.html",
-      "pubDate": "Wed, 01 Apr 2026 03:56:52 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg"
-    },
-    {
-      "id": "0a717bf14694680a00a1",
-      "title": "The Telegraph: Trump subestimó a Irán y ahora busca maneras de terminar la guerra",
-      "summary": "\"Para los iraníes, cuanto más dure esta guerra, mejor. Así podrán salir del conflicto con más exigencias\", afirmó una fuente al medio.",
-      "link": "https://actualidad.rt.com/actualidad/596486-casa-blanca-panico-aventura-trump-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 01 Apr 2026 03:55:25 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69cc8e4d59bf5b150016dbc8.jpg"
-    },
-    {
-      "id": "f15691905161551b2173",
-      "title": "Kiev: Misil iraní cae cerca de la Embajada de Ucrania en Israel",
-      "summary": "Los fragmentos fueron detectados a unos 30 metros de la sede diplomática.",
-      "link": "https://actualidad.rt.com/actualidad/596466-misil-irani-caer-cerca-embajada-ucrania-israel?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 01 Apr 2026 03:55:09 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69cc939de9ff71484918fc63.jpg"
-    },
-    {
-      "id": "0654f803ed82fe01c852",
-      "title": "Reportan que EE.UU. quiere transferir la gestión del estrecho de Ormuz bajo control internacional",
-      "summary": "The Daily Telegraph reporta que el secretario de Estado de EE. UU., Marco Rubio, presentó la iniciativa y subrayó que la navegación por el estrecho de Ormuz debe ser libre y realizarse sin cobros.",
-      "link": "https://actualidad.rt.com/actualidad/596323-eeuu-propone-transferir-gestion-estrecho?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 01 Apr 2026 03:54:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.03/thumbnail/69cb9423e9ff715f4816c236.jpg"
-    },
-    {
-      "id": "e7225a19b33b9c393b33",
-      "title": "El primer comentario de Trump sobre el fetiche secreto del esposo de la exjefa de Seguridad Nacional",
-      "summary": "El escándalo estalló tras la publicación del Daily Mail, que destapó la 'doble vida' de Bryon Noem.",
-      "link": "https://actualidad.rt.com/actualidad/596490-primer-comentario-trump-fetiche-secreto-bryon-noem?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 01 Apr 2026 03:51:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69cc6dc6e9ff715fb655d1ec.jpg"
-    },
-    {
-      "id": "946da59178ed6a0f7554",
-      "title": "El Roto: una semana de bondad",
-      "summary": "",
-      "link": "https://elpais.com/opinion/2026-04-01/el-roto-una-semana-de-bondad.html",
-      "pubDate": "Wed, 01 Apr 2026 03:45:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/77XTRP3CNFBXHMAXRKGOZVYFDM.jpg?auth=d4709c7d09c0fec22a42a2d238d17cf558d27b12e4eed4c7f893d178257683e6"
-    },
-    {
-      "id": "ef1f227f57f0f28f1ba1",
-      "title": "La demoledora portada de Gazzetta tras quedarse sin su tercer Mundial seguido",
-      "summary": "Así vienen los periódicos deportivos de este miércoles 1 de abril de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/04/01/portadas-dia.html",
-      "pubDate": "Wed, 01 Apr 2026 03:42:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc779607461.jpeg"
-    },
-    {
-      "id": "298af8dde95ae4f2fc17",
-      "title": "Messi parte y reparte en la fiesta argentina",
-      "summary": "Leo Messi celebrando un gol",
-      "link": "https://www.marca.com/futbol/mundial/cronica/2026/04/01/messi-sigue-siendo-director-orquesta.html",
-      "pubDate": "Wed, 01 Apr 2026 03:34:02 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc6972b81dc.jpeg"
-    },
-    {
       "id": "1ed17c5a040c01d99893",
       "title": "Harry Potter temporada 2 ya tiene guion, pero con malas noticias",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com HBO Max no está perdiendo el tiempo en lo que respecta a la producción de las futuras temporadas de Harry Potter. Aunque todavía faltan meses para que la esperada serie se estrene este fin de semana, la cadena ya está trabajando en los guiones de la segunda temporada. La primera temporada no debutará sino hasta esta Navidad. En declaraciones a The London Times , el jefe de HBO, Casey Bloys , señaló que el objetivo es no tener grandes brechas entre temporadas, aunque también reconoció que no será un programa de emisión anual. Dicho esto, el hecho de que ya estén en proceso de escribir los guiones es una buena señal de que HBO está comprometida a entregar nuevas temporadas de manera oportuna. La carrera contra el tiempo y el crecimiento del elenco de Harry Potter “Nuestro objetivo es no tener una brecha enorme, ya sabes, especialmente porque los niños están creciendo”, dijo Bloys. “No va a ser anual; el espectáculo es demasiado grande y masivo. Pero&#8230; ya están escribiendo la segunda temporada ahora mismo”. logo Harry Potter Si bien la edad de los actores puede ser el factor principal detrás de la rapidez del proceso de producción, un subproducto bienvenido es el hecho de que los espectadores no tendrán que esperar años entre temporadas. HBO ha hecho un esfuerzo concertado para entregar sus programas principales anualmente. Desde el galardonado drama médico The Pitt hasta la aclamada por la crítica A Knight of the Seven Kingdoms , HBO está desafiando la tendencia de la industria e intentando entregar nuevos episodios cada año. Aunque Bloys admitió que Harry Potter es demasiado masiva para lanzarse anualmente, es reconfortante saber que los fans, con suerte, no tendrán que esperar dos o tres años entre temporadas. Un reparto renovado para una nueva generación en Harry Potter Basada en la serie de libros de J.K. Rowling , la adaptación televisiva revisitará la historia de Harry con una profundidad y detal",
@@ -826,26 +1029,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/harry-hbo.jpg"
-    },
-    {
-      "id": "49aa1b56ae9f2b61ad8d",
-      "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozaban desde 2018",
-      "summary": "Protesta de venezolanos en Madrid en 2024.",
-      "link": "https://elpais.com/espana/2026-04-01/espana-cerrara-a-los-venezolanos-la-via-expres-de-regularizacion-de-la-que-gozaban-desde-2018.html",
-      "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/SAMFZC4HNBEUBBOSV53OVU63VE.JPG?auth=7b62838acb5ca0f1b3e2330e70297e7c67328e76e7a0bfa55c1d82b0c76cfec5"
-    },
-    {
-      "id": "d48720826af0584275b7",
-      "title": "Berlín se rearma, y sus vecinos sopesan los riesgos y ventajas de la nueva hegemonía alemana",
-      "summary": "El canciller alemán, Friedrich Merz, posa junto a soldados del Batallón de la Guardia del ejército (Bundeswehr), en un acto en Berlín, el 23 de marzo.",
-      "link": "https://elpais.com/internacional/2026-04-01/berlin-se-rearma-y-sus-vecinos-sopesan-los-riesgos-y-ventajas-de-la-nueva-hegemonia-alemana.html",
-      "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/AYZYFY42BVMIDPKVD5RIYII6XI.jpg?auth=6520efd86e02550deb0af007589fdc4cbbaa4cf3a1d32047d01ef9d9fd36fe7d"
     },
     {
       "id": "04bb5a1d7025e1e611eb",
@@ -868,19 +1051,29 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Z54W4ANHVFNZXFYJB3UW7M25QA.jpg?auth=3a60086e4363521bf367ac1a90ac51674a6bf754a69ea755356f2348e36654b1"
     },
     {
-      "id": "a2cf5a26e10e8a88659c",
-      "title": "La secuela de ‘A sangre y fuego’: ve la luz una nueva colección de relatos atribuidos a Chaves Nogales",
-      "summary": "Ilustración que acompañaba al relato 'Un excelente verdugo', en el periódico 'Madrid'.",
-      "link": "https://elpais.com/cultura/2026-04-01/la-secuela-de-a-sangre-y-fuego-ve-la-luz-una-nueva-coleccion-de-relatos-atribuidos-a-chaves-nogales.html",
+      "id": "d48720826af0584275b7",
+      "title": "Berlín se rearma, y sus vecinos sopesan los riesgos y ventajas de la nueva hegemonía alemana",
+      "summary": "El canciller alemán, Friedrich Merz, posa junto a soldados del Batallón de la Guardia del ejército (Bundeswehr), en un acto en Berlín, el 23 de marzo.",
+      "link": "https://elpais.com/internacional/2026-04-01/berlin-se-rearma-y-sus-vecinos-sopesan-los-riesgos-y-ventajas-de-la-nueva-hegemonia-alemana.html",
       "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/A3BJYQBB3FGC5NMPO5JNI776EU.jpg?auth=084d925f542246d5c3d79c77d9bdf6848d01a6a9cce834be18038a80cf485e67"
+      "image": "https://imagenes.elpais.com/resizer/v2/AYZYFY42BVMIDPKVD5RIYII6XI.jpg?auth=6520efd86e02550deb0af007589fdc4cbbaa4cf3a1d32047d01ef9d9fd36fe7d"
+    },
+    {
+      "id": "49aa1b56ae9f2b61ad8d",
+      "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozaban desde 2018",
+      "summary": "Protesta de venezolanos en Madrid en 2024.",
+      "link": "https://elpais.com/espana/2026-04-01/espana-cerrara-a-los-venezolanos-la-via-expres-de-regularizacion-de-la-que-gozaban-desde-2018.html",
+      "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/SAMFZC4HNBEUBBOSV53OVU63VE.JPG?auth=7b62838acb5ca0f1b3e2330e70297e7c67328e76e7a0bfa55c1d82b0c76cfec5"
     },
     {
       "id": "1dd65f1cccfacbc90b6d",
       "title": "El difícil equilibrio de María Corina Machado en el Washington de Trump",
-      "summary": "María Corina Machado llega a la sede del Departamento de Estado, en Washington, este martes.",
+      "summary": "La líder opositora de Venezuela María Corina Machado llega a la sede del Departamento de Estado este martes, en Washington",
       "link": "https://elpais.com/america/2026-04-01/el-dificil-equilibrio-de-maria-corina-machado-en-el-washington-de-trump.html",
       "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
@@ -906,6 +1099,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/ZHWIB5YZ2RGJXLCNZWPPBABTMU.jpg?auth=0173289d66fa7a8e8286976bf53f5868a0ca4217d77a62ed5390f1ef04d44156"
+    },
+    {
+      "id": "a2cf5a26e10e8a88659c",
+      "title": "La secuela de ‘A sangre y fuego’: ve la luz una nueva colección de relatos atribuidos a Chaves Nogales",
+      "summary": "Ilustración que acompañaba al relato 'Un excelente verdugo', en el periódico 'Madrid'.",
+      "link": "https://elpais.com/cultura/2026-04-01/la-secuela-de-a-sangre-y-fuego-ve-la-luz-una-nueva-coleccion-de-relatos-atribuidos-a-chaves-nogales.html",
+      "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/A3BJYQBB3FGC5NMPO5JNI776EU.jpg?auth=084d925f542246d5c3d79c77d9bdf6848d01a6a9cce834be18038a80cf485e67"
     },
     {
       "id": "92e740be2461813d6b1c",
@@ -936,16 +1139,6 @@
       "source": "El Pais",
       "cat": "sports",
       "image": "https://imagenes.elpais.com/resizer/v2/PF44YTSJBZHXHIYOMZLIRLIHFE.jpg?auth=33f7f591dd42e54d8d61cba01c9f6a0f55c230acd48f0aeb2253d7982a527652"
-    },
-    {
-      "id": "2240892ea352e105b0f9",
-      "title": "Un cúmulo de errores de Trump en Irán",
-      "summary": "El presidente de Estados Unidos, Donald Trump, y su secretario de Defensa, Pete Hegseth, en una reunión del Consejo de Ministros en la Casa Blanca, el pasado jueves.",
-      "link": "https://elpais.com/internacional/2026-04-01/un-cumulo-de-errores-de-trump-en-iran.html",
-      "pubDate": "Wed, 01 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/USDPQW75FZMRDF2FQBGGGPNLXA.jpg?auth=032894150d84e681dac12068c19167531d5b7a822c2f7795cec4bde5c5bc324c"
     },
     {
       "id": "bf6465616f5d63575166",
@@ -986,7 +1179,7 @@
       "pubDate": "Wed, 01 Apr 2026 03:30:00 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OWJYXN7SQJFTFKSXID6UYKSGKY.webp?auth=125d0bf9a9053c8ca0aa5f4dfa4deb03689989c617d0c8c62a110ee0e1fa2d74"
+      "image": "https://imagenes.elpais.com/resizer/v2/A6D7E422HBGE3DEYQETQ26XZOM.jpg?auth=c0fbce16a2c7149510f60766a0289404d1a83de548842c21a0e6d0f1c3bbe6e3"
     },
     {
       "id": "4774ef82631df4c87dc9",
@@ -1007,16 +1200,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/2K6UDUY5SVDBNAZRYCJQP5EZSI.jpg?auth=a1e4432116fc549632acc96f0d051f87e3f3ed9fd21e5361e6ae03bf7c4b22d3"
-    },
-    {
-      "id": "e96dca065cb7444d4a3f",
-      "title": "¿Qué hacer si tienes miedo a volar? Cinco consejos respaldados por especialistas",
-      "summary": "El temor a volar forma parte de la respuesta natural de alerta del ser humano, pero se vuelve problemático cuando domina el pensamiento.",
-      "link": "https://elpais.com/elviajero/guia-el-viajero/2026-04-01/que-hacer-si-tienes-miedo-a-volar-cinco-consejos-respaldados-por-especialistas.html",
-      "pubDate": "Wed, 01 Apr 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VNDS6YWQOJFHRFRQH75GSTNPAU.gif?auth=958282b62e2236af7d6e3384ca68a49f0981bbd010a7964ebeea689686789799"
     },
     {
       "id": "c31e07c61cb603c85790",
@@ -1059,16 +1242,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/daredevil-ucm.jpg"
     },
     {
-      "id": "99ec3c46925c05cd3566",
-      "title": "Con ese talento se puede soñar con todo",
-      "summary": "Trincao se abraza a Bruno Fernandes",
-      "link": "https://www.marca.com/futbol/cronica/2026/04/01/portugal-sigue-suyo-espera-cristiano.html",
-      "pubDate": "Wed, 01 Apr 2026 03:14:55 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc6a2c35a87.jpeg"
-    },
-    {
       "id": "4eec8d3dfc4eaa3fe7ec",
       "title": "Tras Doomsday, Anne Hathaway podría ser uno de estos personajes del UCM",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Recientemente supimos que Jumanji 3 (o 4, dependiendo de cómo se cuenten las películas) dejó vacante su fecha de estreno del 11 de diciembre para trasladarse al día de Navidad. Esto ha abierto la puerta a que Avengers: Doomsday adelante su estreno una semana, no porque necesite retroceder ante Dune: Part Three , sino porque obtendría una semana de exclusividad en pantallas IMAX que, de otro modo, estarían fuera de su alcance. Con la tercera entrega de Dune lista para dominar esas salas durante las fiestas, no hay desventaja en cambiar la fecha de estreno de Doomsday . Según John Campea , sus fuentes en «relaciones con exhibidores» confirman que se han producido discusiones, aunque no oficiales, sobre este movimiento. El objetivo es claro: asegurar el formato IMAX, ya que, por ahora, el conflicto de fechas se lo impide. En otras noticias, se ha revelado que Marvel Studios está buscando un actor para un personaje con el nombre en clave «Junior» para la temporada 3 de Daredevil: Born Again . Se describe como un adolescente latino o afrodescendiente que trabaja con su padre en un barco de pesca y habla inglés junto con español, portugués o criollo haitiano. Por otro lado, un rumor de MyTimeToShineH afirma que Luke Cage ha estado trabajando para la CIA desde que lo vimos por última vez en Netflix. Dune 3 y Dooomsday quizás ya no compartirán fecha de estreno El enigma de Anne Hathaway: ¿Un papel estelar en Marvel tras Doomsday? Uno de los rumores más impactantes es el interés de Marvel Studios en Anne Hathaway . Tras haber rechazado supuestamente un papel en Spider-Man: Brand New Day , la estrella de The Dark Knight Rises estaría en conversaciones para un papel «importante» en la próxima saga del UCM. Dado que el estudio se prepara para transicionar de la Saga del Multiverso a la Saga Mutante, las posibilidades para una actriz de su calibre son infinitas. Hathaway ha demostrado una versatilidad asombrosa, capaz",
@@ -1089,96 +1262,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Trailer-de-Euphoria-temporada-3-de-HBO-Max.jpg"
     },
     {
-      "id": "ab74f2ce618c7506bd42",
-      "title": "Congo se queda con el penúltimo billete mundialista",
-      "summary": "Los jugadores de la RD Congo celebran el pase al Mundial 2026",
-      "link": "https://www.marca.com/futbol/mundial/2026/04/01/rd-baila-conga-vuelve-mundial-52-anos-despues.html",
-      "pubDate": "Wed, 01 Apr 2026 01:58:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc5f3e74a62.jpeg"
-    },
-    {
-      "id": "7e53e57181f518c73a8a",
-      "title": "Tiger Woods volverá a someterse a tratamiento: \"Comprendo la gravedad...\"",
-      "summary": "Tiger Woods, en su primera victoria en el Masters de 1997",
-      "link": "https://www.marca.com/golf/2026/04/01/tiger-woods-volvera-someterse-tratamiento-estara-masters.html",
-      "pubDate": "Wed, 01 Apr 2026 01:52:19 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc5e019c104.jpeg"
-    },
-    {
-      "id": "d44a28f2b5b10302ada5",
-      "title": "Ya tenemos todos los grupos del Mundial",
-      "summary": "Los grupos del Mundial.",
-      "link": "https://www.marca.com/futbol/mundial/2026/04/01/estan-12-grupos-completos-mundial-falta-irak-bolivia.html",
-      "pubDate": "Wed, 01 Apr 2026 01:46:13 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc55d725080.jpeg"
-    },
-    {
-      "id": "262958c28c38da6938d9",
-      "title": "Locura absoluta en las calles de Bosnia por su clasificación para el Mundial",
-      "summary": "Los fans bosnios se volvieron locos con el pase de su combinado al Mundial",
-      "link": "https://www.marca.com/futbol/mundial/2026/04/01/locura-absoluta-calles-bosnia-clasificacion-mundial-video.html",
-      "pubDate": "Wed, 01 Apr 2026 01:39:38 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/.jpeg"
-    },
-    {
-      "id": "cf5e13160559a1e2a202",
-      "title": "Los jugadores y Louzán se oponen frontalmente al racismo vivido en las gradas del RCDE Stadium",
-      "summary": "Rafael Louzán, Pedri, Grimaldo y Joan García condenaron en zona mixta los cánticos racistas durante el España - Egipto",
-      "link": "https://www.marca.com/futbol/seleccion/2026/04/01/jugadores-louzan-oponen-frontalmente-racismo-vivido-gradas-rcde-stadium-video.html",
-      "pubDate": "Wed, 01 Apr 2026 01:35:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aRCO41fp5f0WcJ6e3.jpeg"
-    },
-    {
-      "id": "f891c0622db2f734171f",
-      "title": "La pregunta de un periodista que hizo enfadar a Luis de la Fuente: \"qué nivel Maribel\"",
-      "summary": "El seleccionador español recibió una pregunta comprometida que provocó su enfado y no fuera respondida",
-      "link": "https://www.marca.com/futbol/seleccion/2026/04/01/pregunta-periodista-hizo-enfadar-luis-fuente-nivel-maribel-video.html",
-      "pubDate": "Wed, 01 Apr 2026 00:53:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/u1fp4ucTHPCQl.jpeg"
-    },
-    {
-      "id": "3ac7a51224beef44f3a7",
-      "title": "\"Tiempo de decir adiós\"",
-      "summary": "Lewandowski, decepcionado tras la derrota ante Suecia",
-      "link": "https://www.marca.com/futbol/2026/04/01/lewandowski-deja-caer-adios-polonia.html",
-      "pubDate": "Wed, 01 Apr 2026 00:38:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cc4cf669449.jpeg"
-    },
-    {
-      "id": "f1b796925ec20169b05a",
-      "title": "Bosnia 1 (4) - 1 (1) Italia | Resumen clasificación Mundial",
-      "summary": "Bosnia entierra a Italia y vuela hacia el Mundial tras una noche épica",
-      "link": "https://www.marca.com/futbol/mundial/2026/04/01/bosnia-1-4-1-1-italia-resumen-clasificacion-mundial-video.html",
-      "pubDate": "Wed, 01 Apr 2026 00:08:08 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/aR8Z21fp4MJssb0yD.jpeg"
-    },
-    {
-      "id": "762b7d3cb233e99c6c06",
-      "title": "\"Es intolerable\"",
-      "summary": "De la Fuente, durante el partido ante Egipto.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/31/fuente-rechazo-absoluto-violentos-estan-futbol-aprovechan-futbol.html",
-      "pubDate": "Tue, 31 Mar 2026 23:49:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc398d2aa4c.jpeg"
-    },
-    {
       "id": "3c9693e41db163ce7af9",
       "title": "Qué significa que el gobierno de México se sume a la demanda contra ICE por muertes en un centro de detención de EE.UU.",
       "summary": "El anuncio ocurre después de la muerte de José Guadalupe Ramos-Solano, de 52 años y originario de Guanajuato, quien se encontraba detenido en el centro de procesamiento de Adelanto, en California. Su caso eleva a 14 el saldo de mexicanos fallecidos en el contexto de la ofensiva migratoria del segundo mandato de Trump.",
@@ -1189,16 +1272,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cf4/live/b087efe0-2d6d-11f1-91e5-c5ad5c57489a.jpg"
     },
     {
-      "id": "58c104519d67b8d74a75",
-      "title": "Italia, el mayor drama del fútbol Mundial",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/mundial/cronica/2026/03/31/bosnia-entierra-italia-vuela-mundial-noche-epica.html",
-      "pubDate": "Tue, 31 Mar 2026 23:41:49 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc43d9277b4.jpeg"
-    },
-    {
       "id": "86b043d227898c50bc90",
       "title": "Lilia Lemoine al frente de Juicio Político: Karina eligió a su vocera más aguerrida para blindar a Milei",
       "summary": "La diputada libertaria quedó al frente de la sensible comisión. Integra el círculo de confianza de los hermanos Milei. Hay media docena de pedidos de juicio político contra el mandatario, del caso $LIBRA a la guerra en Irán. Los antecedentes son de p blico conocimiento , sintetiz , escueto, el jefe de bloque oficialista, Gabriel Bornoroni , cuando le toc proponer a Lilia Lemoine como la presidenta de Juicio Pol tico. La diputada no se lo recrimin , a pesar de que las defensas del resto de las autoridades libertarias hab an sido m s vehementes, sino que celebr haber sido votada por la mayor a de la comisi n y subi rauda a tomar su lugar en la presidencia. Agradeci la responsabilidad y dio por finalizada, en menos de media hora, la nica reuni n que espera que tenga la comisi n de Juicio Pol tico en la gesti n de Javier Milei . Karina Milei eligi a su lanzallamas preferido para blindar a su hermano en la comisi n que se encarga de impulsar el proceso de enjuiciamiento contra el presidente, sus ministros y los jueces de la Corte Suprema. Lemoine es amiga personal de Karina, de quien supo ser cu ada tambi n en 2020, cuando la ex cosplayer todav a estaba en pareja con Milei. Desde entonces, la diputada libertaria integra el c rculo ntimo de los hermanos y es una de las pocas personas que goza, junto a los Menem, de la confianza de Karina. Lilia Lemoine fue designada como presidenta de la comisión y Sebastián Pareja como secretario primero Aunque Karina no siempre puede controlarla , como admiten cerca suyo, Lemoine es la vocera m s aguerrida de la gesti n libertaria . Ya sea para cazar traidores en nombre de Karina o para defender a los dirigentes y funcionarios ca dos en desgracia que ya nadie en La Libertad Avanza quiere sostener. Sucedi , al principio, con Jos Luis Espert cuando se conoci su relaci n con Fred Machado. Y sucede, ahora, con Manuel Adorni . Operativo blindaje La designaci n de Lemoine al frente de la comisi n de Juicio Pol tico tuvo como objetivo subsanar",
@@ -1207,26 +1280,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/4e072ec0-318f-4415-8849-86972d3b1b1f_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "12d359a00e4f6fe3dbba",
-      "title": "España 0-0 Egipto | Resumen amistoso",
-      "summary": "España no pasa del empate ante Egipto y pierde el primer puesto en el ranking FIFA",
-      "link": "https://www.marca.com/futbol/seleccion/2026/03/31/espana-0-0-egipto-resumen-amistos-video.html",
-      "pubDate": "Tue, 31 Mar 2026 23:38:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/aR6fG1fp3vTkUEEAm.jpeg"
-    },
-    {
-      "id": "be441348fa59f99bd107",
-      "title": "La República Checa, por penaltis al Mundial 20 años después",
-      "summary": "Krejci dio la victoria a la República Checa ante Dinamarca.",
-      "link": "https://www.marca.com/futbol/mundial/cronica/2026/03/31/chequia-mundial-20-anos-despues.html",
-      "pubDate": "Tue, 31 Mar 2026 23:29:12 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cc36f740376.jpeg"
     },
     {
       "id": "3f5d720f4747589a8e85",
@@ -1266,7 +1319,7 @@
       "pubDate": "Tue, 31 Mar 2026 22:04:41 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/KUZNBK6YFZMSLEE23CV46NMZ6A.jpg?auth=ca3b3447ab30118f274d3658b8ea70228faed9d9975e9a8e9aa0a9cbed215f44"
+      "image": "https://imagenes.elpais.com/resizer/v2/PGEJMM7YCFFH3LTYDA3EWH2DBI.jpg?auth=b38aaa569d5a4dc3c236df6cdb9404ed126ac710b423b3862b8af900020892f7"
     },
     {
       "id": "92e09c6f420d4add9801",
@@ -1297,16 +1350,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Pixel-11-Pro-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "875ea23eb967e665642b",
-      "title": "Una España en pruebas se atasca ante Egipto",
-      "summary": "Pedri, entre varios rivales en el partido de España contra Egipto.",
-      "link": "https://elpais.com/deportes/futbol/2026-03-31/una-espana-en-pruebas-se-atasca-con-egipto.html",
-      "pubDate": "Tue, 31 Mar 2026 21:24:27 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/6KI3OUJG7NFQ3AKDLR3JI7IEZU.JPG?auth=90a8c3ab4bf0a5f93aac92e332abbc2dcf0c2754a0b7c92703acc2c76af59e9a"
     },
     {
       "id": "aee830af0e9772c02dda",
@@ -1367,7 +1410,7 @@
       "pubDate": "Tue, 31 Mar 2026 19:44:13 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/CPNTUJCPCRD23ILBIPVBP6HDZI.JPG?auth=a33f4a4a5a61cf185856a0510108631196cf808864626e58a997f5e9b1bc4e69"
+      "image": "https://imagenes.elpais.com/resizer/v2/I5THADHJSRFLTDP4NKKSUTZ2IU.JPG?auth=414820879bde1642f2df1338d5f7af993b9aebc60891491b09346f83f74cb8f3"
     },
     {
       "id": "7e17f9ab458a8bb8ea07",
@@ -1710,16 +1753,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Masters-del-Universo-trailer.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "f0392aaa73fad30b5661",
-      "title": "‘Avatar: La Leyenda de Aang’ anuncia su fecha de estreno de la temporada 2 en Netflix y pone fin a la espera",
-      "summary": "La serie live-action de Avatar: La Leyenda de Aang ya está muy cerca de volver a Netflix con la fecha de estreno de su temporada 2. El título, remake de la clásica serie de dibujos animados de Nickelodeon , sorprendió al mundo con una adaptación bastante fiel al material de partida en su primera entrega. Estrenada a principios de 2024, sin embargo, la compañía ha tardado más de dos años en anunciar su esperado regreso. Ahora, por fin, la plataforma de streaming ha revelado la fecha de estreno de Avatar: La Leyenda de Aang temporada 2, que llegará a Netflix el 25 de junio. Será entonces cuando los fans puedan volver a disfrutar al fin del viaje del joven Aang junto a Katara y Sokka en busca de la paz mundial que la Nación del Fuego ha puesto en jaque. Además, tal y como sucedía en la serie original, esta vez no estarán solos. Uno de los grandes añadidos de la temporada 2 de Avatar: La Leyenda de Aang es el fichaje de Toph . Esta niña ciega es una maestra de la tierra y le tendrá que enseñar al Avatar a dominar este elemento si quiere seguir perfeccionando sus poderes. Y es que solo con un control total de los 4 elementos podrá hacer frente al malvado Señor del Fuego Ozai , el tirano que ansía gobernar al resto de naciones. Qué sabemos de la temporada 2 de Avatar: La Leyenda de Aang Avatar: La Leyenda de Aang se convirtió con su estreno en 2024 en una de las series más vistas de la historia de Netflix . El gran fandom que arrastra la serie original hizo que millones de espectadores en todo el mundo emprendieran el nuevo viaje en live-action. Tal fue su éxito que la compañía no tardó en anunciar la temporada 2. Pero es que, además, esa confirmación vino acompañada de la luz verde para la temporada 3 . De esta forma, con las temporadas 2 y 3 en marcha, Netflix se aseguraba de poder adaptar la historia de Avatar: La Leyenda de Aang al completo. De hecho, para que la diferencia de edad de los niños protagonistas no fuese demasiado exagerada (aunque ya se nota el salto res",
-      "link": "https://hipertextual.com/cine-television/avatar-la-leyenda-de-aang-anuncia-su-fecha-de-estreno-de-la-temporada-2-en-netflix-y-pone-fin-a-la-espera/",
-      "pubDate": "Tue, 31 Mar 2026 13:04:41 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Avatar-Aang-temporada-2.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "id": "ec5d6accec3d662e12da",
@@ -2499,16 +2532,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/logo-star-trek-cine-series.jpg"
     },
     {
-      "id": "f310159afed990367690",
-      "title": "Bluetti Elite 200 V2: Energía inteligente para el hogar y la aventura",
-      "summary": "El mercado de las estaciones de energía portátiles, aún siendo un nicho clave para camping, se ha convertido en una necesidad creciente para muchos hogares. En un contexto donde la eficiencia energética y la independencia de la red eléctrica ganan peso, Bluetti ha sabido posicionarse con una gama de productos destacada. Con la llegada del Bluetti Elite 200 V2 , la marca no solo busca ofrecer una batería de gran capacidad, sino un centro de gestión energética inteligente que sea capaz de adaptarse tanto a un apagón inesperado como a una escapada en furgoneta camperizada. No es simplemente una «batería grande» , sino una evolución lógica que apuesta por una gran durabilidad y versatilidad. No estamos ante un equipo diseñado para alimentar una vivienda entera de forma permanente, pero sí ante una herramienta que, bien gestionada, puede cambiar la forma en la que consumimos electricidad en nuestro día a día, permitiéndonos optimizar costes y asegurar el funcionamiento de nuestros dispositivos más críticos. Embalaje del Bluetti Elite 200 V2 Especificaciones técnicas del Bluetti Elite 200 V2 Antes de entrar en detalle con nuestra experiencia, conviene repasar los números que definen a este equipo. El Bluetti Elite 200 V2 integra una batería LiFePO4 de 2.073,6 Wh con un inversor de onda sinusoidal pura de 2.600W de potencia continua , hasta 3.900W en modo Power Lifting para cargas resistivas y un pico de 5.200W , lo que permite alimentar dispositivos de alta demanda en momentos puntuales. Cuenta con 4 tomas de corriente alterna Schuko (230V) , 2 puertos USB-C PD de 100W ideales para portátiles, 2 puertos USB-A de 15W , un puerto de coche de 12V y carga inalámbrica integrada. En cuanto a la carga, admite hasta 1.000W de entrada solar y alcanza el 80% de batería en aproximadamente 50 minutos mediante carga rápida TurboBoost, con recarga completa en poco más de una hora. Todo esto en un equipo de 24,2 kg que ha reducido su volumen un 40% respecto a la generación anterior. Un ",
-      "link": "https://www.muycomputer.com/2026/03/30/bluetti-elite-200-v2-energia-inteligente/",
-      "pubDate": "Mon, 30 Mar 2026 09:47:41 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Bluetti-Elite200-V2-caja.jpg"
-    },
-    {
       "id": "233cb1fede9bf46e2097",
       "title": "150.000 SKUs, 10 mercados y un solo sistema: la estrategia de PromoFarma",
       "summary": "Gestionar un catálogo masivo en eCommerce no es solo cuestión de volumen, sino de eficiencia operativa, calidad de datos y capacidad de escalar sin fricción . En este contexto, PromoFarma, parte del grupo DocMorris, se enfrentaba a un reto claro: coordinar más de 150.000 SKUs en 10 mercados europeos y más de 45 canales digitales sin perder control ni agilidad. La solución llegó al replantear su modelo de gestión de feeds y apostar por una infraestructura capaz de centralizar, automatizar y optimizar datos de producto a gran escala . En este proceso, la compañía incorporó Channel Pilot Pro como plataforma central de gestión de datos de producto , lo que permitió unificar operaciones y ganar eficiencia en todos los mercados. Lee el case study completo Te podría interesar: Cómo Casa del Libro aumentó sus ventas con Channel Pilot Pro [Case Study] Centralizar datos para escalar en eCommerce internacional Uno de los principales problemas de PromoFarma era la fragmentación de datos y procesos entre mercados y canales , lo que generaba inconsistencias, dependencia técnica y un alto esfuerzo manual. Cada país, canal o campaña requería ajustes específicos, lo que ralentizaba la activación y limitaba la capacidad de escalar. Además, la falta de visibilidad sobre el rendimiento de los feeds dificultaba la toma de decisiones, mientras que el equipo de marketing dependía constantemente del equipo técnico para cambios operativos básicos. Este escenario es habitual en negocios con gran volumen de catálogo y expansión internacional . Para resolverlo, PromoFarma apostó por un modelo basado en un single source of truth o fuente única de datos . Con Channel Pilot Pro , la compañía pudo centralizar toda la información de producto y distribuirla de forma optimizada en todos los canales, mejorando la coherencia y reduciendo errores. La implementación de un motor unificado de datos de producto permitió automatizar procesos clave como la normalización, el enriquecimiento y la adaptación de ",
@@ -2570,16 +2593,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6697/live/903eb100-2ba2-11f1-b297-95b0a0a8331e.jpg"
     },
     {
-      "id": "52229bd334d3108c7350",
-      "title": "Microsoft retira la última actualización de Windows 11: no hay manera de evitar los errores",
-      "summary": "Microsoft ha retirado la última actualización de Windows 11 , la actualización de características no relacionadas con la seguridad etiquetada como KB5079391 y lanzada la semana pasada, tras los informes de usuarios sobre problemas importantes y errores de instalación. Según la documentación oficial de Microsoft , la compañía ha suspendido temporalmente el despliegue de esta actualización mientras investiga el error de instalación 0x80073712 . Publicada hace unos días, la actualización podría mostrar errores como «Faltan algunos archivos de actualización o presentan problemas. Intentaremos descargar la actualización de nuevo más tarde. Código de error: (0x80073712)» . Microsoft dice haber identificado el problema y compartirá más información en cuanto se solucione. Una vez aplicada la solución, Microsoft volverá a publicar la actualización, posiblemente con un número de paquete KB diferente, a través de las herramientas de instalación como Windows Update. Actualización de Windows 11: una pesadilla Los clientes de Windows nos ponemos a temblar cada vez que toca actualizar el sistema operativo de Microsoft. Han sido tantos y tan graves los errores que solo suplicamos porque los chicos de Redmond se estén quietecitos y no lancen más actualizaciones&#8230; Este mes, para variar, han llegado por partida doble. El martes de parches (la actualización de seguridad mensual) provocó errores en la conectividad de red y con ello fallos de acceso a aplicaciones de productividad y almacenamiento en nube que dependieran de acceso con inicio de sesión bajo ID de la misma Microsoft. Para no ser menos, la actualización de Windows relativa a características también ha fallado y la compañía la ha tenido que retirar. No hay manera&#8230; La pérdida de confianza es brutal y las promesas de soluciones no acaban de llegar. No hay semana que un nuevo fallo no se acumule a la larga lista de errores por solucionar . Hasta en Microsoft admiten que Windows 11 está roto . Una bola de nieve que se",
-      "link": "https://www.muycomputer.com/2026/03/30/microsoft-retira-la-ultima-actualizacion-de-windows-11-no-hay-manera-de-evitar-los-errores/",
-      "pubDate": "Mon, 30 Mar 2026 08:04:54 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": ""
-    },
-    {
       "id": "05bf35a956ae80fff44d",
       "title": "Spider-Man: Brand New Day despeja las dudas sobre el regreso de Norman Osborn y Oscorp",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Marvel ya ha soltado el primer adelanto de Spider-Man: Brand New Day , pero en lugar de dejarnos tranquilos, ha hecho justo lo contrario: abrir una caja de teorías bastante salvaje. Porque sí, ya sabemos que Peter Parker volverá a pasarlo mal, pero la gran pregunta sigue en el aire: ¿de verdad no hay rastro de Norman Osborn ni de Oscorp o simplemente están jugando al despiste? Con cada nueva pista, Spider-Man: Brand New Day va cogiendo forma como una película mucho más rara, más oscura y más importante de lo que parecía al principio. Y si ssigues pensando en lo que pasó en Spider-Man: No Way Home , ojo, porque aquí puede estar cocinándose algo bastante serio. Spider-Man: Brand New Day arranca una nueva etapa para Peter Parker Después del terremoto emocional que fue Spider-Man: No Way Home, estaba claro que Marvel Studios no podía volver con una aventura ligera de instituto, bromita y paseo por Nueva York. Y por lo que sabemos hasta ahora, Spider-Man: Brand New Day va justo por el camino contrario: Peter está solo, nadie recuerda quién es y ahora vive como un adulto que ya no tiene red de seguridad. Eso cambia por completo la dinámica del personaje. Ya no hablamos del chaval brillante al que de vez en cuando le caía una bronca de Doctor Strange o una llamada de Happy Hogan . Aquí hablamos de un Peter Parker completamente aislado, dedicado en cuerpo y alma a ser Spider-Man en una ciudad que ni siquiera sabe su nombre. Y eso, sinceramente, suena bastante potente. Marvel Studios Lo interesante es que esta nueva etapa parece querer construir una identidad más clásica del personaje. Más calle, más crimen urbano, más presión diaria y menos “evento multiversal cada quince minutos”. Por eso tiene bastante sentido que entre los nombres que suenan estén Tombstone, Tarántula, Escorpión y otras amenazas mucho más pegadas al ADN criminal de Nueva York. Pero claro, en cuanto Marvel abre esa puerta, la otra gran duda apa",
@@ -2628,16 +2641,6 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/5MADOGXGSZGDLNKC7P6G3HVCPQ.JPG?auth=f2125e76153fac5af89aa8b9010303614c22568e2cf596a7feda582e23bf4528"
-    },
-    {
-      "id": "6ef1cd5b7377a9492485",
-      "title": "Los creadores de Stranger Things triunfan con su nueva serie",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Puede que Stranger Things ya esté terminada, pero los hermanos Duffer no tenían ninguna intención de desaparecer en una nube de nostalgia ochentera. Su nuevo proyecto ya está dando que hablar en Netflix . La nueva serie ha aterrizado con fuerza, se ha colado entre lo más visto y demuestra que, cuando se trata de incomodar al espectador, todavía tienen gasolina para rato. La serie se llama Something Very Bad is Going to Happen (Algo terrible está a punto de suceder) , y con un título así no hace falta ser detective para intuir que aquí no venimos a una boda precisamente tranquila. Lo curioso es que, aunque el sello de los creadores de Stranger Things ha servido como gran reclamo, buena parte del mérito creativo recae en Haley Z. Boston , responsable de levantar una historia tan incómoda como hipnótica. Y sí, tiene esa vibra de “algo va mal desde el minuto uno” que funciona peligrosamente bien. La nueva apuesta tras Stranger Things no va de monstruos… pero casi da más miedo Después de años asociados a criaturas del Upside Down , bicicletas, luces parpadeantes y traumas adolescentes, era lógico pensar que los Duffer intentarían repetir fórmula. Pero no. Esta vez el terror no llega desde otra dimensión, sino desde algo bastante más cotidiano y, por eso mismo, bastante más turbio: una boda . La protagonista es Rachel, interpretada por Camila Morrone , una joven que debería estar viviendo una de las semanas más felices de su vida. Ya sabes, preparativos, nervios, flores, vestidos, gente sonriendo demasiado. El problema es que Rachel empieza a sentir que algo no encaja a medida que se acerca el gran día. Y esa sensación, lejos de quedarse en paranoia pasajera, va creciendo como una humedad rara en una casa antigua. Eso es justo lo que hace que la serie funcione tan bien. Something Very Bad is Going to Happen no necesita lanzarte un susto cada cinco minutos para atraparte. Prefiere cocinar la tensión a fuego lent",
-      "link": "https://www.cinemascomics.com/creadores-stranger-things-triunfan-serie/",
-      "pubDate": "Mon, 30 Mar 2026 02:04:33 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/Something-Very-Bad-Is-Going-to-Happen-Algo-terrible-esta-a-punto-de-suceder.jpg"
     },
     {
       "id": "d902f85ac09ce5aa984a",
@@ -2777,14 +2780,8 @@
       {
         "name": "Llama",
         "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
-      },
-      {
-        "name": "Sora",
-        "type": "Video AI",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Muy mencionado",
+        "cls": "rb-blue"
       },
       {
         "name": "ChatGPT",
@@ -2795,8 +2792,14 @@
       {
         "name": "Gemini",
         "type": "Modelo",
-        "badge": "Alta atención",
-        "cls": "rb-orange"
+        "badge": "En foco",
+        "cls": "rb-accent"
+      },
+      {
+        "name": "Sora",
+        "type": "Video AI",
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "Claude",
@@ -2807,5 +2810,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-01T07:12:53.350825+00:00"
+  "updated": "2026-04-01T08:57:05.710237+00:00"
 }
