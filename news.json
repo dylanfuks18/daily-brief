@@ -31,17 +31,6 @@
       "image": "https://static.eldiario.es/clip/45835c4a-7e1c-4c48-9eb7-49b7b2f88301_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "14a2a857bdbb8ef6a4ed",
-      "title": "No solo los móviles: Raspberry Pi también sube sus precios por culpa de la RAM",
-      "summary": "Si tienes pensado comprar una Raspberry Pi , prepárate porque acaba de ponerse bastante más cara . La empresa británica ha anunciado su tercera ronda de subidas de precios desde diciembre, y esta vez los incrementos son los más duros hasta la fecha. Uno de los más evidentes es el Pis 500+, el modelo de gama alta que registró una subida de 130 euros tanto en la unidad base como en la versión kit. De acuerdo con The Verge , Raspberry Pi ha anunciado un alza de precios en casi todos sus modelo s. La causa es la misma de siempre: la memoria LPDDR4 no para de subir porque los fabricantes de chips prefieren producir memoria para centros de datos de inteligencia artificial. En esta ocasión, el golpe afecta tanto a dispositivos como a componentes y el aumento de precio va desde los 9 euros por un módulo de 1 GB hasta los 130 euros por la Raspberry Pi 500+ . Para no llegar con las manos vacías, la empresa ha presentado también un Raspberry Pi 4 con 3 GB de RAM a 83,75 dólares (unos 72,3 euros). Es una variante nueva que intenta cubrir el hueco entre los modelos de 2 y 4 GB, por si alguien necesita un poco más de margen sin tener que pagar por una configuración superior. Raspberry Pi comenzó a subir sus precios desde diciembre Si bien muchas empresas anticipaban una subida de precios en sus productos de 2026 debido a la crisis de memoria, Raspberry Pi comenzó mucho antes . En diciembre de 2025, la compañía anunció incrementos de entre 5 y 25 dólares (dependiendo del modelo) y lanzó el Pi 5 de 1 GB como el punto de entrada más asequible al ecosistema. La empresa prometió que era una medida temporal que revertiría una vez que el mercado volviera a la normalidad , pero eso nunca ocurrió. Con los precios de la memoria en aumento, Raspberry Pi anunció un nuevo subidón en febrero de 2026. En esta ocasión, el coste de algunos componentes se había más que duplicado y el Pi 5 de 16 GB que se lanzó en 2023 a 120 dólares, subió a 205. La buena noticia es que existen algunos modelos que ",
-      "link": "https://hipertextual.com/tecnologia/raspberry-pi-sube-precios-ram-2026/",
-      "pubDate": "Wed, 01 Apr 2026 19:30:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/raspberry-pi.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
-    },
-    {
       "id": "97b44f709b6bdebe083c",
       "title": "\"Hoy vuelve a casa\": encuentran restos de Marco Antonio, hijo de la presidenta de Madres Buscadoras de Sonora y de México, Ceci Flores",
       "summary": "Hace casi 7 años desapareció el hijo de Flores y eso la impulsó a fundar el colectivo Madres Buscadoras de Sonora.",
@@ -102,26 +91,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3ee/live/b2205bd0-2dbd-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "id": "5fcff0b56d0d9933f092",
-      "title": "La guerra entre piratas y desarrolladoras de juegos se recrudece, y ya sabemos quién va ganando la partida",
-      "summary": "La piratería de videojuegos no es algo nuevo, pero con el paso del tiempo se ha vuelto cada vez más sofisticada y compleja . Los más veteranos recordaréis los códigos de seguridad, las claves de identificación y clásicos inolvidables como el «Dial-A-Pirate de Monkey Island, sistemas de verificación que tuvieron su lugar hace décadas, y que acabaron quedando totalmente obsoletos. Hoy la guerra entre piratas y desarrolladoras de videojuegos juega a otro nivel. La utilización de sistemas de protección avanzados, como Denuvo , que es sin duda el más popular y el más utilizado, ha llevado esa guerra al corazón de los juegos, y de nuestro sistema operativo, por esos sistemas de protección se integran como un elemento más de los propios juegos. Los crackers llevan tiempo desarrollando y utilizando sistemas avanzados de virtualización que son capaces de superar esas medidas de protección, pero al mismo tiempo pueden suponer un mayor riesgo de seguridad para los piratas, sobre todo cuando requieren acceso a puntos vitales de nuestro equipo, y de nuestro sistema operativo. Por qué se ha vuelto más peligrosa la piratería de juegos Originalmente, los crackers tenían que utilizar un proceso de ingeniería inversa en Denuvo para poder crear un parche con el que romper la seguridad del mismo. Esto requería mucho trabajo, y podía requerir varios meses de desarrollo. Al recurrir al modelo basado en « hipervisor «, esto cambia por completo, todo el proceso se simplifica, pero también resulta más peligroso. Ya no se realiza un proceso de intervención directa en el juego instalando un parche, como ocurría anteriormente. Lo que se hace ahora es crear un sistema que puede operar por debajo del nivel de visibilidad estándar que tiene la capa de seguridad principal del sistema operativo, conocida como anillo 1. En este nivel, con las funciones de seguridad más importantes desactivadas, el modelo de virtualización cuenta con las técnicas de elusión necesarias para poder interceptar las instr",
-      "link": "https://www.muycomputer.com/2026/04/01/la-guerra-entre-piratas-y-desarrolladoras-de-juegos-se-recrudece-y-ya-sabemos-quien-va-ganando-la-partida/",
-      "pubDate": "Wed, 01 Apr 2026 12:51:54 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/pirateria.jpg"
-    },
-    {
-      "id": "a49e6e20283663a33989",
-      "title": "La RAM y los SSDs volverán a subir de precio en los próximos meses",
-      "summary": "El precio de la RAM ha bajado un poco en las últimas semanas , y gracias a ello podemos encontrar kits de 32 GB de DDR5 por menos de 400 euros . También se ha estabilizado el precio de los SSDs, aunque estos siguen estando bastante inflados, y en general cuestan entre dos y tres veces más que antes de la crisis de la memoria NAND Flash. Por desgracia parece que la situación volverá a empeorar. Las últimas previsiones de TrendForce indican que el precio de los contratos de suministro de DRAM y de memoria NAND Flash volverá a subir durante el segundo trimestre del año, que cubre los meses de abril, mayo y junio. Para darle un mayor contexto, vamos a valorarlo en relación con lo ocurrido en el primer trimestre de 2026. Precios de los contratos de DRAM y NAND Flash Primer trimestre de 2026 Los contratos de suministro de DRAM subieron entre un 93% y un 98%. Los contratos de suministro de memoria NAND Flash subieron entre un 85% y un 90%. Segundo trimestre de 2026 Se espera una subida del precio de los contratos de DRAM de entre un 58% y un 63%. Se estima una subida del precio de los contratos de NAND Flash de entre un 70% y un 75%. Esas subidas en el precio de los contratos de suministros estarán justificadas por un aumento de la demanda de RAM y de unidades SSD por parte del mercado de servidores centrados en la IA. Este detalle es importante, porque no se habla de una alta demanda de ambos componentes en el mercado de consumo general, lo que significa que la demanda en dicho mercado podría estar cayendo debido a la negativa de los consumidores a pagarlos altos precios de la RAM y de los SSDs. Precisamente en esa dirección apuntan las caídas que han experimentado los precios de los kits de DDR5 en las últimas semanas, y la tendencia actual que se mantiene en el mercado de consumo general. Cómo afectará esto al precio de la RAM y de los SSDs Es importante tener en cuenta que esas cifras no significan que el precio de la RAM vaya a subir hasta un 63%, ni que el precio de ",
-      "link": "https://www.muycomputer.com/2026/04/01/la-ram-y-los-ssds-volveran-a-subir-de-precio-en-los-proximos-meses/",
-      "pubDate": "Wed, 01 Apr 2026 11:34:02 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/precio-de-la-RAM-y-de-los-SSDs-2026.jpg"
     },
     {
       "id": "38c773ab79d4b8bd1104",
@@ -618,6 +587,76 @@
       "image": "https://static.eldiario.es/clip/9cd5c207-44cb-4cc2-a117-06e2ead757ee_16-9-discover-aspect-ratio_default_1139722.jpg"
     },
     {
+      "id": "48bbb39b25847d0914b9",
+      "title": "Divorcio total entre Anteto y los Bucks",
+      "summary": "Giannis Antetokounmpo habla con un árbitro.",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/04/divorcio-total-anteto-bucks-nunca-vi-alguien-tenga-decir-quiere-jugar.html",
+      "pubDate": "Sat, 04 Apr 2026 10:25:34 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d0bbf60cdd4.jpeg"
+    },
+    {
+      "id": "e07398888de3dd57a2e0",
+      "title": "Marc Bernal llega lanzado a su estreno en el Metropolitano",
+      "summary": "Marc Bernal celebra un gol contra el Atlético de Madrid.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/04/marc-bernal-llega-lanzado-estreno-metropolitano.html",
+      "pubDate": "Sat, 04 Apr 2026 10:18:47 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/69cbdd7973eb5.jpeg"
+    },
+    {
+      "id": "2738e3f1422ee5bc666b",
+      "title": "Prieto y los descensos en Oviedo: \"Una experiencia muy dura de vivir\"",
+      "summary": "Quevedo, Tsartas, Olivera, Prieto y Moya sostienen un balón.",
+      "link": "https://www.marca.com/futbol/sevilla/2026/04/04/prieto-descensos-oviedo-experiencia-dura-vivir.html",
+      "pubDate": "Sat, 04 Apr 2026 10:18:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d0c455637ef.jpeg"
+    },
+    {
+      "id": "831329fd21c7665f4ce3",
+      "title": "El incendio en el Chelsea que amenaza con llevarse todo por delante",
+      "summary": "Enzo Fernández, durante un partido con el Chelsea",
+      "link": "https://www.marca.com/futbol/premier-league/2026/04/04/primer-megaproyecto-nuevo-chelsea-borde-colapso-cruzado-linea.html",
+      "pubDate": "Sat, 04 Apr 2026 09:54:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d034049e4cb.jpeg"
+    },
+    {
+      "id": "5ce2f3422cdd6e820b09",
+      "title": "Dani Sordo: \"Estoy súper motivado y preparado\"",
+      "summary": "El piloto español regresa al mundial de Rallies en el Islas Canarias y antes hace fondo en la Vuelta a Ibiza de BTT",
+      "link": "https://www.marca.com/motor/2026/04/04/dani-sordo-super-motivado-preparado.html",
+      "pubDate": "Sat, 04 Apr 2026 09:35:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/aTssg1fqCGvFA9KuZ.jpeg"
+    },
+    {
+      "id": "557ae204384877fcdc9d",
+      "title": "Aitana y Rosalía hablan de la ruptura con Sebastián Yatra en pleno concierto: \"Me pidió disculpas y no se lo perdoné\"",
+      "summary": "Aitana, Sebastián Yatra y Rosalía",
+      "link": "https://www.marca.com/tiramillas/musica/2026/04/04/aitana-rosalia-hablan-ruptura-sebastian-yatra-pleno-concierto-lux-tour-me-pidio-disculpas-perdone.html",
+      "pubDate": "Sat, 04 Apr 2026 09:15:26 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d0ba80147d7.jpeg"
+    },
+    {
+      "id": "5dfc36b6b6d43f458736",
+      "title": "Sonsoles Ónega: \"Hoy las mujeres tenemos más voz y más altavoces\"",
+      "summary": "La periodista y escritora madrileña charla con Tiramillas con motivo de la publicación de su nueva novela, 'Llevará tu nombre', la primera después de que ganara el Premio Planeta 2023 con 'Las hijas de la criada.",
+      "link": "https://www.marca.com/tiramillas/2026/04/04/sonsoles-onega-hoy-mujeres-voz-altavoces.html",
+      "pubDate": "Sat, 04 Apr 2026 08:55:40 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/02/PLDVSn4_QMc.jpeg"
+    },
+    {
       "id": "d79d7faedab6c8f411d8",
       "title": "\"Los responsables de los cánticos racistas\"",
       "summary": "Lamine Yamal se pronuncia tras los cánticos racistas: \"Es intolerable\"",
@@ -628,6 +667,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cd0ea1eda06.jpeg"
     },
     {
+      "id": "b50ebac373728881c33f",
+      "title": "Aston Martin ya tiene fecha para el primer gran cambio de Honda",
+      "summary": "Un ingeniero de Honda observa a uno de los AMR26.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/04/aston-martin-fecha-primer-gran-cambio-honda.html",
+      "pubDate": "Sat, 04 Apr 2026 08:46:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d0adc532d7a.jpeg"
+    },
+    {
       "id": "15628f488208d72fc954",
       "title": "Paula Barceló y María Cantero, las \"peleonas\" de oro de la flota",
       "summary": "Paula Barceló y María Cantero, en el 55 Trofeo Princesa Sofía Mallorca.",
@@ -636,6 +685,26 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cfd2e207a8a.jpeg"
+    },
+    {
+      "id": "9c8884ff56b9b6bdfb3a",
+      "title": "Los astronautas de Artemis II podrán ver una imagen nunca antes vista de la cara oculta de la Luna",
+      "summary": "Luna",
+      "link": "https://www.marca.com/tiramillas/ciencia/2026/04/04/astronautas-artemis-ii-podran-ver-cara-oculta-luna-orbita-satelite.html",
+      "pubDate": "Sat, 04 Apr 2026 08:37:04 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d0b09100d23.jpeg"
+    },
+    {
+      "id": "e28fb68829e73ce289ad",
+      "title": "María Herrera, la mujer que administraba los campos de Rosas",
+      "summary": "María Sebastiana Herrera nació en Ranchos el 19 de enero de 1804, hija de José y Juana Rosa Acuña. A los 18 años, el 6 de noviembre de 1822, contrajo matrimonio con Pascual Peredo en la Parroquia de San Vicente. Don Pascual fue mayordomo en campos de Rosas y, en 1840, fue designado primer Juez de Paz del partido de Las Flores. Como administradora de estancias de Rosas, Doña María desempeñó funciones de gran responsabilidad . El 6 de diciembre de 1839 informó a su patrón sobre la selección de novillos gordos de La Esperanza y La Invernada, entregando 812 ejemplares “por ser la mejor novillada que había”, y advirtió de la existencia de ganado gordo también en La Blanca, La Cortadera, Cabeza de Toro y San Benito. Richard W. Slattta sobre María Herrera, en Los gauchos y el ocaso de la frontera , destaca lo siguiente: “Sus responsabilidades incluían el otorgamiento de salarios y la asignación de tareas a más de setenta peones en los puestos San Benito y Rosario. También llevaba la contabilidad de los ingresos y gastos de la estancia, así como el recuento de cabezas de ganado . A juzgar por las respuestas de Rosas a sus cartas, ella realizaba satisfactoriamente todas las tareas de administración”. Doña María escribe desde “Constitución” que era una sección que administraba Rosas y que fue parte de la sociedad Rosas–Terrero. Esto surge de una presentación en 1860 en los autos Juan N. Terrero con los herederos de Tiburcio Espinosa, y en la cual fue citada a declarar Doña María, manifestando que los Puestos Baigorria, Constitución y La Leña fueron poseídos sin contradicciones por la Sociedad Rosas–Terrero desde 1820 en las inmediaciones del campo de Espinosa. El 6 de junio de 1842 Rosas, desde San Benito de Palermo, le pidió enviar 50 vacas bien gordas para consumo del cuartel y de la quinta, además de un informe sobre los rodeos. El 30 de junio Doña María respondió con un informe pormenorizado sobre numerosos puestos (San Benito, San Juan Genaro, Vizcacheras, San Juan José,",
+      "link": "https://www.lanacion.com.ar/economia/campo/maria-herrera-la-mujer-que-administraba-los-campos-de-rosas-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 08:26:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/LB2DSCIVWBB7PDWVDF4MSXB3YE.jpg?auth=6abce98d1f4c0e65d64d890ba66d86c4baaf3f9034cdd21cf2d957a92f789273&smart=true&width=2000&height=1333"
     },
     {
       "id": "94cd91b7ff2d00579fcd",
@@ -698,6 +767,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cff1efefbf8.jpeg"
     },
     {
+      "id": "db17fedd0a8d97dd007e",
+      "title": "Gasolineras en EE.UU. están comenzando a reportar escasez de combustible",
+      "summary": "Según directivos del sector de la distribución, las interrupciones se deben a que \"la demanda es muy alta\".",
+      "link": "https://actualidad.rt.com/actualidad/597071-gasolineras-eeuu-comenzando-reportar-escases-combustible?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 04 Apr 2026 08:04:51 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d0bb8959bf5b25681b430a.jpg"
+    },
+    {
+      "id": "3ae4dd9d29868e06927f",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU busca a la carrera al tripulante desaparecido mientras Israel bombardea Beirut",
+      "summary": "Soldados de la Armada de Estados Unidos, en marzo antes de una operación en Irán.",
+      "link": "https://elpais.com/internacional/2026-04-04/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Sat, 04 Apr 2026 08:03:39 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/ABVXNFBT7RCBZGF2HLSYJ64PMQ.jpg?auth=d9d46d76ed584d1aa0c36447493a39cbe6bc62fc076bff26006e2b9cd83919ba"
+    },
+    {
       "id": "58c18265b5270aa4be93",
       "title": "Un partido de ausencias dolorosas",
       "summary": "BARRIOS Y RAPHINHA DISPUTAN UN BALÓN EN UNO DE LOS ATLÉTICO-BARCELONA.",
@@ -706,6 +795,46 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cfe64f73c84.jpeg"
+    },
+    {
+      "id": "cd93f70d1fb2d52e315d",
+      "title": "Cita del día, de Platón: “La sabiduría no tiene fin y buscarla es nuestra tarea eterna”",
+      "summary": "Esta frase asociada al pensamiento del filósofo griego resume la pasión de aquella civilización por el conocimiento.",
+      "link": "https://www.clarin.com/estados-unidos/cita-dia-platon-sabiduria-fin-buscarla-tarea-eterna_0_Q9fXX7MlY7.html",
+      "pubDate": "Sat, 04 Apr 2026 08:01:28 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/02/27/_lZbRclSr_1200x630__1.jpg"
+    },
+    {
+      "id": "4b75b031538dbebe3bef",
+      "title": "Primeras críticas a Fuze (2026): trepidante película de acción",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La película de acción Fuze (Zona de riesgo / Golpe explosivo) todavía no ha llegado a los cines, pero ya está dando mucho de qué hablar. Las primeras críticas han salido a la luz y dibujan un panorama bastante claro: estamos ante un thriller explosivo, lleno de giros, con un ritmo muy potente… pero también con decisiones que no convencen a todos. Dirigida por David Mackenzie y protagonizada por Aaron Taylor-Johnson y Theo James , esta propuesta mezcla bomba, atraco y caos urbano en una misma historia. Y ojo, porque su debut en Rotten Tomatoes con un 84% deja claro que, pese a sus fallos, estamos ante una película de acción que sabe cómo entretener. Esta película de acción tiene una premisa potente que mezcla tensión y caos urbano La base de Fuze es tan sencilla como efectiva. Un grupo de obreros encuentra una bomba sin explotar de la Segunda Guerra Mundial en pleno Londres, lo que provoca una evacuación masiva. En medio de ese caos, un grupo de ladrones decide aprovechar la situación para ejecutar un atraco perfectamente calculado. Este planteamiento permite a la película de acción jugar en dos frentes al mismo tiempo: por un lado, la tensión constante de una cuenta atrás con explosivos; por otro, el desarrollo de un golpe criminal lleno de engaños, traiciones y decisiones límite. Según las críticas, esta dualidad es uno de los mayores aciertos de la película. Hay quien destaca que Mackenzie consigue que ambos géneros, thriller de bomba y cine de atracos, funcionen sorprendentemente bien juntos, creando una experiencia dinámica y muy entretenida. Un ritmo que engancha desde el principio Si hay algo en lo que coinciden la mayoría de opiniones es en el ritmo. Fuze es descrita como una película de acción “propulsiva”, rápida y con muy poco espacio para el respiro. La historia avanza con decisión, encadenando giros y situaciones que mantienen la atención del espectador casi sin pausa. Algunos críticos incluso",
+      "link": "https://www.cinemascomics.com/primeras-criticas-fuze-pelicula-de-accion/",
+      "pubDate": "Sat, 04 Apr 2026 08:01:22 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/fuze-2026.jpg"
+    },
+    {
+      "id": "2585078bef70386bb842",
+      "title": "La soja perdió tres millones de hectáreas en la última década",
+      "summary": "En la última década, la superficie de siembra de soja se redujo en tres millones de hectáreas, al pasar de 20,5 millones de hectáreas en la cosecha 2015/16 hasta llegar a 17,6 millones de hectáreas en la actual cosecha 2025/26. La producción de soja en la Argentina durante la última década (2015-2025) ha mostrado alta volatilidad, oscilando entre campañas récord cercanas a 60 millones de toneladas y caídas severas por sequías (como en 2018 y 2023, bajando de 40–50 millones de toneladas) . “Atenta contra la estabilidad”: fuerte rechazo del campo por el fallo que suspende artículos clave de la reforma laboral La campaña 2024/2025 proyectó una fuerte recuperación, situándose como la mejor de los últimos seis años, con casi 50 millones de toneladas, y para el 2025/26 se proyecta una producción de 47/48 millones de toneladas. Hoy, la producción de soja es la menor de los últimos diez años (excluyendo los años de sequía); hemos perdido una década. Mientras tanto, nuestro vecino país, Brasil, ha incrementado la superficie de siembra de soja de 33 millones de hectáreas en la campaña 2015/16 a 49 millones de hectáreas en la actualidad , un incremento de 16 millones de hectáreas equivalente al 48%. La producción de soja de Brasil aumentó de 100 millones de toneladas en la cosecha 2015/16 a 178 millones de toneladas, una suba de 78 millones de toneladas, equivalente al 78%. Una década ganada. Hace diez años, la producción de soja de Brasil duplicaba a la producción de soja en Argentina, en una relación 2:1; hoy esa misma relación es 3,5:1. ¿Qué hizo Brasil para lograr estos aumentos de superficie, producción y productividad? Nada. ¿Qué hizo la Argentina para quedarse estancada durante los últimos 10 años? Aplicó un nivel de retenciones a las exportaciones de soja, aceites y subproductos que llegaron al máximo del 33% y hoy se ubican en 24% para el poroto de soja y 22,5% para el aceite y la harina . Con este nivel de retenciones, los sucesivos gobiernos hasta el presente han lo",
+      "link": "https://www.lanacion.com.ar/economia/campo/la-soja-perdio-tres-millones-de-hectareas-en-la-ultima-decada-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/5UVQNNAKQBFW5JDEQF5V47I2YI.png?auth=15e507be513002b0470d28ee3926c08cb38abb4529a8a1e8fea9192484edffb3&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "d228f06faff5e3c65161",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, sábado 4 de abril",
+      "summary": "Irán ejecutó este sábado a dos hombres condenados por pertenecer a un grupo opositor prohibido y por llevar a cabo acciones desestabilizadoras destinadas a derrocar el gobierno, informó el poder judicial. Estas fueron las últimas de una serie de ejecuciones impuestas contra miembros del vetado movimiento Muyahidines del Pueblo de Irán (MEK), después de que cuatro de sus integrantes fueran ajusticiados a principios de semana. Con información de AFP. Un avión A-10 estadounidense fue alcanzado por las defensas aéreas iraníes, según informaron medios estatales iraníes, citando a la oficina de relaciones públicas del Ejército de Irán. La agencia AP informó previamente que un segundo avión de combate de la Fuerza Aérea de Estados Unidos se había estrellado en Medio Oriente este viernes. El A-10, también conocido como Warthog, es un avión monoplaza. Hasta el viernes, 247 de los heridos eran soldados del Ejército, 63 marineros de la Armada, 19 infantes de marina y 36 aviadores de la Fuerza Aérea, según datos del Pentágono disponibles en línea. Se desconoce si estos datos incluyen a los militares involucrados en el derribo de dos aeronaves de combate reportado el viernes. La mayoría de los heridos (200) eran suboficiales y soldados de rango medio a superior; 85 eran oficiales y 80 suboficiales. El número actual de fallecidos en combate se mantiene en 13. Un miembro de la tripulación de un caza F-15E norteamericano derribado en Irán el viernes fue rescatado por el Ejército de Estados Unidos , según un funcionario norteamericano y otro israelí, mientras Washington continúa con las tareas de rescate y el otro tripulante pone en práctica su entrenamiento para resguardarse hasta ser recuperado , probablemente en helicóptero. La aeronave derribada contaba con una tripulación estándar de dos personas: un piloto y un oficial de sistemas de armas . Ambos tripulantes del F-15E se eyectaron . No estaba claro cuál de los dos fue rescatado, y el funcionario estadounidense que confirmó el",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-4-de-abril-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/376SYIH25JAU5HBPEQQLBN4V6Q.JPG?auth=82ad8c8db9ab5b5cc897ff696f4763f7aadac89bd25ccf436876341b102ba1ab&smart=true&width=7869&height=5246"
     },
     {
       "id": "29458550bc54382dc7e7",
@@ -719,7 +848,7 @@
     },
     {
       "id": "0c75fda85282ab5f1672",
-      "title": "Banquillazos decisivos para los Barça-Atleti",
+      "title": "Banquillazos decisivos para los Barça - Atleti",
       "summary": "Atletico de Madrid vs F.C. Barcelona",
       "link": "https://www.marca.com/futbol/atletico/2026/04/04/banquillazos-decisivos-barca-atleti.html",
       "pubDate": "Sat, 04 Apr 2026 07:58:25 +0200",
@@ -738,8 +867,18 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cfe40d18d05.jpeg"
     },
     {
+      "id": "359cd5245086ee162af0",
+      "title": "Cuba inicia la liberación de más de 2.000 presos anunciada por el gobierno en medio de las tensiones con EE.UU.",
+      "summary": "Organizaciones de derechos humanos han confirmado algunas excarcelaciones, pero denuncian que los presos políticos quedan excluidos de la medida.",
+      "link": "https://www.bbc.com/mundo/articles/cx2vn22d61po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 04 Apr 2026 07:55:48 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a4a/live/7f2caf60-2f9a-11f1-934f-036468834728.jpg"
+    },
+    {
       "id": "5257d24077d6f80aa0a1",
-      "title": "Croacia incorpora un 'avión de combate' para el Mundial con Vuskovic",
+      "title": "Croacia incorpora un 'avión de combate' para el Mundial",
       "summary": "Luka Vuskovic, protegiendo un balón ante Vinicius",
       "link": "https://www.marca.com/futbol/bundesliga/2026/04/04/croacia-incorpora-avion-combate-mundial-vuskovic-resuelto-problema-proximos-10-15-anos.html",
       "pubDate": "Sat, 04 Apr 2026 07:55:06 +0200",
@@ -748,14 +887,14 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cfe86ad0afb.jpeg"
     },
     {
-      "id": "3b1c21b658df1ceb65c4",
-      "title": "Riesgo de ‘accidente’ en el Wolfsburgo una década después de poner contra las cuerdas al Real Madrid",
-      "summary": "Christian Eriksen",
-      "link": "https://www.marca.com/futbol/bundesliga/2026/04/04/riesgo-accidente-wolfsburgo-decada-despues-poner-cuerdas-real-madrid.html",
-      "pubDate": "Sat, 04 Apr 2026 07:53:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cff83f425c2.jpeg"
+      "id": "dfb066741267e8514e53",
+      "title": "Bluetti Elite 200 V2: Energía inteligente para el hogar y la aventura",
+      "summary": "El mercado de las estaciones de energía portátiles, aún siendo un nicho clave para camping, se ha convertido en una necesidad creciente para muchos hogares. En un contexto donde la eficiencia energética y la independencia de la red eléctrica ganan peso, Bluetti ha sabido posicionarse con una gama de productos destacada. Con la llegada del Bluetti Elite 200 V2 , la marca no solo busca ofrecer una batería de gran capacidad, sino un centro de gestión energética inteligente que sea capaz de adaptarse tanto a un apagón inesperado como a una escapada en furgoneta camperizada. No es simplemente una «batería grande» , sino una evolución lógica que apuesta por una gran durabilidad y versatilidad. No estamos ante un equipo diseñado para alimentar una vivienda entera de forma permanente, pero sí ante una herramienta que, bien gestionada, puede cambiar la forma en la que consumimos electricidad en nuestro día a día, permitiéndonos optimizar costes y asegurar el funcionamiento de nuestros dispositivos más críticos. Embalaje del Bluetti Elite 200 V2 Especificaciones técnicas del Bluetti Elite 200 V2 Antes de entrar en detalle con nuestra experiencia, conviene repasar los números que definen a este equipo. El Bluetti Elite 200 V2 integra una batería LiFePO4 de 2.073,6 Wh con un inversor de onda sinusoidal pura de 2.600W de potencia continua , hasta 3.900W en modo Power Lifting para cargas resistivas y un pico de 5.200W , lo que permite alimentar dispositivos de alta demanda en momentos puntuales. Cuenta con 4 tomas de corriente alterna Schuko (230V) , 2 puertos USB-C PD de 100W ideales para portátiles, 2 puertos USB-A de 15W , un puerto de coche de 12V y carga inalámbrica integrada. En cuanto a la carga, admite hasta 1.000W de entrada solar y alcanza el 80% de batería en aproximadamente 50 minutos mediante carga rápida TurboBoost, con recarga completa en poco más de una hora. Todo esto en un equipo de 24,2 kg que ha reducido su volumen un 40% respecto a la generación anterior. Un ",
+      "link": "https://www.muycomputer.com/2026/04/04/bluetti-elite-200-v2-energia-inteligente/",
+      "pubDate": "Sat, 04 Apr 2026 07:50:41 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Bluetti-Elite200-V2-caja.jpg"
     },
     {
       "id": "bec0bad1a3ed10c950f7",
@@ -778,6 +917,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d014f3c7ed2.jpeg"
     },
     {
+      "id": "6ab569bfc453968b80a4",
+      "title": "Cuál es el pozo del Quini 6 para el sorteo de este domingo 5 de abril",
+      "summary": "Este domingo 5 de abril se realiza un nuevo sorteo del Quini 6 , y en esta oportunidad el pozo estimado llega a los $4750 millones. Se trata de un juego de azar que tiene uno de los pozos más grandes del país. Se sortea este domingo a las 21.15 en la sede de Lotería de la provincia de Santa Fe. La transmisión se puede seguir en vivo por RTS Santa Fe, IP Noticias, Telefe Santa Fe, Canal 9 (Paraná) y por streaming en la cuenta de YouTube oficial. ¿Qué es el Quini 6? Es un juego poceado , es decir, que el monto que se ofrece en premios (pozo) es variable y corresponde a un porcentaje de lo recaudado. Pertenece a la Caja de Asistencia Social de Santa Fe y se desarrolla desde 1988. ¿Cómo jugar al Quini 6? El Quini 6 es un juego de azar en el que el apostador elige 6 números entre el 00 y el 45 para ganar un premio establecido mediante un pozo. Las apuestas se toman en la agencia de lotería más cercana, donde el agenciero cargará los números del jugador y le dará un ticket que acredite el juego. Aunque el objetivo máximo del juego es acertar los 6 números, los que acierten cinco de seis tendrán el segundo premio y quienes adivinen cuatro de seis, el tercero. El Quini 6 propone tres variantes: Tradicional Revancha Siempre sale Para jugar a la Revancha y al Siempre Sale es necesario haber participado del sorteo Tradicional . Los montos de las apuestas varían según el juego y están sujetos a actualizaciones por parte de los organizadores. ¿Cuál fue el mayor premio en la historia del Quini 6? Al ser un juego cuyo premio depende de la recaudación, los montos que los miles de ganadores del Quini 6 a lo largo de la historia se llevaron a sus casas variaron. El récord máximo sigue fresco: en julio de 2021, un cordobés de Villa María retiró de la agencia $362.830.402. El afortunado ganador, cuya identidad no se hizo pública por motivos de seguridad, había acertado los 6 números, que fueron el 05, 19, 11, 41, 16-25. ¿Cuándo se sortea el Quini 6? Los sorteos se realizan los miércole",
+      "link": "https://www.lanacion.com.ar/loterias/cual-es-el-pozo-del-quini-6-para-el-sorteo-de-este-domingo-5-de-abril-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 07:49:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/5N3NMOC62NATBAI5SEXUS5ZA3M.png?auth=3391623af8fee55e5d278920c754420938e69d07d2ec472e35c80666017f6ca5&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "4fdcc6be99b31bd8d86e",
       "title": "No va más en Riazor... a la caza del ascenso directo: llenazo y alto riesgo",
       "summary": "Dani Sánchez presiona a Luismi Cruz durante el 3-0 de la primera vuelta en La Rosaleda",
@@ -798,6 +947,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c85a8b129e5.jpeg"
     },
     {
+      "id": "6c928d6659b58b019afb",
+      "title": "VIDEO: Dos mujeres se van a los golpes y se tironean del pelo en plena vía publica",
+      "summary": "Dos mujeres protagonizaron un violento enfrentamiento en la madrugada de este jueves en el centro de la ciudad argentina de Neuquén. Ambas, al parecer ebrias, se golpearon con fuerza y se sujetaron del cabello bruscamente entre sí en plena calle, en un sitio de alta circulación nocturna, rodeado de bares y boliches. Dos bicipolicías que pasaban, intervinieron y lograron separarlas. Ninguna sufrió lesiones graves. Un episodio similar se registró el mes pasado en la misma zona.",
+      "link": "https://actualidad.rt.com/viral/597070-mujeres-golpearse-plena-via-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 04 Apr 2026 07:26:18 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
       "id": "1d5c5a8110586bcc3c68",
       "title": "Los deportistas mejor pagados de la historia: Cristiano se cuela en el Top3",
       "summary": "Deportistas más ricos",
@@ -806,6 +965,37 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/02/69ce2bede9d44.jpeg"
+    },
+    {
+      "id": "10abd4168a05259ad04e",
+      "title": "Irán afirma haber derribado dos aviones de combate de EE.UU.: rescatan a dos de los tripulantes y buscan a un tercero, por el que Teherán ofrece una recompensa",
+      "summary": "EE.UU. e Irán buscan a contrarreloj al tripulante desaparecido.",
+      "link": "https://www.bbc.com/mundo/articles/cly91kwzp4qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 04 Apr 2026 07:24:02 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0807/live/8e19e3a0-2f70-11f1-934f-036468834728.png"
+    },
+    {
+      "id": "6dc840d7e6a81cd6f8cb",
+      "title": "España, Alemania, Italia, Austria y Portugal piden a Bruselas un impuesto a los beneficios de las energéticas",
+      "summary": "Un usuario llena el depósito en una gasolinera de Hospitalet de Llobregat (Barcelona)",
+      "link": "https://elpais.com/economia/2026-04-04/espana-alemania-italia-austria-y-portugal-piden-a-bruselas-un-impuesto-a-los-beneficios-de-las-energeticas.html",
+      "pubDate": "Sat, 04 Apr 2026 07:20:45 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/2TAHGZS2CJFI3OSC3N52P3TLNI.jpg?auth=ce471fdb65f623ede64cc61aefc8983ba09969a90c515a0a8e6c6e4881c978dd"
+    },
+    {
+      "id": "e9cb5e5e82803e8d822e",
+      "title": "La IA ya no espera: cuando el trabajo empieza a vaciarse",
+      "summary": "Durante décadas repetimos una idea tranquilizadora: cada revolución tecnológica destruye empleos, sí, pero crea otros . Pasó con la máquina de vapor, con la electrificación, con la computadora. Dolió, pero hubo tiempo. Tiempo para entender, para reconvertirse, para aprender. Tiempo, en definitiva, para que la sociedad metabolice el cambio y cada persona pudiera encontrar su lugar adaptándose y reconvirtiéndose adecuadamente. Desde los primeros descubrimientos relevantes de la electricidad hasta su adopción masiva pasaron aproximadamente 100 a 130 años. Y si tomamos solo desde la generación eléctrica moderna (Faraday) hasta su uso generalizado, igual estamos hablando de 40 a 50 años. Esa narrativa nos calmaba porque implicaba una transición, un proceso. Un intervalo entre lo viejo que muere y lo nuevo que nace. Pero, esta vez no hay intervalo. La inteligencia artificial no está pidiendo permiso, está entrando rompiendo todas las puertas. Y lo está haciendo más rápido de lo que el mundo del trabajo puede procesar. Obsesión corporativa: la trampa del alto rendimiento Un dato alcanza para entender la magnitud del fenómeno: hacia fines de 2024, la inteligencia artificial ya estaba automatizando o modificando aproximadamente el 25% de las tareas laborales en múltiples profesiones . Esto surge de un análisis citado por The Washington Post basado en un estudio de Anthropic en más de 700 profesiones No hablamos de trabajos enteros, todavía, hablamos de algo más inquietante: tareas que desaparecen dentro de los trabajos, como piezas que se desprenden de una estructura que todavía sigue en pie, pero ya no es la misma. El problema no es que el empleo desaparezca de golpe. Es que empieza a vaciarse, a perder densidad, a erosionarse desde adentro. Y eso es mucho más difícil de ver, de medir y, sobre todo, de gestionar. Hay una escena que se repite en Silicon Valley —y que debería preocuparnos más de lo que nos tranquiliza—: empresas con ganancias récord, inversiones multimillonar",
+      "link": "https://www.lanacion.com.ar/economia/negocios/la-ia-ya-no-espera-cuando-el-trabajo-empieza-a-vaciarse-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 07:09:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/YP6CQUFB3VAUXG3DOKALEGD5QA.png?auth=58a1b0d35227aaacaad19b05bdbb79630ef76e62e4668967c9d28bafbff2861c&smart=true&width=2000&height=1333",
+      "subcat": "empresas"
     },
     {
       "id": "7e93639ab6f28c8c4a38",
@@ -818,6 +1008,47 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69cfd6e3cdad6.jpeg"
     },
     {
+      "id": "df780039a030bacf4fb6",
+      "title": "Cómo compartir tus cuadernos en NotebookLM para compartir tus contenidos y trabajar en grupo con ayuda de Gemini",
+      "summary": "NotebookLM es el resultado de mezclar la IA Gemini con la app Documentos . En palabras de Google, es “un asistente de investigación basado en IA” diseñado para “ayudarte a perfeccionar y organizar tus ideas ”. Si no lo has probado todavía, ya estás tardando. Es más. Puedes inspirarte con los cuadernos o documentos de otros usuarios. Y ver todo lo que es capaz de hacer esta herramienta. Una de sus virtudes es que puedes compartir cuadernos en NotebookLM para trabajar en equipo. O, simplemente, para que los demás vean tus presentaciones, informes o documentos generados con Gemini, la IA de Google. Con ayuda de NotebookLM puedes procesar documentos, archivos PDF, videos, sitios web, texto copiado o realizar búsquedas en Internet para extraer datos o información que, luego, Gemini procesará para aprender y responder a tus preguntas. Es como una versión mejorada de Gemini, si bien ambas herramientas tienen cosas en común. Pero lo mejor de todo es que, con las fuentes que le ha dado, puede generar nuevos contenidos como un resumen escrito, una presentación con diapositivas, un mapa de ideas, un resumen de video, una tabla de datos o infografías. Incluso puedes crear cuestionarios, exámenes de prueba y tarjetas de memoria para repasar lo aprendido. En definitiva, NotebookLM resulta una herramienta ideal para investigadores, curiosos y estudiantes. Y como sucede con herramientas como Documentos de Google , puedes compartir tus cuadernos , que es el nombre que recibe un proyecto donde se guardan los contenidos con el mismo tema. Además, también puedes compartir algunos de esos contenidos por separado , como una presentación, un cuestionario o un resumen. En modo solo lectura o con la opción de editar y crear más contenidos. Te explicamos cómo hacer todo esto y compartir cuadernos en NotebookLM , y mucho más, paso a paso. Compartir cuadernos en NotebookLM Cuando entras a NotebookLM, verás que hay cuadernos creados . Son cuadernos compartidos por otros usuarios, empresas, orga",
+      "link": "https://hipertextual.com/guias/compartir-cuadernos-en-notebooklm/",
+      "pubDate": "Sat, 04 Apr 2026 07:07:35 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/NotebookLM-Escritorio-Documentos-Archivos.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "1f2ce7f6abcb1dab78cb",
+      "title": "Volkswagen ID.4 2026, medios",
+      "summary": "There&#8217;s a heaven above you baby Guns N&#8217; Roses (Don&#8217;t Cry, 1991) Sara se sentía un poco incómoda hablando con una máquina. Le pasaba desde hace tiempo, incluso con los contestadores. Colgaba sin escucharles. Pero entonces desubrió qué es lo que le incomodaba de hablar con las máquinas. Las personas. Es decir. Lo que le incomodaba era que tras haber grabado un mensaje alguien lo escucharía. Probablemente se burlaría de su tono de voz, lo compartiría con otros compañeros que se reirían también. Y jamás la contestarían. Lo que le incomodaba a Sara de la tecnología eran las personas. Y con los años las personas pasaron a incomodarla en directo. Al hablar con alguien por la calle o por teléfono siempre le daba por reflexionar sobre lo que pensarían de ella. Pasó una noche sin dormir pensando en lo que el funcionario que le entregó la tarjeta de transporte en diciembre del año pasado había querido decir con «que tengas un buen día maja.» ¿Maja por qué? ¿Era una ironía? ¿Era porque la había visto con sobrepeso? El peso era algo que le provocaba mucha inseguridad y por eso apenas salía últimamente. También había renunciado a intervenir en las redes sociales. Le parecía que sus comentarios no eran graciosos y que lo que compartía no era importante. ¿Quién quiere otra foto de la playa de Belalmádena? Menuda tontería. No ha llegado a ir a un psicólogo aunque alguna amiga se lo había recomendado, pero entonces ella le empezó a dar vueltas a por qué le había hecho esa sugerencia, la había acabado por bloquear su número en el móvil. ¿Laura? Sí, su nombre era Laura. Se negaba a reconocerlo pero en parte por eso se había mudado. A una casa más pequeña a un barrio más tranquilo donde la gente apenas se saludaba por la calle. No quería un frutero que la conociera por el nombre. No quería a un vecino que le aconsejara sobre cómo regar las plantas. Quería esto, relación de ascensor: Vecinos en chandal que no decían ni un buenos días inmersos en su podcast o en su músic",
+      "link": "https://www.muycomputer.com/2026/04/04/volkswagen-id-4-2026-medios/",
+      "pubDate": "Sat, 04 Apr 2026 07:02:20 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Volkswagen-ID.4-2026-00003.jpg"
+    },
+    {
+      "id": "ef49ef61345f8a039c4d",
+      "title": "Dólar blue hoy: a cuánto cotiza este sábado 04 de abril",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-04-abril_0_bIVl8Nq7aV.html",
+      "pubDate": "Sat, 04 Apr 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2014/01/29/B1efVPhFNx_1200x630.jpg"
+    },
+    {
+      "id": "223faa4fc93fcfdbcdf4",
+      "title": "VIDEO: Coche rueda solo y demuestra sus inusuales 'capacidades automáticas' de parqueo",
+      "summary": "Un conductor en China se bajó de su coche, aparentemente olvidando poner el freno de mano, y se alejó. Segundos después, el vehículo rodó sin control hacia atrás varios metros, atravesó una pared de placas de plástico flexible de un cobertizo y quedó a resguardo. Lo ocurrido quedó registrado por una cámara de seguridad y suscitó comentarios irónicos en redes sociales, donde resaltaron el inusual sistema automático del sedán Changan Eado DT y sus capacidades de estacionamiento.",
+      "link": "https://actualidad.rt.com/viral/597069-coche-rodarse-mostrar-inusuales-capacidades-parqueo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 04 Apr 2026 06:59:46 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d0a3b059bf5b042c668c4d.jpg"
+    },
+    {
       "id": "b7664894607e23b06d18",
       "title": "El récord imposible para Aday Mara: gloria y lágrimas",
       "summary": "Michigan State e Indiana State disputaron en 1979 el partido colegial más visto de la historia.",
@@ -828,34 +1059,44 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/31/mLaMQ3kh.jpeg"
     },
     {
-      "id": "d228f06faff5e3c65161",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, sábado 4 de abril",
-      "summary": "Hasta el viernes, 247 de los heridos eran soldados del Ejército, 63 marineros de la Armada, 19 infantes de marina y 36 aviadores de la Fuerza Aérea, según datos del Pentágono disponibles en línea. Se desconoce si estos datos incluyen a los militares involucrados en el derribo de dos aeronaves de combate reportado el viernes. La mayoría de los heridos (200) eran suboficiales y soldados de rango medio a superior; 85 eran oficiales y 80 suboficiales. El número actual de fallecidos en combate se mantiene en 13. Un miembro de la tripulación de un caza F-15E norteamericano derribado en Irán el viernes fue rescatado por el Ejército de Estados Unidos , según un funcionario norteamericano y otro israelí, mientras Washington continúa con las tareas de rescate y el otro tripulante pone en práctica su entrenamiento para resguardarse hasta ser recuperado , probablemente en helicóptero. La aeronave derribada contaba con una tripulación estándar de dos personas: un piloto y un oficial de sistemas de armas . Ambos tripulantes del F-15E se eyectaron . No estaba claro cuál de los dos fue rescatado, y el funcionario estadounidense que confirmó el rescate no ofreció detalles sobre cómo se llevó a cabo . El analista internacional Andrés Repetto analizó en LN+ la escalada bélica en Medio Oriente tras las recientes declaraciones de Donald Trump desde la Casa Blanca . El experto examinó el impacto de los ataques cruzados entre Irán y Estados Unidos para explicar la falta de certezas en el rumbo estratégico de Washington. Leé la nota completa acá Bahréin, nación del Golfo Pérsico que ostenta la presidencia del Consejo de Seguridad de la ONU este mes, pospuso la votación de una resolución destinada a reabrir el Estrecho de Ormuz, la cual había sido considerablemente diluida debido a la oposición de Rusia y China, según informaron dos diplomáticos de la ONU a la agencia AP . Indicaron que la votación se llevará a cabo la próxima semana. El proyecto de resolución, patrocinado por Bahréin y cuy",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-4-de-abril-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 06:40:53 +0000",
-      "source": "La Nacion",
+      "id": "735040b3ebdbd4044192",
+      "title": "Irán derriba aviones de EE.UU. mientras Trump alterna mensajes contradictorios, MINUTO A MINUTO",
+      "summary": "Irán repara en horas sus búnkeres y silos de misiles, mantiene el pulso militar y golpea a EE.UU. en varios frentes. Por su parte, la retórica de Donald Trump oscila sin rumbo fijo entre la autoproclamada victoria y la amenaza de una escalada.",
+      "link": "https://actualidad.rt.com/actualidad/597068-iran-derriba-aviones-eeuu-trump-alterna-mensajes-contradictorios-minuto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 04 Apr 2026 06:56:48 +0000",
+      "source": "RT en Español",
       "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/376SYIH25JAU5HBPEQQLBN4V6Q.JPG?auth=82ad8c8db9ab5b5cc897ff696f4763f7aadac89bd25ccf436876341b102ba1ab&smart=true&width=7869&height=5246"
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d0b4bae9ff716ebc20ca84.jpg"
     },
     {
       "id": "6a79d47f4a71cad65581",
       "title": "Día 36 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
       "summary": "El conflicto en Medio Oriente entra sábado 4 de abril en su 36° día de guerra . A la espera de que se vote en la ONU una propuesta para autorizar a los países a usar “todos los medios defensivos necesarios” para asegurar el paso del tránsito en el estrecho de Ormuz, las tensiones continúan y se reportaron nuevos ataques. Trump, por su parte, dijo que los objetivos están “cerca de cumplirse”. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Bahréin pospuso la votación sobre la resolución de la ONU destinada a poner fin al control que Irán ejerce sobre el estrecho de Ormuz . Gran Bretaña busca liderar una movilización colectiva de países para liberar el estrecho de Ormuz. 365 militares resultaron heridos en combate en la guerra de Irán. Un avión de ataque estadounidense A-10 fue alcanzado por las fuerzas de defensa aérea iraníes. Hezbollah disparó un cohete e hirió a 3 miembros del personal de la ONU. Israel respaldó la decisión de la Argentina de expulsar del país al máximo representante diplomático de Irán. Otros hechos de importancia Estados Unidos destruyó el puente más alto de Irán. El presidente de Estados Unidos realizó una conferencia de prensa a un mes de comenzar los ataques contra el país persa. “Estamos bien encaminados” , dijo. El jefe del Pentágono echa al número uno del Ejército en medio de la guerra con Irán. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cu",
       "link": "https://www.lanacion.com.ar/el-mundo/dia-36-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 06:40:22 +0000",
+      "pubDate": "Sat, 04 Apr 2026 06:56:03 +0000",
       "source": "La Nacion",
       "cat": "israel",
       "image": "https://resizer.glanacion.com/resizer/v2/YX2WV3V7LBCNXHMELBKPD27M2U.JPG?auth=20f9d3e9f5f96684e129a37d5e0db52f98fd92fff3508883adb8734e49f19752&smart=true&width=2456&height=1684"
     },
     {
-      "id": "3ae4dd9d29868e06927f",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU busca a la carrera al tripulante desaparecido mientras Israel bombardea Beirut",
-      "summary": "Soldados de la Armada de Estados Unidos, en marzo antes de una operación en Irán.",
-      "link": "https://elpais.com/internacional/2026-04-04/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Sat, 04 Apr 2026 06:35:41 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/ABVXNFBT7RCBZGF2HLSYJ64PMQ.jpg?auth=d9d46d76ed584d1aa0c36447493a39cbe6bc62fc076bff26006e2b9cd83919ba"
+      "id": "949f43d01e3e938ccb30",
+      "title": "Cómo es la ruta de tren que va de Florida hasta Nueva York por hasta US$349 en abril 2026",
+      "summary": "Amtrak ofrece un recorrido ferroviario de larga distancia que conecta Miami, en Florida, con la ciudad de Nueva York en 27 horas y 42 minutos. En este servicio, el Silver Meteor , los pasajeros cruzan ocho estados, más el Distrito de Columbia. La empresa ofrece opciones en clase turista y camarotes privados. ¿Cuánto cuesta viajar en tren entre Florida y Nueva York? Un video publicado por la cuenta de TikTok travelbytrain.us señala que el trayecto puede costar entre US$170 y US$182 en categoría turista , y que los camarotes privados pueden ubicarse entre US$798 y US$1547. Estos precios se aplican siempre que se reserve con al menos 30 días de anticipación. Una búsqueda en el sitio oficial de Amtrak para el miércoles 1 de abril de 2026 muestra valores más altos para el mismo recorrido directo: Clase turista : desde US$349 a US$416 Clase business : entre US$481 y US$544 Camarotes privados : entre US$828 y US$1319 Sin embargo, si se compra con anticipación, se pueden encontrar mejores precios. Por ejemplo, el 29 de octubre, el mismo trayecto presenta tarifas iniciales más reducidas: Clase turista : desde US$149 hasta US$158 Clase business : con valores de US$205 a US$232 Camarotes privados : con tarifas que parten de US$682 y alcanzan US$951 Un recorrido de más de 2200 kilómetros por la costa este El Silver Meteor es uno de los trenes de larga distancia de Amtrak. Según información oficial de la compañía, el trayecto cubre cerca de 1400 millas (equivalentes a unos 2250 kilómetros) y conecta el sur con el noreste de Estados Unidos. Según los horarios oficiales de Amtrak, el servicio del Silver Meteor cuenta con una salida diaria en cada sentido. De Miami a la ciudad de Nueva York (tren 98): Salida: 7.05 hs (horario local) Llegada: 10.47 del día siguiente (horario local) Duración: 27 horas y 42 minutos (27 h 35 min los sábados) De la ciudad de Nueva York a Miami (tren 97): Salida: 18.59 hs (horario local) Llegada: 22.30 hs del día siguiente (según secuencia horaria public",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/como-es-la-ruta-de-tren-que-va-de-florida-hasta-nueva-york-por-hasta-us349-en-abril-2026-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 06:55:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/5DQZ7GUGZ5H5DPJKYWD4D6OA7M.png?auth=3114187573deea5866542c5fff9abe2d7d8745f2ef41539f4c7c459b7f4eb766&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "a2ffe55b4cc5ac45d21c",
+      "title": "Malvinas, acelerador de partículas para la fragmentada colectividad política",
+      "summary": "El vértigo de la agenda de un país crispado por la crisis de sus dirigentes convirtió la fecha en una muestra de los alineamientos y las discordias.",
+      "link": "https://www.clarin.com/economia/malvinas-acelerador-particulas-fragmentada-colectividad-politica_0_syBOmh360d.html",
+      "pubDate": "Sat, 04 Apr 2026 06:45:28 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/02/j9GdsXkCC_1200x630__1.jpg"
     },
     {
       "id": "69315d8126d9f8174105",
@@ -929,7 +1170,7 @@
     },
     {
       "id": "ccc1e80bca2f21ab5e75",
-      "title": "Un fuerte temporal azotó el AMBA y causó destrozos: autos tapados, inundaciones y árboles caídos",
+      "title": "Un fuerte temporal azotó el AMBA y causó destrozos: autos flotando, inundaciones y árboles caídos",
       "summary": "Varias localidades del Área Metropolitana de Buenos Aires (AMBA) registraron este viernes fenómenos adversos que provocaron destrozos y obligaron a las autoridades a intervenir. En sectores Lomas de Zamora hubo tormentas intensas que generaron inundaciones, mientras que en Escobar se reflejaron vientos fuertes de hasta 100 kilómetros por hora que derribaron árboles . Se dio en el marco de una alerta amarilla por tormentas que el Servicio Meteorológico Nacional (SMN) emitió para gran parte de Buenos Aires para este viernes. El organismo había advertido que las precipitaciones alcanzarían a todo el Área Metropolitana de Buenos Aires y sectores del norte y este de la provincia. En el AMBA, se registraron tormentas a lo largo de todo el día, sin embargo, las más fuertes se produjeron entre la tarde y la noche. En sitios como Lomas de Zamora y Ezeiza se acumularon 70 milímetros de precipitación en tan solo una hora y se produjeron inundaciones severas. En redes sociales comenzaron a circular videos e imágenes que los vecinos del AMBA compartieron, en las que se veían las calles inundadas, árboles caídos y los pasos viales obstruidos por el agua. En algunos casos, las inundaciones llegaron a tapar a los autos que estaban estacionados . Otro video compartido por un usuario mostró cómo una reconocida heladería de Lomas de Zamora quedó inundada y con el agua casi a la altura del mostrador, lo que obligó a los empleados a treparse. Asimismo, el bajo nivel de Temperley también quedó tapado por el agua y se cortó el tránsito en esa zona. En Quilmes , las tormentas también produjeron inundaciones, aunque en menor medida que en Lomas de Zamora. Sin embargo, si bien en gran parte de la ciudad el paso para los autos no quedó bloqueado, el agua se acumuló en las esquinas y algunas calles y los vecinos reclamaron por obras hídricas. En Escobar , por otra parte, hubo vientos con velocidades aproximadas de entre 23 y 31 kilómetros por hora y ráfagas que superaron los 50 . Los fenómenos",
       "link": "https://www.lanacion.com.ar/sociedad/un-fuerte-temporal-azoto-el-amba-y-causo-destrozos-autos-tapados-inundaciones-y-arboles-caidos-nid04042026/",
       "pubDate": "Sat, 04 Apr 2026 05:19:28 +0000",
@@ -1079,6 +1320,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7XFPUVNKT5ESJC6E5XB74A3H4E.jpg?auth=3fe3a21c3c57dc6b91aa6047d09c10f5acdc30d0047ae12f2b70bcb2eae5a5dc"
     },
     {
+      "id": "bcc4c10543932135c5d0",
+      "title": "Otoño en frascos: cómo transformar la abundancia de la huerta en conservas para todo el año",
+      "summary": "Después del verano abundante, cuando las plantas ofrecen más de lo que podemos comer en el momento, llega el tiempo de mirar lo que queda y decidir cómo prolongar su vida. En el jardín es momento de podas, de replanteos, de cosechas y de resiembras. La cocina se convierte en el lugar para activar los alimentos y preservarlos. Esta cocina de guarda es un gesto ancestral, una manera de honrar los alimentos con nuestra sabiduría para disfrutarlos en los meses de mayor escasez. Así, aprovechamos lo que tenemos y convertimos lo que muchos descartarían en sabores intensos, vivos, llenos de carácter. En otoño , la mesada se llena de ingredientes, frascos, ollas y trabajo. El aire huele a vinagre, a especias, a fruta madura. Es la época ideal para fermentar , escabechar , hacer pickles , mermeladas y guardar. ¿Por qué ahora? Porque la estación trae estabilidad, quietud: temperaturas más frías, rutinas. Todo ayuda para que las conservas salgan mejor, seguras y sabrosas. La naturaleza nos marca el ritmo. Pickles de lo que suele sobrar La cocina sin desperdicio nos invita a mirar con otros ojos los tallos o pencas. Firmes, crujientes, perfectos para absorber un pickle tibio con especias. Lo que muchos ven como descarte, en otoño se convierte en conserva estrella: color, textura y acidez para levantar cualquier plato invernal. Pickle de tallos de remolacha o acelga Ingredientes: Tallos de remolacha o de acelga limpios, 500 g Vinagre de manzana, 1 taza Agua, 1 taza Sal de mar, 1 cda Azúcar (opcional), 1 cda. Ajo, 2 dientes picados por frasco Especias a gusto (semillas de mostaza, coriandro, pimienta en grano, laurel), 2 cdas. en total Preparación: Cortar los tallos en bastones de 5 cm aprox. y blanquearlos apenas en agua hirviendo con sal. Escurrir. En una olla chica o jarro, calentar el vinagre con el agua, la sal, el azúcar y las especias. Colocar los tallos en frascos limpios, el ajo picado y cubrir con el líquido caliente. Dejar enfriar, tapar y conservar en heladera. A part",
+      "link": "https://www.lanacion.com.ar/revista-jardin/otono-en-frascos-como-transformar-la-abundancia-de-la-huerta-en-conservas-para-todo-el-ano-nid04042026/",
+      "pubDate": "Sat, 04 Apr 2026 04:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/DHOZE4IUQBBDVF277P6ITGY65Q.jpg?auth=c1361ac01f2432039c18e0914631a2152daf94546ab02c1b809799761c71b277&smart=true&width=2002&height=1333"
+    },
+    {
       "id": "d60def1473106a5b088b",
       "title": "Más allá de la flor: Cómo diseñar con texturas y movimientos, sin depender de las floraciones",
       "summary": "Un jardín interesante no depende solo de las flores . Muchas veces lo que realmente captura la atención es algo más sutil: el contraste entre follajes , la forma en que una gramínea se inclina con el viento o la manera en que distintas texturas vegetales construyen profundidad dentro del cantero. Cuando se mira un jardín con atención, las flores ocupan apenas una parte del tiempo. Muchas especies florecen durante algunas semanas y luego vuelven a un estado más silencioso donde el protagonismo pasa al follaje . En ese momento, la textura de las hojas, la forma de las plantas y la manera en que se agrupan empiezan a definir la verdadera identidad del paisaje. La textura vegetal se percibe en la escala de las hojas, en su forma y en la densidad del follaje. Hojas grandes y amplias generan superficies visuales contundentes; follajes finos y delicados producen una sensación más liviana. Cuando estos contrastes se combinan dentro de un mismo cantero, el jardín adquiere profundidad y dinamismo. Una escena en movimiento Las gramíneas son uno de los ejemplos más claros de esta lógica. Sus hojas finas y flexibles construyen una textura suave que cambia constantemente con la viento. Ese movimiento introduce algo fundamental en el diseño paisajístico: la sensación de un jardín vivo, donde la escena nunca es exactamente igual. Cuando el diseño se apoya en texturas y movimientos, el jardín funciona durante todo el año. Incluso cuando no hay flores, el paisaje sigue teniendo interés. Desde el punto de vista visual, el contraste de texturas funciona como un recurso compositivo. Un follaje fino colocado junto a hojas más amplias crea tensión y equilibrio al mismo tiempo. Plantas erguidas pueden dialogar con especies de porte más suelto, mientras que las masas vegetales repetidas aportan ritmo y continuidad. El movimiento también depende de la estructura de las plantas . Algunas especies reaccionan al viento con oscilaciones suaves; otras permanecen rígidas y aportan estabilidad a la",
@@ -1097,16 +1348,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/TH7WFYF2WRG6ZASRVNVKKNI4PA.jpg?auth=48634acda3cc58ddd4a1e1c2ad2dc157390ebe78f5e68b5f732435209361fe7c&smart=true&width=3504&height=2336"
-    },
-    {
-      "id": "bcc4c10543932135c5d0",
-      "title": "Otoño en frascos: cómo transformar la abundancia de la huerta en conservas para todo el año",
-      "summary": "Después del verano abundante, cuando las plantas ofrecen más de lo que podemos comer en el momento, llega el tiempo de mirar lo que queda y decidir cómo prolongar su vida. En el jardín es momento de podas, de replanteos, de cosechas y de resiembras. La cocina se convierte en el lugar para activar los alimentos y preservarlos. Esta cocina de guarda es un gesto ancestral, una manera de honrar los alimentos con nuestra sabiduría para disfrutarlos en los meses de mayor escasez. Así, aprovechamos lo que tenemos y convertimos lo que muchos descartarían en sabores intensos, vivos, llenos de carácter. En otoño , la mesada se llena de ingredientes, frascos, ollas y trabajo. El aire huele a vinagre, a especias, a fruta madura. Es la época ideal para fermentar , escabechar , hacer pickles , mermeladas y guardar. ¿Por qué ahora? Porque la estación trae estabilidad, quietud: temperaturas más frías, rutinas. Todo ayuda para que las conservas salgan mejor, seguras y sabrosas. La naturaleza nos marca el ritmo. Pickles de lo que suele sobrar La cocina sin desperdicio nos invita a mirar con otros ojos los tallos o pencas. Firmes, crujientes, perfectos para absorber un pickle tibio con especias. Lo que muchos ven como descarte, en otoño se convierte en conserva estrella: color, textura y acidez para levantar cualquier plato invernal. Pickle de tallos de remolacha o acelga Ingredientes: Tallos de remolacha o de acelga limpios, 500 g Vinagre de manzana, 1 taza Agua, 1 taza Sal de mar, 1 cda Azúcar (opcional), 1 cda. Ajo, 2 dientes picados por frasco Especias a gusto (semillas de mostaza, coriandro, pimienta en grano, laurel), 2 cdas. en total Preparación: Cortar los tallos en bastones de 5 cm aprox. y blanquearlos apenas en agua hirviendo con sal. Escurrir. En una olla chica o jarro, calentar el vinagre con el agua, la sal, el azúcar y las especias. Colocar los tallos en frascos limpios, el ajo picado y cubrir con el líquido caliente. Dejar enfriar, tapar y conservar en heladera. A part",
-      "link": "https://www.lanacion.com.ar/revista-jardin/otono-en-frascos-como-transformar-la-abundancia-de-la-huerta-en-conservas-para-todo-el-ano-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/DHOZE4IUQBBDVF277P6ITGY65Q.jpg?auth=c1361ac01f2432039c18e0914631a2152daf94546ab02c1b809799761c71b277&smart=true&width=2002&height=1333"
     },
     {
       "id": "f646a57fd5589d33a1a2",
@@ -1149,16 +1390,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/6FEVICDX2RBKZGSWAFY3KK3UM4.jpg?auth=eb06e699ac383a1a77a460670db73ed29efb91bb476b1d5b011668c683dca33f"
     },
     {
-      "id": "cde573de89c68c174c3f",
-      "title": "WP: Ataque iraní a la Embajada de EE.UU. en Arabia Saudita causó más daños de lo informado",
-      "summary": "De acuerdo con los reportes, los ataques nocturnos afectaron gravemente tres plantas del recinto, incluyendo áreas vinculadas a la CIA.",
-      "link": "https://actualidad.rt.com/actualidad/597058-wp-ataque-irani-embajada-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 04 Apr 2026 03:44:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d0850de9ff7115cd76821d.jpg"
-    },
-    {
       "id": "654c51117b2a7cf042b9",
       "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este sábado 4 abril de 2026",
       "summary": "El SMN anticipa para este sábado temperaturas entre 13°C y 19°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
@@ -1197,56 +1428,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg"
-    },
-    {
-      "id": "1e4f234452c11d920a1a",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este sábado 4 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-sabado-4-abril-2026_0_bjSvYFvnhb.html",
-      "pubDate": "Sat, 04 Apr 2026 03:41:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/g8BBYIxw-_1200x630__1.jpg"
-    },
-    {
-      "id": "2256c6d9c74d0f47ccb1",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este sábado 4 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-sabado-4-abril-2026_0_QeGCKVdV3T.html",
-      "pubDate": "Sat, 04 Apr 2026 03:41:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg"
-    },
-    {
-      "id": "cc355abf2b3e748aa424",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este sábado 4 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-sabado-4-abril-2026_0_Dk55lcPhku.html",
-      "pubDate": "Sat, 04 Apr 2026 03:41:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/uIpHwpc_L_1200x630__1.jpg"
-    },
-    {
-      "id": "8fdd3eb926eb1145719f",
-      "title": "Ataque aéreo daña en Dubái el edificio del gigante tecnológico Oracle, apuntado por Irán",
-      "summary": "Los daños se registraron tras la caída de fragmentos después de una intercepción aérea.",
-      "link": "https://actualidad.rt.com/actualidad/597063-ataque-aereo-dana-oracle-dubai?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 04 Apr 2026 03:39:55 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d08a56e9ff7114b44a823d.jpg"
-    },
-    {
-      "id": "c5cdd6a8131cb4476ecd",
-      "title": "País de Oriente Medio abandona programa de financiación de aviones de combate con Francia",
-      "summary": "La decisión se dio después de que París se negara a compartir información sobre tecnologías del programa.",
-      "link": "https://actualidad.rt.com/actualidad/597028-pais-oriente-medio-abandonar-financiacion-aviones-francia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 04 Apr 2026 03:39:32 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d0844359bf5b790044c8eb.jpg"
     },
     {
       "id": "1e120e34163913854f16",
@@ -1419,16 +1600,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/4AMDKGCFABAJZLEHHJ4KQOHQCQ.jpg?auth=4c4cc84cfc4e62522bdde4b2c6b11ab315eecec4280f7a0f9259c3c2d3f2b63e&smart=true&width=2000&height=1333"
     },
     {
-      "id": "e3806a581e1ae918155c",
-      "title": "Tucker Carlson asegura que la guerra en Irán es el \"fin del imperio estadounidense\"",
-      "summary": "El periodista considera que el declive de su poder es la oportunidad para que Washington se centre en el hemisferio occidental, \"sin necesidad de ocupar países en los que nunca has estado\".",
-      "link": "https://actualidad.rt.com/actualidad/596993-tucker-carlson-asegura-guerra-iran-fin-imperio-americano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 04 Apr 2026 03:27:08 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69cffda859bf5b03b276f7f3.jpg"
-    },
-    {
       "id": "19aa554ad0da601173a3",
       "title": "El biógrafo de Milei elogió a Pettovello por remover a un funcionario y apuntó contra Adorni",
       "summary": "El biógrafo del presidente Javier Milei, Nicolás Márquez , celebró la medida de la ministra de Capital Humano, Sandra Pettovello , de desplazar a su jefe de Gabinete por el caso de los créditos del Banco Nación y apuntó contra Manuel Adorni por no presentar su renuncia tras las denuncias por sus viajes al exterior y casas no declaradas. “La verdad es que Sandra Pettovello hace honor al buen nombre del enorme gobierno transformador que tiene la Argentina: es la antítesis del tilingo y mentiroso de Manuel Adorni. Que el gesto de la querida Sandra sirva de inspiración. Me saco el sombrero ”, expresó Márquez en sus redes sociales. Días atrás, el biógrafo del titular del Poder Ejecutivo ya había exigido la salida de Adorni y le pidió que diera un paso al costado. “Quizás es honesto, pero, desde el punto de vista político, su permanencia le está haciendo mucho daño al Gobierno. Yo creo que tendría que tener un gesto de grandeza y renunciar . Es algo personal, pero hay gente que está haciendo un esfuerzo para bancar este proyecto, él también lo puede hacer”, dijo en TN. Además, continuó: “No le está haciendo bien al Gobierno permaneciendo, independientemente de que sea culpable o no de las cosas que se le adjudican. Nadie es indispensable, salvo Milei ”. En este caso, la reacción se produjo luego de la decisión de Pettovello de apartar de su cargo a su jefe de Gabinete, Leandro Massaccesi , quien figura dentro de la lista de funcionarios que accedieron a un crédito hipotecario en el Banco Nación, en el marco del pedido de investigación que presentó la oposición en el Congreso. Tal como indicaron fuentes del Gobierno a LA NACION , Pettovello no cuestiona el otorgamiento de los préstamos, sin embargo, evaluó que se trató de una decisión de “alto perfil” que debió haber sido consultada previamente y que generó “ruido” público. La discusión se intensificó tras la difusión de datos públicos a través del sitio “¿Cuánto deben?”, que releva información de la Central de Deudores de",
@@ -1540,56 +1711,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/RDO2JDY7INFYDL77VMNMJZY7ZQ.jpg?auth=86f53063a08916da7c543d7ba9d3791ddc44750c16f374c0fe297042472224ad&smart=true&width=3000&height=2000"
     },
     {
-      "id": "a1c59850b1dd93f23fbe",
-      "title": "Un mundo en transición. El viejo orden se resquebraja y no aparece un reemplazo",
-      "summary": "La guerra de Irán no inaugura una época: la expone. Llega después de una secuencia de conflictos que, lejos de ser excepciones, empiezan a delinear –según los especialistas– una nueva pauta. La de un sistema internacional en el que las normas ya no ordenan, las instituciones no arbitran y los líderes de las principales potencias actúan cada vez con menor restricción. No es todavía un nuevo orden. Pero parece claro que el viejo, tal como lo conocíamos, ha dejado de regir. Reina la imprevisibilidad y no hay certezas sobre cuánto tiempo se extenderá esa transición. Las tensiones geopolíticas, más allá del enfrentamiento entre Estados Unidos e Israel con Irán, atraviesan un momento de alta densidad, con múltiples focos simultáneos que reconfiguran el equilibrio global. Lejos de la lógica bipolar de la Guerra Fría, el escenario actual se caracteriza por una competencia más fragmentada, donde potencias tradicionales, actores emergentes y conflictos regionales se entrelazan en una dinámica inestable. La rivalidad entre Estados Unidos y China excede lo comercial, aunque ese sea un factor clave, y se proyecta sobre distintas cuestiones estratégicas como el control de semiconductores, la inteligencia artificial y las rutas marítimas. El problema de Taiwán funciona como uno de los puntos más sensibles. Para Pekín es una provincia rebelde, mientras que Washington sostiene su autonomía y le brinda apoyo político y militar, elevando el riesgo de una confrontación. ‘Estamos en un orden que cruje, lo que significa desorden y caos, quiebra de procedimientos, reglas y costumbres’, dice Diana Tussie En paralelo, la guerra entre Rusia y Ucrania , tras la invasión lanzada por Vladimir Putin , continúa siendo un elemento desestabilizador relevante. No solo redefinió la seguridad europea, sino que impactó en los mercados energéticos globales (como ahora lo hace Irán al mantener cerrado el estrecho de Ormuz). La Unión Europea se vio obligada a diversificar sus fuentes de gas y petróleo, co",
-      "link": "https://www.lanacion.com.ar/ideas/un-mundo-en-transicion-el-viejo-orden-se-resquebraja-pero-no-aparece-otro-que-lo-reemplace-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 03:03:00 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/5WI6HDQIPVEOBI3FNH4MKMD7RY.jpg?auth=50f988a3d50814940a25168006767e2773a40fbb744f29d9c89888dcef2f4962&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b2f1c49a1c1067d3a9ab",
-      "title": "Reseña: El temblor de las ideas, de Diego Sztulwark",
-      "summary": "En tiempos de incertidumbre –acaso más que en otros momentos–, un filósofo experimenta la acuciante necesidad de leer, de analizar, de escribir. Allí donde no pueda esclarecer intentará al menos brindar una comprensión parcial; allí donde no pueda dar con claves irrefutables, procurará encontrar indicios para avistar nuevos horizontes. Esto es precisamente lo que hace Diego Sztulwark (Villa Crespo, 1971) en El temblor de las ideas . En uno de los pasajes del texto, el autor recuerda que Deleuze y Guattari emplearon por primera vez el término “rizoma” en su texto Kafka, por una literatura menor . Medio siglo después, y asumiendo el desgaste que el concepto ha sufrido por el uso en este lapso, bien puede aplicarse al trabajo del propio Sztulwark. El rizoma del filósofo argentino está poblado de sendas que se entrecruzan, aunque sin perder cierta autonomía. Por un lado, la que recorre la actualidad nacional, con textos breves que a modo de crónica del presente se ocupan de los principales acontecimientos ocurridos desde septiembre de 2022 –iniciando con el intento de magnicidio sobre la entonces Vicepresidenta Cristina Fernández de Kirchner, pasando por el surgimiento de la figura pública de Javier Milei que culminaría en su elección como Presidente–, hasta marzo del 2025. Por otro lado, el recorrido por una vasta biblioteca poblada de autores de teoría política y filosofía –como Hannah Arendt, Walter Benjamin, Baruch Spinoza, León Rozitchner o Eduardo Grüner–, en los que se busca encontrar palabras para comprender el presente y proyectar un futuro. Y, finalmente, las derivas kafkianas que van ganando terreno, enlazándose con las otras sendas, hasta llegar a la madriguera final, el último capítulo, dedicado por completo al autor checo. ¿Por qué Kafka? Porque, según Sztulwark, la esperanza para Kafka “es pequeña y absurda, pero el héroe no renuncia a ella. No se deja amedrentar por su falta de comprensión de lo que le sucede”.En Kafka, el autor argentino encuentra no so",
-      "link": "https://www.lanacion.com.ar/ideas/resena-el-temblor-de-las-ideas-de-diego-sztulwark-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 03:03:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/WGSLFQVG6VGV7HKDSZKT4MPXAQ.jpg?auth=563b47ee15166bd98aed5250ae5ddbeb9cfb07b1640d90eec96f74896c6da803&smart=true&width=3000&height=2000"
-    },
-    {
-      "id": "22384a3bd203da5285c4",
-      "title": "Reseña. El pañuelo de la hija de Pipino, de Rosmarie Waldrop",
-      "summary": "Nacida en Alemania, Rosmarie Waldrop (1935) es una reconocida poeta de la vanguardia estadounidense. El dato biográfico sirve para explicar la trama alrededor de la que gira El pañuelo de la hija de Pipino , y la profesión de fe vanguardista, la manera singularísima en que esta construida esta, su única novela. El pañuelo… es una narración sobre el pasado, la memoria, las pasiones, la infidelidad, pero contra el fondo velado sobre el que fermentó el nazismo. Hay una familia formada en la década de 1920: la de Frederika y su marido, Josef, y las tres hijas. Pero también aparece Franz, de orígen judío, que tal vez sea el verdadero progenitor de las gemelas Andrea y Doria. Esos elementos forman las estampas que escribe muchísimos años después la hija menor, Lucy. Las versiones difieren porque sus hermanas no recuerdan lo mismo, y ese tono evocativo –y dialógico– evade las obviedades cronológicas. Las entradas, con sus guiños experimentales, van recortando los recuerdos de manera aleatoria para inventariar una historia siempre tentativa. En ese camino fragmentario, se van desperdigando notas de humor (incluido el negro), aportes poéticos y musicales (Lucy es pianista). Un ejemplo de su prosa asociativa es el misterioso título, que alude a una leyenda que sostiene que Kitzingen –la misma ciudad en que nació la autora– se erigió en el sitio en el que la hija del rey francés Pipino el Breve lanzó un pañuelo desde las alturas de un castillo. Como dice Ben Lerner en el prólogo, Waldrop desafía cualquier categorización. La suya es mucho más que la clásica “novela de poeta”. El pañuelo de la hija de Pipino Por Rosmarie Waldrop Períférica. Trad.: Blanca Gago 270 páginas, $ 41.000",
-      "link": "https://www.lanacion.com.ar/ideas/resena-el-panuelo-de-la-hija-de-pipino-de-rosmarie-waldrop-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 03:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/NWW4ZWBNM5F2VESPAZ3RJ2RTOA.jpg?auth=5f0353ea83e832743b69238230bf88f46b38a071ffa700269be6782fc29856fc&smart=true&width=3000&height=2000"
-    },
-    {
-      "id": "5b5dee83214eaf4f6344",
-      "title": "A su marido le amputaron las piernas, cuida a sus cuñados enfermos y tiene que salir sola adelante: “Dependen de mí”",
-      "summary": "“Dependen de mí” A su marido le amputaron las piernas, cuida a sus cuñados y, sin ayuda, sale adelante Por Micaela Urdinez / Enviada especial 4 de abril de 2026 CHACO.- Es media mañana. Felipe Serrano está sentado en la cabecera de la mesa, ubicada a la sombra de un árbol en el paraje Sol de Mayo, en El Impenetrable chaqueño. Lo acompañan sus dos hermanos y su hija Marinés, de 17 años, que estudia en Resistencia y está de visita. Su hijo Mateo, de 8 años, salió a cazar por la mañana. Charlan y comen tortas fritas. Su mujer, Susana Paz, le acerca unos mates. En un momento, Felipe -a quien le amputaron ambas piernas hace unos meses- le avisa que quiere ir al baño, ubicado a diez metros de la casa. “Voy a buscar la silla”, dice ella y va hasta la galería para traerla. Susana pone una silla al lado de la otra, se para de frente a Felipe y se agacha para abrazarlo por debajo de los brazos. Él hace lo mismo como si fuera un koala que se prende de su madre y los dos se envuelven en un enganche que hace posible que ella pueda levantar todo su peso y trasladarlo hasta la silla de ruedas. Lo empuja como puede por la tierra hasta que una rueda se traba y tiene que pisar para levantarla y salir del surco. Así, varias veces hasta que llega al baño, al que tuvieron que hacerle un piso de cemento para que Felipe pudiera entrar con la silla. Lo ubica adentro y sale a esperar a que termine. “Me convertí en una especie de enfermera”, expresa Susana, que no solo se ocupa de su marido sino también de sus dos cuñados. Francisco Serrano, de 65 años, tiene epilepsia y Walter Serrano, de 62, convive con un Mal de Chagas avanzado que apenas le permite moverse. Además, su hijo menor, Mateo, todavía vive con ellos. Desde hace unos meses, Susana es una especie de pulpo que intenta cubrir todos los agujeros, pero no puede. “Son tres personas con discapacidad y yo me hago cargo de todo. Es día y noche el cuidado, la alimentación, la higiene y es vivir para ellos. No tengo ayuda para solventar lo",
-      "link": "https://www.lanacion.com.ar/comunidad/hambre-de-futuro/a-su-marido-le-amputaron-las-piernas-cuida-a-sus-cunados-enfermos-y-tiene-que-salir-sola-adelante-nid02042026/",
-      "pubDate": "Sat, 04 Apr 2026 03:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/W45OTKVCCBGU7G2M2IEAYTQBOA.jpg?auth=adac24c52b978081d46d1e9526f07cfad24fc1b49f9133d0b7a31c870d05dffa&smart=true&width=4032&height=3024"
-    },
-    {
-      "id": "a236736cc6470ef148f0",
-      "title": "Un boom inesperado: el formato analógico que triunfa en la era digital",
-      "summary": "Una fila enorme de gente sale de una galería en Cabildo y Juramento. Escondidas entre casas de computación, sex-shops y comiquerías, hay al menos cuatro tiendas especializadas de discos: son muchos los que se van con vinilos bajo el brazo. Taylor Swift, Pink Floyd, The Cure, Charli xcx. La escena ocurre un sábado de abril de 2025 durante el Record Store Day, el evento nacido en 2008 para “celebrar la cultura de las disquerías independientes”, y que músicos y sellos aprovechan para lanzar ediciones limitadas o rarezas. Lo cierto es que hoy, en la Argentina, se consiguen vinilos en librerías, kioscos de diarios, tiendas de ropa, shoppings y supermercados. Hay de distintos precios, prensados, ediciones, gramajes y colores. Y lo que antes era un fetiche de coleccionistas se expandió a nuevos terrenos de producción y varias escalas de consumo, que se sincronizan a una dinámica global. De acuerdo a informes de la Cámara Argentina de la Música Grabada (CAPIF), en 2024 las ventas de música digital representaban cerca de cuatro quintas partes del total de ingresos. Junto a CDs y DVDs, el vinilo es un 7% de la torta. Esto tiene cierta lógica, sobre todo si consideramos que en la Argentina la importación de discos todavía percibe un viejo y encarecedor arancel del que insumos culturales de similar porte, como los libros, están exentos. Sin embargo, el objeto de deseo persiste. Un ejemplo: la librería y disquería Zivals, de Corrientes y Callao, cuenta con un catálogo rotativo de 6300 títulos y vende un promedio de 1200 vinilos por mes entre su tienda física y e-commerce. Su especialidad son los discos nuevos, sellados. “Tenemos ahora mucho más vinilos disponibles que los que teníamos en la época de auge del vinilo, en los 70 y 80. Y ahora existen mayores facilidades para importar”, señala Fernando Laviz, dueño de la icónica disquería. En este sentido, el ciclo vital de este objeto revalorizado marca una fuerte caída a fines de los 80, con la irrupción de los casettes, que termi",
-      "link": "https://www.lanacion.com.ar/sabado/un-boom-inesperado-el-formato-analogico-que-triunfa-en-la-era-digital-nid04042026/",
-      "pubDate": "Sat, 04 Apr 2026 03:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/SC5SFYTIUVCWVKWKZOY4VBJY34.jpg?auth=87b5015a9f743102a9ab8f9d1fed8b7a6acbd5f2b0ec25cb880b45e28191a11b&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "3d5d80e954c53132a16c",
       "title": "La educación en Chile y Argentina en el siglo XIX",
       "summary": "En este episodio exploramos cómo se fueron configurando los proyectos educativos en Chile y Argentina en el siglo XIX. Flavia Fiorucci conversa con José Bustamante Vismara y Andrés Baenza sobre el tema. Episodios anteriores Luego de las guerras de independencia en Am rica el fin del orden colonial oblig a las nuevas naciones americanas a inventarse a s mismas. Hab a que crear un estado y una naci n, en ese universo la educaci n era proyectada por las lites de la poca como una herramienta fundamental para alcanzar esos objetivos. Entrevistados: Jos Bustamante Vismara y Andr s Baenza Conducci n: Flavia Fiorucci Producci n y edici n de sonido: Ian Guti rrez y Mart n Shindell Historiar es un podcast creado y producido por la AsAIH, la Asociaci n Argentina de Investigadores en Historia. Cada episodio aborda un tema espec fico de historia argentina, latinoamericana o mundial.",
@@ -1690,16 +1811,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-16.jpg"
     },
     {
-      "id": "10abd4168a05259ad04e",
-      "title": "Irán derriba dos aviones de combate estadounidenses, según reportes de prensa: rescatan a uno de los tripulantes y buscan a un segundo",
-      "summary": "De acuerdo con reportes de prensa, EE.UU. estaría llevando adelante una operación de búsqueda y rescate en el sur de Irán.",
-      "link": "https://www.bbc.com/mundo/articles/cly91kwzp4qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 04 Apr 2026 01:28:29 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0807/live/8e19e3a0-2f70-11f1-934f-036468834728.png"
-    },
-    {
       "id": "a39a26cc21bb84dfb50b",
       "title": "Doncic, K.O: adiós a la temporada regular y baja indefinida",
       "summary": "Luka Doncic, después de lesionarse en el partido ante los Thunder.",
@@ -1708,16 +1819,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d03bda81e27.jpeg"
-    },
-    {
-      "id": "72be8982c01b3206159b",
-      "title": "Aday Mara se cita con la historia",
-      "summary": "Aday Mara, antes de partir hacia Indianápolis para disputar la Final Four de la NCAA.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/04/aday-mara-cita-historia.html",
-      "pubDate": "Sat, 04 Apr 2026 00:06:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d03563cd6b0.jpeg"
     },
     {
       "id": "6111c8432a53fbbb321f",
@@ -1873,84 +1974,14 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/maria-cordero-twic.jpg"
     },
     {
-      "id": "df2776aade6a8446e1cb",
-      "title": "Nuevas funciones en WhatsApp que debes conocer: retoque fotográfico, multicuenta para dispositivos iOS y mucho más",
-      "summary": "WhatsApp no pisa el freno. La aplicación de mensajería reina de Meta acaba de anunciar una r onda de actualizaciones diseñadas para mejorar la experiencia de usuario, optimizar la productividad y, sobre todo, integrar la IA de forma más orgánica en nuestro día a día. 1. Adiós al mensaje de &#8220;debes liberar espacio para continuar&#8221; ¿Quién no ha tenido el móvil al límite de capacidad por culpa de los vídeos del grupo de la familia? Hasta ahora, gestionar el almacenamiento era un proceso algo farragoso. Con la nueva actualización, WhatsApp permite buscar y eliminar archivos grandes directamente desde cada chat. La gran ventaja es la selectividad: ahora puedes vaciar los archivos multimedia (fotos, vídeos, documentos) manteniendo el historial de mensajes de texto intacto. Solo tienes que ir al nombre del chat y entrar en &#8220;Administrar almacenamiento&#8221; . Una vez ahí verás todos los archivos que se han enviado y podrás ordenarlos según la fecha que lo enviaron (más reciente o más antiguo) o según su tamaño (para poner los más grandes primero). 2. Multicuenta en iOS Una de las funciones más demandadas por los usuarios de Apple finalmente cruza la frontera. Al igual que ya ocurría en Android, los usuarios de iOS podrán tener dos cuentas de WhatsApp conectadas simultáneamente en un mismo dispositivo. ¿Cómo funciona? Podrás alternar entre tu cuenta personal y la profesional sin cerrar sesión. Esto es ideal para aquellas personas que utilicen un número específico para su actividad profesional. Así no tendrán que usar dos teléfonos diferentes o usar su propio número de WhatsApp para hablar con sus clientes. Para evitar confusiones, tu foto de perfil aparecerá visible en la pestaña inferior, indicándote en todo momento en qué cuenta te encuentras. Como quien cambia de cuenta de Instagram. 3. Transfiere tus chats de WhatsApp a otro dispositivo sin tanto lío Si decides pasarte de Android a iOS, o al revés, puedes quedarte tranquila porque ya no será un drama par",
-      "link": "https://marketing4ecommerce.net/nuevas-funciones-en-whatsapp-que-debes-conocer/",
-      "pubDate": "Fri, 27 Mar 2026 08:01:45 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/nuevas-funciones-whatsapp-1024x614.jpg"
-    },
-    {
-      "id": "953b7553dd3fb5098704",
-      "title": "Marketing digital para suplementos naturales: cómo atraer, convertir y fidelizar clientes",
-      "summary": "Vender suplementos naturales en internet plantea retos muy distintos a los que se encuentran en industrias menos ligadas al bienestar, donde la confianza juega un papel crucial, casi como si cada marca tuviera que ganarse su lugar a pulso. Hoy en día, los consumidores buscan ante todo credibilidad y transparencia , pero rara vez se conforman solo con etiquetas bonitas. En medio de tanta competencia, contar con el apoyo de un especialista puede marcar la diferencia entre ser uno más o liderar tu nicho. Por cierto, antes de lanzarte a la piscina, no subestimes el impacto de saber manejar bien las estrategias de atracción, retención y conversión. Cada paso, al final, suma. De hecho, existen recursos útiles para quienes deseen profundizar en este mercado, por ejemplo, si buscas información sobre suplementos nutricionales naturales , encontrarás opciones reconocidas y valoradas en el sector. Estrategias para atraer tráfico cualificado a tu tienda de suplementos Segmentar bien al público es una jugada acertada porque no todos buscan lo mismo: hay quien sólo quiere energía para el día a día y otros que apuestan por mantener su peso o reforzar el sistema inmune. No podemos olvidar a los deportistas ni a quienes simplemente ya están pensando en la salud a largo plazo. En vez de intentar convencer a todo el mundo, conviene posicionar la marca en espacios digitales donde los potenciales clientes realmente leen y buscan consejos fiables, como si recomendaras una cafetería favorita solo a quienes disfrutan de buen café. Eso sí, quien decía que solo hace falta estar presente en redes, seguramente nunca observó cómo un cliente decide antes de hacer clic en &#8220;comprar&#8221;. Una presencia efectiva es la suma de pequeñas grandes decisiones diarias. Creación de contenido y posicionamiento orgánico Hablar únicamente del suplemento y sus propiedades resulta monótono, aburrido y poco útil. Por eso, el inbound marketing aparece como el héroe inesperado: los artículos, vídeos, podcas",
-      "link": "https://marketing4ecommerce.net/vender-suplementos-naturales-online/",
-      "pubDate": "Fri, 27 Mar 2026 07:35:38 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/suplementos-1024x614.jpg"
-    },
-    {
-      "id": "e09157bd004cbaeb9408",
-      "title": "Scariolo: \"Me voy cabreado\"",
-      "summary": "Sergio Scariolo junto a Tavares y Garuba.",
-      "link": "https://www.marca.com/baloncesto/euroliga/2026/04/03/scariolo-me-cabreado-hemos-sabido-rematar.html",
-      "pubDate": "Fri, 03 Apr 2026 23:44:12 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d0347aebbcd.jpeg"
-    },
-    {
-      "id": "515bc6f94dbd4eabf7c6",
-      "title": "Así fue el doblete de Cristiano Ronaldo tras su lesión... y ya suma 968 goles",
-      "summary": "El delantero portugués marcó dos de los cinco goles de su equipo",
-      "link": "https://www.marca.com/futbol/liga-arabia-saudi/2026/04/03/asi-doblete-cristiano-ronaldo-lesion-suma-968-goles-video.html",
-      "pubDate": "Fri, 03 Apr 2026 23:42:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/W1fq3GcosuC8q.jpeg"
-    },
-    {
-      "id": "95ac23e6c08e779bee16",
-      "title": "Sin margen de error",
-      "summary": "Mbappé, ante el City en Champions.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/03/mes-decisivo-mbappe-margen-error.html",
-      "pubDate": "Fri, 03 Apr 2026 23:18:23 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d02c0cda95e.jpeg"
-    },
-    {
-      "id": "308e6f439eea2b61406b",
-      "title": "El Castilla se exhibe y acaba su penitencia",
-      "summary": "El castillista Valdepeñas celebra uno de los goles al Celta Fortuna.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/03/castilla-exhibe-acaba-penitencia.html",
-      "pubDate": "Fri, 03 Apr 2026 23:16:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d0299d31d6b.jpeg"
-    },
-    {
-      "id": "9b27ff8e5f815b15f825",
-      "title": "España cae ante Portugal en la Copa de las Naciones y pasa segunda de grupo",
-      "summary": "El equipo español perdió por 4-5 y acaba como segunda del Grupo B",
-      "link": "https://www.marca.com/otros-deportes/2026/04/03/espana-cae-portugal-copa-naciones-pasa-segunda-grupo.html",
-      "pubDate": "Fri, 03 Apr 2026 23:09:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d023fd02547.jpeg"
-    },
-    {
       "id": "294c938d18a579198e62",
       "title": "Aitana confiesa ante Rosalía y todo el público de Madrid que Sebastián Yatra no podía serle fiel",
-      "summary": "Aitana y Rosalía.",
+      "summary": "Aitana, en el confesionario de Rosalía.",
       "link": "https://elpais.com/gente/2026-04-03/aitana-confiesa-ante-rosalia-y-todo-el-publico-de-madrid-que-sebastian-yatra-no-podia-serle-fiel.html",
       "pubDate": "Fri, 03 Apr 2026 23:03:20 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/AVEMRGL7BFAEVKMYIH5ADBQKIQ.jpg?auth=087c056c24698a59cb7a0ff86e6f920fde6a10c5c104f7d09bd75f636534d4fe"
+      "image": "https://imagenes.elpais.com/resizer/v2/NEHSU7DP2JHWNNTLKRJKJNFJYA.png?auth=77576a8404d9963b509a0701bab026626248c4e8056df845646af0dc68d0e58b"
     },
     {
       "id": "8697dc03ef0725075bdf",
@@ -1963,26 +1994,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-15.jpg"
     },
     {
-      "id": "dc87d4dac7c290033bc0",
-      "title": "Nteka da aire al Rayo y deja al Elche al borde del precipicio",
-      "summary": "fdsfsd",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/04/03/nteka-dispara-rayo-elche-catatonico-diez.html",
-      "pubDate": "Fri, 03 Apr 2026 22:59:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d02b6263508.jpeg"
-    },
-    {
-      "id": "3876413c2566ca56054e",
-      "title": "Remontadón de Baskonia que deja al Madrid sin liderato",
-      "summary": "Mario Hezonja, defendido por Timothé Luwawu-Cabarrot.",
-      "link": "https://www.marca.com/baloncesto/euroliga/2026/04/03/real-madrid-le-escurre-victoria-manos.html",
-      "pubDate": "Fri, 03 Apr 2026 22:52:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/03/69d0286f82ec8.jpeg"
-    },
-    {
       "id": "882fcff0b14602d4c4b3",
       "title": "Revelan la duración de Mortal Kombat 2: la más larga de la saga",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La duración de Mortal Kombat 2 ya ha salido a la luz y la secuela apunta directamente a uno de los grandes problemas y también una de las grandes promesas, de cualquier adaptación de esta saga: cómo meter tanto personaje, tanta pelea y tanto caos en una sola película sin que todo salte por los aires. La buena noticia es que parece que esta vez Warner Bros. quiere jugar una partida más ambiciosa. Y tiene sentido. La primera entrega de 2021 dejó sensaciones encontradas, pero también la impresión de que aquello solo era el calentamiento antes del torneo de verdad. Ahora, con Johnny Cage entrando por fin en escena, más luchadores sobre la mesa y un enfoque más grande, Mortal Kombat 2 empieza a perfilarse como la película que muchos esperaban desde hace años. Mortal Kombat 2 será la película más larga de la franquicia Según la ficha publicada por AMC Theatres, Mortal Kombat 2 tendría una duración de 1 hora y 56 minutos , es decir, 116 minutos en total. Si se confirma oficialmente, eso la convertiría en la entrega cinematográfica más larga de la saga hasta la fecha. Puede parecer un detalle menor, pero no lo es. La cinta de 2021 duraba 110 minutos, así que esta secuela ganaría seis minutos extra. Y en una franquicia como esta, donde cada combate, presentación de personaje o fatality necesita su espacio, ese margen puede marcar bastante la diferencia. Mortal Kombat (1995) &#8211; 1 hora y 41 minutos (101 minutos) Mortal Kombat: Annihilation (1997) &#8211; 1 hora y 35 minutos (95 minutos) Mortal Kombat (2021) &#8211; 1 hora y 50 minutos (110 minutos) Mortal Kombat II (2026) &#8211; 1 hora y 56 minutos (116 minutos) Porque aquí no hablamos de una película pequeña. Mortal Kombat 2 tiene que equilibrar un reparto enorme, varias historias paralelas y, además, satisfacer a un público que no perdona cuando un personaje icónico aparece dos minutos o cuando una pelea importante se resuelve demasiado deprisa. Mortal Komba",
@@ -1991,16 +2002,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/mortal-kombat-2-logo.jpg"
-    },
-    {
-      "id": "73ac24913c851c39a3a6",
-      "title": "Estados Unidos rescata a un piloto del primer avión derribado por Irán en la guerra",
-      "summary": "Vista del puente B1 de la ciudad de Karaj, bombardeado ayer por Estados Unidos. El puente B1 se encontraba en construcción y era el más grande de Irán. Jaime de León (EFE)",
-      "link": "https://elpais.com/internacional/2026-04-03/estados-unidos-rescata-a-un-piloto-del-primer-avion-derribado-por-iran-en-la-guerra.html",
-      "pubDate": "Fri, 03 Apr 2026 21:57:15 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/IADJE7YBANIRFEJIK6JO5R75ZM.jpg?auth=01b316f2646d27b42c73c62a4376bb03c6b7ed28a8dc3ffcac048d9e515c7dbf"
     },
     {
       "id": "54222187320625a3cd22",
@@ -2021,16 +2022,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/EI674RICVRHT3IR6ZSOHBAETT4.jpg?auth=657932b582aee68e72c63e0c71ace9e824ef3665e0535ce495a09662e4ec9ae3"
-    },
-    {
-      "id": "359cd5245086ee162af0",
-      "title": "Qué se sabe de la liberación de más de 2.000 presos anunciada por el gobierno de Cuba en medio de las tensiones con EE.UU.",
-      "summary": "Organizaciones de derechos humanos han confirmado algunas excarcelaciones, pero denuncian que los presos políticos quedan excluidos de la medida.",
-      "link": "https://www.bbc.com/mundo/articles/cx2vn22d61po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 03 Apr 2026 20:53:32 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a4a/live/7f2caf60-2f9a-11f1-934f-036468834728.jpg"
     },
     {
       "id": "d110f583baf14104e048",
@@ -2181,7 +2172,7 @@
       "pubDate": "Fri, 03 Apr 2026 15:13:37 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XOK2FKEEDJCCHP25XCWHJGBXVE.jpg?auth=7f676a325d8365164a0fbeb22a2a52feb3fbad99d9d7e240a8d5dff4fa92ab5c"
+      "image": "https://imagenes.elpais.com/resizer/v2/6IZOSCCP35HLFB2SP3DPUAWKIE.jpg?auth=ef950289023b95d71c8e56ae5ba8e28f3d113504af45d528c43ea3bc2c44134a"
     },
     {
       "id": "4eebe73951714826fbf9",
@@ -2525,16 +2516,6 @@
       "image": "https://static.eldiario.es/clip/820f40a3-aeb3-4f2d-bc16-e43d5a70ff74_16-9-discover-aspect-ratio_default_1093070.jpg"
     },
     {
-      "id": "5c8cc6f0f3843364c390",
-      "title": "Weapons expandirá su historia con una precuela ya confirmada",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Weapons no solo fue una de las grandes sorpresas del cine de terror reciente, también acaba de demostrar que no piensa quedarse en una sola película. La historia seguirá creciendo con una precuela oficial que ya está en marcha y que pondrá el foco en uno de los personajes más inquietantes de toda la cinta. Y sí, aquí está la parte realmente jugosa: el universo de Weapons va a mirar hacia atrás para explorar el pasado de la tía Gladys , la villana interpretada por Amy Madigan . Después del impacto que dejó en pantalla, la decisión tiene bastante sentido. De hecho, era justo el personaje que más pedía una historia propia. La noticia confirma además que Zach Cregger seguirá muy implicado en este nuevo proyecto, algo que cambia bastante las cosas. Porque si Weapons funcionó tan bien no fue solo por su atmósfera o por sus sustos, sino por una identidad muy concreta que ahora podría ampliarse todavía más. Weapons ya no es una sola película Cuando una película de terror conecta de verdad con el público, se nota rápido. Y eso fue exactamente lo que pasó con Weapons. La cinta se convirtió en un éxito enorme en taquilla, hasta el punto de acercarse a los 270 millones de dólares en todo el mundo, una cifra muy seria para una propuesta de este tipo. Ese rendimiento no solo consolidó a Weapons como uno de los títulos fuertes del género, también dejó claro que había material de sobra para seguir desarrollando su historia. Y no hablamos de una secuela hecha deprisa para aprovechar el tirón, sino de una expansión que parece tener una dirección bastante clara desde el principio. Según la información conocida ahora, la precuela se centrará en tía Gladys antes de los acontecimientos de Weapons. Es decir, la película buscará contar quién era realmente este personaje antes de convertirse en esa figura tan perturbadora que vimos en pantalla. Y esa es una idea muy potente, porque parte del encanto del personaje estaba precisame",
-      "link": "https://www.cinemascomics.com/weapons-expandira-precuela-confirmada/",
-      "pubDate": "Fri, 03 Apr 2026 03:01:42 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/precuela-weapons.jpg"
-    },
-    {
       "id": "e664a0c8c9f062047efe",
       "title": "La nave Orión realiza con éxito la maniobra de inyección translunar y los astronautas de la misión Artemis II ya se dirigen hacia la Luna",
       "summary": "La maniobra de inyección translunar comenzó a las 19:49 y duró poco menos de seis minutos.",
@@ -2549,7 +2530,7 @@
       "title": "Cómo fue el lanzamiento de Artemis II rumbo a la órbita de la Luna",
       "summary": "La tripulación de Artemis II no alunizará, sino que planea orbitar la Luna, viajando a una distancia de la Tierra mayor que la que jamás haya alcanzado nadie. Así te lo contamos en BBC Mundo.",
       "link": "https://www.bbc.co.uk/mundo/live/ckgx48d2300t?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T06:52:49.897491+00:00",
+      "pubDate": "2026-04-04T08:34:42.145319+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a81b/live/f35a4980-2ea8-11f1-aa0c-dd9a23733a84.jpg"
@@ -2590,5 +2571,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-04T06:53:17.853460+00:00"
+  "updated": "2026-04-04T08:35:21.690802+00:00"
 }
