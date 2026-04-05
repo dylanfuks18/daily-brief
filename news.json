@@ -53,16 +53,6 @@
       "subcat": "mercado"
     },
     {
-      "id": "f434ca086bf811d78f6c",
-      "title": "PS6 portátil será más potente que Xbox Series S y utilizará PSSR 3",
-      "summary": "PS6 portátil es un proyecto en el que Sony estaría preparando para complementar el futuro lanzamiento de PS6. Gracias a la gran cantidad de filtraciones y rumores que han ido apareciendo ya sabemos cómo podría ser esta consola, y hemos resuelto bastantes dudas recopilando toda la información fiable que tenemos hasta la fecha. Según KeplerL2 , una de las fuentes más prolíficas y más fiables, PS6 portátil va a ser más potente que Xbox Series S. La consola de Microsoft fue lanzada a finales de 2020, tiene una potencia bruta de 4 TFLOPs en FP32 y utiliza una GPU RDNA 2, así que es lógico que una consola portátil prevista para 2027 y basada en RDNA 5 vaya a ser capaz de superarla. La nueva consola portátil de Sony será más potente que Xbox Series S en rasterización, y mucho más potente en trazado de rayos. Otra novedad importante es que tendrá soporte de PSSR 3, la próxima revisión de la tecnología de reescalado y reconstrucción de la imagen de Sony. Dicha tecnología debería trabajar con operaciones FP8, ya que esto le permitiría ofrecer una mayor calidad y estabilidad de la imagen. Esta tecnología podría ser uno de los avances más importantes de PS6 portátil, porque según KeplerL2 ofrecerá un nivel de calidad de imagen superior al que podemos encontrar en DLSS 4.5 de NVIDIA, que es la tecnología de reescalado y reconstrucción de la imagen más avanzada que existe ahora mismo. Esto es mucho decir, sobre todo teniendo en cuenta el nivel al que ha llegado NVIDIA con dicha versión de DLSS, pero viendo lo ocurrido con PSSR 2, y teniendo en cuenta que PSSR 3 debería pasar de INT8 a FP8, la verdad es que no me parece ninguna locura . Aunque PS6 portátil se está comparando con Xbox Series S, en realidad su rival va a ser Nintendo Switch 2. La consola de Sony será mucho más potente, y estará más avanzada técnicamente. PSSR 3 será superior a la versión de NVIDIA DLSS que utiliza la portátil de Nintendo, y ambas consolas ocuparán posiciones muy diferentes. PS6 portátil posicionará ",
-      "link": "https://www.muycomputer.com/2026/04/01/ps6-portatil-sera-mas-potente-que-xbox-series-s-y-utilizara-pssr-3/",
-      "pubDate": "Wed, 01 Apr 2026 14:12:12 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/AMD-nueva-generacion-trazado-de-rayos.jpg"
-    },
-    {
       "id": "38c773ab79d4b8bd1104",
       "title": "OpenAI anuncia una “superaplicación de IA unificada” y revela sus grandes cifras tras cerrar la mayor ronda de la historia",
       "summary": "OpenAI ha cerrado la mayor ronda de financiación de la historia, aunque esto ya no es noticia. Es, si mis cuentas no fallan , la tercera vez que logran batir los récords del sector startup con rondas descomunales que cuentan sus volúmenes por miles de millones. En este caso se trata de 122.000 millones de dólares , que consolidan su posición como la segunda startup más valiosa del mundo , y todo gracias al apoyo de inversores habituales como Softbank, Amazon, Microsoft o Nvidia. Pero como decíamos, ese no es el motivo que nos trae aquí. En el comunicado en el que ha anunciado el cierre de esta megaronda, la empresa liderada por Sam Altman ha aprovechado para sacar pecho y lucir sus grandes cifras, algunas de ellas desconocidas hasta el momento. Ah, y ha explicado en qué está trabajando ahora. Se acerca la superaplicación de OpenAI Hacia una superaplicación de IA unificada &#8220;Estamos creando una superaplicación de IA unificada. A medida que los modelos se vuelven más capaces, el factor limitante pasa de la inteligencia a la usabilidad. Los usuarios no quieren herramientas desconectadas. Quieren un sistema único que pueda comprender la intención, actuar y operar en diversas aplicaciones, datos y flujos de trabajo. Nuestra superaplicación integrará ChatGPT, Codex, la navegación y nuestras capacidades de agente en una experiencia centrada en el agente&#8221; . De esta forma, OpenAI presenta sus próximos pasos en el campo de la IA, buscando simplificar su cada vez más extenso catálogo de productos. Un movimiento que tiene parte de estrategia comercial, pero que también sitúan en el campo de la propia eficiencia a nivel de operaciones internas: &#8220;una única plataforma de producto nos permite mejorar más rápido, realizar lanzamientos más coherentes y capturar un mayor valor generado por los flujos de trabajo basados ​​en agentes&#8221;. Todavía estamos en los primeros momentos tras el anuncio, y es complicado imaginarse qué consecuencias tendrá este movimiento para",
@@ -301,17 +291,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/32c6/live/5b37d650-2ecf-11f1-ade2-21c4f89d0ea3.jpg"
     },
     {
-      "id": "75b32e175b87c7c4a2dd",
-      "title": "¿Bienvenidos al futuro? Copilot no solo escribe código: también mete anuncios en tu repositorio de GitHub",
-      "summary": "Meter inteligencia artificial generativa a prácticamente todos los productos y servicios que usamos en la actualidad se ha convertido en un vicio de la mayoría de las tecnológicas. En el caso de Microsoft, esta semana quedó en el ojo del huracán luego de que Copilot inyectara anuncios en repositorios de GitHub . Una situación que salió a la luz prácticamente por casualidad y que obligó a los de Redmond a tomar cartas en el asunto. El asunto se hizo público luego de que un desarrollador llamado Zach Manson contara su situación. El programador reportó que un colega había usado Copilot para corregir un error de ortografía en un pull request (PR) de GitHub. Pero la IA no se limitó a hacer lo que le pidieron, sino que también incorporó una publicidad promocionando una aplicación llamada Raycast en la descripción del pull request en cuestión. \"Esto es horrible. \"Sabía que este tipo de estupideces pasarían tarde o temprano, pero no me lo esperaba tan pronto\", publicó Manson en su web . Sin embargo, su caso lejos quedó de ser el único, o el primero siquiera. Según reportó Neowin , el mismo anuncio creado por Copilot apareció en más de 11.000 pull requests de miles de repositorios de GitHub. Pero también en los merge requests de GitLab. De modo que Copilot llevaba algún tiempo introduciendo anuncios en GitHub y GitLab sin que la enorme mayoría de los usuarios y desarrolladores se percatara. La reacción negativa del público no se hizo esperar, por lo que Microsoft se vio obligada a intervenir y desactivar por completo los \"consejos\" disfrazados de publicidades que generaba su IA. Copilot la lía al inyectar anuncios en repositorios de GitHub Martin Woodward, vicepresidente de relaciones con desarrolladores de GitHub, reconoció que la inyección de anuncios en GitHub a través de Copilot fue un bug . Y si bien reconoció que se trató de un error de Microsoft, también aseveró que no hubo acuerdos comerciales con Raycast ni ninguna otra empresa para meter publicidades en los pull re",
-      "link": "https://hipertextual.com/inteligencia-artificial/anuncios-inyectados-ia-github-copilot/",
-      "pubDate": "Thu, 02 Apr 2026 19:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/GitHub-OctoCat.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "desarrollo"
-    },
-    {
       "id": "162a3cdf825d526b1438",
       "title": "NVIDIA App mejora la compilación de shaders en juegos",
       "summary": "La compilación de shaders se ha convertido en una de las molestias más persistentes del PC gaming actual. Muchos títulos, especialmente los basados en DirectX 12, necesitan generar miles de shaders antes o durante la ejecución para adaptarlos al hardware del usuario. Cuando este proceso se produce mientras jugamos puede provocar tirones, pausas breves o el conocido stuttering. Con este contexto en mente, NVIDIA sigue ampliando las funciones de la NVIDIA App , y en su última versión beta ha introducido una herramienta pensada precisamente para reducir este problema . La novedad se llama Auto Shader Compilation , y su objetivo es bastante claro: recompilar los shaders necesarios fuera de la partida, aprovechando los momentos en los que el sistema está inactivo o con una carga baja . De esta manera, cuando el usuario inicie el juego, gran parte del trabajo ya estará hecho y el motor gráfico no tendrá que realizar ese proceso en tiempo real. Según NVIDIA, esta función pretende minimizar las recompilaciones que suelen producirse tras instalar nuevos drivers o aplicar actualizaciones a los juegos. Para entender su utilidad conviene recordar cómo funciona este proceso. Los shaders son pequeños programas que determinan cómo se renderiza cada píxel en pantalla , y normalmente están escritos en un lenguaje comprensible para los desarrolladores. Antes de que la GPU pueda utilizarlos deben compilarse en código optimizado para el hardware, una tarea que puede implicar decenas de miles de traducciones en juegos modernos. Cada vez que se actualizan los controladores gráficos o el propio juego, ese proceso puede repetirse, lo que explica por qué muchos títulos muestran pausas o tirones la primera vez que se ejecutan tras una actualización. La nueva función puede activarse desde la beta de la NVIDIA App , dentro del apartado de configuración de la caché de shaders. Una vez habilitada, permite definir varios parámetros, como el espacio de almacenamiento que se reservará para esta cac",
@@ -406,6 +385,76 @@
       "image": "https://static.eldiario.es/clip/cfbaa98e-c51e-466d-9a25-3b133291129c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
+      "id": "3c5f1150915d7e01ff23",
+      "title": "Imágenes nunca vistas de la luna: descubrimiento de la cuenta oriental completa",
+      "summary": "La NASA compartió por primera vez imágenes inéditas de la luna. En la fotografía tomada por la misión Artemis se puede apreciar la cuenca oriental completa en el borde derecho del disco lunar. Es la primera vez que el ojo humano observa este detalle.",
+      "link": "https://www.marca.com/tiramillas/ciencia/2026/04/05/imagenes-nunca-vistas-luna-descubrimiento-cuenta-oriental-completa-video.html",
+      "pubDate": "Sun, 05 Apr 2026 10:27:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUMLq1fqXoABlpNoz.jpeg"
+    },
+    {
+      "id": "f47683c30610f3d5b5df",
+      "title": "Trump sale ardiendo en la 'quema de Judas': rituales en el Sábado Santo de México",
+      "summary": "El sábado por la noche, en la Ciudad de México, se quemaron efigies de Donald Trump y de otras figuras políticas como parte de la tradicional celebración de la “Quema de Judas”. Este evento se celebra cada Sábado Santo en todo México, cuando personas de distintas regiones se reúnen en plazas públicas para prender fuego a estas coloridas figuras, que simbolizan el mal, acompañadas de fuegos artificiales.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/05/trump-sale-ardiendo-quema-judas-rituales-sabado-santo-mexic-video.html",
+      "pubDate": "Sun, 05 Apr 2026 10:26:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aULmS1fqXNuefGKL2.jpeg"
+    },
+    {
+      "id": "3d7bf1858598859502f9",
+      "title": "Griezmann va a tener mucho trabajo: le endosan un 6-0 a su nuevo equipo",
+      "summary": "El Orlando City cayó estrepitosamente ante LAFC en la última jornada de la MLS. Denis Bouanga marcó tres goles, su quinto 'hat-trick' desde que llegó a la liga de Estados Unidos y Son Heung-min dio cuatro asistencias.",
+      "link": "https://www.marca.com/futbol/estados-unidos/2026/04/05/griezmann-trabajo-le-endosan-6-0-nuevo-equip-video.html",
+      "pubDate": "Sun, 05 Apr 2026 10:25:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aULe41fqXEqZ9Y50F.jpeg"
+    },
+    {
+      "id": "ddeffd09941f6b6c73ae",
+      "title": "Xammar y Cardona: \"Nos sentimos más fuertes que la mayoría de la flota\"",
+      "summary": "Marta Cardona y Jordi Xammar celebran la victoria en el 55 Trofeo Princesa Sofía Mallorca.",
+      "link": "https://www.marca.com/vela/2026/04/05/xammar-cardona-sentimos-fuertes-mayoria-flota.html",
+      "pubDate": "Sun, 05 Apr 2026 09:56:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d156697d2b7.jpeg"
+    },
+    {
+      "id": "a98f31f956d4e3414684",
+      "title": "Apellidos con medalla: Fullana, Hermida, Coloma y Valero disfrutan en la Vuelta a Ibiza",
+      "summary": "Una foto con historia en Ibiza.",
+      "link": "https://www.marca.com/ciclismo/2026/04/05/apellidos-medalla-fullana-hermida-coloma-valero-disfrutan-vuelta-ibiza.html",
+      "pubDate": "Sun, 05 Apr 2026 09:46:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d1344bce757.jpeg"
+    },
+    {
+      "id": "7b75992035b5e42e36a4",
+      "title": "María José Marín gana el Masters con un bombero de caddie tras un turno de 14 horas",
+      "summary": "Darren Woo (56) anima a María José Marín (19) en el Augusta National",
+      "link": "https://www.marca.com/golf/masters-augusta/2026/04/05/maria-jose-marin-gano-masters-femenino-bombero-caddie.html",
+      "pubDate": "Sun, 05 Apr 2026 09:24:07 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d20dd644751.jpeg"
+    },
+    {
+      "id": "4c4e220b0ea47744fc7f",
+      "title": "El agente de Hezonja suelta una bomba",
+      "summary": "Mario Hezonja hace una entrada a canasta.",
+      "link": "https://www.marca.com/baloncesto/acb/2026/04/05/agente-hezonja-suelta-bomba-descarto-absoluto-pueda-volver-nba.html",
+      "pubDate": "Sun, 05 Apr 2026 09:02:39 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d203b79a7ce.jpeg"
+    },
+    {
       "id": "8804fde969315ebe4cc3",
       "title": "El Austin estropea la fiesta de Messi con el Inter Miami",
       "summary": "Messi se lamenta durante el partido.",
@@ -424,6 +473,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUBB01fqPBMx3YUvr.jpeg"
+    },
+    {
+      "id": "2ec5c56b9790273499b9",
+      "title": "Muere en Madrid a los 86 años el periodista Diego Carcedo",
+      "summary": "El periodista Diego Carcedo, en una imagen de archivo de 2023.",
+      "link": "https://elpais.com/comunicacion/2026-04-05/muere-en-madrid-a-los-86-anos-el-periodista-diego-carcedo.html",
+      "pubDate": "Sun, 05 Apr 2026 08:33:15 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ASNH53O2WJIONOSLOXKHLMAAZI.jpg?auth=c4f6c72cc53f887acc198eddf0003649007f986e7dd636fbe45db28ea7416fe1"
     },
     {
       "id": "7eb47f788f02528a3a98",
@@ -446,6 +505,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1fff852e06.jpeg"
     },
     {
+      "id": "e8f617f9a3ca1b3ab1e4",
+      "title": "EN VIVO: El papa León XIV celebra la Misa de Pascua desde el Vaticano",
+      "summary": "La celebración se lleva a cabo en la plaza de San Pedro.",
+      "link": "https://actualidad.rt.com/actualidad/597243-papa-leon-xiv-celebra-misa-pascua?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 08:27:57 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d21ca2e9ff7125f15e704d.jpg"
+    },
+    {
       "id": "312e5f375756d59f73b5",
       "title": "Trump quiere 'volver' a la cárcel de Alcatraz: sus planes",
       "summary": "Donald Trump en una prisión de Estados Unidos.",
@@ -456,6 +525,36 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1fd7b81abe.jpeg"
     },
     {
+      "id": "13bf146b0fed2839b170",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo| Trump anuncia el rescate del segundo piloto del caza derribado por Irán el viernes",
+      "summary": "Dos hombres evalúan los daños causados por un ataque a la Universidad Shahid Beheshti, en Teherán, este sábado.",
+      "link": "https://elpais.com/internacional/2026-04-05/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Sun, 05 Apr 2026 08:11:01 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/MYISAHUVIBCEPF326U2R3NV76M.JPG?auth=1ac28e0646004d88d076848d70b1bdfa7111882fa3c1ac44e0a0a958c101002e"
+    },
+    {
+      "id": "208fad8a69e35bf9ba66",
+      "title": "Spaceballs 2 ya tiene fecha de estreno",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Después de décadas siendo uno de esos proyectos que parecían existir solo en forma de chiste recurrente, Spaceballs 2 (La loca historia de las galaxias) ya es completamente real. Y no hablamos de un simple “está en marcha”, sino de algo mucho más concreto: la secuela de la mítica parodia galáctica llegará a los cines el 23 de abril de 2027 . Sí, han pasado 40 años desde la película original. Cuatro décadas. Lo suficiente como para que esta continuación parezca casi una broma metacinematográfica… lo cual, siendo Spaceballs , en realidad le queda bastante bien. Pero aquí viene lo importante: no será una secuela cualquiera, porque recuperará a varias de sus caras más icónicas y, de paso, traerá de vuelta a una leyenda de la comedia que muchos ya no esperaban volver a ver en pantalla. La noticia convierte a Spaceballs 2 en uno de esos regresos imposibles que, de repente, pasan de la nostalgia al calendario real. Y eso cambia mucho las cosas para quienes crecieron con aquella locura espacial firmada por Mel Brooks . La secuela llega en un momento muy curioso para el cine de franquicias El estreno de Spaceballs 2 no se producirá precisamente en un vacío intergaláctico. La película aterrizará en salas justo en una temporada especialmente movida para el cine comercial, compartiendo fecha con F.A.S.T. , el thriller de Warner Bros. protagonizado por Brandon Sklenar y Juliana Canfield, y además muy cerca del esperado salto al cine de The Legend of Zelda , previsto para principios de mayo de 2027. Eso le da a la secuela un contexto bastante interesante. La primera Spaceballs funcionó como una sátira de las grandes sagas de ciencia ficción, especialmente Star Wars , pero también de otras franquicias como Star Trek , Alien , 2001: Una odisea del espacio , Transformers o El planeta de los simios . En otras palabras: se reía de un Hollywood obsesionado con las franquicias. Y ahora regresa en una época donde esa obsesión ",
+      "link": "https://www.cinemascomics.com/spaceballs-2-ya-tiene-fecha-de-estreno/",
+      "pubDate": "Sun, 05 Apr 2026 08:01:16 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Spaceballs-2-01.jpg"
+    },
+    {
+      "id": "32075a37adec30bd8fbd",
+      "title": "Cuántos dólares gana una niñera en Nueva York en abril de 2026",
+      "summary": "El salario promedio de una niñera en la ciudad de Nueva York se ubica en los 22,78 dólares por hora en abril de 2026 . El rango de remuneración oscila entre los US$17,11 y los US$30,15 , según análisis consultados. Cuál es el salario real de las niñeras en Nueva York El pago de las niñeras puede llegar a ser de entre US$35.000 y US$67.000 anuales en Nueva York , informó la plataforma Payscale . Sin embargo, el monto puede variar de acuerdo con cada zona y horas extras . A su vez, la experiencia y especialidad de cada trabajadora también influyen en el salario fina l. Por ejemplo: Menos de un año de experiencia: su compensación total promedio (incluidas propinas, bonificaciones y pago de horas extras) es de US$17,11 por hora. Entre uno y cuatro años de experiencia: su monto puede ser de US$19,50 por hora. Por otro lado, el portal indica que el 85% de las niñeras no percibe ningún beneficio para la salud , mientras que el 15% restante posee un seguro o cobertura médica. Según las capacidades de cada niñera, el salario por hora promedio también puede diferir: Actividades para niños: perciben US$23 por hora Educación infantil: cobran de US$21 a US$28 por hora Limpieza: el monto es de US$22 por hora Cómo puede hacer una niñera para aumentar su salario en Nueva York De acuerdo con Payscale , es posible aumentar el salario de una niñera tanto en la ciudad de Nueva York como en todo el estado , y hay varias maneras de lograrlo. Nivel educativo: obtener títulos superiores puede aumentar el potencial de ingresos y permitirle a la trabajadora optar a ascensos. Experiencia en gestión: una niñera que supervisa a otras con menos experiencia puede incrementar sus posibilidades de ganar más. ¿Qué tareas hace una niñera en EE.UU.? Según Payscale , el trabajo de una niñera se basa en cuidar a los hijos de una persona en su hogar . Debe ser una profesional altamente capacitada en el sector, en muchos casos con certificaciones en el cuidado de la primera infancia . Entre sus principale",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/cuantos-dolares-gana-una-ninera-en-nueva-york-en-abril-de-2026-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/HJGBJZLTPJHNLBXGU4UEKWBTSU.png?auth=e1bb8b5c6e18cd0ef2fb46b8d58ae5223135d4d1288c889be0ea3bff4aca8837&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "90c3e47e90caab3d1187",
       "title": "\"De Fede... a don Federico Valverde\"",
       "summary": "Fede Valverde celebra un gol en el Santiago Bernabéu esta temporada.",
@@ -464,6 +563,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d1306cf3f84.jpeg"
+    },
+    {
+      "id": "4e352976dfef874db0e9",
+      "title": "\"Es angustiante y tremendamente peligroso\": cómo llevan a cabo los equipos de élite de EE.UU. las operaciones de rescate de soldados en combate",
+      "summary": "Las misiones de \"Búsqueda y rescate en combate\" se consideran unas de las operaciones más complejas y urgentes para las que se preparan los ejércitos de EE.UU. y sus aliados.",
+      "link": "https://www.bbc.com/mundo/articles/cy41dvnxvk1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 05 Apr 2026 07:33:47 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg"
     },
     {
       "id": "52f5987808bfcd65b4a0",
@@ -486,6 +595,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/05/68baf672e79a9.jpeg"
     },
     {
+      "id": "faf1fe097e28ac032220",
+      "title": "Ocon se sincera: \"Mi carrera en la F1 es decepcionante, una victoria no es suficiente\"",
+      "summary": "Esteban Ocon está firmando un gran inicio de temporada en Haas",
+      "link": "https://www.marca.com/motor/formula1/2026/04/05/ocon-sincera-mi-carrera-f1-decepcionante-victoria-suficiente.html",
+      "pubDate": "Sun, 05 Apr 2026 07:29:14 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/03/25/67e2a5707f677.jpeg"
+    },
+    {
       "id": "21e395cd367a480c27d4",
       "title": "Algo está pasando con Marc Márquez",
       "summary": "Marc Márquez lucha por la quinta plaza con Bagnaia y Bastianini en el COTA.",
@@ -506,6 +625,56 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/12/68c42ff13f16e.jpeg"
     },
     {
+      "id": "e95b694455c3de99647a",
+      "title": "PRIMERAS IMÁGENES de los restos de las aeronaves de EE.UU. derribadas por Irán mientras buscaban a su piloto",
+      "summary": "Los aparatos fueron destruidos mientras Estados Unidos llevaba a cabo una operación de búsqueda y rescate del segundo piloto perteneciente al caza que Irán había derribado el pasado viernes en su territorio.",
+      "link": "https://actualidad.rt.com/actualidad/597242-primeras-imagenes-restos-aeronaves-eeuu-derribadas-iran-buscaban-piloto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 07:27:32 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d21056e9ff71357e73d416.jpg"
+    },
+    {
+      "id": "ceb159989d78838aa673",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 5 de abril",
+      "summary": "Las Fuerzas de Defensa de Israel (FDI) informaron este domingo, a través de sus redes sociales, que en las últimas 24 horas atacaron 120 objetivos del régimen iraní. Según indicaron, todos estaban ubicados en el centro y el oeste del país persa. \"Entre los objetivos se incluían: emplazamientos de sistemas de misiles balísticos, centros de producción y lanzamiento de vehículos aéreos no tripulados (UAV) y emplazamientos de defensa aérea\", detallaron. ⭕️✈️24 HOUR RECAP: The IAF struck 120+ targets of the Iranian regime in central western Iran. Targets included: ballistic missiles array sites, UAV production and launching sites, air defense sites. pic.twitter.com/8ivPlbdm7y Israel Defense Forces (@IDF) April 5, 2026 El Gobierno de Siria decidió cerrar temporalmente el cruce de Masnaa , que permite el paso al Líbano . La decisión se tomó, según informó CNN , luego de que las fuerzas de Israel emitieran una orden de evacuación previa a ataques aéreos que tienen decidido realizar. “Debido al uso por parte de Hezbollah del cruce de Masnaa con fines militares y para el contrabando de armas, el ejército israelí tiene la intención de llevar a cabo ataques aéreos contra el cruce en un futuro próximo”, dijo el portavoz en árabe de las Fuerzas de Defensa de Israel (FDI), Avichay Adraee. En medio de un nuevo ataque de Irán contra países del Golfo Pérsico, en Kuwait se reportó una explosión y un incendio en el edificio del Ministerio de Petróleo. Según informaron medios locales, no hubo heridos dado que la estructura estaba vacía a la hora del impacto. El ataque iraní sucede luego de que el presidente de Estados Unidos, Donald Trump, diera un ultimátum al régimen respecto a cesar los ataques contra países vecinos aliados de EE.UU. y respecto a la reapertura del estrecho de Ormuz. BREAKING: Iranian suicide drones just struck Kuwait’s Ministry of Oil HQ, setting it on fire pic.twitter.com/eaO34JlzxD Visegrád 24 (@visegrad24) April 4, 2026 Las Fuerzas de Defensa de Israel (FDI) infor",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-5-de-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 07:20:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/AMQUR2YG4FC7HN7ANHY3OYX2VM.jpg?auth=fe40c90239a45c1aa469a8b84cdaef661b2dc742ad0649c67a25335cafbab92f&smart=true&width=6000&height=4000"
+    },
+    {
+      "id": "10abd4168a05259ad04e",
+      "title": "Trump anuncia el rescate del segundo tripulante del avión de combate F-15 derribado por Irán el viernes",
+      "summary": "El derribo de un caza F-15 de EE.UU. en suelo iraní el viernes desató una frenética búsqueda a contrarreloj por parte de fuerzas estadounidenses y de Irán, que habían ofrecido una recompensa por su captura.",
+      "link": "https://www.bbc.com/mundo/articles/cly91kwzp4qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 05 Apr 2026 07:18:42 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0807/live/8e19e3a0-2f70-11f1-934f-036468834728.png"
+    },
+    {
+      "id": "a7ba15eb511dd7ea5d5f",
+      "title": "Día 37 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente entra domingo 5 de abril en su 37° día de guerra . El presidente de Estados Unidos, Donald Trump, lanzó un ultimátum a Irán con respecto a la apertura del estrecho de Ormuz. Desde Teherán, rechazaron la presión estadounidense y redoblaron las amenazas con bombardeos a países del Golfo. Israel aseguró que atacó 120 objetivos en las últimas 24 horas. Fueron rescatados los dos tripulantes del F-15 derribado en territorio iraní. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Trump presiona a Irán para llegar a un acuerdo sobre la reapertura del estrecho de Ormuz en las próximas 48 horas y asegura que, de no acceder, la república islámica se enfrentará a un “infierno”. Irán rechazó el ultimátum de Estados Unidos . “Se les abrirán las puertas del infierno”, redobló el general Ali Abdollahi Aliabadi. Estados Unidos celebró que logró rescatar al segundo tripulante del F-15 derribado por Irán. Este sábado se registró un bombardeo de EE.UU. e Israel cerca de una planta nuclear iraní en Bushehr . Las fuerzas de Defensa de Israel aseguraron que atacaron 120 objetivos en territorio iraní en las últimas 24 horas . Otros hechos de importancia La Casa Blanca desmintió las versiones que circulaban en redes sociales sobre una supuesta hospitalización del presidente de Estados Unidos. En el marco de la Semana Santa, el papa León XIV volvió a referirse al conflicto en Medio Oriente y habló de “expulsar el odio y doblegar a los poderosos”. Trump considera realizar más cambios en la cúpula de su administración . Desde Teherán advirtieron sobre los ataques contra instalaciones nucleares y el “riesgo de radiación” que podría suponer. Desde Moscú calificaron de “acción nefasta” al ataque que alcanzó a la central nuclear de Bushehr. El Gobierno argentino confirmó que el máximo representante diplomático de Irán abandonó la Argentina . Por qué Estados Unidos e Israel atacaron ",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-37-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 07:16:59 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/6X2A3TFGDBAZHBANQWDCRDEIGE.jpg?auth=928a1cb91a9873d4daaa58faf3a54f57096e823a020babd80c3f810a1db8348f&smart=true&width=6000&height=4000"
+    },
+    {
+      "id": "f74ed4cb4978039e161f",
+      "title": "Florencia de la V habló de su pasado y explicó por qué le genera “pánico” ver a un policía: “Lo único que quería era sobrevivir”",
+      "summary": "El sábado por la noche, Florencia de la V habló a corazón abierto en La noche de Mirtha del lugar que se ganó en la televisión y de la importancia que tiene para ella ser una persona trans y estar en la pantalla todos los días. También recordó uno de los momentos más duros de su vida, cuando en la década del 80, en los años del regreso de la democracia, salía a la calle con temor a que se la lleven presa. “ Nos cazaban en la Panamericana” , recordó. Todo comenzó cuando Mirtha Legrand le preguntó por Los profesionales de siempre , el ciclo que conduce de lunes a viernes por la pantalla de Elnueve. “Yo estoy chocha. La verdad es que hace un año que estoy en el canal trabajando de lo más cómoda y feliz haciendo un programa que me gusta. Tengo un equipo de panelistas y de producción hermoso y me encanta ”, explicó la conductora. “Amo hacer televisión, Mirtha ”, sumó De la V con entusiasmo. “¡Se nota!”, la validó la Chiqui. En ese momento, De la V reveló por qué le entusiasma estar todos los días en la pantalla de la televisión abierta. “Yo valoro mucho el estar frente a cámara por todo lo que significa. Yo estuve del otro lado, fui una televidente, estaba del otro lado y sé lo que significa mi presencia en la televisión ”, expresó haciendo hincapié en su figura. “ Yo soy una travesti, una persona trans que todo los días está entrando a los hogares ”, destacó emocionada. “Y desde mi humilde lugar aporto un grano de arena a la charla en la mesa, a que se pueda hablar o visibilizar. Porque lo que me pasa a mí o le pasa a Lizy (Tagliani) o al resto de mis compañeras… somos un grupo muy ínfimo las que tenemos una vida privilegiada, pero no es lo que le pasa en general a las personas trans”, contó. De la V expresó que si bien ella logró hacerse un lugar en la televisión, aún trabaja por los derechos de las personas trans. “Desde ese lugar, mostrar con orgullo mi identidad, mostrar con orgullo que se puede dignamente, tener una pareja, acceso a la salud, a la vivienda. Hay un ",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/florencia-de-la-v-hablo-de-su-pasado-y-explico-por-que-le-genera-panico-ver-a-un-policia-lo-unico-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 07:12:46 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/RFAT7OQ7KJG3PPBH462OXFY5KY.jpg?auth=a06601a219767f2c219a31fd832addb1473efe135aae942282e4543e2080e43d&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "598e1fce4122c13385b0",
       "title": "El futuro de la UFC ya está aquí",
       "summary": "Renato Moicano tras finalizar a Chris Duncan.",
@@ -514,6 +683,76 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1daaab5c2f.jpeg"
+    },
+    {
+      "id": "8f6e2933002af44a3883",
+      "title": "Dónde entregan comida fresca gratis durante la semana del 6 al 12 de abril de 2026 en Chicago",
+      "summary": "En Chicago , quienes atraviesan dificultades económicas cuentan con una red de asistencia alimentaria que opera en distintos sectores de la ciudad . Para la semana del 6 al 12 de abril de 2026 , se registran más de 20 espacios habilitados, entre iglesias, organizaciones sociales y puntos comunitarios, que brindan provisiones sin costo en diferentes días y horarios . ¿Qué organizaciones entregan comida gratis en Chicago del 6 al 12 de abril? Existen diversas iniciativas que reparten alimentos sin costo en distintos barrios de la ciudad de Chicago y del condado de Cook. Entre ellas se destacan: Greater Chicago Food Depository : funciona como el principal banco de alimentos de la región. Coordina una red extensa de despensas, comedores y distribuciones móviles activas durante toda la semana. Catholic Charities of the Archdiocese of Chicago : gestiona bancos de alimentos junto con parroquias. Brinda comida gratuita y asistencia básica en múltiples puntos de Chicago. New Hope Community Food Pantry : es una despensa sin fines de lucro impulsada por voluntarios. Entrega alimentos de emergencia a familias del noroeste de la ciudad con un esquema semanal. The Friendship Center : es un centro comunitario que ofrece alimentos frescos, comidas calientes y otros recursos. Atiende a miles de personas cada mes en el noroeste de Chicago. ¿Cómo buscar comida gratis en Chicago, paso a paso? El Greater Chicago Food Depository dispone de un mapa interactivo oficial que permite ubicar puntos de entrega de alimentos en tiempo real. Para encontrar espacios con este servicio comunitario se deben seguir estos pasos: Ingresar al sitio oficial Escribir dirección o código postal Filtrar por día, distancia o tipo de programa Seleccionar despensas, comedores o distribuciones móviles Revisar requisitos adicionales, como identificación o servicios extra ¿Qué bancos de comida están disponibles en Chicago del 6 al 12 de abril de 2026? Según los calendarios de las organizaciones comunitarias, para la",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/donde-entregan-comida-fresca-gratis-durante-la-semana-del-6-al-12-de-abril-de-2026-en-chicago-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 07:07:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/4POBUVLI2BEVZCDFB2SVNDMFMA.png?auth=32d849b185a8f16385c829f48234171059ea2ed206851abb9f1e0c1d06d667aa&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "3ac127652bc3986446b2",
+      "title": "GEEKOM A5 Pro 2026 análisis completo",
+      "summary": "El GEEKOM A5 Pro 2026 es una evolución del modelo de 2025 que tuvimos la oportunidad de analizar en este artículo . A grandes rasgos, este equipo mantiene la misma propuesta que vimos en el modelo anterior, y apuesta por equilibrar su valor en relación calidad-precio. Hablo de calidad en sentido amplio porque los mini PCs de GEEKOM han logrado diferenciarse de otras marcas precisamente a través de su calidad de construcción, y de su fiabilidad . Llevo ya un tiempo probando estos equipos, y hasta el momento ninguno de ellos me ha dado el más mínimo problema. He tenido la oportunidad de probar el GEEKOM A5 Pro 2026 durante varias semanas, y en este artículo no solo os voy a contar cómo ha sido mi experiencia , sino que también voy a compartir con vosotros un análisis completo de su rendimiento , su consumo y de cómo se comporta a nivel de temperaturas. Especificaciones del El GEEKOM A5 Pro 2026 Chasis, medidas y peso Chasis fabricado en aleación de aluminio. Medidas: 112,4 × 112,4 × 37 mm. Peso: 652 gramos. Componentes clave APU AMD Ryzen 5 7530U con 6 núcleos y 12 hilos (arquitectura Zen 3) a 2 GHz-4,5 GHz, modo normal y turbo con 3 MB de caché L2 y 16 MB de caché L3. GPU integrada Radeon Vega 7 con 448 shaders (arquitectura GCN 5.1), 28 unidades de texturizado y 8 unidades de rasterizado. Su velocidad pico es de 2.000 MHz. 16 GB (2 x 8 GB) de DDR4 SODIMM a 3.200 MT/s en doble canal (bus de 128 bits). Ampliable hasta 64 GB. Unidad SSD M.2 PCIe Gen3 x4 NVMe de 1 TB GB ampliable. Ranura M.2 2242 para instalar una segunda unidad SSD. Espacio interno para montar una unidad de almacenamiento de 2,5 pulgadas. Sistema de refrigeración y conectividad Ventilador de tipo turbina (IceBlast 3.0) como sistema de refrigeración activo, apoyado por un radiador y dos caleoductos de cobre que recogen y mueven el calor. Conectividad cableada: dos USB 3.2 Gen2 Type A y un jack de 3,5 mm para salida de audio en el frontal. En la parte trasera tiene un USB 3.2 Gen2 Type-A, un USB 2.0 Type",
+      "link": "https://www.muycomputer.com/2026/04/05/geekom-a5-pro-2026-analisis-completo/",
+      "pubDate": "Sun, 05 Apr 2026 07:05:33 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/geekom-a5-pro-2026-gpuz.jpg"
+    },
+    {
+      "id": "6296a316425da76edabc",
+      "title": "Irán afirma haber derribado aeronaves militares de EE.UU. en plena búsqueda para rescatar al piloto",
+      "summary": "Se trata de un avión de apoyo y transporte táctico, así como dos helicópteros Black Hawk.",
+      "link": "https://actualidad.rt.com/actualidad/597240-iran-derriba-aeronaves-militares-eeuu-busqueda-rescatar-piloto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 07:03:50 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d20a67e9ff7126462ca85d.jpg"
+    },
+    {
+      "id": "c253c2c5359bd904ddf5",
+      "title": "Dólar blue hoy: a cuánto cotiza este domingo 05 de abril",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-05-abril_0_A1RoDg60a0.html",
+      "pubDate": "Sun, 05 Apr 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/11/10/ta7hQ1oRl_1200x630__1.jpg"
+    },
+    {
+      "id": "2db338cf6787a8dffc3d",
+      "title": "5 cosas que Linux puede hacer y Windows 11 no",
+      "summary": "Durante años, Windows ha sido el sistema operativo dominante en escritorios y portátiles de consumo. Pero esa posición de liderazgo no significa que sea el más capaz, ni el más flexible, ni el más adecuado para todos los usuarios. Estas limitantes han orillado a muchos usuarios y gobiernos a tomar más en serio a Linux, un sistema que ofrece libertades que Microsoft jamás ha querido (o podido) conceder a sus usuarios. Aunque en la práctica se parecen un poco, estos sistemas tienen diferencias estructurales. No se trata de un debate ideológico: hay funciones concretas que Linux tiene y Windows 11 simplemente no . Algunas de estas ventajas interesan principalmente a desarrolladores y administradores de sistemas; otras son relevantes para cualquiera que quiera sacarle más partido a su hardware o tener control real sobre lo que ocurre en su equipo. La brecha entre ambos es especialmente visible en cinco áreas donde Linux no solo hace las cosas diferente, sino que las hace mejor. En todos los casos, la diferencia es tangible y documentable. Personalización total del escritorio En Linux, el escritorio no es un componente fijo del sistema , sino una capa que puedes cambiar, reemplazar o construir desde cero. Puedes usar GNOME con su diseño minimalista, KDE Plasma con sus miles de opciones de configuración o un gestor de ventanas sin paneles ni barras como i3 o Hyprland, donde cada elemento ocupa exactamente el espacio que tú decides. Todo eso es posible sin trucos ni software de terceros. Windows 11 , en cambio, tiene un escritorio prácticamente intocable en lo estructural . Puedes cambiar el fondo de pantalla y ajustar algunos colores, pero no mover la barra de tareas a cualquier borde. La arquitectura visual del sistema, esa que dicta qué componentes existen, cómo se comportan, qué tan pesados son, está fuera del alcance del usuario. Microsoft lo diseñó así y no tiene ningún incentivo para cambiarlo , por más promesas que haga. Arrancar desde un USB sin instalar nada La m",
+      "link": "https://hipertextual.com/software/linux-vs-windows-11-ventajas/",
+      "pubDate": "Sun, 05 Apr 2026 07:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/linux-vs-windows.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "3858cfcb55bc2cef044c",
+      "title": "Masters 1000 de Montecarlo 2026: partidos de hoy y cómo está el cuadro",
+      "summary": "Este domingo comienza la actividad en la edición 2026 del Masters 1000 de Montecarlo, el tercer certamen de esta categoría en lo que va de la temporada masculina, pero que tiene la particularidad de tener un cuadro más pequeño que los demás. En la Argentina, todos los encuentros se pueden ver en vivo por streaming a través de la plataforma Disney+, mientras que los más destacados también se transmiten por televisión en alguna de las señales de ESPN . En la misma jornada finaliza la qualy y comienza el cuadro principal del torneo. A las 8.30, el británico Cameron Norrie (24° del ranking ATP) se enfrenta al serbio Miomir Kecmanovic (58°). Luego, a las 9 juegan el chileno Alejandro Tabilo (39°) contra el húngaro Marton Fucsovics (51°). No antes de las 9.40 se cruzan el galo Gael Monfils (203°) y el neerlandés Tallon Griekspoor (30°). Por último, aproximadamente a las 10.50, habrá choque de franceses entre Moise Kouamé (328°) y Ugo Humbert (34°). *Todos los horarios corresponden a la Argentina *La mayoría de los partidos tienen horarios aproximados y dependen del tiempo de duración del encuentro que se dispute previamente en cada cancha. Cuadro del Masters 1000 de Montecarlo 2026 Tabla de campeones del Masters 1000 de Montecarlo Rafael Nadal (España) - 11 títulos Ilie Năstase (Rumania), Bjorn Borg (Suecia), Thomas Muster (Austria) y Stefanos Tsitsipas (Grecia) - Tres Guillermo Vilas (Argentina), Mats Wilander (Suecia), Ivan Lendl (Checoslovaquia), Sergi Bruguera (España), Gustavo Kuerten (Brasil), Juan Carlos Ferrero (España) y Novak Djokovic (Serbia) - Dos Tom Okker (Países Bajos), Nicola Pietrangeli (Italia), Zeljko Franulovic (Croacia), Andrew Pattison (Zimbawe), Manuel Orantes (España), Raúl Ramírez (México), Henrik Sundstrom (Suecia), Joakim Nystrom (Suecia), Alberto Mancini (Argentina), Andrei Chesnokov (Rusia), Andrei Medvedev (Ucrania), Marcelo Ríos (Chile), Carlos Moyá (España), Guillermo Coria (Argentina), Stan Wawrinka (Suiza), Andrey Rublev (Rusia), Fabio Fo",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/masters-1000-de-montecarlo-2026-partidos-de-hoy-y-como-esta-el-cuadro-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/SZCMJ4ITJRFQDABLRJLYAIGFB4.JPG?auth=a637a99c3c0a26b54550a710402cb9c4d7d799a1729cda98ced8309706ab8c59&smart=true&width=3000&height=2000"
+    },
+    {
+      "id": "1f33bcdf1962cbda15cb",
+      "title": "VIDEO: El riesgoso e intrépido aterrizaje de una avioneta en una carretera con coches en movimiento",
+      "summary": "Una avioneta aterrizó de emergencia este sábado en una carretera de Pensilvania (EE.UU.). La escena fue captada por uno de los coches que transitaba por la vía en ese momento. Según los reportes, la aeronave había despegado de Nueva Jersey y, mientras se dirigía a Indiana, su piloto, de 65 años, notó problemas en el motor. Aunque intentó llegar al aeropuerto más cercano, no lo consiguió y decidió descender sobre la carretera. La riesgosa maniobra resultó exitosa y nadie sufrió heridas.",
+      "link": "https://actualidad.rt.com/viral/597238-riesgoso-intrepido-aterrizaje-avioneta-carretera-coches?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 06:59:20 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "ca7efdb6da0349d80285",
@@ -527,33 +766,13 @@
     },
     {
       "id": "81c5014b5c1607940e87",
-      "title": "Un hombre atropelló a 15 personas en el Festival Año Nuevo Lao de Estados Unidos",
+      "title": "Un hombre atropelló a una multitud en un festival en Estados Unidos: al menos 15 heridos",
       "summary": "Un conductor atropelló a los asistentes de un desfile en una zona rural del estado de Luisiana , en Estados Unidos , e hirió a quince personas , algunos de ellos de gravedad. El episodio ocurrió este sábado por la tarde. El hombre quedó detenido mientras avanzan las pericias para determinar cómo y por qué se produjo el hecho. Según las primeras evaluaciones, no se trataría de una acción deliberada . El incidente se registró alrededor de las 14.30 (hora local), cuando un hombre, identificado como Todd Landry, de 57 años, avanzó con su auto sobre personas que participaban de un desfile vinculado al Festival de Año Nuevo Lao , según informó CNN en Español . Personas que se encontraban en el festival filmaron la situación De acuerdo con la policía estatal, el conductor presentaba signos de haber consumido alcohol u otras sustancias al momento del impacto. Tras ser arrestado, fue trasladado a una cárcel local y actualmente enfrenta cargos por manejar bajo los efectos de alcohol, causar lesiones por negligencia, conducción imprudente y posesión de un envase abierto de bebida alcohólica, según informaron las autoridades policiales. “No parece ser un acto intencional” , declaró Rebecca Melancon, portavoz del sheriff. Además, se solicitó la intervención de la policía estatal para reforzar la investigación y colaborar con el operativo desplegado en la zona. El vehículo manejó hacia el lugar donde se encontraba la gente que había asistido al festival Desde la organización del festival informaron que todos los recursos de seguridad fueron redirigidos hacia la escena, lo que obligó a cancelar los espectáculos musicales previstos para la noche del sábado . Sin embargo, los organizadores señalaron que evaluarán la continuidad de las actividades del domingo en función de la disponibilidad de personal de seguridad, con la posibilidad de limitar la programación a servicios religiosos y puestos comerciales. También expresaron su acompañamiento a las víctimas. Testigos describieron esc",
       "link": "https://www.lanacion.com.ar/estados-unidos/un-hombre-atropello-a-15-personas-en-el-festival-ano-nuevo-lao-de-estados-unidos-nid05042026/",
       "pubDate": "Sun, 05 Apr 2026 06:54:10 +0000",
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/ZCPGFV4ECVEY7I3KOUYK7SZ64M.jpg?auth=3ee69cdcc3dbcd604e5a12fe8d1059fdd7cb6433cd97c504a6744bd12f1bfc68&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ceb159989d78838aa673",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 5 de abril",
-      "summary": "Las Fuerzas de Defensa de Israel (FDI) informaron este domingo, a través de sus redes sociales, que en las últimas 24 horas atacaron 120 objetivos del régimen iraní. Según indicaron, todos estaban ubicados en el centro y el oeste del país persa. \"Entre los objetivos se incluían: emplazamientos de sistemas de misiles balísticos, centros de producción y lanzamiento de vehículos aéreos no tripulados (UAV) y emplazamientos de defensa aérea\", detallaron. ⭕️✈️24 HOUR RECAP: The IAF struck 120+ targets of the Iranian regime in central western Iran. Targets included: ballistic missiles array sites, UAV production and launching sites, air defense sites. pic.twitter.com/8ivPlbdm7y Israel Defense Forces (@IDF) April 5, 2026 El Gobierno de Siria decidió cerrar temporalmente el cruce de Masnaa , que permite el paso al Líbano . La decisión se tomó, según informó CNN , luego de que las fuerzas de Israel emitieran una orden de evacuación previa a ataques aéreos que tienen decidido realizar. “Debido al uso por parte de Hezbollah del cruce de Masnaa con fines militares y para el contrabando de armas, el ejército israelí tiene la intención de llevar a cabo ataques aéreos contra el cruce en un futuro próximo”, dijo el portavoz en árabe de las Fuerzas de Defensa de Israel (FDI), Avichay Adraee. En medio de un nuevo ataque de Irán contra países del Golfo Pérsico, en Kuwait se reportó una explosión y un incendio en el edificio del Ministerio de Petróleo. Según informaron medios locales, no hubo heridos dado que la estructura estaba vacía a la hora del impacto. El ataque iraní sucede luego de que el presidente de Estados Unidos, Donald Trump, diera un ultimátum al régimen respecto a cesar los ataques contra países vecinos aliados de EE.UU. y respecto a la reapertura del estrecho de Ormuz. BREAKING: Iranian suicide drones just struck Kuwait’s Ministry of Oil HQ, setting it on fire pic.twitter.com/eaO34JlzxD Visegrád 24 (@visegrad24) April 4, 2026 Las Fuerzas de Defensa de Israel (FDI) infor",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-5-de-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 06:52:06 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/AMQUR2YG4FC7HN7ANHY3OYX2VM.jpg?auth=fe40c90239a45c1aa469a8b84cdaef661b2dc742ad0649c67a25335cafbab92f&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "13bf146b0fed2839b170",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo| Trump anuncia el rescate del segundo piloto del caza derribado por Irán el viernes",
-      "summary": "Dos hombres evalúan los daños causados por un ataque a la Universidad Shahid Beheshti, en Teherán, este sábado.",
-      "link": "https://elpais.com/internacional/2026-04-05/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Sun, 05 Apr 2026 06:31:13 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/MYISAHUVIBCEPF326U2R3NV76M.JPG?auth=1ac28e0646004d88d076848d70b1bdfa7111882fa3c1ac44e0a0a958c101002e"
     },
     {
       "id": "a7f59d4289ed9a3d39f8",
@@ -616,16 +835,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/WDFUB2PQH5BTLMWFTTRFLTOWKA.jpg?auth=79e67a8dc3bc2f72fdf7f2e049dc212c6baa01e7c81f1ad4ad18d26477e1e12b&smart=true&width=2000&height=1333"
     },
     {
-      "id": "e76ced1ba2e35b8a4aa6",
-      "title": "Así es el sistema de control vial que detecta a los conductores que usan el celular al volante",
-      "summary": "En la Ciudad de Buenos Aires ya funcionan desde hace un tiempo diversas cámaras de fiscalización que no sólo controlan la velocidad o detectan cuando un vehículo cruza un semáforo en rojo, sino que también identifican a conductores que circulan sin cinturón de seguridad o utilizando el celular al volante. Cambios en la VTV: el Gobierno nacional avanza con una reforma del sistema En esa línea, la Municipalidad de Villa La Angostura, en la provincia de Neuquén, anunció la instalación de diversos dispositivos de control con el objetivo de reforzar la seguridad vial en distintos puntos de la localidad. Entre las principales novedades se destaca la incorporación de cámaras capaces de detectar a conductores que utilizan el teléfono celular mientras manejan, una conducta considerada de alto riesgo porque implica desviar la atención del camino, así también casos en los que no se utilicen los cinturones de seguridad obligatorios. Estos nuevos equipos fueron instalados en Avenida Siete Lagos 125 y Avenida Arrayanes 400, dos puntos estratégicos donde las autoridades buscan reforzar los controles y desalentar conductas peligrosas al volante. Ahora bien, sobre Boulevard Nahuel Huapi 1500 se incorporó un nuevo dispositivo destinado al control de velocidad, con el objetivo de promover una conducción más segura y garantizar el respeto de los límites establecidos en ambos sentidos de circulación. Asimismo, informaron que se ha reforzado el sistema de control existente sobre la Ruta Nacional 40, en los sectores de Bandurrias (km 2119) y Puerto Manzano (km 2109), lo que permitirá realizar tareas de fiscalización en ambos sentidos de circulación. Por otro lado, se instalaron dos dispositivos tipo tótem en los accesos a la localidad, ubicados en los kilómetros 2105 y 2122 de la Ruta Nacional 40, los cuales permitirán obtener datos estadísticos del flujo vehicular y sumar herramientas de identificación vehicular mediante reconocimiento de dominios, contribuyendo a las tareas de prevenció",
-      "link": "https://www.lanacion.com.ar/autos/asi-es-el-sistema-de-control-vial-que-detecta-a-los-conductores-que-usan-el-celular-al-volante-nid09032026/",
-      "pubDate": "Sun, 05 Apr 2026 06:07:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/WZT3Q22O6VG57HHVGS6OT4AJWE.jpg?auth=53d63cd46a9a729cb1cd3b3c0c5cc6fec8bc85fc5b8afd7af7ba7460e69db300&smart=true&width=2368&height=1581"
-    },
-    {
       "id": "e3a4f96ca0eda0a73749",
       "title": "Neumáticos: cómo arreglar un pinchazo en dos minutos sin sacar la rueda",
       "summary": "En la actualidad, una gran cantidad de vehículos 0km se entregan sin rueda de auxilio, algo que supo ser habitual en el mercado automotor. En su lugar, incorporan un kit de reparación que permite sellar de forma provisoria un neumático dañado (especialmente en autos de origen chino). Qué le pasa al motor del auto si la nafta tiene más etanol y qué modelos podrían verse afectados Este sistema consta de un procedimiento más fácil de lo que parece: una vez que se levanta el auto con el gato, primero se saca el objeto que provocó el pinchazo en el neumático (puede ser un clavo o un tornillo, por ejemplo), se limpia y agranda levemente el orificio con una herramienta específica, y luego se introduce una tira de caucho impregnada en sellador que tapa la fuga de aire (se debe cortar el excedente). Cabe aclarar que estos kits igualmente suelen incluir un manual de uso. La principal ventaja es que no hace falta desmontar la rueda ni contar con equipamiento complejo, aunque si se la saca suele ser más práctico. Además, en condiciones ideales, el proceso puede llevar apenas unos minutos y permite continuar la marcha casi de inmediato. Es por eso que muchos conductores optan por llevar un kit de reparación en el baúl, especialmente para viajes largos o trayectos donde la asistencia no está garantizada. Si bien el procedimiento es rápido, en la práctica demanda algo más de tiempo, sobre todo si se considera la localización del pinchazo, la extracción del objeto y la correcta colocación de la mecha. A esto se suma la necesidad de inflar el neumático posteriormente, lo que puede requerir un compresor portátil (que suele venir en el kit ). Respecto a la presión de los neumáticos, los autos que traen el kit previamente mencionado suelen incorporar un sistema de monitoreo. Entonces, al detectar que alguno se está desinflando, es señal de que hay que acudir a una gomería o, en caso de no llegar, utilizar el kit de reparación. Más importante aún es entender que no todos los daños puede",
@@ -634,6 +843,16 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/YY2JPYEHTJDKLJ2CVXKNIEPU3I.jpg?auth=5ba62a6532af5bde089cc9501d61c454588e7b6f42fa914e26247647af652649&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "e76ced1ba2e35b8a4aa6",
+      "title": "Así es el sistema de control vial que detecta a los conductores que usan el celular al volante",
+      "summary": "En la Ciudad de Buenos Aires ya funcionan desde hace un tiempo diversas cámaras de fiscalización que no sólo controlan la velocidad o detectan cuando un vehículo cruza un semáforo en rojo, sino que también identifican a conductores que circulan sin cinturón de seguridad o utilizando el celular al volante. Cambios en la VTV: el Gobierno nacional avanza con una reforma del sistema En esa línea, la Municipalidad de Villa La Angostura, en la provincia de Neuquén, anunció la instalación de diversos dispositivos de control con el objetivo de reforzar la seguridad vial en distintos puntos de la localidad. Entre las principales novedades se destaca la incorporación de cámaras capaces de detectar a conductores que utilizan el teléfono celular mientras manejan, una conducta considerada de alto riesgo porque implica desviar la atención del camino, así también casos en los que no se utilicen los cinturones de seguridad obligatorios. Estos nuevos equipos fueron instalados en Avenida Siete Lagos 125 y Avenida Arrayanes 400, dos puntos estratégicos donde las autoridades buscan reforzar los controles y desalentar conductas peligrosas al volante. Ahora bien, sobre Boulevard Nahuel Huapi 1500 se incorporó un nuevo dispositivo destinado al control de velocidad, con el objetivo de promover una conducción más segura y garantizar el respeto de los límites establecidos en ambos sentidos de circulación. Asimismo, informaron que se ha reforzado el sistema de control existente sobre la Ruta Nacional 40, en los sectores de Bandurrias (km 2119) y Puerto Manzano (km 2109), lo que permitirá realizar tareas de fiscalización en ambos sentidos de circulación. Por otro lado, se instalaron dos dispositivos tipo tótem en los accesos a la localidad, ubicados en los kilómetros 2105 y 2122 de la Ruta Nacional 40, los cuales permitirán obtener datos estadísticos del flujo vehicular y sumar herramientas de identificación vehicular mediante reconocimiento de dominios, contribuyendo a las tareas de prevenció",
+      "link": "https://www.lanacion.com.ar/autos/asi-es-el-sistema-de-control-vial-que-detecta-a-los-conductores-que-usan-el-celular-al-volante-nid09032026/",
+      "pubDate": "Sun, 05 Apr 2026 06:07:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/WZT3Q22O6VG57HHVGS6OT4AJWE.jpg?auth=53d63cd46a9a729cb1cd3b3c0c5cc6fec8bc85fc5b8afd7af7ba7460e69db300&smart=true&width=2368&height=1581"
     },
     {
       "id": "dbdd41fd0b6c9e613259",
@@ -656,6 +875,16 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/resident-evil-logo.jpg"
     },
     {
+      "id": "2f77879eb5bfa9332209",
+      "title": "Florida activa una nueva ley agrícola: qué cambia desde el 1 de julio para tierras, equipos y licencias",
+      "summary": "El gobernador de Florida, Ron DeSantis, promulgó la ley SB 290 para fortalecer la industria agrícola y proteger a los consumidores. Esta normativa, que entrará en vigor el 1° de julio , introduce una serie de cambios en la gestión de tierras, el uso de equipos y la regulación de servicios. Nueva ley agrícola en Florida: reformas en equipos y gestión de tierras estatales La legislación prohíbe que los gobiernos locales limiten el uso de maquinaria de jardinería o agricultura que funcione con gasolina. Además, el Departamento de Protección Ambiental local deberá analizar qué tierras de conservación estatal poseen aptitud para fines agrícolas legítimos . De acuerdo con Click Orlando , los puntos clave sobre la autonomía y el empleo de recursos incluyen: Equipos a gasolina: quedan protegidos frente a ordenanzas locales que busquen limitar su funcionamiento operativo. Eventos rurales: se prohíbe exigir permisos adicionales a propietarios agrícolas para realizar eventos en sus recintos. La normativa también establece requisitos de densidad para promotores en municipios pequeños , aunque existen mecanismos de exención mediante votación unánime. Estas medidas buscan simplificar la actividad en las comunidades rurales del estado mediante la reducción de trabas burocráticas . Nuevas sanciones y regulaciones de seguridad para las CDL por la ley aprobada por DeSantis en Florida El texto legal impone castigos penales por brindar o recibir ayuda no autorizada durante los exámenes de licencia de conducir comercial (CDL, por sus siglas en inglés). Por separado, la ley prohíbe de forma estricta la fabricación, venta o posesión de dispositivos inhibidores de señales en todo el territorio. Respecto a la seguridad y la transparencia, la medida determina: Armas ocultas: castiga el uso engañoso de la frase “permiso de arma oculta” con la intención de confundir. Fumigación: aumenta los requisitos de seguro y eleva las multas máximas para los proveedores de este servicio. Estas reformas en",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/florida-activa-una-nueva-ley-agricola-que-cambia-desde-el-1-de-julio-para-tierras-equipos-y-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/4OL6TY4FGJD4PACKPH25373KNI.png?auth=d1fcca04ce2fd46d91ddb931cbcf8c653beec2dcef584a7f9d6d9e0b6ef116c2&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "83c0c620128fa031d593",
       "title": "De visita en Buenos Aires. La atrapante historia de Laurence Debray, la mujer detrás de la biografía del rey Juan Carlos",
       "summary": "Laurence Debray (50) está encantada con el sol porteño. Mientras espera que su apretada agenda en Buenos Aires comience, la francesa aprovecha para estar un rato al sol. Es la segunda vez que llega a la Argentina: vino en 2019 para presentar Hija de revolucionarios (Anagrama), aquella dura autobiografía en la cual cuenta cómo fue su infancia, con padres militantes de izquierda y revolucionarios, y analiza desde su perspectiva acontecimientos como la Revolución cubana o el Mayo del 68, entre otros. Esta segunda visita tiene que ver con la gira de presentación de Reconciliación (Planeta), el libro de memorias del rey español Juan Carlos I (88) [desde que se lanzó al mercado, la publicación batió récords de ventas: en España, en los primeros cinco días, se vendieron 40 mil ejemplares]. Aunque su nombre no aparece en la portada, fue Laurence –que tiene un título en Historia y Literatura de La Sorbona– quien confeccionó esta biografía extraordinaria por donde se la vea: así como es inusual que un monarca cuente en primera persona los episodios de la historia que protagonizó, es infrecuente que un ghost writer promocione un libro. Con gran calidez y en perfecto castellano (vivió en España y pasó temporadas en Cuba y en Venezuela, de donde es oriunda su mamá), le dice a ¡HOLA! Argentina : “Estar un paso atrás no me molesta. Mis padres fueron como unas estrellas y siempre fui un poco la observadora, mirando todo lo que pasaba a mi alrededor. Además, mi posición es coherente con lo hablado con el Rey: yo lo ayudé a escribir este libro que es único –y que, por otra parte, será el único libro que vaya a escribir– y, como él prefirió no presentarlo, lo hago yo por él”. –A quienes saben que tus padres son Régis Debray y Elizabeth Burgos [el filósofo francés y la antropóloga venezolana fueron dos activos intelectuales marxistas que apoyaron las guerrillas latinoamericanas en los 60 y 70], les llama la atención tu gran admiración por la monarquía. –No estoy fascinada por la monarq",
@@ -675,16 +904,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/PLRSBFNW7BDLVB7IFDPGZNQBPA.jpg?auth=5885a142441ffb4e1073e57b29e678e56ed8d6c040082d8aa1ca767b36b7dcb2&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "2f77879eb5bfa9332209",
-      "title": "Florida activa una nueva ley agrícola: qué cambia desde el 1 de julio para tierras, equipos y licencias",
-      "summary": "El gobernador de Florida, Ron DeSantis, promulgó la ley SB 290 para fortalecer la industria agrícola y proteger a los consumidores. Esta normativa, que entrará en vigor el 1° de julio , introduce una serie de cambios en la gestión de tierras, el uso de equipos y la regulación de servicios. Nueva ley agrícola en Florida: reformas en equipos y gestión de tierras estatales La legislación prohíbe que los gobiernos locales limiten el uso de maquinaria de jardinería o agricultura que funcione con gasolina. Además, el Departamento de Protección Ambiental local deberá analizar qué tierras de conservación estatal poseen aptitud para fines agrícolas legítimos . De acuerdo con Click Orlando , los puntos clave sobre la autonomía y el empleo de recursos incluyen: Equipos a gasolina: quedan protegidos frente a ordenanzas locales que busquen limitar su funcionamiento operativo. Eventos rurales: se prohíbe exigir permisos adicionales a propietarios agrícolas para realizar eventos en sus recintos. La normativa también establece requisitos de densidad para promotores en municipios pequeños , aunque existen mecanismos de exención mediante votación unánime. Estas medidas buscan simplificar la actividad en las comunidades rurales del estado mediante la reducción de trabas burocráticas . Nuevas sanciones y regulaciones de seguridad para las CDL por la ley aprobada por DeSantis en Florida El texto legal impone castigos penales por brindar o recibir ayuda no autorizada durante los exámenes de licencia de conducir comercial (CDL, por sus siglas en inglés). Por separado, la ley prohíbe de forma estricta la fabricación, venta o posesión de dispositivos inhibidores de señales en todo el territorio. Respecto a la seguridad y la transparencia, la medida determina: Armas ocultas: castiga el uso engañoso de la frase “permiso de arma oculta” con la intención de confundir. Fumigación: aumenta los requisitos de seguro y eleva las multas máximas para los proveedores de este servicio. Estas reformas en",
-      "link": "https://www.lanacion.com.ar/estados-unidos/florida/florida-activa-una-nueva-ley-agricola-que-cambia-desde-el-1-de-julio-para-tierras-equipos-y-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/4OL6TY4FGJD4PACKPH25373KNI.png?auth=d1fcca04ce2fd46d91ddb931cbcf8c653beec2dcef584a7f9d6d9e0b6ef116c2&smart=true&width=2000&height=1333"
     },
     {
       "id": "9875391cc0be890fa033",
@@ -888,37 +1107,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/SULWCWMSMFE4JFXTPAL33G2SJE.JPG?auth=ff8063181320b0aac723b9def3a14577965cc53aa826172c3f89250ac7a263bc"
     },
     {
-      "id": "35dfc79fdaa62a3e7c6f",
-      "title": "Luces y sombras en el país de Milei",
-      "summary": "El poder es solo un préstamo cuando la sociedad elige a sus gobernantes. Porque intuyen que ese préstamo puede cancelarse en cualquier momento, en los niveles más encumbrados del gobierno de Javier Milei comienzan a pensar cómo salir de la ratonera judicial en la que se metió sin que nadie lo empuje: las investigaciones en los tribunales sobre los gastos del jefe de Gabinete, Manuel Adorni , y, más que cualquier otra cosa, las complicidad -o no- de los hermanos Milei con el escándalo de la criptomoneda $Libra , que fue (¿intencionalmente?) eclipsada por la catarata de versiones que acosan al jefe de los ministros. Los asesores electorales del Presidente le han dicho algo que es cierto, aunque no sea moralmente admisible: a las sociedades no las atraen las denuncias de corrupción de los que mandan cuando la economía crece, pero se enfurecen cuando deben combinar supuestos hechos deshonestos con el sufrimiento por la falta de dinero o de trabajo. ¿Ejemplo? Carlos Menem fue reelegido en 1995, con números contundentes, después de que habían estallado ya los peores escándalos de corrupción de su administración. Eran entonces los mejores tiempos de la convertibilidad y del crecimiento de la economía. Aunque corran el riesgo de que la investigación por la criptomoneda regrese a la primera página del periodismo, resulta casi imposible imaginar a Adorni conservando el cargo si no cesan las revelaciones judiciales sobre sus viajes y sus compras. “El apoyo de Milei puede desaparecer en segundos”, dice alguien que conoce el clima en esas alturas y que recuerda que el Presidente es una persona que casi carece de amigos, sobre todo en la función pública. “Siempre prefirió la soledad”, describen. En ese poliédrico contexto, se conoció que la pobreza bajó diez puntos porcentuales en un año. Fue una buena noticia, pero merece ser analizada con más seriedad que la algarabía exhibida por el mileísmo. Cuidado: hay fragilidades persistentes, advirtió la Fundación Mediterránea , y precis",
-      "link": "https://www.lanacion.com.ar/opinion/luces-y-sombras-en-el-pais-de-milei-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/RSBH5HGBRNFVLD5JIB2FEWVPWU.jpeg?auth=4e47086ae93c73634af730762f00e98eb03230fbc2268fedce4f71244e254e28&smart=true&width=696&height=464"
-    },
-    {
-      "id": "651dbab6ca20d584bea8",
-      "title": "Atada a una reja en una escuela abandonada, la encontraron en un estado de salud crítico: “Fue un milagro que alguien la viera”",
-      "summary": "Su situación eran crítica cuando la encontraron . Atada a una reja en una escuela abandonada, estaba peligrosamente desnutrida y extremadamente débil. Pero, de alguna forma, la perra había logrado sobrevivir hasta el momento exacto en que alguien la vio. Nadie supo cuánto tiempo estuvo atrapada allí. Afortunadamente, alguien la vio antes de que fuera demasiado tarde y alertó de inmediato al control de animales de St. Louis, en la ciudad de Misuri. Lo rescató enfermo, los veterinarios sugirieron la eutanasia pero una corazonada lo mantuvo con vida: “Dejalo una semana más” En cuanto el personal de control de animales vio el estado de la perrita, supieron que necesitaba atención médica inmediata . La llevaron a la clínica de Rescate de Animales Callejeros de St. Louis y le proporcionaron la ayuda que necesitaba para salvar su vida. “Estaba en pésimas condiciones y, sin embargo, era muy dulce”, dijo Natalie Thomson, directora de comunicaciones de Rescate de Animales Callejeros de St. Louis, a un medio local. “Estaba débil y muy delgada, pero confiaba en nosotros y quería acurrucarse con nuestros técnicos veterinarios”. Aunque los rescatistas querían darle toda la comida que deseaba de inmediato, tuvieron que alimentarla gradualmente para evitar que sufriera un shock . Cuando un perro tiene un peso tan peligrosamente bajo, si come demasiado rápido a veces puede desarrollar una afección grave llamada síndrome de realimentación. Según el sitio vetsandclinics.com, este síndrome incluye los cambios potencialmente fatales en líquidos y electrolitos que pueden ocurrir en pacientes desnutridos, con bajo peso o en ayuno prolongado, que reciben realimentación. Estos cambios son el resultado de variaciones hormonales y metabólicas y pueden ocasionar complicaciones clínicas graves: neurológicas, hematológicas, cardiológicas, neuromusculares y pulmonares. Así, siguiendo estrictos protocolos veterinarios para perros desnutridos, a medida que se le reintrodujo gradualmente la comida, ",
-      "link": "https://www.lanacion.com.ar/lifestyle/atada-a-una-reja-en-una-escuela-abandonada-la-encontraron-en-un-estado-de-salud-critico-fue-un-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 03:58:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/CTRKQF4ZGRGW3L2G7MRNVVIFDA.jpg?auth=d6cf7e8de41e4757f057fe3bb0dce281c8822b142c1f19ae166443c68b5bcaa0&smart=true&width=1290&height=1290",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "f3afb29f85ad2dd9a3b3",
-      "title": "Reuters: EE.UU. pide a proveedores de imágenes satelitales que bloqueen tomas relacionadas con la guerra en Irán",
-      "summary": "La medida buscaría evitar que Teherán obtenga información sobre Washington y sus aliados en la región.",
-      "link": "https://actualidad.rt.com/actualidad/597177-eeuu-proveedores-imagenes-satelitales?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 03:53:41 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1dc9ce9ff71094f42a415.jpg"
-    },
-    {
       "id": "96d364cd884d1f27bf50",
       "title": "El microsatélite argentino Atenea completó con éxito su misión en Artemis II y aportó datos clave para futuras misiones",
       "summary": "El satelite nacional operó durante 20 horas, validó tecnología en el espacio profundo y rompió marcas nacionales. La CONAE informó que los datos fueron recibidos por estaciones preparadas en Córdoba y Tierra del Fuego coordinadas con estaciones internacionales.",
@@ -937,16 +1125,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4635/live/e8f57f00-2c1e-11f1-bf24-3b8f64554ce8.jpg"
-    },
-    {
-      "id": "bbbe628170900dadd442",
-      "title": "Del glamoroso look de Mirtha al pase de factura a Martín Bossi: “No me gustó lo que dijiste”",
-      "summary": "Como lo hace cada sábado, Mirtha Legrand volvió a deslumbrar con su look en La noche de Mirtha : la gran diva de la televisión argentina apareció en la pantalla de eltrece enfundada en un vestido celeste que llamó la atención de todos en el estudio. Luego, ya sentada en la mesa, aprovechó para hacerle un reclamo a Martín Bossi, uno de los invitados de la velada. A las 21.30 puntual, la Chiqui apareció en escena, como siempre, con su clásica cortina musical de fondo. Luego de una inesperada ovación y varios halagos que la hicieron tentar de la risa, recitó la frase con la que abre, desde hace unos años, sus míticas comidas: ”Vamos a comenzar nuestros legendarios sábados porque yo, señores, y a soy una leyenda. Y la leyenda continúa”, y se dispuso a compartir el look elegido para la ocasión. “Miren qué divino el vestido que tengo hoy. Es un vestido color aguamarina en tul bordado con cristales y unos voladitos”, describió. “ Es de Claudio Cosano ”, sumó enseguida, y se dispuso a mostrar los anillos y los aros, todo en plata y brillantes perfectamente combinados, y el peinado de la ocasión. “Muy legranesco”, lo definió. Luego de un corte, la conductora pasó a la mesa, donde la esperaban la conductora y actriz Florencia de la V ; el actor y comediante Martín Bossi ; el actor Carlos Portaluppi y la humorista Malena Guinzburg . El pase de factura de Mirtha a Bossi Luego de elogiar al comediante y su gran éxito con La cena de los tontos, la Chiqui -siempre memoriosa- aprovechó la oportunidad para aclarar una situación que vivió en Mar del Plata con Bossi. “¿Por qué dijiste que me ibas a entrar ‘a babucha’? O lago así. Una palabra horrible ”, disparó la Chiqui con la mirada fija en su invitado y el ceño fruncido. “No, vos lo interpretaste mal”, intentó defenderse Bossi. “Yo lo que dije era que como…”, siguió, pero Legrand lo interrumpió indignada: “ ¡Era feo lo que dijiste! ”. “‘A upa’ era Chiqui, ´a upa’”, se corrigió el actor. “Bueno, eso está mejor”, aceptó Mirtha. Luego",
-      "link": "https://www.lanacion.com.ar/espectaculos/personajes/del-glamoroso-look-de-mirtha-al-pase-de-factura-a-martin-bossi-no-me-gusto-lo-que-dijiste-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 03:46:28 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/WLAFYRQRBRA5HAWBOAK7G45U4A.jpeg?auth=f7c00aad547ea4a11d95979b84602ff050d7663f185723e2bad0662aae4e4ca5&smart=true&width=768&height=576"
     },
     {
       "id": "c3c3c84d1698a6f23c0e",
@@ -997,36 +1175,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2025/04/30/acrMfVc6R_1200x630__1.jpg"
-    },
-    {
-      "id": "4d8bb1dabbaa6a2ea2c2",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este domingo 5 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-domingo-5-abril-2026_0_0g5f4Un6Cl.html",
-      "pubDate": "Sun, 05 Apr 2026 03:41:00 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/f4xLaY8eq_1200x630__1.jpg"
-    },
-    {
-      "id": "7cfa763162d66ab72a3d",
-      "title": "Lionel Messi llenó de fútbol al nuevo estadio, pero Inter Miami no pasó del empate",
-      "summary": "Construido con un concepto multiuso para recibir conciertos en un futuro, el nuevo estadio de Inter Miami ya empezó a impregnarse del principal sentido para el que fue levantado: el fútbol de Lionel Messi , su calidad inigualable, su magnetismo para convocar y llenar la capacidad para 26.700 espectadores . La música de Leo sigue sonando, su repertorio no se agota y sus funciones se mantienen entre las más esperadas. Hizo mucho para que fuera con un triunfo, pero la inauguración quedó en un 2-2 ante Austin . Una fecha más de la Major League Soccer , pero un día muy especial para la franquicia de los hermanos Jorge y José Mas y David Beckham. El Nu Stadium –refiere a un banco digital de Brasil que se asoció como sponsor– abrió sus puertas para dar otra muestra de la expansión de Inter Miami desde la llegada de Messi. Las obras empezaron en agosto de 2023, un mes después de la incorporación del N° 10 desde Paris Saint-Germain. Mientras el hormigón iba tomando forma, Messi se encargó de llevar a Inter Miami a la conquista de la Leagues Cup (competencia entre equipos mexicanos y estadounidenses) y la MLS . “ Impresionante el nuevo estadio. Teníamos ganas de debutar oficialmente. Es un día muy importante para el club”, había dicho Messi en los días previos sobre un escenario que tiene una arquitectura y un diseño mucho más futboleros que el Chase Stadium, que quedará para otras actividades de Inter. De forma ovalada, a diferencia de la estructura rectangular de la mayoría de los estadios de la MLS, el Nu no tiene codos abiertos y su techo uniforme en todo el perímetro le da una mejor acústica. Inter Miami no esperó al retiro del fútbol de Messi para imponerle su nombre a una de las tribunas. Ir a la Messi Stand es ocupar una de las graderías laterales. El Fenómeno Ronaldo estuvo entre los invitados y Marc Anthony cantó el himno de Estados Unidos con los equipos formados. Lloviznó en algunos momentos, pero eso no fue novedad; es algo incorporado a la postal de Miami. El eq",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-lleno-de-futbol-al-nuevo-estadio-pero-inter-miami-no-paso-del-empate-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 03:39:12 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/AMKGRRC65NF25CSCWQLFCNH6HU.JPG?auth=7986e1bfa55dc6a5f4da1421d5c9f6689f826fe86e4f171fdb3cddd730a19e3d&smart=true&width=3179&height=2147"
-    },
-    {
-      "id": "96c422c7253ab22ce1e6",
-      "title": "Lo que dice la carta de despedida del cesado jefe del Estado Mayor del Ejército de EE.UU.",
-      "summary": "El general Randy George dejó el cargo forzado por el secretario de Guerra, Pete Hegseth, en medio de una ola de transformaciones en la cúpula militar estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/597214-carta-despedida-cesado-jefe-estado-mayor-ejercito-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 03:38:25 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1c888e9ff712583553b6f.jpg"
     },
     {
       "id": "806fc663e51d831428a5",
@@ -1279,16 +1427,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/I7726IYRVVGKBDT3ZS2RLLGY4U.jpg?auth=1d636771d2ce52c0927b1057936484ba4dcaf4f6d5fd96223f43d5f19b5013d1"
     },
     {
-      "id": "ff37cc05f9acba172e5d",
-      "title": "VIDEO: 'Nido' de drones ucranianos, aniquilado por la potente artillería rusa",
-      "summary": "Una dotación de artillería equipada con un obús remolcado Guiatsint‑B destruyó por completo un punto de despliegue temporal y el 'nido' de operadores de drones de las fuerzas ucranianas en la provincia rusa de Jersón.",
-      "link": "https://actualidad.rt.com/actualidad/597229-video-nido-drones-ucranianos-aniquilado?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 03:27:37 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1d38459bf5b68f946bc13.png"
-    },
-    {
       "id": "012eb2126b3c4b7718c4",
       "title": "Así se hacen los auténticos miguelitos de La Roda: la historia de uno de los pasteles más icónicos de España",
       "summary": "Isidoro Collado, discípulo del creador del miguelito de La Roda y propietario de la Confitería Collado, en su obrador, donde fue fotografiado el pasado martes.",
@@ -1297,16 +1435,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/3WH3OHA6T5HPPBJAZY6SJ2AFZI.jpg?auth=d34ac8f59f305267bccf7e6b1c8ff9198c7e26f267493712b847b5b29b2ea0b7"
-    },
-    {
-      "id": "2f2ca316877626c9de6c",
-      "title": "Reportes: El segundo ocupante del caza estadounidense F-15E derribado por Irán fue localizado",
-      "summary": "El militar todavía no ha podido abandonar el territorio iraní debido a las hostilidades, por lo cual su vida y la de los miembros del operativo aún podría estar en peligro.",
-      "link": "https://actualidad.rt.com/actualidad/597181-segundo-ocupante-caza-derribado-rescatado?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 03:22:39 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1d63259bf5b42cf6c73f8.jpg"
     },
     {
       "id": "4eb3a6feb2d433cb433a",
@@ -1569,76 +1697,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d180a76c409.jpeg"
     },
     {
-      "id": "bd821ff518942e0b9681",
-      "title": "La Liga es cuestión de superioridad",
-      "summary": "MADRID, SPAIN - APRIL 04: Robert Lewandowski of FC Barcelona celebrates scoring his team's second goal during the LaLiga EA Sports match between Atletico de Madrid and FC Barcelona at Riyadh Air Metropolitano on April 04, 2026 in Madrid, Spain. (Photo by Aitor Alcalde/Getty Images)",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/04/04/liga-cuestion-superioridad.html",
-      "pubDate": "Sat, 04 Apr 2026 23:15:35 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1b0d7bd59a.jpeg"
-    },
-    {
-      "id": "7b4956908174b536bd87",
-      "title": "Menos mal que el Atlético no iba a competir...",
-      "summary": "atleticobarcelona",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/04/mal-atletico-iba-competir.html",
-      "pubDate": "Sat, 04 Apr 2026 23:12:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d17e6b1a8a5.jpeg"
-    },
-    {
-      "id": "7c4cb8f77966a73a0b68",
-      "title": "Gesta heroica del Southampton: tumba al Arsenal y revive el espíritu de la FA Cup de 1976",
-      "summary": "El Southampton celebra uno de los goles.",
-      "link": "https://www.marca.com/futbol/fa-cup/2026/04/04/gesta-heroica-southampton-tumba-arsenal-revive-espiritu-fa-cup-1976.html",
-      "pubDate": "Sat, 04 Apr 2026 22:56:00 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d17a09467d2.jpeg"
-    },
-    {
-      "id": "447552eafb8d69c312d3",
-      "title": "Polémica y confusión histórica: ¿fuera de juego, penalti o roja directa?",
-      "summary": "Nico acabó expulsado por doble amarilla después de derribar a Lamine Yamal al borde del área. Sin embargo, el colegiado fue a revisar al VAR si era segunda amarilla o era roja directa. La confusión fue tal que nadie sabía si se estaba revisando un posible fuera de juego o un posible penalti.",
-      "link": "https://www.marca.com/radio/2026/04/04/polemica-historica-atletico-barcelona-fuera-juego-penalti-roja-directa-video.html",
-      "pubDate": "Sat, 04 Apr 2026 22:34:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/aU8NE1fqNCstfkxjw.jpeg"
-    },
-    {
-      "id": "41a355a3d058ca4c4314",
-      "title": "Durísima entrada a la tibia y anulan la roja a Gerard Martín",
-      "summary": "Gerard Martín.",
-      "link": "https://www.marca.com/radio/2026/04/04/burrull-sobre-tarjeta-roja-retirada-gerard-martin-roja-sacabl-video.html",
-      "pubDate": "Sat, 04 Apr 2026 22:33:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d1767a8917f.jpeg"
-    },
-    {
-      "id": "775fb5fe68f8b2fea46d",
-      "title": "\"No tuvo que ser revisada, en el campo es una acción de roja\"",
-      "summary": "El analista arbitral de Radio MARCA no comparte la decisión de Mateo Busquets Ferrer",
-      "link": "https://www.marca.com/radio/2026/04/04/burrull-expulsion-gerard-martin-tuvo-revisada-campo-accion-roja.html",
-      "pubDate": "Sat, 04 Apr 2026 22:21:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d172c59e801.jpeg"
-    },
-    {
-      "id": "aad70b91faeb545f6add",
-      "title": "Más problemas para Flick",
-      "summary": "Araujo, en el partido de este sábado frente al Atlético.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/04/baja-flick-araujo-retira-lesionado.html",
-      "pubDate": "Sat, 04 Apr 2026 22:04:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d16db1da3cb.jpeg"
-    },
-    {
       "id": "93cb649c5796bbc0354b",
       "title": "El tráiler de Vengadores: Doomsday podría llegar muy pronto",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Marvel Studios todavía no ha enseñado un tráiler completo de Vengadores: Doomsday , pero eso podría cambiar en cuestión de horas. Después de varios avances centrados en personajes, la gran película-evento del Universo Cinematográfico de Marvel sigue sin mostrar su carta más potente… y precisamente por eso cualquier movimiento alrededor de ella dispara las expectativas. Ahora, una nueva pista apunta a que Disney podría lanzar muy pronto un gran avance acompañado de póster oficial. Y sí, si se confirma, estaríamos a las puertas del primer vistazo real al choque entre los héroes más poderosos de la Tierra y el nuevo gran villano del MCU: Doctor Doom . La posibilidad no llega en un momento cualquiera. Vengadores: Doomsday es una de las películas más importantes que tiene Marvel Studios entre manos, no solo por su reparto descomunal, sino porque debe marcar el camino hacia el desenlace de esta nueva etapa que terminará en Vengadores: Secret Wars . Marvel podría mover ficha con Vengadores: Doomsday el 6 de abril La información que ha encendido todas las alarmas llega a través del conocido insider Daniel Richtman , que asegura que Disney prepara para el lunes 6 de abril un “gran tráiler y póster” . No ha confirmado oficialmente de qué proyecto se trata, pero él mismo apunta a dos candidatos muy claros: Vengadores: Doomsday o The Dog Stars , la nueva película de Ridley Scott. La diferencia es que, en términos de ruido mediático, pocas cosas pueden competir ahora mismo con Marvel. Y más aún cuando Vengadores: Doomsday lleva meses acumulando expectación sin enseñar prácticamente nada de su historia. Eso, en el lenguaje promocional de los grandes estudios, suele significar una cosa: están guardando el golpe fuerte para el momento justo. Marvel Studios Lo interesante aquí es que muchos daban por hecho que el primer teaser importante se reservaría para la próxima CinemaCon. Era una jugada lógica, porque allí los estud",
@@ -1657,26 +1715,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a5b/live/7a1b2d20-3059-11f1-934f-036468834728.jpg"
-    },
-    {
-      "id": "23c5c34db3acdee72e57",
-      "title": "El Masters femenino se va a Colombia y Andrea Revuelta es segunda",
-      "summary": "María José Marín (19), campeona del ANWA",
-      "link": "https://www.marca.com/golf/masters-augusta/2026/04/04/masters-femenino-colombia-andrea-revuelta-segunda.html",
-      "pubDate": "Sat, 04 Apr 2026 21:32:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d16723a677c.jpeg"
-    },
-    {
-      "id": "76c0656d6ed1b85b0b8a",
-      "title": "El Barça da un golpe de rebote a la Liga",
-      "summary": "El delantero polaco del FC Barcelona Robert Lewandowski celebra tras anotar el segundo gol del equipo.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-04/el-barca-da-un-golpe-de-rebote-a-la-liga.html",
-      "pubDate": "Sat, 04 Apr 2026 21:31:41 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/C5RJ5RCLZ5PKTKZEFGTO7USPVY.jpg?auth=0c611f823dd09b3cd2f4d3710d2306f2a93060f83931921966b4af713abff913"
     },
     {
       "id": "18526203c16bfd671e6e",
@@ -1819,16 +1857,6 @@
       "image": "https://static.eldiario.es/clip/841a168b-a8b3-40dc-8895-e79e10db29c6_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "4e352976dfef874db0e9",
-      "title": "\"Es angustiante y tremendamente peligroso\": cómo llevan a cabo los equipos de élite de EE.UU. las operaciones de rescate de soldados en combate",
-      "summary": "Las misiones de \"Búsqueda y rescate en combate\" se consideran unas de las operaciones más complejas y urgentes para las que se preparan los ejércitos de EE.UU. y sus aliados.",
-      "link": "https://www.bbc.com/mundo/articles/cy41dvnxvk1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 04 Apr 2026 13:28:35 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg"
-    },
-    {
       "id": "d870ae450728c3df80a7",
       "title": "Ver la cara oculta de la Luna y llegar a donde nunca antes la humanidad ha estado: los récords que buscan romper las misiones Artemis de la NASA",
       "summary": "La misión Artemis II lleva a un equipo de cuatro astronautas más lejos de la Tierra que cualquier otra misión humana en la historia, al orbitar alrededor de la cara oculta de la Luna. ¿De qué otras formas harán historia las misiones Artemis?",
@@ -1947,16 +1975,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Bluetti-Elite200-V2-caja.jpg"
-    },
-    {
-      "id": "10abd4168a05259ad04e",
-      "title": "Irán afirma haber derribado dos aviones de combate de EE.UU.: rescatan a dos de los tripulantes y buscan a un tercero, por el que Teherán ofrece una recompensa",
-      "summary": "EE.UU. e Irán buscan a contrarreloj al tripulante desaparecido.",
-      "link": "https://www.bbc.com/mundo/articles/cly91kwzp4qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 04 Apr 2026 07:24:02 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0807/live/8e19e3a0-2f70-11f1-934f-036468834728.png"
     },
     {
       "id": "df780039a030bacf4fb6",
@@ -2169,16 +2187,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/mortal-kombat-2-logo.jpg"
-    },
-    {
-      "id": "54222187320625a3cd22",
-      "title": "Highlander adelanta peleas salvajes y un gran cambio en su protagonista femenina",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Todo lo que está saliendo de Highlander (Los inmortales) apunta, al menos de momento, a que Chad Stahelski no quiere hacer un simple remake con espada grande y pose intensa. Quiere algo más ambicioso. La nueva información llega gracias a Siobhán Cullen , una de las incorporaciones más interesantes del reparto, que ha dejado caer dos cosas bastante jugosas sobre la película: habrá escenas de lucha realmente desatadas y su personaje femenino será muy distinto al que vimos en la cinta original de 1986. Y eso, sinceramente, cambia bastante las cosas. Porque si hay una franquicia que necesita una actualización con personalidad propia, esa es Highlander . No basta con repetir la fórmula. Hay que hacerla sentir viva otra vez. Highlander quiere ser más que una simple revisión del clásico El reboot de Highlander ya está en pleno rodaje en Reino Unido, y aunque el secretismo alrededor del proyecto está siendo bastante fuerte, poco a poco van apareciendo detalles que ayudan a entender qué clase de película quiere construir Stahelski. Ya habíamos visto imágenes del set con Henry Cavill , Jeremy Irons y Dave Bautista , pero hasta ahora el resto del reparto seguía bastante tapado. Henry Cavill (cordonpress) Entre esos nombres estaba Siobhán Cullen , actriz irlandesa a la que algunos conocerán por Babies , y que aquí afronta su primer papel de acción de gran escala. De hecho, una de las primeras imágenes que trascendieron de ella en el rodaje la mostraba subida a una motocicleta, lo que ya dejaba claro que su papel no iba a limitarse a ser una mera presencia decorativa dentro de la historia. Y eso encaja con lo que ha contado ahora. Cullen ha explicado que las secuencias de pelea que ha visto son directamente “salvajes”, una descripción que, viniendo de una película dirigida por el responsable de buena parte del ADN visual de John Wick , no suena precisamente casual. Si alguien sabe cómo convertir la acción en lenguaje ",
-      "link": "https://www.cinemascomics.com/highlander-pelea-salvaje-cambio-protagonista/",
-      "pubDate": "Fri, 03 Apr 2026 21:01:51 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Highlander-Siobhan-Cullen.jpg"
     },
     {
       "id": "151dca21bb35eaaea66c",
@@ -2421,16 +2429,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce5b/live/44cb10a0-2ef5-11f1-8f68-3b00cd0691af.jpg"
-    },
-    {
-      "id": "73d35b58f7915d763a40",
-      "title": "Estos son los videojuegos que no debes perderte este abril",
-      "summary": "'Pragmata', 'Saros' y 'Tomodachi Life' son algunos de los juegos más destacados del mes para PC, PlayStation 5, Xbox Series y Nintendo Switch",
-      "link": "https://www.lavanguardia.com/neo/20260402/11504381/videojuegos-esperados-abril-2026-calendario-lanzamientos-ps5-xbox-switch-pc.html",
-      "pubDate": "02 Apr 2026 06:00:00 +0200",
-      "source": "La Vanguardia Tech",
-      "cat": "tech",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/01/69cd58a9cadab.jpeg"
     }
   ],
   "radar": {
@@ -2442,16 +2440,16 @@
         "cls": "rb-green"
       },
       {
-        "name": "Llama",
+        "name": "Gemini",
         "type": "Modelo",
         "badge": "Trending",
         "cls": "rb-green"
       },
       {
-        "name": "Gemini",
+        "name": "Llama",
         "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "Claude",
@@ -2468,5 +2466,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-05T06:58:38.774655+00:00"
+  "updated": "2026-04-05T08:36:44.941268+00:00"
 }
