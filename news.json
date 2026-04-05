@@ -42,17 +42,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/AMD-2.jpg"
     },
     {
-      "id": "3220c9624b299b42cee8",
-      "title": "ASUS Zenbook A16: Snapdragon X2 Elite y más de 21 horas de batería",
-      "summary": "El mercado de los portátiles está viviendo una transformación importante en los últimos años, impulsada por la llegada de nuevos procesadores diseñados para mejorar la eficiencia energética y potenciar las capacidades de inteligencia artificial local . En este contexto, equipos como el Zenbook A16 reflejan bien hacia dónde se dirige el sector, con dispositivos cada vez más ligeros, autónomos y capaces de ejecutar tareas avanzadas de IA directamente en el propio equipo sin depender constantemente de la nube. En este escenario se sitúa precisamente, como ya mencionaba antes, el Zenbook A16 , el nuevo portátil premium que ASUS acaba de anunciar para el mercado español . Este equipo apuesta por un diseño muy ligero combinado con hardware de última generación, destacando especialmente la presencia del procesador Snapdragon X2 Elite Extreme, que según la compañía lo convierte en el portátil con Snapdragon más rápido presentado hasta la fecha. El corazón del Zenbook A16 es precisamente ese nuevo Snapdragon X2 Elite Extreme , un chip que integra hasta 18 núcleos y una potente NPU capaz de alcanzar los 80 TOPS , una cifra que lo sitúa claramente dentro de la nueva generación de PCs centrados en la inteligencia artificial. Este nivel de rendimiento permite ejecutar tareas de IA de forma local con mayor eficiencia, algo cada vez más relevante en aplicaciones de productividad, asistentes inteligentes o herramientas de creación de contenido basadas en modelos de lenguaje y generación multimedia. Más allá de las capacidades de IA, el equipo también promete un rendimiento sólido en multitarea y en aplicaciones exigentes. ASUS afirma que la combinación de CPU y GPU permite manejar con fluidez tareas como edición multimedia, renderizado de contenidos o flujos de trabajo creativos complejos , manteniendo al mismo tiempo un equilibrio entre potencia y eficiencia energética que resulta clave en un portátil pensado para trabajar en movilidad durante largas jornadas. Uno de los elementos",
-      "link": "https://www.muycomputer.com/2026/04/01/asus-zenbook-a16-snapdragon-x2-elite-y-mas-de-21-horas-de-bateria/",
-      "pubDate": "Wed, 01 Apr 2026 16:07:44 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/ASUS-2.jpg",
-      "subcat": "mercado"
-    },
-    {
       "id": "38c773ab79d4b8bd1104",
       "title": "OpenAI anuncia una “superaplicación de IA unificada” y revela sus grandes cifras tras cerrar la mayor ronda de la historia",
       "summary": "OpenAI ha cerrado la mayor ronda de financiación de la historia, aunque esto ya no es noticia. Es, si mis cuentas no fallan , la tercera vez que logran batir los récords del sector startup con rondas descomunales que cuentan sus volúmenes por miles de millones. En este caso se trata de 122.000 millones de dólares , que consolidan su posición como la segunda startup más valiosa del mundo , y todo gracias al apoyo de inversores habituales como Softbank, Amazon, Microsoft o Nvidia. Pero como decíamos, ese no es el motivo que nos trae aquí. En el comunicado en el que ha anunciado el cierre de esta megaronda, la empresa liderada por Sam Altman ha aprovechado para sacar pecho y lucir sus grandes cifras, algunas de ellas desconocidas hasta el momento. Ah, y ha explicado en qué está trabajando ahora. Se acerca la superaplicación de OpenAI Hacia una superaplicación de IA unificada &#8220;Estamos creando una superaplicación de IA unificada. A medida que los modelos se vuelven más capaces, el factor limitante pasa de la inteligencia a la usabilidad. Los usuarios no quieren herramientas desconectadas. Quieren un sistema único que pueda comprender la intención, actuar y operar en diversas aplicaciones, datos y flujos de trabajo. Nuestra superaplicación integrará ChatGPT, Codex, la navegación y nuestras capacidades de agente en una experiencia centrada en el agente&#8221; . De esta forma, OpenAI presenta sus próximos pasos en el campo de la IA, buscando simplificar su cada vez más extenso catálogo de productos. Un movimiento que tiene parte de estrategia comercial, pero que también sitúan en el campo de la propia eficiencia a nivel de operaciones internas: &#8220;una única plataforma de producto nos permite mejorar más rápido, realizar lanzamientos más coherentes y capturar un mayor valor generado por los flujos de trabajo basados ​​en agentes&#8221;. Todavía estamos en los primeros momentos tras el anuncio, y es complicado imaginarse qué consecuencias tendrá este movimiento para",
@@ -261,16 +250,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7XAKUOJCMZAXLDSA4OSJ5K2VJQ.jpg?auth=c169eee50bd2214560c17dff510331d4b701c58303bd62fb2e09d0732ac3d042"
     },
     {
-      "id": "ca88ed75f3e17a525776",
-      "title": "Trump está librando contra Irán una guerra basada en el instinto y no está funcionando",
-      "summary": "Mientras que el presidente de Estados Unidos, Donald Trump, se muestra poco preciso sobre sus objetivos militares en Irán, el primer ministro de Israel, Benjamin Netanyahu parece tener un plan más claro.",
-      "link": "https://www.bbc.com/mundo/articles/c5yxlv2y29no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 31 Mar 2026 02:34:13 GMT",
-      "source": "BBC Mundo",
-      "cat": "israel",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9537/live/bb0b4fc0-2be2-11f1-aeca-41e092cd3f8c.jpg"
-    },
-    {
       "id": "b0d590c07ac6c798b72f",
       "title": "La nueva víctima del asesino en serie Ted Bundy que fue identificada 51 años después de su muerte",
       "summary": "Nuevas pruebas de ADN han resuelto el caso, de 51 años de antigüedad, del asesinato de la adolescente Laura Ann Aime en Utah, Estados Unidos.",
@@ -385,6 +364,186 @@
       "image": "https://static.eldiario.es/clip/cfbaa98e-c51e-466d-9a25-3b133291129c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
+      "id": "e3f28cc59ce58f3386c7",
+      "title": "Radiografía de todas las quejas: \"Voy a cancelar\"",
+      "summary": "\"Se equivocaron\". Es lo que dijo Diego Pablo Simeone tras el Atlético-Barcelona. Técnico y club tiran de hemeroteca para señalar que el VAR retiró la roja a Gerard Martín cuando hace unas semanas dijeron que no en una jugada similar.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/05/saltar-chispas-simeone-atletico-indignados-roja-gerard-martin-video.html",
+      "pubDate": "Sun, 05 Apr 2026 12:11:13 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUOE81fqZJhMbpMCA.jpeg"
+    },
+    {
+      "id": "b0780c9cd6998242816d",
+      "title": "El inglés Michael Oliver dirigirá el Real Madrid -Bayern Múnich",
+      "summary": "Michael Oliver",
+      "link": "https://www.marca.com/futbol/champions-league/2026/04/05/ingles-michael-oliver-dirigira-real-madrid-bayern-munich.html",
+      "pubDate": "Sun, 05 Apr 2026 12:03:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d23321e709c.jpeg"
+    },
+    {
+      "id": "237d04d25b8e317c8cf0",
+      "title": "El Barça ya hace cuentas para proclamarse campeón delante del Madrid",
+      "summary": "La calculadora de LaLiga 2025-26",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/05/clasico-rojo-vivo-nunca.html",
+      "pubDate": "Sun, 05 Apr 2026 11:54:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/02/1320px.jpg.jpeg"
+    },
+    {
+      "id": "db0ae8d504a6f116e40a",
+      "title": "Historia del Inter Miami: Marc Anthony inaugura el estadio con el himno de Estados Unidos",
+      "summary": "El Inter Miami de Leo Messi jugó su primer partido en el NU Stadium. El club hizo un acto de apertura con Marc Anthony cantando el himno de los Estados Unidos de América.",
+      "link": "https://www.marca.com/futbol/estados-unidos/2026/04/05/historia-inter-miami-marc-anthony-inaugura-estadio-himno-estados-unidos-video.html",
+      "pubDate": "Sun, 05 Apr 2026 11:49:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUNae1fqY_PpKlgiX.jpeg"
+    },
+    {
+      "id": "250c334db648cc5ee71a",
+      "title": "Jorge Prado recupera su mejor versión y roza el podio",
+      "summary": "Prado, en St. Louis.",
+      "link": "https://www.marca.com/motor/mas-motor/2026/04/05/jorge-prado-recupera-mejor-version-roza-podio.html",
+      "pubDate": "Sun, 05 Apr 2026 11:48:48 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d22ee9ccba0.jpeg"
+    },
+    {
+      "id": "dc611045deee292093fe",
+      "title": "Cardona y Alonso cierran una gran temporada con victoria en la Copa del Mundo",
+      "summary": "Ana Alonso y Oriol Cardona, en los Juegos de Milán-Cortina.",
+      "link": "https://www.marca.com/deportes-invierno/2026/04/05/cardona-alonso-cierran-gran-temporada-victoria-copa-mundo.html",
+      "pubDate": "Sun, 05 Apr 2026 11:47:49 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/03/21/69be667187056.r_d.781-658-0.jpeg"
+    },
+    {
+      "id": "f1edc5a5cb0ae6a593b8",
+      "title": "Marcos Llorente la lía y los expertos le responden: \"Los helados provocan ataques de tiburón\"",
+      "summary": "Marcos Llorente se disfraza de crema solar",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/05/marcos-llorente-lia-cargar-cremas-solares-expertos-responden-ironia-helados-provocan-ataques-tiburon.html",
+      "pubDate": "Sun, 05 Apr 2026 11:28:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d22b0a0664b.jpeg"
+    },
+    {
+      "id": "0c5c5036b3cd80b59baa",
+      "title": "Pau Gasol se rinde ante la gesta de Aday Mara",
+      "summary": "Aday Mara y Pau Gasol.",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/05/pau-gasol-rinde-gesta-aday-mara-llegar-final-ncca.html",
+      "pubDate": "Sun, 05 Apr 2026 11:26:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/05/69d22ab3c80c8.r_d.1102-57-0.jpeg"
+    },
+    {
+      "id": "12b5fe56e00bfa92a58e",
+      "title": "La única buena noticia para el Madrid en Mallorca",
+      "summary": "Arbeloa y Militao, antes de la entrada del brasileño al terreno de juego de Son Moix",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/04/05/arbeloa-acelera-militao.html",
+      "pubDate": "Sun, 05 Apr 2026 11:22:54 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d14cb9a955e.jpeg"
+    },
+    {
+      "id": "0d82907151fce2eeaab5",
+      "title": "Críticas a un jugador por barrer y no preocuparse de la linier",
+      "summary": "Durante el partido entre el Bursaspor y el Mardin 1969 de Turquía, un jugador fue al suelo para intentar despejar un balón y acabó llevándose por delante a Esra Arikboga, árbitra que ejercía de linier. El futbolista, lejos de ayudar y preocuparse por ella, decidió mirar a otro lado y volver a ocupar su posición. La actitud ha generado muchas críticas.",
+      "link": "https://www.marca.com/futbol/2026/04/05/criticas-jugador-barrer-preocuparse-linier-video.html",
+      "pubDate": "Sun, 05 Apr 2026 11:11:32 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUN7S1fqYSM6keruY.jpeg"
+    },
+    {
+      "id": "08653e9b83485416dc82",
+      "title": "\"No quise ser duro, quería que viviera para sus hijos\"",
+      "summary": "Deontay Wilder, en imagen de archivo",
+      "link": "https://www.marca.com/boxeo/2026/04/05/wilder-bate-chisora-demasiado-castigo-quise-duro-queria-viviera-hijos.html",
+      "pubDate": "Sun, 05 Apr 2026 11:11:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2217576ccb.jpeg"
+    },
+    {
+      "id": "0f3eb8cca7963ff64d51",
+      "title": "Van a saltar más chispas",
+      "summary": "BUSQUETS FERRER RETIRA LA ROJA A GERARD MARTÍN.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/05/alta-tension-inicio.html",
+      "pubDate": "Sun, 05 Apr 2026 11:04:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d18f9dc44f4.jpeg"
+    },
+    {
+      "id": "7bc78b3fccc0c4b0daac",
+      "title": "Mekies reclama justicia para Tsunoda: \"Merece recuperar un volante titular\"",
+      "summary": "Yuki Tsunoda durante el desarrollo del Gran Premio de Gran Bretaña en Silverstone.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/05/mekies-reclama-justicia-tsunoda-merece-recuperar-volante-titular.html",
+      "pubDate": "Sun, 05 Apr 2026 10:51:10 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/07/10/686f809869f15.jpeg"
+    },
+    {
+      "id": "82095c3135076503e562",
+      "title": "Pudo ser una tragedia: ultras intentan hacer arder la grada de la afición rival",
+      "summary": "Los aficionados más radicales del Dynamo Dresden saltaron al campo para ir a la zona de la afición del Hertha de Berlín. Allí robaron su bandera y la quemaron para hacer arder también la grada de su zona. Los antidisturbios tuvieron que actuar e intentar detener a los ultras.",
+      "link": "https://www.marca.com/futbol/2026/04/05/pudo-tragedia-ultras-intentan-arder-grada-aficion-rival-video.html",
+      "pubDate": "Sun, 05 Apr 2026 10:46:42 +0200",
+      "source": "Marca",
+      "cat": "poleco",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/07/20/li.jpeg"
+    },
+    {
+      "id": "e71aa1bd5f0253c82e50",
+      "title": "La DGT recopila en un vídeo los accidentes más espectaculares de la Semana Santa en pleno retorno de vacaciones",
+      "summary": "La Semana Santa toca a su fin con la operación retorno, que culminará unos intensos 10 días de asueto con más de 10 millones de desplazamientos en nuestras carreteras. Para concienciarnos de que debemos tomarnos con calma la vuelta, la DGT nos enseña algunos accidentes sucedidos estos días festivos en las carreteras españolas. Algunos de ellos realmente espeluznantes.",
+      "link": "https://www.marca.com/coches-y-motos/trafico/2026/04/05/dgt-recopila-video-accidentes-espectaculares-semana-santa-pleno-retorno-vacaciones-video.html",
+      "pubDate": "Sun, 05 Apr 2026 10:44:44 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/1fqY3JFdobcV.jpeg"
+    },
+    {
+      "id": "3fd87137132c9b3dfea6",
+      "title": "Aston Martin firma la paz con Honda",
+      "summary": "Aston realiza una parada.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/05/aston-martin-firma-paz-honda.html",
+      "pubDate": "Sun, 05 Apr 2026 10:42:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d21f7611bc2.jpeg"
+    },
+    {
+      "id": "21824fd68eaeb6be31ab",
+      "title": "El segundo Monumento, en directo: un tren obliga a la mitad del pelotón a detenerse",
+      "summary": "Sigue toda la información sobre 'De Ronde' con los comentarios de MARCA.com",
+      "link": "https://www.marca.com/ciclismo/clasicas-ciclismo/2026/04/05/69d157d147c2d11d6dab0bcd.html",
+      "pubDate": "Sun, 05 Apr 2026 10:42:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/17753275893711.jpeg"
+    },
+    {
+      "id": "b64377d31e877370b7c7",
+      "title": "Abel Jordán corre los 100 en 10.12... y se acerca al récord de España de Hortelano",
+      "summary": "Abel Jordán logra su primera gran medalla internacional",
+      "link": "https://www.marca.com/atletismo/2026/04/05/abel-jordan-corre-100-10-12-acerca-record-espana-hortelano.html",
+      "pubDate": "Sun, 05 Apr 2026 10:34:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/07/18/687a94732c4c5.jpeg"
+    },
+    {
       "id": "3c5f1150915d7e01ff23",
       "title": "Imágenes nunca vistas de la luna: descubrimiento de la cuenta oriental completa",
       "summary": "La NASA compartió por primera vez imágenes inéditas de la luna. En la fotografía tomada por la misión Artemis se puede apreciar la cuenca oriental completa en el borde derecho del disco lunar. Es la primera vez que el ojo humano observa este detalle.",
@@ -415,6 +574,87 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aULe41fqXEqZ9Y50F.jpeg"
     },
     {
+      "id": "67575ff3f890df26943b",
+      "title": "Capitalismo a la chilena: el Gobierno usa lo que odia para llegar a donde quiere",
+      "summary": "Javier Milei le dio una sola orden a Darío Wasserman cuando asumió la conducción del Banco Nación, a fines del año pasado: debía hacer todo lo que dijera el ministro de Economía, Luis Caputo . Este especialista en finanzas, muy cercano a la cúpula del poder porque su esposa, Pilar Ramírez , es una de las personas de mayor confianza de Karina Milei , cumple todos los días con la orden presidencial. Caputo está más preocupado por el presente que por los días que vienen. Lo inquieta encontrar alternativas que permitan transmitir las mejoras de la normalización económica a la gente y a la parte del sector privado que acepta las reglas de juego de Milei. Esta semana, la entidad que maneja Wasserman lanzó créditos para las pequeñas y medianas empresas a una tasa sensiblemente menor a la del resto del mercado. Hizo lo mismo con los préstamos para comprar electrodomésticos para levantar el consumo, uno de los flancos débiles del modelo libertario. El Banco Nación se convirtió así en una espada para llamar la atención del sistema financiero y hacer que la banca privada imite a la pública. Wasserman, con el aval de Caputo y de Santiago Bausili (Banco Central) busca mostrarles el camino a los demás. Es una muestra elocuente de pragmatismo táctico libertario bajo presión para sostener la promesa de un futuro que todavía no llegó. Ese en el que los bancos presten más y más barato. La experiencia del Nación deja otras evidencias. Aunque preferiría que estuviese en manos privadas, el Gobierno usa a una de sus empresas para señalarle al resto por dónde debe ir. El mercado es bueno, pero si se lo ayuda, puede ser mejor, diría Milei parafraseando inesperadamente a Perón. Hay más ejemplos. YPF , bajo control estatal, subió los precios de los combustibles por la guerra de Medio Oriente, pero no tanto como le indicaba el Excel. Fue una decisión compleja de su presidente, Horacio Marín , que terminó conteniendo las pizarras de todas las estaciones de servicio. La petrolera es la joya más",
+      "link": "https://www.lanacion.com.ar/economia/capitalismo-a-la-chilena-el-gobierno-usa-lo-que-odia-para-llegar-a-donde-quiere-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 10:17:52 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/PNWRH2Q3HNE3JPZW55RBLFFJS4.jpg?auth=52f0957f3ce6b0eaaf129a0a755da88f64e7e370f873c7f8adf1283b94e25625&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "bb0581bec66703cbb1d7",
+      "title": "Potente reacción de Hungría al intento de volar un gasoducto clave para cortarle el suministro de gas",
+      "summary": "\"Rechazamos en los términos más enérgicos posibles otro ataque a nuestra soberanía\", declaró el ministro de Asuntos Exteriores húngaro.",
+      "link": "https://actualidad.rt.com/actualidad/597265-potente-reaccion-hungria-intento-volar-gasoducto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 10:12:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2371259bf5b6e60339791.jpg"
+    },
+    {
+      "id": "d7463bb9f0f5112e00d4",
+      "title": "¿Regla firmada por Ron DeSantis? Florida elimina una materia en las universidades públicas",
+      "summary": "La Junta de Gobernadores del Sistema Universitario Estatal aprobó una medida que elimina la asignatura de sociología del núcleo obligatorio del plan de estudios . Esta medida rige para las 12 universidades públicas de Florida a partir de este otoño boreal. Alcance de la nueva normativa en el sistema universitario de Florida La decisión de la Junta deja a la sociología introductoria como asignatura optativa , según informó El Nuevo Herald . Al respecto, Ray Rodrigues, canciller del sistema, argumentó que la materia se transformó en una “labor de defensa social y política disfrazada con las vestiduras de la academia” . “ La sociología, como disciplina, se ha convertido ahora en una labor de defensa social y política disfrazada con las vestiduras de la academia”, dijo Rodrigues , quien también citó informes sobre docentes que planeaban evadir las normas estatales de enseñanza. Por este motivo, la junta excluyó del catálogo básico incluso versiones rediseñadas . La votación superó propuestas previas de solo cuatro instituciones educativas. Ahora, se aplicará a todo el sistema universitario estatal. El impacto de la medida en la educación de Florida Dos miembros de la junta votaron en contra de la reciente modificación del plan de estudios. De acuerdo con el Nuevo Herald , la profesora de contabilidad Kimberly Dunn advirtió que la eliminación es “prematura” y afecta habilidades críticas de los graduados. “ La sociología contribuye directamente a las competencias que enfatizamos de manera constante . Se trata de habilidades que nuestros graduados necesitan en todos los sectores”, agregó Dunn. A su vez, algunos docentes entienden que los departamentos de artes liberales enfrentarán “consecuencias duraderas” por la baja de la matrícula . Los profesores sostienen que es probable que menos estudiantes decidan cursarla . Sin embargo, los 28 colleges públicos del estado mantendrán la materia dentro de su oferta general . Las instituciones utilizarán un marco curricular revisado",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/regla-firmada-por-ron-desantis-florida-elimina-una-materia-en-las-universidades-publicas-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 10:12:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/N6E3NFGJOBECXPVQDW2GF4EOKU.jpg?auth=e85de228ccfda1d2822727da66262a96899907becd20025ef73f071dbc56acd8&smart=true&width=2000&height=1333",
+      "subcat": "diseño"
+    },
+    {
+      "id": "f4b54a056b13551ba8a9",
+      "title": "Una serie apta para solteros que buscan el verdadero amor vuelve pisando fuerte a Netflix",
+      "summary": "Serie apta para solteros.",
+      "link": "https://www.marca.com/tiramillas/series/2026/04/05/serie-apta-solteros-buscan-verdadero-amor-vuelve-pisando-fuerte-netflix-cuarta-temporada.html",
+      "pubDate": "Sun, 05 Apr 2026 10:11:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2223313f96.jpeg"
+    },
+    {
+      "id": "b0bbdb1ddf67b834bf46",
+      "title": "VIDEO: Israel lanza ataques aéreos contra Beirut",
+      "summary": "Se informa que la ofensiva tuvo lugar en el distrito de Dahiya, al sur de la capital libanesa.",
+      "link": "https://actualidad.rt.com/actualidad/597264-israel-lanzar-ataques-aereos-beirut-libano?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 10:11:05 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2380de9ff7125f15e7060.jpg"
+    },
+    {
+      "id": "609c75761b9aa8a8f443",
+      "title": "Revelan cuantas temporadas tendrá Los anillos de poder",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La gran duda que flotaba sobre la serie más cara de la historia de la televisión empieza a despejarse. Después de meses de incertidumbre, cambios de producción, cifras de audiencia discutidas y un entusiasmo bastante irregular entre el público, ya se habría aclarado cuántas temporadas tendrá Los anillos de poder (The Lord of the Rings: The Rings of Power). Y sí, la respuesta cambia bastante la conversación alrededor de la ficción de Prime Video . Porque cuando una producción de este tamaño no arrasa como se esperaba, lo normal hoy en día es empezar a oler a recorte, reinicio o final acelerado. Pero en este caso, parece que Amazon todavía no está dispuesta a soltar la Tierra Media . Lo más llamativo es que esta decisión no solo tiene que ver con la ambición de la plataforma, sino también con acuerdos firmados desde el principio que ahora pesan más que nunca. Así que, si te preguntabas si la historia de Sauron, los Anillos y la Segunda Edad podría quedarse a medias, aquí viene la respuesta. Amazon mantendría el plan original de cinco temporadas de Los anillos de poder Según una nueva información publicada por The Ankler y recogida por varios medios especializados, Los anillos de poder seguirá adelante con su plan inicial de cinco temporadas en Prime Video. Es decir, la serie de El Señor de los Anillos no habría sido recortada, al menos por ahora, pese a las dudas que había generado su rendimiento. La noticia tiene bastante peso porque la serie arrastra una percepción complicada desde su estreno. Su primera temporada llegó como el gran fenómeno televisivo capaz de competir con Juego de Tronos , pero la recepción fue mucho más fría de lo esperado. Hubo ruido, sí, pero no exactamente el tipo de ruido que Amazon soñaba cuando decidió convertir la Segunda Edad de la Tierra Media en su nueva joya de la corona. The Lord of the Rings: The Rings of Power A eso hay que sumarle el dinero. La primera temporada de Los a",
+      "link": "https://www.cinemascomics.com/revelan-temporadas-los-anillos-de-poder/",
+      "pubDate": "Sun, 05 Apr 2026 10:01:46 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Los-anillos-de-poder.jpg"
+    },
+    {
+      "id": "052190ef485ca7d156cd",
+      "title": "Despertar espiritual: el camino para una vida plena, un atajo a la felicidad",
+      "summary": "Hace 10 años, el médico Francisco D’Angelo, desbordado por la demanda excesiva en su consultorio, necesitó parar y plantearse un cambio: tomarse en serio nuevas prácticas de desarrollo espiritual para encontrar su eje , volver a vibrar con su vocación y conectar desde un lugar más gozoso con sus pacientes. De la mano de una gran maestra, se sumergió en el chamanismo , la física cuántica, el hinduismo y el budismo (entre otras disciplinas). “Mejoré como doctor, puedo escuchar con más atención los padecimientos del otro, y disfruto el contacto con cada persona que se acerca a mi consultorio. Mis pacientes me lo agradecen. Lo poderoso es que, además de evolucionar en mi vida profesional, experimento mayor plenitud en lo personal”, dice este cirujano artroscopista del Mater Dei. Carlos Ponce (40) es un espartano en libertad , uno de los cientos de hombres que pasaron en los últimos 16 años por el programa que creó Eduardo “Coco” Oderigo, que intenta, a través del rugby, la espiritualidad, la educación y los oficios, reinsertar los reclusos en la sociedad y brindarles una segunda oportunidad. “En el penal conocí el amor divino. Cuando lo experimenté, la negrura de mi alma comenzó a ceder y poco a poco me convertí en un hombre mucho más luminoso . Me alejé de mis vicios y me saqué de mi espalda una mochila de 100 kilos”, cuenta. Hoy Carlos se siente orgulloso de ser un padre presente para sus hijos y un empleado responsable del Banco Macro, organización que se animó a ofrecerle trabajo cuando recuperó su libertad. “Vivo tranquilo y soy una persona feliz”, dice visiblemente emocionado. Alejado de su espiritualidad, Daniel Gutiérrez, empresario de 61 años, decidió, hace 8 años, participar con apatía de un retiro espiritual de una comunidad católica a la cual pertenecía su hija. Y allí ocurrió uno de los acontecimientos más importantes de su vida: se encontró con el amor de Dios y lo sintió de una manera tan poderosa que lo transformó por completo . Fue un antes y un después",
+      "link": "https://www.lanacion.com.ar/salud/despertar-espiritual-el-camino-para-una-vida-plena-un-atajo-a-la-felicidad-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 10:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/X3OSUQVR5NH2NJHXSHHO2EKRNY.JPG?auth=1a43871ab7884ce28d99906a624e50c617f69701a79dd15804fd304057c7ad28&smart=true&width=2000&height=1334"
+    },
+    {
+      "id": "790f240c4014c5dc3d86",
+      "title": "La misión Artemis II vuelve a enfrentar problemas con el inodoro",
+      "summary": "No se trata del primer incidente de este tipo, ya que anteriormente, un par de horas después de haber despegado, se reportaron fallos en el sistema sanitario a bordo.",
+      "link": "https://actualidad.rt.com/actualidad/597235-mision-artemis-vuelve-enfrentar-problemas-inodoro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:58:48 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d20ca959bf5b42cf6c7408.jpg"
+    },
+    {
       "id": "ddeffd09941f6b6c73ae",
       "title": "Xammar y Cardona: \"Nos sentimos más fuertes que la mayoría de la flota\"",
       "summary": "Marta Cardona y Jordi Xammar celebran la victoria en el 55 Trofeo Princesa Sofía Mallorca.",
@@ -423,6 +663,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d156697d2b7.jpeg"
+    },
+    {
+      "id": "b1ca8625dde16caa35de",
+      "title": "NYT: EE.UU. ordenó destruir dos de sus aviones varados en Irán durante el rescate de los pilotos",
+      "summary": "Según el periódico, ambas aeronaves debían llevar a un lugar seguro tanto al piloto rescatado como a los participantes en la operación.",
+      "link": "https://actualidad.rt.com/actualidad/597241-eeuu-destruir-aviones-varados-iran-rescate-pilotos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:47:15 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d20d3d59bf5b4f3b0b59ea.jpg"
     },
     {
       "id": "a98f31f956d4e3414684",
@@ -435,6 +685,77 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d1344bce757.jpeg"
     },
     {
+      "id": "eaba15acc38591e7d26a",
+      "title": "Planta petroquímica de EAU suspende operaciones por incendios tras un ataque",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597250-planta-petroquimica-eau-suspende-operaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:38:16 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "bb0a9ff330a496f8a67e",
+      "title": "Trump anuncia el rescate del segundo piloto del caza derribado por Irán",
+      "summary": "Un F/A-18E Super Hornet despega de la cubierta de vuelo del portaaviones 'USS Abraham Lincoln', de la clase Nimitz de la Armada de los Estados Unidos, el 1 de abril.",
+      "link": "https://elpais.com/internacional/2026-04-05/trump-anuncia-el-rescate-del-segundo-piloto-del-caza-derribado-por-iran.html",
+      "pubDate": "Sun, 05 Apr 2026 09:37:52 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/AHEPT3HVRNPUBEP3DXH2RA73UI.jpg?auth=8d78222e10a9d9a85479a064a9ca41a87aa22990901af88a065b7c9ad2d7ced3"
+    },
+    {
+      "id": "302b6d923121dd83e1fb",
+      "title": "Guardianes de una gota de agua. Hooke, Leeuwenhoek y la fascinación por los primeros microscopios",
+      "summary": "Cuando era niña, mi madre solía perseguir hormigas con un gotero lleno de agua. Cuando las veía, les dejaba caer una gota encima y se quedaba observándolas mientras flotaban y giraban sobre la media esfera con sus patas diminutas sin poder escapar por la tensión superficial del agua. No estaba orgullosa de su travesura infantil pero alguna vez la compartió conmigo y por supuesto intenté hacer lo mismo. En mis andanzas con el gotero también descubrí que me gustaba ver cómo las gotas de agua amplificaban la imagen de lo que sea que tuviesen debajo : las baldosas del balcón, las nervaduras de una hoja en el jardín o el mármol en la mesada de la cocina. Era casi como mirar a través de la lupa que guardaba mi papá en el cajón de su mesa de luz. A veces la agarraba sin permiso y me la pasaba mirando objetos de cerca, tan de cerca que perdían completamente el sentido . Me obsesionaba con las manchas blancas y chocolate de un caracol marino o las curvas infinitas de mis huellas digitales que imprimía con pintura de colores sobre un papel. Por suerte, como a muchos niños de mi generación, algún día me llegó el juego de química lleno de tubos de ensayo, polvos, líquidos y reactivos, pero sobre todo con un microscopio rudimentario pero tan efectivo que me atrajo más que cualquier otro objeto incluido en la caja. Además de las muestras que venían de fábrica en unos pedacitos de vidrio, me ocupaba de colocar cualquier cosa que me llamara la atención: desde una espina hasta gotas de agua podrida , repletas de diminutas y movedizas alimañas. Estas son las 10 virtudes de Aristóteles que siguen vigentes para ser feliz Imaginemos a un hombre en la Holanda del siglo XVII, rodeado de rollos de lino y seda. Se llama Antonie van Leeuwenhoek . No tiene estudios universitarios, no sabe latín (la lengua de los sabios) y su único trabajo es asegurar que la trama de una tela sea lo suficientemente fina para que sus clientes se la lleven y paguen por ella un buen precio. Pero Antonie tiene un ",
+      "link": "https://www.lanacion.com.ar/salud/guardianes-de-una-gota-de-agua-hooke-leeuwenhoek-y-la-fascinacion-por-los-primeros-microscopios-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 09:34:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/24Q3Y5RNWFB4FDNXQOJEQRFCMM.jpg?auth=9e35d572f29baa8c6886cc0b8c0eaa50341191a42b0d6858bdd1b3a1de25b2a8&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "c0b508665930b37b0cf8",
+      "title": "El misterio de la \"carta del diablo\": una monja que dijo estar poseída escribió un mensaje que nadie pudo descifrar en 350 años",
+      "summary": "La escena ocurrió en un convento de Sicilia y no tuvo testigos directos. El texto mezclaba alfabetos antiguos. Sólo se podía entender una palabra, hasta que pudo descifrarse una parte...",
+      "link": "https://www.clarin.com/internacional/misterio-carta-diablo-monja-dijo-poseida-escribio-mensaje-nadie-pudo-descifrar-350-anos_0_T2LvAZ01G7.html",
+      "pubDate": "Sun, 05 Apr 2026 09:31:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/31/NN9JiMMWz_1200x630__1.jpg"
+    },
+    {
+      "id": "a42a5c73832b095f92e3",
+      "title": "Así es el puente millonario que ningún humano podrá utilizar y será exclusivo para evitar que atropellen a los animales",
+      "summary": "En California avanza un cruce “verde” sobre la autopista US-101 para reconectar hábitats y reducir choques con fauna.",
+      "link": "https://www.clarin.com/estados-unidos/puente-millonario-humano-podra-utilizar-exclusivo-evitar-atropellen-animales_0_VHksQoIkoU.html",
+      "pubDate": "Sun, 05 Apr 2026 09:31:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/26/sOiJ1CUmQ_1200x630__1.jpg"
+    },
+    {
+      "id": "edc900433a68f46f912e",
+      "title": "Orbán convoca una reunión de emergencia del Consejo de Defensa de Hungría",
+      "summary": "La medida se tomó tras el hallazgo de explosivos cerca del oleoducto BalkanStream, clave para el gas ruso en Europa.",
+      "link": "https://actualidad.rt.com/actualidad/597254-orban-convoca-reunion-emergencia-consejo-defensa?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:25:06 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d22cb4e9ff7125b93963b4.png"
+    },
+    {
+      "id": "0e60ba0f801c9d429c55",
+      "title": "Teherán prepara una \"gran sorpresa\" y EE.UU. rescata a los pilotos derribados, MINUTO A MINUTO",
+      "summary": "Washington redirige misiles furtivos adicionales hacia Oriente Medio tras haber agotado gran parte de sus reservas. Irán repara sus búnkeres en horas y derriba varios aviones estadounidenses con su nuevo sistema antiaéreo.",
+      "link": "https://actualidad.rt.com/actualidad/597249-teheran-prepara-gran-sorpresa-eeuu-rescata-pilotos-derribados?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:24:14 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2272a59bf5b6f8421c899.jpg"
+    },
+    {
       "id": "7b75992035b5e42e36a4",
       "title": "María José Marín gana el Masters con un bombero de caddie tras un turno de 14 horas",
       "summary": "Darren Woo (56) anima a María José Marín (19) en el Augusta National",
@@ -445,6 +766,76 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d20dd644751.jpeg"
     },
     {
+      "id": "9c8931f1b4e2defe6dc3",
+      "title": "Rusia ataca aeródromos militares e instalaciones de energía usadas por el Ejército ucraniano",
+      "summary": "El ataque fue realizado con los esfuerzos conjuntos de aviación operacional-táctica, vehículos aéreos no tripulados de ataque, fuerzas de misiles y artillería del Ejército ruso.",
+      "link": "https://actualidad.rt.com/actualidad/597253-rusia-ataca-aerodromos-militares-instalaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:21:38 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d22c19e9ff7124144c6a02.jpg"
+    },
+    {
+      "id": "62143a176e45430a0d1b",
+      "title": "Los astronautas de Artemis 2 se preparan para hacer historia: serán los primeros en contemplar zonas enteras de la Luna",
+      "summary": "Los especialistas Christina Koch, a la izquierda, y Jeremy Hansen, dentro de la cápsula Orion, camino de la Luna.",
+      "link": "https://elpais.com/ciencia/2026-04-05/los-astronautas-de-artemis-2-se-preparan-para-hacer-historia-seran-los-primeros-en-contemplar-zonas-enteras-de-la-luna.html",
+      "pubDate": "Sun, 05 Apr 2026 09:20:21 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/KKBYDQJAGFG4BAMPEM2H2IS4RQ.jpg?auth=695f7ddd9cdff11e1044ad355da6c6333219eed416c0c513720f1b098c2bd00b"
+    },
+    {
+      "id": "0917c2c7cc24d693b83f",
+      "title": "Decenas de aviones y participación de la CIA: cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán",
+      "summary": "El tripulante del F-15 derribado estuvo, al parecer, escondido en una grieta de las montañas del sur de Irán y fue rescatado en un aoperación en la que participaron cientos de militares.",
+      "link": "https://www.bbc.com/mundo/articles/c4gxz10yyz8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 05 Apr 2026 09:18:55 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b53c/live/b1b2b030-30ce-11f1-8eb1-c3991b038902.jpg"
+    },
+    {
+      "id": "d8495c7a6843611e2b1b",
+      "title": "Subastan un Audi A7 a un precio irrisorio: las condiciones",
+      "summary": "La Agencia Provincial de Registro, Administración y Destino de Bienes y Derechos Patrimoniales de Santa Fe (APRAD) realizará el 16 de abril en Rosario la quinta subasta de bienes incautados al delito y forman parte de los lotes una serie de vehículos de lujo . Entre las unidades destacadas se encuentra un Audi A7 Sportback 3.0 TFSI Quattro del 2018 . El sedán de color negro forma parte del lote dos y cuenta con 132.176 kilómetros . Las multas que se pueden impugnar y cómo hacerlo Comienza con un precio de venta de $16.000.000 . Para tener como referencia, un vehículo de ese año y estas características cotiza a $53.396.000, según la Cámara del Comercio Automotor (CCA). Estos valores sirven como referencia para dimensionar la diferencia respecto del precio base y estimar hasta qué punto podría escalar la puja, acercándose al valor de mercado. El modelo de los cuatro anillos equipa un motor 3.0 litros V6 TFSI que otorga unos 310 CV y un torque de 440 Nm entre las 2900 y 4500 rpm, anexado a una transmisión automática S-tronic de siete velocidades y tracción integral permanente Quattro . El auto es capaz de acelerar de 0 a 100 km/h en 5,6 segundos, con una marca máxima limitada de 250 km/h. La capacidad del baúl es de 535 litros. La exhibición de los vehículos tomará lugar el 15 de abril de 10 a 18 en el salón Metropolitano de la Ciudad de Rosario , ubicado sobre la calle Junin 501. El mismo día de la subasta se podrá ver los modelos de 8 a 13, para luego dar comienzo a la subasta a las 16:20. Las acreditaciones para poder participar se llevarán adelante ese mismo día desde las 14:30 hasta las 15.30 . Es necesario concurrir con DNI y se puede asistir con un acompañante, previamente registrado en el proceso de inscripción. Otra de las unidades destacadas de la subasta es un Mercedes-Benz C200 Blue Efficiency 2011 , que declara 178.645 kilómetros recorridos . Se trata de un sedán de color gris que parte con un precio base de $2.700.000 , lo que lo convierte en uno de los l",
+      "link": "https://www.lanacion.com.ar/autos/subastan-un-audi-a7-a-un-precio-irrisorio-las-condiciones-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 09:09:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/IDE3FTMEKJF5JNHDC375EJK5O4.jpg?auth=f7ea62ed903ec6ebc1942a334130266bdc951a45d1e34ac535fa23ba4510d69f&smart=true&width=1600&height=1020"
+    },
+    {
+      "id": "f6a571469e2adec5eb96",
+      "title": "La carta que Vargas Llosa le escribió a Videla denunciando la desaparición de escritores y la censura en la Argentina",
+      "summary": "En octubre de 1976, el futuro premio Nobel Mario Vargas Llosa, como líder del PEN, denunció la represión y la censura en Argentina, exigiendo el fin de la persecución a intelectuales.",
+      "link": "https://www.clarin.com/viva/carta-vargas-llosa-escribio-videla-denunciando-desaparicion-escritores-censura-argentina_0_5Ub1J3fq28.html",
+      "pubDate": "Sun, 05 Apr 2026 09:05:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/02/Fv6wYsa5Y_1200x630__1.jpg"
+    },
+    {
+      "id": "aad42a59b1e80fd101ec",
+      "title": "El peligro oculto de ser inflexible: cómo afecta las decisiones y las relaciones interpersonales",
+      "summary": "La rigidez mental limita el aprendizaje y perjudica la vida personal y profesional. La falta de flexibilidad puede generar aislamiento y tensiones en las relaciones. Por qué es peligrosa en líderes políticos.",
+      "link": "https://www.clarin.com/viva/peligro-oculto-inflexible-afecta-decisiones-relaciones-interpersonales_0_b3WoPGvjWz.html",
+      "pubDate": "Sun, 05 Apr 2026 09:03:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/30/8JgQUn92L_1200x630__1.jpg"
+    },
+    {
+      "id": "a03a1e37f02fd032b9df",
+      "title": "Diez errores que no debes cometer al utilizar Windows 11",
+      "summary": "Te guste o no al final tendrás que abandonar Windows 10 si no quieres quedarte sin soporte a partir de octubre de este año, y está claro que la alternativa más natural para mantener ecosistema, aplicaciones y compatibilidad es Windows 11. Sin embargo, este sistema operativo no termina de gustar, y es lógico, porque consume más recursos que Windows 10, está peor optimizado, no convence a nivel de interfaz y además lleva años recibiendo actualizaciones y parches defectuosos que han dado muchos problemas. Con todo eso en mente es normal que te dé miedo dar el salto a Windows 11, pero tranquilo, porque en este artículo te vamos a contar diez errores que no debes cometer al utilizar Windows 11 para que disfrutes de la mejor experiencia posible con este sistema operativo. Diez errores comunes al utilizar Windows 11 1.- Instalar las últimas actualizaciones en cuanto estén disponibles Windows 11 nos permite controlar el ritmo al que queremos instalar las actualizaciones. Una de las opciones que nos da es la de instalarlas automáticamente en cuanto estén disponibles, algo que a priori puede parecer una buena idea porque nos permitirá tener nuestro equipo actualizado y a la última sin que tengamos que hacer nada, pero en realidad es una muy mala idea. Es una mala idea porque Windows 11 arrastra un largo historial de actualizaciones defectuosas y cargadas de problemas que han dado muchos quebraderos de cabeza a sus usuarios. Si eres el primero en instalarlas te convertirás casi en un probador beta, y serás de los primeros en sufrir los posibles fallos y errores no resueltos que traigan. Desactiva esta opción, es lo mejor que puedes hacer. 2.- Utilizar varios antivirus de terceros Este sistema operativo viene con su propia solución antivirus preinstalada, Windows Defender. Sé que todavía hay gente que no tiene mucha confianza en dicha solución, pero la verdad es que funciona bastante bien, y para la mayoría de los usuarios será más que suficiente. Debemos tener en cuenta tambié",
+      "link": "https://www.muycomputer.com/2026/04/05/diez-errores-que-no-debes-cometer-al-utilizar-windows-11/",
+      "pubDate": "Sun, 05 Apr 2026 09:03:13 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/windows-update.jpg"
+    },
+    {
       "id": "4c4e220b0ea47744fc7f",
       "title": "El agente de Hezonja suelta una bomba",
       "summary": "Mario Hezonja hace una entrada a canasta.",
@@ -453,6 +844,117 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d203b79a7ce.jpeg"
+    },
+    {
+      "id": "c1a01b898b647501c412",
+      "title": "La lucha del Gobierno contra la inflación suma un escollo: Donald Trump",
+      "summary": "La suba del petróleo impacta en la inflación por donde se lo mire. Mientras, el ministro de Economía carga contra quienes dicen que el tipo de cambio es bajo.",
+      "link": "https://www.clarin.com/economia/lucha-gobierno-inflacion-suma-escollo-donald-trump_0_sRrsDfGq1f.html",
+      "pubDate": "Sun, 05 Apr 2026 09:01:53 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/01/HAH6nfFLx_1200x630__1.jpg"
+    },
+    {
+      "id": "5c19dceea2fca8977bfa",
+      "title": "Bodas XL: por qué cada vez más fiestas de casamiento comienzan varios días antes de la celebración central",
+      "summary": "La tendencia de la llamada \"pre boda\" comenzó con los extranjeros y ahora la eligen también muchos argentinos. Son eventos previos más relajados y con buena gastronomía en los que los invitados ya empiezan a entrar en clima.",
+      "link": "https://www.clarin.com/sociedad/bodas-xl-vez-fiestas-casamiento-comienzan-varios-dias-celebracion-central_0_IUb9pDzqdI.html",
+      "pubDate": "Sun, 05 Apr 2026 09:01:52 +0000",
+      "source": "Clarin",
+      "cat": "ia",
+      "image": "https://www.clarin.com/img/2026/03/28/Ot9bvjWuX_1200x630__1.jpg",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "4a58181fc36285475175",
+      "title": "Factura millones con drogas para adelgazar y el New York Times lo destacó, pero la FDA habla de mentiras y engaños",
+      "summary": "Es un programador estadounidense que armó una empresa de telemedicina con su hermano. Habría creado perfiles médicos ficticios en redes para vender medicamentos GLP-1. Su sitio también muestra imágenes de IA con supuestos resultados de los tratamientos.",
+      "link": "https://www.clarin.com/sociedad/factura-millones-drogas-adelgazar-new-york-times-destaco-fda-habla-mentiras-enganos_0_uUJlbvV51R.html",
+      "pubDate": "Sun, 05 Apr 2026 09:01:52 +0000",
+      "source": "Clarin",
+      "cat": "israel",
+      "image": "https://www.clarin.com/img/2026/04/05/quyU0WVq9_1200x630__1.jpg"
+    },
+    {
+      "id": "2d7509d6852838722e10",
+      "title": "E-commerce: las marcas importan más, pero no sueltan a sus proveedores locales",
+      "summary": "Un informe de Tiendanube indica que solo 10% de las tiendas online importa la totalidad de su catálogo.",
+      "link": "https://www.clarin.com/economia/e-commerce-marcas-importan-sueltan-proveedores-locales_0_Q3H1mIjgpc.html",
+      "pubDate": "Sun, 05 Apr 2026 09:01:51 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/04/sc8V24VJz_1200x630__1.jpg"
+    },
+    {
+      "id": "bbde5345afe8b19533f1",
+      "title": "Cómo es la certificación \"B\" que usan las pymes para exportar a la Unión Europea",
+      "summary": "Es el sello de calidad e impacto socioambiental que resulta un diferencial para ingresar a ese mercado, con el cual el tratado de libre comercio comenzará a tener vigencia provisoria a partir partir de mayo.",
+      "link": "https://www.clarin.com/economia/certificacion-b-usan-pymes-exportar-union-europea_0_YABGCOFuaq.html",
+      "pubDate": "Sun, 05 Apr 2026 09:01:51 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/31/1PWFoEzK3_1200x630__1.jpg"
+    },
+    {
+      "id": "eaa86c51043d00e69b58",
+      "title": "Adam Smith: el padre de la economía",
+      "summary": "A 250 años del libro La riqueza de la naciones de Adam Smith. La última columna de una serie de artículos publicados en Clarín.",
+      "link": "https://www.clarin.com/economia/adam-smith-padre-economia_0_fFNpUWl4mL.html",
+      "pubDate": "Sun, 05 Apr 2026 09:01:51 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/03/17/rOWGDjx-z_1200x630__1.jpg"
+    },
+    {
+      "id": "bdad2360d9835ad5dc40",
+      "title": "Hezbolá ataca un buque de guerra israelí con un misil de crucero",
+      "summary": "El grupo libanés asegura que registró el impacto directo de su misil contra la nave.",
+      "link": "https://actualidad.rt.com/actualidad/597247-hezbola-ataca-buque-guerra-israeli?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 09:00:10 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d22204e9ff713f57448c20.jpg"
+    },
+    {
+      "id": "e756dfebe844efc5c713",
+      "title": "Alta Fidelidad. Semana trágica argentina: coreografía para una danza azarosa de objetos culturales",
+      "summary": "En el pasaje del 1 al 2 de abril, la ciudad fueguina de Río Grande conmemora la Guerra de Malvinas con una vigilia. Nunca estuve ahí (ni siquiera conozco Río Grande) pero ahora la sigo por streaming al encontrar de forma azarosa la transmisión encargada al canal rosarino Cabaret Voltaire timoneado por Mauricio Vera y Tomás Trapé. La diferencia de temperatura entre Buenos Aires y la isla del fin del mundo es notoria. Los miro y escucho en short de baño (la humedad ambiente equivale a un piletazo), con aire acondicionado interrumpido cada diez minutos (el cuerpo sabe que no es verano) y la imagen devuelve abrigos, gorros de lana, volutas de aliento que el frío convierte en fragmentos de bruma. Poco antes de las 00.00 Trapé advierte sobre la conmoción que provoca en la ciudad el ritual del “sirenazo”. Habla menos del ruido, que evoca las alarmas que se activaban durante la guerra, que del silencio inclasificable que le sigue. A las 00:00 y segundos la transmisión se corta. Ya es 2 de abril. **** Por desacatar la orden autoimpuesta de leer los libros que retiro de la biblioteca del subte A solo en el subte, es que llego a la página 239 de Un lugar precioso , el último libro de Sergio Bizzio editado en 2024. Pasada la medianoche, sin siquiera imaginarlo, estoy leyendo sobre el monólogo de un pasajero que vuelve en tren a Ramallo desde Buenos Aires. Refiere una aventura irreal en un yate en los confines del mar español. Transcribo: “(…) La flota pasó a varias kilómetros de distancia de nosotros (…) Nunca había visto algo así. Los puntos sobre las íes de su nombre, estampado a babor, Invincible , eran más grandes que nuestro yate (…) Desde luego (digo desde luego pero esto lo supe después) era la flota inglesa que iba a atacar las islas Malvinas (…)”. No hubiera leído esa mención a la guerra que desconocía por completo (nadie ubica esta ¿novela? en la biblioteca donde van Los Pichiciegos de Fogwill y Las Islas de Gamerro , por caso) y que es tan aislada y azarosa (por lo m",
+      "link": "https://www.lanacion.com.ar/cultura/alta-fidelidad-semana-tragica-argentina-coreografia-para-una-danza-azarosa-de-objetos-culturales-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/C34LWLD6PVCKNIXAY2EYYYQK7A.jpg?auth=f796b49c576b959bf3dfcb2e96dc9103a6bc7fce0eeb6de6285e554ae519391c&smart=true&width=5951&height=3968"
+    },
+    {
+      "id": "48bd5f82d66f7a0a6811",
+      "title": "¿A qué hora se estrena ‘Maul: Señor de las Sombras’, la nueva serie de ‘Star Wars’ sobre Darth Maul?",
+      "summary": "Star Wars ya lo tiene todo listo para el estreno de su nueva serie, Maul: Señor de las Sombras . Se trata de la primera serie protagonizada por el temible Darth Maul , villano de Star Wars: Ep. I - La amenaza fantasma . El personaje es uno de los grandes favoritos de los fans y, tras más de 25 años, por fin tiene su propio proyecto en forma de serie animada. Ambientada después de los acontecimientos de Star Wars: The Clone Wars , esta aventura sigue a Maul mientras planea reconstruir su sindicato criminal en un planeta que aún no ha sido alcanzado por el Imperio. Allí se cruza con una joven padawan Jedi desencantada, que podría convertirse en la aprendiz que necesita en su incansable búsqueda de venganza. En cuanto a dónde podrá verse, a diferencia de otros títulos, aquí no depende para nada del territorio. En Estados Unidos, España, Latinoamérica y en el resto del mundo, Maul: Señor de las Sombras estará disponibles únicamente en Disney+ . La plataforma alberga los derechos de toda la franquicia Star Wars . Y, tal y como ocurre con el resto de proyectos de la saga galáctica, podrá verse en exclusiva en la plataforma de streaming de La Casa del Ratón. Hora de estreno de Maul: Señor de las Sombras Acerca de la hora de estreno de Maul: Señor de las Sombras , la nueva serie de Star Wars , en Estados Unidos se emitirá el lunes 6 de abril a las 0:00 am P.T. En España y Latinoamérica, llegará a Disney+ en la conversión horaria de cada país: España: 9:00h am. México, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica: 1:00h am. Perú, Colombia, Panamá, Ecuador: 2:00h am. Venezuela, Chile, Bolivia, República Dominicana, Puerto Rico: 3:00h am. Paraguay, Argentina, Brasil, Uruguay: 4:00h am. Date de alta en Disney+ ahora y ahorra gracias a la suscripción anual , con la que podrás disfrutar de todo su catálogo de series y películas. Acceso a los últimos estrenos , al catálogo de Star y ESPN* y a los mejores documentales de National Geographic. Suscríbete con descuento *ESP",
+      "link": "https://hipertextual.com/cine-television/a-que-hora-se-estrena-maul-senor-de-las-sombras-la-nueva-serie-de-star-wars-sobre-darth-maul/",
+      "pubDate": "Sun, 05 Apr 2026 09:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/Imagen-1-7-scaled.jpg?fit=1024%2C538&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "50692060c37afa21cc7f",
+      "title": "No solo Florida elimina licencias de conducir comerciales para migrantes en 2026: se suma Indiana",
+      "summary": "El estado de Indiana, Estados Unidos , implementó este 1° de abril una restricción masiva que limita para la mayoría de los migrantes obtener licencias de conducir comerciales (CDL, por sus siglas en inglés). La medida surge tras la firma del gobernador Mike Braun para reforzar la seguridad vial en las autopistas estatales y se suma a la de otros estados como Florida . Licencias de conducir: la nueva regla que aplica en Indiana Según la Oficina de Vehículos Motorizados (BMV, por sus siglas en inglés) de Indiana, la normativa revoca cerca de 2000 licencias denominadas “no domiciliadas” . Esta decisión busca garantizar que solo conductores con estatus legal específico operen vehículos de gran tonelaje en el territorio. A partir de la vigencia de la ley, solo los extranjeros con visas de trabajo H-2A, H-2B o E-2 conservan la elegibilidad para estos documentos. El resto de los titulares recibió notificaciones de vencimiento inmediato , lo cual afecta la operatividad del transporte de carga regional. Restricciones y sanciones para los conductores migrantes La legislación establece controles rigurosos para la emisión de credenciales y penalidades para quienes incumplan los requisitos. De acuerdo con WTHR , los puntos centrales de la normativa incluyen: Exámenes en inglés : los aspirantes a una licencia comercial en Indiana deben aprobar obligatoriamente las pruebas de conocimientos y manejo únicamente en este idioma. Cargos criminales : los conductores que utilicen documentación falsa o carezcan de los respaldos legales enfrentarán delitos graves de nivel 6 y multas de US$5000. Responsabilidad empresarial : las compañías que contraten a choferes inhabilitados por esta ley podrán recibir sanciones económicas de hasta US$50.000. El autor de la iniciativa, el representante Jim Pressel, justificó la medida tras registrarse accidentes fatales recientes con conductores extranjeros involucrados. “Queremos asegurarnos de que los conductores que están al volante sean los mejores y",
+      "link": "https://www.lanacion.com.ar/estados-unidos/no-solo-florida-elimina-licencias-de-conducir-comerciales-para-migrantes-en-2026-se-suma-indiana-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/VJMCPJBRKBEXTJTS7PXT3VXVAE.jpg?auth=0e871a19cb9a0cd94dd2123d5318dfaa9a4384efd05ce7fca4bf9efc1bd9d76d&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "1524000cdd92e38988ef",
+      "title": "Hallan potentes explosivos cerca de un gasoducto clave para el gas ruso en Europa",
+      "summary": "El presidente serbio aseguró haber informado al primer ministro de Hungría del hallazgo, \"porque si se hubiera cortado el suministro de gas, Hungría se habría quedado sin gas, y nosotros tampoco lo tendríamos en el norte de Serbia\".",
+      "link": "https://actualidad.rt.com/actualidad/597248-hallan-explosivos-cerca-gasoducto-clave?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 08:43:25 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d232ede9ff7124144c6a0b.jpg"
     },
     {
       "id": "8804fde969315ebe4cc3",
@@ -477,12 +979,12 @@
     {
       "id": "2ec5c56b9790273499b9",
       "title": "Muere en Madrid a los 86 años el periodista Diego Carcedo",
-      "summary": "El periodista Diego Carcedo, en una imagen de archivo de 2023.",
+      "summary": "El periodista asturiano Diego Carcedo, en una imagen de 2008",
       "link": "https://elpais.com/comunicacion/2026-04-05/muere-en-madrid-a-los-86-anos-el-periodista-diego-carcedo.html",
       "pubDate": "Sun, 05 Apr 2026 08:33:15 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/ASNH53O2WJIONOSLOXKHLMAAZI.jpg?auth=c4f6c72cc53f887acc198eddf0003649007f986e7dd636fbe45db28ea7416fe1"
+      "image": "https://imagenes.elpais.com/resizer/v2/QJWGMHJ6TNEKZJKJIS5ZUVFX2Q.jpg?auth=2446a54df49a8cb4eba50333ec0e8519e597fd1430b9cb79c0998058a0f85188"
     },
     {
       "id": "7eb47f788f02528a3a98",
@@ -493,46 +995,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d20095ed913.jpeg"
-    },
-    {
-      "id": "d24a63d40ce9d52a8a50",
-      "title": "Las imágenes del desmadre a la americana de Aday Mara",
-      "summary": ".",
-      "link": "https://www.marca.com/baloncesto/nba/album/2026/04/05/imagenes-desmadre-americana-aday-mara.html",
-      "pubDate": "Sun, 05 Apr 2026 08:29:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1fff852e06.jpeg"
-    },
-    {
-      "id": "e8f617f9a3ca1b3ab1e4",
-      "title": "EN VIVO: El papa León XIV celebra la Misa de Pascua desde el Vaticano",
-      "summary": "La celebración se lleva a cabo en la plaza de San Pedro.",
-      "link": "https://actualidad.rt.com/actualidad/597243-papa-leon-xiv-celebra-misa-pascua?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 08:27:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d21ca2e9ff7125f15e704d.jpg"
-    },
-    {
-      "id": "312e5f375756d59f73b5",
-      "title": "Trump quiere 'volver' a la cárcel de Alcatraz: sus planes",
-      "summary": "Donald Trump en una prisión de Estados Unidos.",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/05/trump-quiere-volver-carcel-alcatraz-planes.html",
-      "pubDate": "Sun, 05 Apr 2026 08:27:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1fd7b81abe.jpeg"
-    },
-    {
-      "id": "13bf146b0fed2839b170",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo| Trump anuncia el rescate del segundo piloto del caza derribado por Irán el viernes",
-      "summary": "Dos hombres evalúan los daños causados por un ataque a la Universidad Shahid Beheshti, en Teherán, este sábado.",
-      "link": "https://elpais.com/internacional/2026-04-05/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Sun, 05 Apr 2026 08:11:01 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/MYISAHUVIBCEPF326U2R3NV76M.JPG?auth=1ac28e0646004d88d076848d70b1bdfa7111882fa3c1ac44e0a0a958c101002e"
     },
     {
       "id": "208fad8a69e35bf9ba66",
@@ -575,66 +1037,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg"
     },
     {
-      "id": "52f5987808bfcd65b4a0",
-      "title": "La despiden por jugar al pádel estando de baja… ¡y gana el juicio!",
-      "summary": "Una chica con la mano vendada jugando al pádel.",
-      "link": "https://www.marca.com/padel/2026/04/05/despiden-jugar-padel-estando-baja-gana-juicio.html",
-      "pubDate": "Sun, 05 Apr 2026 07:32:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d18a85086e1.png"
-    },
-    {
-      "id": "8bb9e8fb3524597ee004",
-      "title": "Ricciardo: \"Me habían echado dos veces en dos años, estaba agotado\"",
-      "summary": "Ford",
-      "link": "https://www.marca.com/motor/formula1/2026/04/05/ricciardo-sobre-adios-f1-me-habian-echado-dos-veces-dos-anos-agotado.html",
-      "pubDate": "Sun, 05 Apr 2026 07:29:25 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/05/68baf672e79a9.jpeg"
-    },
-    {
-      "id": "faf1fe097e28ac032220",
-      "title": "Ocon se sincera: \"Mi carrera en la F1 es decepcionante, una victoria no es suficiente\"",
-      "summary": "Esteban Ocon está firmando un gran inicio de temporada en Haas",
-      "link": "https://www.marca.com/motor/formula1/2026/04/05/ocon-sincera-mi-carrera-f1-decepcionante-victoria-suficiente.html",
-      "pubDate": "Sun, 05 Apr 2026 07:29:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/03/25/67e2a5707f677.jpeg"
-    },
-    {
-      "id": "21e395cd367a480c27d4",
-      "title": "Algo está pasando con Marc Márquez",
-      "summary": "Marc Márquez lucha por la quinta plaza con Bagnaia y Bastianini en el COTA.",
-      "link": "https://www.marca.com/motor/motogp/gp-jerez/2026/04/05/dificultades-ducati-proceden-problema-fisico-marc-marquez.html",
-      "pubDate": "Sun, 05 Apr 2026 07:29:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d157846e1a4.jpeg"
-    },
-    {
-      "id": "1efc9079315226ca3aa9",
-      "title": "Así se escapa de la quema de Primera RFEF con 16 millones de presupuesto",
-      "summary": "El conjunto blanquiazul celebrando uno de los tantos ante el Mérida.",
-      "link": "https://www.marca.com/sport-business/2026/04/05/cd-tenerife-asi-escapa-quema-primera-federacion-16-millones-presupuesto.html",
-      "pubDate": "Sun, 05 Apr 2026 07:27:59 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/12/68c42ff13f16e.jpeg"
-    },
-    {
-      "id": "e95b694455c3de99647a",
-      "title": "PRIMERAS IMÁGENES de los restos de las aeronaves de EE.UU. derribadas por Irán mientras buscaban a su piloto",
-      "summary": "Los aparatos fueron destruidos mientras Estados Unidos llevaba a cabo una operación de búsqueda y rescate del segundo piloto perteneciente al caza que Irán había derribado el pasado viernes en su territorio.",
-      "link": "https://actualidad.rt.com/actualidad/597242-primeras-imagenes-restos-aeronaves-eeuu-derribadas-iran-buscaban-piloto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 07:27:32 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d21056e9ff71357e73d416.jpg"
-    },
-    {
       "id": "ceb159989d78838aa673",
       "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 5 de abril",
       "summary": "Las Fuerzas de Defensa de Israel (FDI) informaron este domingo, a través de sus redes sociales, que en las últimas 24 horas atacaron 120 objetivos del régimen iraní. Según indicaron, todos estaban ubicados en el centro y el oeste del país persa. \"Entre los objetivos se incluían: emplazamientos de sistemas de misiles balísticos, centros de producción y lanzamiento de vehículos aéreos no tripulados (UAV) y emplazamientos de defensa aérea\", detallaron. ⭕️✈️24 HOUR RECAP: The IAF struck 120+ targets of the Iranian regime in central western Iran. Targets included: ballistic missiles array sites, UAV production and launching sites, air defense sites. pic.twitter.com/8ivPlbdm7y Israel Defense Forces (@IDF) April 5, 2026 El Gobierno de Siria decidió cerrar temporalmente el cruce de Masnaa , que permite el paso al Líbano . La decisión se tomó, según informó CNN , luego de que las fuerzas de Israel emitieran una orden de evacuación previa a ataques aéreos que tienen decidido realizar. “Debido al uso por parte de Hezbollah del cruce de Masnaa con fines militares y para el contrabando de armas, el ejército israelí tiene la intención de llevar a cabo ataques aéreos contra el cruce en un futuro próximo”, dijo el portavoz en árabe de las Fuerzas de Defensa de Israel (FDI), Avichay Adraee. En medio de un nuevo ataque de Irán contra países del Golfo Pérsico, en Kuwait se reportó una explosión y un incendio en el edificio del Ministerio de Petróleo. Según informaron medios locales, no hubo heridos dado que la estructura estaba vacía a la hora del impacto. El ataque iraní sucede luego de que el presidente de Estados Unidos, Donald Trump, diera un ultimátum al régimen respecto a cesar los ataques contra países vecinos aliados de EE.UU. y respecto a la reapertura del estrecho de Ormuz. BREAKING: Iranian suicide drones just struck Kuwait’s Ministry of Oil HQ, setting it on fire pic.twitter.com/eaO34JlzxD Visegrád 24 (@visegrad24) April 4, 2026 Las Fuerzas de Defensa de Israel (FDI) infor",
@@ -675,16 +1077,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/RFAT7OQ7KJG3PPBH462OXFY5KY.jpg?auth=a06601a219767f2c219a31fd832addb1473efe135aae942282e4543e2080e43d&smart=true&width=2000&height=1333"
     },
     {
-      "id": "598e1fce4122c13385b0",
-      "title": "El futuro de la UFC ya está aquí",
-      "summary": "Renato Moicano tras finalizar a Chris Duncan.",
-      "link": "https://www.marca.com/combates-ufc/2026/04/05/moicano-pasa-encima-duncan-ufc-fight-night-llena-talento-emergente.html",
-      "pubDate": "Sun, 05 Apr 2026 07:09:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1daaab5c2f.jpeg"
-    },
-    {
       "id": "8f6e2933002af44a3883",
       "title": "Dónde entregan comida fresca gratis durante la semana del 6 al 12 de abril de 2026 en Chicago",
       "summary": "En Chicago , quienes atraviesan dificultades económicas cuentan con una red de asistencia alimentaria que opera en distintos sectores de la ciudad . Para la semana del 6 al 12 de abril de 2026 , se registran más de 20 espacios habilitados, entre iglesias, organizaciones sociales y puntos comunitarios, que brindan provisiones sin costo en diferentes días y horarios . ¿Qué organizaciones entregan comida gratis en Chicago del 6 al 12 de abril? Existen diversas iniciativas que reparten alimentos sin costo en distintos barrios de la ciudad de Chicago y del condado de Cook. Entre ellas se destacan: Greater Chicago Food Depository : funciona como el principal banco de alimentos de la región. Coordina una red extensa de despensas, comedores y distribuciones móviles activas durante toda la semana. Catholic Charities of the Archdiocese of Chicago : gestiona bancos de alimentos junto con parroquias. Brinda comida gratuita y asistencia básica en múltiples puntos de Chicago. New Hope Community Food Pantry : es una despensa sin fines de lucro impulsada por voluntarios. Entrega alimentos de emergencia a familias del noroeste de la ciudad con un esquema semanal. The Friendship Center : es un centro comunitario que ofrece alimentos frescos, comidas calientes y otros recursos. Atiende a miles de personas cada mes en el noroeste de Chicago. ¿Cómo buscar comida gratis en Chicago, paso a paso? El Greater Chicago Food Depository dispone de un mapa interactivo oficial que permite ubicar puntos de entrega de alimentos en tiempo real. Para encontrar espacios con este servicio comunitario se deben seguir estos pasos: Ingresar al sitio oficial Escribir dirección o código postal Filtrar por día, distancia o tipo de programa Seleccionar despensas, comedores o distribuciones móviles Revisar requisitos adicionales, como identificación o servicios extra ¿Qué bancos de comida están disponibles en Chicago del 6 al 12 de abril de 2026? Según los calendarios de las organizaciones comunitarias, para la",
@@ -703,26 +1095,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/geekom-a5-pro-2026-gpuz.jpg"
-    },
-    {
-      "id": "6296a316425da76edabc",
-      "title": "Irán afirma haber derribado aeronaves militares de EE.UU. en plena búsqueda para rescatar al piloto",
-      "summary": "Se trata de un avión de apoyo y transporte táctico, así como dos helicópteros Black Hawk.",
-      "link": "https://actualidad.rt.com/actualidad/597240-iran-derriba-aeronaves-militares-eeuu-busqueda-rescatar-piloto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 07:03:50 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d20a67e9ff7126462ca85d.jpg"
-    },
-    {
-      "id": "c253c2c5359bd904ddf5",
-      "title": "Dólar blue hoy: a cuánto cotiza este domingo 05 de abril",
-      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-05-abril_0_A1RoDg60a0.html",
-      "pubDate": "Sun, 05 Apr 2026 07:00:02 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/11/10/ta7hQ1oRl_1200x630__1.jpg"
     },
     {
       "id": "2db338cf6787a8dffc3d",
@@ -745,26 +1117,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/SZCMJ4ITJRFQDABLRJLYAIGFB4.JPG?auth=a637a99c3c0a26b54550a710402cb9c4d7d799a1729cda98ced8309706ab8c59&smart=true&width=3000&height=2000"
     },
     {
-      "id": "1f33bcdf1962cbda15cb",
-      "title": "VIDEO: El riesgoso e intrépido aterrizaje de una avioneta en una carretera con coches en movimiento",
-      "summary": "Una avioneta aterrizó de emergencia este sábado en una carretera de Pensilvania (EE.UU.). La escena fue captada por uno de los coches que transitaba por la vía en ese momento. Según los reportes, la aeronave había despegado de Nueva Jersey y, mientras se dirigía a Indiana, su piloto, de 65 años, notó problemas en el motor. Aunque intentó llegar al aeropuerto más cercano, no lo consiguió y decidió descender sobre la carretera. La riesgosa maniobra resultó exitosa y nadie sufrió heridas.",
-      "link": "https://actualidad.rt.com/viral/597238-riesgoso-intrepido-aterrizaje-avioneta-carretera-coches?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 06:59:20 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "ca7efdb6da0349d80285",
-      "title": "Aday Mara hace el partido de su vida con todo Estados Unidos mirando",
-      "summary": "Aday Mara hace un mate en la semifinal de la Final Four ante Arizona.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/05/aday-mara-partido-vida-peleara-titulo-ncaa.html",
-      "pubDate": "Sun, 05 Apr 2026 06:54:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1e72eeb116.jpeg"
-    },
-    {
       "id": "81c5014b5c1607940e87",
       "title": "Un hombre atropelló a una multitud en un festival en Estados Unidos: al menos 15 heridos",
       "summary": "Un conductor atropelló a los asistentes de un desfile en una zona rural del estado de Luisiana , en Estados Unidos , e hirió a quince personas , algunos de ellos de gravedad. El episodio ocurrió este sábado por la tarde. El hombre quedó detenido mientras avanzan las pericias para determinar cómo y por qué se produjo el hecho. Según las primeras evaluaciones, no se trataría de una acción deliberada . El incidente se registró alrededor de las 14.30 (hora local), cuando un hombre, identificado como Todd Landry, de 57 años, avanzó con su auto sobre personas que participaban de un desfile vinculado al Festival de Año Nuevo Lao , según informó CNN en Español . Personas que se encontraban en el festival filmaron la situación De acuerdo con la policía estatal, el conductor presentaba signos de haber consumido alcohol u otras sustancias al momento del impacto. Tras ser arrestado, fue trasladado a una cárcel local y actualmente enfrenta cargos por manejar bajo los efectos de alcohol, causar lesiones por negligencia, conducción imprudente y posesión de un envase abierto de bebida alcohólica, según informaron las autoridades policiales. “No parece ser un acto intencional” , declaró Rebecca Melancon, portavoz del sheriff. Además, se solicitó la intervención de la policía estatal para reforzar la investigación y colaborar con el operativo desplegado en la zona. El vehículo manejó hacia el lugar donde se encontraba la gente que había asistido al festival Desde la organización del festival informaron que todos los recursos de seguridad fueron redirigidos hacia la escena, lo que obligó a cancelar los espectáculos musicales previstos para la noche del sábado . Sin embargo, los organizadores señalaron que evaluarán la continuidad de las actividades del domingo en función de la disponibilidad de personal de seguridad, con la posibilidad de limitar la programación a servicios religiosos y puestos comerciales. También expresaron su acompañamiento a las víctimas. Testigos describieron esc",
@@ -783,16 +1135,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/GK5V6N63RRGFBJ37WCUZPBVCJE.JPG?auth=cad874f536d971d5b915a33c25c823d8e63a7c42ce0b0ff10c9860424b9639e8&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "d58c91abf3aa3312e79c",
-      "title": "Ucrania ataca un minibús con civiles en la provincia rusa de Bélgorod",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/597239-ucrania-atacar-minibus-civiles-provincia-belgorod-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 06:19:30 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "797cd7719daa4f21bc73",
@@ -947,16 +1289,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/KRXY3ENVBJCAVDIZEJUBUVFIJ4.png?auth=f0f3b862c26b79800f9cf31532385d277b6ac390aad74eefcc6f3f49a525be3b&smart=true&width=2000&height=1333"
     },
     {
-      "id": "b40ef84eafed0a056fc2",
-      "title": "El mensaje de la Casa Blanca tras el rescate de los dos pilotos de EE.UU. en Irán",
-      "summary": "En la misma jornada, el presidente Donald Trump confirmó el rescate del segundo piloto derribado en el país persa.",
-      "link": "https://actualidad.rt.com/actualidad/597236-mensaje-casa-blanca-rescate-pilotos-eeuu-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 05:20:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1f58b59bf5b42cf6c7404.jpg"
-    },
-    {
       "id": "60a406a5c619d2578522",
       "title": "Adiós migrantes en NY, Chicago y Los Ángeles: el estudio que anticipa un freno al crecimiento económico",
       "summary": "El número de nuevos migrantes que se asientan en las grandes áreas metropolitanas de Estados Unidos , como Nueva York, Chicago y Los Ángeles , ha disminuido . La afirmación parte de un estudio realizado recientemente que evidenció cómo las jurisdicciones perdieron habitantes y enfrentan un desaceleramiento del crecimiento poblacional . El estudio que muestra que cada vez más migrantes abandonan Nueva York, Chicago y Los Ángeles Las diversas políticas federales orientadas a restringir la inmigración impactaron en los flujos hacia las principales ciudades del país. Ante este escenario, Nueva York, Los Ángeles y Chicago figuran entre las zonas que experimentan una disminución porcentual significativa en la inmigración neta en comparación con el año anterior, según un informe compartido por The Washington Post . La cifra se define como el porcentaje de aumento o disminución en la llegada de inmigrantes. Esto incluye tanto a los que llegaron de otros países como a los que se marcharon . El estudio fue elaborado por la Brookings Institution , con base en datos publicados recientemente por la Oficina del Censo de Estados Unidos. Las tres áreas mencionadas registraron descensos netos de inmigración del 62% o más . La caída del crecimiento poblacional en ciertas zonas de EE.UU. En el área de Nueva York, William Frey, demógrafo de Brookings , informó un crecimiento poblacional de 32.000 personas entre julio de 2024 y finales de junio de 2025 . Esto representó una caída con respecto a las 291 mil del año anterior , lo que, según él, se debió en gran parte a la disminución del número de inmigrantes que residen en la región . En Los Ángeles, un área que había experimentado crecimiento el año anterior, registró una tendencia similar . Además, la región de Washington experimentó una caída del 44% , según el análisis de Frey. A nivel nacional: los números en rojo de la inmigración en EE.UU. El Departamento de Estado (DOS, por sus siglas en inglés), citado por The Washington Post , ",
@@ -965,136 +1297,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/NLPZGRIGNBHM3GPHVQIXPKLJKU.jpg?auth=92ffae00aee646342746a9a0a9012f298ca7ab9383daf9e245288f8fdb9d4d12&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "5de30816172494e9f901",
-      "title": "Trump tras el rescate de los 2 pilotos: \"Contamos con el mejor Ejército, el más profesional y letal de la historia\"",
-      "summary": "El presidente estadounidense confirmó recientemente el rescate exitoso de los dos pilotos del caza estadounidense que fue derribado el viernes en territorio iraní.",
-      "link": "https://actualidad.rt.com/actualidad/597234-trump-rescate-pilotos-ejercito-eeuu-profesional-letal-historia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 05:19:43 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1f8d7e9ff713fd251609a.jpg"
-    },
-    {
-      "id": "0da6e2a1de5eff722f5a",
-      "title": "Cuánto cuesta alquilar un motorhome por día en España",
-      "summary": "Viajar sin itinerarios rígidos, con la posibilidad de cambiar de rumbo sobre la marcha y detenerse donde invite el paisaje, es una de las principales razones por las que el motorhome gana cada vez más adeptos como opción turística. Este tipo de turismo combina transporte y alojamiento en una sola experiencia, lo que no solo amplía la libertad del recorrido sino que también puede representar un ahorro frente a los costos tradicionales de hotelería, especialmente en temporada alta. Cuánta plata se necesita para tener un auto de lujo en la Argentina En el caso de que el viaje sea por Europa, más particularmente por España, es importante tener en cuenta que alquilar un motorhome no tiene una tarifa única . El precio varía de manera marcada según el tipo de unidad, el momento del año y las condiciones de contratación. Con los valores publicados por empresas y plataformas del sector en sus sitios web, el costo diario puede ubicarse desde unos 54 euros en los formatos más compactos hasta 200 euros o más en vehículos de mayor porte y en temporada alta. La primera diferencia aparece por categoría. En las campers más pequeñas, los valores son más accesibles. Una Ford Turneo Duncan 500 se puede encontrar desde los 54 euros por día en temporada baja o una Ford Transit Duncan 545 desde 62 euros. Los modelos de mayor tamaño, como la Sunlight i68, suben desde 104 euros y otros como la Etrusco A 7300 DB figuran desde 91 euros, según consta en webs oficiales. Pero el modelo no es el único factor . La época del año influye de forma decisiva . En España suele considerarse temporada alta al período que va de junio a septiembre, media a marzo, abril, mayo y octubre, y baja a enero, febrero, noviembre y diciembre. También aclara que fechas puntuales, como Semana Santa o algunos puentes, pueden alterar esa lógica y empujar las tarifas al alza. Para una Ford Tessoro 496, una empresa informa 110 euros por día en temporada baja, 125 euros en media y 165 euros en alta para alquileres de entre",
-      "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-alquilar-un-motorhome-por-dia-en-espana-nid20032026/",
-      "pubDate": "Sun, 05 Apr 2026 05:08:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/WFHFPRZY7BDCFBL3ZZXZC4XFT4.jpeg?auth=785aceabe54eabf6f60619914b019f697bb143b365c6854eecb370801a576635&smart=true&width=640&height=471"
-    },
-    {
-      "id": "0aa5298329b3a6c06bc6",
-      "title": "El dato que complica a trabajadores camioneros en EE.UU. y que podría aumentar los precios de todo",
-      "summary": "El precio del diésel registró un alza de alrededor de un 41% desde el inicio del conflicto en Medio Oriente , lo que complica la rentabilidad de los camioneros autónomos en Estados Unidos. Expertos advierten que este incremento en los costos de transporte impactará pronto en los valores de la canasta básica . Cómo el impacto del combustible afecta a los camioneros en EE.UU. Los pequeños operadores enfrentan una situación crítica debido a la falta de liquidez y al aumento de gastos operativos , según dijeron expertos en CNN . A diferencia de las grandes empresas, estos conductores carecen de contratos con cláusulas de ajuste automático por combustible. El flujo de caja representa el obstáculo principal para quienes poseen flotas reducidas o trabajan de forma independiente. Muchos conductores pagan miles de dólares adicionales para mover la carga sin recibir ingresos equivalentes de forma inmediata , según los analistas. Dueños de camiones evalúan dejar de trabajar por las tarifas actuales en EE.UU. De acuerdo con CNN , el sector sufre las consecuencias de un exceso de oferta de transportistas . En ese marco, las tarifas actuales permanecen estancadas y no alcanzan a cubrir el costo del combustible , que en algunos estados supera los 5 dólares por galón. Como consecuencia, varios dueños de camiones evalúan el cese de sus actividades o mantienen sus vehículos en el garaje por falta de ganancias. Algunos veteranos ajustan sus rutas y buscan estaciones con precios bajos para evitar el colapso de sus negocios. Por el aumento del diésel: la estrategia de ahorro que comienzan a aplicar algunos camioneros Christopher Lloyd , un camionero veterano de Richmond, Virginia, dijo al medio citado que, pese a la crisis, todavía busca la manera de subsistir en la industria . “Me metí en esto para ser dueño y controlar las condiciones de mi carrera y la dirección del negocio”, dijo. Lloyd es operador independiente desde 2024. Después de haber conducido por varios años para distintas e",
-      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-dato-que-complica-a-trabajadores-camioneros-en-eeuu-y-que-podria-aumentar-los-precios-de-todo-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 05:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/SP5DJ2VD3FCAVDTUPL6VI4LDAM.png?auth=b68db4f896248d31031b12f12df59b6c1853a69ac0315537a126a4dd499ebeb4&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "86cc90d57222c8fe1255",
-      "title": "Un analista internacional opinó sobre el curso de la guerra y si se avecina pronto el final del conflicto",
-      "summary": "En un escenario de máxima tensión marcado por ataques cruzados entre Irán y Estados Unidos , el analista internacional Andrés Repetto analizó, en diálogo con LN+, la escalada del conflicto y puso bajo la lupa la veracidad de las promesas de la Casa Blanca . “Quiero decir que si tenés que salir a explicar por qué estás en guerra un mes después, como dice el dicho: no aclares que oscurece ”, expresó Repetto y manifestó que el discurso carece de profundidad técnica y responde a una necesidad política interna. Andres Repetto en LN+ “La verdad que fueron 20 minutos de lo mismo que el presidente dice en las últimas semanas de conflicto con esa expresión que vos decís ‘los vamos a llevar a la era de piedra’ con los bombardeos que llevaremos adelante pero no dio ningún detalle salvo que van a ser dos o tres semanas, el muy pronto muy vago y esta necesidad de explicar a un mes del porqué de este conflicto ”. La presión social en Norteamérica influye en el relato oficial. Repetto afirmó: \" Más del 60 por ciento de los estadounidenses ya estaba en contra de la guerra “, explicó el analista y remarcó que esta cifra marca la urgencia del presidente por mostrar resultados inmediatos. En su discurso, Trump aseguró que el trabajo terminará muy rápido y agradeció el apoyo de Israel, Arabia Saudita, Qatar, Emiratos Árabes Unidos, Kuwait y Bahrein, calificando el desempeño de estos países como fantástico. Sobre la continuidad del conflicto remarcó: “Estamos en una foto que marca: por un lado lo que se dice, la explicación, el hablar del combustible para Estados Unidos, decir que cuando la guerra termine esos precios bajarán, no dio ninguna seguridad de lo que pueda pasar en los próximos días pero lo que vemos son movilizaciones militares para lo que puede ocurrir.” Asimismo, destacó las contradicciones del discurso de Trump: “ El relato busca cambiar la realidad\" y agregó: “Por otro lado la capacidad que pueden llegar a tener de construir más misiles y el uranio enriquecido que tambié",
-      "link": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-opino-sobre-el-curso-de-la-guerra-y-si-se-avecina-pronto-el-final-del-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 05:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/YX2WV3V7LBCNXHMELBKPD27M2U.JPG?auth=20f9d3e9f5f96684e129a37d5e0db52f98fd92fff3508883adb8734e49f19752&smart=true&width=2456&height=1684"
-    },
-    {
-      "id": "bcf9be5ebd8b49bcde44",
-      "title": "El fenómeno en los barrios cerrados que sorprendió a los inversores inmobiliarios",
-      "summary": "Durante años, los barrios cerrados fueron sinónimo de compra : lote propio, casa a gusto y una mudanza que podría pensarse “para siempre”. Pero, en los últimos años ese fenómeno comenzó a cambiar . Es más, uno de los fenómenos residenciales que más se expandió, principalmente desde el 2020, tiene que ver con el alquiler de viviendas en estas urbanizaciones . No solo creció el número de habitantes y desarrollos, sino que también comenzó a consolidarse un incipiente mercado de alquiler que atrae a un sector de la clase media de ingresos altos que priorizan seguridad, servicios y calidad de vida por sobre la propiedad en sí. El dato ya no sorprende: vivir en un country sin ser dueño es parte del nuevo mapa inmobiliario . De acuerdo a un informe de Tejido Urbano que reveló hace unos días, el alquiler en barrios cerrados crece con fuerza , especialmente en Pilar y Tigre , y atrae tanto a hogares unipersonales como a familias. La lógica es clara: para muchos, alquilar en el suburbio compite en costos con alquilar en barrios porteños consolidados como Palermo. La vivienda , más que un activo, se volvió una experiencia ajustable a cada etapa de la vida . Milagros Brito, empresaria de real estate: “Los proyectos no se piensan solo en metros, la gente se cansó de scrollear en el sillón y busca espacios para conectar” ¿Qué motiva a la clase media alta a alquilar en barrios cerrados? De acuerdo al relevamiento, el crecimiento del alquiler en barrios cerrados responde a una combinación de búsqueda de bienestar, distinción social y estrategias patrimoniales . Ya no se trata solo de “no poder comprar”, sino de elegir cómo y dónde vivir. Entre las estrategias más habituales aparecen los inquilinos propietarios (dueños de una vivienda en la ciudad que la alquilan para financiar su residencia en el suburbio), las viviendas satélite para sostener la vida laboral en CABA, y el uso del alquiler como segunda residencia de fin de semana o temporada. La motivación central es el acceso a un",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/el-fenomeno-en-los-barrios-cerrados-que-sorprendio-a-los-inversores-inmobiliarios-nid02042026/",
-      "pubDate": "Sun, 05 Apr 2026 04:51:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/BSK7HLXQIRDR5O6FZLXHD32MZA.jpg?auth=0dbcee701928e28d2d4ea793f8b07e5a22fdefd90fd8b5735ac441872a576fb5&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "1e4d7d91214eccf17b7c",
-      "title": "¡Lo tenemos!, la confirmación de Trump sobre el rescate del segundo piloto desaparecido en Irán",
-      "summary": "El mandatario estadounidense afirmó que el soldado buscado está \"sano y salvo\". Lo hizo a través de su plataforma, Truth Social. El Caza F-15 de EE.UU había sido derribado por un sistema de defensa antiaérea iraní y el piloto era buscado contrarreloj por el ejército.",
-      "link": "https://www.clarin.com/mundo/confirmacion-trump-rescate-segundo-piloto-eeuu-desaparecido-iran_0_rqrLs8VxvE.html",
-      "pubDate": "Sun, 05 Apr 2026 04:43:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/05/-xwD3pxo0_1200x630__1.jpg"
-    },
-    {
-      "id": "28d87d1283f8e23d9566",
-      "title": "Trump presume del \"primer rescate en la historia por separado de dos pilotos de EE.UU. en territorio enemigo\"",
-      "summary": "El mandatario también confirmó que una segunda operación similar se llevó a cabo el día anterior, aunque no fue anunciada de inmediato por motivos de seguridad.",
-      "link": "https://actualidad.rt.com/actualidad/597233-trump-presume-historia-rescata-pilotos-separado-enemigo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 04:30:18 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1ed8759bf5b5f9a266556.jpg"
-    },
-    {
-      "id": "c3e53e336daf615ba4d7",
-      "title": "Trump da detalles del rescate del segundo ocupante del caza derribado por Irán",
-      "summary": "\"Bajo mi dirección, las Fuerzas Armadas de EE.UU. enviaron decenas de aeronaves, armadas con las armas más letales del mundo, para recuperarlo. Sufrió heridas, pero se recuperará sin problemas\", detalló.",
-      "link": "https://actualidad.rt.com/actualidad/597231-trump-detalles-rescate-ocupante-caza-eeuu-derribado-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 04:19:43 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1e70ee9ff712dcd0eef20.jpg"
-    },
-    {
-      "id": "bca3a76494e01c379a05",
-      "title": "\"Lo tenemos\": Trump confirma el rescate del segundo piloto del caza derribado en Irán",
-      "summary": "En Truth Social, Trump detalló lo que califica como \"una de las operaciones de búsqueda y rescate más audaces en la historia de Estados Unidos\".",
-      "link": "https://actualidad.rt.com/actualidad/597232-tenemos-trump-confirma-rescate-piloto-derribado-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 04:18:56 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d1f4c859bf5b49fb1c71cb.jpg"
-    },
-    {
-      "id": "ec8367d1b390b68e132d",
-      "title": "Rodrigo C4 Ruiz dejó pasar su chance ante Sam Goodman en Australia: metió una mano de novela pero su rival lo ganó en las tarjetas",
-      "summary": "El tucumano fue por el batacazo en una eliminatoria por el título mundial supergallo. Era la pelea de su vida porque en caso de ganar podía medirse contra Naoya Inoue. En el round 2 sorprendió al local con un zurdazo que pudo haber cambiado la historia.",
-      "link": "https://www.clarin.com/deportes/rodrigo-c4-ruiz-dejo-pasar-chance-sam-goodman-australia-metio-mano-novela-rival-gano-tarjetas_0_jUcDSKxXzQ.html",
-      "pubDate": "Sun, 05 Apr 2026 04:11:26 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/05/i6_JTpNqK_1200x630__1.jpg"
-    },
-    {
-      "id": "31b5a9406634e533f3ca",
-      "title": "Un juez legisla y 329 legisladores se jubilan",
-      "summary": "La Argentina, país de las hiperinflaciones, el mayor default mundial, los 13 ceros quitados al peso y la ausencia de moneda, también se destaca por haber dado vuelta la división de poderes y atribuir a los jueces la facultad de detener leyes dictadas en el Congreso de la Nación. No en un caso concreto, sino para todo el país ( erga omnes ). La Confederación General del Trabajo ( CGT ) logró frenar en la Justicia la ley de modernización laboral que impulsó la gestión de Javier Milei . El juez Raúl Horacio Ojeda , titular del juzgado del Trabajo N° 63, dictó una medida cautelar en una acción preventiva de inconstitucionalidad, haciendo lugar al pedido de la central obrera para suspender 82 artículos de la normativa de la ley 27.802. Ahora el juez deberá resolver el fondo del caso, aunque el Gobierno informó que apelará la decisión rechazando los “intereses corporativos y sectoriales de los que pretenden obstaculizar las reformas”. Hasta entonces, los 82 artículos que conforman el núcleo de la reforma quedan en suspenso. En su resolución, el juez Ojeda frenó el Fondo de Asistencia Laboral ( FAL ), las limitaciones al derecho de huelga por sectores de actividad, el cálculo de las indemnizaciones sin contemplar los aguinaldos y otros pagos, la creación del banco de horas, la fragmentación de las vacaciones, el pago en cuotas de las indemnizaciones, el traspaso de la Justicia Nacional Laboral a la ciudad de Buenos Aires, la derogación de la ley de teletrabajo y las normas que modifican hacia la baja los intereses de los juicios entre otros puntos. En su fallo, señala que las leyes se dictan en el Congreso de la Nación, ámbito donde impera la política y el “arte de lo posible”, mientras que los jueces, al estar regidos por la deontología, no deben hacer política sino aplicar la Constitución nacional. “Mientras el poder político fluctúa con los tiempos electorales, el Poder Judicial permanece indiferente a esos cambios”. Sin advertir que el legislador tiene la atribución de",
-      "link": "https://www.lanacion.com.ar/editoriales/un-juez-legisla-y-329-legisladores-se-jubilan-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 04:10:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/J3UD4NZSSZBOPLCOIUHUIUD43M.jpg?auth=82a79b19e1c5156941446e4f24a703f4d8ce961ec98755d5fcf6b50d870e585a&smart=true&width=976&height=549"
-    },
-    {
-      "id": "e233060312ffc621d6b0",
-      "title": "Cuánto cuesta convertir tu casa en una “smart home”",
-      "summary": "Una smart home o casa inteligente es una vivienda equipada con dispositivos interconectados (IoT) que permiten automatizar, gestionar y controlar remotamente funciones como la iluminación, climatización, seguridad y electrodomésticos . Se gestionan desde un smartphone, voz o hubs centrales, buscando mayor comodidad, ahorro energético y seguridad. Pero lo que se conoce como smart home es un concepto muy amplio que depende de la cantidad de rubros que uno incluya, explica Darío Kasvin, CEO de Haustech. “ El mayor costo de una casa domotizada tiene que ver con el control de iluminación porque uno tiene que colocar, por cada circuito de luz, un módulo. Eso es lo que claramente define en gran parte el presupuesto ”, dice. Y detalla que un factor que influye en lo que tiene que ver con la iluminación es si se trata simplemente de encender o apagar la luz o de regular su intensidad. “Cuando en una casa solamente se quieren hacer encendidos y apagados de iluminación sin atenuaciones de luces, el presupuesto es diferente porque los módulos cambian sus costos. Pero si hiciéramos un promedio en una casa donde sí interesa regular la luz y donde contemplamos no solamente la iluminación sino también la apertura y cierre de cortinas , climatización y todo lo que tiene que ver con el audio , podríamos hablar de un promedio de US$100 por metro cuadrado ”, señala. Es dueño de una isla desierta de Seychelles, la quiere vender, pero rechazó una oferta de U$S50 millones Por su parte, Gustavo Acevedo, gerente comercial de Intelhome, aclara que una smart home no es una casa llena de gadgets ni de dispositivos que se controlan desde el celular. Es una vivienda donde distintos sistemas están integrados y pueden funcionar de manera coordinada, automática o remota. Y detalla que, en una casa inteligente se pueden automatizar: escenas de iluminación, que cambian según el momento del día; apertura y cierre de cortinas; regulación de calefacción y aire acondicionado; regado de parques; filtrado ",
-      "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-convertir-tu-casa-en-una-smart-home-nid28022026/",
-      "pubDate": "Sun, 05 Apr 2026 04:10:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/J3W5WZGW4NA7LFP46BQZD6IZTA.jpg?auth=fd60fb38c6ddab815e1b48d3f1ca2ff8776831ce7f2517ab9744a6ef4cd4b896&smart=true&width=5720&height=3814"
-    },
-    {
-      "id": "f8f285eff6a721960ffc",
-      "title": "El ritual del primer domingo del mes para atraer dinero y riqueza",
-      "summary": "Un simple ritual que, según la espiritualidad, puede estimular la abundancia y la prosperidad. Paso a paso, cómo hacerlo.",
-      "link": "https://www.clarin.com/internacional/ritual-primer-domingo-mes-atraer-dinero-riqueza_0_ZdeQcf2hHg.html",
-      "pubDate": "Sun, 05 Apr 2026 04:01:44 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/02/HAmyGusZa_1200x630__1.jpg"
     },
     {
       "id": "71c7cb25647237735801",
@@ -1107,16 +1309,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/SULWCWMSMFE4JFXTPAL33G2SJE.JPG?auth=ff8063181320b0aac723b9def3a14577965cc53aa826172c3f89250ac7a263bc"
     },
     {
-      "id": "96d364cd884d1f27bf50",
-      "title": "El microsatélite argentino Atenea completó con éxito su misión en Artemis II y aportó datos clave para futuras misiones",
-      "summary": "El satelite nacional operó durante 20 horas, validó tecnología en el espacio profundo y rompió marcas nacionales. La CONAE informó que los datos fueron recibidos por estaciones preparadas en Córdoba y Tierra del Fuego coordinadas con estaciones internacionales.",
-      "link": "https://www.clarin.com/sociedad/microsatelite-argentino-atenea-completo-exito-mision-artemis-ii-aporto-datos-clave-futuras-misiones_0_Vi2v1DIkmQ.html",
-      "pubDate": "Sun, 05 Apr 2026 03:52:50 +0000",
-      "source": "Clarin",
-      "cat": "tech",
-      "image": "https://www.clarin.com/img/2026/04/05/5ZaQSVZsZ_1200x630__1.jpg"
-    },
-    {
       "id": "f8074102f8c69d830eed",
       "title": "8 aportes de la milenaria cultura persa a nuestra vida cotidiana",
       "summary": "Hubo un tiempo en el que los persas lideraron el imperio más grande que el mundo había conocido hasta entonces. Su cultura y sus asombrosos logros han tenido repercusiones en el mundo.",
@@ -1127,54 +1319,24 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4635/live/e8f57f00-2c1e-11f1-bf24-3b8f64554ce8.jpg"
     },
     {
-      "id": "c3c3c84d1698a6f23c0e",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este domingo 5 abril de 2026",
-      "summary": "El SMN anticipa para este domingo temperaturas entre 10°C y 19°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-domingo-5-abril-2026_0_zYysJ2dUWy.html",
-      "pubDate": "Sun, 05 Apr 2026 03:41:48 +0000",
-      "source": "Clarin",
+      "id": "e08efdf4a6ea6c93b142",
+      "title": "Pete Hegseth, el secretario de Defensa en guerra contra el Pentágono",
+      "summary": "El secretario de Defensa, Pete Hegseth, durante una rueda de prensa en el Pentágono, el 31 de marzo.",
+      "link": "https://elpais.com/internacional/2026-04-05/pete-hegseth-el-secretario-de-defensa-en-guerra-contra-el-pentagono.html",
+      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
       "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
+      "image": "https://imagenes.elpais.com/resizer/v2/G5MGH5U6ORKZXBRB2AGJT2MOFU.jpg?auth=a857226ddd958ef7c2072a22f5a2446d40f521ba39fd343d43f56631f92b5971"
     },
     {
-      "id": "a7954ca63a789b0634f4",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este domingo 5 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-domingo-5-abril-2026_0_PwOzpKVgqb.html",
-      "pubDate": "Sun, 05 Apr 2026 03:41:24 +0000",
-      "source": "Clarin",
+      "id": "4a3320595734082a7f4f",
+      "title": "Estados Unidos necesita a Europa y a la OTAN, pese a la embestida de Trump",
+      "summary": "Un avión de carga Boeing C-17A de la Fuerza Aérea de EE UU despega de la base de Ramstein (Alemania), el pasado 2 de abril.",
+      "link": "https://elpais.com/internacional/2026-04-05/estados-unidos-necesita-a-europa-y-a-la-otan-pese-a-la-embestida-de-trump.html",
+      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
       "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/QG2XDZuvU_1200x630__1.jpg"
-    },
-    {
-      "id": "583e832d5ee6d8b24e8c",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este domingo 5 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-domingo-5-abril-2026_0_HI7CNf1YeR.html",
-      "pubDate": "Sun, 05 Apr 2026 03:41:24 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
-    },
-    {
-      "id": "beba4f354ee78340b181",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este domingo 5 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-domingo-5-abril-2026_0_GqRj1Quy1S.html",
-      "pubDate": "Sun, 05 Apr 2026 03:41:24 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/xTYjS08zx_1200x630__1.jpg"
-    },
-    {
-      "id": "cfa1e05250639bcbf8d2",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este domingo 5 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-domingo-5-abril-2026_0_1OJ1kx87kC.html",
-      "pubDate": "Sun, 05 Apr 2026 03:41:00 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/acrMfVc6R_1200x630__1.jpg"
+      "image": "https://imagenes.elpais.com/resizer/v2/DFIJCMWFPBAWNO6KNTC2E5VLY4.jpg?auth=1e2a09ff347aceb7b1412bc10a70b450b4a66d1d4f81de24b6b82f2ef99cfc16"
     },
     {
       "id": "806fc663e51d831428a5",
@@ -1215,36 +1377,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/EU7XNP6ON5G2XEYI4KWZWLLTPA.jpg?auth=725b955d4253ffeeeebb52e9e9d4708b0cc1b03cf37eb4eb6341be0196ae961c"
-    },
-    {
-      "id": "e08efdf4a6ea6c93b142",
-      "title": "Pete Hegseth, el secretario de Defensa en guerra contra el Pentágono",
-      "summary": "El secretario de Defensa, Pete Hegseth, durante una rueda de prensa en el Pentágono, el 31 de marzo.",
-      "link": "https://elpais.com/internacional/2026-04-05/pete-hegseth-el-secretario-de-defensa-en-guerra-contra-el-pentagono.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/G5MGH5U6ORKZXBRB2AGJT2MOFU.jpg?auth=a857226ddd958ef7c2072a22f5a2446d40f521ba39fd343d43f56631f92b5971"
-    },
-    {
-      "id": "4a3320595734082a7f4f",
-      "title": "Estados Unidos necesita a Europa y a la OTAN, pese a la embestida de Trump",
-      "summary": "Un avión de carga Boeing C-17A de la Fuerza Aérea de EE UU despega de la base de Ramstein (Alemania), el pasado 2 de abril.",
-      "link": "https://elpais.com/internacional/2026-04-05/estados-unidos-necesita-a-europa-y-a-la-otan-pese-a-la-embestida-de-trump.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/DFIJCMWFPBAWNO6KNTC2E5VLY4.jpg?auth=1e2a09ff347aceb7b1412bc10a70b450b4a66d1d4f81de24b6b82f2ef99cfc16"
-    },
-    {
-      "id": "62143a176e45430a0d1b",
-      "title": "Los astronautas de Artemis 2 se preparan para hacer historia: serán los primeros en contemplar zonas enteras de la Luna",
-      "summary": "Los especialistas Christina Koch, a la izquierda, y Jeremy Hansen, dentro de la cápsula Orion, camino de la Luna.",
-      "link": "https://elpais.com/ciencia/2026-04-05/los-astronautas-de-artemis-2-se-preparan-para-hacer-historia-seran-los-primeros-en-contemplar-zonas-enteras-de-la-luna.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/KKBYDQJAGFG4BAMPEM2H2IS4RQ.jpg?auth=695f7ddd9cdff11e1044ad355da6c6333219eed416c0c513720f1b098c2bd00b"
     },
     {
       "id": "fc3112edeb8db64d1fb8",
@@ -1397,16 +1529,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HBZZT5VHUJA5PLG5YIBTNA72LI.jpg?auth=015b884a35c7c5bed9f64b2b3c9a02bf621bcd3844442f2ac8c309bf83eaa37f"
     },
     {
-      "id": "d285b3b156e3eb26802e",
-      "title": "Paula Púa, humorista: “En esta profesión un día cenas caviar y al otro te vistes con papel de periódico”",
-      "summary": "La humorista Paula Púa.",
-      "link": "https://elpais.com/smoda/famosos/2026-04-05/paula-pua-humorista-en-esta-profesion-un-dia-cenas-caviar-y-al-otro-te-vistes-con-papel-de-periodico.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/5757T4PNQFCN7AH4EA6FYASUNA.jpeg?auth=62e5b3f1c35d06f6d18c131f27fce0c4bb12d78bb06548ac65b6fcab686c75cc"
-    },
-    {
       "id": "779d67f2eb657645706a",
       "title": "De estrellas digitales a sospechosos fiscales: ‘Influencers’, en el punto de mira de Hacienda",
       "summary": "Una mujer observa una entrada de una 'influencer' en redes sociales.",
@@ -1415,6 +1537,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/IK2LHXYBGNCS5ANL3QIUQOZUNE.JPG?auth=6aa8fcc9c680056ec307012b12d6e16476c7837b94947ef8181b5fc625ee14c1"
+    },
+    {
+      "id": "d285b3b156e3eb26802e",
+      "title": "Paula Púa, humorista: “En esta profesión un día cenas caviar y al otro te vistes con papel de periódico”",
+      "summary": "La humorista Paula Púa.",
+      "link": "https://elpais.com/smoda/famosos/2026-04-05/paula-pua-humorista-en-esta-profesion-un-dia-cenas-caviar-y-al-otro-te-vistes-con-papel-de-periodico.html",
+      "pubDate": "Sun, 05 Apr 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/5757T4PNQFCN7AH4EA6FYASUNA.jpeg?auth=62e5b3f1c35d06f6d18c131f27fce0c4bb12d78bb06548ac65b6fcab686c75cc"
     },
     {
       "id": "15551b898ec194dbb70a",
@@ -1557,26 +1689,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Masters-of-the-Universe-villanos.jpg"
     },
     {
-      "id": "b4052113793398fa8e9c",
-      "title": "La prensa catalana le hace un 7 al Madrid",
-      "summary": "Así vienen las primeras páginas de este domingo 5 de abril de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/04/05/portadas-madrid-rinde-barca-escapa.html",
-      "pubDate": "Sun, 05 Apr 2026 02:11:35 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1a8b22f7c8.jpeg"
-    },
-    {
-      "id": "858d7738e099d089f55a",
-      "title": "Stupa no se corta sobre el difícil regreso de Lebrón y Galán: “¡Qué pesados!”",
-      "summary": "Stupa habló en su canal de YouTube sobre la vuelta de Lebrón y Galán.",
-      "link": "https://www.marca.com/padel/2026/04/05/stupa-corta-sobre-dificil-regreso-lebron-galan-pesados.html",
-      "pubDate": "Sun, 05 Apr 2026 01:38:03 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d16e0a1c5d6.png"
-    },
-    {
       "id": "e9ceeef017aadcf7ab86",
       "title": "Andy Serkis confirma grave ausencia en The Hunt for Gollum",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Aunque todavía no se han anunciado oficialmente, se espera que varios actores de la trilogía original de El Señor de los Anillos de Peter Jackson —incluidos Sir Ian McKellen como Gandalf y Elijah Wood como Frodo— regresen para la película precuela The Hunt for Gollum ( La caza de Gollum ), pero Viggo Mortensen no estará entre ellos. En medio de los rumores de que el papel de Aragorn será reiniciado con un nuevo actor, el director Andy Serkis ha confirmado que Mortensen no retomará su papel como el heroico montaraz. El casting de un nuevo Aragorn en The Hunt for Gollum «No sé qué hay por ahí en este momento, sé que hay mucha especulación, pero digamos que estamos haciendo un nuevo casting para el papel y estamos en camino de encontrar a alguien», dijo el cineasta a Screen Rant . Gollum A Serkis también se le preguntó sobre la reciente noticia de que Kate Winslet se ha unido al reparto, pero se negó a revelar nada sobre su personaje. «Tenemos que guardarlo todo. Quiero decir, mira, más allá de lo que creo que es de conocimiento común, nuestra película tiene lugar entre El Hobbit y El Señor de los Anillos , y es The Hunt for Gollum ; es una caza física del personaje, pero también una caza psicológica de sí mismo. Así que estamos casi en la rampa de lanzamiento ahora, y es muy emocionante. Y sí, va a ser un gran viaje». Leo Woodall: ¿El heredero de Isildur en The Hunt for Gollum? Según un rumor reciente, el actor inglés Leo Woodall, quien ganó reconocimiento por su papel en la segunda temporada de The White Lotus y a quien se puede ver actualmente como el personaje principal en la serie de Netflix, Vladimir , está en conversaciones para interpretar a Aragorn. Durante una aparición en el podcast Happy Sad Confused , Elijah Wood pareció confirmar inicialmente el casting de Woodall antes de aclarar su respuesta (algunos creen que en realidad «soltó la lengua» y simplemente dio marcha atrás). Gracias a su herenci",
@@ -1585,16 +1697,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2025/08/gollum.jpg"
-    },
-    {
-      "id": "b5b3bed2844df394f424",
-      "title": "El audio del VAR de la polémica",
-      "summary": "BUSQUETS FERRER RETIRA LA ROJA A GERARD MARTÍN.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/05/audio-var-sobre-roja-gerard-martin-jugador-barcelona-juega-pelota-forma-normal.html",
-      "pubDate": "Sun, 05 Apr 2026 01:15:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d18f9dc44f4.jpeg"
     },
     {
       "id": "cb6c60211d474441f389",
@@ -1608,43 +1710,13 @@
     },
     {
       "id": "ba2544eb95fddec5f52c",
-      "title": "Pósters eliminados de Maul revelan dos regresos de Star Wars",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Star Wars: Maul &#8211; Shadow Lord se estrena en Disney+ este lunes, y un conjunto completo de pósteres de personajes se ha filtrado recientemente en línea (suponemos que estos debían lanzarse semanalmente o al final de la temporada). Al menos dos de ellos arruinan algunas sorpresas masivas planeadas para la serie, encabezada por el nuevo presidente de Lucasfilm, Dave Filoni. Aunque la mayoría de los pósteres , algunos eliminados en las redes sociales, presentan personajes que ya hemos visto en los tráileres y anuncios de televisión de la serie animada, hay dos que confirman los regresos de Darth Vader y Dryden Vos, el villano principal de Solo: A Star Wars Story . La cronología de Maul y el ascenso de Crimson Dawn La serie está ambientada entre los eventos de The Clone Wars y Solo , pero con la Temporada 2 ya oficialmente en camino, es probable que vaya más allá de esta última para preparar el terreno de dónde encontramos a Maul cuando apareció por primera vez en Star Wars Rebels . Mientras tanto, el enfoque principal estará en explorar cómo se convirtió en el líder del sindicato del crimen, Crimson Dawn . Si bien el papel de Vos como un señor del crimen rival era quizás de esperar, la presencia de Vader seguramente emocionará a los fans. Él y Maul nunca han luchado en pantalla, así que, ¿podríamos ver finalmente quién sale victorioso cuando el anterior aprendiz del Emperador Palpatine se enfrente al Lord Sith anteriormente conocido como el Caballero Jedi, Anakin Skywalker? Tendremos que esperar para verlo. Sabemos que la historia de Maul termina en Star Wars Rebels cuando se enfrenta a Obi-Wan Kenobi en un duelo final con sables de luz en Tatooine. Según la productora ejecutiva Athena Yvette Portillo en GamesRadar , incluso con ese final escrito en piedra, todavía hay muchas sorpresas sobre hacia dónde van las cosas cuando nos reencontramos con el villano en Star Wars: Maul &#8211; Shadow Lord . «Eso e",
+      "title": "Pósters de Maul – Shadow Lord revelan dos regresos de Star Wars",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Star Wars: Maul &#8211; Shadow Lord se estrena en Disney+ este lunes, y un conjunto completo de pósteres de personajes se ha filtrado recientemente en línea (suponemos que estos debían lanzarse semanalmente o al final de la temporada). Al menos dos de ellos arruinan algunas sorpresas masivas planeadas para la serie, encabezada por el nuevo presidente de Lucasfilm, Dave Filoni. Aunque la mayoría de los pósters, algunos eliminados en las redes sociales, presentan personajes que ya hemos visto en los tráileres y anuncios de televisión de la serie animada, hay dos que confirman los regresos de Darth Vader y Dryden Vos, el villano principal de Solo: A Star Wars Story . La cronología de Maul y el ascenso de Crimson Dawn La serie está ambientada entre los eventos de The Clone Wars y Solo , pero con la Temporada 2 ya oficialmente en camino, es probable que vaya más allá de esta última para preparar el terreno de dónde encontramos a Maul cuando apareció por primera vez en Star Wars Rebels . Mientras tanto, el enfoque principal estará en explorar cómo se convirtió en el líder del sindicato del crimen, Crimson Dawn . Si bien el papel de Vos como un señor del crimen rival era quizás de esperar, la presencia de Vader seguramente emocionará a los fans. Él y Maul nunca han luchado en pantalla, así que, ¿podríamos ver finalmente quién sale victorioso cuando el anterior aprendiz del Emperador Palpatine se enfrente al Lord Sith anteriormente conocido como el Caballero Jedi, Anakin Skywalker? Tendremos que esperar para verlo. Sabemos que la historia de Maul termina en Star Wars Rebels cuando se enfrenta a Obi-Wan Kenobi en un duelo final con sables de luz en Tatooine. Según la productora ejecutiva Athena Yvette Portillo en GamesRadar , incluso con ese final escrito en piedra, todavía hay muchas sorpresas sobre hacia dónde van las cosas cuando nos reencontramos con el villano en Star Wars: Maul &#8211; Shadow Lord . «Eso es ",
       "link": "https://www.cinemascomics.com/posters-eliminados-maul-regresos-star-wars/",
       "pubDate": "Sun, 05 Apr 2026 00:53:22 +0000",
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-18.jpg"
-    },
-    {
-      "id": "5bf912311f96cfacb9d0",
-      "title": "Jokic tumba a Wembanyama en un partidazo con aroma a MVP y a Playoffs",
-      "summary": "Nikola Jokic trata de lanzar ante Victor Wembanyama.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/05/jokic-tumba-wembanyama-partidazo-aroma-mvp-playoffs.html",
-      "pubDate": "Sun, 05 Apr 2026 00:40:55 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d1935f96bfe.jpeg"
-    },
-    {
-      "id": "2f73c6964ef1ec0aa5be",
-      "title": "Recado del Atlético tras la 'no roja' a Gerard Martín",
-      "summary": "Montaje de los pisotones de Gerard Martín y Valentín Gómez junto al Cholo Simeone",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/05/jugada-compara-simeone-desata-indignacion-atletico-redes-sociales.html",
-      "pubDate": "Sun, 05 Apr 2026 00:26:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d18d89cbb85.jpeg"
-    },
-    {
-      "id": "e17a8e6e75b104776f31",
-      "title": "Descansar es 'ganar' para el Atlético",
-      "summary": "Taufik, durante el choque ante el Barcelona.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/05/descansar-ganar-atletico.html",
-      "pubDate": "Sun, 05 Apr 2026 00:22:54 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d18dca17724.jpeg"
     },
     {
       "id": "29cb41ad4d15919b176e",
@@ -1655,46 +1727,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b06a/live/c90a71f0-3083-11f1-a351-5b496dddecb2.jpg"
-    },
-    {
-      "id": "a5342ad9b450c27b6614",
-      "title": "Tras la lesión de Doncic, otro palo para los Lakers",
-      "summary": "Austin Reaves lanza a canasta en el partido ante los Thunder.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/04/lesion-doncic-palo-lakers-reaves-tambien-pierde-inicio-playoffs.html",
-      "pubDate": "Sat, 04 Apr 2026 23:59:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d189828617f.jpeg"
-    },
-    {
-      "id": "608e11cbf2df194024af",
-      "title": "\"No, no me han perjudicado\"",
-      "summary": "Simeone, durante el partido ante el Barcelona.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/04/simeone-esperamos-cta-pueda-explicar-bien.html",
-      "pubDate": "Sat, 04 Apr 2026 23:55:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d1810ab1f1d.jpeg"
-    },
-    {
-      "id": "b65c81e4442628002835",
-      "title": "Cabreo de Lamine: no celebró el gol de Lewandowski",
-      "summary": "El entrenador del Fútbol Club Barcelona habló sobre el cabreo de Lamine Yamal tras finalizar el encuentro.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/04/cabreo-lamine-yamal-celebro-gol-lewandowski.html",
-      "pubDate": "Sat, 04 Apr 2026 23:40:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/aUAL61fqOKSMMMsDH.jpeg"
-    },
-    {
-      "id": "daa3b7515d6ada227840",
-      "title": "Atlético de Madrid 1-2 Barcelona I Resumen LaLiga",
-      "summary": "Resumen.",
-      "link": "https://www.marca.com/futbol/primera-division/2026/04/04/atletico-madrid-1-2-barcelona-i-resumen-laliga-video.html",
-      "pubDate": "Sat, 04 Apr 2026 23:20:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d180a76c409.jpeg"
     },
     {
       "id": "93cb649c5796bbc0354b",
@@ -2179,16 +2211,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-15.jpg"
     },
     {
-      "id": "882fcff0b14602d4c4b3",
-      "title": "Revelan la duración de Mortal Kombat 2: la más larga de la saga",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com La duración de Mortal Kombat 2 ya ha salido a la luz y la secuela apunta directamente a uno de los grandes problemas y también una de las grandes promesas, de cualquier adaptación de esta saga: cómo meter tanto personaje, tanta pelea y tanto caos en una sola película sin que todo salte por los aires. La buena noticia es que parece que esta vez Warner Bros. quiere jugar una partida más ambiciosa. Y tiene sentido. La primera entrega de 2021 dejó sensaciones encontradas, pero también la impresión de que aquello solo era el calentamiento antes del torneo de verdad. Ahora, con Johnny Cage entrando por fin en escena, más luchadores sobre la mesa y un enfoque más grande, Mortal Kombat 2 empieza a perfilarse como la película que muchos esperaban desde hace años. Mortal Kombat 2 será la película más larga de la franquicia Según la ficha publicada por AMC Theatres, Mortal Kombat 2 tendría una duración de 1 hora y 56 minutos , es decir, 116 minutos en total. Si se confirma oficialmente, eso la convertiría en la entrega cinematográfica más larga de la saga hasta la fecha. Puede parecer un detalle menor, pero no lo es. La cinta de 2021 duraba 110 minutos, así que esta secuela ganaría seis minutos extra. Y en una franquicia como esta, donde cada combate, presentación de personaje o fatality necesita su espacio, ese margen puede marcar bastante la diferencia. Mortal Kombat (1995) &#8211; 1 hora y 41 minutos (101 minutos) Mortal Kombat: Annihilation (1997) &#8211; 1 hora y 35 minutos (95 minutos) Mortal Kombat (2021) &#8211; 1 hora y 50 minutos (110 minutos) Mortal Kombat II (2026) &#8211; 1 hora y 56 minutos (116 minutos) Porque aquí no hablamos de una película pequeña. Mortal Kombat 2 tiene que equilibrar un reparto enorme, varias historias paralelas y, además, satisfacer a un público que no perdona cuando un personaje icónico aparece dos minutos o cuando una pelea importante se resuelve demasiado deprisa. Mortal Komba",
-      "link": "https://www.cinemascomics.com/revelan-la-duracion-de-mortal-kombat-2/",
-      "pubDate": "Fri, 03 Apr 2026 22:01:07 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/mortal-kombat-2-logo.jpg"
-    },
-    {
       "id": "151dca21bb35eaaea66c",
       "title": "El \"escuadrón de Dios\" con el que el gobierno de Trump autoriza nuevas perforaciones petroleras en el Golfo de México",
       "summary": "Estados Unidos activó esta semana un mecanismo excepcional que permite avanzar con proyectos energéticos en el Golfo de México incluso si amenazan a especies en peligro, como la ballena de Rice.",
@@ -2371,16 +2393,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc97/live/ec7047d0-2f95-11f1-ac87-3f0e8e625f1b.jpg"
     },
     {
-      "id": "ee1575018d8484138c40",
-      "title": "Ese móvil antiguo que tienes en un cajón hoy vale mucho más por culpa de la crisis de la RAM: es el momento perfecto",
-      "summary": "Todos tenemos algún móvil antiguo en un cajón cogiendo polvo. Hace años cambiaste de dispositivo y miraste si en el mercado de segunda mano tenía algún valor, pero probablemente el precio era tan ridículo que decidiste dejarlo de comodín por si pasaba algo. Bueno, pues ya ha pasado . La crisis de la memoria RAM no solo está afectando al precio de los móviles nuevos, los smartphones reciclados también están aumentando su valor considerablemente. No todos, eso sí, solo algunos. En la industria hay varias empresas en todo el mundo con un objetivo claro: comprar móviles antiguos para reciclar sus materiales, darles otra vida como reacondicionados o extraer parte de sus materias primas más valiosas y venderlas al mercado mayorista. ¿El problema? Los precios que ofrecían estas compañías rozaban lo ridículo en la mayoría de ocasiones. La buena noticia, que se da gracias a cambio de una crisis impresionante, es que los precios de estos móviles antiguos reciclados están subiendo como la espuma . Las empresas encargadas de comprarlos se han percatado de que hay mucho que pescar en este mar revuelto: están sacando los chips de memoria RAM de los dispositivos viejos y vendiéndolos mucho más caros que antes. Es buen momento para mirar cuánto vale tu móvil antiguo Sin duda alguna, este es el mejor momento para deshacerte de ese móvil antiguo que tienes en un cajón . Lo más probable es que su precio haya subido bastante, aunque tampoco debes esperar cientos de euros por él. En China, los dispositivos que hace unos meses se compraban por unos pocos dólares, ahora están multiplicando por 10-15 esa oferta. Muchos usuarios dejaron esos móviles antiguos en un cajón y rechazaron ofertas de 5 o 6 dólares, pero ahora la puja de algunas compañías de reciclaje está en 60-70 dólares por esos mismos smartphones. La mala noticia es que no todos entran en la ecuación . Estas compañías de compra de smartphones usados están buscando un target concreto: esos móviles antiguos de gama alta que tiene",
-      "link": "https://hipertextual.com/mobile/ese-movil-antiguo-que-tienes-en-un-cajon-hoy-vale-mucho-mas-por-culpa-de-la-crisis-de-la-ram-es-el-momento-perfecto/",
-      "pubDate": "Fri, 03 Apr 2026 07:00:52 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/moviles-antioguos.jpg?fit=1024%2C674&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "ab6d159d404a7b43ba8d",
       "title": "MSI presenta la placa MEG X870E UNIFY-X MAX para el Ryzen 9 9950X3D2",
       "summary": "MSI ha añadido un nuevo modelo a su arsenal de placas base, la MEG X870E UNIFY-X MAX de gama alta, que está destinada a la creación de los PCs para juegos más potentes del mercado y llega especialmente optimizada para usar el Ryzen 9 9950X3D2 , el nuevo procesador de AMD con doble caché presentado recientemente. MSI ha anunciado compatibilidad total de sus placas base con la nueva estrella entre los procesadores de AMD. Para ello, publicará en breve una actualización de sus BIOS AGESA PI que optimizará el rendimiento y la capacidad de overclocking del Ryzen 9 9950X3D2. La última generación de las CPUs de AMD estrena el doble caché 3D, ofrece 16 núcleos y 32 hilos de procesamiento nativo con frecuencia turbo que puede alcanzar los 5,6 GHz, incluye una enorme cantidad de caché de tercer nivel (192 MB) y un TDP de 200 vatios. Además de soportar las placas base actuales (series 600 y 800) MSI también ha presentado una nueva placa base MEG X870E UNIFY-X MAX, «diseñada para un rendimiento sin concesiones» , asegura la compañía. Con un diseño especializado de 2 DIMM y OC Engine, está pensada para los entusiastas del overclocking extremo que buscan el máximo potencial del nuevo procesador de AMD. Cuenta con un potente regulador de voltaje con diseño de fase de alimentación 18+2+1 (110 A SPS), combinado con una solución de refrigeración avanzada que incluye un tubo de calor cruzado de contacto directo y un EZ M.2 Shield Frozr II de doble cara, que garantiza la estabilidad en las condiciones más exigentes. El exclusivo Tuning Controller simplifica la configuración avanzada y el reinicio de la CMOS , haciendo que el overclocking sea accesible incluso para aquellos que se inician en la optimización del rendimiento extremo. Totalmente optimizada para los procesadores AMD Ryzen Serie 9000 con tecnología AMD 3D V-Cache, está equipada con la última norma de conectividad inalámbrica, Wi-Fi 7, y puede conectarse por cable con un LAN 5G de alta velocidad. MSI proporciona una UEFI CLIC",
@@ -2429,6 +2441,16 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce5b/live/44cb10a0-2ef5-11f1-8f68-3b00cd0691af.jpg"
+    },
+    {
+      "id": "73d35b58f7915d763a40",
+      "title": "Estos son los videojuegos que no debes perderte este abril",
+      "summary": "'Pragmata', 'Saros' y 'Tomodachi Life' son algunos de los juegos más destacados del mes para PC, PlayStation 5, Xbox Series y Nintendo Switch",
+      "link": "https://www.lavanguardia.com/neo/20260402/11504381/videojuegos-esperados-abril-2026-calendario-lanzamientos-ps5-xbox-switch-pc.html",
+      "pubDate": "02 Apr 2026 06:00:00 +0200",
+      "source": "La Vanguardia Tech",
+      "cat": "tech",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/01/69cd58a9cadab.jpeg"
     }
   ],
   "radar": {
@@ -2440,16 +2462,16 @@
         "cls": "rb-green"
       },
       {
-        "name": "Gemini",
+        "name": "Llama",
         "type": "Modelo",
         "badge": "Trending",
         "cls": "rb-green"
       },
       {
-        "name": "Llama",
+        "name": "Gemini",
         "type": "Modelo",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Trending",
+        "cls": "rb-green"
       },
       {
         "name": "Claude",
@@ -2458,13 +2480,13 @@
         "cls": "rb-accent"
       },
       {
-        "name": "Grok",
-        "type": "Modelo",
+        "name": "Sora",
+        "type": "Video AI",
         "badge": "Alta atención",
         "cls": "rb-orange"
       }
     ],
     "rising": []
   },
-  "updated": "2026-04-05T08:36:44.941268+00:00"
+  "updated": "2026-04-05T10:27:31.725579+00:00"
 }
