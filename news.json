@@ -21,17 +21,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f97a/live/8b9e0d50-2df3-11f1-8be1-d9efefde2f58.jpg"
     },
     {
-      "id": "844bb5c9a504cef0efb6",
-      "title": "Dimensity 9600: MediaTek sube la apuesta con dos núcleos ultra grandes",
-      "summary": "El mercado de los procesadores móviles de gama alta vive una carrera constante por mejorar el rendimiento sin sacrificar eficiencia energética. En ese contexto, los grandes fabricantes de chips están explorando nuevas configuraciones de CPU que permitan ofrecer más potencia en tareas exigentes, especialmente en ámbitos como la inteligencia artificial, el gaming y el procesamiento multimedia avanzado. En ese escenario empieza a tomar forma el Dimensity 9600, el próximo SoC estrella de MediaTek . Según una reciente filtración procedente del conocido insider Digital Chat Station, el Dimensity 9600 podría apostar por una arquitectura de CPU bastante diferente a la que hemos visto hasta ahora en la mayoría de chips móviles. En concreto, el nuevo procesador utilizaría una configuración 2+3+3, compuesta por dos núcleos ultra grandes, tres núcleos de alto rendimiento y tres núcleos adicionales también orientados a rendimiento. Se trataría de un cambio interesante respecto a la estructura tradicional que combinaba uno o dos núcleos “prime”, varios de alto rendimiento y varios de eficiencia. Esta configuración supondría una evolución importante respecto al Dimensity 9500, el modelo actual de referencia dentro del catálogo de MediaTek. Ese chip utiliza una arquitectura 1+3+4, con un único núcleo de máximo rendimiento acompañado de tres núcleos potentes y cuatro orientados a eficiencia. El salto al diseño 2+3+3 refleja un cambio de filosofía claro: priorizar más potencia bruta y reducir el peso de los núcleos diseñados exclusivamente para ahorro energético . Otro aspecto clave del Dimensity 9600 sería su proceso de fabricación. Según la filtración, el nuevo SoC estaría basado en el nodo N2P de TSMC , una evolución del proceso de 2 nanómetros que promete mejoras de rendimiento de entre un 5 % y un 10 % respecto al nodo N2 original. Este tipo de proceso permitiría compensar el mayor consumo potencial de los núcleos de alto rendimiento con una eficiencia energética superior a nive",
-      "link": "https://www.muycomputer.com/2026/04/01/dimensity-9600-mediatek-sube-la-apuesta-con-dos-nucleos-ultra-grandes/",
-      "pubDate": "Wed, 01 Apr 2026 17:32:34 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/MediaTek-2.jpg",
-      "subcat": "mercado"
-    },
-    {
       "id": "38c773ab79d4b8bd1104",
       "title": "OpenAI anuncia una “superaplicación de IA unificada” y revela sus grandes cifras tras cerrar la mayor ronda de la historia",
       "summary": "OpenAI ha cerrado la mayor ronda de financiación de la historia, aunque esto ya no es noticia. Es, si mis cuentas no fallan , la tercera vez que logran batir los récords del sector startup con rondas descomunales que cuentan sus volúmenes por miles de millones. En este caso se trata de 122.000 millones de dólares , que consolidan su posición como la segunda startup más valiosa del mundo , y todo gracias al apoyo de inversores habituales como Softbank, Amazon, Microsoft o Nvidia. Pero como decíamos, ese no es el motivo que nos trae aquí. En el comunicado en el que ha anunciado el cierre de esta megaronda, la empresa liderada por Sam Altman ha aprovechado para sacar pecho y lucir sus grandes cifras, algunas de ellas desconocidas hasta el momento. Ah, y ha explicado en qué está trabajando ahora. Se acerca la superaplicación de OpenAI Hacia una superaplicación de IA unificada &#8220;Estamos creando una superaplicación de IA unificada. A medida que los modelos se vuelven más capaces, el factor limitante pasa de la inteligencia a la usabilidad. Los usuarios no quieren herramientas desconectadas. Quieren un sistema único que pueda comprender la intención, actuar y operar en diversas aplicaciones, datos y flujos de trabajo. Nuestra superaplicación integrará ChatGPT, Codex, la navegación y nuestras capacidades de agente en una experiencia centrada en el agente&#8221; . De esta forma, OpenAI presenta sus próximos pasos en el campo de la IA, buscando simplificar su cada vez más extenso catálogo de productos. Un movimiento que tiene parte de estrategia comercial, pero que también sitúan en el campo de la propia eficiencia a nivel de operaciones internas: &#8220;una única plataforma de producto nos permite mejorar más rápido, realizar lanzamientos más coherentes y capturar un mayor valor generado por los flujos de trabajo basados ​​en agentes&#8221;. Todavía estamos en los primeros momentos tras el anuncio, y es complicado imaginarse qué consecuencias tendrá este movimiento para",
@@ -334,6 +323,146 @@
       "image": "https://static.eldiario.es/clip/cfbaa98e-c51e-466d-9a25-3b133291129c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
+      "id": "d02007d518a9133310f7",
+      "title": "El Celta toma Mestalla y mira a la Champions",
+      "summary": "Óscar Mingueza trata de frenar el avance de José Luis Gayá, ante Javi Rodríguez.",
+      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/04/05/placido-celta-permite-sonar-champions.html",
+      "pubDate": "Sun, 05 Apr 2026 18:23:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d27dc339343.jpeg"
+    },
+    {
+      "id": "bdb076d8aa02112fb4d4",
+      "title": "El Andorra destroza al líder",
+      "summary": "Los jugadores del Andorra celebran uno de sus goles ante el Racing",
+      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/04/05/andorra-desmelenado-remonta-acaba-goleando-lider-fragil.html",
+      "pubDate": "Sun, 05 Apr 2026 18:20:10 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d28762e042b.jpeg"
+    },
+    {
+      "id": "c62474eee747a78b62e1",
+      "title": "'Doppietta' de Miranda en el triunfo del Bolonia",
+      "summary": "Juan Miranda.",
+      "link": "https://www.marca.com/futbol/liga-italiana/cronica/2026/04/05/doppietta-miranda-triunfo-bolonia.html",
+      "pubDate": "Sun, 05 Apr 2026 18:06:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2886f853fc.jpeg"
+    },
+    {
+      "id": "674d71ded1dc67829654",
+      "title": "Estrellas de LaLiga a precio de chollo en la Champions",
+      "summary": "Griezmann es un auténtico chollazo en LaLiga y en la Champions.",
+      "link": "https://www.marca.com/fantasy/2026/04/05/estrellas-laliga-precio-chollo-champions.html",
+      "pubDate": "Sun, 05 Apr 2026 17:29:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/05/69d27f3ee1215.r_d.1607-643-0.png"
+    },
+    {
+      "id": "09a26b8f588659a6c5ba",
+      "title": "El Hearts pierde pulso... pero llegará líder a la última jornada",
+      "summary": "Lawrence Shankland",
+      "link": "https://www.marca.com/futbol/2026/04/05/hearts-pierde-pulso-llegara-lider-ultima-jornada.html",
+      "pubDate": "Sun, 05 Apr 2026 17:25:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d27d3141f1d.jpeg"
+    },
+    {
+      "id": "632b2b7d8861792b3228",
+      "title": "Marruecos se rinde a la nueva joya de España",
+      "summary": "Jódar celebra un punto.",
+      "link": "https://www.marca.com/tenis/2026/04/05/rafa-jodar-estrena-palmares-campeon-joven-marrakech.html",
+      "pubDate": "Sun, 05 Apr 2026 17:19:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/05/69d2799a7e34d.r_d.1242-392-0.jpeg"
+    },
+    {
+      "id": "3376afae4093d40dd1cc",
+      "title": "Almería - Leganés, en directo",
+      "summary": "",
+      "link": "https://www.marca.com/futbol/segunda-division/2026/04/05/01-0102-20260405-1564-957.html",
+      "pubDate": "Sun, 05 Apr 2026 17:00:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/17753839061314.jpeg"
+    },
+    {
+      "id": "2eb121c28e5c6f7c42b0",
+      "title": "Las Palmas - Huesca, en directo",
+      "summary": "Las Palmas 2-0 Granada | Resumen LaLiga Hypermotion",
+      "link": "https://www.marca.com/futbol/segunda-division/2026/04/05/01-0102-20260405-407-2894.html",
+      "pubDate": "Sun, 05 Apr 2026 17:00:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/02/190532.jpeg"
+    },
+    {
+      "id": "da43034437ea9ca24015",
+      "title": "La primera crisis de Endrick",
+      "summary": "Endrick pide explicaciones en un partido del 'OL'.",
+      "link": "https://www.marca.com/futbol/liga-francesa/cronica/2026/04/05/sequia-endrick-cierra-crisis-lyon.html",
+      "pubDate": "Sun, 05 Apr 2026 16:56:13 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d277fa460ce.jpeg"
+    },
+    {
+      "id": "540ee2cf51482a4ecb04",
+      "title": "Un niño de 12 años apuñala a otro de 13 durante un partido de fútbol sala en Almería",
+      "summary": "Fútbol sala.",
+      "link": "https://www.marca.com/tiramillas/sucesos/2026/04/05/menor-12-anos-apunala-13-durante-partido-futbol-sala-almeria.html",
+      "pubDate": "Sun, 05 Apr 2026 16:49:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d276663c80a.jpeg"
+    },
+    {
+      "id": "45c6f9d0e5796a55cf33",
+      "title": "Flandes y el mundo a sus pies",
+      "summary": "El esloveno logra su tercera ‘De Ronde’ y se convierte en el primer corredor de la historia en ganar cuatro Monumentos seguidos",
+      "link": "https://www.marca.com/ciclismo/2026/04/05/larga-vida-tadej-pogacar-exhibicion-historica-tour-flandes.html",
+      "pubDate": "Sun, 05 Apr 2026 16:43:48 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2853707f74.jpeg"
+    },
+    {
+      "id": "387af8cbecf1189dbf9f",
+      "title": "Oviedo - Sevilla, en directo",
+      "summary": "Sigue el partido que enfrenta a Oviedo contra Sevilla hoy en LaLiga EA Sports",
+      "link": "https://www.marca.com/futbol/primera-division/2026/04/05/01-0101-20260405-187-179.html",
+      "pubDate": "Sun, 05 Apr 2026 16:33:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2882171b5d.jpeg"
+    },
+    {
+      "id": "ceb159989d78838aa673",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 5 de abril",
+      "summary": "Las Autoridades de ese país informaron que atienden por estas horas un incidente luego que autoridades marítimas informaran de que proyectiles desconocidos habían impactado en la zona . El centro de Operaciones de Comercio Marítimo del Reino Unido (UKMTO) confirmó este domingo mismo haber recibido un informe sobre un incidente en el puerto. “El capitán informa haber presenciado múltiples salpicaduras de proyectiles desconocidos, muy cerca de su buque portacontenedores”, dijo la UKMTO. Según informaron medios estatales iraníes, el Cuerpo de la Guardia Revolucionaria Islámica de Irán d eclaró que había atacado instalaciones de combustible y petroquímicas en países del Golfo Pérsico , incluidos los Emiratos Árabes Unidos, en respuesta a los ataques estadounidenses e israelíes. La OPEP+ advirtió este domingo que la reparación de la infraestructura energética dañada durante la guerra en Oriente Medio “es costosa y tomará mucho tiempo” , lo que puede impactar en la oferta de petróleo a futuro. El cartel de países productores no hizo ninguna mención a un cambio en las cuotas de producción para mayo, en un comunicado difundido tras la reunión que mantuvo este domingo el comité ministerial, que incluyó a Arabia Saudita, Rusia, Irak, Emiratos Arabes Unidos, Kuwait, Kazajistán, Nigeria, Argelia y Venezuela. El presidente estadounidense, Donald Trump, afirmó creer que existe una “buena posibilidad” de alcanzar un acuerdo con Irán este lunes , antes del plazo de 48 horas que él mismo fijó para que Teherán firmara un acuerdo y reabriera el estrecho de Ormuz para evitar bombardeos intensos. “ Creo que hay una buena posibilidad mañana ; están negociando ahora mismo”, declaró el mandatario a Fox News. Según informaron medios estatales de Teherán, nuevos ataques aéreos israelíes y estadounidenses alcanzaron hoy un aeropuerto en el suroeste de Irán. “El Aeropuerto Internacional Shahid Soleimani fue alcanzado por un ataque aéreo llevado a cabo por fuerzas estadounidenses y sionistas”, ",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-5-de-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 16:27:08 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/D7CA37GTVVBYFDLHYCP6SSLXQ4.jpg?auth=8b6882e8a08e749886556ba1dc431b9fcd68da31c917980e2d2092bb1f16e4cd&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "3da751f8085a0521ffdf",
+      "title": "Getafe 2-0 Athletic Club | Resumen LaLiga",
+      "summary": "plantilla_miniaturas_highlights_Getafe Athletic",
+      "link": "https://www.marca.com/futbol/primera-division/2026/04/05/getafe-2-0-athletic-club-resumen-laliga-video.html",
+      "pubDate": "Sun, 05 Apr 2026 16:26:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d270ffd23a7.jpeg"
+    },
+    {
       "id": "f43ada138867e3331b95",
       "title": "¡El PSV es campeón de Países Bajos!",
       "summary": "El PSV es campeón de Países Bajos por tercera vez consecutiva",
@@ -344,14 +473,84 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2710a62ef5.jpeg"
     },
     {
+      "id": "0623b83dabea3c04fdf9",
+      "title": "Irán a Trump: \"Está arrastrando a EE.UU. a un infierno en vida\"",
+      "summary": "Así lo ha expresado el presidente del Parlamento iraní, Mohammad Bagher Ghalibaf.",
+      "link": "https://actualidad.rt.com/actualidad/597312-iran-trump-esta-arrastrando-eeuu-infierno?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 16:23:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "79e2793c409252c56cbd",
+      "title": "Trump: EE.UU. temía una trampa de Irán durante el rescate de la tripulación del F-15",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597314-trump-eeuu-temia-trampa-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 16:22:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "13bf146b0fed2839b170",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump estalla contra Irán por Ormuz: “Abrid el estrecho, locos cabrones”",
+      "summary": "Una mujer pasa frente a una enorme valla publicitaria con el lema en persa \"El estrecho de Ormuz permanecerá cerrado\", en la plaza Enghelb de Teherán, Irán, este domingo.",
+      "link": "https://elpais.com/internacional/2026-04-05/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Sun, 05 Apr 2026 16:21:42 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZUP6IRYBHRMQPM4CK3EGCY5DHM.jpg?auth=505b718f3710331f018319c09e51f7ce7efc0a08b5e12f2f4ee8da893cd68de6"
+    },
+    {
       "id": "cfc82dca71182c590dbd",
-      "title": "Juan Carlos I, en Sevilla para asistir al regreso a los ruedos de Morante de la Puebla",
+      "title": "Juan Carlos I afirma que regresará definitivamente a España \"en cuanto pueda\"",
       "summary": "El rey emérito Juan Carlos I, a su salida del hotel en el que se aloja en Sevilla.",
       "link": "https://www.marca.com/tiramillas/sociedad/2026/04/05/rey-emerito-juan-carlos-i-asistira-sevilla-esperado-regreso-ruedos-morante-puebla.html",
       "pubDate": "Sun, 05 Apr 2026 16:16:10 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d26e937e0d2.jpeg"
+    },
+    {
+      "id": "196e2eb3750c289cd757",
+      "title": "Marco Trungelliti perdió ante el español Rafael Jodar la final del ATP 250 de Marrakech",
+      "summary": "Marco Trungelliti (36 años) no logró coronar la mejor semana de su vida tenística como hubiera deseado, ganando su primer título ATP. En el polvo de ladrillo de Marrakech , único certamen africano de la gira, padeció la final frente al joven español Rafael Jodar (19 años), que lo superó en velocidad y energía, imponiéndose por 6-3 y 6-2, en 1h08m. Claro que nada borra los días de ensueño del argentino, que este lunes será el debutante en el top 100 de mayor edad desde 1975 (será 76°, un crecimiento de 41 posiciones). Jodar, nacido en Leganés, una de las mayores promesas del tenis de España que, mientras tanto... disfruta de Carlos Alcaraz, derramó todo lo bueno que se viene sentenciando sobre él (fue campeón del US Open junior 2024). Por lo pronto, arribó a la final con mucho menos desgaste en las piernas que Trungelliti: con cuatro horas y 54 minutos de acción contra once horas y 41 minutos del santiagueño (comenzó desde la clasificación). Jodar tomó la iniciativa desde el primer punto; es más, el primer game del partido, con el saque del argentino, demandó nueve minutos y se jugaron ¡18 puntos!, hasta que Jodar quebró. El europeo, de 1.91m, castigó fortísimo la pelota y frustró a Trungelliti, que no pudo defenderse ante semejantes ataques. La gran diferencia que se observó en el court también fue en la edad entre ambos: cuando Marco jugó su primer partido como tenista profesional (en mayo de 2008), Jodar tenía... dos años. Diestro y de revés de dos manos, Jodar anotó doce tiros ganadores de drive (contra sólo tres del rival), logró cinco aces, un 55% de primeros servicios, ganando el 86% de puntos con el primer saque (18 de 21) y el 88% con el segundo. Le generó nueve break points a Trungelliti, concretando los rompimientos en cuatro oportunidades (Marco únicamente pudo reaccionar y empujar con un break point, pero tampoco lo pudo conseguir). “Estoy muy agradecido por el apoyo y el amor de la gente de Marrakech. Gracias a mi coach (el español Albert Portas); trans",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/marco-trungelliti-perdio-ante-el-espanol-rafael-jodar-la-final-del-atp-250-de-marrakech-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 16:13:34 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/QMBV7ECON5HDDELXMASOIIDOXE.jpg?auth=b323b64762a1e29ecb18e270f0a4f590a5f893ecd87e7b736558a7c7d2034ff0&smart=true&width=864&height=576"
+    },
+    {
+      "id": "ab2db5b39c21dcae5648",
+      "title": "El misterio detrás del cambio en la cuenta de X del enfermero hallado muerto en Palermo",
+      "summary": "Apenas se conoció la noticia de su muerte , el caso quedó inmediatamente inserto en el contexto de las investigaciones por el robo y desvío de fármacos en clínicas privadas y hospitales públicos. Mientras la Justicia intentaba reconstruir las últimas horas de Eduardo Bentancourt dentro del departamento de Palermo donde fue hallado sin vida, su rastro digital comenzó a cambiar: una de sus cuentas en la red social X, hasta entonces pública, pasó a modo privado, según denuncian sus seguidores. El gesto, en apariencia menor, incorporó una nueva incógnita a una causa atravesada por sospechas, versiones cruzadas y una hipótesis oficial que su entorno más cercano pone en duda, tanto la de una sobredosis como la de un suicidio. Bentancourt, de 44 años, fue encontrado muerto el viernes por la tarde en un departamento situado en el 9° piso de un edificio en Fray Justo Santa María de Oro al 2400, en el barrio porteño de Palermo. La alerta al 911 la dio su hermana, preocupada porque no lograba contactarlo desde el 30 de marzo. Al ingresar con la llave provista por la propietaria, los efectivos lo hallaron sentado en una silla del comedor, con sangre en la boca y sin signos vitales. No había señales de violencia en el lugar, aunque sí una punción venosa en uno de sus brazos. En el interior del departamento, la Policía de la Ciudad secuestró 112 ampollas de distintos fármacos de uso hospitalario, entre ellos propofol, fentanilo, midazolam y otras drogas críticas , además de jeringas, guantes de látex y tres teléfonos celulares. La Fiscalía Nacional en lo Criminal y Correccional N° 21 investiga si la muerte fue causada por una sobredosis y busca establecer el origen de ese arsenal, en un contexto marcado por el reciente escándalo por el desvío de anestésicos para reuniones privadas conocidas como “Propofest”. Desde el primer momento, la hipótesis de un suicidio o de una muerte voluntaria fue rechazada por quienes lo conocían. Daniela, una amiga de Eduardo desde hacía una década, a",
+      "link": "https://www.lanacion.com.ar/sociedad/el-misterio-detras-del-cambio-en-la-cuenta-de-x-del-enfermero-hallado-muerto-en-palermo-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 16:05:33 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/7VCQ23UT2BGF5N3GBD2YUXGFY4.png?auth=c358f0529a646245cddc7a8d1bd0633a3d7936fce64e457cb33bb620bf898560&smart=true&width=594&height=446"
+    },
+    {
+      "id": "85610ae4dd801b5cf3c2",
+      "title": "Dos motochorros asaltaron a un expolicía de la Ciudad que repartía dólares: se defendió a los tiros",
+      "summary": "Un fuerte hecho de violencia tuvo lugar la semana pasada en el barrio porteño de Núñez , cuando un hombre que se dedica a la compra y venta de dólares fue interceptado por una banda de delincuentes a bordo de una moto. Las imágenes, captadas por las cámaras de seguridad de un edificio aledaño, mostraron cómo la víctima se bajó de su moto —que dejó estacionada sobre la vereda en Vedia al 2100— con un paquete de dinero en las manos y tocó el timbre de una de las casas. Allí fue cuando se acercaron los dos delincuentes y uno de ellos lo apuntó con un arma de fuego . Según consignaron fuentes de Seguridad porteñas a LA NACION , el hombre de 53 años, retirado de la Policía de la Ciudad , relató que logró alejarse unos metros, forcejeó con uno de los agresores y terminó por efectuar un disparo que impactó en el muslo derecho de uno de ellos . Si bien la escena no quedó captada por las cámaras ya que se habían alejado unos metros del plano, sí puede escucharse parte de lo que sucede. “ ¡Tirate al piso! “, exclama en reiteradas oportunidades el expolicía luego de que se oiga el disparo. ” Sí, sí, todo bien, señor “, le responde en voz más baja el delincuente ya abatido. El herido, que fue identificado como un hombre de 28 años , quedó tendido en la vereda y fue detenido posteriormente por las autoridades. En tanto, los otros sospechosos lograron escapar . Detención en Villa Crespo Este sábado, cuatro hombres, dos chilenos, un ecuatoriano y un colombiano, fueron detenidos acusados de trepar viviendas para cometer asaltos en los barrios porteños de Liniers y Villa Crespo . Fuentes policiales informaron que el primer procedimiento se llevó a cabo en la calle Pieres al 300, donde efectivos de la Policía de la Ciudad recibieron una alerta porque dos personas intentaban ingresar a un domicilio. Uno de los implicados actuó de “campana” y tenía un perro en su poder , mientras que el otro delincuente emprendió la huida en dirección a Caaguazú. El hombre descartó una mochila, se subi",
+      "link": "https://www.lanacion.com.ar/seguridad/dos-motochorros-asaltaron-a-un-expolicia-de-la-ciudad-que-repartia-dolares-se-defendio-a-los-tiros-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 16:01:50 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/VK4ENFL5TJA2XDLBJWY66OFZKA.PNG?auth=b263d0024bc1415e98268b6985c3e0513607f1836f200f2f7e42c4d9de0235c5&smart=true&width=679&height=387"
+    },
+    {
+      "id": "30bd0e6ed866fd367968",
+      "title": "El 'post' del Centcom tras días de silencio después del derribo de cazas estadounidenses en Irán",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597301-primera-publicacion-centcom-derribo-cazas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 16:01:42 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "4c4c0225835990d3eafa",
@@ -364,14 +563,64 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d269714c6be.jpeg"
     },
     {
+      "id": "acbe79973b8a153a9cc0",
+      "title": "Primera imagen de Luke Cage e Iron Fist en el rodaje de Daredevil: Born Again 3",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El universo callejero de Marvel acaba de dar un golpe sobre la mesa. Las primeras imágenes del rodaje de Daredevil: Born Again temporada 3 han confirmado algo que llevaba tiempo flotando en el ambiente: Luke Cage e Iron Fist están de vuelta. Y no como un simple cameo, sino como parte de un reencuentro que muchos llevaban años esperando. Sí, lo que parecía un rumor insistente ya es una realidad. Mike Colter y Finn Jones han sido vistos en el set, lo que apunta directamente a una reunión de los Defenders junto a Charlie Cox y Krysten Ritter. Y esto, para cualquier seguidor del rincón más urbano de Marvel, no es una noticia cualquiera. El regreso de los Defenders en Daredevil: Born Again cambia el tablero X Durante años, Daredevil: Born Again ha sido vista como la gran oportunidad de Marvel Studios para recuperar el tono más crudo y cercano de sus héroes de barrio. Ahora, con Luke Cage e Iron Fist oficialmente en el rodaje, esa apuesta sube varios niveles. Mike Colter vuelve como Luke Cage, el héroe de Harlem con piel impenetrable y una presencia imponente que siempre ha funcionado como el músculo del equipo. Por su parte, Finn Jones retoma el papel de Danny Rand, el Iron Fist, un luchador con habilidades místicas capaz de canalizar una energía devastadora a través de su puño. Ambos personajes protagonizaron sus propias series en Netflix antes de coincidir en The Defenders (2017), una miniserie que no terminó de convencer en su trama general, pero que dejó algo muy claro: la química entre sus protagonistas funcionaba. Y mucho. The Defenders de Netflix / Marvel Un reencuentro casi una década después en Daredevil: Born Again Lo interesante aquí no es solo el regreso de estos personajes, sino el momento en el que se produce. Han pasado casi diez años desde aquella primera reunión de los Defenders, y el contexto ahora es completamente distinto. Charlie Cox regresa como Matt Murdock, mientras Krysten Ritter tambi",
+      "link": "https://www.cinemascomics.com/cage-iron-fist-rodaje-daredevil-born-again-3/",
+      "pubDate": "Sun, 05 Apr 2026 16:01:34 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Luke-Cage-Iron-Fist.jpg"
+    },
+    {
+      "id": "5db2f07c6d669c06fcb0",
+      "title": "River vs. Belgrano hoy: hora y cómo ver la transmisión en vivo del partido del Torneo Apertura 2026",
+      "summary": "River Plate y Belgrano de Córdoba se enfrentan este domingo 5 de abril en el estadio Monumental y con arbitraje de Yael Falcón Pérez en el encuentro correspondiente a la fecha 13 del Grupo B del Torneo Apertura 2026 que organiza la Liga Profesional de Fútbol (LPF). El duelo inicia a las 18 y se transmite en vivo por TV únicamente a través de TNT Sports, canal que se puede sintonizar online en Flow, DGO y Telecentro Play. En canchallena.com se puede seguir el minuto a minuto con información y estadísticas actualizadas al instante. La previa del partido Tanto el Millonario como el Pirata son dos de los mejores equipos de su zona y están en zona de clasificación a octavos de final. El conjunto de Eduardo Coudet marcha tercero con 20 unidades producto de seis triunfos, dos empates y tres caídas y en caso de hilvanar su cuarta victoria seguida volverá a ser escolta de Independiente Rivadavia de Mendoza. Con el ‘Chacho’, el elenco del barrio porteño de Núñez está invicto con tres alegrías y quiere seguir en esa senda en la antesala de su debut en la Copa Sudamericana 2026 vs. Blooming de Bolivia el próximo miércoles 8 de abril. Lo saliente es que el DT cuenta con el regreso de Germán Pezzella, quien está entre los convocados tras recuperarse de la rotura de ligamento cruzado anterior en su rodilla izquierda. En contrapartida, Gonzalo Montiel no está disponible por un lesión muscular mientras que Marcos Acuña debe cumplir una fecha de sanción pr acumulación de tarjetas amarillas. El combinado cordobés, de la mano de Ricardo ‘Ruso’ Zielinski, está haciendo un buen campeonato y marcha quinto con 19 unidades gracias a cinco triunfos, cuatro empates y solo dos caídas, la última ante Racing 2 a 1. Al igual que River, en caso de dar el golpe en el estadio Monumental escalará hasta el segundo puesto y quedará un paso de los playoffs. Convocados de River vs. Belgrano 📝 Los convocados por Eduardo Coudet para recibir a Belgrano en el Mâs Monumental por la fecha 13 del #TorneoApertur",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-belgrano-hoy-hora-y-como-ver-la-transmision-en-vivo-del-partido-del-torneo-apertura-2026-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:55:38 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/7XPZETJ7VNG7XMQYMJGMJAWBRY.jpg?auth=7811eeb1eda8178be870b5c6299197f63b43cfb5f7d7573bd395460999285ef6&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "4f6570b5af50a24c4cca",
+      "title": "El momento exacto del impacto de un misil iraní en una zona industrial de Israel (VIDEOS)",
+      "summary": "Este domingo se registraron varios impactos de misiles iraníes en la zona industrial de Neot Hovav, en el sur del Israel. Videos difundidos por medios locales muestran el momento del impacto, así como la columna de humo que se eleva tras el ataque. Los servicios israelíes de bomberos y rescate informaron que no hubo heridos ni indicios de un incidente con materiales peligrosos. La explosión en la zona industrial causó daños menores.",
+      "link": "https://actualidad.rt.com/actualidad/597304-momento-exacto-impacto-misil-irani-impacta-israel?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:55:25 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d281b6e9ff713f57448c75.jpg"
+    },
+    {
       "id": "dba3a17235efd2c1e961",
       "title": "Vuela hacia Europa",
-      "summary": "Simón se eleva para evitar un remate con el partido todavía en empate.",
+      "summary": "Los de Bordalás vuelven a ganar a los leones y se meten de lleno en la pelea por Europa",
       "link": "https://www.marca.com/futbol/primera-division/cronica/2026/04/05/getafe-adora-athletic.html",
       "pubDate": "Sun, 05 Apr 2026 15:55:20 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d26886b53e5.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d26becadd08.jpeg"
+    },
+    {
+      "id": "c82d6c7bf92fd7d78a4c",
+      "title": "Trump reitera su ultimátum a Irán: \"Si no hay acuerdo, vuelo todo por los aires\"",
+      "summary": "El mandatario estadounidense afirmó en una entrevista con Axios que su país está \"en negociaciones profundas\" con Irán y que se puede llegar a un acuerdo antes de que expire el plazo que él mismo fijó.",
+      "link": "https://actualidad.rt.com/actualidad/597308-trump-reitera-ultimatum-iran-hay-acuerdo-vuela-todo-aires?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:50:00 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2870859bf5b682e060baa.jpg"
+    },
+    {
+      "id": "165a69e1cb5891874a1d",
+      "title": "VIDEO: Imágenes aéreas de las aeronaves estadounidenses destruidas en Irán",
+      "summary": "En redes sociales se han difundido tomas aéreas del lugar donde fueron destruidos en Irán los dos aviones estadounidenses HC-130J Combat King II y los dos helicópteros MH-6 Little Bird. Los aparatos fueron destruidos mientras Estados Unidos llevaba a cabo una operación de búsqueda y rescate del segundo piloto perteneciente al caza que Irán había derribado el pasado viernes en su territorio.",
+      "link": "https://actualidad.rt.com/actualidad/597302-video-imagenes-aereas-aeronaves-estadounidenses-destruidas-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:48:55 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2793159bf5b6fd137ff65.jpg"
     },
     {
       "id": "3ba74161bc17012ff904",
@@ -382,6 +631,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d266eac4903.jpeg"
+    },
+    {
+      "id": "c4445d0281596e5dd2d9",
+      "title": "Las mejores 35 frases para saludar por Semana Santa 2026 a través de WhatsApp e Instagram",
+      "summary": "La proximidad de la Pascua renueva el espíritu festivo en los creyentes y es un momento ideal para compartir mensajes con los seres queridos, por eso resulta importante contar con las mejores 35 frases para saludar por Semana Santa 2026 a través de WhatsApp e Instagram. El uso cotidiano de los servicios de mensajería y las redes sociales facilita el envío de saludos, imágenes, frases o dedicatorias a las personas del entorno más cercano con las que se desea compartir las emociones que despierta la Semana Santa y la Pascua. A continuación figura un listado con diferentes alternativas de saludo , para usar en esta fecha, renovar los vínculos y propiciar el reencuentro y la reflexión. Las mejores 35 frases para saludar por Semana Santa 2026 Que la paz de Cristo guíe tu camino en esta Semana Santa. Es tiempo de renovar la fe y dejar que la luz de la esperanza ilumine nuestras vidas. Que el sacrificio de Jesús nos enseñe a amar sin condiciones. Semana Santa es un tiempo para reencontrarnos con nuestro propósito y con Dios. “Yo soy la resurrección y la vida”. Que esta promesa llene tu corazón de alegría. Que estos días de oración nos ayuden a ser mejores personas cada día. En el silencio de estos días, que logres escuchar la voz de la paz en tu interior. Que la cruz sea para ti un recordatorio de amor infinito, no de dolor. Que la bendición del Señor te acompañe hoy y siempre. Tiempo de perdonar, de sanar y de volver a empezar con fe renovada. ¡Feliz Semana Santa! Que disfrutes de estos días de descanso junto a los que más quieres. Te deseo una semana llena de paz, reflexión y mucho amor familiar. Que en tu hogar nunca falte la fe ni la esperanza. ¡Bendiciones! Aprovechemos estos días para agradecer por todas las bendiciones recibidas. Que la alegría de la resurrección inunde tu casa este domingo. Un abrazo grande en esta Semana Santa. Que sea un tiempo de verdadera unión. Deseo que estos días te traigan la serenidad que necesitas para recargar energías. Que la luz del mu",
+      "link": "https://www.lanacion.com.ar/tecnologia/las-mejores-35-frases-para-saludar-por-semana-santa-2026-a-traves-de-whatsapp-e-instagram-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:46:20 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/E24AWC3SQZFOBD76YAAR2ZWHKA.jpg?auth=4987db050711c0e6aefccba6624bb8a8249ce56baf7f424598548a46d3e6ba47&smart=true&width=800&height=600"
     },
     {
       "id": "c2e48a7841f4e1c114a2",
@@ -404,6 +663,76 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d266debd7e8.jpeg"
     },
     {
+      "id": "e2e0284052b39a14dd8d",
+      "title": "Llevó un paquete con dinero a Núñez y fue emboscado por motochorros: baleó a uno de los ladrones, que le suplicó por su vida",
+      "summary": "Ocurrió en Vedia al 2100, donde el repartidor llegó a entregar un envío. Al ser rodeando, hirió a uno de los atacantes en una pierna. Sus cómplices escaparon.",
+      "link": "https://www.clarin.com/policiales/llevo-paquete-dinero-nunez-emboscado-motochorros-baleo-ladrones-suplico-vida_0_1KbtAhUCd2.html",
+      "pubDate": "Sun, 05 Apr 2026 15:42:09 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/05/pS_jnOuv9_1200x630__1.jpg"
+    },
+    {
+      "id": "c870e9705db82180d618",
+      "title": "De “Houston, tenemos un problema” al récord que busca romper Artemis II",
+      "summary": "Los tripulantes de la NASA dieron comienzo a una alucinante etapa que pretende desarrollar la exploración lunar. Van camino a ser los emisarios más lejanos de nuestro planeta. Se confirmará este lunes, cuando rodeen la Luna sin detenerse y luego emprendan el regreso.",
+      "link": "https://www.clarin.com/internacional/houston-problema-record-busca-romper-artemis-ii_0_wgIM4k8E3D.html",
+      "pubDate": "Sun, 05 Apr 2026 15:40:38 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/05/f2XBnm3e3_1200x630__1.jpg"
+    },
+    {
+      "id": "bf31e5ad16f6bfed588d",
+      "title": "Moscú: El abandono del lenguaje de los ultimátum por parte de EE.UU. facilitaría la desescalada en Irán",
+      "summary": "Así lo aseveró Serguéi Lavrov en una conversación telefónica con su homólogo iraní, Abbas Araghchi.",
+      "link": "https://actualidad.rt.com/actualidad/597306-moscu-eeuu-abandonara-lenguaje-ultimatums?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:38:27 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d285ab59bf5b12df736dbd.jpg"
+    },
+    {
+      "id": "31ed63b76192411f0ca6",
+      "title": "Lecciones de Argentina a Francia, sobre agricultura sostenible",
+      "summary": "A 50 años de la siembra fue el título de la disertación desarrollada por El Dr. Roberto Peiretti, pionero de la seimbra directa en el webinar del Centre National d´Agroécologie, Evreux, Normandy, Francia, oportunidad en la que el destacado experto puntualizó conceptos sobre la agricultura sostenible, con fuerte impronta en la conservación del suelo y la captura de los gases de efecto invernadero.",
+      "link": "https://www.clarin.com/rural/lecciones-argentina-francia-agricultura-sostenible_0_9aaXgN0QQR.html",
+      "pubDate": "Sun, 05 Apr 2026 15:34:58 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2015/04/01/SygCiYFAQl_1200x630.jpg"
+    },
+    {
+      "id": "345928d7c0f098502e1c",
+      "title": "Teto Medina reveló cómo está hoy del cáncer de colon: “Solo me queda esperar y no proyectar ni pensar en qué podría pasar”",
+      "summary": "Marcelo “Teto” Medina volvió a hablar de su estado de salud mediante Instagram. Luego de anunciar que tenía cáncer de colon en enero de este año y que se había sometido a una cirugía exitosa , el conductor de TV publicó este fin de semana un descargo en el que anunció cómo se encuentra el avance de su enfermedad . Cuando confirmó de manera pública que tenía cáncer, hacía ya tres meses que lo habían diagnosticado. Luego de la operación, inició un tratamiento de quimioterapia , hasta que sus doctores hallaron que tenía metástasis en el hígado y, por consiguiente, evaluaron si debería someterse a otra cirugía. En primera parte, subió un reel en el que notificó: “Para los que me preguntaban por el tema de los estudios, van a estar el viernes que viene. Y nada, venimos a trabajar, venimos a dar una de las charlas a una de las comunidades. Estoy contento, feliz, de buen ánimo, pensando siempre en positivo . Las cosas van a salir bien. Mientras tanto, me mantengo activo, que eso es lo importante. También escucho a mi cuerpo cuando estoy mal, pero ahora estoy bien . Así que bueno, nada, a disfrutar este lindo viernes. Que tengan unas muy felices Pascuas y acordarse siempre de aflojar nunca, que se puede”. Teto Medina habla sobre los próximos estudios sobre su salud Un día después, con una foto en la que reveló su estado físico y anímico, escribió un resumen de sus últimos días y fue claro en cómo está su situación de salud: “Hoy quería contarles que estoy en un momento donde todo es incertidumbre . Espero con mucha fe y esperanza el resultado de mis análisis, qué me van a decir, dónde estoy parado con mi cáncer y cuáles van a ser los pasos a seguir. Solo me queda esperar y no proyectar, ni pensar en qué podría pasar. En estas situaciones es donde uno tiene que ser sereno y paciente” , empezó. Y continuó: “Todo será como debe ser y, sea lo que sea, seguir haciendo caso. Los médicos son los que me guían y seguiré en ese camino. Falta muy poco para tener esos resultados y trab",
+      "link": "https://www.lanacion.com.ar/espectaculos/teto-medina-revelo-como-esta-hoy-del-cancer-de-colon-solo-me-queda-esperar-y-no-proyectar-ni-pensar-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:32:05 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/BJ5RBNJTKNAHHC55OMS524O25A.png?auth=78d2ec52658bc6d335136ad85f10a2421be83571c8e06a5d7747e34cb7283d7b&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "a2d6ea2a3263c52b757b",
+      "title": "Adiós Semana Santa 2026: cuándo es el próximo feriado en Estados Unidos",
+      "summary": "Tras la Semana Santa , que no es un feriado federal en Estados Unidos , las miradas recaen en la próxima conmemoración oficial, que tendrá lugar el 25 de mayo de 2026 . Se trata de uno de los días incluidos en el calendario oficial del gobierno. Qué se recuerda el 25 de mayo en EE.UU., el próximo feriado tras Semana Santa El próximo feriado, luego de las celebraciones de Semana Santa en la primera mitad del mes de abril, será el Día de los Caídos ( Memorial Day ), que este año caerá el lunes 25 de mayo . Esta fecha honra a los militares fallecidos en servicio y marca un descanso clave para millones de trabajadores. Según el sitio oficial del gobierno estadounidense , este feriado tiene lugar el último lunes de mayo en Estados Unidos. Cómo nació el Memorial Day en EE.UU. Originalmente, de acuerdo con la información disponible en la web del gobierno federal , el Día de la Conmemoración de los Caídos solo honraba a quienes murieron en la Guerra Civil . Sin embargo, luego de la Primera Guerra Mundial, el ya conocido Memorial Day comenzó a recordar a todo el personal militar estadounidense que falleció mientras brindaba servicio a su país en combate . El Congreso decretó en 1971 que el último lunes de mayo de cada año sea feriado federal por el Día de los Caídos. Cómo se conmemora el Memorial Day en EE.UU. Según las autoridades federales, hay tres maneras típicas de conmemorar el Memorial Day en EE.UU. : Generalmente, el presidente o vicepresidente de turno ofrece un discurso para honrar la memoria de los caídos en combate . Este evento tiene lugar en el Cementerio Nacional de Arlington, Virginia, y es considerado como una de las tradiciones “más importantes” de la jornada. También se coloca la bandera estadounidense a media asta , desde el amanecer hasta el mediodía. Se realiza un minuto de silencio a las 15:00 hs (hora local) para conmemorar la memoria de los caídos, como consecuencia de la Ley del Momento Nacional del Recuerdo (The National Moment of Remembrance Act).",
+      "link": "https://www.lanacion.com.ar/estados-unidos/adios-semana-santa-2026-cuando-es-el-proximo-feriado-en-estados-unidos-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:29:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/3WGN6IBOZBG3JDCQJLPHX3PQJY.jpg?auth=2bb5c9a110eaf81bbe186599e097621fc02aecec71c88121e01aa07163fa2b89&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "753c4ad6cf541a4c20a0",
+      "title": "“Incremento exponencial”: sorpresiva expansión de una temible plaga para un cultivo",
+      "summary": "La Asociación de Maíz y Sorgo Argentino (Maizar) difundió un informe donde alerta en torno de la situación actual de expansión de la chicharrita, plaga que en el ciclo 2023/2024 implicó un recorte en la producción estimada del cereal superior a 10 millones de toneladas. Según la entidad, “aunque prácticamente la totalidad de la producción de maíz de la campaña 2025/26 está a salvo de las infecciones de Spiroplasma (CSS) transmitidas por Dalbulus maidis , el incremento exponencial de poblaciones de esta chicharrita durante la segunda quincena de marzo y la aparición de síntomas foliares en algunas localidades plantea la necesidad de incrementar el monitoreo para desarrollar estrategias que impidan que en campañas futuras se repitan epifitias como la del ciclo 2023/24″. Década perdida: el “castigo” que expulsó tres millones de hectáreas En este marco, Maizar citó a expertos, como Alejandro Vera, coordinador de la Red Nacional de Monitoreo de Dalbulus maidis . Dijo: “Es importante seguir generando información sobre todo el patosistema, monitoreando trampas y cultivos, remitiendo insectos a la red entomológica para establecer su infectividad e inspeccionando síntomas foliares, para establecer cómo evolucionan las distintas situaciones”. Reporte Maizar indicó que el 39º informe de la red de monitoreo, con datos relevados entre el 17 de marzo y el 1° de abril de 2026, reflejó que “la región NOA, donde el 99% de las trampas estuvo instalada sobre maíz, fue la zona endémica de mayor crecimiento poblacional en este período”. Detalló que allí “en el 67% de las localidades se capturaron más de 100 Dalbulus maidis por trampa, la categoría más alta\". Agregó que esta marcada fase de incremento se corresponde con un predominio de cultivos que se encuentran en estadios fenológicos reproductivos intermedios (R3–R4). Según la organización, el informe presentó datos sobre el porcentaje de individuos portadores de CSS en tres localidades de esta región, que indican niveles moderados de",
+      "link": "https://www.lanacion.com.ar/economia/campo/incremento-exponencial-sorpresiva-expansion-de-una-temible-plaga-para-un-cultivo-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:27:09 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/JH5HTQEB5NGEZGT6ARGAN4F23Q.png?auth=6a83b9971a131e9cfc69c2b6d50ff75048ea5e98371720f865bff8b4458f35d5&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "bcb72941009c8c44d46a",
       "title": "Dani Mérida paga el cansancio y se queda sin título en Bucarest",
       "summary": "Mérida pega de revés.",
@@ -412,6 +741,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d25d3390d30.jpeg"
+    },
+    {
+      "id": "8edccc849020561c045e",
+      "title": "Una reforma electoral en un año no electoral",
+      "summary": "Las PASO han sido un ordenador del desordenado sistema político electoral argentino. Su eliminación o reconversión no contribuye a mejorar la representación política.",
+      "link": "https://www.clarin.com/opinion/reforma-electoral-ano-electoral_0_0XwjTRmHB8.html",
+      "pubDate": "Sun, 05 Apr 2026 15:25:04 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/01/22/61ZmPsAtv_1200x630__1.jpg"
     },
     {
       "id": "339da00a2595cc9c7a8d",
@@ -424,24 +763,236 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2620e15e86.jpeg"
     },
     {
-      "id": "a0414c4d805a8c87e1df",
-      "title": "Rafa Jódar - Marco Trungelliti, en directo",
-      "summary": "El tenista madrileño disputa su primera final en el circuito ATP",
-      "link": "https://www.marca.com/tenis/2026/04/05/69d23baa47c2d11d6db02034.html",
-      "pubDate": "Sun, 05 Apr 2026 15:15:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/17753856866959.jpeg"
+      "id": "117b89cd914daae2c0f8",
+      "title": "Calendario Anses: qué prestaciones sociales se cobran en la semana del 6 al 10 de abril",
+      "summary": "La Anses (Administración Nacional de Seguridad Social) sigue esta semana con el pago de las prestaciones sociales correspondientes a la semana del 6 al 10 de abril 2026 , según está establecido en el calendario de pagos . En la última segunda del mes se abonan las jubilaciones, AUH, Asignaciones por Embarazo, Pensiones No Contributivas y Asignaciones Familiares de Pensiones No Contributivas. La actualización mensual, correspondiente al cuarto mes del año, es del 2,90% , en concordancia con la inflación registrada en febrero, que fue del 2,9% . Cabe aclarar que para este tipo de actualizaciones, que se hacen mes a mes, se toman los porcentajes de incremento en los precios con dos decimales , y eso arroja el valor exacto actualizado. El calendario de la Anses en la semana del 6 al 10 de abril Jubilaciones y pensiones que no superen un haber mínimo DNI terminados en 0: 10 de abril Asignación Universal por Hijo y Asignación Familiar por Hijo DNI terminados en 0: 10 de abril Asignación por Embarazo DNI terminados en 0: 10 de abril Pensiones No Contributivas DNI terminados en 0 y 1: 10 de abril Asignaciones Familiares de Pensiones No Contributivas Todas las terminaciones de documento: 10 de abril al 12 de mayo Cómo saber si tengo que cobrar alguna prestación de la Anses ¿Cómo crear la Clave de la Seguridad Social de la Anses? Las personas que reciben prestaciones sociales a través de la Anses pueden consultar dónde y cuándo tienen el próximo cobro, el cual está determinado por el calendario de pagos que se realiza cada mes. Para eso, deben seguir los siguientes pasos: Ingresar a la página de la Anses Completar el formulario con el número de beneficio o de CUIL Hacer clic en el botón “Consulta” Si corresponde, el sistema informará el lugar y la fecha de cobro (desde el primer día hasta el último en que se puede cobrar la asistencia en cuestión) Cómo elegir el medio de pago para las prestaciones de la Anses Ingresar a Mi Anses o descargar la aplicación , con CUIL y Clave de",
+      "link": "https://www.lanacion.com.ar/economia/calendario-anses-que-prestaciones-sociales-se-cobran-en-la-semana-del-6-al-10-de-abril-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:23:37 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/HIOFVKXR65HE7IFWGMISROHMNE.png?auth=bf0414b59dc34ecd87eebb3d54d57d3cd378ddb531dc46298c9f8a9c2c054445&smart=true&width=2000&height=1333"
     },
     {
-      "id": "529b4f4ca4583dda3d1b",
-      "title": "Marca el Racing",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/segunda-division/2026/04/05/01-0102-20260405-16310-189.html",
-      "pubDate": "Sun, 05 Apr 2026 14:45:00 +0200",
+      "id": "d68c665f039328608d1d",
+      "title": "\"No es lo que estoy acostumbrada a ver\": astronauta de Artemis II sobre la cara oculta de la Luna",
+      "summary": "La cara oculta de la Luna sigue estando poco explorada, y la oportunidad de verla con sus propios ojos fue una verdadera revelación para la tripulación de la nave espacial Orion.",
+      "link": "https://actualidad.rt.com/actualidad/597252-tripulacion-artemis-ver-cara-oculta-luna?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:18:40 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2346be9ff7126462ca86f.jpg"
+    },
+    {
+      "id": "e314df9b648f3f5d05de",
+      "title": "Quién toca en el Movistar Arena hoy: todos los recitales de la semana del 6 al 13 de abril de 2026",
+      "summary": "El Movistar Arena da shows todas las semanas. Este es un espacio que ganó mucho público en los últimos años no solo por su calidad en el sonido , sino también por su comodidad en los accesos y la oferta que entrega en gastronomía, la visibilidad al escenario y los artistas que aterrizan en este espacio. Es un lugar que tiene una capacidad para alrededor de 15.000 personas y es uno de los escenarios más convocantes en los últimos años. Sus próximas fechas incluyen tanto artistas nacionales como internacionales. En este sentido, muchos se preguntan cuál es la agenda de shows para esta semana. Quién toca en el Movistar Arena hoy: todos los recitales de la semana del 6 al 13 de abril de 2026 Esta semana en particular, hay cuatro shows. Estos son: Fecha Artista / Evento Entradas 6 de abril Soda Stereo Comprar entradas 9 de abril EMANERO Comprar entradas 10 de abril Fito Páez Comprar entradas 12 de abril Laura Pausini Comprar entradas Dónde queda el Movistar Arena El Movistar Arena se encuentra en el barrio porteño de Villa Crespo , junto a la cancha de Club Atlético Atlanta. Más precisamente, su dirección es Humboldt 450 . También cuenta con una entrada de ingreso Av. Corrientes 6094 . Cómo llegar al Movistar Arena La ubicación que tiene este estadio le permite tener una gran accesibilidad, especialmente en transporte público . A continuación, todas las formas de llegar al Movistar Arena y sus principales accesos : Colectivos : 19, 34, 42, 55, 65, 71, 76, 78, 90, 93, 111, 127, 176. También hay paradas del Metrobus en avenidas cercanas como Av. Corrientes y Av. Juan B. Justo, en cercanía al Movistar Arena. Trenes : San Martín (estación Villa Crespo). Urquiza (estación Federico Lacroze). Subte : Línea B (estación Dorrego). Estas opciones permiten llegar al Movistar Arena desde diferentes puntos de la ciudad y son las vías recomendadas para los asistentes a los eventos. A su vez, se puede ir en auto al estadio , aunque puede ser difícil encontrar lugar para estacionar por l",
+      "link": "https://www.lanacion.com.ar/espectaculos/quien-toca-en-el-movistar-arena-hoy-todos-los-recitales-de-la-semana-del-6-al-13-de-abril-de-2026-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:17:16 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/7C6IMMUYTZHE5E2NAZH4UBA47U.jpg?auth=9e0036dc5db0257762157c628048a530164f1b4adb366b22d0134748aa4b188a&smart=true&width=2000&height=1334"
+    },
+    {
+      "id": "4ebc54c590a63d51ad9e",
+      "title": "“La tiraron al piso y le pegaron”: Evangelina Anderson reveló el violento ataque que sufrió una de sus hijas",
+      "summary": "La modelo contó que ocurrió en la escuela, cuando Martín Demichelis era técnico de River Plate. Además, habló por primera vez de los rumores de infidelidad de su ex esposo.",
+      "link": "https://www.clarin.com/fama/tiraron-piso-pegaron-evangelina-anderson-revelo-violento-ataque-sufrio-hijas_0_w5kf89Bdq9.html",
+      "pubDate": "Sun, 05 Apr 2026 15:15:52 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/04/05/FNXALHBH4_1200x630__1.jpg"
+    },
+    {
+      "id": "53821c396558a6654265",
+      "title": "Serbia frustra un complot para volar un gasoducto clave para Hungría: qué se sabe",
+      "summary": "De haber sido activados, los explosivos habrían cortado el suministro de gas ruso a Bulgaria, Hungría y Serbia.",
+      "link": "https://actualidad.rt.com/actualidad/597268-sabe-hallazgo-explosivos-cerca-gasoducto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:14:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d25f8c59bf5b4f3b0b5a22.jpg"
+    },
+    {
+      "id": "412830a4c916e42d4f1f",
+      "title": "Real Madrid - MoraBanc Andorra, en directo",
+      "summary": "FOTODELDIA MADRID (ESPAÑA), 04/01/2026.- El pívot del Real Madrid Edy Tavares hace un mate durante el partido de la ACB disputado este domingo en el Movistar Arena de Madrid. EFE/ Daniel Gonzalez",
+      "link": "https://www.marca.com/baloncesto/acb/2026/04/05/02-0201-20260405-6210-9433.html",
+      "pubDate": "Sun, 05 Apr 2026 15:14:47 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/01/69cd94e13c633.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/01/06/695d593c72198.jpeg"
+    },
+    {
+      "id": "a15e198bdb087e53741c",
+      "title": "Plataforma de predicciones se disculpa por apuestas sobre pilotos de un caza de EE.UU. derribado en Irán",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597293-plataforma-predicciones-apuestas-rescate-pilotos-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 05 Apr 2026 15:13:10 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "7eecb907387607504755",
+      "title": "Victor Glover, piloto del Artemis II: “Esto que llamamos universo es un montón de nada, ustedes tienen un oasis donde podemos existir juntos”",
+      "summary": "El astronauta estadounidense Victor Glover , piloto de la misión Artemis II de la NASA , compartió un mensaje profundamente reflexivo dirigido a toda la humanidad mientras la histórica misión se prepara para llevar nuevamente a astronautas a la órbita de la Luna. Desde su perspectiva como explorador del espacio, Glover invitó a mirar la Tierra con una visión más amplia y a valorar el planeta como un hogar común para todos. “Esto que llamamos universo es un montón de nada, ustedes tienen un oasis donde podemos existir todos juntos” , aseguró. Durante una intervención pública compartida en las redes sociales de la NASA, el astronauta aclaró que no tenía un discurso preparado. Sin embargo, la experiencia de observar el planeta desde la distancia lo llevó a compartir una reflexión espontánea sobre el lugar que ocupa la humanidad en el cosmos. “Creo que estas conmemoraciones son importantes. Y como estamos tan lejos de la Tierra y observando la belleza de la creación, una de las perspectivas personales realmente importantes que tengo aquí arriba es que realmente puedo ver a la Tierra como una sola cosa ”, expresó Glover. El astronauta explicó que la distancia física del planeta permite comprender algo que muchas veces pasa desapercibido desde la superficie: la Tierra no está dividida por fronteras ni diferencias humanas, sino que aparece como un único sistema vivo flotando en la inmensidad del espacio. Glover también utilizó una metáfora poderosa para describir la situación del planeta en el universo. Según explicó, así como los astronautas viajan en una nave espacial para sobrevivir en el vacío, los seres humanos también viven dentro de una “nave” , solo que mucho más grande y natural que es la Tierra. “Ustedes nos están hablando porque estamos en una nave espacial realmente lejos de la Tierra, pero ustedes están en una nave espacial llamada Tierra que fue creada para darnos un lugar donde vivir en el universo , en el cosmos”, señaló. El mensaje del astronauta se volvió",
+      "link": "https://www.lanacion.com.ar/ciencia/victor-glover-piloto-del-artemis-ii-esto-que-llamamos-universo-es-un-monton-de-nada-ustedes-tienen-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:11:23 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/MJ5RJBFZ4JACTCNKNSU2LL2VB4.png?auth=72d5584f1dbc1fb3deef8d89083989f469c8e43b2abe1770a679f5e3a59a93a5&smart=true&width=431&height=305",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "577f0f17a9b0639fab77",
+      "title": "Mariano Navone le ganó al español Daniel Mérida y se consagró campeón en el ATP de Bucarest",
+      "summary": "El tenis argentino vive un fin de semana inédito: por primera vez en la historia tres jugadores albicelestes son protagonistas de finales ATP en tres certámenes distintos, algo que no había ocurrido en la época de la Legión. Mariano Navone en Bucarest, Marco Trungelliti en Marrakech y Román Burruchaga en Houston. Y en la primera definición del domingo, en el polvo de ladrillo del Ion Tiriac Open de Rumania, Navone (60°) se coronó campeón por primera vez en su carrera: venció al español Daniel Mérida (21 años, 136°, proveniente de la clasificación) por 6-2, 4-6 y 7-5, en dos horas y 17 minutos. Es el título N° 240 de singles masculino en la historia del tenis argentino. Se trató de una final atiborrada de gestos nerviosos, dudas y quiebres (hubo catorce rompimientos de servicio en total) en el Centro Nacional de Tenis que lleva el nombre de Simona Halep (la exnúmero 1 estuvo presenció el partido). En ese contexto, el argentino nacido en la localidad bonaerense 9 de Julio y cuatro años mayor que su rival europeo, encaró la final con la experiencia de haber llegado a esa instancia dos veces (perdió las definiciones de Río de Janeiro y, precisamente Bucarest, en 2024). Querido entre el público (de hecho, el sábado, la figura rumana Illie Nastase le entregó el trofeo como jugador “más popular” del torneo), Navone se sobrepuso a los altibajos y profundizó el desgaste físico de Mérida (de drive picante), que llegó a la última batalla desde la qualy. Claro que Navone también arribó a la final con mucho kilometraje: incluso en las semifinales había disputado el partido más largo de la semana, de tres horas y 31 minutos, al derrotar al neerlandés Botic van de Zandschulp, salvando dos match points. Tras ganar el primer set con autoridad, pero padecer el segundo parcial (en el que hubo siete quiebres en total), Navone -entrenado desde febrero por Alberto Luli Mancini- hizo equilibrio y pudo sobreponerse a la tensión en los momentos clave. Pero sufrió demasiado para cerrar el ma",
+      "link": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-le-gano-al-espanol-daniel-merida-y-se-consagro-campeon-en-el-atp-de-bucarest-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:05:04 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/RTT5NOGJ4FCQTAGRY4GVFCOVU4.jpg?auth=90d9e28324dcd206c84f6293411503658958bd6b916caf7a88a6f5e88f2b8219&smart=true&width=1280&height=997"
+    },
+    {
+      "id": "291af442433ae23e79cd",
+      "title": "Platón: “La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos”",
+      "summary": "La filosofía clásica estableció una distinción fundamental entre la carencia material y la percepción subjetiva de la escasez . Platón, fundador de la Academia en el siglo IV a.C., sostuvo en su obra La República que la pobreza no deriva necesariamente de una disminución de los bienes, sino de la expansión incontrolada de los deseos. Esta perspectiva plantea que el sentimiento de carencia surge cuando las pulsiones humanas superan la capacidad de satisfacción , lo que genera una espiral de infelicidad que persiste incluso en contextos de posesión material. “ La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos “, escribió el filósofo. La subjetividad de la abundancia en la Academia Para Platón, el funcionamiento de las sociedades y las leyes era indisociable del estudio de la mente humana. A través de sus diálogos, el pensador exploró cómo la justicia, la política y la educación influyen en la naturaleza del conocimiento y en la gestión de las necesidades. El filósofo argumentaba que la riqueza posee una vertiente subjetiva tan influyente como la material, lo que sugiere que la ausencia de un límite interno conduce a una esclavitud frente a las propias pasiones . En textos como el Fedro , se señala que el desconocimiento de uno mismo deriva en una inquietud constante del alma. Según este planteamiento, aquel que no logra moderar sus apetitos se convierte en esclavo de sus impulsos , lo que establece un paralelismo con las dinámicas de consumo contemporáneas, donde la sensación de falta suele provenir de necesidades creadas más que de carencias reales. La virtud frente a la acumulación material El análisis platónico no ignora la importancia de contar con los medios necesarios para una vida digna, sino que advierte sobre el riesgo de que el deseo constante anule el bienestar . En el diálogo Gorgias, Platón defendió que la virtud , y no la riqueza, es el factor determinante para la felicidad de un individuo . La moderación y ",
+      "link": "https://www.lanacion.com.ar/lifestyle/platon-la-pobreza-no-viene-por-la-disminucion-de-las-riquezas-sino-por-la-multiplicacion-de-los-nid02042026/",
+      "pubDate": "Sun, 05 Apr 2026 15:04:25 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/PILTSLNBPFFQXNHVCLPVGWQL6M.jpg?auth=94e5ddf84e2fbcd9ec6700f3aad29dbad239a8f200f817a0aecb10072cf439a2&smart=true&width=591&height=394"
+    },
+    {
+      "id": "30cc646f7ce9f13eb0eb",
+      "title": "Buenas noticias para Nueva York: Kathy Hochul anunció más de 25 millones de dólares para reforzar la resiliencia de las granjas ante el cambio climático",
+      "summary": "El programa estatal busca fortalecer la capacidad de respuesta del sector agrícola frente a fenómenos extremos.",
+      "link": "https://www.clarin.com/estados-unidos/buenas-noticias-nueva-york-kathy-hochul-anuncio-25-millones-dolares-reforzar-resiliencia-granjas-cambio-climatico_0_xmnn4KbwPM.html",
+      "pubDate": "Sun, 05 Apr 2026 15:01:52 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/02/18/_eU8Qp-RJ_1200x630__1.jpg"
+    },
+    {
+      "id": "8bad75dd702ad7e9747e",
+      "title": "3 razones para ver ‘Noche de Bodas 2’, la secuela de terror más innecesaria pero divertida del año",
+      "summary": "Tras su estreno en cines de todo el mundo, por fin se estrena en España Noche de Bodas 2 (Ready or Not 2) . La película, una comedia de terror muy sangrienta y violenta, llega 7 años después de la película original. Aquella sorprendió a todos como una estupenda historia original en una industria que ya entonces se inclinaba sin frenos hacia las franquicias. Por eso, reconvertirla en saga con una secuela parecía matar un poco su propia naturaleza. Pero hay motivos para celebrarla. En Noche de Bodas 2 , momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith , con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo. La actriz Samara Weaving repite su papel de Grace en la secuela Noche de bodas 2 , que vuelve a contar con la dirección de Matt Bettinelli-Olpin y Tyler Gillett . En esta ocasión, al reparto se unen Kathryn Newton ( Ant-Man y la Avispa: Quantumania ), Sarah Michelle Gellar ( Buffy Cazavampiros ), Shawn Hatosy ( The Pitt ) y Elijah Wood ( El Señor de los Anillos ). Otros nombres a destacar son Néstor Carbonell ( Lost ), Kevin Durand ( Lost ) y el director David Cronenberg ( La mosca ). Samara Weaving es la reina del terror El primer gran motivo para ver Noche de Bodas 2 sigue siendo su actriz protagonista, Samara Weaving . La intérprete brilló en la primera entrega, derrochando puro carisma y demostrando que podía llevar sobre sus hombros toda una película de terror. En esta nueva entrega, sucede exactamente lo mismo. De nuevo, es capaz de bordarlo tanto en los registros más dramáticos y asustados como en los momentos en los que el personaje debe dar un paso al frente y ponerse a matar y pelear a diestro y siniestro. Es una de las",
+      "link": "https://hipertextual.com/cine-television/3-razones-para-ver-noche-de-bodas-2-la-secuela-de-terror-mas-innecesaria-pero-divertida-del-ano/",
+      "pubDate": "Sun, 05 Apr 2026 15:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Noche-de-Bodas-2-Ready-or-Not-2.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "6efc7b9835524bfa227f",
+      "title": "En dónde y a quién: un acuerdo permitirá la donación de 700.000 huevos",
+      "summary": "La Cámara Argentina de Productores e Industrializadores Avícolas (Capia) y la Red de Bancos de Alimentos Argentina oficializaron la donación de 700.000 huevos . El acuerdo, que se rubricó en la localidad bonaerense de Munro, establece una logística de distribución progresiva hasta el mes de octubre que abastecerá a 14 delegaciones provinciales de la ONG que buscan garantizar el acceso a proteínas de alto valor nutricional para miles de personas vulnerables. Fallo histórico: ordenan a un municipio devolver plata a los productores por el cobro de una tasa Según informaron desde Capia, esta nueva donación , impulsada a partir del vínculo institucional previo entre Capia y el Banco de Alimentos Buenos Aires, busca ampliar el impacto a nivel federal mediante el trabajo articulado para mejorar la nutrición y la calidad de vida de miles de personas que sufren inseguridad alimentaria. La firma del convenio en el Olivos Rugby Club en Munro y contó con la participación de autoridades de las organizaciones involucradas y la Unión Argentina de Rugby ( UAR ) que apoya la iniciativa con difusión. Según señalaron, los alimentos serán distribuidos entre los Bancos de Alimentos de Buenos Aires, Goya, Jujuy, Mar del Plata, Mendoza, Paraná, Patagónico, Rosario, Salta, Santa Fe, Santiago del Estero, Tandil, Tucumán y Virasoro . En esa línea, también mencionaron que la asignación de la donación ya fue definida en conjunto con los productores, estableciendo volúmenes mensuales para cumplimiento del total comprometido . Javier Prida, presidente Ejecutivo de Capia, destacó la colaboración de la Comisión Directiva y de los socios de la entidad avícola que representan a empresas chicas, medianas y grandes, argentinas y familiares. Murió Hugo Luis Biolcati, expresidente de la Rural y hombre clave del campo que frenó a Cristina Kirchner “ Esta articulación con Capia nos permite ampliar el alcance de la Red y seguir acercando alimentos de alto valor nutricional a quienes más lo necesitan. El tr",
+      "link": "https://www.lanacion.com.ar/economia/campo/en-donde-y-a-quien-un-acuerdo-permitira-la-donacion-de-700000-huevos-nid30032026/",
+      "pubDate": "Sun, 05 Apr 2026 14:59:44 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/U7XBDSX2HZEMPOSB7SSBUIOE74.png?auth=94d8bc627951ef879e29784554c0886dc4943771fd64373016a3fd44c437e8b9&smart=true&width=588&height=482"
+    },
+    {
+      "id": "9d163ff1c21a93e0b37f",
+      "title": "El boxeador irlandés Glenn Byrne derribó cuatro veces a William Crolla, pero terminó noqueado y con una hemorragia cerebral",
+      "summary": "La controversia se instaló en el combate entre el boxeador irlandés Glenn Byrne y el británico William Crolla por el peso superwélter, en una pelea que se realizó en Altrincham, en Inglaterra. En el séptimo round, Byrne terminó noqueado tras sufrir un zurdazo en plena cara, lo que le provocó una hemorragia cerebral y que según sus allegados, marcó el final de su carrera profesional. La polémica se desató porque Crolla logró la definición después de haber ido a la lona en cuatro oportunidades. En el Planet Ice Arena el público quedó paralizado, porque Byrne tuvo que salir en camilla y con oxígeno. El promotor del boxeador irlandés, JB Boxing Productions, explicó: “Glenn está de buen humor, charlando, riendo y bromeando, esperando los resultados de una tomografía. La hemorragia cerebral está bajo control en este momento . Lo están monitoreando cada hora y, si Dios quiere, en las próximas 24 horas recibirá el alta del hospital y podrá recuperarse por completo”. El nocaut sobre Glenn Byrne Según publicó en su portal el periódico inglés, The Sun en su edición irlandesa, Jay Byrne, el hermano del boxeador y promotor de boxeo, explicó que la carrera de Glenn, por esta situación, se ve abruptamente interrumpida: “ Estoy desconsolado. Estuve toda la noche en el hospital con él y anoche se acabó la carrera de Glenn. Su carrera ha terminado, nunca volverá a boxear ”. Los promotores del boxeador irlandés le apuntaron directamente al juez de la pelea, Ron Kearney : “ Es la razón por la que hay muertes en el boxeo. A William deberían haberle parado tras las tres caídas y ambos había regresado a casa sanos y salvos. Esto no se trata de ganar o perder, se trata de seguridad en nuestro deporte (...) El boxeo es un deporte muy duro y árbitros como ese son los que arruinan nuestro deporte ”, expresaron. View this post on Instagram El polémica es que Crolla había caído tres veces ya, todas en el segundo round y la campana lo salvó de perder. Además, en el quinto round, volvió a caer y ",
+      "link": "https://www.lanacion.com.ar/deportes/boxeo/el-boxeador-irlandes-glenn-byrne-derribo-cuatro-veces-a-william-crolla-pero-termino-noqueado-y-con-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 14:56:10 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/A6H3WTEMG5BCPPNXYCW2TNJD7Q.jpg?auth=63cf55948d0a3c5aa30e4b45ac3f42349e9ad3e16254c6f37b8cc6b4618b4bcb&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f20a42c61e9f8f9dcc73",
+      "title": "En qué canal pasan River vs. Belgrano por el Torneo Apertura 2026 hoy",
+      "summary": "La fecha 13 del Torneo Apertura 2026 que organiza la Liga Profesional de Fútbol (LPF) continúa este domingo con tres encuentros y uno de ellos es el que protagonizan River Plate y Belgrano de Córdoba desde las 18 en el Monumental con arbitraje de Yael Falcón Pérez , correspondiente al Grupo B. El duelo se transmite en vivo por TV únicamente a través de TNT Sports, canal que se puede sintonizar online en Flow, DGO y Telecentro Play. En canchallena.com se puede seguir el minuto a minuto con información y estadísticas actualizadas al instante. Antes, Gimnasia de La Plata recibe a Huracán y, después, Central Córdoba de Santiago del Estero a Newell’s. La previa de River vs. Belgrano Tanto el Millonario como el Pirata son dos de los mejores equipos de su zona y están en zona de clasificación a octavos de final. El conjunto de Eduardo Coudet marcha tercero con 20 unidades producto de seis triunfos, dos empates y tres caídas y en caso de hilvanar su cuarta victoria seguida volverá a ser escolta de Independiente Rivadavia de Mendoza. Con el ‘Chacho’, el elenco del barrio porteño de Núñez está invicto con tres alegrías y quiere seguir en esa senda en la antesala de su debut en la Copa Sudamericana 2026 vs. Blooming de Bolivia el próximo miércoles 8 de abril. Lo saliente es que el DT cuenta con el regreso de Germán Pezzella, quien está entre los convocados tras recuperarse de la rotura de ligamento cruzado anterior en su rodilla izquierda. En contrapartida, Gonzalo Montiel no está disponible por un lesión muscular mientras que Marcos Acuña debe cumplir una fecha de sanción pr acumulación de tarjetas amarillas. El combinado cordobés, de la mano de Ricardo ‘Ruso’ Zielinski, está haciendo un buen campeonato y marcha quinto con 19 unidades gracias a cinco triunfos, cuatro empates y solo dos caídas, la última ante Racing 2 a 1. Al igual que River, en caso de dar el golpe en el estadio Monumental escalará hasta el segundo puesto y quedará un paso de los playoffs. Posibles formacione",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-vs-belgrano-por-el-torneo-apertura-2026-hoy-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 14:51:04 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/LX5TL37U2NDR5GJLKI2RERUYFI.JPG?auth=521bae7017142a2d1ae6e0551f281c68528840e70def8933c677c8e8a9315205&smart=true&width=3645&height=2430"
+    },
+    {
+      "id": "f18db33bc8615a43f00c",
+      "title": "Murió Dee Freeman, actriz de \"Dexter\" y \"NCIS\", a los 66 años",
+      "summary": "Tenía una amplia trayectoria en TV y lidiaba con un diagnóstico de cáncer de pulmón en estadío 4. Su familia anunció su muerte a través de su cuenta de Instagram.",
+      "link": "https://www.clarin.com/espectaculos/murio-dee-freeman-actriz-dexter-ncis-66-anos_0_hF2EmuApFP.html",
+      "pubDate": "Sun, 05 Apr 2026 14:47:57 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/04/05/cznjqijKu_1200x630__1.jpg"
+    },
+    {
+      "id": "479ad73969963f937736",
+      "title": "Nueva encuesta electoral: menos de 5 puntos entre Milei y Kicillof y un llamativo tercer puesto",
+      "summary": "Es el último estudio nacional de la consultora Tendencias de cara a las presidenciales 2027. También preguntó por la aprobación del Gobierno y dejó un dato clave sobre la herencia K.",
+      "link": "https://www.clarin.com/politica/nueva-encuesta-electoral-5-puntos-milei-kicillof-llamativo-tercer-puesto_0_fJqDRtV6fn.html",
+      "pubDate": "Sun, 05 Apr 2026 14:45:46 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/03/27/C2TdgN94U_1200x630__1.jpg"
+    },
+    {
+      "id": "10abd4168a05259ad04e",
+      "title": "Trump anuncia el rescate del segundo tripulante del avión de combate F-15 derribado por Irán el viernes",
+      "summary": "El derribo de un caza F-15 de EE.UU. en suelo iraní el viernes desató una frenética búsqueda a contrarreloj por parte de fuerzas estadounidenses y de Irán, que habían ofrecido una recompensa por su captura.",
+      "link": "https://www.bbc.com/mundo/articles/cly91kwzp4qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 05 Apr 2026 14:43:21 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0807/live/8e19e3a0-2f70-11f1-934f-036468834728.png"
+    },
+    {
+      "id": "b8d7e7261a68cbabf0f8",
+      "title": "Una jueza de línea fue derribada en Turquía por un cruce entre dos futbolistas y el desenlace generó indignación",
+      "summary": "Un episodio ocurrido en la Segunda División del fútbol turco desató una fuerte controversia y reavivó el debate sobre el respeto hacia la autoridad arbitral. La protagonista involuntaria fue la árbitra asistente Esra Arıkboga, quien terminó en el suelo tras recibir una violenta patada durante el desarrollo del partido, sin que el jugador implicado se detuviera a asistirla o le ofreciera disculpas. Las imágenes se difundieron rápidamente y provocaron una catarata de críticas en redes sociales. El hecho se produjo en el encuentro entre Bursaspor y Mardin 1969 Spor, disputado en el Estadio Matli del Complejo Deportivo Atatürk, por la fecha 31 del Grupo Rojo de la Nesine 2. Lig. El partido se jugaba con alto voltaje competitivo y, ya en el tramo final, una acción por la banda terminó con la jueza de línea como víctima colateral. El cruce entre dos jugadores que derivó en la caída de la jueza en un partido de Turquía En la disputa por el balón participaron Yusuf Erdogan, del Bursaspor, y Mehmet Manis, del Mardin 1969 Spor. Ambos chocaron en velocidad y, en medio de la acción, una de las piernas impactó de lleno contra Arıkboga, que cayó de manera brusca sobre el césped. La secuencia fue captada por las cámaras de la transmisión oficial y quedó expuesta ante los espectadores del estadio y del público televisivo. Mientras la asistente permanecía en el suelo, los futbolistas continuaron la jugada sin detenerse. Ninguno se acercó para verificar su estado ni se observó un gesto de disculpa por parte del jugador del Mardin 1969 Spor, lo que acentuó la indignación posterior. Su rival, en cambio, aprovechó el momento para protestar por la situación. El árbitro principal interrumpió el juego, se dirigió a la línea y se interesó por la salud de su compañera, además de reclamar explicaciones a uno de los protagonistas de la acción. La reacción en redes sociales fue inmediata. En distintas plataformas, usuarios manifestaron su repudio por lo ocurrido y cuestionaron con dureza la fal",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/una-jueza-de-linea-fue-derribada-en-turquia-por-un-cruce-entre-dos-futbolistas-y-el-desenlace-genero-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 14:42:19 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/N5SFPX5G5RF7BBY5IYCBBEZ5BE.jpg?auth=a33fef31be6d4b557473c04bd0f053503f03bfb07fdf8be556bb45eb29e000be&smart=true&width=1472&height=828"
+    },
+    {
+      "id": "a5cccc9b9b8297639044",
+      "title": "Un camión que transportaba aceite de oliva volcó y una joven influencer se grabó mientras saqueaba",
+      "summary": "Una triste escena tuvo lugar hace pocos días sobre la ruta 40 cuando un camión que transportaba botellas de aceite de oliva volcó en la localidad de Luján de Cuyo , en la provincia de Mendoza , y su mercadería fue robada por otros conductores que pasaban por el lugar . El momento quedó grabado por una joven que participó del saqueo y lo subió a sus redes sociales . “ Volcó un camión, tenemos que ir a ver qué hay. Dale, ‘Moco’, manoteá ”, le dice a su compañero la influencer Jula Greco en las imágenes que ella misma publicó posteriormente en su cuenta de Instagram. Allí se puede ver de fondo al camión Scania caído y a decenas de personas extrayendo las cajas y botellas de su interior y llevándose los productos que ya estaban tirados en la calzada . “Todavía no entiendo qué es, pero bueno, vamos a agarrar”, añadió. Según detallaron medios locales , el vehículo de carga pertenecía a una empresa chilena y tenía como destino final Brasil . El incidente que derivó en el vuelco se habría producido cuando el conductor de una camioneta Toyota Hilux realizó una maniobra para esquivar a otro vehículo que circulaba a baja velocidad y encerró al camión, que intentó evitar el impacto desviándose hacia la banquina, pero terminó por colisionar con el semirremolque de un camión Volvo que estaba estacionado. “Bueno gente, nos vamos con aceite de oliva. A ver, mostrá el producto ”, detalló Greco luego de mostrar varias imágenes de las personas en medio del saqueo. El hombre que se encuentra con ella lleva por lo menos seis botellas , tres en cada mano. “Nos sentimos muy contentos. Gracias Mendoza por el aceite de oliva... ”, bromeó ella. La cámara se gira y enfoca una camioneta estacionada que ya tiene acumuladas numerosas cajas de cartón llenas de botellas en la parte trasera. “Escuchá, no pudimos agarrar nada... ¿No me regalás una cajita?“, le preguntó el joven que va con la influencer. Entre risas, el propietario de la camioneta respondió: ”No, hermano, no sabés cómo estamos cagado",
+      "link": "https://www.lanacion.com.ar/sociedad/un-camion-que-transportaba-aceite-de-oliva-volco-y-una-joven-se-grabo-mientras-lo-saqueaban-nid05042026/",
+      "pubDate": "Sun, 05 Apr 2026 14:35:29 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/PSQZ4L6CWBF3JAKRTDF5NE4GS4.PNG?auth=553b89c20356a156e1666bcdf12a1bfe2a6c657d402c032eaed6122ae137713c&smart=true&width=649&height=374"
+    },
+    {
+      "id": "ea2baaa8bb3f96a748ea",
+      "title": "Trágica muerte de un nene en el temporal que azotó Tucumán: \"Tocó un poste que estaba electrificado”",
+      "summary": "El chico de 12 años murió electrocutado en Villa Angelina, cuando volvía de jugar a la pelota con amigos. El temporal dejó barrios anegados y caminos cortados.",
+      "link": "https://www.clarin.com/sociedad/tragica-muerte-nene-temporal-azoto-tucuman-toco-poste-electrificado_0_8fg2aAuJBK.html",
+      "pubDate": "Sun, 05 Apr 2026 14:34:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/05/dyh5UFsAA_1200x630__1.jpg"
+    },
+    {
+      "id": "3f04177237385b79e68a",
+      "title": "LinkedIn espía las extensiones de tu navegador",
+      "summary": "LinkedIn vuelve a estar en el centro de una polémica relacionada con la privacidad. La red social profesional propiedad de Microsoft , que cuenta con más de mil millones de usuarios en todo el mundo, ha sido señalada por una investigación que afirma que la plataforma estaría analizando de forma silenciosa las extensiones instaladas en el navegador de quienes visitan su web . El hallazgo ha provocado una fuerte reacción en la comunidad tecnológica y entre defensores de la privacidad, ya que la práctica no estaría documentada en la política de privacidad del servicio. La denuncia procede de BrowserGate, una investigación realizada por la organización europea Fairlinked e.V., que sostiene haber identificado código oculto en las páginas de LinkedIn capaz de detectar extensiones instaladas en navegadores basados en Chromium, como Chrome, Edge, Brave u Opera. Según los investigadores, cada vez que un usuario carga una página de LinkedIn se ejecuta un script que intenta comprobar si determinadas extensiones están presentes en el navegador. El mecanismo sería técnicamente sencillo, pero difícil de detectar para el usuario. El código prueba a acceder a archivos que ciertas extensiones exponen públicamente a las páginas web. Si el archivo responde, el sistema confirma que la extensión está instalada; si no lo hace, concluye que no está presente. Todo el proceso se ejecuta en milisegundos y sin ningún aviso visible . Posteriormente, según la investigación, los resultados se cifran y se envían a servidores vinculados a LinkedIn junto con otros datos de la sesión . La dimensión del escaneo también ha llamado la atención de los investigadores. Según BrowserGate, el sistema comprobaría miles de extensiones distintas, una lista que habría crecido de forma notable en los últimos años. Esto incluye herramientas de búsqueda de empleo, utilidades profesionales, extensiones de productividad e incluso software relacionado con análisis de ventas o captación de clientes. En un contexto com",
+      "link": "https://www.muycomputer.com/2026/04/05/linkedin-espia-las-extensiones-de-tu-navegador/",
+      "pubDate": "Sun, 05 Apr 2026 14:32:19 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/linkedin-2.jpg",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "98ea18e35560419f3fd5",
+      "title": "Alerta sanitaria: retiran del mercado más de 3 millones de frascos de gotas para los ojos y le asignan riesgo Clase II",
+      "summary": "La FDA señaló \"consecuencias adversas para la salud temporales o graves\". Las gotas oftalmológicas se venden en Estados Unidos bajo diversas marcas.",
+      "link": "https://www.clarin.com/estados-unidos/alerta-sanitaria-retiran-mercado-3-millones-frascos-gotas-ojos-asignan-riesgo-clase-ii_0_rEC37lsptz.html",
+      "pubDate": "Sun, 05 Apr 2026 14:31:51 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/05/NtR4pVSza_1200x630__1.jpg"
     },
     {
       "id": "da2e36fb0aae601b2099",
@@ -454,24 +1005,24 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2533a5d67a.jpeg"
     },
     {
-      "id": "9079248eb73a764bf85e",
-      "title": "Valencia - Celta, en directo",
-      "summary": "Sigue el partido y consulta cómo va el Valencia contra el Celta",
-      "link": "https://www.marca.com/futbol/primera-division/2026/04/05/01-0101-20260405-191-176.html",
-      "pubDate": "Sun, 05 Apr 2026 14:28:00 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d26f49099db.jpeg"
+      "id": "a62e62c7f6aba4c595b9",
+      "title": "El rey emérito regresa a España para acudir a la corrida de toros inaugural de la temporada de Sevilla con Morante",
+      "summary": "El rey emérito Juan Carlos I a su salida de un hotel en Sevilla, este domingo.",
+      "link": "https://elpais.com/espana/2026-04-05/el-rey-emerito-regresa-a-espana-para-acudir-a-la-corrida-de-toros-inaugural-de-la-temporada-de-sevilla-con-morante.html",
+      "pubDate": "Sun, 05 Apr 2026 14:28:28 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/V6QUOK6WMBMPZEYOF4IIIK2P4M.jpg?auth=d19b1a9f50d348c774a272b09510b7ae03232866e778348b4e41d58e583c78c6"
     },
     {
-      "id": "13bf146b0fed2839b170",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump estalla contra Irán por Ormuz: “Abrid el estrecho, locos cabrones”",
-      "summary": "Una mujer pasa frente a una enorme valla publicitaria con el lema en persa \"El estrecho de Ormuz permanecerá cerrado\", en la plaza Enghelb de Teherán, Irán, este domingo.",
-      "link": "https://elpais.com/internacional/2026-04-05/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Sun, 05 Apr 2026 14:26:49 GMT",
+      "id": "e3c5b04a44a95adb2fe6",
+      "title": "Serbia denuncia el hallazgo de explosivos en las inmediaciones de un gasoducto que conecta con Hungría",
+      "summary": "Agentes de la Policía Militar serbia bloquea la carretera cerca de Kanjiza (Serbia), este domingo.",
+      "link": "https://elpais.com/internacional/2026-04-05/serbia-denuncia-el-hallazgo-de-explosivos-en-las-inmediaciones-de-un-gasoducto-que-conecta-con-hungria.html",
+      "pubDate": "Sun, 05 Apr 2026 14:24:19 GMT",
       "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZUP6IRYBHRMQPM4CK3EGCY5DHM.jpg?auth=505b718f3710331f018319c09e51f7ce7efc0a08b5e12f2f4ee8da893cd68de6"
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/K75PVBM5C5AE3ADTLQRDCGO2FM.jpg?auth=77d80c8cdd8e4e280ac8ffd347d1d9e3d28af5c55655fa3271975ed2ce6ae3a1"
     },
     {
       "id": "8e4773bb937bbda1d613",
@@ -484,34 +1035,14 @@
       "image": "https://resizer.glanacion.com/resizer/v2/Q6CQCUWF4ZDXVFUYZYJ4W2T6SU.png?auth=bbc79302ad89f3d6cf8e22837c28fa7693b405c7931e6b35dd23aaaa17181507&smart=true&width=2000&height=1333"
     },
     {
-      "id": "ceb159989d78838aa673",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 5 de abril",
-      "summary": "Según informaron medios estatales de Teherán, nuevos ataques aéreos israelíes y estadounidenses alcanzaron hoy un aeropuerto en el suroeste de Irán. “El Aeropuerto Internacional Shahid Soleimani fue alcanzado por un ataque aéreo llevado a cabo por fuerzas estadounidenses y sionistas”, informó la agencia oficial de noticias IRNA, citando a Valiollah Hayati, vicegobernador de la provincia de Juzestán. Una “estratagema” de la CIA ayudó a las fuerzas estadounidenses a localizar y rescatar con vida al piloto desaparecido en Irán después de que su caza F-15 fuera derribado. Lo informó NBC News, citando a un alto funcionario de la administración Trump. Según esta fuente, la CIA había lanzado una “campaña de distracción” que consistía en difundir en Irán la noticia de que el aviador ya había sido encontrado con vida por Estados Unidos y que se estaba llevando a cabo un traslado terrestre para sacarlo del país. Donald Trump amenaza con atacar centrales eléctricas y puentes iraníes “el martes” si Teherán no abre el estrecho de Ormuz. “El martes en Irán será el Día de las Centrales Eléctricas y el Día de los Puentes , ¡­todo en uno! ¡­No habrá nada igual! ¡­Abran el maldito estrecho, malditos locos, o vivirán en el infierno! ¡­Ya verán! Alabado sea Alá“, escribió en la plataforma de redes sociales Truth. Comandos estadounidenses se desplegaron en lo profundo del territorio iraní para rescatar a un aviador derribado , informaron este domingo medios de Estados Unidos, horas después de que el presidente Donald Trump anunciara que el militar había sido recuperado “sano y salvo”. Teherán afirmó esta semana que había derribado un caza F-15 , el primer avión de combate estadounidense que cae dentro de Irán desde el inicio de la guerra. Washington no ha confirmado los detalles de cómo fue derribado el caza. El ejército iraní afirmó este domingo que la operación estadounidense para rescatar a un aviador de un caza estadounidense derribado “fracasó por completo” . Poco antes de esta dec",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-5-de-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 14:18:09 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/D7CA37GTVVBYFDLHYCP6SSLXQ4.jpg?auth=8b6882e8a08e749886556ba1dc431b9fcd68da31c917980e2d2092bb1f16e4cd&smart=true&width=1200&height=800"
-    },
-    {
       "id": "ed464c303c0f239183ec",
-      "title": "Maurizio Cattelan esucha confesiones y absuelve por teléfono, mientras vende suvenires de Juan Pablo II impactado por un meteorito",
+      "title": "Maurizio Cattelan escucha confesiones y absuelve por teléfono, mientras vende suvenires de Juan Pablo II impactado por un meteorito",
       "summary": "Desde el Jueves Santo, cuando se conmemoró el 21° aniversario de la muerte del papa Juan Pablo II, el provocador artista italiano Maurizio Cattelan (Padua, 1960), de fama internacional por obras de arte conceptual como la estatua de Adolf Hitler de rodillas y orando ( Él ), la banana pegada con cinta adhesiva a una pared ( Comediante ) o el inodoro de oro de dieciocho quilates ( América ), reversionó una obra polémica para el catolicismo; La novena hora , de 1999, en la que una figura en tamaño real de Juan Pabo II aparecía impactada por un meteorito. Mientras tanto, reúne material sonoro de “pecadores” para una perfomance que dará a conocer el 23 de abril, Día Mundial del Libro y del Derecho de Autor. “ ¡Pecadores, regocíjense, la absolución solo está a un buzón de voz de distancia! ”, anuncia la voz detrás del enigmático número +1 601 666 7466. El artista lanzó una nueva versión de La novena hora - título que hace referencia al momento de la muerte de Jesús, el Viernes Santo- que se expuso en el año 2000 en la muestra Apocalipsis: Belleza y horror en el arte contemporáneo en la Royal Academy de Londres, ahora bajo la forma de 666 copias en miniatura de la pieza, de 30 cm de largo y 12.5 cm de alto, comercializadas por la plataforma Avant Arte ; cada suvenir papal se vende a 2200 euros. Cattelan dijo entonces que su intención no era escandalizar a la Iglesia católica sino expresar la vulnerabilidad los seres humanos. En 2024, elegido como curador del pabellón del Vaticano para la Bienal de Venecia, situado en la cárcel de mujeres de Giudecca, estuvo al cuidado de la muestra Con mis ojos , en la que exhibió una gigantografía de dos pies desnudos y heridos, en una suerte de homenaje al papa Francisco, junto a obras de Sonia Gomes y Corita Kent, una videoinstalación de la actriz Zoe Saldaña y su marido, el director italiano Marco Perego, y fotografías cedidas por reclusas para una obra de Claire Tabouret, entre otras. En un gesto acaso más vanguardista que los de Catt",
       "link": "https://www.lanacion.com.ar/cultura/maurizio-cattelan-esucha-confesiones-y-absuelve-por-telefono-mientras-vende-suvenires-de-juan-pablo-nid05042026/",
       "pubDate": "Sun, 05 Apr 2026 14:17:59 +0000",
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/OU6JVBNUYBHYVMQAYUSPCK7XM4.JPG?auth=a967f883139dc02e4ea250a820d14d0804e1c57be02c95f98fff42c71a86a68b&smart=true&width=994&height=662"
-    },
-    {
-      "id": "a18f5ffcf02b61421890",
-      "title": "\"Ataque a nuestra soberanía\": Hungría sobre el intento de sabotaje de un gasoducto clave europeo",
-      "summary": "Esta jornada, se encontraron dos mochilas cargadas con potentes explosivos cerca del tramo serbio del gasoducto BalkanStream, una extensión del TurkStream que trasporta gas ruso.",
-      "link": "https://actualidad.rt.com/actualidad/597273-ataque-soberania-hungria-intento-sabotaje-gasoducto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 14:12:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d26632e9ff712583553bc1.jpg"
     },
     {
       "id": "2585078bef70386bb842",
@@ -554,26 +1085,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/NWX3ODYMWVFVPGSLNIVMAONMDY.jpg?auth=f7142c33648aeda3ac6190a1d5ee8897a7d968db89b665c4b2f831912ad00614&smart=true&width=1080&height=608"
     },
     {
-      "id": "5db2f07c6d669c06fcb0",
-      "title": "River vs. Belgrano hoy: hora y cómo ver la transmisión en vivo del partido del Torneo Apertura 2026",
-      "summary": "River Plate y Belgrano de Córdoba se enfrentan este domingo 5 de abril en el estadio Monumental y con arbitraje de Yael Falcón Pérez en el encuentro correspondiente a la fecha 13 del Grupo B del Torneo Apertura 2026 que organiza la Liga Profesional de Fútbol (LPF). El duelo inicia a las 18 y se transmite en vivo por TV únicamente a través de TNT Sports, canal que se puede sintonizar online en Flow, DGO y Telecentro Play. En canchallena.com se puede seguir el minuto a minuto con información y estadísticas actualizadas al instante. La previa del partido Tanto el Millonario como el Pirata son dos de los mejores equipos de su zona y están en zona de clasificación a octavos de final. El conjunto de Eduardo Coudet marcha tercero con 20 unidades producto de seis triunfos, dos empates y tres caídas y en caso de hilvanar su cuarta victoria seguida volverá a ser escolta de Independiente Rivadavia de Mendoza. Con el ‘Chacho’, el elenco del barrio porteño de Núñez está invicto con tres alegrías y quiere seguir en esa senda en la antesala de su debut en la Copa Sudamericana 2026 vs. Blooming de Bolivia el próximo miércoles 8 de abril. Lo saliente es que el DT cuenta con el regreso de Germán Pezzella, quien está entre los convocados tras recuperarse de la rotura de ligamento cruzado anterior en su rodilla izquierda. En contrapartida, Gonzalo Montiel no está disponible por un lesión muscular mientras que Marcos Acuña debe cumplir una fecha de sanción pr acumulación de tarjetas amarillas. El combinado cordobés, de la mano de Ricardo ‘Ruso’ Zielinski, está haciendo un buen campeonato y marcha quinto con 19 unidades gracias a cinco triunfos, cuatro empates y solo dos caídas, la última ante Racing 2 a 1. Al igual que River, en caso de dar el golpe en el estadio Monumental escalará hasta el segundo puesto y quedará un paso de los playoffs. Posibles formaciones River Plate: Santiago Beltrán; Fabricio Bustos, Lucas Martínez Quarta, Lautaro Rivero, Matías Viña; Fausto Vera, Aníbal Moreno,",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-belgrano-hoy-hora-y-como-ver-la-transmision-en-vivo-del-partido-del-torneo-apertura-2026-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 14:08:32 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/7XPZETJ7VNG7XMQYMJGMJAWBRY.jpg?auth=7811eeb1eda8178be870b5c6299197f63b43cfb5f7d7573bd395460999285ef6&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "577f0f17a9b0639fab77",
-      "title": "Mariano Navone le ganó al español Daniel Mérida y se consagró campeón en el ATP de Bucarest",
-      "summary": "El tenis argentino vive un fin de semana inédito: por primera vez en la historia tres jugadores albicelestes son protagonistas de finales ATP en tres certámenes distintos, algo que no había ocurrido en la época de la Legión. Mariano Navone en Bucarest, Marco Trungelliti en Marrakech y Román Burruchaga en Houston. Y en la primera definición del domingo, en el polvo de ladrillo del Ion Tiriac Open de Rumania, Navone (60°) se coronó campeón por primera vez en su carrera: venció al español Daniel Mérida (21 años, 136°, proveniente de la clasificación) por 6-2, 4-6 y 7-5, en dos horas y 17 minutos. Es el título N° 240 de singles masculino en la historia del tenis argentino. Se trató de una final atiborrada de gestos nerviosos, dudas y quiebres (hubo catorce rompimientos de servicio en total) en el Centro Nacional de Tenis que lleva el nombre de Simona Halep (la exnúmero 1 estuvo presenció el partido). En ese contexto, el argentino nacido en la localidad bonaerense 9 de Julio y cuatro años mayor que su rival europeo, encaró la final con la experiencia de haber llegado a esa instancia dos veces (perdió las definiciones de Río de Janeiro y, precisamente Bucarest, en 2024). Querido entre el público (de hecho, el sábado, la figura rumana Illie Nastase le entregó el trofeo como jugador “más popular” del torneo), Navone se sobrepuso a los altibajos y profundizó el desgaste físico de Mérida (de drive picante), que llegó a la última batalla desde la qualy. Claro que Navone también arribó a la final con mucho kilometraje: incluso en las semifinales había disputado el partido más largo de la semana, de tres horas y 31 minutos, al derrotar al neerlandés Botic van de Zandschulp, salvando dos match points. Tras ganar el primer set con autoridad, pero padecer el segundo parcial (en el que hubo siete quiebres en total), Navone -entrenado desde febrero por Alberto Luli Mancini- hizo equilibrio y pudo sobreponerse a la tensión en los momentos clave. Pero sufrió demasiado para cerrar el ma",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-le-gano-al-espanol-daniel-merida-y-se-consagro-campeon-en-el-atp-de-bucarest-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 14:05:25 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/AC5XAJFBBFE7NJ2DYM2ZTJOC74.jpg?auth=28bc4dc9b568c065e384dba16b2c21013e80a72cb6542b0a7b7b1998d3e5f884&smart=true&width=1280&height=830"
-    },
-    {
       "id": "389137b7bcdefaa27085",
       "title": "Seth MacFarlane ya tiene nueva serie de ciencia ficción y será su proyecto más loco",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Peacock ya ha puesto en marcha una serie de ciencia ficción que, sobre el papel, parecen una absoluta locura… y precisamente por eso pueden funcionar muy bien. Dungeon Crawler Carl , la popular saga de Matt Dinniman , tendrá por fin su propia versión en imagen real y lo cierto es que la noticia tiene bastante más miga de la que parece. Porque no estamos hablando de otra serie de ciencia ficción al uso. Aquí hay invasiones alienígenas, humor negro, mecánicas de videojuego, sátira de realities y un gato parlante con tiara . Sí, has leído bien. Y con ese cóctel tan raro como adictivo, la adaptación ya tiene detrás a nombres importantes y una plataforma dispuesta a apostar por algo muy distinto dentro del panorama actual. La confirmación llega además después de muchos meses de rumores, movimientos de estudio y bastante expectación alrededor de una saga literaria que ha conseguido abrirse hueco como una de las propuestas más queridas dentro del universo LitRPG . Y ahora que el proyecto ya es oficial, toca hablar de por qué esta puede convertirse en una de las series más curiosas que están en camino. Peacock confirma la adaptación de Dungeon Crawler Carl Según se ha confirmado, la adaptación televisiva de Dungeon Crawler Carl está oficialmente en desarrollo en Peacock, algo que da por fin forma a un proyecto del que se venía hablando desde agosto de 2024. Más adelante, a comienzos de 2025, Universal International Studios recogió el proyecto, aunque por entonces todavía no tenía plataforma o cadena asociada. Ahora sí. Peacock será la casa de esta serie de ciencia ficción tan extraña como prometedora, y además no llega sola. El proyecto cuenta con Chris Yost como guionista y productor ejecutivo, un nombre que no pasa precisamente desapercibido para quienes siguen cine y televisión de género. Yost ha estado vinculado a títulos importantes dentro del universo superheroico y de acción, como Thor: Ragnarok, Max Steel",
@@ -613,26 +1124,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/IG2IIOAR7NHSXCKH4PGJJSJDEU.png?auth=ac9275d3f76698d48e3940ef558c059aba0a7964e4324232f947726e01afb37a&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "21444fdf610c78c08a03",
-      "title": "La Casa Blanca anuncia una \"importante\" rueda de prensa de Trump",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/597292-casa-blanca-anuncia-importante-rueda-prensa-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:55:20 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "2963d4cf27cad15dab1f",
-      "title": "Lluvia constante en el AMBA: el pronóstico del tiempo anticipa dos días bajo agua y hay ocho provincias en alerta por tormentas",
-      "summary": "El Servicio Meteorológico Nacional prevé precipitaciones durante toda la jornada para este lunes 6 y martes 7 de marzo en la Ciudad de Buenos Aires.",
-      "link": "https://www.clarin.com/sociedad/lluvia-constante-amba-pronostico-tiempo-anticipa-dias-agua-provincias-alerta-tormentas_0_qDVT04NBPp.html",
-      "pubDate": "Sun, 05 Apr 2026 13:54:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/10/17/ljnzZO56L_1200x630__1.jpg"
     },
     {
       "id": "953191477d3fa80fb98f",
@@ -715,126 +1206,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/NLQKKZI7Y5EMZJP5V5QSVV2JQI.jpg?auth=e7586d327fee99ad621e12597c74fc00efef8de3f73289e151c7eac61c22a66a&smart=true&width=3399&height=2266"
     },
     {
-      "id": "14d354e4adc3a7ca9bd9",
-      "title": "Pumas 7s: todos los partidos y horarios del Seven de Hong Kong",
-      "summary": "El Circuito Mundial de Seven 2025-2026 llegó a instancias decisivas y, tras la etapa regular, el certamen continuará con la primera fecha del SVNS World Championship que será el Seven de Hong Kong entre el 17 y 19 de abril en el Kai Tak Sports Park y en el que Los Pumas 7s serán uno de los 12 seleccionados que pujará por el título en la misma sede donde celebró por última vez la temporada pasada. La selección argentina conforma el Grupo A y debutará ante España. Sus siguientes rivales serán Uruguay y Sudáfrica. Los tres encuentros los disputará el primer día de competencia, el viernes: a las 0.16 (hora argentina) chocará con los españoles; a las 3.23 ante los charrúas; y a la 23.39 frente a los sudafricanos. En caso de lograr el primer o segundo puesto o ser uno de los mejores terceros, el equipo de Santiago Gómez Cora avanzará a los cuartos de final y competirá por el título. En la zona B, en tanto, competirán Fiji, Francia, Gran Bretaña y Alemania mientras que en el C lo harán Australia, Nueva Zelanda, Estados Unidos y Kenia. Todos los partidos del combinado albiceleste se transmitirán en vivo por Fox Sports, canal que se puede sintonizar online en Flow, DGO y Telecentro Play; y en la plataforma digital Disney+ Premium. Fixture de los Pumas en la primera etapa deel Seven de Hong Kong Grupo A - Viernes 17 de abril 0.16: Los Pumas vs. España. 3.23: Los Pumas vs. Uruguay. 23.39: Los Pumas vs. Sudáfrica. ¡Falta menos para volvernos a encontrar! 🏉 🏆 SVNS World Championship 📍 Hong Kong 🇭🇰 📅 17 al 19 de abril 👉 Etapa 1 de 3 https://t.co/9dowTSFVnN pic.twitter.com/sM6x6NXbby Los Pumas 7s (@lospumas7arg) March 31, 2026 Los Pumas 7s culminaron la etapa regular en el sexto lugar, con 72 puntos. En un cotexto de reconstrucción del equipo, los mejores resultados fueron el segundo puesto en Ciudad del Cabo y el tercero en Nueva York. Para el World Championship Series la tabla de posiciones se reinició y el campeón será el equipo que más puntos sume al término de las tres etapas",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/pumas-7s-todos-los-partidos-y-horarios-del-seven-de-hong-kong-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:44:21 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/AMR5N64HVBAUZHOWVKJZ62UWQA.JPEG?auth=2baa3558faf3b8d4488ffb542f6357e9827fa49a6b026ce5b0f0289363856f11&smart=true&width=1281&height=961"
-    },
-    {
-      "id": "258531dd0d1b52cad8af",
-      "title": "Trump: Enviamos muchas armas a los manifestantes iraníes",
-      "summary": "El envío se realizó a través de intermediarios kurdos, informa Fox News.",
-      "link": "https://actualidad.rt.com/actualidad/597297-trump-enviamos-armas-manifestantes-iranies?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:43:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2697fe9ff713fd25160df.jpg"
-    },
-    {
-      "id": "f3cbe19b50b9be85e299",
-      "title": "Trump: \"Estoy considerando volar todo por los aires y apoderarme del petróleo\" en Irán",
-      "summary": "Las palabras del presidente de EE.UU. fueron recogidas por un periodista de Fox News.",
-      "link": "https://actualidad.rt.com/actualidad/597296-trump-considerar-volar-aires-apoderarse-petroleo-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:42:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d26a3f59bf5b6f8421c8d7.jpg"
-    },
-    {
-      "id": "e233060312ffc621d6b0",
-      "title": "Cuánto cuesta convertir tu casa en una “smart home”",
-      "summary": "Una smart home o casa inteligente es una vivienda equipada con dispositivos interconectados (IoT) que permiten automatizar, gestionar y controlar remotamente funciones como la iluminación, climatización, seguridad y electrodomésticos . Se gestionan desde un smartphone, voz o hubs centrales, buscando mayor comodidad, ahorro energético y seguridad. Pero lo que se conoce como smart home es un concepto muy amplio que depende de la cantidad de rubros que uno incluya, explica Darío Kasvin, CEO de Haustech. “ El mayor costo de una casa domotizada tiene que ver con el control de iluminación porque uno tiene que colocar, por cada circuito de luz, un módulo. Eso es lo que claramente define en gran parte el presupuesto ”, dice. Y detalla que un factor que influye en lo que tiene que ver con la iluminación es si se trata simplemente de encender o apagar la luz o de regular su intensidad. “Cuando en una casa solamente se quieren hacer encendidos y apagados de iluminación sin atenuaciones de luces, el presupuesto es diferente porque los módulos cambian sus costos. Pero si hiciéramos un promedio en una casa donde sí interesa regular la luz y donde contemplamos no solamente la iluminación sino también la apertura y cierre de cortinas , climatización y todo lo que tiene que ver con el audio , podríamos hablar de un promedio de US$100 por metro cuadrado ”, señala. Es dueño de una isla desierta de Seychelles, la quiere vender, pero rechazó una oferta de U$S50 millones Por su parte, Gustavo Acevedo, gerente comercial de Intelhome, aclara que una smart home no es una casa llena de gadgets ni de dispositivos que se controlan desde el celular. Es una vivienda donde distintos sistemas están integrados y pueden funcionar de manera coordinada, automática o remota. Y detalla que, en una casa inteligente se pueden automatizar: escenas de iluminación, que cambian según el momento del día; apertura y cierre de cortinas; regulación de calefacción y aire acondicionado; regado de parques; filtrado ",
-      "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-convertir-tu-casa-en-una-smart-home-nid28022026/",
-      "pubDate": "Sun, 05 Apr 2026 13:40:06 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/J3W5WZGW4NA7LFP46BQZD6IZTA.jpg?auth=fd60fb38c6ddab815e1b48d3f1ca2ff8776831ce7f2517ab9744a6ef4cd4b896&smart=true&width=5720&height=3814"
-    },
-    {
-      "id": "31156dcbd62517e26689",
-      "title": "Trump afirma que EE.UU. e Irán pueden llegar a un acuerdo el lunes",
-      "summary": "Las palabras de Trump fueron citadas por un periodista de Fox News.",
-      "link": "https://actualidad.rt.com/actualidad/597294-trump-afirma-eeuu-e-iran-acuerdo-lunes?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:39:02 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d267dd59bf5b58054d6c62.jpg"
-    },
-    {
-      "id": "02aef48ab37ef21d8009",
-      "title": "El millonario pozo del Quini 6 para el sorteo de este domingo 5 de abril",
-      "summary": "El Quini 6 tiene un nuevo sorteo este domingo 5 de abril , y en esta oportunidad el pozo estimado llega a los $4750 millones. Se trata de un juego de azar que tiene uno de los pozos más grandes del país. Se sortea este domingo a las 21.15 en la sede de Lotería de la provincia de Santa Fe. La transmisión se puede seguir en vivo por RTS Santa Fe, IP Noticias, Telefe Santa Fe, Canal 9 (Paraná) y por streaming en la cuenta de YouTube oficial. ¿Qué es el Quini 6? Es un juego poceado , es decir, que el monto que se ofrece en premios (pozo) es variable y corresponde a un porcentaje de lo recaudado. Pertenece a la Caja de Asistencia Social de Santa Fe y se desarrolla desde 1988. ¿Cómo jugar al Quini 6? El Quini 6 es un juego de azar en el que el apostador elige 6 números entre el 00 y el 45 para ganar un premio establecido mediante un pozo. Las apuestas se toman en la agencia de lotería más cercana, donde el agenciero cargará los números del jugador y le dará un ticket que acredite el juego. Aunque el objetivo máximo del juego es acertar los 6 números, los que acierten cinco de seis tendrán el segundo premio y quienes adivinen cuatro de seis, el tercero. El Quini 6 propone tres variantes: Tradicional Revancha Siempre sale Para jugar a la Revancha y al Siempre Sale es necesario haber participado del sorteo Tradicional . Los montos de las apuestas varían según el juego y están sujetos a actualizaciones por parte de los organizadores. ¿Cuál fue el mayor premio en la historia del Quini 6? Al ser un juego cuyo premio depende de la recaudación, los montos que los miles de ganadores del Quini 6 a lo largo de la historia se llevaron a sus casas variaron. El récord máximo sigue fresco: en julio de 2021, un cordobés de Villa María retiró de la agencia $362.830.402. El afortunado ganador, cuya identidad no se hizo pública por motivos de seguridad, había acertado los 6 números, que fueron el 05, 19, 11, 41, 16-25. ¿Cuándo se sortea el Quini 6? Los sorteos se realizan los miércoles y lo",
-      "link": "https://www.lanacion.com.ar/loterias/el-millonario-pozo-del-quini-6-para-el-sorteo-de-este-domingo-5-de-abril-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:34:52 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/RUKHLBLVKFBUXOYZNERBZG2RWQ.png?auth=9dfb18761586349196030b7ee0b5b1f65f38ddc22c877bb901ed9664e5990ac0&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "804316b6ef8baf5c296a",
-      "title": "Domingo de Resurrección: qué significa el Domingo de Pascuas y por qué es importante para dar fin a la Semana Santa 2026",
-      "summary": "Este día se vive como una jornada de alegría, en contraste con el tono solemne del Viernes Santo. Los motivos por los que se acostumbra a regalar y consumir huevos de Pascua.",
-      "link": "https://www.clarin.com/internacional/domingo-resurreccion-significa-domingo-pascuas-importante-dar-fin-semana-santa-2026_0_41Es8xlRM8.html",
-      "pubDate": "Sun, 05 Apr 2026 13:33:03 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/05/R8b7jGotd_1200x630__1.jpg"
-    },
-    {
-      "id": "229fec227c5e8fdc35ba",
-      "title": "Rossi ha vuelto",
-      "summary": "Rossi posa con Antonelli y Bezzecchi en su rancho.",
-      "link": "https://www.marca.com/motor/2026/04/05/rossi-vuelto-guru-antonelli-bezzecchi.html",
-      "pubDate": "Sun, 05 Apr 2026 13:31:19 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d23f128ca97.jpeg"
-    },
-    {
-      "id": "84f799b09eaf26bb88e7",
-      "title": "Pascua: el Doodle con el que Google celebra hoy la festividad cristiana",
-      "summary": "Pascua se festeja este domingo 5 de abril y Google lo celebra con un Doodle , que se trata de un cambio estético que propone el buscador para que los usuarios recuerden ciertas fechas o hitos de relevancia. En esta ocasión, al entrar a google.com se puede ver que el doodle se transformó en un ícono similar al usual, pero como si se tratara de cada letra del ícono con huevos de chocolate , alimentos típicos de esta fecha que recuerda la Resurrección de Cristo. El doodle de Google tiene el objetivo de celebrar o conmemorar eventos, logros o personas que marcaron un antes y después en el mundo, y es por eso que el buscador cambia su logo en la página principal por un día. Qué se conmemora el domingo de Pascuas El Evangelio de San Juan recuerda que al tercer día de la muerte de Jesús , María Magdalena se apareció frente al sepulcro de Jesús y encontró que la roca que cubría la entrada ya no estaba en su sitio. Según el relato bíblico, ella fue a buscar a los dos discípulos más queridos por Jesús, Pedro y Juan , que confirmaron el vaciamiento del sepulcro . Mientras los apóstoles restantes se reunían en una casa, María Magdalena se postró en el lugar del entierro y lloró la pérdida del cuerpo de quien había sido fiel seguidora. Allí se le apareció Jesús , que le pidió que fuera a decirle a los demás que había vuelto, lo que confirmaba que él era el Hijo de Dios. Luego, Jesús se presentó ante sus fieles seguidores y les demostró que efectivamente era él, al enseñarles los estigmas de sus manos y al hacer el milagro de la aparición de cientos de peces en las redes de los discípulos que eran pescadores . En ese contexto, se produjo un diálogo muy interesante entre Jesús y Tomás , uno de los apóstoles , quien había dicho que no creería en su regreso hasta tenerlo frente a sus ojos y poder tocar sus heridas. “¿Por qué me has visto has creído? Dichosos los que crean sin haber visto”, le señaló Jesús . El Evangelio según San Juan recuerda el último instante de Cristo ya resucit",
-      "link": "https://www.lanacion.com.ar/tecnologia/pascua-el-doodle-con-el-que-google-celebra-hoy-la-festividad-cristiana-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:29:41 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/JCFYJRIW3NCL3EGCSXYPJOVHNM.png?auth=a2457b3a1769f5bc0a88795a879af6bf2f0363edff4e61155363aea75cd81fff&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "7cd3e7c8581c5f31dd9c",
-      "title": "Por qué la frase “te envidio sanamente” es un oxímoron",
-      "summary": "“Bueno, tampoco es tan difícil lo que lograste”. “Lo que pasa es que tuviste mucha suerte”. “¿Conseguiste trabajo? Hay que ver cuánto te dura”. Estas son tres frases típicas de una persona que siente envidia y la deja en evidencia a través de su forma de hablar. La envidia es una emoción universal y dañina que todos hemos sentido o recibido alguna vez, aun cuando no hayamos sido conscientes de ello. Prácticamente todo puede ser objeto de envidia: el trabajo, los estudios, los logros, la familia, una mascota, la edad e, incluso, el carácter. “¿Por qué vos siempre estás contenta?”, dirá, porque le molesta que el otro esté bien. Así como el cuerpo necesita del corazón para mantenerse con vida, el envidioso necesita de la ira para sostener su envidia . Uno de sus principales mecanismos es la minimización del logro ajeno . “Está lindo el autito que te compraste”; “Esa casa es demasiado para alguien como vos”, expresará en un intento por restarle importancia a lo que el otro consiguió. En realidad, actúa de ese modo porque se compara con los demás, ya que la envidia nace de la comparación . Otro mecanismo muy común es la crítica . Detrás de una persona que critica, se esconde un envidioso. Y actualmente vemos que hay cada vez más envidiosos entre nosotros, tal vez por el alto grado de exposición en las redes sociales. Además, el narcisista es envidioso por naturaleza, y también vemos cómo el narcisismo crece día tras día . Ahora bien, ¿quiénes son blanco de envidia? Los colegas, los familiares y las personas cercanas. Es raro que un chef le tenga envidia a un artista. Puede ocurrir, pero no es lo habitual. Un chef, por lo general, compite con otros chefs; mientras que un artista lo hace con otros artistas. La comparación se da con personas del mismo rubro, de edad similar y del entorno cercano. ¿Por qué alguien puede llegar a sentir esta emoción tan destructiva? Porque, en el fondo, es una persona insegura que se percibe incapaz de lograr algo en la vida . Y lo cierto es ",
-      "link": "https://www.lanacion.com.ar/lifestyle/por-que-la-frase-te-envidio-sanamente-es-un-oximoron-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:27:58 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/ION44FU2L5ETPDBCDXCI37QVTY.jpg?auth=4b7f8b88ec1ddbd783ac8a816100520fdba6e32132c344a9f8d2672865bc3ba1&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "17d4d1246f4da297de6d",
-      "title": "Irán ataca las instalaciones de gas de las compañías de EE.UU. ExxonMobil y Chevron",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/597291-iran-ataca-instalaciones-gas-companias-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:26:35 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "21f06e14628ad8187d61",
-      "title": "Doble parte médico del Barça: cara y cruz para la Champions",
-      "summary": "Araujo",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/05/buenas-noticias-araujo.html",
-      "pubDate": "Sun, 05 Apr 2026 13:24:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d245088cd99.jpeg"
-    },
-    {
       "id": "0917c2c7cc24d693b83f",
       "title": "Decenas de aviones y participación de la CIA: cómo fue la operación en la que rescataron al tripulante del caza F-15 de EE.UU. derribado por Irán",
       "summary": "El tripulante del F-15 derribado estuvo, al parecer, escondido en una grieta de las montañas del sur de Irán y fue rescatado en un aoperación en la que participaron cientos de militares.",
@@ -843,149 +1214,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b53c/live/b1b2b030-30ce-11f1-8eb1-c3991b038902.jpg"
-    },
-    {
-      "id": "9e4033de04447cfbf619",
-      "title": "El cometa más brillante en el cielo desaparece en un dramático final cósmico",
-      "summary": "Pese a las expectativas iniciales, la desintegración del C/2026 A1, descubierto a inicios de este año, no produjo el espectáculo luminoso previsto.",
-      "link": "https://actualidad.rt.com/actualidad/597245-cometa-brillante-cielo-desaparece-dramatico-final?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:22:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d2366d59bf5b15a72af1e9.jpg"
-    },
-    {
-      "id": "6c98b195e016f77e2ddb",
-      "title": "Séneca: “Ningún viento es favorable para quien no sabe a qué puerto se dirige”",
-      "summary": "La célebre máxima de Lucio Anneo Séneca , “ Ningún viento es favorable para quien no sabe a qué puerto se dirige ”, condensa una de las enseñanzas fundamentales del estoicismo : la primacía de la dirección interior sobre el azar de las circunstancias externas. Según explica el portal Mejor con Salud , esta frase actúa como una advertencia sobre la diferencia entre el movimiento perpetuo y el progreso real. En la actualidad, marcada por la inmediatez y la multiplicidad de estímulos, esta reflexión cobra una vigencia renovada, al sugerir que sin un objetivo claro, cualquier oportunidad , por más positiva que parezca, termina por ser desperdiciada ante la falta de un criterio que permita canalizarla . La enseñanza estoica subraya que no podemos controlar los vientos —las variables económicas, sociales o personales—, pero sí el timón . El puerto representa el propósito , el único elemento que otorga sentido a la lucha contra la tormenta. Sin ese norte, el individuo corre el riesgo de confundir la ocupación constante con el avance , una trampa frecuente en el estilo de vida moderno. Definir un rumbo, incluso si es provisional, permite discernir lo urgente de lo importante , fundamental para evitar el desgaste en tareas estériles que no contribuyen al proyecto de vida personal. La vida de Séneca fue una compleja puesta en práctica de sus propias teorías , muchas veces teñida de contradicciones que lo llevaron a ser cuestionado por sus contemporáneos. Nacido en Corduba alrededor del año 4 a.C. , destacó como un orador brillante y un influyente político en Roma . Sin embargo, su trayectoria estuvo marcada por la adversidad: sobrevivió a las amenazas de los emperadores Calígula y Claudio, que le significó el exilio en Córcega. Su regreso a la vida pública de la mano de Agripina, para convertirse en tutor del joven Nerón , lo colocó en una posición de poder absoluto donde intentó, con éxito dispar, implementar reformas justas antes de sucumbir a la paranoia de su antiguo pupi",
-      "link": "https://www.lanacion.com.ar/lifestyle/seneca-ningun-viento-es-favorable-para-quien-no-sabe-a-que-puerto-se-dirige-nid01042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:21:44 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/IAHS4OWX6VDC3HR7KX76A6U7M4.jpg?auth=561906a67ee78a1ae070110450522eeb4bf416e1234889478c62a3715486f930&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "dba19df2e004ff89a935",
-      "title": "La historia de la tortuga Jonathan, dueña del Récord Guinness con 193 años de vida",
-      "summary": "En los últimos días se difundieron numerosos rumores en redes sociales que afirmaban la muerte de la tortuga gigante Jonathan , considerada como el ejemplar más longevo del mundo y poseedora de un Récord Guinness con 193 años de vida. No obstante, días más tarde, la cuenta oficial de la isla de Santa Elena desmintió estas especulaciones en la plataforma de X, donde aseguraron que la tortuga está viva y en buen estado de salud , mientras disfruta de bocadillos deliciosos de plátano, manzana y zanahoria. “Fue una broma. Les puedo asegurar que está vivo \" , explicó Anne Dillon, jefa de comunicaciones de la isla a la agencia de noticias Associated Press (AP), quien afirmó que la publicación de su muerte fue realizada por un perfil falso que solicitaba donaciones de criptomonedas . ¿Quién es Jonathan, la tortuga? De acuerdo con el portal digital de Guinnes World Record , se cree que la tortuga gigante, originaria del archipiélago Seychelles en el océano Índico, nació alrededor del año de 1832 , por lo que en 2026 tendría 193 años , considerándose el animal terrestre más antiguo del mundo . Actualmente, vive en el jardín del Plantation House , residencia oficial del Gobernador de Santa Elena, junto a otros ejemplares llamados Emma , David y Fred . Jonathan pasó la mayor parte de su vida aquí, desde que fue entregado al británico Sir William Grey-Wilson hace 141 años . Cabe señalar que su edad es solo una estimación , basándose en el hecho de que ya era un adulto (50 años de vida aproximadamente) cuando fue llevado a Santa Elena en 1882 , por lo que probablemente es incluso mayor de lo que se piensa, según describe el portal digital. De acuerdo con su veterinario Joe Hollins , Jonathan es una tortuga ciega y no tiene olfato ; sin embargo, tiene mucha energía y su apetito sigue intacto. “Un equipo reducido lo sigue alimentando a mano una vez a la semana con una ración fortificante de fruta y verdura “, detalla. De acuerdo con la autoridad mundial en la certificación de réco",
-      "link": "https://www.lanacion.com.ar/lifestyle/mascotas/la-historia-de-la-tortuga-jonathan-duena-del-record-guinness-con-193-anos-de-vida-nid04042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:21:03 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/3FW7CRY5SRASRL6MBNJ2I5E7WA.jpg?auth=48ba0d258fcbe0b1b099fffd5a16dae2e052edff46fb5f82fd920bb5579a344c&smart=true&width=800&height=600",
-      "subcat": "mercado"
-    },
-    {
-      "id": "a41daeae8ad95cd7d634",
-      "title": "¿A qué edad se considera a un gato y a un perro viejos? Los cuidados, comida y rutinas que cambian",
-      "summary": "La veterinaria María Vetican difundió recientemente a través de su cuenta de TikTok una guía práctica para que los dueños de las mascotas identifiquen cuándo sus animales entran en la etapa “senior” . El envejecimiento en los animales de compañía no ocurre de forma uniforme, sino que está estrechamente ligado al peso y la raza en el caso de los perros , y a una media estándar en los felinos. ¿A qué edad se considera a un gato y a un perro viejos? Esta categorización es fundamental para adaptar los cuidados médicos, nutricionales y físicos que cada ejemplar requiere para mantener una calidad de vida óptima . La vejez según el peso en perros De acuerdo con la información proporcionada por la especialista, la esperanza de vida y el inicio de la senectud en los perros varían drásticamente según su envergadura. Los animales de razas pequeñas tienden a envejecer más tarde que los de razas grandes o gigantes. Menos de 10 kg: Se consideran senior entre los 10 y 11 años. Entre 10 y 25 kg: Entran en la vejez entre los 8 y 9 años. Entre 25 y 45 kg: Se consideran ancianos entre los 7 y 8 años. Razas gigantes: Su etapa senior comienza a partir de los 6 años. ¿Qué pasa con los gatos? En el caso de los gatos, el consenso veterinario sitúa el inicio de esta etapa vital en torno a los 9 o 10 años de edad, independientemente de su raza. Cambios en el comportamiento y cuidados preventivos El envejecimiento se manifiesta a través de cambios visibles en el aspecto físico, los niveles de energía y la actitud ante los estímulos cotidianos. La detección temprana de estas señales permite a los propietarios actuar de manera preventiva. María Vetican enfatiza que, una vez alcanzadas estas edades, es necesario incrementar la atención sobre la dieta y realizar chequeos veterinarios con mayor frecuencia. El objetivo principal es identificar precozmente posibles patologías crónicas o degenerativas. La observación de anomalías en el comportamiento habitual es el primer paso para acudir a un profes",
-      "link": "https://www.lanacion.com.ar/lifestyle/mascotas/a-que-edad-se-considera-a-un-gato-y-a-un-perro-viejos-los-cuidados-comida-y-rutinas-que-cambian-nid12032026/",
-      "pubDate": "Sun, 05 Apr 2026 13:20:27 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/H2JEXA7RJJCPNPSCTMZ4MNEIJQ.jpg?auth=9cfbcbe913c4f436df63e1da793fe5f31bf0ae3e7caa81dee1721680725bf606&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "2b120514908667518f9b",
-      "title": "Qué significa ver volar una abeja cerca de casa",
-      "summary": "La presencia de una abeja que merodea por el jardín , cerca de una ventana o en la puerta de entrada, suele despertar reacciones divididas: para algunos es motivo de alerta por el temor a una picadura, mientras que para otros es un evento cotidiano sin mayor relevancia. Sin embargo, detrás de este pequeño visitante se esconden interpretaciones que van desde el equilibrio ecológico hasta profundos simbolismos de prosperidad. Cuando una abeja elige acercarse a una vivienda, no lo hace por azar; lo más probable es que el entorno ofrezca condiciones saludables , como plantas con flores ricas en néctar, fuentes de agua cercanas o un aire libre de un uso excesivo de insecticidas químicos. Su llegada es, ante todo, un indicador de que el área mantiene un nivel de biodiversidad adecuado . Más allá de la biología, disciplinas milenarias como el Feng Shui —la filosofía china centrada en la armonización de los espacios— ven en la abeja un símbolo de energía sumamente positiva . Para esta tradición, ver una cerca del hogar representa un augurio de crecimiento y la llegada de nuevas oportunidades. Al ser animales que trabajan de forma colectiva y organizada para producir miel, se les asocia directamente con la recompensa al esfuerzo. En este contexto, la visita de una abeja puede interpretarse bajo los siguientes conceptos: Trabajo y recompensa : representa el esfuerzo coordinado que finalmente produce frutos tangibles. Comunicación y cooperación : refleja la estructura social de la colmena y la importancia del apoyo mutuo. Abundancia y prosperidad : debido a su capacidad para generar alimento y asegurar la vida de la colmena. ¿Qué significa para el feng shui que aparezca una abeja en tu camino? La fascinación por las abejas no es exclusiva del pensamiento oriental. A lo largo de la historia, diversas culturas les otorgaron roles protagónicos. En el cristianismo, por ejemplo, se las vinculaba con la pureza y la dulzura, mientras que en la cultura celta se les consideraba portado",
-      "link": "https://www.lanacion.com.ar/lifestyle/que-significa-ver-volar-una-abeja-cerca-de-casa-nid04042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:19:57 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/WC5EACQBLFA5LP4IGVEG5WYBWA.jpg?auth=93ea1205b4c4c87f635e675c33303356f980eb63c7781ba64bda1bef1f320842&smart=true&width=4396&height=2931"
-    },
-    {
-      "id": "1a4001f17b347bfeb211",
-      "title": "Por qué no hay carreras de la F1",
-      "summary": "La temporada 2026 de la Fórmula 1 está en un receso inesperado y motivado por la cancelación de los Grandes Premios de Bahréin y Arabia Saudita por el conflicto bélico en Medio Oriente y el torneo se reiniciará a principios de mayo con el GP de Miami en Estados Unidos. La Federación Internacional de Automovilismo (FIA) decidió semanas atrás, raíz de la situación entre Estados Unidos e Israel contra Irán que se extendió a otros países de la zona, suspender las fechas cuatro y cinco. La determinación no solo radica en la peligrosidad de circular y establecerse en un área de guerra, sino también a la complejidad logístca que hubiese signifcado para las 11 escuderías y 22 pilotos llegar hasta los circuitos. En ese marco, el Gran Circo se reanudará en poco menos de un mes y tiene dos pruebas menos de las 24 estipuladas inicialmente en el calendario. La siguiente será en Miami Gardens el fin de semana del domingo 3 de mayo. Se trata de una carrera relativamente nueva porque se desarrolla desde 2022 y tuvo apenas cuatro ediciones con dos victorias para Max Verstappen (Red Bull), una para Lando Norris (McLaren) y la última para Oscar Piastri (McLaren). Ganadores del GP de Miami 2022: Max Verstappen (Países Bajos). 2023: Max Verstappen (Países Bajos). 2024: Lando Norris (Gran Bretaña). 2025: Oscar Piastri (Gran Bretaña). Con sus victorias en China y Japón, Kimi Antonelli (Mercedes) domina la tabla de posiciones de pilotos y es el conductor más joven de la historia de la F1 en hacerlo con 19 años. El italiano tiene 72 puntos, nueve más que su compañero de equipo, George Russell. Tercero está Charles Leclerc (Ferrari) con 49 y más atrás aparece Lewis Hamilton (Ferrari), con 41. Mercedes y Ferrari mandan en el certamen de constructores con 135 y 90 unidades, respectivamente, gracias a las grandes producciones de sus pilotos. Franco Colapinto (Alpine), por su parte, tuvo un arranque de temporada positivo y sumó su primer punto para la escudería francesa con el décimo lugar en el",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/por-que-no-hay-carreras-de-la-f1-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:19:17 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/F7NYN6GZXZEZXFMFBY3DMU534Y.JPG?auth=901c268fe8e1fa85756d6f7c3dee4a78a66250578a2fe4c6b2d993158ce67503&smart=true&width=3151&height=2101"
-    },
-    {
-      "id": "84b3d8a7567e7ee79e9a",
-      "title": "Serbia promete actuar \"sin piedad\" con los que amenacen infraestructuras vitales",
-      "summary": "El presidente serbio habló tras el hallazgo de artefactos explosivos cerca del gasoducto BalkanStream, que transporta gas ruso a Bulgaria, Serbia y Hungría a través de Turquía.",
-      "link": "https://actualidad.rt.com/actualidad/597263-vucic-promete-actuar-sin-piedad-amenace-infraestructura-serbia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 13:18:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d24b0b59bf5b03bc0211e3.jpg"
-    },
-    {
-      "id": "2a36e60b1bb07bdbe14d",
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 5 de abril",
-      "summary": "Este domingo 5 de abril no hay actividad en el mercado financiero y, tanto para el dólar oficial como para el dólar blue se toman como referencia los valores de cierre del último día hábil de la semana , que, en esta semana en particular con tantos feriados, fue el miércoles 1 de abril . A cuánto cotiza el dólar oficial hoy En la última jornada hábil, el dólar oficial , en las pizarras del Banco Nación , cotizó a $1365 para la compra y $1415 para la venta . A cuánto cotiza el dólar blue hoy En tanto, el dólar blue , que se comercializa en el mercado informal de cambios, en el último día hábil cotizó a $1385 para la compra y $1405 para la venta. A cuánto cotizan el dólar MEP y el dólar CCL hoy El valor de los dólares financieros , categoría que engloba al dólar MEP (o dólar Bolsa) y al dólar CCL (contado con liquidación), involucra mecanismos bursátiles para hacerse de esta moneda a través de la venta de bonos y acciones. El último día hábil, estos tipos de cambio cerraron al siguiente valor : Dólar MEP: $1434,04. Dólar CCL: $1479.96. Los pasos para comprar dólares por home banking A partir de la salida del cepo cambiario , los bancos permiten hacer esta operación a través de su home banking . En ese sentido, se recomienda hacer la consulta correspondiente a la entidad bancaria. En caso de que esta lo permita, hay que tener en cuenta que cada empresa bancaria tiene horarios definidos para este tipo de operación. Ingresar al home banking del banco y asegurarse de tener los fondos necesarios para hacer la operatoria. Entre las opciones del menú del home banking , buscar la de “Operaciones” (o alguna referencia similar) y seleccionar la que se asocie con la Compra/venta de dólares . Indicar el monto que se desea comprar en pesos. Allí se detallará cuántos dólares se adquirirán según la cotización del día . Revisar los datos de la operación, aceptar los términos y condiciones y hacer clic en “Confirmar”. Cómo recuperar en ARCA los recargos por compras en el exterior Quie",
-      "link": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-5-de-abril-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:13:17 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/TNMEB4PT4RHGBGQI7XQFUPZU4I.jpg?auth=e230f15003baafd39adeff6774b3cd6d4c740ce6a43b30980e32e575994b1a2c&smart=true&width=4961&height=3508"
-    },
-    {
-      "id": "68f39a54888d7433b76e",
-      "title": "Juliana Awada festejó su primer cumpleaños lejos de Mauricio Macri",
-      "summary": "Juliana Awada eligió un destino paradisíaco para celebrar su cumpleaños número 52 , en un contexto personal marcado por su reciente separación de Mauricio Macri . A tres meses de la confirmación del distanciamiento, la empresaria viajó a una exclusiva isla del sur de Francia junto a sus hijas y amigos más cercanos , donde compartió una serie de postales íntimas del festejo. El 3 de abril, Awada decidió comenzar su día especial acompañada por sus hijas, Valentina Barbier, hija del empresario Bruno Barbier , y Antonia, fruto de su relación con el expresidente. En una de las imágenes más emotivas que compartió en sus redes sociales, se la ve junto a ellas durante una cena íntima. “52 años con lo más lindo de mi vida” , escribió, junto a un corazón rojo, reflejando el fuerte vínculo familiar. Para la celebración nocturna, la ex primera dama apostó por un look sofisticado y fiel a su estilo : un conjunto total black compuesto por un blazer y un body de encaje, que combinó con una falda translúcida. Optó por el pelo suelto y un maquillaje en tonalidades café. Una de sus primeras amigas en saludarla fue María Conorti, quien publicó una imagen junto a ella en un muelle durante la noche y le dijo: “Happy Birthday, Ju (Feliz cumpleaños, Ju)”. Cabe recordar que María es madre de Santiago Llavallol, el joven que habría comenzado un vínculo amoroso con Valentina Barbier. Durante las primeras horas del día, Juliana también había compartido algunas postales de su estadía en la isla francesa , que dejaron entrever su felicidad en este nuevo comienzo. En una de las fotos, la empresaria aparece sensual recostada sobre una toalla blanca, con una malla roja y un sombrero de ala ancha, en una imagen en la que buscó transmitir tranquilidad y desconexión total después de meses de gran agite mediático. En otra publicación también quedó a la vista que el viaje fue planeado con gran anticipación debido a que asistieron más de diez personas, entre sus familiares y amigos cercanos, que posaron",
-      "link": "https://www.lanacion.com.ar/espectaculos/juliana-awada-festejo-su-primer-cumpleanos-lejos-de-mauricio-macri-nid04042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:09:53 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/WF7G5WBUU5HZJKUO36VFJYOG2Q.jpg?auth=ee1c2bec074185f54e3c8ffe1e8c75ff8c010b3a869c486f5a5c46e8bcc2fafd&smart=true&width=800&height=600"
-    },
-    {
-      "id": "0e6db7c52e229ed0d16c",
-      "title": "Una médica explicó que una postura común al dormir puede acelerar el envejecimiento",
-      "summary": "La búsqueda de una piel saludable y joven motiva a miles de personas a invertir en costosos tratamientos dermatológicos. Sin embargo, diversos especialistas señalan que factores cotidianos, como la postura al dormir, influyen de manera directa en la salud cutánea a largo plazo. La doctora Raj Arora, médica del Reino Unido, advirtió en sus redes sociales que ciertos gestos habituales generan un impacto profundo en la dermis . Según la profesional, el hábito de dormir de costado representa un problema frecuente para quienes desean prevenir las marcas de la edad. Al presionar el rostro contra la almohada durante varias horas cada noche, la piel sufre una fricción constante . Este proceso deriva en la formación de arrugas de sueño, también llamadas líneas de compresión. Estas marcas se convierten en pliegues permanentes si la práctica continúa de manera sostenida. “ Pequeños hábitos , gran impacto con el tiempo. No siempre se trata de lo que añades a tu rutina, a veces es lo que necesitas dejar de hacer ”, explicó la doctora Arora a través de sus cuenta de Instagram, donde cosecha más de 66 mil seguidores con sus consejos de cuidado corporal. La especialista detalló que elegir un lado favorito para descansar provoca asimetría facial. Con el paso de los años y la pérdida natural de elasticidad, un lado del rostro desarrolla surcos más marcados que el otro. Para mitigar este efecto, la neuróloga del sueño Rachel Salas recomienda dormir boca arriba, posición que resulta la más beneficiosa para evitar el contacto directo de la cara con la superficie de la almohada . En caso de preferir dormir de lado, el uso de fundas de seda o satén disminuye la fricción en comparación con el algodón tradicional. Además de la postura nocturna, la doctora Arora identifica otros pilares fundamentales para el cuidado de la piel. El uso diario de protector solar ocupa un lugar central en cualquier rutina , ya que los rayos ultravioleta dañan la estructura cutánea, provocan manchas, generan irr",
-      "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/una-medica-explico-que-una-postura-comun-al-dormir-puede-acelerar-el-envejecimiento-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:08:40 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/PWI7F5YRDBC5PPYXEWCKYQLAHM.jpg?auth=af8879af92b8759c014dacb6d4e96834d63d434e68282429aa7b4b015d417bdf&smart=true&width=5840&height=3894",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "c371bc45f45c78ae15bb",
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente admitió que la baja en la inflación podría demorarse porque \"queda pendiente una gran corrección de los precios regulados\"",
-      "summary": "El mandatario brindó una entrevista a un medio español donde reconoció \"retrasos\" para la efectivización de su programa económico. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Clarín.",
-      "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-admitio-baja-inflacion-podria-demorarse-queda-pendiente-gran-correccion-precios-regulados_0_nqjgytCZ64.html",
-      "pubDate": "Sun, 05 Apr 2026 13:07:30 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/04/03/StNgEuEvK_1200x630__1.jpg"
-    },
-    {
-      "id": "b33bb31f6a703b96ffa1",
-      "title": "Receta de chocolate casero si te olvidaste de comprar huevos de Pascua",
-      "summary": "Si es Domingo de Pascua y no llegaste a comprar el típico huevo para compartir con tu familia o amigos , no existe mayor problema, ya que la receta original de este dulce es sencilla y solo requiere de un ingrediente como base y dos elementos fundamentales. A continuación, seguí el paso a paso y podrás obtener una versión casera y deliciosa. Huevo de Pascua en casa para olvidadizos Ingredientes: 400 g de chocolate cobertura amargo o semiamargo (cacao 70%). Un molde mediano de plástico o silicona. Un pincel. Confites o bombones para rellenar (opcional). Paso a paso: En una cacerola, poné a derretir a baño María el chocolate en trozos pequeños. Revolvelo de tanto en tanto para que se funda bien. Podés utilizar un microondas, pero debés corroborar que no se queme. Cuando tengas el chocolate fundido, con un pincel, pintá el molde o los moldes de huevo hasta formar una capa. También podés verter directamente el chocolate y escurrir el excedente. Dejá enfriar las capas de chocolate. Si preferís un huevo grueso, volvé a verter más chocolate, aunque debés cerciorarte de que te quede un resto derretido para pegar las capas. Cuando quede firme cada cáscara, desmoldá cada una y con el chocolate fundido que te sobró, pegá cada cáscara. Para ello ayudate del pincel y pintá los bordes. Presioná suave durante unos segundos y listo. Si los querés rellenos, antes de unir cada cáscara, colocá los confites o bombones. Receta del huevo de Pascua tradicional Tiempo de elaboración total: 20 minutos.",
-      "link": "https://www.lanacion.com.ar/recetas/receta-de-chocolate-casero-si-te-olvidaste-de-comprar-huevos-de-pascua-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:02:26 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/KXUUEFELVBD7RGQG5XRM5ADZG4.png?auth=b1b13f14cbe07fc3be25562f4509ee04c043a63f427e661beae5e536ba213c9d&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "002b7029f3ef1b32335c",
-      "title": "Un astronauta del Artemis II contó el peor momento de la misión: “Estábamos cayendo del cielo hacia la Tierra”",
-      "summary": "El astronauta canadiense de Artemis II , Jeremy Hansen , contó en una videollamada este sábado que tuvo la sensación de “caer del cielo” mientras su nave seguía su compleja trayectoria hacia la Luna. Junto con los otros tres astronautas de la misión, superó el sábado por la mañana el punto medio entre la Tierra y la Luna , a más de 241.000 kilómetros de casa. Deben realizar el primer sobrevuelo lunar tripulado en más de medio siglo. Durante las primeras horas a bordo de la nave Orion , Jeremy Hansen, expiloto de combate de 50 años que realiza su primer viaje al espacio, vio “cosas extraordinarias” . “En lo que nos echamos una pequeña siesta y nos levantamos, la Tierra ya estaba tan lejos ”, relató el astronauta, junto a sus compañeros estadounidenses Victor Glover y Reid Wiseman, durante una sesión de preguntas y respuestas organizada por la Agencia Espacial Canadiense (ASC). Jeremy Hansen habló después de la inyección translunar, una maniobra de propulsión que lleva a Orion a volar a menos de 200 kilómetros alrededor de la Tierra antes de poner rumbo a la Luna. “ Tuve la sensación de que estábamos cayendo del cielo hacia la Tierra , y le dije a Reid: ‘Parece que vamos a estrellarnos contra ella’”, explicó el astronauta. “Es increíble. En realidad, la esquivamos (...) Estaba tan cerca (...) Fue realmente fenomenal ”, añadió Hansen. El astronauta, que se incorporó a la ASC en 2009 tras una carrera como piloto de combate en la Real Fuerza Aérea Canadiense, será el primer no estadounidense en volar alrededor de la Luna . La próxima etapa de Orion, prevista para el quinto día de esta misión de diez días, será entrar en la esfera de influencia lunar , donde la atracción gravitatoria de la Luna supera a la de la Tierra , según la NASA. Jeremy Hansen está impaciente por ver de cerca la cara oculta de la Luna y observar “ un eclipse del Sol detrás de la Luna , lo que va a ser realmente genial”. Consultado sobre los consejos que daría a las nuevas generaciones, este padre de",
-      "link": "https://www.lanacion.com.ar/ciencia/un-astronauta-del-artemis-ii-conto-el-peor-momento-de-la-mision-estabamos-cayendo-del-cielo-hacia-la-nid04042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:01:43 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZXGFGDHJYBGJHD6YUW3R375E7I.jpg?auth=8fd5d3473202979a90410d770a3df81808b752210f47406cc68d50441195fa7c&smart=true&width=2000&height=1333",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "2d4904ef4220849b4ca3",
-      "title": "Ya tenemos el blooper del año: ¿qué hace el portero?",
-      "summary": "Este surrealista gol ocurrió en el partido entre Toronto y Colorado Rapids en la MLS. Un defensa del Colorado intentó despejar un balón en el medio campo, pero el golpeo salió mal y terminó convirtiéndose en un disparo hacia la portería. Zack Steffen, guardameta del equipo visitante, trató de controlar el balón, pero se le pasó por debajo y acabó entrando en la portería. El tanto supuso el 2-2 en un encuentro que finalmente Colorado perdería 3-2 ante Toronto.",
-      "link": "https://www.marca.com/futbol/estados-unidos/2026/04/05/blooper-ano-porter-video.html",
-      "pubDate": "Sun, 05 Apr 2026 13:01:02 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUPA21fqZ_UQg5s_t.jpeg"
     },
     {
       "id": "52d04825e8b2a01f7aae",
@@ -1009,154 +1237,14 @@
       "subcat": "mercado"
     },
     {
-      "id": "59fc2928903e4055e771",
-      "title": "Pidieron asilo en EE.UU. y terminaron en un país que jamás imaginaron",
-      "summary": "En medio de las políticas migratorias aplicadas por la administración Trump, como la suspensión indefinida de los trámites de asilo , se han reportado personas con órdenes de deportación a terceros países con los que no tienen vínculo directo. Defensores de inmigrantes sostienen que el objetivo principal es infundir miedo para que estos abandonen sus casos y regresen a sus países de origen por cuenta propia . Qué se sabe de las deportaciones de EE.UU. a terceros países De acuerdo con AP , los abogados del Servicio de Inmigración y Control de Aduanas ( ICE , por sus siglas en inglés) utilizan mociones legales para finalizar las solicitudes pendientes sin una audiencia completa. Estas acciones se fundamentan en los nuevos acuerdos de tercer país seguro y convenios de traslado de asilo reactivados o firmados por la actual administración. A diferencia de los pactos de 2019, estas medidas afectan a solicitantes de asilo que ingresaron tras el inicio de la nueva gestión en enero de 2025 . Bajo esta premisa, se han reportado casos de personas enviadas a continentes o países en los que jamás han estado. Por ejemplo, un hombre afgano fue enviado a Uganda y una mujer guatemalteca, a Honduras . “Cuando llegué a Estados Unidos, volví a sentir esperanza y le di gracias a Dios por estar viva”, dijo la mujer tras la audiencia. “Cuando pienso en tener que ir a otros países, me entra el pánico” , agregó. El limbo migratorio de los migrantes con casos pendientes de asilo A pesar de las miles de órdenes emitidas por los abogados de la agencia, se estima que menos de 100 personas han sido deportadas a estos terceros países debido a complicaciones logísticas, como falta de aviones y límites en los acuerdos. Esto ha dejado a los afectados sin derecho a defender su caso de asilo y con sus permisos legales de trabajo perdidos, según AP. Con este panorama, funcionarios del ICE ordenaron en marzo de este año a sus abogados detener la presentación de nuevas mociones de este tipo para casos de",
-      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/pidieron-asilo-en-eeuu-y-terminaron-en-un-pais-que-jamas-imaginaron-nid05042026/",
-      "pubDate": "Sun, 05 Apr 2026 13:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/UJ6S7SNNFBHPVLRZEGZ2RBE4EE.jpg?auth=75e284e75ae91a60bdbfebcc7d8c68e7529366766e9cfe281d80d9c2a63b5946&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "2534dbb1bda4d2fd1d38",
-      "title": "El consumo ocasional excesivo de esta bebida podría triplicar el riesgo de enfermedades hepáticas",
-      "summary": "Expertos explican que tomar alcohol de esta forma puede ser más perjudicial que una ingesta distribuida en el tiempo.",
-      "link": "https://actualidad.rt.com/actualidad/597237-consumo-ocasional-excesivo-bebida-riesgo-enfermedades-hepaticas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 12:58:28 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d22acae9ff713fd25160aa.jpg"
-    },
-    {
-      "id": "27c51077e00588c51f49",
-      "title": "Guerra entre Estados Unidos, Israel e Irán, EN VIVO: \"Abran el jodido estrecho o vivirán el infierno\", Trump amenaza con lanzar una feroz ofensiva sobre centrales eléctricas y puentes de Irán",
-      "summary": "El presidente de los Estados Unidos reiteró el ultimátum y dio precisiones sobre los ataques que prepara para el martes. Todas las novedades del conflicto en Medio Oriente, minuto a minuto.",
-      "link": "https://www.clarin.com/mundo/guerra-estados-unidos-israel-iran-vivo-abran-jodido-estrecho-viviran-infierno-trump-amenaza-lanzar-feroz-ofensiva-centrales-electricas-puentes-iran_0_voOGioCDWk.html",
-      "pubDate": "Sun, 05 Apr 2026 12:53:21 +0000",
-      "source": "Clarin",
-      "cat": "israel",
-      "image": "https://www.clarin.com/img/2026/04/05/DmyJkQRSb_1200x630__1.jpg"
-    },
-    {
-      "id": "91b94d698491d97a3acd",
-      "title": "VIDEO: Fuerte incendio en un centro comercial en Rusia",
-      "summary": "El fuego se propagó unos 500 metros cuadrados por el edificio, ubicado en la ciudad de Kaliningrado.",
-      "link": "https://actualidad.rt.com/actualidad/597290-video-fuerte-incendio-centro-comercial-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 05 Apr 2026 12:47:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d25a6059bf5b52fd21ba09.jpg"
-    },
-    {
-      "id": "2a08d56f4f0b9fabefb8",
-      "title": "La BMV se cala antes del Bayern",
-      "summary": "Mbappé celebra uno de sus goles al Valencia esta campaña junto a Vinicius y Bellingham.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/05/bmv-cala-bayern.html",
-      "pubDate": "Sun, 05 Apr 2026 12:44:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d14ac489a31.jpeg"
-    },
-    {
-      "id": "6911de2e87e6c374e04c",
-      "title": "Quién es Tobías Goytía, la joya de River que brilló en el debut de la Selección Argentina Sub 17 y está blindada en 100 millones de euros",
-      "summary": "Nació en Mataderos pero pulió su talento en las inferiores del Millonario, donde ya firmó contrato profesional. Mirá los dos goles y la asistencia vs Perú, en el estreno en el Sudamericano que se juega en Paraguay.",
-      "link": "https://www.clarin.com/deportes/tobias-goytia-joya-river-brillo-debut-seleccion-argentina-sub-17-blindada-100-millones-euros_0_qEBCmtkiZD.html",
-      "pubDate": "Sun, 05 Apr 2026 12:36:26 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/04/05/nXwV7zq-l_1200x630__1.jpg"
-    },
-    {
-      "id": "c1def956f8235632af32",
-      "title": "Javier Milei volvió a cargar contra Victoria Villarruel: la acusó de querer boicotearlo y de juntarse \"con gente verdaderamente complicada\"",
-      "summary": "El Presidente apuntó contra su vice en una entrevista, al ser consultado por su última visita a España cuando participó del Madrid Economic Forum. Dijo que Villarruel habría pergeñado planes en su contra desde 2021, cuando fueron elegidos diputados.",
-      "link": "https://www.clarin.com/politica/javier-milei-volvio-cargar-victoria-villarruel-acuso-querer-boicotearlo-juntarse-gente-verdaderamente-complicada_0_WilulTWmOn.html",
-      "pubDate": "Sun, 05 Apr 2026 12:33:40 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/03/05/-SuyoyZOJ_1200x630__1.jpg"
-    },
-    {
-      "id": "6f79d18a976a9387a21a",
-      "title": "En su mensaje de Pascua, el Papa pidió que \"los que tienen el poder de desencadenar guerras elijan la paz\"",
-      "summary": "León XIV habló este domingo ante más de 50 fieles que se congregaron en Plaza San Pedro. Anunció que el próximo sábado encabezará una misa por la paz.",
-      "link": "https://www.clarin.com/mundo/mensaje-pascua-papa-pidio-poder-desencadenar-guerras-elijan-paz_0_SGivZH7tfz.html",
-      "pubDate": "Sun, 05 Apr 2026 12:28:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/05/uT9aksPET_1200x630__1.jpg"
-    },
-    {
-      "id": "1e786410c38e1fae0cc5",
-      "title": "Inhabilitaron la licencia del conductor de 82 años que provocó el accidente de Barby Franco en la Ruta 3",
-      "summary": "El hombre condujo de contramano sin patente y luego se escapó. El siniestro involucró a tres vehículos y un hombre salió herido.",
-      "link": "https://www.clarin.com/fama/inhabilitaron-licencia-conductor-82-anos-provoco-accidente-barby-franco-ruta-3_0_hbLNjhoEne.html",
-      "pubDate": "Sun, 05 Apr 2026 12:26:47 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/05/zCDWD_QbT_1200x630__1.jpg"
-    },
-    {
       "id": "bb0a9ff330a496f8a67e",
       "title": "Trump anuncia el rescate del segundo piloto del caza derribado por Irán",
-      "summary": "Un F/A-18E Super Hornet despega de la cubierta de vuelo del portaaviones 'USS Abraham Lincoln', de la clase Nimitz de la Armada de los Estados Unidos, el 1 de abril.",
+      "summary": "Imagen difundida este domingo por la agencia iraní Tasnim, que según afirma, muestra los restos de dos helicópteros Black Hawk y un avión de transporte militar C130 del Ejército de EE UU derribados.",
       "link": "https://elpais.com/internacional/2026-04-05/trump-anuncia-el-rescate-del-segundo-piloto-del-caza-derribado-por-iran.html",
       "pubDate": "Sun, 05 Apr 2026 12:23:41 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/AHEPT3HVRNPUBEP3DXH2RA73UI.jpg?auth=8d78222e10a9d9a85479a064a9ca41a87aa22990901af88a065b7c9ad2d7ced3"
-    },
-    {
-      "id": "5aafbe09ff8e7d58c9c5",
-      "title": "Medio siglo de la gran historia de boxeo que provocó un cambio social",
-      "summary": ".",
-      "link": "https://www.marca.com/boxeo/2026/04/05/hurricane-bob-dylan-medio-siglo-historia-boxeo-provoco-cambio-social.html",
-      "pubDate": "Sun, 05 Apr 2026 12:23:13 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d237c24a43b.jpeg"
-    },
-    {
-      "id": "e3f28cc59ce58f3386c7",
-      "title": "Radiografía de todas las quejas: \"Voy a cancelar\"",
-      "summary": "\"Se equivocaron\". Es lo que dijo Diego Pablo Simeone tras el Atlético-Barcelona. Técnico y club tiran de hemeroteca para señalar que el VAR retiró la roja a Gerard Martín cuando hace unas semanas dijeron que no en una jugada similar.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/05/saltar-chispas-simeone-atletico-indignados-roja-gerard-martin-video.html",
-      "pubDate": "Sun, 05 Apr 2026 12:11:13 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUOE81fqZJhMbpMCA.jpeg"
-    },
-    {
-      "id": "b0780c9cd6998242816d",
-      "title": "El inglés Michael Oliver dirigirá el Real Madrid -Bayern Múnich",
-      "summary": "Michael Oliver",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/05/ingles-michael-oliver-dirigira-real-madrid-bayern-munich.html",
-      "pubDate": "Sun, 05 Apr 2026 12:03:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d23321e709c.jpeg"
-    },
-    {
-      "id": "84c9315564020ecefcc1",
-      "title": "Texas previene a veteranos contra desinformación antes del \"Tax Day\" del 15 de abril de 2026: una ley que no prosperó está en medio de la polémica",
-      "summary": "Un proyecto de ley establecía beneficios para la compra de algunos bienes. Advierten sobre las campañas de desinformación que se hicieron virales.",
-      "link": "https://www.clarin.com/estados-unidos/texas-previene-veteranos-desinformacion-tax-day-15-abril-2026-ley-prospero-medio-polemica_0_X1uXBk6a2I.html",
-      "pubDate": "Sun, 05 Apr 2026 12:01:50 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/03/y77OfuMtR_1200x630__1.jpg"
-    },
-    {
-      "id": "c050392208727e56c721",
-      "title": "Horóscopo semanal del 6 al 12 de abril: la Luna redefine vínculos y activa cambios profundos",
-      "summary": "La energía de la semana invita a cerrar ciclos. Las predicciones de la astróloga Rocío Sabatini.",
-      "link": "https://www.clarin.com/astrologia/horoscopo-semanal-6-12-abril-luna-redefine-vinculos-activa-cambios-profundos_0_HnNehI3Z8E.html",
-      "pubDate": "Sun, 05 Apr 2026 12:01:50 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/03/31/bHen5-8mu_1200x630__1.jpg"
+      "image": "https://imagenes.elpais.com/resizer/v2/ILHREADWCNBMFNCGLBAVZ2EWGU.jpg?auth=17c7f2f70b51085c06f38302c3eb5201b27dbe04f56a0f0ef7e8fd1a7c581f1c"
     },
     {
       "id": "726327d590cf21dc637c",
@@ -1167,36 +1255,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/hbo-Baldurs-Gate-3.jpg"
-    },
-    {
-      "id": "db0ae8d504a6f116e40a",
-      "title": "Historia del Inter Miami: Marc Anthony inaugura el estadio con el himno de Estados Unidos",
-      "summary": "El Inter Miami de Leo Messi jugó su primer partido en el NU Stadium. El club hizo un acto de apertura con Marc Anthony cantando el himno de los Estados Unidos de América.",
-      "link": "https://www.marca.com/futbol/estados-unidos/2026/04/05/historia-inter-miami-marc-anthony-inaugura-estadio-himno-estados-unidos-video.html",
-      "pubDate": "Sun, 05 Apr 2026 11:49:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/aUNae1fqY_PpKlgiX.jpeg"
-    },
-    {
-      "id": "250c334db648cc5ee71a",
-      "title": "Jorge Prado recupera su mejor versión y roza el podio",
-      "summary": "Prado, en St. Louis.",
-      "link": "https://www.marca.com/motor/mas-motor/2026/04/05/jorge-prado-recupera-mejor-version-roza-podio.html",
-      "pubDate": "Sun, 05 Apr 2026 11:48:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d22ee9ccba0.jpeg"
-    },
-    {
-      "id": "dc611045deee292093fe",
-      "title": "Cardona y Alonso cierran una gran temporada con victoria en la Copa del Mundo",
-      "summary": "Oriol Cardona y Ana Alonso, en la Copa del Mundo de Villars-sur-Ollon.",
-      "link": "https://www.marca.com/deportes-invierno/2026/04/05/cardona-alonso-cierran-gran-temporada-victoria-copa-mundo.html",
-      "pubDate": "Sun, 05 Apr 2026 11:47:49 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d256282c785.jpeg"
     },
     {
       "id": "7d78c6efa1f3622b4b7f",
@@ -1218,16 +1276,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg"
-    },
-    {
-      "id": "f1edc5a5cb0ae6a593b8",
-      "title": "Marcos Llorente la lía y los expertos le responden: \"Los helados provocan ataques de tiburón\"",
-      "summary": "Marcos Llorente se disfraza de crema solar",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/05/marcos-llorente-lia-cargar-cremas-solares-expertos-responden-ironia-helados-provocan-ataques-tiburon.html",
-      "pubDate": "Sun, 05 Apr 2026 11:28:31 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d22b0a0664b.jpeg"
     },
     {
       "id": "2a89aabf4407c7a77caf",
@@ -1330,16 +1378,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Spaceballs-2-01.jpg"
     },
     {
-      "id": "10abd4168a05259ad04e",
-      "title": "Trump anuncia el rescate del segundo tripulante del avión de combate F-15 derribado por Irán el viernes",
-      "summary": "El derribo de un caza F-15 de EE.UU. en suelo iraní el viernes desató una frenética búsqueda a contrarreloj por parte de fuerzas estadounidenses y de Irán, que habían ofrecido una recompensa por su captura.",
-      "link": "https://www.bbc.com/mundo/articles/cly91kwzp4qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 05 Apr 2026 07:18:42 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0807/live/8e19e3a0-2f70-11f1-934f-036468834728.png"
-    },
-    {
       "id": "3ac127652bc3986446b2",
       "title": "GEEKOM A5 Pro 2026 análisis completo",
       "summary": "El GEEKOM A5 Pro 2026 es una evolución del modelo de 2025 que tuvimos la oportunidad de analizar en este artículo . A grandes rasgos, este equipo mantiene la misma propuesta que vimos en el modelo anterior, y apuesta por equilibrar su valor en relación calidad-precio. Hablo de calidad en sentido amplio porque los mini PCs de GEEKOM han logrado diferenciarse de otras marcas precisamente a través de su calidad de construcción, y de su fiabilidad . Llevo ya un tiempo probando estos equipos, y hasta el momento ninguno de ellos me ha dado el más mínimo problema. He tenido la oportunidad de probar el GEEKOM A5 Pro 2026 durante varias semanas, y en este artículo no solo os voy a contar cómo ha sido mi experiencia , sino que también voy a compartir con vosotros un análisis completo de su rendimiento , su consumo y de cómo se comporta a nivel de temperaturas. Especificaciones del El GEEKOM A5 Pro 2026 Chasis, medidas y peso Chasis fabricado en aleación de aluminio. Medidas: 112,4 × 112,4 × 37 mm. Peso: 652 gramos. Componentes clave APU AMD Ryzen 5 7530U con 6 núcleos y 12 hilos (arquitectura Zen 3) a 2 GHz-4,5 GHz, modo normal y turbo con 3 MB de caché L2 y 16 MB de caché L3. GPU integrada Radeon Vega 7 con 448 shaders (arquitectura GCN 5.1), 28 unidades de texturizado y 8 unidades de rasterizado. Su velocidad pico es de 2.000 MHz. 16 GB (2 x 8 GB) de DDR4 SODIMM a 3.200 MT/s en doble canal (bus de 128 bits). Ampliable hasta 64 GB. Unidad SSD M.2 PCIe Gen3 x4 NVMe de 1 TB GB ampliable. Ranura M.2 2242 para instalar una segunda unidad SSD. Espacio interno para montar una unidad de almacenamiento de 2,5 pulgadas. Sistema de refrigeración y conectividad Ventilador de tipo turbina (IceBlast 3.0) como sistema de refrigeración activo, apoyado por un radiador y dos caleoductos de cobre que recogen y mueven el calor. Conectividad cableada: dos USB 3.2 Gen2 Type A y un jack de 3,5 mm para salida de audio en el frontal. En la parte trasera tiene un USB 3.2 Gen2 Type-A, un USB 2.0 Type",
@@ -1398,6 +1436,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DFIJCMWFPBAWNO6KNTC2E5VLY4.jpg?auth=1e2a09ff347aceb7b1412bc10a70b450b4a66d1d4f81de24b6b82f2ef99cfc16"
+    },
+    {
+      "id": "42b477a60d5846b8ee2d",
+      "title": "Primeros compases de una marcha fúnebre geoeconómica",
+      "summary": "Un buque atravesando el Estrecho de Ormuz.",
+      "link": "https://elpais.com/economia/2026-04-05/primeros-compases-de-una-marcha-funebre-geoeconomica.html",
+      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/NLXIQFXZXRARLKCW2LEMDSTZGM.jpg?auth=c133e2483a80c9e6e3188e6f76455c9c17bdd3dc36a3bf99c13b052a4dabd944"
     },
     {
       "id": "e08efdf4a6ea6c93b142",
@@ -1510,16 +1558,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GJ53WII4YVBKXE3FQWRL2F5BYU.jpg?auth=c20c0dabe624d355f4e44a2793cd80bac0a41042376f8620659133d385fd7db4"
     },
     {
-      "id": "9a6960caec6a2d83dc84",
-      "title": "Gaza sufre sin futuro y a la sombra de otra guerra en Oriente Próximo",
-      "summary": "Una mujer y una niña empujan una silla de ruedas cargada con bidones en el asentamiento temporal de Jabalia, en Gaza, este sábado.",
-      "link": "https://elpais.com/internacional/2026-04-05/gaza-sufre-sin-futuro-y-a-la-sombra-de-otra-guerra-en-oriente-proximo.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/YU567TBFSZG3NHB7OGTCGJT37I.jpg?auth=fc5c9dd54fee47a8f2a30f0826f8d8009a1bef521530dc322726ab6443b8f5d5"
-    },
-    {
       "id": "62f46a3cc2bd21a756b8",
       "title": "Delcy Rodríguez, tres meses en la presidencia de Venezuela bajo la mirada de Trump",
       "summary": "Delcy Rodríguez en el palacio Miraflores, en Caracas, el 11 de febrero.",
@@ -1528,16 +1566,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/7FF3BXDC6VMWHCJBS3JER3Z7ZA.jpg?auth=a27f1cd63c0a686a36f80db3bb3ab1d5788fb2b32c65d0b577830413420dd055"
-    },
-    {
-      "id": "0f84bb6fd645c0cd4508",
-      "title": "“¿A cuántas personas podré ayudar?”: cuando un solicitante de eutanasia decide donar sus órganos",
-      "summary": "Fotos de recuerdo del donante fallecido Anthony Green con sus hijos y nietos.",
-      "link": "https://elpais.com/sociedad/2026-04-05/a-cuantas-personas-podre-ayudar-cuando-un-solicitante-de-eutanasia-decide-donar-sus-organos.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/4TV7DQD44BAVLN4444T2RHB2VE.jpg?auth=7e11ac0251da9049258e5c3fa3da688861b39181baf8d4fa071c6a258e6e864f"
     },
     {
       "id": "ac8aff25336c3f3db8b6",
@@ -1598,16 +1626,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/5757T4PNQFCN7AH4EA6FYASUNA.jpeg?auth=62e5b3f1c35d06f6d18c131f27fce0c4bb12d78bb06548ac65b6fcab686c75cc"
-    },
-    {
-      "id": "15551b898ec194dbb70a",
-      "title": "Los Obama diversifican su millonaria cartera mediática: Netflix, ‘podcasts’ con famosos y, ahora, Broadway",
-      "summary": "Barack y Michelle Obama, en el Open de Tennis de Nueva York en agosto de 2023.",
-      "link": "https://elpais.com/gente/2026-04-05/los-obama-diversifican-su-millonaria-cartera-mediatica-netflix-podcasts-con-famosos-y-ahora-broadway.html",
-      "pubDate": "Sun, 05 Apr 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/I7726IYRVVGKBDT3ZS2RLLGY4U.jpg?auth=1d636771d2ce52c0927b1057936484ba4dcaf4f6d5fd96223f43d5f19b5013d1"
     },
     {
       "id": "012eb2126b3c4b7718c4",
@@ -2091,16 +2109,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c74/live/5096bbb0-2d2d-11f1-a36a-2bc3523bb833.jpg"
     },
     {
-      "id": "2d3a394387ce23719256",
-      "title": "Super Mario Galaxy ya rompe récords a pesar de las críticas",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com La primera entrega de The Super Mario Bros. Movie logró recaudar la impresionante cifra de 1.360 millones de dólares en todo el mundo, y su secuela animada, orientada a toda la familia, ya está en camino de convertirse en un éxito igual de grande (potencialmente incluso mayor) para Universal, Illumination Entertainment y Nintendo. A pesar de una respuesta crítica mixta-negativa (un 40% en Rotten Tomatoes , contrastado con un sólido 90% de puntuación de la audiencia), The Super Mario Galaxy Movie ha estado llenando los cines en todo el globo. La adaptación del videojuego ha recaudado hasta ahora 59,1 millones de dólares a nivel nacional y 63 millones en el extranjero, logrando un debut mundial de 122,1 millones de dólares. El sueño de Super Smash Bros. tras Super mario Galaxy A menos que se produzca una caída drástica en las próximas semanas (algo que se considera altamente improbable), una tercera película está casi garantizada. Sin embargo, los fans que esperaban una adaptación de Super Smash Bros. podrían sentirse decepcionados por las recientes declaraciones de los responsables creativos. El creador de Mario, Shigeru Miyamoto , comentó en una entrevista reciente: «De entrada, diré que, a diferencia de algo como Super Smash Bros. , no creo que se dé una situación en la que todos los personajes de Nintendo se unan». Esta postura sugiere que Nintendo prefiere mantener un enfoque más controlado y centrado en el universo de Mario antes de saltar a un crossover masivo de todas sus propiedades intelectuales, priorizando la coherencia narrativa sobre el espectáculo de lucha multitudinaria. Un reparto de voces estelar y nuevos fichajes en Super Mario Galaxy El elenco de voces que regresa para esta aventura galáctica incluye a: Chris Pratt como Mario. Anya Taylor-Joy como la Princesa Peach. Charlie Day como Luigi. Jack Black como Bowser. Keegan-Michael Key como Toad. A ellos se han unido nuevos reclutas de alto ",
-      "link": "https://www.cinemascomics.com/super-mario-galaxy-rompe-records-y-criticas/",
-      "pubDate": "Sat, 04 Apr 2026 03:05:36 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-17.jpg"
-    },
-    {
       "id": "fcb575fa1c8098fda76f",
       "title": "¿A quién pertenecen los recursos naturales de la Luna?",
       "summary": "Desde que el último astronauta pisara la Luna en 1972, la carrera espacial por explorarla ha virado de objetivo: los países ven en el satélite un territorio virgen por explotar y un destino para futuras bases permanentes. Sin una regulación clara que ponga límites, la cuestión de quién puede quedarse con qué sigue sin respuesta “Chicos, estáis genial”: las primeras imágenes de la Tierra desde la misión Artemisa II camino a la Luna El dominio norteamericano de la colonizaci n y la exploraci n lunar ha sido durante mucho tiempo un monopolio. La gloriosa carrera por la Luna del siglo XX entre Estados Unidos y la Uni n Sovi tica fue descrita como un accidente hist rico , en palabras del profesor Gerard J Degroot, del departamento de Historia Moderna de la Universidad de St. Andrews en Escocia, en su obra Dark Side of the Moon . Fue un campo de batalla pol tico. El objetivo de los americanos era llegar a la Luna antes que los sovi ticos y por un breve momento, el dinero no importaba . Una vez logrado el objetivo, no hab a respuesta para una pregunta tan simple como y ahora qu ? Bien, hemos llegado a la Luna, cu l es nuestra siguiente misi n? En los ltimos 12 a os, este monopolio se ha visto amenazado. Lo que en principio empez como un juego de dos superpotencias en el tablero de un ajedrez espacial se ha convertido ahora en una nueva batalla a cuatro manos por parte de los pa ses m s poderosos de la Tierra. A Estados Unidos, que trata de revivir y dar continuidad a la gloria de las conquistas de las misiones Apolo, y a la actual Rusia, disminuida al estar envuelta en una guerra que la ha aislado internacionalmente, se han unido los dos gigantes que quedaban: China e India. Este ltimo pa s hizo historia en agosto de 2023, cuando la sonda Chandrayaan-3 aluniz en el polo sur lunar, todav a inexplorado. El m dulo contiene un rover, un robot con ruedas repleto de instrumentos cient ficos de observaci n. All , a la sombra de sus enormes cr teres, se almacena agua congelada, de",
@@ -2283,16 +2291,6 @@
       "image": ""
     },
     {
-      "id": "d95098041653e59ddbd7",
-      "title": "¿Habrá secuela de ‘Super Mario Galaxy: la película’? Esto es todo lo que sabemos",
-      "summary": "Super Mario Galaxy: la película es un gran homenaje a la saga de Nintendo y también una celebración a gran parte del mundo del personaje. Por lo que, a lo largo de toda su historia, sigue a nuestro héroe titular (de nuevo con la voz de Chris Pratt ) en una aventura espacial expansiva. Más ambiciosa y grande que la anterior, la acción lleva a Mario, Luigi (Charlie Day) y a Peach (Anya Taylor-Joy) a un recorrido por el cosmos, en busca de Rosalina (Brie Larson). Esta última, atrapada por el malvado Bowser Jr. (Benny Safdie), en un intento del nuevo villano por rescatar a su padre Bowser (Jack Black) de su diminuta prisión. Mientras todo lo anterior ocurre, la cinta va de un extremo a otro de la gran saga de Nintendo . Lo que incluye, desde mundos hasta la incorporación de personajes como Fox McCloud (con la voz de Glen Powell ) y hasta una escena poscréditos sorprendente. Para el final de los créditos de la cinta, una misteriosa figura aparece en el centro de transporte del célebre Gateway Galaxy . En la secuencia, un Whittle sufre el robo de su equipaje por parte de un mono Ukiki, solo para ser rescatado por la princesa Daisy, gobernante de Sarasaland, quien debutó en Super Mario Land de 1989 para Game Boy . Por lo que la aparición de ambos emblemáticos personajes abre la puerta a una posible secuela y ya parece haber pistas de hacia dónde se dirigirá probablemente cualquiera de las premisas. ¿Habrá otra aventura ahora ambientada en Super Mario Land ? ¿O directamente Fox McCloud anuncia otra basada en Super Smash Bros. Más interesante todavía, ¿quizás una combinación entre ambas cosas? Por ahora, lo único que sabemos es que con Super Mario Galaxy: la película hay muchas posibilidades de que pueda haber un punto intermedio entre ambas sagas. Aunque no hay nada del todo claro por ahora, más allá de los datos que te dejamos a continuación. Un héroe que apunta a un nuevo escenario Claro está, con la llegada de Fox McCloud a Super Mario Galaxy: la película , hubo especula",
-      "link": "https://hipertextual.com/cine-television/habra-secuela-de-super-mario-galaxy-la-pelicula-esto-es-todo-lo-que-sabemos/",
-      "pubDate": "Fri, 03 Apr 2026 13:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/12/Super-Mario-Galaxy-La-pelicula.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "fe9ae69a13438424eb49",
       "title": "GIGABYTE presenta la X870E AERO X3D DARK WOOD",
       "summary": "El diseño estético de los componentes para PC ha ganado peso en los últimos años, especialmente entre los usuarios que buscan montar equipos personalizados con una estética cuidada. Más allá del rendimiento, cada vez es más habitual ver propuestas que intentan diferenciarse visualmente del hardware tradicional, especialmente en el segmento de gama alta. En este contexto, GIGABYTE ha presentado la X870E AERO X3D DARK WOOD , una placa base que apuesta por una estética poco habitual inspirada en la textura de madera oscura , pero que mantiene unas especificaciones propias de un modelo orientado a equipos de alto rendimiento. La nueva placa base parte del modelo X870E AERO X3D WOOD , pero introduce un acabado más profundo basado en madera oscura de veta marcada, acompañado por detalles metálicos en tonos oscuros que refuerzan su aspecto sobrio. Con este enfoque, GIGABYTE intenta ofrecer u na alternativa a la estética habitual del hardware gaming , que suele apostar por diseños agresivos e iluminación RGB muy marcada. La propuesta busca encajar mejor tanto en configuraciones de alto nivel para creadores como en equipos que forman parte de entornos de trabajo o espacios domésticos donde el diseño también juega un papel importante. Más allá del apartado estético, la X870E AERO X3D DARK WOOD se basa en la plataforma AMD AM5 , lo que garantiza compatibilidad con los procesadores Ryzen 9000, 8000 y 7000. GIGABYTE ha integrado un sistema de alimentación digital 16+2+2 fases VRM , diseñado para ofrecer una entrega de energía estable incluso cuando el sistema trabaja bajo cargas intensivas o cuando se utilizan configuraciones avanzadas de overclock. Este planteamiento sitúa a la placa dentro de la gama alta del catálogo de la compañía. La memoria también es uno de los puntos fuertes del diseño, ya que la placa permite utilizar DDR5 con overclocking de hasta 9000 MT/s . Esta capacidad permite aprovechar al máximo el potencial de las CPUs Ryzen más recientes, tanto en escenarios g",
@@ -2468,5 +2466,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-05T14:31:15.611116+00:00"
+  "updated": "2026-04-05T16:29:37.730853+00:00"
 }
