@@ -230,17 +230,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "4307f4e749ad81b05176",
-      "title": "Android será más seguro… y cerrado",
-      "summary": "La seguridad siempre ha sido uno de los grandes retos de Android , especialmente debido a su naturaleza abierta y a la posibilidad de instalar aplicaciones desde múltiples fuentes. Google ha intentado equilibrar esa apertura con distintas medidas de protección a lo largo de los años, y ahora prepara un cambio importante que afectará directamente a los desarrolladores que quieran distribuir software para el sistema operativo. Google ha anunciado que introducirá un sistema de verificación obligatoria para todos los desarrolladores de Android, independientemente de si distribuyen sus aplicaciones a través de Google Play o mediante otros canales . La compañía explica que el objetivo es impedir que actores maliciosos se oculten tras el anonimato para distribuir malware o aplicaciones fraudulentas en dispositivos Android. Hasta ahora, los desarrolladores que publicaban aplicaciones en Google Play ya debían identificarse mediante la Play Console. Sin embargo, quienes distribuían sus aplicaciones fuera de la tienda oficial no tenían que pasar por ese proceso . Con la nueva política, esos desarrolladores deberán registrarse también mediante una nueva plataforma llamada Android Developer Console, creada específicamente para gestionar este tipo de distribución. Esto no significa que Android vaya a eliminar la posibilidad de instalar aplicaciones externas en formato APK, una de las características históricas del sistema. No obstante, Google sí planea introducir nuevas fricciones para este tipo de instalación cuando la app no esté registrada por un desarrollador verificado . En esos casos, los usuarios deberán recurrir a métodos avanzados como el uso de ADB o a un nuevo flujo de instalación más complejo diseñado para usuarios avanzados. El despliegue de esta medida se realizará de forma gradual. Google ha indicado que las primeras restricciones para apps no registradas entrarán en vigor el 30 de septiembre de 2026 en Brasil, Indonesia, Singapur y Tailandia. Posteriormente, el re",
-      "link": "https://www.muycomputer.com/2026/04/02/android-sera-mas-seguro-y-cerrado/",
-      "pubDate": "Thu, 02 Apr 2026 12:34:19 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Android-2.jpg",
-      "subcat": "desarrollo"
-    },
-    {
       "id": "16f69242f885dffa34f5",
       "title": "Pinin Brambilla, la mujer que pasó más de 20 años restaurando \"La última cena\" y enmendó el \"gran error\" de Leonardo da Vinci",
       "summary": "La gran obra de Da Vinci comenzó a deteriorarse muy poco después de acabada. Muchos trataron de salvarla sin éxito hasta que llegó la talentosa restauradora Pinin Brambilla.",
@@ -259,56 +248,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c75c/live/42567c50-2e33-11f1-a51c-f5c41fb3ee77.jpg"
-    },
-    {
-      "id": "04108b965dd77d11e528",
-      "title": "Alavés 2-2 Osasuna | Resumen LaLiga",
-      "summary": "Alavés 2-2 Osasuna",
-      "link": "https://www.marca.com/futbol/primera-division/2026/04/05/alaves-2-2-osasuna-resumen-laliga-video.html",
-      "pubDate": "Sun, 05 Apr 2026 23:22:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2d2605bd42.jpeg"
-    },
-    {
-      "id": "992467b5450ac05d7afd",
-      "title": "Camavinga, más fuera que dentro",
-      "summary": "Camavinga, rodeado de contrarios ante el Mallorca.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/05/camavinga-fuera.html",
-      "pubDate": "Sun, 05 Apr 2026 23:21:00 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2935714f6e.jpeg"
-    },
-    {
-      "id": "d10fceccfa47f7354d47",
-      "title": "El Alavés siempre se levanta",
-      "summary": "Boyé ejecuta el penalti del empate a dos",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/04/05/alaves-siempre-levanta.html",
-      "pubDate": "Sun, 05 Apr 2026 23:08:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2cf4f242aa.jpeg"
-    },
-    {
-      "id": "74b35a266b83914d2d4a",
-      "title": "El Mirandés se sube al 'último tren' y deja muy tocado al Zaragoza",
-      "summary": "Con esta chilena de espaldas Unax del Cura puso el 1-1 en el Ibercaja Estadio",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/04/05/mirandes-sube-ultimo-tren-deja-tocado-zaragoza.html",
-      "pubDate": "Sun, 05 Apr 2026 22:57:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2c9d85305c.jpeg"
-    },
-    {
-      "id": "236550fe7a4ae93b9bbb",
-      "title": "La 'TuLa' y un 'misil' de Calhanoglu vuelven a poner en órbita al Inter",
-      "summary": "Lautaro celebra uno de sus goles contra la Roma",
-      "link": "https://www.marca.com/futbol/liga-italiana/cronica/2026/04/05/tula-misil-calhanoglu-vuelven-poner-orbita-inter.html",
-      "pubDate": "Sun, 05 Apr 2026 22:46:05 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2c957d504c.jpeg"
     },
     {
       "id": "3f44c4c0d2e3feaa5c38",
@@ -796,16 +735,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/03/rodaje-de-The-Batman-2.jpg"
     },
     {
-      "id": "ba2544eb95fddec5f52c",
-      "title": "Pósters de Maul – Shadow Lord revelan dos regresos de Star Wars",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Star Wars: Maul &#8211; Shadow Lord se estrena en Disney+ este lunes, y un conjunto completo de pósteres de personajes se ha filtrado recientemente en línea (suponemos que estos debían lanzarse semanalmente o al final de la temporada). Al menos dos de ellos arruinan algunas sorpresas masivas planeadas para la serie, encabezada por el nuevo presidente de Lucasfilm, Dave Filoni. Aunque la mayoría de los pósters, algunos eliminados en las redes sociales, presentan personajes que ya hemos visto en los tráileres y anuncios de televisión de la serie animada, hay dos que confirman los regresos de Darth Vader y Dryden Vos, el villano principal de Solo: A Star Wars Story . La cronología de Maul y el ascenso de Crimson Dawn La serie está ambientada entre los eventos de The Clone Wars y Solo , pero con la Temporada 2 ya oficialmente en camino, es probable que vaya más allá de esta última para preparar el terreno de dónde encontramos a Maul cuando apareció por primera vez en Star Wars Rebels . Mientras tanto, el enfoque principal estará en explorar cómo se convirtió en el líder del sindicato del crimen, Crimson Dawn . Si bien el papel de Vos como un señor del crimen rival era quizás de esperar, la presencia de Vader seguramente emocionará a los fans. Él y Maul nunca han luchado en pantalla, así que, ¿podríamos ver finalmente quién sale victorioso cuando el anterior aprendiz del Emperador Palpatine se enfrente al Lord Sith anteriormente conocido como el Caballero Jedi, Anakin Skywalker? Tendremos que esperar para verlo. Sabemos que la historia de Maul termina en Star Wars Rebels cuando se enfrenta a Obi-Wan Kenobi en un duelo final con sables de luz en Tatooine. Según la productora ejecutiva Athena Yvette Portillo en GamesRadar , incluso con ese final escrito en piedra, todavía hay muchas sorpresas sobre hacia dónde van las cosas cuando nos reencontramos con el villano en Star Wars: Maul &#8211; Shadow Lord . «Eso es ",
-      "link": "https://www.cinemascomics.com/posters-eliminados-maul-regresos-star-wars/",
-      "pubDate": "Sun, 05 Apr 2026 00:53:22 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-18.jpg"
-    },
-    {
       "id": "29cb41ad4d15919b176e",
       "title": "Los hombres alemanes de entre 17 y 45 años necesitarán un permiso para abandonar su país más de 3 meses",
       "summary": "Según la ley, las aprobaciones de viaje deberán otorgarse en varios escenarios y aún no está claro cómo se haría cumplir la norma en caso de incumplimiento.",
@@ -966,16 +895,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg"
     },
     {
-      "id": "4545293de4078496884d",
-      "title": "7 películas de ciencia ficción que te emocionarán y se alejan de la distopía",
-      "summary": "Ya lo debes saber: Proyecto Salvación se ha convertido en el primer gran éxito de taquilla del año . No solo sobrepasó las expectativas en su primer fin de semana de estreno, eso al romper el récord de Oppenheimer en recaudación para una película que no es secuela ni remake . Pero fue el siguiente, el que demostró que la cinta seguía siendo la favorita del público, al volver a ocupar el primer lugar en las preferencias en salas. También, seguir cosechando éxito de crítica y ser considerada desde ya un clásico del género. Pero el triunfo de la cinta solo demuestra una cosa. Hay un gran interés en un tipo de ficción especulativa más allá de la amenaza de desastres o del apocalipsis. De hecho, el libro de Andy Weir en que se basa la producción es el más reciente exponente de lo que se suele denominar hopepunk o solarpunk . Se trata de una respuesta vital al predominio de las distopías oscuras y los futuros apocalípticos en la cultura popular contemporánea. A diferencia del pesimismo tecnológico, esta vertiente propone que el ingenio humano, la cooperación colectiva y la ética pueden construir sociedades más justas y sostenibles. Temas todos que Proyecto Salvación toca de manera interesante y conmovedora. No se trata de una visión ingenua o carente de conflicto, sino de una narrativa donde la resolución de problemas no depende de la violencia. Un punto que hace de Proyecto Salvación una bocanada de aire fresco para la ciencia ficción. Y además, un giro que rescata una perspectiva en la que se establece que el futuro no es un lugar al que se teme, sino un proyecto en construcción donde la esperanza es una herramienta de resistencia política. Si te interesa esa óptica de las cosas, esta lista es para ti: dejamos 7 películas que te emocionarán y se alejan de la distopía. De la otra obra de Andy Weir que marcó huella hasta un clásico de Pixar. Una selección para los que imaginan un buen futuro para la humanidad. Marte (The Martian) (Disney+) En 2015, Ridley Scott convirtió ",
-      "link": "https://hipertextual.com/cine-television/7-peliculas-de-ciencia-ficcion-que-te-emocionaran-y-se-alejan-de-la-distopia/",
-      "pubDate": "Sat, 04 Apr 2026 09:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Ciencia-optimista.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "359cd5245086ee162af0",
       "title": "Cuba inicia la liberación de más de 2.000 presos anunciada por el gobierno en medio de las tensiones con EE.UU.",
       "summary": "Organizaciones de derechos humanos han confirmado algunas excarcelaciones, pero denuncian que los presos políticos quedan excluidos de la medida.",
@@ -994,17 +913,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/03/Bluetti-Elite200-V2-caja.jpg"
-    },
-    {
-      "id": "df780039a030bacf4fb6",
-      "title": "Cómo compartir tus cuadernos en NotebookLM para compartir tus contenidos y trabajar en grupo con ayuda de Gemini",
-      "summary": "NotebookLM es el resultado de mezclar la IA Gemini con la app Documentos . En palabras de Google, es “un asistente de investigación basado en IA” diseñado para “ayudarte a perfeccionar y organizar tus ideas ”. Si no lo has probado todavía, ya estás tardando. Es más. Puedes inspirarte con los cuadernos o documentos de otros usuarios. Y ver todo lo que es capaz de hacer esta herramienta. Una de sus virtudes es que puedes compartir cuadernos en NotebookLM para trabajar en equipo. O, simplemente, para que los demás vean tus presentaciones, informes o documentos generados con Gemini, la IA de Google. Con ayuda de NotebookLM puedes procesar documentos, archivos PDF, videos, sitios web, texto copiado o realizar búsquedas en Internet para extraer datos o información que, luego, Gemini procesará para aprender y responder a tus preguntas. Es como una versión mejorada de Gemini, si bien ambas herramientas tienen cosas en común. Pero lo mejor de todo es que, con las fuentes que le ha dado, puede generar nuevos contenidos como un resumen escrito, una presentación con diapositivas, un mapa de ideas, un resumen de video, una tabla de datos o infografías. Incluso puedes crear cuestionarios, exámenes de prueba y tarjetas de memoria para repasar lo aprendido. En definitiva, NotebookLM resulta una herramienta ideal para investigadores, curiosos y estudiantes. Y como sucede con herramientas como Documentos de Google , puedes compartir tus cuadernos , que es el nombre que recibe un proyecto donde se guardan los contenidos con el mismo tema. Además, también puedes compartir algunos de esos contenidos por separado , como una presentación, un cuestionario o un resumen. En modo solo lectura o con la opción de editar y crear más contenidos. Te explicamos cómo hacer todo esto y compartir cuadernos en NotebookLM , y mucho más, paso a paso. Compartir cuadernos en NotebookLM Cuando entras a NotebookLM, verás que hay cuadernos creados . Son cuadernos compartidos por otros usuarios, empresas, orga",
-      "link": "https://hipertextual.com/guias/compartir-cuadernos-en-notebooklm/",
-      "pubDate": "Sat, 04 Apr 2026 07:07:35 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/NotebookLM-Escritorio-Documentos-Archivos.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
     },
     {
       "id": "1f2ce7f6abcb1dab78cb",
@@ -1138,14 +1046,165 @@
       "image": "https://imagenes.elpais.com/resizer/v2/5MADOGXGSZGDLNKC7P6G3HVCPQ.JPG?auth=f2125e76153fac5af89aa8b9010303614c22568e2cf596a7feda582e23bf4528"
     },
     {
+      "id": "6b09854ab8eff423bb87",
+      "title": "István Kovács será el árbitro de la ida entre el Barcelona y el Atlético",
+      "summary": "István Kovács en un partido de Champions",
+      "link": "https://www.marca.com/futbol/champions-league/2026/04/06/istvan-kovacs-sera-arbitro-ida-barcelona-atletico.html",
+      "pubDate": "Mon, 06 Apr 2026 10:53:53 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d373a7afda3.jpeg"
+    },
+    {
+      "id": "25c1da0fd78c9ebce74b",
+      "title": "Las tres opciones de Flick para suplir a Bernal ante el Atlético de Madrid",
+      "summary": "Bernal y Flick.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/06/tres-opciones-flick-suplir-bernal-atletico-madrid.html",
+      "pubDate": "Mon, 06 Apr 2026 10:44:44 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d371a02f4b1.jpeg"
+    },
+    {
+      "id": "98f32712902e978c525e",
+      "title": "Wilder reta a Joshua tras vencer a Chisora: \"Hagámoslo\"",
+      "summary": "Deontay Wilder y Joshua",
+      "link": "https://www.marca.com/boxeo/2026/04/06/wilder-reta-joshua-vencer-chisora-hagamoslo.html",
+      "pubDate": "Mon, 06 Apr 2026 10:28:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d36b705c974.jpeg"
+    },
+    {
+      "id": "9de1f13dc6e5ed578d84",
+      "title": "Momento histórico: los astronautas del Artemis II llegan al punto más cercano de la luna",
+      "summary": "Artemis.",
+      "link": "https://www.marca.com/tiramillas/ciencia/2026/04/06/mision-artemis-ii-directo-astronautas-llegan-punto-cercano-luna-video.html",
+      "pubDate": "Mon, 06 Apr 2026 10:22:38 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d36d47ecab0.jpeg"
+    },
+    {
+      "id": "7ab33339292be6711443",
+      "title": "Del running de Zurich al patrocinio de Mutua en el Open de Madrid: así activan su marca las aseguradoras",
+      "summary": "Carlos Alcaraz en el Mutua Madrid Open",
+      "link": "https://www.marca.com/sport-business/2playbook/2026/04/06/running-zurich-patrocinio-mutua-open-madrid-asi-activan-marca-aseguradoras.html",
+      "pubDate": "Mon, 06 Apr 2026 10:16:54 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/04/16/67ffbf13a8b74.jpeg"
+    },
+    {
+      "id": "2a80ae53272d974e787b",
+      "title": "Amenaza espartana a Arbeloa",
+      "summary": "Fotomontaje de los jugadores del Bayern como espartanos",
+      "link": "https://www.marca.com/futbol/champions-league/2026/04/06/300-kompany-amenazan-arbeloa.html",
+      "pubDate": "Mon, 06 Apr 2026 10:02:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d2a2497dd44.jpeg"
+    },
+    {
+      "id": "edd0429c267cdf8c68df",
+      "title": "\"El arbitraje está herido de muerte\"",
+      "summary": "arbitraje",
+      "link": "https://www.marca.com/radio/2026/04/06/raul-varela-da-razon-atletico-madr-video.html",
+      "pubDate": "Mon, 06 Apr 2026 09:55:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d36b108cd07.jpeg"
+    },
+    {
+      "id": "404f4225004b376f0c22",
+      "title": "\"Es improbable que no funcione lo que Newey está haciendo\"",
+      "summary": "Newey, en la parrilla de una de las carreras.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/06/campeon-f1-esperanza-aston-martin-newey-moises-encontrara-solucion.html",
+      "pubDate": "Mon, 06 Apr 2026 09:47:56 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d35e90547d1.jpeg"
+    },
+    {
+      "id": "781f07a267f8b7584600",
+      "title": "Así fue la 'operación rescate' del piloto del caza F15 de EEUU derribado por Irán",
+      "summary": "Así es como fue el rescate del piloto de EEUU en tierras de Irán tras derribar su caza F15.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/06/asi-operacion-rescate-piloto-caza-f15-eeuu-derribado-iran-48-horas-tecnicas-evasion-escape.html",
+      "pubDate": "Mon, 06 Apr 2026 09:47:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d35cfc6d265.jpeg"
+    },
+    {
+      "id": "91d88727c0a4131cffcb",
+      "title": "Leyendas de la NBA abogan por que Doncic sí pueda optar al MVP",
+      "summary": "Doncic se lamenta tras lesionarse ante los Thunder.",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/06/leyendas-nba-abogan-doncic-pueda-optar-mvp.html",
+      "pubDate": "Mon, 06 Apr 2026 09:43:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d03e9a1eaf9.jpeg"
+    },
+    {
+      "id": "3ad6702f7c7a966c0111",
+      "title": "Mbappé se estanca",
+      "summary": "Premios MARCA.01.Jornada 30.Temporada 2025-26",
+      "link": "https://www.marca.com/futbol/premios-marca/2026/04/06/mbappe-estanca.html",
+      "pubDate": "Mon, 06 Apr 2026 09:20:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/3x2.jpg.jpeg"
+    },
+    {
       "id": "00a5b9c10fbba538673e",
-      "title": "Oscar, el futbolista que lo deja tras volver a la muerte: \"Dejé mi cuerpo\"",
+      "title": "Oscar, el futbolista que lo deja tras volver de la muerte: \"Podía ver a mi hijo diciéndome: '¡Vuelve, papá!'\"",
       "summary": "Oscar lo deja con más de 200 millones: \"Mi corazón dejó de latir dos minutos y dejé mi cuerpo\"",
       "link": "https://www.marca.com/futbol/premier-league/2026/04/06/oscar-futbolista-deja-200-millones-volver-muerte-deje-mi-cuerpo.html",
       "pubDate": "Mon, 06 Apr 2026 09:10:17 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d35c1088f55.jpeg"
+    },
+    {
+      "id": "375b81399611d073934c",
+      "title": "Amazon España aplicará un 1,5% de recargo a los vendedores que usen sus servicios logísticos",
+      "summary": "Hace unas semanas, cuando los tambores de guerra se convirtieron en realidad y comenzaron los ataques sobre Irán, ya te advertimos de que muy probablemente acabaría teniendo múltiples efectos en la cadena de suministro global y, claro, sobre los costes que experimentan los vendedores online. Los primeros en repercutir los costes derivados de la nueva situación fueron las grandes empresas navieras, que aplicaron recargos por el riesgo generado en las rutas cercanas al área de conflicto. Después, fueron las asociaciones logísticas las que comenzaron a hacer patente el sobrecoste al que se tenían que enfrentar a causa del alza de los precios del combustible. Desde entonces, la situación ha ido a peor, y en medio de la incertidumbre generada, el gran dominador de nuestro eCommerce ha movido ficha para aplicar una llamativa subida de costes a los vendedores que utilizan su servicio logístico. En un comunicado publicado en su Seller Central , Amazon ha explicado que desde el próximo 17 de abril aplicará un sobrecoste del 1,5% a las tarifas de gestión logística en diez de sus mercados europeos, España entre ellos. Así, los vendedores que utilicen el servicio FBA en España, Reino Unido, Francia, Alemania, Italia, Polonia, Suecia, Países Bajos, Irlanda y Bélgica se enfrentarán a este &#8220;recargo por combustible y gastos de logística&#8221; (así lo ha denominado la compañía). Recordemos que Amazon FBA (Fulfillment by Amazon) es un servicio logístico que permite a los vendedores delegar la operativa de sus pedidos en Amazon. El vendedor envía su inventario a los centros logísticos de la compañía, donde Amazon se encarga del almacenamiento, embalaje, envío rápido (Prime), servicio al cliente y gestión de devoluciones. Esto permite a las empresas aprovechar la infraestructura global de Amazon. Este nuevo coste se calculará sobre las tarifas de gestión logística , no sobre el precio en oferta de los productos. Tal y como ha explicado Amazon, de media esto equivaldrá a unos 0,0",
+      "link": "https://marketing4ecommerce.net/amazon-espana-recargo-coste-logistica-fba/",
+      "pubDate": "Mon, 06 Apr 2026 09:02:32 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/tarifas-amazon-logistica-1-1024x614.jpg",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "18c9f0b26e3e5ed0673a",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán advierte de que no reabrirá el estrecho de Ormuz a cambio de una tregua temporal",
+      "summary": "Una columna de humo se levanta tras un ataque aéreo en Teherán, este lunes.",
+      "link": "https://elpais.com/internacional/2026-04-06/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Mon, 06 Apr 2026 08:57:23 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/6DSIDZH62BE5DM3TB4T4FCM2BE.jpg?auth=3f1d024faa979ca4c0d16bc1fbad2c6101472be2aaf15108fb9c5a0d8e70b082"
+    },
+    {
+      "id": "e7dc094fb108d72b8190",
+      "title": "CGRI confirma la muerte de su jefe de Inteligencia en ataque de EE.UU. e Israel",
+      "summary": "\"Este alto comandante, a lo largo de casi medio siglo de defensa sincera y valiente de la revolución, el sistema y la patria islámica, dejó una huella enorme, duradera y ejemplar\", informa el organismo.",
+      "link": "https://actualidad.rt.com/actualidad/597419-cgri-jefe-inteligencia-ataque-eeuu-israel?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:55:12 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d369a9e9ff713cfa15f0e5.jpg"
+    },
+    {
+      "id": "2aaf73d135dad5b44484",
+      "title": "Irán ataca objetivos estadounidenses en Kuwait",
+      "summary": "Según los informes, el centro bombardeado albergaba sistemas de misiles HIMARS y unidades de comunicación y vigilancia por satélite.",
+      "link": "https://actualidad.rt.com/actualidad/597424-iran-ataca-objetivos-estadounidenses-kuwait?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:51:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d3757ee9ff714f0a1ddd54.jpg"
     },
     {
       "id": "347bef57f15cbf7719d3",
@@ -1158,6 +1217,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d18f9dc44f4.jpeg"
     },
     {
+      "id": "4151055315ac831e2baf",
+      "title": "Irán ejecuta a un hombre que intentó asaltar una instalación militar",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597417-reportar-iran-ejecutar-hombre-asaltar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:46:35 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
       "id": "ecee65a13e26b1add7fe",
       "title": "Los Rockets chafan el regreso de Curry tras perderse 27 partidos",
       "summary": "Stephen Curry hace una entrada a canasta en el partido ante los Rockets.",
@@ -1168,6 +1237,36 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d34f2b56ce9.jpeg"
     },
     {
+      "id": "6b843f3d190acf340a14",
+      "title": "La última imagen de la Tierra captada por la nave Orion antes de acercarse al máximo a la Luna",
+      "summary": "La NASA ha compartido este domingo la última imagen de la Tierra captada desde la nave espacial Orion durante la misión lunar Artemis II, antes de que los cuatro astronautas alcancen su punto más cercano a la Luna el 6 de abril. En la fotografía, tomada durante el cuarto de los diez días de misión, se puede observar solo una pequeña parte iluminada de nuestro planeta, como si fuera una luna en cuarto creciente.",
+      "link": "https://actualidad.rt.com/actualidad/597415-ultima-imagen-tierra-bordo-orion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:45:00 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d36405e9ff712c7259d3c6.jpg"
+    },
+    {
+      "id": "02ae461a77657b229721",
+      "title": "La española Sara Okeke le enseña el camino a Aday Mara",
+      "summary": "Okeke",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/06/espanola-sara-okeke-le-ensena-camino-aday-mara-campeona-nacional-partidaz-video.html",
+      "pubDate": "Mon, 06 Apr 2026 08:42:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d36a22e10a1.jpeg"
+    },
+    {
+      "id": "4a66bdbf8b5b13b0c428",
+      "title": "Medicamentos más baratos y facturas de energía controladas: las nuevas leyes que Spanberger firmó en Virginia",
+      "summary": "La gobernadora de Virginia, Abigail Spanberger , anunció la firma de un paquete de leyes que busca abordar las principales problemáticas de asequibilidad de la jurisdicción . Entre estas medidas, resalta la implementación de algunas disposiciones que restringen el costo de los medicamentos . La ley SB 669 de Virginia firmada por Spanberger que restringe el costo de los medicamentos En el desarrollo de la sesión regular 2026 de Virginia , la gobernadora promulgó una serie de medidas que impactan a los administradores de beneficios de farmacia (PBM) y aseguradoras de salud . En concreto, la ley SB 669 regula a intermediarios que influyen en los precios de los medicamentos y contempla: Exige que todas las aseguradoras de salud utilicen el modelo de precios de transferencia ( “pass-through” ). Restringe que los PBM obtengan ingresos de los servicios prestados a una aseguradora de salud, excepto por los montos derivados de una tarifa de gestión de beneficios de farmacia. Prohíbe explícitamente que los administradores de beneficios reviertan o vuelvan a presentar reclamos de farmacéuticos sin cumplir requisitos específicos. Impide a los PBM reducir pagos a farmacias a una tasa de reembolso efectiva y denegar o disminuir reclamos de forma retroactiva , salvo en circunstancias muy limitadas. Las leyes de Spanberger en Virginia que impactan en el costo de medicamentos y salud Junto con la SB 669, la gobernadora firmó otras medidas que impactan directamente en la forma en que se regula el costo de medicamentos y los pagos por atención médica en Virginia : SB405 : aumenta el acceso a atención médica de calidad y asequible mediante la inversión y el desarrollo del personal sanitario de Virginia. HB220 y SB630 : prohíben a las aseguradoras de salud variar las tarifas de sus primas en base al uso de tabaco. Anteriormente, podían cobrar tarifas hasta 1,5 veces más altas que a los no fumadores. HB60 : protege el acceso de los virginianos a la atención médica preventiva esencial. Im",
+      "link": "https://www.lanacion.com.ar/estados-unidos/virginia/medicamentos-mas-baratos-y-facturas-de-energia-controladas-las-nuevas-leyes-que-spanberger-firmo-en-nid06042026/",
+      "pubDate": "Mon, 06 Apr 2026 08:40:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/BBQFRIKX5RGS5JKYFF3AWOVXW4.jpg?auth=e71247237951a8a4406b55771b535d6274ed78359949ae124fdebd60a06fcb02&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "0dcd66c8c5513b92249f",
       "title": "Ferrero: \"No encontré el motivo para volver\"",
       "summary": "Ferrero posa para Pedro del Hierro.",
@@ -1175,7 +1274,57 @@
       "pubDate": "Mon, 06 Apr 2026 08:37:18 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d34f17e6a13.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/06/69d34f17e6a13.r_d.745-794-0.jpeg"
+    },
+    {
+      "id": "d53f3a571d8731b41bc9",
+      "title": "El dato clave sobre misiles de Irán que Israel no puede confirmar",
+      "summary": "Fuentes militares reconocen a medios israelíes que no tienen una cifra certera tras dar reportes contradictorios.",
+      "link": "https://actualidad.rt.com/actualidad/597408-dato-clave-misiles-iran-israel?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:34:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d35c2b59bf5b2711232e87.jpg"
+    },
+    {
+      "id": "f13643bd0269caa13725",
+      "title": "‘Radares invisibles’: los protagonistas de la Semana Santa que podrían darte un susto en forma de carta de la DGT",
+      "summary": "Más de un conductor va a recibir un recordatorio de sus vacaciones de Semana Santa , y no del hotel donde se alojó o el restaurante donde comió. Más bien en forma de carta con un sello de la DGT estampado en una esquina. Según datos de la propia Dirección General de Tráfico , durante los últimos días se ha desplegado una operativa gigantesca de sistemas de control de velocidad , siendo muchos de estos los temidos radares invisibles. Y, si bien la DGT suele declarar que el uso de estas herramientas tiene el objetivo de disuadir a los conductores más rápidos, lo cierto es que el uso de radares invisibles suele ser más efectivo para recibir multas por sorpresa que para reducir la velocidad en la vía donde están situados. ¿Son totalmente invisibles? No, ni mucho menos. Ahora bien, su tamaño y la forma de colocarlos suele estar pensada para que el conductor no los detecte , ni siquiera cuando está pasando cerca de alguno. Además, no hay un modelo concreto: dentro del paquete de radares invisibles entra en juego el que se coloca detrás del guardarraíl, en pequeños trípodes, en drones que sobrevuelan las carreteras e, incluso, en los helicópteros Pegasus. Todos aquellos con el objetivo de no ser detectados para echar el freno antes de pasar por ellos , se consideran radares invisibles. Y, aunque no suelen ser un problema en el día a día, durante fechas clave como la Semana Santa se convierten en los protagonistas. ¿Dónde se han desplegado los radares invisibles? Lamentablemente, son detalles que la DGT no ofrece con precisión . Y tampoco conocemos el número de unidades desplegadas en la península, pero sí que probablemente haya sido el momento del año 2026 con más controles de este tipo en las principales carreteras españolas. Si no me han parado, ¿no me llega la multa? Bueno, una particularidad de estos radares, es que la Guardia Civil no suele montar controles para detener los vehículos implicados y sancionarlos: al tratarse de modelos de radar invisible avanzados, cuent",
+      "link": "https://hipertextual.com/movilidad/radares-invisibles-los-protagonistas-de-la-semana-santa-que-podrian-darte-un-susto-en-forma-de-carta-de-la-dgt/",
+      "pubDate": "Mon, 06 Apr 2026 08:33:08 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/radar-invisible-dgt.jpg?fit=1024%2C648&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "dd6dc2bb10dc97c94cba",
+      "title": "La nueva ley de la mili en Alemania obliga a los hombres de entre 17 y 45 años a pedir permiso para salir del país más de tres meses",
+      "summary": "Desfile militar en la ciudad alemana de Mainz, el pasado 19 de noviembre.",
+      "link": "https://elpais.com/internacional/2026-04-06/la-nueva-ley-de-la-mili-en-alemania-obliga-a-los-hombres-de-entre-17-y-45-anos-a-pedir-permiso-para-salir-del-pais-mas-de-tres-meses.html",
+      "pubDate": "Mon, 06 Apr 2026 08:32:24 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/YBOGUEQEYVCLZGDQUMXOUAK42A.jpg?auth=3dfda6b3a0db50874d70225d793d0eda89df56c7b9057a52f8a054e61a9487aa"
+    },
+    {
+      "id": "2e2c017a967df8b19788",
+      "title": "Irán promete una represalia \"más contundente y amplia\" si se repiten ataques contra objetivos civiles",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597423-iran-promete-represalia-contundente-amplia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:32:03 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "acf217037a6d7328f30c",
+      "title": "¿Habrá fin de semana largo en mayo de 2026?: cuándo es feriado",
+      "summary": "El quinto mes del año tendrá dos feriados, ideales para cortar la rutina, descansar o planificar una escapada.",
+      "link": "https://www.clarin.com/informacion-general/fin-semana-largo-mayo-2026-feriado_0_Cw1wfB8AxZ.html",
+      "pubDate": "Mon, 06 Apr 2026 08:30:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/03/hXx3a9a92_1200x630__1.jpg"
     },
     {
       "id": "7536cfccaaf3c30bfdc3",
@@ -1208,6 +1357,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d3508f971e6.jpeg"
     },
     {
+      "id": "02557ce802614c0883f3",
+      "title": "VIDEO: Miles de abejas obligan a retrasar el despegue de un avión",
+      "summary": "En el Aeropuerto Internacional Charlotte Douglas, en Carolina del Norte, un pasajero captó una escena tan insólita como hipnótica: antes de despegar, un empleado del aeropuerto tuvo que retirar un enjambre de abejas que había elegido una turbina para instalar su colmena. En el video, un trabajador retira con calma racimos de abejas y los deposita cuidadosamente en un panel, mientras el zumbido envuelve la pista.",
+      "link": "https://actualidad.rt.com/viral/597411-video-abejas-frenar-despegue-avion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:19:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d35f67e9ff712c58486aab.jpg"
+    },
+    {
       "id": "5c3e9070080272ff979e",
       "title": "Ni alienígenas ni bases secretas: esto es lo que esconde realmente la cara oculta de la Luna",
       "summary": "Cráter en la cara oculta de la Luna",
@@ -1216,6 +1375,36 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d34ffed60a9.jpeg"
+    },
+    {
+      "id": "7706b5537cd8baccb72c",
+      "title": "La semana comienza con cielos despejados en buena parte del país, pero se prevé la llegada de una nueva borrasca al final del día",
+      "summary": "Ambiente en las playas de la ciudad de Barcelona durante los días festivos de Semana Santa.",
+      "link": "https://elpais.com/el-tiempo/2026-04-06/la-semana-comienza-con-cielos-despejados-en-buena-parte-del-pais-pero-se-preve-la-llegada-de-una-nueva-borrasca-al-final-del-dia.html",
+      "pubDate": "Mon, 06 Apr 2026 08:16:56 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/24YS7W4DG5F6RNAALVGDZ7CTSA.JPG?auth=401ce2f508e87c063cc0b2bad582dc9036bdbe1a329ab93b25d3f678a411b719"
+    },
+    {
+      "id": "585c8559bf9eaba5cc24",
+      "title": "Estiman el costo de la operación de rescate del segundo tripulante del F-15 estadounidense derribado",
+      "summary": "\"El drama de 48 horas es un recordatorio de que un Irán no derrotado es capaz de responder y de imponer pérdidas a EE.UU.\", observó The Guardian.",
+      "link": "https://actualidad.rt.com/actualidad/597405-costar-evacuacion-segundo-tripulante-f15-derribado?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 08:16:39 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d35bb659bf5b48f6378e75.jpg"
+    },
+    {
+      "id": "d299666cdbeb4529cec5",
+      "title": "El juicio del ‘caso Kitchen’, en directo | La Audiencia Nacional acoge desde este lunes la vista contra el exministro Jorge Fernández Díaz",
+      "summary": "El exministro del Interior con el PP Jorge Fernández Díaz (a la izquierda) y su número dos, Francisco Martínez (s), ex secretario de Estado de Seguridad, sentados en el banquillo de la Audiencia Nacional.",
+      "link": "https://elpais.com/espana/2026-04-06/el-juicio-del-caso-kitchen-en-directo-la-audiencia-nacional-acoge-desde-este-lunes-la-vista-contra-el-exministro-jorge-fernandez-diaz.html",
+      "pubDate": "Mon, 06 Apr 2026 08:15:55 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/OF62HLYDU5AULGO3GWMBLATCAY.jpg?auth=58830a4b9bd2a43e2c244fc703a62c85947e6ae414d6af2f5ac0bec7a903ea95"
     },
     {
       "id": "a35500b35799b018da25",
@@ -1238,6 +1427,76 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d34d5eae990.jpeg"
     },
     {
+      "id": "659ca53640fefdb32ce2",
+      "title": "La DGT tiene una nueva señal de tráfico. Hasta 200 euros de multa si la incumples",
+      "summary": "La DGT sigue actualizando las normas de circulación e incluso actualiza las señales de tráfico, bien añadiendo nuevos significados y normas a las presentes o directamente, creando nuevas señales. Precisamente, la DGT ha publicado una nueva señal de tráfico que, si desconoces su significado y no cumples con su orden, t e pueden caer hasta 200 euros de sanción, aunque sin puntos. La nueva señal del rombo blanco sobre fondo azu l ya está implementada en muchas carreteras españolas. De hecho, muchos conductores se han dado con ella en la operación salida de Semana Santa sin saber muy bien su significado y qué implica. Y ojo, porque la nueva señal de tráfico está en las carreteras tanto en formato vertical típico de señal como en el propio asfalto dibujado. Quédate con este signo: un rombo blanco, es todo lo que necesitas saber. Su significado es muy sencillo, pero complicado de adivinar por la simple simbología de la señal: esta nueva señal es la que identifica la existencia de un carril para vehículos de alta ocupación, o entre otras palabras, un carril VAO . La nueva señal de tráfico la DGT Los carriles VAO son de uso exclusivo para vehículos que estén ocupados por dos o más personas, además de ser vía de preferencia para otros usuarios especiale s, como por ejemplo, los taxis, las motos o los autobuses, los vehículos de emergencia y aquellos con etiquetas de cero emisiones, aunque en ese último caso depende de si la vía lo permite, y generalmente está indicado de alguna forma antes de la incorporación a dicho carril. Respecto a los vehículos que tienen siempre prohibido su acceso, se encuentran los turismos con remolque, independientemente del número de ocupantes, los ciclomotores, las bicicletas y todo tipo de vehículos de tracción animal. Pero ojo, que la nueva señal también puede incluir un número que aparece junto al rombo y que marca el mínimo de ocupantes que debe llevar el vehículo para poder circular por ese carril. Es decir, que aunque se trate de un VAO, pu",
+      "link": "https://hipertextual.com/movilidad/dgt-tiene-una-nueva-senal-de-trafico/",
+      "pubDate": "Mon, 06 Apr 2026 08:11:49 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/road-traffic-highway-driving-business-tourism-1395807-pxhere.com_-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "b263071e41ab958cdbc2",
+      "title": "Galileo Galilei, astrónomo: \"No podemos enseñar nada a la gente, solo podemos ayudarlos a descubrirlo dentro de sí mismos\"",
+      "summary": "Una frase que condensa una de las lecciones del célebre astrónomo.",
+      "link": "https://www.clarin.com/estados-unidos/galileo-galilei-astronomo-podemos-ensenar-gente-solo-podemos-ayudarlos-descubrirlo-dentro-mismos_0_8227rw7lhb.html",
+      "pubDate": "Mon, 06 Apr 2026 08:02:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/03/KW11dB8c6_1200x630__1.jpg"
+    },
+    {
+      "id": "ff40b331875510a15e70",
+      "title": "5 frases que los padres deberían evitar decirles a sus hijos",
+      "summary": "Por qué algunos comentarios cotidianos pueden impactar negativamente en la identidad de los chicos. Qué expresiones conviene evitar en la crianza y cómo reparar el error.",
+      "link": "https://www.clarin.com/familias/5-frases-padres-deberian-evitar-decirles-hijos_0_lIGCiqzNSu.html",
+      "pubDate": "Mon, 06 Apr 2026 08:02:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/20/PgdL3_al8_1200x630__1.jpg"
+    },
+    {
+      "id": "bed2adc006aa204e185e",
+      "title": "Cardiofuerza: una rutina de cinco ejercicios \"dos en uno\"",
+      "summary": "Debemos entrenar los músculos, pero sin dejar de lado el trabajo aeróbico. La entrenadora Marimi García propone integrar ambos tipos de ejercicios.",
+      "link": "https://www.clarin.com/buena-vida/cardiofuerza-rutina-ejercicios_0_tP55jva8zZ.html",
+      "pubDate": "Mon, 06 Apr 2026 08:02:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/01/jMJ17-F8J_1200x630__1.jpg"
+    },
+    {
+      "id": "627f34c767a861263ffa",
+      "title": "Federica Hansen, psiquiatra y sexóloga, sobre la neuroplasticidad erótica: “Sin disponibilidad mental, la novedad no excita”",
+      "summary": "La médica asegura que uno de los malentendidos más frecuentes es creer que el deseo sexual se puede activar por voluntad, insistencia o estímulo externo. Cómo puede modelarse y reaprenderse. Y dice que, para reactivar el deseo, primero “hay que apagar los incendios” y ver qué es lo que lo inhibe (en lugar de qué lo puede activar).",
+      "link": "https://www.clarin.com/relaciones/federica-hansen-psiquiatra-sexologa-neuroplasticidad-erotica-disponibilidad-mental-novedad-excita_0_GSnRBBAE59.html",
+      "pubDate": "Mon, 06 Apr 2026 08:02:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/31/DzO9DSBTC_1200x630__1.jpg"
+    },
+    {
+      "id": "414f9224d601fc1320b0",
+      "title": "El único ejercicio que puede ayudar a mantener joven y sano nuestro cerebro",
+      "summary": "Además de educar la postura, fortalecer los músculos, mejorar la salud cardiovascular y reducir el dolor crónico, este hábito ayuda a reorganizarse mentalmente y crear nuevas conexiones neuronales.",
+      "link": "https://www.clarin.com/internacional/unico-ejercicio-puede-ayudar-mantener-joven-sano-cerebro_0_5d6LebBXNp.html",
+      "pubDate": "Mon, 06 Apr 2026 08:02:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/30/1Av4AsFtK_1200x630__1.jpg"
+    },
+    {
+      "id": "0e18c7e0cc1db12a54be",
+      "title": "Luke Cage e Iron Fist encajan en Daredevil: Born Again 3 por una razón clave",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Luke Cage, Iron Fist y Jessica Jones juntos otra vez no era precisamente lo que muchos esperaban ver tan pronto en el Universo Marvel de Disney+ , pero aquí estamos. Las nuevas imágenes del rodaje, que puedes ver en este enlace, de Daredevil: Born Again han disparado todas las alarmas y, esta vez, no parece tratarse de un simple guiño para nostálgicos de Netflix. Lo interesante no es solo que los viejos Defenders estén de vuelta. Lo verdaderamente importante es por qué vuelven ahora . Y todo apunta a que Marvel ya ha encontrado una razón bastante potente para reunirlos otra vez en Nueva York. Porque si Daredevil: Born Again quiere dar un paso más en su ambición callejera, recuperar a Luke Cage e Iron Fist no es solo una idea atractiva. Es una jugada que empieza a tener todo el sentido del mundo. La ausencia de Matt Murdock cambia por completo el tablero de Daredevil: Born Again Durante los últimos días, varias fotos del set de la tercera temporada de Daredevil: Born Again en Nueva York han confirmado algo que llevaba tiempo sonando con fuerza: Mike Colter y Finn Jones regresan como Luke Cage e Iron Fist. Y no llegan solos, porque Krysten Ritter también ha sido vista como Jessica Jones. Eso, de entrada, ya es una noticia potente para cualquiera que siguiera la etapa de Marvel Television en Netflix. Pero aquí viene lo realmente interesante: el regreso de este trío no parece estar planteado como un simple cameo ni como un homenaje puntual. Todo indica que van a tener un papel mucho más relevante dentro de la historia. La clave estaría en que el inicio de la temporada 3 de Daredevil: Born Again pondría el foco en ellos como protectores de Nueva York mientras Matt Murdock no está presente. Y claro, ahí es donde la cosa se pone seria. Porque una ciudad como esa no se queda quieta si Daredevil desaparece del mapa. Marvel parece estar construyendo una situación en la que alguien tiene que ocupar ese vacío. Y si e",
+      "link": "https://www.cinemascomics.com/cage-iron-fist-encajan-daredevil-born-again/",
+      "pubDate": "Mon, 06 Apr 2026 08:01:22 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/defenders-marvel-mcu.jpg"
+    },
+    {
       "id": "9b4161bd8a86f1d45a25",
       "title": "Cooper Flagg sigue increíble",
       "summary": "Cooper Flagg y LeBron James luchan por la posición.",
@@ -1248,14 +1507,54 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d3471d0f371.jpeg"
     },
     {
-      "id": "0350adfec87698c0be75",
-      "title": "\"Somos el equipo español con más puntos hasta ahora”",
-      "summary": "Eric Fagúndez completó una destacadísima actuación desde la fuga. Foto: Dion Kerckhoffs / Sprint Cycling Agency",
-      "link": "https://www.marca.com/ciclismo/2026/04/06/eric-fagundez-uruguayo-brecha-flandes-equipo-espanol-puntos.html",
-      "pubDate": "Mon, 06 Apr 2026 07:59:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d34af85d335.jpeg"
+      "id": "ccac1de220e5a2a638d3",
+      "title": "El MEMOpocalipsis no acaba: Samsung sube los precios de sus memorias otro 30%",
+      "summary": "Los &#8216;brotes verdes&#8217; registrados a final de marzo, con ligeras bajadas de precio de la RAM, eran solo un espejismo de la terrible realidad: el MEMOpocalipsis no ha terminado y aún peor, los precios de las memorias informáticas, de los componentes que las usan y de los equipos que montan éstos, van a seguir subiendo de precio dejando al mercado electrónico en la peor situación del siglo. Y todo gracias a la insaciable IA y la ambición por su control. Si sumamos la incidencia de la guerra contra Irán, con subida del transporte y el problema del helio (clave en fabricación de semiconductores) tenemos un cóctel difícil de digerir y no solo para los usuarios, también para empresas que necesitan equipamiento, y minoristas y fabricantes que temen un descenso de ventas espectacular. Desde Corea llegan noticias que inciden en el problema. ETNews , fuente fiable del canal de producción, Samsung ha aumentado precios de las memorias DRAM un 30% en este segundo trimestre que acaba de comenzar. Este aumento de precio se une al 100% de incremento implementado al comenzar 2026 y abarca a todas sus soluciones, la memoria de alto ancho de banda (HBM) para IA, así como la DRAM estándar para servidores, PCs o teléfonos inteligentes. Las cifras son evidentes: Si una unidad de DRAM de Samsung costaba 10.000 wones coreanos a principios de 2025, habría costado 20.000 wones en el primer trimestre de 2026 y ahora se vendería al por menor por 26.000 wones. ¡Casi nada! Además, ahora que Samsung parece haber implementado estas subidas de precios, se espera que otros grandes productores como SK hynix y Micron sigan su ejemplo con precios inflacionarios para sus propios productos DRAM, lo que desmentiría la tesis actual de un desplome en los precios de la memoria DRAM básica. De momento, no lo vemos. El movimiento de Samsung no ayudará. La firma surcoreana es el principal vendedor mundial de unidades de estado sólido (SSD) y aunque tiene menos oferta de RAM a nivel minorista, es uno de",
+      "link": "https://www.muycomputer.com/2026/04/06/el-memopocalipsis-no-acaba-samsung-sube-los-precios-de-sus-memorias-otro-30/",
+      "pubDate": "Mon, 06 Apr 2026 07:54:10 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/MEMOpocalipsis_2.jpg"
+    },
+    {
+      "id": "03502414fa3c968f0239",
+      "title": "Reuters: Irán y EE.UU. reciben plan para un alto el fuego inmediato",
+      "summary": "La propuesta, elaborada por Pakistán, contempla dos etapas: un alto el fuego inmediato, seguido de un acuerdo integral.",
+      "link": "https://actualidad.rt.com/actualidad/597414-reuters-iran-eeuu-reciben-plan-alto-fuego-inmediato?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 07:35:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d36361e9ff712d2342645d.jpg"
+    },
+    {
+      "id": "8d9f952a1497cb04831c",
+      "title": "Milei recibe a Kast, en su primer viaje oficial como presidente de Chile, y reúne al gabinete en la Casa Rosada",
+      "summary": "Este lunes por la mañana, el presidente Javier Milei recibirá a su par de Chile, José Antonio Kast , en el marco de su primer viaje oficial desde que asumió el poder en marzo de este año, con una agenda bilateral centrada en la coordinación en áreas estratégicas como la energía, la minería y la seguridad. Al mediodía, se prevé una reunión en la Casa Rosada del jefe de Estado con todo el gabinete de ministros con la presencia confirmada de Manuel Adorni , días antes de que se trate la ley de glaciares en el Congreso. El presidente chileno llegó al país este domingo a las 22 a bordo de un avión de la Fuerza Aérea de Chile. Fue recibido con honores por el Regimiento de Granaderos a Caballo y por el secretario de Relaciones Exteriores, Fernando Brun . A partir de las 9, será recibido por Milei en la sede del Poder Ejecutivo, luego de encabezar un desayuno en la embajada chilena y realizar una ofrenda al general José de San Martín . La visita de Kast se enmarca en una tradición diplomática de los mandatarios chilenos, que suelen elegir a la Argentina como primer destino internacional, y tiene por objetivo “impulsar iniciativas compartidas vinculadas a la explotación de recursos naturales, el desarrollo energético y la mejora de los pasos fronterizos”, según indicó el canciller chileno Francisco Pérez Mackenna . Pese a que es la primera visita oficial de Kast como presidente, el mandatario chileno había viajado a la Argentina en diciembre , cuando se reunieron antes de su asunción y compartieron una imagen con una motosierra , símbolo de la política de ajuste fiscal promovida por el Presidente argentino, que comparte con su par de Chile. La Argentina y Chile comparten una frontera de más de 5300 kilómetros y sostienen un intercambio comercial significativo. En 2025, el comercio bilateral alcanzó aproximadamente los US$7983 millones , lo que ubica a la Argentina como uno de los principales socios comerciales de Chile en América Latina. Además, el vínculo entre Milei y Kast",
+      "link": "https://www.lanacion.com.ar/politica/milei-recibe-a-kast-en-su-primer-viaje-oficial-como-presidente-de-chile-y-reune-al-gabinete-en-la-nid06042026/",
+      "pubDate": "Mon, 06 Apr 2026 07:34:10 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/ARB7XFQSE5AXDAW6Z6RMXXI76A.JPG?auth=99528b201088f268d4075f24db705bb5391940c83dc6c2803e5926e525fdd7fa&smart=true&width=3000&height=2000"
+    },
+    {
+      "id": "ff0739b40d7d50bbfe9a",
+      "title": "Cosmo5 Iberia lanza Shopping Suite para mejorar la eficiencia de las campañas de catálogo",
+      "summary": "Cosmo5 Iberia ha presentado Shopping Suite , un stack tecnológico propio con el que busca optimizar de forma integral la gestión y el rendimiento de las campañas basadas en catálogo de productos . La consultora enmarca este lanzamiento dentro de su posicionamiento “Future-First” , con una propuesta que conecta Media, Commerce, Creatividad, Data y Tecnología en un mismo ecosistema. La compañía sitúa esta novedad en un contexto en el que el Commerce está cada vez más condicionado por la automatización masiva de las plataformas . En ese escenario, la nueva suite se plantea como una forma de devolver a las marcas un mayor control estratégico sobre elementos clave como los datos , los precios y la creatividad asociada a sus campañas. Según explica Cosmo5 Iberia, el objetivo es mejorar la eficiencia operativa y la rentabilidad en entornos donde el catálogo de producto se ha convertido en el principal motor de activación. Uno de los datos más destacados del lanzamiento es que Shopping Suite permite reducir una media del 15% el CPC gracias a la combinación de automatización avanzada y un CSS propio , una palanca relevante para marcas y retailers que buscan mejorar el rendimiento de sus campañas de Google Shopping sin perder visibilidad ni capacidad de decisión. Un ecosistema de seis soluciones para campañas de Shopping Cosmo5 explica que el ecosistema actual de Shopping Ads ha evolucionado hacia entornos dominados por algoritmos predictivos , lo que exige un mayor nivel de precisión técnica . Para responder a ese cambio, Shopping Suite integra seis soluciones en un único marco operativo, cada una orientada a cubrir una parte del proceso de optimización. Dentro de las herramientas centradas en la maximización presupuestaria aparece Feed Price , el CSS diseñado por Cosmo5 , que según la consultora genera una eficiencia media del 15% en los costes de subasta en Google Shopping al eliminar comisiones intermediarias . A esto se suma SmartBrand , una herramienta enfocada en el eq",
+      "link": "https://marketing4ecommerce.net/cosmo5-iberia-lanza-shopping-suite/",
+      "pubDate": "Mon, 06 Apr 2026 07:26:05 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "tech",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/cosmo5-shoppingsuite-1024x614.jpg"
+    },
+    {
+      "id": "446a808a1d2d0ef355e1",
+      "title": "Las exigencias de los bancos y las escribanías cuando el comprador del departamento es un monotributista",
+      "summary": "A la hora de pensar en comprar una propiedad , tener el dinero no siempre alcanza , sino que hay que poder contar de dónde proviene ese capital y que esa historia cierre. En un país con cerca de tres millones de trabajadores que se encuentran dentro del régimen de monotributo, entender cómo demostrar ingresos se vuelve clave al momento de dar el salto hacia la vivienda propia . El monotributo es simple hasta que se piensa en comprar una casa . Ahí, los bajos topes del régimen chocan con la realidad del mercado inmobiliario, transformando esa simplicidad inicial en un problema de papeles . Es dueño de una isla desierta de Seychelles, la quiere vender, pero rechazó una oferta de U$S50 millones Para poner en contexto, tras la reacomodación en el mercado inmobiliario en 2024 y 2025 , luego de una fuerte caída pospandemia, los precios de los departamentos en la ciudad de Buenos Aires se encuentran en un punto de inflexión: están a la espera de lo que pasará en 2026, ya que desde octubre de 2025 que el sector se encuentra con valores estables. En enero de 2026, el precio medio del metro cuadrado en CABA se ubicó en US$2450 , sin cambios significativos en el mes. Un monoambiente promedio ronda los US$108.000 ; un dos ambientes, los US$129.000 ; y un tres ambientes de 70 m² alcanza los US$178.000 , de acuerdo con datos de Zonaprop. Justificar ingresos o justificar fondos El mercado está estable, pero en términos de ingresos declarados la ecuación es otra . El valor del metro cuadrado puede no moverse, pero la brecha entre lo que factura un monotributista promedio y lo que cuesta un tres ambientes sigue siendo amplia. Un tres ambientes en CABA puede equivaler a varios años completos de facturación declarada de un monotributista medio. Y cuando el monto de la operación supera los ingresos anuales informados, la pregunta deja de ser si se puede pagar. La pregunta es cómo se justifica . Justificar fondos no significa explicar cada peso ganado a lo largo de la vida . Significa d",
+      "link": "https://www.lanacion.com.ar/propiedades/inversiones/monotributista-como-demostrar-ingresos-para-comprar-un-3-ambientes-nid27022026/",
+      "pubDate": "Mon, 06 Apr 2026 07:25:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/VE5DNFSKANGO7E6R6FWBOUPNSI.jpg?auth=47cf9579ea58a235ba7caad8297bb04346ac928cb5c43c90b5fec70b50708cfa&smart=true&width=1360&height=905"
     },
     {
       "id": "d7f5c1e630d4af1472cf",
@@ -1268,14 +1567,24 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d341bc027db.jpeg"
     },
     {
-      "id": "18c9f0b26e3e5ed0673a",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pakistán entrega a Irán y EE UU un plan para el alto el fuego y reabrir el estrecho de Ormuz, según Reuters",
-      "summary": "Una columna de humo se levanta tras un ataque aéreo en Teherán, este lunes.",
-      "link": "https://elpais.com/internacional/2026-04-06/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Mon, 06 Apr 2026 07:16:35 GMT",
-      "source": "El Pais",
+      "id": "5a089cd1b2373155ef2e",
+      "title": "Varios niños mueren en un ataque de EE.UU. e Israel contra Teherán",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/597410-ninos-mueren-ataque-eeuu-israel-teheran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 06 Apr 2026 07:22:04 +0000",
+      "source": "RT en Español",
       "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/6DSIDZH62BE5DM3TB4T4FCM2BE.jpg?auth=3f1d024faa979ca4c0d16bc1fbad2c6101472be2aaf15108fb9c5a0d8e70b082"
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "8995a674a2e3a7957523",
+      "title": "Una automotriz lanza financiación para todos sus autos e incluye a su nuevo SUV",
+      "summary": "Renault, una de las automotrices pioneras en financiación de vehículos 0km, presentó sus nuevas propuestas comerciales para este cuarto mes del año. En ese marco, la marca incorporó a su oferta al nuevo Renault Boreal, un Sport Utility Vehicle (SUV) del segmento C (mediano) que ya se encuentra en etapa de preventa a través de Renault Store. Autos: en abril entró en vigencia la quita del impuesto al lujo, los modelos que más bajaron de precio La novedad llega acompañada por una financiación exclusiva de la mano de Mobilize Financial Services , que ofrece líneas a tasa 0 para este modelo, junto con otros vehículos de la gama. A su vez, cabe destacar que Renault aplicó para abril aumentos promedio de entre el 1% y el 2% en buena parte de su gama (como en los Kwid tanto E-Tech como térmico, Megane E-Tech y algunas versiones de Sandero, Kardian, Arkana, Oroch y Alaskan), aunque no todos los modelos registraron incrementos. Todos los modelos que Renault ofrece en cuotas en abril de 2026 Renault Boreal (nuevo): hasta $20.000.000 en 12 meses. Renault Arkana : hasta $20.000.000 en 18 meses. Renault Kardian: hasta $20.000.000 en 12 meses. Renault Kardian Evolution: hasta $12.000.000 en 36 meses. Renault Kwid: $12.000.000 en 24 meses. Renault Kangoo (furgón): hasta $11.000.000 en 24 meses. Renault Kangoo (pasajero): hasta $16.000.000 en 24 meses. Renault Oroch: hasta $16.000.000 en 24 meses. Renault Duster: hasta $15.000.000 en 18 meses. Renault Logan: hasta $13.000.000 en 18 meses. A su vez, la marca ofrece otros modelos con financiación disponible, aunque con tasas más elevadas: Renault Sandero y Stepway: hasta $13.000.000 en 12 meses, con una tasa del 4,9%. Renault Alaskan: hasta $22.000.000 en 12 meses, con una taza del 4,9%. Renault Master: hasta $16.000.000 en 12 meses, con una tasa del 19,9%. Renault Koleos: hasta $30.000.000 en 12 meses, con una tasa del 9,9%.",
+      "link": "https://www.lanacion.com.ar/autos/una-automotriz-lanza-financiacion-para-todos-sus-autos-e-incluye-a-su-nuevo-suv-nid03042026/",
+      "pubDate": "Mon, 06 Apr 2026 07:22:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/MRLUI3CI2NEPPNETYPNKHICCPY.jpg?auth=1fe1605f61db93bcf249739dae3205029fcdad5a6ac601accf0ea00ca1ff3839&smart=true&width=2000&height=1125"
     },
     {
       "id": "648cd745d654ae9198fc",
@@ -1306,6 +1615,16 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Star-Wars-Darth-Maul.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "35c72bafa255812aacd8",
+      "title": "“Se pasea desnudo”: el elogio de Pablo Quirno a Luis Caputo tras una entrevista televisiva",
+      "summary": "El canciller elogió al ministro de Economía, luego de que minimizara la polémica por los créditos hipotecarios del Banco Nación. Lo hizo a través de un mensaje en sus redes sociales.",
+      "link": "https://www.clarin.com/politica/pasea-desnudo-elogio-pablo-quirno-luis-caputo-entrevista-televisiva_0_wyGX9ZyjpB.html",
+      "pubDate": "Mon, 06 Apr 2026 07:10:08 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/06/UXgNC1iCK_1200x630__1.jpg"
     },
     {
       "id": "ff9fba05124a78f0e09d",
@@ -1350,12 +1669,12 @@
     {
       "id": "bc1ee118252024eeec6d",
       "title": "El mercado laboral crea 211.510 empleos en el mejor marzo del registro pese a la guerra de Irán",
-      "summary": "Varias personas hacen cola para entrar en una Oficina de Empleo en Madrid, en una imagen de archivo.",
+      "summary": "Combinación de imágenes de la cuenta de Pedro Sánchez en X acerca de los 22 millones de afiliados a la Seguridad Social.",
       "link": "https://elpais.com/economia/2026-04-06/el-mercado-laboral-crea-211510-empleos-en-el-mejor-marzo-del-registro-pese-a-la-guerra-de-iran.html",
       "pubDate": "Mon, 06 Apr 2026 07:00:22 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/M2RYAQSNERJPDMAY7N3UWUPEBI.jpg?auth=98133d75de253319ca3a9c355eaafa942a2b1e8895c4d10dee11c1f9e752f26b"
+      "image": "https://imagenes.elpais.com/resizer/v2/MXAREFTZWRBFDEVVG3LNXUT2QA.jpg?auth=b4c8eab012228bbab524ce48e68db18bf968f8c1e490fcc05c848aec08b2e9b7"
     },
     {
       "id": "3869ffd9ab9721e55b87",
@@ -1398,16 +1717,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/HQQYQOHMXNEIHG4KIRDPLTH2KU.jpg?auth=e35594720675402ddd27ddacc6d762b8218f3d72410e0c2f01833bfcd483c84e&smart=true&width=2000&height=1333"
     },
     {
-      "id": "12795a41258c434cb596",
-      "title": "El exorbitante coste de la guerra contra Irán para EE.UU. alcanza nueva cima",
-      "summary": "Rastreadores indican que Washington gasta unos 11.574 dólares por segundo y alrededor de 41,6 millones dólares por hora en su agresión.",
-      "link": "https://actualidad.rt.com/actualidad/597396-exorbitante-coste-guerra-iran-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 06:59:00 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d3432b59bf5b3c4a4577be.jpg"
-    },
-    {
       "id": "14043795bc952a6854e6",
       "title": "\"El VAR, el dichoso VAR...\"",
       "summary": "Momento de la expulsión de Gerard Martín, que quedaría en amarilla tras el aviso del VAR.",
@@ -1428,36 +1737,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d33b787787d.jpeg"
     },
     {
-      "id": "57e8322d93e6bd77fe32",
-      "title": "FOTOS: Ruta salpicada de cráteres en la zona del rescate del tripulante del F-15 derribado en Irán",
-      "summary": "Imágenes satelitales revelaron al menos 28 cráteres diseminados por una carretera en la provincia iraní de Isfahán, donde las fuerzas de EE.UU. rescataron al segundo tripulante de un caza F-15 derribado. Cada cráter mide unos 9 metros y aparece trazado en línea, lo que apunta al intento de bloquear el acceso terrestre a la zona para las fuerzas iraníes. Están a unos 20 km de la pista donde EE.UU. afirma haber destruido varias de sus aeronaves para no dejar equipo sensible en manos iraníes.",
-      "link": "https://actualidad.rt.com/actualidad/597397-fotos-ruta-salpicada-crateres-rescate-piloto-caza-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 06:50:22 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d348c0e9ff712d23426449.jpg"
-    },
-    {
-      "id": "94a180f582a400e89e19",
-      "title": "\"Crimen contra la ciencia\": Irán sobre ataques contra instalaciones de agua pesada",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/597398-iran-califica-crimen-ciencia-ataques?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 06:43:50 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "0da40313cd1319e0999f",
-      "title": "El número de barcos que pasaron por el estrecho de Ormuz en un día",
-      "summary": "Las estadísticas indican que el tránsito por la vía marítima es un 90 % inferior al registrado antes del inicio de la agresión de EE.UU. e Israel.",
-      "link": "https://actualidad.rt.com/actualidad/597400-numero-barcos-via-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 06:41:41 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d34751e9ff717a2c74aff1.jpg"
-    },
-    {
       "id": "18d0f839ae9d0e0ff4b3",
       "title": "Los modos de la pasión",
       "summary": "Hacer un jardín, escribió May Sarton en Anhelo de raíces , no es un “pasatiempo apacible”, sino una pasión que “se apodera de la persona y, una vez que esta consiente, tendrá que aceptar que su vida va a cambiar radicalmente”. Aunque técnicamente no sea un jardín, lo que a fines de 1979 se lanzó a crear el cordobés Pedro Martín Ureta, sin duda es algo donde la pasión estuvo involucrada. Tras la muerte de su esposa Graciela Yraizozsta, el hombre decidió recordarla a través de una descomunal figura vegetal con forma de guitarra. Más de 7000 cipreses y eucaliptos dieron forma al homenaje, ubicado cerca de General Levalle, al sur de Córdoba, y visible únicamente desde el aire. Como muestra esta foto, la obra, rodeada de campos de maíz, hoy goza de perfecta salud y reverencia no solo a Yraizozsta, sino también a Ureta, fallecido hace unos siete años.",
@@ -1466,16 +1745,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/F3B46W2L6NHTDN6KQEISQ7SPNY.jpg?auth=84c677de6f74322813dd1ee7d04dfee4f9c358da7cd85725cfd7ee626a567f76&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "a9d876e2ff88731c9870",
-      "title": "NYT: EE.UU. pierde las esperanzas de librar una guerra 'sin contacto' contra Irán usando IA",
-      "summary": "La cantidad y dispersión de los drones iraníes supera lo que la inteligencia artificial puede contrarrestar por sí sola.",
-      "link": "https://actualidad.rt.com/actualidad/597394-nyt-washington-perder-esperanzas-librar-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 06:28:39 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d3463759bf5b379212577f.jpg"
     },
     {
       "id": "33370bc32d3fef8a6576",
@@ -1568,6 +1837,16 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Super-Mario-Galaxy-destroza-la-taquilla-a-lo-bestia.jpg"
     },
     {
+      "id": "a4d4d140473464982a5d",
+      "title": "Hay menos de 1000: un acuerdo de “convivencia” permitirá proteger a una de las aves más amenazadas",
+      "summary": "EL CALAFATE, Santa Cruz.- Una de las aves playeras migratorias más amenazadas en el mundo ha logrado reunir a productores y ambientalistas del sur de esta provincia en una causa común: protegerla e impedir su extinción . Se trata del chorlito ceniciento, según su nombre de fantasía que tiene una población estimada de menos de 1000 individuos y suele elegir la margen de las lagunas de la estepa patagónica austral para reproducirse. Década perdida: el “castigo” que expulsó tres millones de hectáreas Desde la Asociación Ambiente Sur, ONG con base en Río Gallegos que hace más de veinte años trabaja en la protección de aves migratorias-, buscaron desandar las diferencias que suelen separar a ambientalistas y productores e impulsaron el Proyecto Pluvianellus, un programa de acuerdos de conservación que impulsa compromisos voluntarios entre productores, ganaderos, empresas, organismos públicos y organizaciones ambientales con el objetivo de armonizar las actividades productivas con la conservación de la biodiversidad en la estepa patagónica austral. Protección para aves migratorias. Crédito: Ambiente Sur El Programa Acuerdos se da a través de convenios adaptados a cada realidad, se implementan acciones en dos fases: diagnóstico y planificación en primera instancia y luego la implementación que incluye protección de nidos, manejo y monitoreo, entre otras tareas. En este caso puntual, más de diez establecimientos de Santa Cruz y Tierra del Fuego avanzan en esta línea: desde la ONG les propusieron instalar protectores de nidos del chorlito que suele armarlos al borde de las lagunas y de este modo evitan que sean pisados por el ganado en tanto que ofrecen a los productores armar un inventario de las especies que pueblan cada campo. “Nos interesa la estepa porque es un ambiente poco representado en la conservación, por las especies que alberga y lo frágil que es, el chorlito ceniciento o Pluvianellus, suele nidificar al margen de las lagunas y en muchos casos se trata de campos",
+      "link": "https://www.lanacion.com.ar/economia/campo/hay-menos-de-1000-un-acuerdo-de-convivencia-permitira-proteger-a-una-de-las-aves-mas-amenazadas-nid06042026/",
+      "pubDate": "Mon, 06 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/NRULJCDXMRFVFKKLROO3XKHXCA.jpg?auth=d5dcf93524d1119369615c042adb251345ed75ddf99c0f13d6f771ab68d97d19&smart=true&width=1280&height=960"
+    },
+    {
       "id": "49189328dd8aa323cf37",
       "title": "Tiene 37 años. Quién es la modelo y actriz peruana que conquistó el corazón de uno de los cantantes más famosos",
       "summary": "Los rumores de romance y las especulaciones en redes sociales surgieron a partir de que Stephanie Cayo (37) y Alejandro Sanz (57) fueron vistos juntos en reiteradas ocasiones durante las distintas fechas de la gira por Perú, Colombia y Ecuador del cantante español. Quienes siguen el tour ¿Y Ahora Qué? notaron la presencia de la actriz peruana junto al artista en paseos y salidas a comer, y hasta hubo un beso en pleno concierto, cuya foto se hizo viral. Y aunque los protagonistas tardaron en dar pistas de que estaban enamorados, finalmente lo hicieron. “No te puedo amar más”, fue el comentario de él en una publicación de ella, y Stephanie, que siempre tuvo un perfil muy reservado, reconoció que está viviendo “algo que quiero cuidar muchísimo por lo bonito que es”. Durante una entrevista con TV o Lima, la actriz de DOC (Netflix) habló de su relación con el autor de “Corazón partío”: “Estoy muy bien, tranquila… He aprendido que lo mejor es ser más reservado para cuidar más lo que existe, lo que nace o lo que está naciendo”. Así, entre piropos en redes, emojis y declaraciones públicas, Stephanie Cayo y Alejandro Sanz confirmaron su love story. Una de las pasiones de Stephanie es cantar: aquí junto al artista colombiano Chabuco entonando el tema \"Así fue mi querer\"",
@@ -1588,26 +1867,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/LOAZL3ZUJ5DPNASV5ZLE6HMZHI.jpg?auth=c0b84dec01b1f78ba95e3d0f506df65d903a3791561378ded98523c2ff37799b&smart=true&width=1360&height=905"
     },
     {
-      "id": "a4d4d140473464982a5d",
-      "title": "Hay menos de 1000: un acuerdo de “convivencia” permitirá proteger a una de las aves más amenazadas",
-      "summary": "EL CALAFATE, Santa Cruz.- Una de las aves playeras migratorias más amenazadas en el mundo ha logrado reunir a productores y ambientalistas del sur de esta provincia en una causa común: protegerla e impedir su extinción . Se trata del chorlito ceniciento, según su nombre de fantasía que tiene una población estimada de menos de 1000 individuos y suele elegir la margen de las lagunas de la estepa patagónica austral para reproducirse. Década perdida: el “castigo” que expulsó tres millones de hectáreas Desde la Asociación Ambiente Sur, ONG con base en Río Gallegos que hace más de veinte años trabaja en la protección de aves migratorias-, buscaron desandar las diferencias que suelen separar a ambientalistas y productores e impulsaron el Proyecto Pluvianellus, un programa de acuerdos de conservación que impulsa compromisos voluntarios entre productores, ganaderos, empresas, organismos públicos y organizaciones ambientales con el objetivo de armonizar las actividades productivas con la conservación de la biodiversidad en la estepa patagónica austral. Protección para aves migratorias. Crédito: Ambiente Sur El Programa Acuerdos se da a través de convenios adaptados a cada realidad, se implementan acciones en dos fases: diagnóstico y planificación en primera instancia y luego la implementación que incluye protección de nidos, manejo y monitoreo, entre otras tareas. En este caso puntual, más de diez establecimientos de Santa Cruz y Tierra del Fuego avanzan en esta línea: desde la ONG les propusieron instalar protectores de nidos del chorlito que suele armarlos al borde de las lagunas y de este modo evitan que sean pisados por el ganado en tanto que ofrecen a los productores armar un inventario de las especies que pueblan cada campo. “Nos interesa la estepa porque es un ambiente poco representado en la conservación, por las especies que alberga y lo frágil que es, el chorlito ceniciento o Pluvianellus, suele nidificar al margen de las lagunas y en muchos casos se trata de campos",
-      "link": "https://www.lanacion.com.ar/economia/campo/hay-menos-de-1000-un-acuerdo-de-convivencia-permitira-proteger-a-una-de-las-aves-mas-amenazadas-nid06042026/",
-      "pubDate": "Mon, 06 Apr 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/NRULJCDXMRFVFKKLROO3XKHXCA.jpg?auth=d5dcf93524d1119369615c042adb251345ed75ddf99c0f13d6f771ab68d97d19&smart=true&width=1280&height=960"
-    },
-    {
-      "id": "7b80af036e19b0f337ea",
-      "title": "Axios: EE.UU. e Irán discuten un posible alto el fuego de 45 días",
-      "summary": "Los mediadores creen que la reapertura del estrecho de Ormuz y una solución para el uranio enriquecido del país persa solo podrían ser el resultado de un acuerdo final, según las fuentes del medio.",
-      "link": "https://actualidad.rt.com/actualidad/597393-axios-mediadores-iran-ultimo-esfuerzo-alto-fuego?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 05:54:58 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d33b1659bf5b50e75c1c99.jpg"
-    },
-    {
       "id": "fe7c6f33be8fd2f47eed",
       "title": "Microsoft comienza las actualizaciones forzadas a Windows 11 25H2",
       "summary": "Microsoft ha comenzado su programa de actualizaciones forzadas a Windows 11 25H2 desde versiones anteriores de Windows 11 en lo que denomina un «despliegue inteligente basado en aprendizaje automático» . Esta actualización forma parte de un plan de actualización gradual para Windows 11, en el que Microsoft está actualizando progresivamente los sistemas en todo el mundo para eliminar la versión 24H2, ya que el soporte para esta edición finalizará oficialmente el 13 de octubre de 2026 . La actualización se realizará para dispositivos no administrados que ejecuten las ediciones Home y Pro de Windows 11 24H2. Aunque tenga sentido actualizar a una versión con un período de soporte más largo, las constantes actualizaciones que Microsoft está impulsando ofrece pocos beneficios reales más allá del mantenimiento de seguridad y los riesgos de errores son evidentes. Además, el lanzamiento de la versión 26H1 , puede confundir ya que no se podrá usar en los equipos existentes y llega en exclusiva para los nuevos equipos con hardware ARM. La conclusión es que es necesaria una actualización global a modo de Service Pack para equipos Intel y AMD que arregle definitivamente Windows 11 sin tantas actualizaciones menores. Actualizaciones forzadas a Windows 11 25H2 «El despliegue inteligente basado en aprendizaje automático se ha extendido a todos los dispositivos que ejecutan las ediciones Home y Pro de Windows 11, versión 24H2, que no están administrados por departamentos de TI. Los dispositivos que ejecuten estas ediciones ya no recibirán correcciones para problemas conocidos, actualizaciones de zona horaria, soporte técnico ni actualizaciones mensuales de seguridad y vista previa que contengan protecciones contra las últimas amenazas de seguridad. Estos dispositivos recibirán automáticamente la actualización a Windows 11, versión 25H2, cuando estén listos. No es necesario realizar ninguna acción, y usted puede elegir cuándo reiniciar su dispositivo o posponer la actualización» . Te",
@@ -1616,16 +1875,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/actualizaciones-forzadas-a-Windows-11-25H2_2.jpg"
-    },
-    {
-      "id": "137daf6d0fe0ad01e159",
-      "title": "41 mineros, atrapados bajo tierra tras ataque ucraniano",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/597399-mineros-atrapados-tierra-ataque?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 05:42:40 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "d533418169b7744f7f58",
@@ -1656,36 +1905,6 @@
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/T3TUIWSOSJBBZM72CB6MX5LMPQ.jpg?auth=91f027d9e64df0fddd0e648358d0713cc4af572ef8aea020a5bb988825586802&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b6feacc3ae723a954bb9",
-      "title": "Doncic se va a Europa para intentar salvar su temporada",
-      "summary": "Luka Doncic, después de lesionarse en el partido ante los Thunder.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/06/doncic-busca-salvar-temporada-europa.html",
-      "pubDate": "Mon, 06 Apr 2026 05:14:38 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/04/69d03bda81e27.jpeg"
-    },
-    {
-      "id": "68fda32fd662746e47f7",
-      "title": "Irán se mofa de las exigencias de Trump de abrir el estrecho de Ormuz",
-      "summary": "Desde Teherán reiteraron que el estrecho de Ormuz está cerrado solo para sus enemigos y que los buques de países no implicados en las hostilidades pueden transitar por esa ruta estratégica.",
-      "link": "https://actualidad.rt.com/actualidad/597386-iran-mofarse-exigencias-trump-abrir-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 05:09:16 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d33758e9ff713cfd1ed8e2.jpg"
-    },
-    {
-      "id": "fd63cc4ded2a319497be",
-      "title": "MINUTO A MINUTO: Fuego en el golfo Pérsico, misiles sobre Israel y Trump aplaza ultimátum por Ormuz",
-      "summary": "Irán promete ataques \"más intensos y de mayor alcance\" si EE.UU. e Israel continúan atacando infraestructura civil en su territorio.",
-      "link": "https://actualidad.rt.com/actualidad/597385-minuto-minuto-fuego-golfo-persico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 04:40:05 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d3373859bf5b374a46d48e.jpg"
     },
     {
       "id": "d573e7d54387c2eccbbd",
@@ -1738,24 +1957,14 @@
       "image": "https://resizer.glanacion.com/resizer/v2/AHJMFAMKCZEBXEMORB3D32PAQI.jpg?auth=a99a552383d86e5a4eb6a5135f74ed70224f1d35a4e668119fc3c16976505503&smart=true&width=5409&height=3606"
     },
     {
-      "id": "6184b538ccaaa3301fab",
-      "title": "A 40 años del gol con la pelota naranja que el Beto Alonso le hizo a Boca en la Bombonera: la historia desconocida de \"La Mona Lisa\" del Museo River",
-      "summary": "Fue Hugo Gatti el que pidió jugar con el balón de otro color para que no se confundiera con los papelitos. Pero terminó siendo víctima de su propia \"idea\" y el motor de una historia mitológica para el Millonario-.",
-      "link": "https://www.clarin.com/deportes/40-anos-gol-pelota-naranja-beto-alonso-hizo-boca-bombonera-historia-desconocida-mona-lisa-museo-river_0_rLqIMz1mbN.html",
-      "pubDate": "Mon, 06 Apr 2026 04:01:59 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2016/04/05/ByGjiYjKNx_1200x630.jpg"
-    },
-    {
-      "id": "ff07d9e8c62fb355118b",
-      "title": "“Una añorada locomotora en la estación de Rauch”",
-      "summary": "",
-      "link": "https://www.clarin.com/cartas-al-pais/anorada-locomotora-estacion-rauch_0_HEvmfIqIh0.html",
-      "pubDate": "Mon, 06 Apr 2026 04:01:59 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/02/LUePv1BVm_1200x630__1.jpg"
+      "id": "3f772c122512eaa65906",
+      "title": "Milei sufre por la economía y pierde popularidad",
+      "summary": "Javier Milei en Plaza San Martín, en Buenos Aires, el 2 de abril.",
+      "link": "https://elpais.com/argentina/2026-04-06/milei-sufre-por-la-economia-y-pierde-popularidad.html",
+      "pubDate": "Mon, 06 Apr 2026 04:00:00 GMT",
+      "source": "El Pais",
+      "cat": "ar_pol",
+      "image": "https://imagenes.elpais.com/resizer/v2/KQBEAQY5IJADJISXFW3INQLIXE.jpg?auth=bf74d68cedf8520ed3239fcd0b24c500039934e16b7a40b8df8f8a35796574e1"
     },
     {
       "id": "466374dd0921b8d2cb15",
@@ -1768,16 +1977,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/PY7MXECPWBAB5B2GCJRVMVO3GU.jpg?auth=0bc97164682a8249db6ce03162a914b67bc000a5fc1893f8b0c5ee070d41635d&smart=true&width=2000&height=1333"
     },
     {
-      "id": "b18ab02758d973ee9eee",
-      "title": "Las fechas límite de Trump a Irán que no dejan de aplazarse",
-      "summary": "Los ultimátums del mandatario estadounidense continúan aplazándose cada vez más en lo que va del conflicto.",
-      "link": "https://actualidad.rt.com/actualidad/597351-fechas-limite-trump-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 06 Apr 2026 03:47:52 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69d32a6a59bf5b2711232e6d.jpg"
-    },
-    {
       "id": "18765f52686a4dd92f49",
       "title": "Irán golpea las infraestructuras críticas de los países del Golfo en respuesta al ultimátum de Trump",
       "summary": "Una columna de humo tras un ataque contra un depósito de combustible en el aeropuerto internacional de Kuwait, el pasado 25 de marzo.",
@@ -1785,7 +1984,7 @@
       "pubDate": "Mon, 06 Apr 2026 03:45:01 GMT",
       "source": "El Pais",
       "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/ECIPNJTCWJK6ZIXJQ3FBAGUMUY.jpg?auth=0ffa404e2aeb0514acf375cc42a907c0895e027bd01593ee3f0569a0c2bfddef"
+      "image": "https://imagenes.elpais.com/resizer/v2/KL7OIKFHPRCXRAJNG4ZD6SPA7Y.jpg?auth=464042d363220912fea575469f3f2ecf00fc35cf30a36c9b9f3d806eb64fc635"
     },
     {
       "id": "14ce664c09791e3d3be2",
@@ -1826,56 +2025,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": ""
-    },
-    {
-      "id": "7e22e10ae9ec503072b8",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este lunes 6 abril de 2026",
-      "summary": "El SMN anticipa para este lunes temperaturas entre 15°C y 19°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-lunes-6-abril-2026_0_qqpqaSFucl.html",
-      "pubDate": "Mon, 06 Apr 2026 03:41:26 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/uIpHwpc_L_1200x630__1.jpg"
-    },
-    {
-      "id": "c1ab7ca49302e9d8687b",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este lunes 6 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-lunes-6-abril-2026_0_KTgpj75Clf.html",
-      "pubDate": "Mon, 06 Apr 2026 03:41:01 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg"
-    },
-    {
-      "id": "13ca25f5ddb8354554b1",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este lunes 6 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-lunes-6-abril-2026_0_KEi76898D2.html",
-      "pubDate": "Mon, 06 Apr 2026 03:41:01 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_1200x630__1.jpg"
-    },
-    {
-      "id": "623ddd5bd010af0771ca",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este lunes 6 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-lunes-6-abril-2026_0_lqThorDXK5.html",
-      "pubDate": "Mon, 06 Apr 2026 03:41:00 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_1200x630__1.jpg"
-    },
-    {
-      "id": "dddddb4b9a7fbde26902",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este lunes 6 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-lunes-6-abril-2026_0_wy9YywRu9z.html",
-      "pubDate": "Mon, 06 Apr 2026 03:40:36 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg"
     },
     {
       "id": "57c6c76b58bf93758993",
@@ -1968,16 +2117,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/LMLRKQSSZFC75DQCKEKIBOCTRQ.jpeg?auth=095cbd86761355e713bbd18e0422da3e9c36634817f70d654e6a0b20499aef0b"
     },
     {
-      "id": "2eac325403bd2a274bf2",
-      "title": "Las defensas buscarán anular pruebas clave en el arranque del juicio sobre Kitchen",
-      "summary": "Mariano Rajoy y Jorge Fernández Díaz, en una imagen de archivo del año 2019.",
-      "link": "https://elpais.com/espana/2026-04-06/las-defensas-buscaran-anular-pruebas-clave-en-el-arranque-del-juicio-sobre-kitchen.html",
-      "pubDate": "Mon, 06 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/2ZJPQLJTKNEMDGIAUE3SGFPREA.jpg?auth=33e1885635f268fbb1b14737cce3deb8cacd498011795c08f7f93277c7501916"
-    },
-    {
       "id": "e96446ae7f30dba4b451",
       "title": "¿Qué es el juicio de la Operación Kitchen y quién puede acabar en la cárcel?",
       "summary": "Comienza el juicio por la Operación Kitchen",
@@ -1998,14 +2137,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/TT4SCYOE6NJO3MBJHPV6FIBTFQ.jpg?auth=166dbd4d71d9bc0ca842115f4da7719d533bdee060401958b8308cc6c87dbc4d"
     },
     {
-      "id": "fa38052cff22a68785ee",
-      "title": "Meses de espera en solicitudes de traslado a España para pedir asilo alimentan la angustia de familias gazatíes en Egipto",
-      "summary": "Un grupo de palestinos esperan en el sur de Gaza para cruzar a Egipto para recibir atención médica.",
-      "link": "https://elpais.com/espana/2026-04-06/meses-de-espera-en-solicitudes-de-traslado-a-espana-para-pedir-asilo-alimentan-la-angustia-de-familias-gazaties-en-egipto.html",
+      "id": "95b393d65da9d0746434",
+      "title": "El Ayuntamiento de Madrid choca con sus técnicos por el uso de caucho en los parques",
+      "summary": "El parque infantil de Tres Olivos, en el distrito Fuencarral-El Pardo (Madrid), donde se ha sustituido el suelo de arena por caucho.",
+      "link": "https://elpais.com/espana/madrid/2026-04-06/el-ayuntamiento-de-madrid-choca-con-sus-tecnicos-por-el-uso-de-caucho-en-los-parques.html",
       "pubDate": "Mon, 06 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/HHR24J2DGBMJJPFJTJQYXC7RGQ.jpg?auth=292258b94a7f52f75572affb422d29fc2eb46424f895123a703fbfaab6704c49"
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/UWVHSUV5IFGIDL447BXZNLMHL4.jpg?auth=ce4d96ee2b97809d941ec7895b8fd5c4fb1bb6197dbc89d7ff318c10a5bee5bf"
     },
     {
       "id": "4408e506d5643e993ae8",
@@ -2018,16 +2157,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/KDUXC5NK5VGE3P3DW7SSZTJB3I.jpg?auth=0e1726a166949254eaf20ee4536991acceb7cf2f61359ddf49e91a41eb4e809b"
     },
     {
-      "id": "95b393d65da9d0746434",
-      "title": "El Ayuntamiento de Madrid choca con sus técnicos por el uso de caucho en los parques",
-      "summary": "El parque infantil de Tres Olivos, en el distrito Fuencarral-El Pardo (Madrid), donde se ha sustituido el suelo de arena por caucho.",
-      "link": "https://elpais.com/espana/madrid/2026-04-06/el-ayuntamiento-de-madrid-choca-con-sus-tecnicos-por-el-uso-de-caucho-en-los-parques.html",
-      "pubDate": "Mon, 06 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/UWVHSUV5IFGIDL447BXZNLMHL4.jpg?auth=ce4d96ee2b97809d941ec7895b8fd5c4fb1bb6197dbc89d7ff318c10a5bee5bf"
-    },
-    {
       "id": "d457b8181063a73d74c8",
       "title": "Por qué los raros son más atractivos: lo que los guppies nos enseñan sobre la evolución",
       "summary": "Un guppy macho en un acuario en Virginia (EE UU), en febrero de 2012.",
@@ -2036,16 +2165,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/EZRXJTHW4JFWVBYAYBMMUREGEE.jpg?auth=b078d50e0e192bf3de02ab79d25d4d1072397a584fbc73a60d1124f47ee9c346"
-    },
-    {
-      "id": "1ce875aa9c67d325fdee",
-      "title": "Un principio en Andalucía",
-      "summary": "Antonio Maíllo, el sábado en Sevilla en una entrevista con EL PAÍS.",
-      "link": "https://elpais.com/opinion/2026-04-06/un-principio-en-andalucia.html",
-      "pubDate": "Mon, 06 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OGH6HLHVTVA77EDO7GN6ZCZOLE.jpg?auth=108dc6f431ee0de80d576241869d616aabc8a902420056c6adda7a7199c7b54d"
     },
     {
       "id": "2903cf2650d9e6125923",
@@ -2088,16 +2207,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/3OHBSWZJ7RGS5LO5MXDXASO24M.jpg?auth=b132ec5d789c0c471dcaca40a9f3a04c161fe75f61c9a860e96d85654e00ea0b"
     },
     {
-      "id": "ca3b3d6c68351b77bf84",
-      "title": "Hacer kajak en la Antártida o ver un partido de NBA junto a Rihanna: así se diferencian los ultrarricos de los millonarios",
-      "summary": "Un hombre practica piragüismo en la Antártida.",
-      "link": "https://elpais.com/economia/negocios/2026-04-06/hacer-kajak-en-la-antartida-o-ver-un-partido-de-nba-junto-a-rihanna-asi-se-diferencian-los-ultrarricos-de-los-millonarios.html",
-      "pubDate": "Mon, 06 Apr 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/F6UVUEQEVFAVLMNX23FGH7RIZI.jpg?auth=64ab899907f644c2cc89ea4177bd289eedbeb4a636af5a0b73f720a04feda0f3"
-    },
-    {
       "id": "7c3de84c206077d531cd",
       "title": "El ladrón de chatarra: recoge lo que otros descartan para construir originales esculturas cinéticas",
       "summary": "En su taller parece no entrar un tornillo más y no hay dónde sentarse, pero Guillermo Galetti sigue acumulando toda la chatarra que se le cruza a diario y pueda servirle para su obra. En Villa la Angostura -la localidad que adoptó como propia- lo conocen como el ladrón de chatarra, que es también el nombre de su proyecto artístico. Porque basta que vea ruedas o cuadros de bicicleta, amortiguadores, chapas, varillas, caños o parte de maquinaria que muchas veces no termina de distinguir, los levanta igual si ve que tienen algún engranaje que puede aportar a su obra, o si le gusta la forma o textura. View this post on Instagram “Lo primero que hago es aplaudir o tocar timbre a ver si puedo levantar lo que descartaron en la vereda”, cuenta Guillermo. Como se lleva de todo, el nombre pegó y por la calle tal vez le gritan “ladrón” en broma para llamarlo, o le dicen “¿Qué hacés ladrón?” cuando entra a la ferretería. Los que tienen confianza y descartan algo que a Guille puede resultarle de utilidad, le tiran los objetos por arriba del portón de su taller. Todo lo acumula en su casa- taller: “acá se hace todo y se piensa todo también”, declara. Guillermo Galetti reparte su día entre su rol de docente en la escuela técnica local y su oficio como metalúrgico, del cual salen las creaciones más lúdicas e imaginativas. También trabaja en albañilería. Con mucha sensibilidad y sentido del humor hace arte en las caricaturas mecánicas y esculturas cinéticas que logra transformando lo que otros descartan. Las partes renacen en piezas con expresión propia, en que las superficies originales mantienen su visibilidad para que su identidad pasada siga presente. En la entrada a su taller recibe un gusano rojo gigante que se formó con parte del armazón externo de una soldadora vieja, una llanta, las varillas de un ténder y la rueda de un chango de supermercado. Hay mucho y cada rincón depara una sorpresa: un guitarrista de rock, una bailarina que baila desenfrenada, una figura femenina que ",
@@ -2106,6 +2215,17 @@
       "source": "La Nacion",
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/6IR32Z2FKJFTXHIMZ4LGUDCMQA.jpg?auth=8ffc872c6588a3339887f7196eeff25ee63db3e6976d905dff8cb02c0bcc3b43&smart=true&width=1999&height=1333",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "22e2f9f97e6179a1d147",
+      "title": "Cartas de lectores: Respuesta, Teófilo Tabanera, desaprensión",
+      "summary": "Respuesta La pregunta del jefe de gabinete al periodista que puede resumirse como “quién sos vos para preguntarme a mí” puede responderse como “soy parte del pueblo que te paga el sueldo y que te puso dónde estás para servirme.” Juan Peña penapirovano5@gmail.com Teófilo Tabanera Es un logro destacable el haberse colocado al nanosatélite argentino Atenea en el espacio, a más de 70.000 km de distancia de nuestro planeta, como parte de la misión del Artemis II de la NASA. Felicitaciones a todo el equipo. A pesar de sus reducidas dimensiones de 30 x 20 x 20cm, el hecho de tener montajes con microcomponentes y semiconductores, lo dota de una capacidad técnica notable. Esta tarea , continúa la paciente y persistente obra de tecnología aeroespacial, que comenzó con uno de los primeros satélites argentinos, el Capitán Beto, llamado así por el tema de Spinetta, que se colocó en 2013 en órbita a 650 km de la tierra. Estos esfuerzos de nuestra comunidad técnica y científica merecen recordar al gran pionero de la industria aeroespacial, Teófilo Tabanera, cuyo nombre, con justa causa, lleva el centro aeroespacial de la CONEA en Córdoba. Las experiencias con cohetes desde Chamical en La Rioja, a partir de la década del 60, incluyeron el lanzamiento y recuperación con vida del ratoncito Belisario y el mono Juan, los primeros viajeros espaciales argentinos. Alberto Gesualdi agesualdi2014@gmail.com Desaprensión Un editorial de LA NACION refleja la preocupación genuina por el riesgo que implica la utilización de vehículos no autorizados en la Panamericana. No solo ocurre allí. He sido testigo de patinadores en rollers por la avenida Cabildo, entre el tráfico, o ciclistas circulando por la doble línea amarilla de la avenida Santa Fe. Me de terror cruzármelos conduciendo por el riesgo de verme involucrado en un involuntario accidente. Esa desaprensión por su vida de estas personas nos afecta a todos, porque de ocurrir una desgracia nos veremos implicados sin quererlo. Es responsabilida",
+      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-respuesta-teofilo-tabanera-desaprension-nid06042026/",
+      "pubDate": "Mon, 06 Apr 2026 03:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/IJOMD3DVRRFZXBRQXIWMI24LNE.jpg?auth=b25b74932958580715ab63f73e24f1c101d8ec111ef64a5d3a680d1ffd61c26d&smart=true&width=1148&height=845",
       "subcat": "herramientas"
     },
     {
@@ -2140,37 +2260,6 @@
       "image": ""
     },
     {
-      "id": "22e2f9f97e6179a1d147",
-      "title": "Cartas de lectores: Respuesta, Teófilo Tabanera, desaprensión",
-      "summary": "Respuesta La pregunta del jefe de gabinete al periodista que puede resumirse como “quién sos vos para preguntarme a mí” puede responderse como “soy parte del pueblo que te paga el sueldo y que te puso dónde estás para servirme.” Juan Peña penapirovano5@gmail.com Teófilo Tabanera Es un logro destacable el haberse colocado al nanosatélite argentino Atenea en el espacio, a más de 70.000 km de distancia de nuestro planeta, como parte de la misión del Artemis II de la NASA. Felicitaciones a todo el equipo. A pesar de sus reducidas dimensiones de 30 x 20 x 20cm, el hecho de tener montajes con microcomponentes y semiconductores, lo dota de una capacidad técnica notable. Esta tarea , continúa la paciente y persistente obra de tecnología aeroespacial, que comenzó con uno de los primeros satélites argentinos, el Capitán Beto, llamado así por el tema de Spinetta, que se colocó en 2013 en órbita a 650 km de la tierra. Estos esfuerzos de nuestra comunidad técnica y científica merecen recordar al gran pionero de la industria aeroespacial, Teófilo Tabanera, cuyo nombre, con justa causa, lleva el centro aeroespacial de la CONEA en Córdoba. Las experiencias con cohetes desde Chamical en La Rioja, a partir de la década del 60, incluyeron el lanzamiento y recuperación con vida del ratoncito Belisario y el mono Juan, los primeros viajeros espaciales argentinos. Alberto Gesualdi agesualdi2014@gmail.com Desaprensión Un editorial de LA NACION refleja la preocupación genuina por el riesgo que implica la utilización de vehículos no autorizados en la Panamericana. No solo ocurre allí. He sido testigo de patinadores en rollers por la avenida Cabildo, entre el tráfico, o ciclistas circulando por la doble línea amarilla de la avenida Santa Fe. Me de terror cruzármelos conduciendo por el riesgo de verme involucrado en un involuntario accidente. Esa desaprensión por su vida de estas personas nos afecta a todos, porque de ocurrir una desgracia nos veremos implicados sin quererlo. Es responsabilida",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-respuesta-teofilo-tabanera-desaprension-nid06042026/",
-      "pubDate": "Mon, 06 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/IJOMD3DVRRFZXBRQXIWMI24LNE.jpg?auth=b25b74932958580715ab63f73e24f1c101d8ec111ef64a5d3a680d1ffd61c26d&smart=true&width=1148&height=845",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "3abff65cad9134d219be",
-      "title": "Hay alerta naranja y amarilla por tormentas y lluvias para este lunes 6 de abril: las provincias afectadas",
-      "summary": "El Servicio Meteorológico Nacional (SMN) emitió una serie de alertas de nivel naranja y amarillo por tormentas y lluvias para este lunes 6 de abril. Según precisó el organismo dependiente del Ministerio de Defensa, se esperan fenómenos meteorológicos adversos en un total de 12 provincias . Rige una alerta naranja por tormentas en Corrientes , el norte de Entre Ríos , Santa Fe , el sudeste de Santiago del Estero y el sudeste de Chaco . En estas zonas se prevén lluvias y tormentas fuertes, algunas localmente severas, acompañadas por abundantes precipitaciones, actividad eléctrica frecuente, posible caída de granizo y ráfagas que podrían alcanzar los 90 kilómetros por hora. Además, se estiman valores de precipitación acumulada entre 60 y 120 milímetros, que pueden superarse de manera puntual. A su vez, el SMN emitió una alerta amarilla por tormentas para un sector del norte de la provincia de Buenos Aires —que incluye Baradero, Ramallo, San Nicolás y San Pedro—, el sur de Entre Ríos , el sur de Santa Fe , el norte y este de Córdoba , el norte de Santiago del Estero , el oeste de Chaco , Formosa , el noreste de Salta y el este de Jujuy . En estas áreas se esperan lluvias y tormentas de variada intensidad, algunas localmente fuertes, con abundantes precipitaciones, actividad eléctrica, ocasional granizo y ráfagas de hasta 70 kilómetros por hora, con acumulados entre 30 y 60 milímetros. Además, rige una alerta amarilla por lluvias en la ciudad de Buenos Aires , el norte de la provincia de Buenos Aires , el noreste de La Pampa , el sur de Córdoba , el sur de Santa Fe y el sur de Entre Ríos . En estas zonas también se prevén lluvias y tormentas de variada intensidad, con acumulados estimados entre 30 y 60 milímetros, acompañados por actividad eléctrica, posible granizo y ráfagas de hasta 70 kilómetros por hora. Frente a este escenario, el SMN recomienda , para las zonas bajo alerta naranja, seguir las indicaciones de las autoridades y limitar las salidas solo a lo necesario",
-      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-lluvias-para-este-lunes-6-de-abril-las-provincias-nid06042026/",
-      "pubDate": "Mon, 06 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/3VXOUQQCHBE5ROK3D4QAFOFC5Y.png?auth=24b2e6d5da542879f81238168300733e3bb635ccb59b5ea052db1bd5c2f18005&smart=true&width=226&height=157"
-    },
-    {
-      "id": "c792c38488f9e7a2645f",
-      "title": "Sólo en Off | Mauricio Macri, con casa y perro nuevo, más una apuesta “mundialista”",
-      "summary": "Los vecinos del siempre coqueto Barrio Parque oscilan por estos días entre la sorpresa y la incredulidad. Luego de varios años en la zona norte del gran Buenos Aires, Mauricio Macri volvió al barrio, aunque esta vez, según sus vecinos, con nueva compañía: un perro, al que saca a pasear y del que se ocuparía en sus tiempos libres. En esta nueva etapa de su vida, con casa nueva y compañía perruna, el ex presidente está entusiasmado con la reconstrucción del Pro, al que le adjudica un rol importante en los próximos tiempos del país. “Mauricio está más para apuntalar que para protagonizar”, dice uno de sus principales escuderos, al tanto de sus pasos y mientras niega sin mucho énfasis que una nueva candidatura presidencial de Macri esté en los planes. Mientras observa de cerca el presente complicado que atraviesa el gobierno de Javier Milei –al que, de todos modos, apoyará en el Congreso en iniciativas como la ley de Glaciares, la denominada “hojarasca” y la reforma tributaria- el ex presidente dio el aval para iniciativas partidarias, pensando en lo que viene. “Vamos a definir 150 candidatos a intendentes, para tener representación en el 80 por ciento del territorio nacional”, comentan desde la estructura partidaria, que lidera el hoy diputado nacional Fernando de Andreis . Además de las recorridas por el Interior de sus principales figuras –arrancarán en Chaco, a mediados de este mes-, y el trabajo de los equipos de la Fundación Pensar (que el próximo 13 celebra su cena anual), habrá esfuerzos por sumar en 2027 más gobernaciones a las tres ya vigentes (Ciudad de Buenos Aires, Entre Río y Chubut). Allí aparece Carlos Javier Mac Allister , ex futbolista padre del jugador de la selección argentina y ex candidato a gobernador de La Pampa, quien tiene el aval partidario para volver a intentar. “Sería bueno que Argentina gane el mundial, un buen espaldarazo para el apellido”, dicen en el búnker Pro de Balcarce al 400, y agregan que “algún otro miembro de la familia” también",
-      "link": "https://www.lanacion.com.ar/politica/solo-en-off-mauricio-macri-con-casa-y-perro-nuevo-mas-una-apuesta-mundialista-nid06042026/",
-      "pubDate": "Mon, 06 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZTES2FOA7NDWVMKYHABRXAMJJU.JPG?auth=2d44b2df51080248e9c56f7f60cfc4fdfa6ee16b225361a48b46b7b2ef12f166&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "94dfe47ae95e5e6626fa",
       "title": "Martin Scorsese: todas sus mejores películas, su evolución como director y qué proyectos tiene hasta 2026",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Pocas carreras dentro del cine moderno resultan tan imponentes, tan vivas y tan fáciles de reconocer a los pocos segundos de metraje como la de Martin Scorsese . Basta un movimiento de cámara nervioso, una canción colocada con precisión quirúrgica, una explosión de violencia que irrumpe donde parecía no tocar o un personaje devorado por su propio ego para saber que detrás de la imagen está él. Scorsese no solo ha dirigido películas memorables. Lo que ha hecho durante más de medio siglo es bastante más ambicioso y bastante más difícil: ha construido una forma de mirar el cine y de contar América . Su obra no se limita a mafiosos, taxistas perturbados, boxeadores autodestructivos, tiburones de Wall Street o asesinos con traje. Todo eso forma parte de su universo, claro, pero debajo de esas historias siempre laten las mismas obsesiones: la culpa, la ambición, la fe, el pecado, el deseo, la violencia, la redención y esa necesidad casi enfermiza de entender por qué algunos hombres se empeñan en arruinarlo todo incluso cuando parecen estar ganando. Y por eso su filmografía sigue siendo una de las más fascinantes de revisar en 2026. Porque Martin Scorsese no pertenece solo al pasado glorioso del cine. Sigue siendo una figura activa, influyente y peligrosamente lúcida , uno de esos autores que no se han convertido en un monumento decorativo, sino en un creador que todavía tiene cosas que decir y proyectos con los que seguir removiendo el tablero. El director que convirtió sus obsesiones en lenguaje cinematográfico Martin Scorsese nació en 1942, en Queens, Nueva York , pero su imaginario artístico quedó marcado para siempre por el ambiente de Little Italy , el barrio italoamericano que acabaría convirtiéndose en uno de los grandes paisajes morales de su cine. Allí se mezclaban la calle, la familia, el catolicismo, la violencia latente, la identidad de comunidad y una forma muy concreta de entender la masculinidad,",
@@ -2181,26 +2270,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2014/01/scorsese-jr-comic-con-ny.jpg"
     },
     {
-      "id": "a3dfda47aa9997eac010",
-      "title": "Nunca cuatro 6/4/2026",
-      "summary": "Cómo jugar al Nunca Cuatro Nunca Cuatro es un juego online que propone completar todos los casilleros vacíos con un círculo o una cruz. Pero el desafío reside en que nunca aparezcan cuatro signos iguales alineados en una misma fila, columna o diagonal. Una vez completados todos los casilleros, junto al juego -al lado del botón de “reiniciar”- aparecerá la opción “ver resolución “, con la que podrás controlar tus respuestas en línea. Cuando completes el Nunca Cuatro de hoy, podés disfrutar de otros pasatiempos online en LN Juegos : Crucigrama , Sudoku , Sopa de letras , Palabras cruzadas , Trivias , Criptograma y más desafíos diarios. Tu experiencia nos importa. Por eso, si tenés observaciones, inquietudes o sugerencias respecto de nuestros juegos online, envianos un mensaje a LNJuegos@lanacion.com.ar y contanos tus ideas. También podés seguirnos en nuestro canal de WhatsApp.",
-      "link": "https://www.lanacion.com.ar/juegos/nunca-cuatro/nunca-cuatro-642026-nid06042026/",
-      "pubDate": "Mon, 06 Apr 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/VSGCP6CFNFENJBZFB5N5F4R5DM.png?auth=29c1ffb6e40025b0d2aa3a37be169fef5ad5dbc9893e4538afcbf343168db239&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ceb159989d78838aa673",
-      "title": "Trump renovó sus amenazas a Irán aunque anticipó una “buena posibilidad” de alcanzar un acuerdo",
-      "summary": "El conflicto en Medio Oriente sumó nuevos episodios de violencia con ataques en Irán y el Líbano . A la vez, se registró presencia de misiles en el cielo de Jerusalén . Según informó Al Jazeera , al menos cinco personas murieron tras un ataque conjunto de Estados Unidos e Israel contra un edificio residencial en la ciudad iraní de Qom. El vicegobernador local, Morteza Heydari, indicó que continúan las tareas de rescate mientras los equipos trabajan para remover los escombros en la zona afectada. En paralelo, Israel volvió a atacar al Líbano . Al menos 11 personas murieron en una serie de bombardeos en distintas zonas del país, en una de las jornadas más violentas desde el inicio de los enfrentamientos con Hezbollah . El episodio más grave ocurrió en Kfarhata , en el sur, donde un ataque dejó siete muertos, entre ellos un niño de cuatro años, según el Ministerio de Salud libanés. En tanto, en Jerusalén , videos captados por CNN mostraron misiles cruzando el cielo en la madrugada de este lunes. Las Fuerzas de Defensa de Israel habían advertido previamente sobre lanzamientos desde Irán y señalaron que los sistemas de defensa están operando para interceptar los proyectiles. Horas después, informaron que ya se podían abandonar los refugios. Luego de que Trump amenazara con bombardear las centrales eléctricas de Irán si Teherán no abría el estrecho de Ormuz, la Armada del Cuerpo de la Guardia Revolucionaria Islámica afirmó que se está preparando para un “nuevo orden en el Golfo Pérsico” y que el la ruta marítima crucial “nunca volverá a su estado anterior”. “El estrecho de Ormuz nunca volverá a su estado anterior, especialmente para Estados Unidos e Israel”, escribió el Comando Naval de la Guardia Revolucionaria Islámica en X . Y agregó: “La Armada de la Guardia Revolucionaria Islámica está ultimando los preparativos operativos para el plan de declaración de las autoridades iraníes sobre el nuevo orden en el Golfo Pérsico”, añade. En la apertura de las operaciones de este",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-5-de-nid05042026/",
-      "pubDate": "Mon, 06 Apr 2026 02:49:06 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/LOVO2JSY7NBW5A3QEAS3DPUIGA.jpg?auth=902ad1e0f8dcdacd1f10420ccbe9f7012a58f6bec86f1ad6195719cfdb9af5a7&smart=true&width=4782&height=3188"
-    },
-    {
       "id": "88386984ab92c5dfaf7e",
       "title": "Donald Glover revela novedades sobre la película de Community",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Han pasado más de diez años desde la última vez que vimos al grupo de estudio de Greendale metido en uno de sus delirantes planes… y la espera empieza a hacerse larga. Pero ahora, por fin, hay movimiento real. La película de Community vuelve a dar señales de vida, y lo hace de la mano de uno de sus protagonistas más queridos. Donald Glover , el inolvidable Troy Barnes, ha roto el silencio con declaraciones que apuntan a algo que muchos ya daban por perdido. La película de Community no solo sigue en pie, sino que podría estar más cerca de lo que parece. Y sí, esta vez suena diferente. Porque si hay algo que ha acompañado a Community durante años es ese eterno “se está trabajando en ello” que nunca terminaba de concretarse. Pero ahora, con el propio reparto implicado y el proyecto todavía respaldado por plataforma, la sensación empieza a cambiar. Donald Glover rompe el silencio sobre la película de Community Durante una entrevista reciente con EW , Donald Glover dejó claro que el proyecto sigue vivo y avanzando. Y lo más interesante no es solo lo que dijo, sino el contexto: el reparto sigue en contacto y hablando activamente sobre la película de Community. Según explicó, todos están implicados en una cadena de mensajes donde el tema sigue sobre la mesa. Esto no es un simple comentario aislado, sino una señal clara de que hay movimiento real detrás del proyecto. Además, Glover quiso despejar uno de los rumores más repetidos en los últimos años: que su agenda era uno de los principales obstáculos. Nada más lejos de la realidad. “Estamos trabajando en ello ahora mismo. Sé que todo el mundo lleva diciendo eso desde siempre, pero te juro que no estoy mintiendo sobre esto. De verdad creo que es algo que va a pasar pronto” . Un mensaje directo, sin rodeos, que apunta a que la película de Community podría entrar finalmente en una fase más concreta tras años de incertidumbre. Un proyecto aprobado… pero eternamente a",
@@ -2209,56 +2278,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Donald-Glover-en-Community.jpg"
-    },
-    {
-      "id": "467720e9685d725b75e7",
-      "title": "Chus Mateo, testigo directo de la explosión deportiva de Mara: \"Está soberbio\"",
-      "summary": "Mara y Mateo, antes del partido de las semifinales de la F4 de la NCAA.",
-      "link": "https://www.marca.com/baloncesto/basketfeb/2026/04/06/chus-mateo-testigo-directo-explosion-deportiva-mara-soberbio.html",
-      "pubDate": "Mon, 06 Apr 2026 02:02:58 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/05/69d25188311df.jpeg"
-    },
-    {
-      "id": "722e390f5eb7c136f29e",
-      "title": "UCLA gana su primer título femenino con pedigrí español",
-      "summary": "Lauren Betts celebra el triunfo con una compañera ante la mirada de su hermana Sienna.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/06/ucla-gana-primer-titulo-femenino-sabor-espanol.html",
-      "pubDate": "Mon, 06 Apr 2026 01:59:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d2f744088ff.jpeg"
-    },
-    {
-      "id": "cb823d5a92b91a62f991",
-      "title": "Desolación en la prensa valenciana",
-      "summary": "Así vienen las primeras páginas de este lunes 6 de abril de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/04/06/portadas-dia-gigantes-meritos.html",
-      "pubDate": "Mon, 06 Apr 2026 01:32:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d2f100a482e.jpeg"
-    },
-    {
-      "id": "b06c6d7702b874fffc71",
-      "title": "Gigante Aday Mara",
-      "summary": "Aday Mara hace un mate en la semifinal de la Final Four ante Arizona.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/04/06/partidazo-aday-mara-multiplica-opciones-cara-draft-nba.html",
-      "pubDate": "Mon, 06 Apr 2026 01:31:15 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d2edef26654.jpeg"
-    },
-    {
-      "id": "18ad4167517582592c7c",
-      "title": "El adiós de Bernardo Silva al City: \"Toda buena historia tiene un final\"",
-      "summary": "Pep Guardiola abraza a Bernardo Silva tras un partido.",
-      "link": "https://www.marca.com/futbol/premier-league/2026/04/06/lijnders-ayudante-guardiola-confirma-adios-bernardo-silva-toda-buena-historia-final.html",
-      "pubDate": "Mon, 06 Apr 2026 01:05:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/06/69d2e9eab7221.jpeg"
     },
     {
       "id": "151dca21bb35eaaea66c",
@@ -2419,6 +2438,16 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/820f40a3-aeb3-4f2d-bc16-e43d5a70ff74_16-9-discover-aspect-ratio_default_1093070.jpg"
+    },
+    {
+      "id": "73d35b58f7915d763a40",
+      "title": "Estos son los videojuegos que no debes perderte este abril",
+      "summary": "'Pragmata', 'Saros' y 'Tomodachi Life' son algunos de los juegos más destacados del mes para PC, PlayStation 5, Xbox Series y Nintendo Switch",
+      "link": "https://www.lavanguardia.com/neo/20260402/11504381/videojuegos-esperados-abril-2026-calendario-lanzamientos-ps5-xbox-switch-pc.html",
+      "pubDate": "02 Apr 2026 06:00:00 +0200",
+      "source": "La Vanguardia Tech",
+      "cat": "tech",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/01/69cd58a9cadab.jpeg"
     }
   ],
   "radar": {
@@ -2438,8 +2467,8 @@
       {
         "name": "Gemini",
         "type": "Modelo",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Alta atención",
+        "cls": "rb-orange"
       },
       {
         "name": "Claude",
@@ -2456,5 +2485,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-06T07:22:08.450870+00:00"
+  "updated": "2026-04-06T09:03:07.410731+00:00"
 }
