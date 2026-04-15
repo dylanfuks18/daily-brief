@@ -1,6 +1,286 @@
 {
   "articles": [
     {
+      "id": "85c31a44e0a061de1dda",
+      "title": "Muere Santamaría, histórico del Real Madrid",
+      "summary": "Santamaría, con la camiseta de España detrás.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/muere-santamaria-96-anos-edad.html",
+      "pubDate": "Wed, 15 Apr 2026 09:14:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9425da069f.jpeg"
+    },
+    {
+      "id": "9509480b39572ff0cb1f",
+      "title": "Roberto Gómez ensalza a Llorente: \"Tiene que ser imprescindible con España\"",
+      "summary": "Llorente remata ante Gerard Martín.",
+      "link": "https://www.marca.com/radio/2026/04/15/roberto-gomez-ensalza-llorente-imprescindible-espana.html",
+      "pubDate": "Wed, 15 Apr 2026 09:01:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb11024d64.jpeg"
+    },
+    {
+      "id": "6d5a2fe86cd35cd18ca6",
+      "title": "La pregunta de Ancelotti al presidente de Brasil",
+      "summary": "Un montaje con una imagen de Ancelotti, Lula y Neymar.",
+      "link": "https://www.marca.com/futbol/mundial/2026/04/15/pregunta-ancelotti-presidente-brasil-crees-deberiamos-convocar-neymar-mundial.html",
+      "pubDate": "Wed, 15 Apr 2026 08:58:02 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df34c41066d.jpeg"
+    },
+    {
+      "id": "dcb9ba01e95e30a3a08f",
+      "title": "El Atlético lo vuelve a hacer",
+      "summary": "LOS JUGADORES DEL ATLÉTICO CELEBRAN EL TRIUNFO.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/15/atletico-vuelve.html",
+      "pubDate": "Wed, 15 Apr 2026 08:52:47 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69deca8d99121.jpeg"
+    },
+    {
+      "id": "cb22624871f721146f35",
+      "title": "MARCA X3 sube el nivel: nueva cita este miércoles con el mejor pádel",
+      "summary": "Marca X3, segundo programa lunes 16 de marzo a las 15:00 en directo en YouTube.",
+      "link": "https://www.marca.com/padel/2026/04/15/marca-x3-sube-nivel-nueva-cita-miercoles-mejor-padel.html",
+      "pubDate": "Wed, 15 Apr 2026 08:38:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/16/69b73ee4f137a.jpeg"
+    },
+    {
+      "id": "786b775fa5b434fd98a0",
+      "title": "Los Blazers mandan a los Suns a la repesca y se clasifican para los Playoffs: 41 puntos de Deni Avdija",
+      "summary": "Los Blazers mandan a los Suns a la repesca y se clasifican para los Playoffs: 41 puntos de Deni Avdija",
+      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/04/15/blazers-mandan-suns-repesca-clasifican-playoffs-41-puntos-deni-avdija.html",
+      "pubDate": "Wed, 15 Apr 2026 08:13:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df2c63e21e7.jpeg"
+    },
+    {
+      "id": "5873063aff281ac2e4cc",
+      "title": "Uno de los mejores finales de la temporada: Lamelo Ball remonta y Bridges tapona en el último segundo",
+      "summary": "Los Hornets ganan un partido de infarto y eliminan a los Heat en 'play-in': LaMelo Ball, el héroe",
+      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/04/15/hornets-ganan-partido-infarto-eliminan-heat-play-in-lamelo-ball-heroe.html",
+      "pubDate": "Wed, 15 Apr 2026 08:07:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df2ae239f74.jpeg"
+    },
+    {
+      "id": "f36af62a569ed6d3a060",
+      "title": "Radio MARCA se sale del mapa: 642.000 oyentes y 122.000 más que hace un año",
+      "summary": "Radio MARCA se sale del mapa con unas cifras espectaculares en el EGM",
+      "link": "https://www.marca.com/radio/2026/04/15/radio-marca-sale-mapa-642-000-oyentes-122-000-ano.html",
+      "pubDate": "Wed, 15 Apr 2026 08:05:23 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df153f4cffe.png"
+    },
+    {
+      "id": "ecc0bf8180432db895c2",
+      "title": "\"Somos mucho mejores que el Atlético, nos los hemos comido con patatas\"",
+      "summary": "Gavi, centrocampista del Barcelona, analizó en TNT y HBO Max la eliminación en cuartos de final de la Champions League a manos del Atlético.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/15/gavi-mejores-atletico-hemos-comido-patatas-video.html",
+      "pubDate": "Wed, 15 Apr 2026 08:02:59 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acFDo1ftodbAA0KJi.jpeg"
+    },
+    {
+      "id": "68476c514c895c807214",
+      "title": "Nunca se había visto así a Henry: \"Antoine, tengo algo que decirte...\"",
+      "summary": "Thierry Henry, ex del Barcelona y leyenda del fútbol francés, se rindió ante Antoine Griezmann en CBS Sports tras el partido en el que el Atlético de Madrid eliminó al F.C. Barcelona en cuartos de final de la Champions League.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/15/thierry-henry-rinde-genio-griezmann-le-ofrece-ayuda-gracias-video.html",
+      "pubDate": "Wed, 15 Apr 2026 07:40:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acEoi1ftoJ9ACaAM2.jpeg"
+    },
+    {
+      "id": "b8e3a018b457a2b26dc8",
+      "title": "Los Lakers confirman que no hay milagro español con Doncic",
+      "summary": "Los Lakers confirman que no hay milagro español con Doncic: \"Luka es baja indefinida\"",
+      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/04/15/lakers-confirman-hay-milagro-espanol-doncic-luka-baja-indefinida.html",
+      "pubDate": "Wed, 15 Apr 2026 07:39:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df243109419.jpeg"
+    },
+    {
+      "id": "a5d4966a9c0000827fb0",
+      "title": "Rufián se compara a Guardiola: \"Hasta él se fue...\"",
+      "summary": "Gabriel Rufián permanecerá en su partido ERC hasta que lo \"echen\"",
+      "link": "https://www.marca.com/tiramillas/politica/2026/04/15/rufian-cree-partido-le-eche-insistir-unidad-izquierda-e-bromea-guardiola-barca.html",
+      "pubDate": "Wed, 15 Apr 2026 07:32:43 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df1ef6935d3.jpeg"
+    },
+    {
+      "id": "5560c03627259fbd2441",
+      "title": "El plantón de Flick a Simeone",
+      "summary": "Diego Pablo Simeone espera más de un minuto y medio a Hansi Flick para saludarlo, tras eliminar el Atlético al Barcelona en cuartos de final de la Champions League, pero se queda con las ganas.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/15/simeone-espera-minuto-medio-flick-saludarlo-queda-ganas-video.html",
+      "pubDate": "Wed, 15 Apr 2026 07:19:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acEMm1ftnzXmC8ZSC.jpeg"
+    },
+    {
+      "id": "ae40b6e29c4ff2c726fd",
+      "title": "Javier Milei y sus medidas, en vivo: repercusiones de la inflación de mazo y cómo continúan las denuncias contra Adorni",
+      "summary": "No hay noticias buenas . La suerte del Presidente es esquiva dentro y fuera del país. Tenaz inflación nacional ; denuncias de corrupción de funcionarios libertarios; la derrota de Viktor Orban , su amigo húngaro, el último domingo, y, encima, la encerrona iraní en la que se encuentra su aliado más poderoso: Donald Trump. Trump le hizo lo mismo a su más viejo amigo Mauricio Macri cuando este era presidente. Lo ayudaba en los trámites formales, sobre todo en el Fondo Monetario Internacional, pero las políticas internas y externas de los Estados Unidos complicaron seriamente el segundo tramo de la presidencia del líder argentino, que resultó su último trecho como jefe del Estado. A Milei también lo auxilió en el FMI para que lograra un nuevo acuerdo y lo socorrió cuando en septiembre del año pasado el peronismo ganó la provincia de Buenos Aires. Trump hizo algo más con Milei: le mostró un cheque de 20.000 millones de dólares a la sociedad argentina, pero le advirtió que solo se lo prestaría al actual presidente argentino. El cheque desaparecería si en las elecciones nacionales del siguiente mes de octubre el peronismo ganaba las elecciones. Milei triunfó ampliamente esa primavera de vértigo. Sin embargo, es el mismo Trump que emprendió una guerra, inconclusa aún, con los criminales ayatollah de Irán. El régimen teocrático de Teherán está desabasteciendo de energía al mundo porque todavía controla gran parte del estrecho de Ormuz. Nadie se puede explicar por qué Estados Unidos no previó el control del clave Ormuz antes de comenzar la guerra; atravesar esa angosta vía marítima, por la que pasa gran parte del petróleo y el gas de varios países árabes, es todavía un riesgo que ningún barco particular quiere correr. La escasez energética se apoderó del mundo . La caída en la oferta de combustibles fósiles significó un aumento en el precio del petróleo y el gas y una inflación más alta en el mundo , también en los Estados Unidos y en la Argentina. Leé la nota completa acá El",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 07:15:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZIVUM3JXHFC4FOFUTIGLU7THWI.jpg?auth=7f5a1692ea8eab671e9d03c10ded6c92e517afdb2a9fcb8512219c2245766bc8&smart=true&width=3951&height=2634"
+    },
+    {
+      "id": "6781d2c94f964143fdd3",
+      "title": "Cómo escalar un eCommerce en 2026 sin disparar el coste de adquisición",
+      "summary": "El crecimiento en eCommerce se enfrenta a un reto cada vez más evidente: escalar sin que el coste de adquisición (CAC) se dispare . En un entorno con más competencia, mayor saturación publicitaria y usuarios más exigentes, mantener la rentabilidad se ha convertido en una prioridad para muchas marcas. En este contexto, el próximo 23 de abril a las 17:00h tendrá lugar un evento online centrado en estrategias de growth para eCommerce , donde profesionales de compañías como Forum Sport, Padel Nuestro o Fitness Digital compartirán cómo están abordando este desafío en su día a día. ¡Apúntate gratis aquí! El crecimiento ya no depende sólo de invertir más Durante los últimos años, muchas marcas han optado por aumentar su inversión en captación como principal vía de crecimiento. Sin embargo, este enfoque empieza a mostrar sus límites: invertir más no siempre implica obtener mejores resultados . Uno de los problemas más habituales está en la estrategia. Aspectos como creatividades poco diferenciadas, dependencia excesiva de canales de pago o una falta de optimización del funnel están afectando directamente al rendimiento de las campañas. En este escenario, la clave pasa por cambiar el enfoque. En lugar de centrar todos los esfuerzos en atraer tráfico, cada vez más eCommerce están trabajando en entender mejor el comportamiento del usuario y optimizar cada fase del funnel . Esto permite mejorar resultados sin necesidad de incrementar el presupuesto. Optimizar la conversión y la experiencia de usuario Los eCommerce que están consiguiendo crecer de forma más eficiente comparten un punto en común: ponen el foco en la conversión y la experiencia de compra . Esto implica trabajar aspectos como: Reducir fricciones durante el proceso de compra Mejorar la velocidad y usabilidad de la web Facilitar la navegación y la toma de decisiones Pequeñas mejoras en estos puntos pueden tener un impacto directo en los resultados, ya que aumentan la probabilidad de conversión sin necesidad de genera",
+      "link": "https://marketing4ecommerce.net/estrategias-de-growth-para-ecommerce-webinar/",
+      "pubDate": "Wed, 15 Apr 2026 07:08:59 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "tech",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/growth-ecommerce-webinar-1024x614.jpg"
+    },
+    {
+      "id": "344bc2603ada7e85d255",
+      "title": "Un ciudadano francés gana en un sorteo un ‘picasso’ valorado en un millón de euros",
+      "summary": "El momento en que Ari Hodora descubre que es el ganador del cuadro en la subasta de este martes en París.",
+      "link": "https://elpais.com/cultura/2026-04-15/un-ciudadano-frances-gana-en-un-sorteo-un-picasso-valorado-en-un-millon-de-euros.html",
+      "pubDate": "Wed, 15 Apr 2026 07:05:06 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4S5S2HLCVBJH7KCESENMVCZEIQ.jpg?auth=27fbefd6c8955252482d3e8278c57614d3724a96978d679791ce79b78288b8f1"
+    },
+    {
+      "id": "5df7763d0b58e458d760",
+      "title": "Dólar blue hoy: a cuánto cotiza este miércoles 15 de abril",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-15-abril_0_GyobUzk8Ti.html",
+      "pubDate": "Wed, 15 Apr 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1200x630__1.jpg"
+    },
+    {
+      "id": "0c8b814863b445da13b1",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, miércoles 15 de abril",
+      "summary": "En una entrevista para Fox News, el presidente de Estados Unidos, Donald Trump, dijo que Washington está “muy cerca de terminar” la guerra con Irán. “ Creo que está cerca de terminar. Lo veo como muy cerca de terminar ”, indicó Trump en diálogo con Maria Bartiromo de Fox News. No obstante, cabe mencionar que el mandatario estadounidense ha afirmado esto en reiteradas ocasiones desde el inicio del conflicto bélico. En ese sentido, el lunes Trump habló de la posibilidad de conseguir nuevas conversaciones con Irán después de que las negociaciones del fin de semana pasado en Islamabad no lograran un acuerdo. Hasta el momento, no se conocen planes sustanciales para entablar conversaciones. “ Ya veremos qué pasa . Creo que (Irán) tiene muchas ganas de llegar a un acuerdo”, le comentó Trump a Bartiromo. El presidente estadounidense arremetió contra la primera ministra italiana, Giorgia Meloni , una de sus aliadas más cercanas, diciendo que le faltaba valor por no unirse a Estados Unidos en el ataque contra Irán. “Estoy conmocionado por ella. Pensaba que tenía coraje, pero me equivoqué”, declaró el presidente estadounidense al periódico italiano Corriere della Sera . Las declaraciones de Trump se produjeron después de que el gobierno de extrema derecha de Meloni anunciara la suspensión de la renovación automática de su acuerdo de cooperación en materia de defensa con Israel. Según la televisión israelí, durante la medianoche del miércoles se lanzaron 20 cohetes desde el Líbano hacia la región de Galilea, en el norte de Israel . Algunos fueron interceptados y otros cayeron en zonas despobladas. Los ataques hicieron sonar las sirenas en Manara y Kiryat Shmona, detallaron. Equipos de defensa civil y paramédicos libaneses recuperaron cuatro cadáveres tras una incursión israelí en la zona de Qadmus, en el sur del Líbano, según informa la agencia oficial de noticias NNA . La agencia informó que también rescataron a tres personas heridas . Existe una gran desconfianza entre Estado",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/LHYIXGJC65CKNI7RZG4YAEWQAY.JPG?auth=294a1e59f63ab48ad6ad75b200de710776bfd64ae369f88f894d6642a2b2de4e&smart=true&width=8256&height=5504"
+    },
+    {
+      "id": "f86efe85dafb4580abad",
+      "title": "La receta casera de los bombones Oreo sin harina",
+      "summary": "Los bombones Oreo son uno de los bocaditos dulces ideales para degustar en cualquier momento. En las redes sociales, su receta se volvió furor y cada vez más son los que se suman para replicarla , en particular por su sencillez y rapidez en la preparación . A continuación, aprendé la guía definitiva y disfrutá de esta tentación irresistible. Receta de los bombones Oreo Ingredientes: 2 paquetes galletitas Oreo de 230 g. 3 cucharadas de dulce de leche clásico. 150 g de chocolate cobertura. Paso a paso: Con ayuda de un mixer triturá las galletitas en un bol. Cuando queden hechas polvo, añadí las cucharadas de dulce de leche. Formá bolitas iguales y dejalas sobre una placa forrada con papel manteca. Enviá al freezer por 20 minutos o hasta que estén consistentes. Fundí el chocolate a baño María o en el microondas. Recordá que si utilizás este último paso, lo debés hacer a potencia mínima y con intervalos de 1 minuto. Esto evita que se queme. Retirá las bolitas del freezer. Bañalas en el chocolate fundido y dejalas enfriar a temperatura ambiente o en la heladera. Servir cuando el chocolate esté duro. Receta de bombones de Oreo Tiempo de elaboración total: 25 minutos.",
+      "link": "https://www.lanacion.com.ar/recetas/la-receta-casera-de-los-bombones-oreo-sin-harina-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/45ODXGAWBRFA5D4MBOKFNPJWE4.png?auth=c223100622ab064fc95e1f7299b52a51e842f68bd84230777d3859cd134a03cf&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "344b9c09ce767b9cc034",
+      "title": "EE.UU. amenaza a bancos de varios países por vínculos con Irán",
+      "summary": "La advertencia se produce en paralelo a la decisión de la Casa Blanca de no renovar la exención de sanciones sobre el petróleo iraní, que expira esta semana.",
+      "link": "https://actualidad.rt.com/actualidad/599353-eeuu-amenaza-bancos-paises-vinculos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 06:59:54 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df28fe59bf5b2ccb39189f.jpg"
+    },
+    {
+      "id": "80efee417fe5cb7282a5",
+      "title": "Milei en AmCham: dijo que no le gustó el dato de inflación, pero aseguró que no cambiará la política económica",
+      "summary": "Javier Milei tuvo este martes un cara a cara con el círculo rojo político y empresarial de la Argentina en el summit de AmCham . Arribó con su jefe de Gabinete, Manuel Adorni , en el centro de la polémica por su falta de explicaciones respecto de su patrimonio y sus viajes desde hace semanas. Los murmullos sobre la figura del ministro coordinador corrieron como agua en los pasillos del Centro de Convenciones de Buenos Aires, donde se hizo el evento. El Presidente llegó en un día particular al encuentro porque hoy se cumple justo un año de que su administración decidió salir del cepo al dólar , uno de los hitos más importantes de su gestión en materia económica, pero también a solo unas horas de que se conociera un número de inflación de marzo de 3,4% , que lleva el acumulado de 2026 a 9,4%. Esto cuando el Gobierno había estipulado 10,1% para todo el año en el Presupuesto. En eso último se enfocó Milei a la hora de hablar. En el primer tramo de su discurso -que dio ante un auditorio con las luces bajas y en tonos azules que tornaron casi imperceptibles los rostros-, el mandatario culpó por los más de 3 puntos de inflación de marzo a los ataques políticos que pasó su gobierno el año pasado y a los factores estacionales . En un segundo tramo, en un tono más ferviente, que le hizo vibrar la garganta, descartó cualquier modificación en su programa económico y volvió a pedir paciencia . En el público, además de Adorni en primera fila, acompañaron al Presidente los ministros Diego Santilli, Mario Lugones y el canciller Pablo Quirno ; diputados nacionales libertarios, con Gabriel Bornoroni a la cabeza; y también el embajador de Estados Unidos, Peter Lamelas. “Tendríamos un montón de cosas muy buenas para hablar el día de hoy, pero como soy Milei y detesto la forma de hacer las cosas de la política tradicional, y como odio la inflación, y como el dato no me gustó y me repugna voy a hablar de inflación ”, arrancó Milei y recibió los primeros aplausos del público, a salón casi",
+      "link": "https://www.lanacion.com.ar/politica/milei-cierra-amcham-acompanado-por-adorni-a-un-ano-de-la-salida-del-cepo-pero-con-la-inflacion-nid14042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:58:11 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/5KOHEGNRHFFD7EFMSFKNQCUNGI.JPG?auth=0662a52a918c97fe23cd1b2d9c73b834605b57f250e7c12d145013a2de616308&smart=true&width=3000&height=2000"
+    },
+    {
+      "id": "5db1ce00185e29b11f67",
+      "title": "Milei: cuando toca la mala hora",
+      "summary": "No hay noticias buenas . La suerte del Presidente es esquiva dentro y fuera del país. Tenaz inflación nacional ; denuncias de corrupción de funcionarios libertarios; la derrota de Viktor Orban , su amigo húngaro, el último domingo, y, encima, la encerrona iraní en la que se encuentra su aliado más poderoso: Donald Trump. Trump le hizo lo mismo a su más viejo amigo Mauricio Macri cuando este era presidente. Lo ayudaba en los trámites formales, sobre todo en el Fondo Monetario Internacional, pero las políticas internas y externas de los Estados Unidos complicaron seriamente el segundo tramo de la presidencia del líder argentino, que resultó su último trecho como jefe del Estado. A Milei también lo auxilió en el FMI para que lograra un nuevo acuerdo y lo socorrió cuando en septiembre del año pasado el peronismo ganó la provincia de Buenos Aires. Trump hizo algo más con Milei: le mostró un cheque de 20.000 millones de dólares a la sociedad argentina, pero le advirtió que solo se lo prestaría al actual presidente argentino. El cheque desaparecería si en las elecciones nacionales del siguiente mes de octubre el peronismo ganaba las elecciones. Milei triunfó ampliamente esa primavera de vértigo. Adorni no había declarado ante la OA la casa del country: la agregó ahora a su presentación, un año tarde Sin embargo, es el mismo Trump que emprendió una guerra, inconclusa aún, con los criminales ayatollah de Irán. El régimen teocrático de Teherán está desabasteciendo de energía al mundo porque todavía controla gran parte del estrecho de Ormuz. Nadie se puede explicar por qué Estados Unidos no previó el control del clave Ormuz antes de comenzar la guerra; atravesar esa angosta vía marítima, por la que pasa gran parte del petróleo y el gas de varios países árabes, es todavía un riesgo que ningún barco particular quiere correr. La escasez energética se apoderó del mundo . La caída en la oferta de combustibles fósiles significó un aumento en el precio del petróleo y el gas y una inf",
+      "link": "https://www.lanacion.com.ar/politica/milei-cuando-toca-la-mala-hora-nid14042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:57:45 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/LMUMDRBNCFFVNL3UJFGOIFUVZM.jpg?auth=2489cd8d1f64562812f68f322cc0395f304341ba630f23386ea999af4e8bd5dd&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "4b37ea045499709f733c",
+      "title": "Apagón en 2 provincias rusas por ataques ucranianos",
+      "summary": "Los cortes del suministro eléctrico se produjeron en Zaporozhie y Jersón.",
+      "link": "https://actualidad.rt.com/actualidad/599355-ataques-ucrania-apagon-dos-provincias-rusas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 06:51:20 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df39a6e9ff7111623217ae.jpg"
+    },
+    {
+      "id": "00d60cf44e1ae2104a34",
+      "title": "Día 47 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente entró este miércoles 15 de abril en su 47° día de guerra . Después de las fallidas negociaciones en Pakistán y del bloqueo de Estados Unidos a puertos iraníes, la tensión aumentó, mientras que el precio del barril de petróleo subió. Donald Trump arremetió contra el Papa León XIV. Desde el gobierno norteamericano, por su parte, aseguraron que buscan un “gran trato”. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Estados Unidos activa el bloqueo naval del estrecho de Ormuz y Trump afirma que Irán quiere seguir el diálogo. Funcionarios de Rusia y de China se reúnen para discutir sobre el conflicto en Medio Oriente. Canadá, Australia, el Reino Unido y otros países piden el cese urgente de las hostilidades en el Líbano. El secretario del Tesoro estadounidense afirmó que China no podrá obtener petróleo iraní. JD Vance: “Trump quiere un gran trato”. Irán registró el mayor número de ejecuciones desde 1989 el año pasado. Otros hechos de importancia El papa León XIV pidió por la paz en el Líbano y reclamó un cese al fuego. En respuesta a las expresiones del Papa, el mandatario estadounidense le respondió: “No quiero un Papa que piense que está ok que Irán tenga un arma nuclear”. Israel informó la muerte de un soldado en el sur de Líbano. Pakistán vuelve a proponerse como sede de negociación. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayam",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-47-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:46:10 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/DVCX7YFKE5DKPD7O3BQXMXT47M.JPG?auth=1ff714a6a1f85b7a1ab8d57abd208e3a0ee8c3a216cd8269f4eab64f97bb1f95&smart=true&width=5240&height=3470"
+    },
+    {
+      "id": "c2cb426a01c09bb64bfb",
+      "title": "Trump critica de nuevo al Papa: “¿Le pueden decir que Irán ha matado a 42.000 inocentes?”",
+      "summary": "Donald Trump el 13 de abril en la Casa Blanca.",
+      "link": "https://elpais.com/internacional/2026-04-15/trump-critica-de-nuevo-al-papa-le-pueden-decir-que-iran-ha-matado-a-42000-inocentes.html",
+      "pubDate": "Wed, 15 Apr 2026 06:42:43 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/X5RN3QLTEVFT5KN7WR7TECPWRA.jpg?auth=cd5afc191f7f1c0c3998e53f38724f21134aa28f59e313e86665c3ff9510f9ef"
+    },
+    {
+      "id": "cad5aad1013c7ee382bb",
+      "title": "Cómo las políticas de Ron DeSantis a favor del ICE han influido en la vida de los migrantes en Florida",
+      "summary": "La política migratoria impulsada en Florida , basada en la colaboración con el Servicio de Inmigración y Control de Aduanas (ICE , por sus siglas en inglés), abrió un debate sobre las consecuencias que trajo para los residentes. El estado implementó medidas que obligan a agencias locales a participar en tareas vinculadas al control migratorio . Programa 287(g): la alianza de Florida con el ICE y el costo político para Ron DeSantis De acuerdo con la columnista de política de Bloomberg Opinion , Mary Ellen Klas , la oficina del ICE en Miami registró 41.000 arrestos entre enero de 2025 y marzo de 2026 , cifra superior a otras regiones del país norteamericano. Este incremento se vincula, según explicó en su artículo, con la ampliación de la cooperación entre autoridades locales y federales. Las políticas impulsadas por el gobernador DeSantis se apoyan en acuerdos del programa 287(g) , que permiten a fuerzas de seguridad estatales asumir funciones asociadas a inmigración bajo supervisión federal . Florida amplió la implementación de este modelo en múltiples condados. “Florida está cambiando drásticamente, aunque discretamente, la forma en que se aplican las leyes de inmigración”, señaló la columnista. “Los líderes republicanos del estado lo han convertido en un campo de pruebas para las agresivas tácticas de control migratorio promovidas por Stephen Miller , subjefe de gabinete de la Casa Blanca”, aseguró. Cómo la política en Florida impacta en la migración Según el Instituto de Política Migratoria , solo en el sur del estado, especialmente en Miami-Dade y Monroe, se concentra una población estimada de 356 mil personas sin estatus regular . Los datos indican que gran parte de la población alcanzada por estas medidas proviene de Venezuela y países de Centroamérica . El sistema en el Estado del Sol permite que infracciones menores deriven en procesos migratorios . Entre los procedimientos habituales se incluyen controles de tránsito y verificación de datos vinculados a veh",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/como-las-politicas-de-ron-desantis-a-favor-del-ice-han-influido-en-la-vida-de-los-migrantes-en-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:40:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZRL3632KFFBQBOCT4BPPJWRSHM.jpg?auth=309f1a50f9942411b43793249d8ee51d802f2a2f13bf4926a6a1260aedd2885c&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "2bfb41f192af33c56b3f",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que la guerra con Irán está “cerca de terminar” y vuelve a cargar contra la OTAN",
+      "summary": "Manifestación en apoyo al Gobierno iraní, el martes en Teherán.",
+      "link": "https://elpais.com/internacional/2026-04-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Wed, 15 Apr 2026 06:34:11 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/PU5PEHMTCVKSDDV3PJ6X5PN5JE.jpg?auth=7e3cce59fdc0b5a4fff863e9f52771ccd20ceac689d4cb5561b4acb8810eb9be"
+    },
+    {
+      "id": "60cc3aa3bd7564c708a5",
+      "title": "Tormenta deja al descubierto un cadáver inquietante y nadie logra explicar qué es",
+      "summary": "En una playa galesa se hallaron los restos de un animal con características inusuales que no parecen corresponder a una especie marina.",
+      "link": "https://actualidad.rt.com/viral/599307-tormenta-deja-descubierto-cadaver-inquietante-explicar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 06:31:08 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69deaae059bf5b35a342fcd7.jpg"
+    },
+    {
       "id": "5929e0390a88151992d2",
       "title": "\"¿Acaso ha terminado la guerra?\"",
       "summary": "Manifestaciones ucranianas contra Rusia",
@@ -9,6 +289,26 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de7850bb577.jpeg"
+    },
+    {
+      "id": "bf9db34852806e5f10d1",
+      "title": "La inflación de marzo fue de 3,4% y acumuló 9,4% en el año, según el Indec",
+      "summary": "La inflación de marzo volvió a acelerarse, lleva diez meses sin bajar y fue de 3,4%. Se trata de la más alta en lo que va de 2026. En el primer trimestre, acumuló 9,4%, casi la variación esperada para todo el año por el ministro de Economía, Luis Caputo, en su proyecto de presupuesto. El Gobierno y los economistas privados creen que en este mes finalmente se ralentizará. El incremento interanual llegó a 32,6%, según informó el Indec. El mismo trimestre, pero de 2005, había acumulado un 8,6% frente al 9,4% de este. El dato de marzo fue mayor al esperado por el mercado (3%), pero además se aceleró una décima la inflación núcleo (3,2%), que no contempla regulados y estacionales. Los capítulos que más aumentaron fueron Educación (12,1%); Transporte (4,1%) y Vivienda, Agua, Electricidad, gas y otros combustibles (3,7%). Los alimentos subieron 3,4% (en la carne, que habría aflojado en abril, hubo alzas de hasta el 8%). Hay regiones del país (noroeste y noreste) que tuvieron una inflación del 4% en el mes. “El dato es malo”, posteó Javier Milei. “El dato no nos gusta, ya que la inflación nos repugna. Sin embargo, hoy elementos duros que nos permiten explicar lo que ha pasado y especialmente esperar que a futuro la inflación retorne a su sendero decreciente”, dijo el Presidente en su cuenta de X. INFLACIÓN El dato es malo. El dato no nos gusta ya que la inflación nos repugna. Sin embargo, hoy elementos duros que nos permiten explicar lo que ha pasado y especialmente esperar que a futuro la inflación retorne a su sendero decreciente. VLLC! PD: hoy explicaré en AmCham https://t.co/i8a5ntCtqX Javier Milei (@JMilei) April 14, 2026 La suba de precios del mes de marzo fue la más alta en un año, desde marzo de 2025, cuando marcó 3,7%. Aquel mes, el propio Caputo había adelantado que el esquema cambiario se modificaría en el marco de la negociación con el Fondo Monetario Internacional (FMI), pero sin dar precisiones. Entonces, la volatilidad cambiaria impactó de lleno en los precio",
+      "link": "https://www.lanacion.com.ar/economia/la-inflacion-de-marzo-fue-de-34-y-acumulo-94-en-el-ano-nid14042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:28:51 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/NWJM7XDJC5BQ3LCTOCCEOPT5DY.jpg?auth=59cd0da49fa7dd39c229c9f5ea324196c05387f43a6f067e9fa97fe825f1c7ba&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "c0322f6a45117f2c34d9",
+      "title": "Un nene de 5 años fue arrastrado una cuadra por un colectivo en Villa Fiorito",
+      "summary": "Quedó atrapado en la puerta trasera del vehículo cuando bajaba junto a su abuela. Sufrió politraumatismos y quemaduras, y debió ser internado, aunque se encuentra fuera de peligro.",
+      "link": "https://www.clarin.com/sociedad/nene-5-anos-arrastrado-cuadra-colectivo-villa-fiorito_0_dSrdHH4A9X.html",
+      "pubDate": "Wed, 15 Apr 2026 06:27:58 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/15/xF7KqZs85_1200x630__1.jpg"
     },
     {
       "id": "be34e4dab8c89c7cb7b2",
@@ -71,6 +371,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/09/69d7bced8597d.jpeg"
     },
     {
+      "id": "2fb161cc5169ec338080",
+      "title": "Temporal y caos en Coronel Suárez: cayeron 100 milímetros de agua en menos de media hora y se inundó la ciudad",
+      "summary": "El martes por la noche una lluvia torrencial afectó la localidad de Coronel Suárez , ubicada al de la provincia de Buenos Aires. En menos de media hora cayeron 100 milímetros de agua y se inundó la ciudad. Desde el Servicio Meteorológico Nacional (SMN) activaron una alerta amarilla por tormentas y ráfagas de viento para el centro y oeste de la provincia de Buenos Aires. Por la copiosa lluvia, en diversos sectores del tejido urbano el agua alcanzó niveles considerables, tapando vehículos estacionados e imposibilitando la libre circulación , detallaron las autoridades locales. Además, debido a la fugacidad del temporal, varias personas quedaron atrapadas dentro de sus automóviles , motivo por el cual se desplegó un gran operativo encabezado por la unidad de Bomberos Voluntarios, consignó el medio local Radio Suárez . La lluvia también tapó los principales desagües e interrumpió el suministro de la energía eléctrica. Pese al caos que generó el desastre natural, no hubo que lamentar víctimas fatales . Por otro lado, los domicilios particulares también se vieron afectados. Debido al intenso caudal, el agua empezó a colarse entre las estructuras , despertando la desesperación de los vecinos. Además de la zona centro, los operativos de emergencia se desplegaron en diversos barrios periféricos de Coronel Suárez. Las imágenes y videos del temporal se viralizaron rápidamente en redes sociales. Qué dice el alerta del SMN El ente meteorológico emitió durante la medianoche del miércoles un alerta amarilla para Coronel Suárez, donde continuarán las tormentas hasta el mediodía del miércoles inclusive. A partir de las previsiones del SMN, el agua regresaría el viernes y se prolongaría hasta la noche del sábado . La alerta amarilla también incluye otras ciudades del centro, oeste y sur de la Provincia, que se extiende por lo que resta del martes hasta el mediodía del miércoles. Un temporal que dejó 40.000 usuarios sin luz Durante la última semana de marzo, intensas tormentas azotaro",
+      "link": "https://www.lanacion.com.ar/sociedad/temporal-y-caos-en-coronel-suarez-cayeron-100-milimetros-de-agua-en-menos-de-media-hora-y-se-inundo-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:09:51 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/7HHVNSYXPRDT5PV22MVUFLNHYM.png?auth=0915996ac30069442d248678df8c4dd7d578bbad08f5f062404319291478c38b&smart=true&width=644&height=382"
+    },
+    {
+      "id": "983e9e95d38f78825910",
+      "title": "La SER revalida su liderazgo de la radio española con 4.592.000 oyentes",
+      "summary": "Emisión del programa 'Hoy por hoy', en la Cadena SER.",
+      "link": "https://elpais.com/comunicacion/2026-04-15/la-ser-revalida-su-liderazgo-de-la-radio-espanola-con-4592000-oyentes.html",
+      "pubDate": "Wed, 15 Apr 2026 06:09:50 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/7MLF3CYOXJE5VHGHMMNUK433KA.jpg?auth=fd4b713476e3b2cd5b86bb7e9bd735d300747aa68c609247c4bc9453193a5154"
+    },
+    {
       "id": "a62a9957a61f5d4b22dd",
       "title": "Más vidas que el Vitesse: le expulsan de la Liga y ahora puede ascender a Primera ¡quedando decimosegundo!",
       "summary": "Los jugadores del Vitesse celebran una victoria.",
@@ -91,6 +411,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de9c43d740e.jpeg"
     },
     {
+      "id": "acf345d97f68a6521430",
+      "title": "Trump dice que la guerra con Irán está a punto de terminar y promete \"2 días increíbles\" (MINUTO A MINUTO)",
+      "summary": "Asimismo, el mandatario descartó extender el alto el fuego, al considerar que podría no ser necesario.",
+      "link": "https://actualidad.rt.com/actualidad/599345-trump-dice-guerra-iran-esta?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 06:05:42 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df2a6959bf5b2cdb09c961.jpg"
+    },
+    {
       "id": "193d210f98bc361b146c",
       "title": "Huracán Kane: 14 goles en los últimos 10 partidos",
       "summary": "Bayern's Harry Kane celebrates scoring his side's second goal during the Champions League quarterfinal first leg soccer match between Real Madrid and Bayern Munich in Madrid, Spain, Tuesday, April 7, 2026. (AP Photo/Jose Breton)",
@@ -101,34 +431,247 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/08/69d5e7f9ee49d.jpeg"
     },
     {
-      "id": "f4ee7a40742fc9a4eba2",
-      "title": "Trump: \"Verán 2 días maravillosos\"",
-      "summary": "El mandatario afirmó que no ve necesario extender el alto el fuego con Irán.",
-      "link": "https://actualidad.rt.com/actualidad/599347-trump-veran-2-dias-maravillosos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 04:38:00 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+      "id": "33479c280f58605f3285",
+      "title": "Una violenta escena de sexo y una silla revoleada contra una pared: Lena Dunham reveló los detalles de su compleja relación con Adam Driver",
+      "summary": "En sus nuevas memorias, Famesick , Lena Dunham brinda detalles escandalosos de la relación que mantuvo con el protagonista de Girls , Adam Driver tanto delante como detrás de cámaras. La serie de HBO se emitió desde 2012 a 2017. Allí, además de ejercer el rol de directora, Durham interpretaba a Hannah Horvath, una escritora egocéntrica y encantadora, mientras que Driver encarnaba a Adam, el novio tóxico de la protagonista. Según la versión de la actriz, los problemas entre ellos comenzaron durante las grabaciones de la primera temporada. Dunham afirma que su compañero la zarandeó de un lado a otro durante su primera escena de sexo. “Me quedé atónita y sin palabras. No entendía qué había pasado: ¿había perdido la autoridad como directora? ¿Había permitido que la escena se descontrolara? ¿No había recibido las instrucciones adecuadas? ¿Me destituirían de mi puesto de mando inmediatamente?“, rememora la actriz en su nuevo libro. Y explica: “No es que me sintiera violada, y tampoco sabría decir si lo había sido, ya que en mi vida sexual casi todo lo había permitido, y sin cobrar. Pero sentí que algo íntimo, confuso y primitivo se había desatado en una situación que se suponía que yo debía controlar”. También asegura que Driver salió sin decir nada de la habitación después de que ella le mostrara el episodio piloto. “No respondió a ninguna de mis llamadas durante las siguientes tres semanas”, asegura. Según su relato, cuando finalmente la llamó, Dunham estaba segura de que iba a renunciar al programa, pero en cambio admitió que se marchó apresuradamente porque odia verse a sí mismo. También relató un incidente en el que Driver se frustró con ella por olvidar sus diálogos durante el ensayo y reaccionó de manera violenta. “Recuerdo haber grabado una escena de lucha con Adam y lo aterrador que fue encontrarme con alguien tan presente y a la vez tan ausente”, indicó. “Una noche, mientras ensayábamos nuestros diálogos en mi camarín, de repente me di cuenta de que los había ol",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/una-violenta-escena-de-sexo-y-una-silla-revoleada-contra-una-pared-lena-dunham-revelo-los-detalles-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:04:08 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/6P7CCRFYQZDMJH7IWP44HAWQHE.jpg?auth=cf365620ffab2bf70054942ad9d3c6304730f403fbecf17293f9f0726d00e1be&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
     },
     {
-      "id": "0c8b814863b445da13b1",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, miércoles 15 de abril",
-      "summary": "NUEVA YORK.–En un artículo publicado por su junta editorial, de The New York Times , propuso, a partir de la victoria de Peter Magyar en Hungría, una suerte de “manual” político para derrotar al trumpismo . LOS PRINCIPALES PASAJES DEL EDITORIAL ACÁ. A través de ese caso, el diario estadounidense identificó estrategias, errores y lecciones que podrían resultar clave para las fuerzas opositoras que buscan construir una alternativa competitiva frente a liderazgos de ese estilo. A continuación, los principales pasajes de ese editorial. El ejército estadounidense bloqueó por completo el tráfico comercial hacia y desde los puertos iraníes , según declaró el almirante Brad Cooper, jefe del Centcom. Statement from Adm. Brad Cooper, CENTCOM commander: pic.twitter.com/dJxKJcEcmO U.S. Central Command (@CENTCOM) April 15, 2026 El bloqueo comenzó el lunes, pero los sistemas de seguimiento mostraron que varios buques vinculados a Irán transitaron por el estrecho de Ormuz posteriormente. Se desconoce si dichos buques zarparon dentro del plazo establecido. El enfrentamiento entre Donald Trump y el Papa León XIV no surgió de un episodio aislado ni de una declaración desafortunada , sino de una acumulación de diferencias profundas que venían gestándose incluso antes de que Robert Francis Prevost llegara al Vaticano. Aunque no pertenecía a la Conferencia Episcopal de Estados Unidos, el primer papa estadounidense combina un conocimiento directo de la política y la cultura de su país con una mirada pastoral moldeada en América Latina, lo que le permite intervenir con una autoridad singular en debates que cruzan religión, poder y sociedad. UNO POR UNO, TODOS LOS EPISODIOS, ACÁ A diferencia de su predecesor, además, logró construir un apoyo creciente entre sectores conservadores del catolicismo estadounidense, un dato clave en un escenario donde la base electoral de Trump incluye a millones de fieles. El vicepresidente de Estados Unidos JD Vance fue abucheado el martes en un evento de Tur",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 04:35:00 +0000",
-      "source": "La Nacion",
+      "id": "1ffee5e7bad31ad83d65",
+      "title": "Dos bebés cambiadas al nacer: el caso que salió a la luz 40 años después",
+      "summary": "Un análisis de ADN reveló que dos mujeres nacidas en 1986 en el Hospital Italiano fueron intercambiadas. La Justicia investiga si hubo un error o una maniobra deliberada.",
+      "link": "https://actualidad.rt.com/actualidad/599300-bebes-cambiadas-nacer-caso-salio?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 06:02:54 +0000",
+      "source": "RT en Español",
       "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/5KVQENPNZBAZXCYOD32VCR2GZY.JPG?auth=0bff6bc340bcdc8faff92568be919af6878c447c71e3a38dc21a2cdc1391db83&smart=true&width=8640&height=5760"
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69de8e6a59bf5b1bf9192736.jpg"
+    },
+    {
+      "id": "4ca45caa98e538b4d006",
+      "title": "Abril trae un Patch Tuesday masivo",
+      "summary": "Cada segundo martes de mes llega una cita habitual para administradores de sistemas y usuarios de Windows: el Patch Tuesday , el ciclo de actualizaciones de seguridad de Microsoft en el que la compañía publica correcciones para vulnerabilidades detectadas en sus productos. Estas actualizaciones suelen pasar relativamente desapercibidas para el público general, pero para los responsables de seguridad informática representan uno de los momentos clave del mes. El de abril de 2026, sin embargo, ha sido especialmente relevante por el volumen de fallos corregidos. El Patch Tuesday de este mes incluye 165 vulnerabilidades corregidas , una cifra que lo convierte en uno de los lanzamientos de seguridad más grandes de Microsoft en mucho tiempo. De hecho, según los cálculos de expertos en seguridad, se trataría del segundo mayor paquete mensual de vulnerabilidades corregidas en la historia de la compañía . Entre todos esos fallos hay uno especialmente preocupante, ya que estaba siendo explotado activamente antes de que Microsoft publicara su parche. Se trata de CVE-2026-32201, una vulnerabilidad de suplantación en Microsoft SharePoint Server causada por una validación incorrecta de entradas. Este fallo permite a un atacante no autorizado manipular la forma en que se presenta la información dentro del sistema, lo que podría facilitar ataques de engaño contra los usuarios. En la práctica, un atacante podría utilizar esta debilidad para mostrar contenido falso que aparente ser legítimo dentro de un entorno de SharePoint. El riesgo de este tipo de vulnerabilidad no se limita únicamente a la exposición de información. Según los analistas de seguridad, el fallo podría emplearse como parte de ataques de phishing, campañas de ingeniería social o manipulaciones de datos dentro de entornos corporativos que confían en SharePoint como plataforma de colaboración. Al presentarse la información dentro de un entorno aparentemente legítimo, los usuarios podrían confiar en contenidos que en rea",
+      "link": "https://www.muycomputer.com/2026/04/15/abril-trae-un-patch-tuesday-masivo/",
+      "pubDate": "Wed, 15 Apr 2026 06:02:34 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Patch-Tuesday-2.jpg"
+    },
+    {
+      "id": "7b844fcc5bfb9c5c96f4",
+      "title": "Vengadores: Doomsday es la película más cara del MCU",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Si pensabas que Marvel ya lo había apostado todo con Vengadores: Endgame , prepárate, porque lo que viene con Vengadores: Doomsday juega en otra liga. Un nuevo informe apunta a que la próxima gran reunión del Universo Cinematográfico de Marvel podría convertirse en la producción más cara no solo del MCU, sino también de toda Disney . Y no es una cifra pequeña precisamente. Estamos hablando de un presupuesto que se dispara hasta niveles nunca vistos, lo que deja claro que Marvel Studios no está escatimando recursos en una película que tiene que redefinir el futuro de la saga. Aquí no hay término medio: o es un éxito histórico… o el golpe puede ser enorme. Un presupuesto descomunal que cambia las reglas del juego Según el analista John Campea, Vengadores: Doomsday contaría con un presupuesto de producción cercano a los 400 millones de dólares. A esto habría que sumarle otros 300 millones destinados a marketing, lo que elevaría la inversión total a unos 700 millones . Sí, has leído bien. Para ponerlo en contexto, la película necesitaría superar aproximadamente los 1.500 millones en taquilla para empezar a ser rentable. Una cifra ambiciosa, pero no imposible si tenemos en cuenta el historial del MCU con títulos como Infinity War o Endgame . Y ojo, porque desde dentro de Marvel Studios las sensaciones parecen positivas. Las primeras impresiones internas apuntan a que el resultado está convenciendo , algo clave en una película que tiene tanto en juego a nivel narrativo y comercial. Marvel Studios Top 5 películas más caras del MCU Para entender mejor el salto que supone Vengadores: Doomsday , aquí tienes las producciones más costosas del Universo Marvel hasta ahora: 1. Vengadores: Doomsday – 400 millones (estimado) 2. Vengadores: Endgame – 356-400 millones 3. Vengadores: Infinity War – alrededor de 325 millones 4. Doctor Strange en el Multiverso de la Locura – 294 millones 5. Thor: Love and Thunder – 250 millone",
+      "link": "https://www.cinemascomics.com/vengadores-doomsday-pelicula-mas-cara-mcu/",
+      "pubDate": "Wed, 15 Apr 2026 06:01:38 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Vengadores-Doomsday-marvel-studios.jpg"
+    },
+    {
+      "id": "2bae1a50468880e74f1c",
+      "title": "Carolina Calvagni, la mujer de Nicolás Tagliafico, posa en su casa y repasa su historia de amor con el futbolista",
+      "summary": "En una agenda cargada de reuniones, visitas y reencuentros, Caro Calvagni se hace un tiempo para protagonizar su primera tapa con ¡HOLA! Argentina en su breve paso por Buenos Aires. Hace ya ocho años que dejó nuestro país para acompañar a su marido, Nicolás Tagliafico (33), en su carrera profesional por Europa: primero desembarcaron en los Países Bajos –cuando el defensor fichó con el club Ajax de Ámsterdam en 2018– y luego en Francia, tras integrarse al equipo del Olympique de Lyon. “Allá tenemos una vida muy tranquila. Por las mañanas, él se va al club mientras yo entreno, almuerzo, hago mis cosas. Ya por la tarde arranco con las reuniones de mi marca”, dice la influencer haciendo referencia a Calvagni, la firma de ropa deportiva y moda que lanzó en 2023 después de dos años de trabajo. En la intimidad de su hogar en las afueras de Buenos Aires, nos habla de los desafíos de vivir en Francia, su historia de amor con el campeón del mundo y cómo se prepara para alentar a la selección en la Copa Mundial 2026. –¿Cuál es el mayor desafío de llevar una vida entre dos continentes? –La vida social es un tema. Cuando vivíamos en Países Bajos, tuvimos la suerte de engancharnos con un grupo muy grande de argentinos, uruguayos y colombianos, y todos los fines de semana teníamos un plan para hacer. Y esa compañía, quiérase o no, nos ayudó a que la adaptación en un país distinto no fuera tan difícil. El idioma es otro desafío. El inglés nos ayudó un montón en Ámsterdam, pero en Lyon, por ejemplo, ya no tanto. Empecé a estudiar francés, pero con tanto viaje y trabajo, se me está complicando. –Una vez dijiste que la vida de la mujer de un futbolista no siempre es color de rosa… –Muchos piensan que todo es más fácil para mí, pero la realidad es que para lograr estar bien como estoy hoy, tuve que aprender a acomodarme a un montón de cosas. Tranquilamente podría haberme quedado en casa y no hacer nada, pero con todos los recursos y las posibilidades que tenía y tengo, no podía quedarm",
+      "link": "https://www.lanacion.com.ar/revista-hola/carolina-calvagni-la-mujer-de-nicolas-tagliafico-posa-en-su-casa-y-repasa-su-historia-de-amor-con-el-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZXGP3WXKLRCANFZ4WHRY2RYLAU.jpg?auth=52d132ff4595c02261e0705de36662a777d210ebeb8131afab6ad1233f01a1d4&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "c754d1e7996099cc9b1c",
+      "title": "Separada hacía 8 meses, su ex pareja la ayudó a transitar un cáncer que los hizo redescubrirse: “Todo se dio natural, más relajado”",
+      "summary": "Malvina Torrielli y Juan Andrés se cruzaron por primera vez a fines de 2019, en un fin de semana largo que prometía ser solo una salida casual con amigos. En un bar animado, dos chicos invitaron a dos amigas a compartir mesa; el siguiente encuentro sería en casa de otro amigo y el destino empezó a tejer su hilo. Unas juntadas después, en otro bar, sus miradas se encontraron de verdad: un choque accidental derivó en una pequeña discusión que, como en las mejores películas románticas, terminó en un brindis compartido. Esa chispa inicial reveló en él una personalidad reservada y observadora que la cautivó al instante, su actitud tranquila la hizo sentirse vista de verdad. La pandemia, lejos de separarlos, los unió mucho más. Nunca hubo un “somos novios” formal; en cambio, surgió un lazo natural durante la cuarentena, donde él se convirtió en su “compañero de cuarentena”. Incluso cuando el mundo volvió a abrirse, Malvina seguía usándo ese apodo, hasta que sus amigas le recordaron con risas que esa etapa ya había pasado. Así evolucionó a “mi compañero”, un término cargado de cariño que encapsulaba su conexión profunda, sin etiquetas apresuradas. “Nos divertíamos juntos, había mucha complicidad . También me ayudó a crecer en varios aspectos y valorábamos las opiniones del otro, aunque pensáramos distinto siempre con respeto. Solíamos elegir más planes de a dos que sociales, respetando los momentos, amigos y espacios de cada uno. Priorizábamos estar juntos, viajar, conocer lugares nuevos y hacer escapadas de fin de semana”, recuerda Malvina. Sin embargo, a fines de diciembre de 2024, llegó el momento de una decisión compartida: ambos elegimos terminar, reconociendo que, pese al amor que aún latía fuerte, las diferencias en gustos y visiones de vida hacían el camino cada vez más cuesta arriba. El peor momento de su vida A los 43 años y habiendo pasado ocho meses de la ruptura con Juan Andrés, en su control ginecológico anual, Malvina se había palpado un bulto en la mama izq",
+      "link": "https://www.lanacion.com.ar/lifestyle/separada-hacia-8-meses-su-ex-pareja-la-ayudo-a-transitar-un-cancer-que-los-hizo-redescubrirse-todo-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/CC2F6C4PEZH3ZM5V47N42W4NHM.JPG?auth=7bba2fd168b81a2e670177e69eed7a062277ac4a70e551994284452c6382c377&smart=true&width=1295&height=862"
+    },
+    {
+      "id": "46d2fb4641b387ce3dcf",
+      "title": "La actriz Ann-Margret, de 84 años, sufrió un accidente doméstico y debió ser hospitalizada",
+      "summary": "La icónica actriz Ann-Margret fue hospitalizada este mes luego de haber sufrido una fuerte caída en su casa. Según reveló la misma intérprete de 84 años en una entrevista, debido al golpe, terminó quebrándose un brazo . “Me caí el otro día y ahora tengo el codo derecho roto”, le contó la artista a People, pero, a la vez, dejó en claro que nada podrá amedrentarla. ” Voy a intentar tener muchísimo cuidado y no volver a caerme, pero nunca se sabe “, aseguró. Y agregó: “No pasa nada. Me he caído tantas veces. No lo hago a propósito, ¡pero me caigo! ¿Qué puedo decir? Siempre aprendí de mis padres que uno simplemente se levanta. Uno simplemente vuelve a empezar\". “He descubierto que nada es imposible, porque cuando caigo, me levanto, me sacudo el polvo y ¡vuelvo a empezar!“, remató. De hecho, dejó en claro que, a pesar de haber tenido que suspender una sesión de firma de autógrafos, la lesión no la obligó a interrumpir su entrenamiento. “ Mi entrenador personal simplemente modificó mis rutinas. Ahora solo hago ejercicios con las piernas ”, anunció. “Tengo un entrenador que viene los martes, los jueves y a veces los viernes para ayudarme con todo tipo de ejercicios”, explicó luego. “Él me motiva a mantenerme activa. Si no lo hago, probablemente empezaré a decir: ‘Bueno, no sé. Tengo un resfriado. Tengo esto, tengo aquello’. Pero este hombre me mantiene en marcha “, afirmó. A pesar de que se encuentra en plena recuperación, está previsto que la actriz y cantante esté presente en la entrega de los Premios Chita Rivera 2026, que se llevará a cabo en la ciudad de Nueva York el 16 de mayo. En esa ceremonia, está previsto que reciba un reconocimiento a su trayectoria. En 2024, a sus 82 años, sorprendió a todos al contar en una entrevista que todavía maneja su motocicleta. “Por supuesto que todavía manejo mi Harley-Davidson . Me encanta la velocidad”, contó en diálogo con People. Ann-Margret, nacida en Suecia y nacionalizada estadounidense, tomó sus primeras lecciones de baile en",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-actriz-ann-margret-de-84-anos-sufrio-un-accidente-domestico-y-debio-ser-hospitalizada-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 05:55:24 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/AWHQQDMOZ5FOXEDQBFMAWSAD3I.JPG?auth=bad7aa17a3494d4ce7034f4c83a19b4715cd9d686c0b4b34f0b1f048ea1f7b6e&smart=true&width=2762&height=1841"
+    },
+    {
+      "id": "3c73e8a406ce257d5b72",
+      "title": "Sánchez cierra con inversores chinos un viaje oficial que refuerza su perfil en el tablero geopolítico",
+      "summary": "Pedro Sánchez, este miércóles, con representantes de empresas chinas y españolas en la última cita de su agenda en Pekín.",
+      "link": "https://elpais.com/espana/2026-04-15/sanchez-cierra-con-inversores-chinos-un-viaje-oficial-que-refuerza-su-perfil-en-el-tablero-geopolitico.html",
+      "pubDate": "Wed, 15 Apr 2026 05:47:50 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/K6BQLV6SKRPCJHGPSNKT7JJQNA.jpg?auth=17a7582f912d591ddd411674e210197aefd268167c7e9bca3548ef258e78ec9d"
+    },
+    {
+      "id": "5c6fdef22c5d7030b84f",
+      "title": "El Gobierno aprueba la resolución que oficializa las 35 horas para los 250.000 trabajadores de la Administración General del Estado",
+      "summary": "Funcionarios públicos en un edificio administrativo.",
+      "link": "https://elpais.com/economia/2026-04-15/el-gobierno-aprueba-la-resolucion-que-oficializa-las-35-horas-para-los-250000-trabajadores-de-la-administracion-general-del-estado.html",
+      "pubDate": "Wed, 15 Apr 2026 05:35:08 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/C65VT2LIHBFWTNKIFBJGGLNEHM.jpg?auth=e80e1470096f9567d049ad9b43377630d7ba1e3caa39b3f1fd9e1efc7371b127"
+    },
+    {
+      "id": "068de13a6cdb725906c4",
+      "title": "Ataque ucraniano deja sin electricidad la ciudad cercana a la mayor central nuclear de Europa",
+      "summary": "La infraestructura pública de Energodar se alimenta mediante generadores diésel, afirmó el alcalde.",
+      "link": "https://actualidad.rt.com/actualidad/599351-energodar-apagon-ataque-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 05:31:58 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df269959bf5b2cdb09c95c.jpg"
+    },
+    {
+      "id": "9e89db388cba93ce5999",
+      "title": "\"La guerra con Irán está muy cerca de terminar\", aseguró Trump en una entrevista que se verá este miércoles",
+      "summary": "Lo afirmó el mandatario estadounidense en una entrevista exclusiva para Cadena Fox que se emitirá en todo el país antes del mediodía. Mientras Irán y EE.UU. preparan una nueva ronda de diálogo y se negocia una moratoria en el enriquecimiento de uranio.",
+      "link": "https://www.clarin.com/mundo/guerra-iran-cerca-terminar-aseguro-trump-entrevista-vera-miercoles_0_O5NNOENbJd.html",
+      "pubDate": "Wed, 15 Apr 2026 05:27:20 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/15/uQ09ayqoW_1200x630__1.jpg"
+    },
+    {
+      "id": "88dc5626babcbf862d11",
+      "title": "Reportes: EE.UU. intercepta dos petroleros en aguas iraníes",
+      "summary": "Los buques habrían zarpado del puerto de Chabahar, situado en el sureste de Irán, y avanzado a través del golfo de Omán.",
+      "link": "https://actualidad.rt.com/actualidad/599344-reportes-eeuu-interceptar-petroleros?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 05:26:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df19c359bf5b2ccb391898.jpg"
+    },
+    {
+      "id": "025662972959387111d4",
+      "title": "Inundó un pueblo para tener aventuras extramatrimoniales e irse de fiesta sin su esposa: fue condenado a cadena perpetua",
+      "summary": "En el verano de 1993, el medio oeste de Estados Unidos atravesaba una catástrofe inédita: más lluvias y menos temperatura de lo normal desde el año anterior, suelos saturados y tormentas que desbordaron los ríos Missouri y Mississippi. El resultado fue desastroso y se conoce como la Gran Inundación . Una nota del Chicago Tribune de aquel entonces describía: “Las escenas de destrucción [...] han sido impactantes: casas arrancadas de sus cimientos, cientos de miles de acres de fértiles tierras de cultivo convertidas en lagunas fétidas”. Muchos años después, el mismo medio recordó que esa inundación suele ubicarse entre los desastres naturales más devastadores en la historia de Estados Unidos. Y todavía hoy podría recordarse como un hecho meteorológico terrible pero natural. En cambio, la historia tomó un giro cuando en la ciudad de West Quincy , en el estado de Missouri, la rotura de un dique empeoró todo. El 16 de julio de aquel año, aunque decenas de voluntarios se encargaban de reforzar posibles grietas de la estructura con bolsas de arena, el muro que contenía el agua terminó cediendo. El agua lo arrasó todo: cubrió 57 kilómetros cuadrados, lo que equivale a un cuarto de la superficie de la Ciudad de Buenos Aires. La investigación no encontró fallas técnicas. Descubrió un sabotaje y se propuso encontrar al culpable. Al instante, apareció en el radar de la policía un vecino de West Quincy llamado James Scott , que tenía el prontuario perfecto y una excusa que sorprendería al mundo. Amigos, fiestas y cerveza Scott tenía 24 años y un pasado de rebeldía que iba a resultar determinante. Los policías lo recordaban muy bien. A los 13 años, junto a sus hermanos, provocó un incendio en su escuela, la primaria Webster. Fue el puntapié para una breve carrera como pirómano. De hecho, recibió más de una condena por incendio y otros delitos menores y, para la época de la inundación, gozaba del beneficio de libertad condicional. El periodista Adam Pitluk reconstruyó la vida de S",
+      "link": "https://www.lanacion.com.ar/lifestyle/inundo-un-pueblo-para-tener-aventuras-extramatrimoniales-e-irse-de-fiesta-sin-su-esposa-fue-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 05:12:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/O4PC2GRBJBE7LI4QQZUBAT7PFA.jpg?auth=74accbcd48a2400a214496e6776bdeef9aa5829f6cdbaff094cb81c410dbdece&smart=true&width=800&height=450",
+      "subcat": "herramientas"
     },
     {
       "id": "81316642bc216e70e2b0",
       "title": "Victoria Villarruel y Lilia Lemoine protagonizaron un fuerte cruce en redes sociales: “Ella escupe huevadas”",
       "summary": "La vicepresidenta Victoria Villarruel criticó en duros términos a la diputada de La Libertad Avanza (LLA) Lilia Lemoine luego de que la legisladora asegurará que debía haber sido “leal y humilde” y quedarse “callada por cuatro años” mientras ejercía la dupla presidencial con Javier Milei . La titular del Senado dijo que Lemoine “ escupe huevadas ” y sostuvo que no está calificada para ocupar una banca en la Cámara de Diputados. El conflicto comenzó cuando un usuario compartió una imagen de la boleta de LLA , con la fórmula integrada por Milei y Villarruel , y planteó: “si usted [Villarruel] no forma parte del rumbo del gobierno, debe dejar su cargo” . En el mismo mensaje, sostuvo que “los cargos públicos deberían responder a las ideas y al proyecto político que la ciudadanía votó”. A partir de esa publicación, Lemoine se sumó al cuestionamiento. “Se la votó para ser vicepresidente de Javier Milei. Solo tenía que ser mínimamente leal, humilde y callarse 4 años. No pudo” , escribió. En la misma publicación, agregó: “La domina el vicio del poder. Se creyó en la cima... pero ahora siempre será fondo de olla de algún partido opositor” . La respuesta generó nuevas reacciones dentro de la misma red social. Una usuaria cuestionó el planteo de la diputada y esgrimió: “¿No le parece un exceso pedirle a una Vicepresidente silencio por cuatro años?” . Además, consideró que esa postura implicaría “una falta de respeto a las instituciones” y defendió el rol activo de Villarruel al señalar que las diferencias forman parte de la dinámica democrática. En ese contexto, la vicepresidenta decidió intervenir y respondió el mensaje de la usuaria que la defendió. “Gracias Laura por la defensa”, escribió, antes de dirigir sus críticas a Lemoine. “La desubicación de esta señora es equiparable a su falta de condiciones para representar el rol para el que fue votada dentro de una lista sábana” , expresó. Villarruel también cuestionó el tono de las declaraciones de la diputada y afirmó: “Pedir",
       "link": "https://www.lanacion.com.ar/politica/victoria-villarruel-y-lilia-lemoine-protagonizaron-un-fuerte-cruce-en-redes-sociales-ella-escupe-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 04:33:56 +0000",
+      "pubDate": "Wed, 15 Apr 2026 05:11:24 +0000",
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/5NOAKFUKCVDCXHTS7K3RCPUQ2Q.jpeg?auth=ade87dfc41cf476ec42f1ba013ef0f39c939049da635a88a9321896b29454515&smart=true&width=1280&height=846"
+    },
+    {
+      "id": "6e32a0045ee61d80036b",
+      "title": "Trump dice que no planea extender el alto el fuego con Irán",
+      "summary": "El mandatario estadounidense aseguró que ya se han eliminado los elementos \"radicales\" del país persa.",
+      "link": "https://actualidad.rt.com/actualidad/599350-trump-dice-planea-extender-alto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 05:11:04 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df21c1e9ff717fca738406.jpg"
+    },
+    {
+      "id": "ff10cb5bcb7a48e51490",
+      "title": "Rating: cuánto midió el ingreso de Fabio Agostini, el participante que pasó de La casa de los famosos a Gran Hermano",
+      "summary": "La polémica salida de Lola Tomaszeuski que despertó un fuerte enojo por parte de la audiencia, que esperaba que se fuera Brian Sarmiento , y el sorpresivo ingreso de Grecia Colmenares , le dio a Gran Hermano un promedio 14 puntos, en la primera parte, y 10.5, en la segunda, la mejor marca del mes. Como suele suceder en la pelea del prime time , todos los canales juegan sus mejores fichas para ganar la batalla por el rating . Luego de que este lunes Guido Kazcka logró la medición más alta del año de su ciclo con 7,2 puntos, todas las miradas estaban puestas en qué pasaría este martes en la competencia de la pantalla chica. En Pasapalabra se enfrentaron Nacho Elizalde , Vicky Garabal y Cami Fortunato versus Luquitas Fridman , Luli González y Valen Rizzuti . El ciclo que conduce Iván de Pineda arrancó con un piso de 8.4 puntos que le dejó Telefe Noticias. Del otro lado, en Es mi sueño se lució Ignacio Godoy , que interpretó “Entrégate” de Luis Miguel conquistó a los cuatro jurados y logró el verde perfecto. Más de 200 participantes de todo el país se presentarán ante Abel Pintos, Jimena Barón, La Mona Jiménez y Joaquín Levinton , que los evaluará según sus actuaciones. El voto de cada uno desbloquea un escalón, por lo que aquellos participantes que consigan los positivos suficientes accederán al “Palco del Ópera”. En esa instancia, el talent show de eltrece marcaba 6 puntos. Por su parte, LAM se ubicó tercero, con un pico de 2,7 puntos, y Bendita llegó a los 2,3. Pasadas las 22.30 comenzó la gala de Gran Hermano con un piso de 9 puntos que le dejó Pasapalabra . El prime time de la televisión abierta se vio muy complicado porque parte de la audiencia estuvo en Fox Sports por la transmisión del triunfo por 3 a 0 de Boca Juniors frente al Barcelona de Ecuador por la Conmebol Libertadores. Juanicar ganó la prueba del líder y usó ese beneficio para fulminar a Franco Zunino y a Martín Rodríguez. El ciclo que conduce Guido Kaczka obtuvo una marca máxima de 7.2 puntos y le dio",
+      "link": "https://www.lanacion.com.ar/espectaculos/television/rating-cuanto-midio-el-ingreso-de-fabio-agostini-el-participante-que-paso-de-la-casa-de-los-famosos-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 05:08:24 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/O4OIITAB3FGYJM3EH2NEBXYDVY.jpeg?auth=dd526edd1f7a6c8bd2f8596741854b2a5fbff2ca2615b1cd461ff7cb27b22f7a&smart=true&width=1320&height=634"
+    },
+    {
+      "id": "7a6240833b9d2b52c864",
+      "title": "El candidato de la izquierda en Perú da pelea gracias al escrutinio del voto rural",
+      "summary": "Roberto Sánchez en rueda de prensa en Lima (Perú), este martes.",
+      "link": "https://elpais.com/america/2026-04-15/el-candidato-de-la-izquierda-en-peru-da-pelea-gracias-al-escrutinio-del-voto-rural.html",
+      "pubDate": "Wed, 15 Apr 2026 05:04:36 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/NTZVIVG6JZPG3PM57F7SYQHIXE.jpg?auth=c3bd5da5be3cd9230e87cef881ce745c6f78fe24214c76aa215c2623873989d8"
+    },
+    {
+      "id": "a28e300fdc5487551b5f",
+      "title": "Polémica en Texas: Abbott amenaza con retirar US$110 millones en fondos por la política sobre el ICE en Houston",
+      "summary": "La ciudad de Houston quedó en el centro de un conflicto con el gobierno de Texas por una nueva ordenanza sobre controles de tránsito y la actuación del Servicio de Inmigración y Control de Aduanas ( ICE , por sus siglas en inglés). Con Greg Abbott al frente del estado, las autoridades advirtieron que podrían retirar 110 millones de dólares en fondos si la norma no se corrige. Conflicto entre Greg Abbott y Houston por política migratoria y financiamiento estatal La polémica surgió a partir de una normativa local que se aprobó la última semana. La regla se refiere a los controles de tráfico y el uso de ese espacio para que el ICE detenga a migrantes . Concretamente, el Departamento de Policía de Houston (HPD , por sus siglas en inglés) no retendrá a extranjeros detenidos por una falta de tránsito para que se concrete la aplicación de las leyes migratorias. Ante ese panorama, la administración Abbott respondió. Según consignó The New York Times , el gobierno de Texas le dio a Houston una semana para que derogue la ordenanza. Según explicó el fiscal general del Estado de la Estrella Solitaria, Ken Paxton , la interpretación oficial fue que esta medida interfiere con la aplicación de las leyes migratorias , por lo que se solicitó su cese. La amenaza consiste en retirar los US$110 millones que Houston, entre otras cosas, utiliza para financiar a las fuerzas del orden y otros servicios públicos . La situación puso en un aprieto al alcalde demócrata John Whitmire quien debe decidir cómo proceder ante la posible falta de financiamiento. La amenaza de Abbott contra Houston podría afectar el Mundial 2026 Según el análisis, la amenaza del gobernador a Houston implica no solo que se cancele el envío de fondos estatales para lo que resta de 2026, sino que la ciudad estaría obligada también a devolver lo que ya recibió . Mientras continúa la incertidumbre, Abbott ya congeló el envío de nuevos fondos , lo que representa una situación de emergencia para las autoridades locales. Con ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/texas/polemica-en-texas-abbott-amenaza-con-retirar-us110-millones-en-fondos-por-la-politica-sobre-el-ice-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 05:04:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/3ECAYTUWBJEG7NVEFZV4MZJUQY.jpg?auth=4f7de9877bd9d8907fb2f0dc25c09c6d38ce5761979f320a4c980cda0b90e1d6&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "2e76cb323b7177f5dc55",
+      "title": "Bukele cede a la IA de Google la gestión médica en El Salvador: “Estamos creando el mejor sistema del mundo”",
+      "summary": "Nayib Bukele anuncia el desarrollo de las etapas del proyecto de salud, este martes.",
+      "link": "https://elpais.com/america/2026-04-15/bukele-ceda-a-la-ia-de-google-la-gestion-medica-en-el-salvador-estamos-creando-el-mejor-sistema-del-mundo.html",
+      "pubDate": "Wed, 15 Apr 2026 05:01:15 GMT",
+      "source": "El Pais",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/CEWYDCOWMFAZRJS2HT3KC3BKYU.png?auth=11b94a54d3864f2317b759927552c443a876e2531e828fc4ab14170277fa685e"
+    },
+    {
+      "id": "0ae90e118be204464ee5",
+      "title": "Xi Jinping llama a fortalecer la coordinación estratégica con Rusia",
+      "summary": "El mandatario chino instó a estrechar las relaciones con Moscú para defender al Sur Global.",
+      "link": "https://actualidad.rt.com/actualidad/599271-xi-jinping-fortalecer-coordinacion-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 05:00:53 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df1d2259bf5b2d063ec944.jpg"
+    },
+    {
+      "id": "112e610ac37910d4cb47",
+      "title": "Xi Jinping califica de \"preciados\" los lazos de China con Rusia ante el caos internacional",
+      "summary": "El mandatario chino se reunió con el canciller ruso, que llegó a Pekín en visita oficial de 2 días.",
+      "link": "https://actualidad.rt.com/actualidad/599349-xi-jinping-lazos-preciados-rusia-china?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 05:00:46 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df1f6559bf5b2b9807e7f6.jpg"
+    },
+    {
+      "id": "ed40194f4b408e7154bf",
+      "title": "Pilar Sordo: “Es distinto sentirse solo a estar solo y eso está relacionado con el amor propio”",
+      "summary": "Pilar Sordo , psicóloga, escritora y conferencista de origen chileno, analizó los procesos de introspección y la construcción del bienestar emocional durante una entrevista para La Fête Chocolat . La especialista vinculó el estado anímico con la calidad del vínculo que cada persona mantiene con su propia identidad y destacó la importancia del amor propio en este desarrollo. “Es distinto sentirse solo a estar solo” , sostuvo Sordo para separar ambos conceptos. La realidad objetiva de la falta de compañía no implica necesariamente un estado de angustia o desolación. Según Sordo, el bienestar depende de la relación con uno mismo, una percepción que se vincula de manera directa con la calidad del diálogo interno de cada persona. View this post on Instagram El temor al silencio La ausencia de estímulos sonoros externos obliga a un encuentro frontal con la conciencia individual, un escenario que la psicóloga describió como una confrontación que muchos intentan evitar: “La gente le tiene miedo al silencio porque el silencio tiene mucho ruido” . “El silencio devela un montón, entonces si yo no quiero esa revelación que me va a dar el silencio, me voy a sentir mucho más sola”, explicó la escritora. La revelación de la verdad íntima asusta a los sujetos que no poseen una comunicación interna saludable y el ruido del silencio expone los conflictos que el sonido exterior suele ocultar. “ Yo tengo la impresión de que esto está directamente relacionado con el amor propio, con tu diálogo interno . No con los prejuicios que existen en relación al concepto de amor propio, que tiene que ver con la soberbia, con el egoísmo”, sumó. “El amor propio en sí mismo es profundamente humilde, porque si yo conozco mis sombras, no tengo cara para hablarte de las tuyas digamos” , afirmó la experta con el fin de remarcar que el conocimiento de las propias debilidades anula la necesidad de juzgar a los demás. La aceptación de la identidad propia transforma la relación con el entorno, es por ello qu",
+      "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-es-distinto-sentirse-solo-a-estar-solo-y-eso-esta-relacionado-con-el-amor-propio-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 05:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/3UHTVNMS4NAD3I5DLVHURXH3BM.jpg?auth=4473e74315467a259e902420f53a0dc3e2163b2bfd4c03f86c58ba3ffd9204c4&smart=true&width=6000&height=4000"
+    },
+    {
+      "id": "dc7a988197836aec6a9e",
+      "title": "Punto por punto, cómo fue la primera audiencia del nuevo juicio por la muerte de Maradona",
+      "summary": "El Tribunal Oral en lo Penal N°7 de San Isidro inició el debate por la muerte de Maradona este martes 14 de abril, donde los jueces Alberto Gaig, Alberto Ortolani y Pablo Rolón recibieron a los siete imputados ya los abogados de la familia en la sala de audiencias. El Ministerio Público Fiscal y las defensas expusieron sus lineamientos ante los magistrados para establecer las causas del fallecimiento del exjugador . Los argumentos de la acusación pública y el rol de los médicos Patricio Ferrari, fiscal general adjunto de San Isidro, calificó a los acusados como un “Grupo de improvisados”. El funcionario lideró la presentación de la acusación y explicó que la fiscalía construyó una imputación sólida durante cinco años. El tribunal conocerá las pruebas en tres estamentos: testimonios, evidencia tecnológica y esfera médica. “Tenemos una necesidad imperiosa: nosotros y la sociedad en su conjunto queremos que haya verdad. El derecho a la verdad es un derecho humano” y señaló a Leopoldo Luque como el médico de cabecera, Agustina Cosachov ocupó el rol de psiquiatra así como el resto de los acusados: Carlos Díaz, Mariano Perroni, Ricardo Almirón, Nancy Forlini y Pedro Di Spagna. “Maradona fue abandonado a su suerte, condenado a la muerte” afirmó y sentenció: “Maradona comenzó a morir 12 horas antes de su verdadera muerte” . Asimismo, el fiscal Cosme Iribarren detalló las acciones de cada procesado. Nuevo juicio por la muerte de Maradona: la palabra del fiscal Patricio Ferrari El reclamo de los familiares y la calificación de asesinato Fernando Burlando representó a Dalma y Gianinna Maradona en la audiencia e inició su exposición con una definición tajante: “Diego fue asesinado” . El letrado mencionó que alguien oculto convocó a los profesionales para realizar acciones demenciales. La querella afirmó que los imputados empujaron la vida del exjugador hacia el deceso a pesar de las oportunidades de supervivencia. “No fueron meras negligencias. Señores jueces, le van a hacer cr",
+      "link": "https://www.lanacion.com.ar/seguridad/punto-por-punto-como-fue-la-primera-audiencia-del-nuevo-juicio-por-la-muerte-de-maradona-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 05:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/AYKYFUWGHJHBLDKXFSF7GVPSDE.jpg?auth=7b33b9d20f2f228866e3129fe8893c6933cf64acd13831e4dc574d809b9a0ace&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "795b921a03f15f7efa35",
+      "title": "Orgullo botánico: 5 especies nativas que enamoran a primera vista",
+      "summary": "Durante décadas, el jardín ornamental argentino miró hacia afuera. Rosas europeas, lavandas mediterráneas, agapantos africanos. Sin embargo, el propio territorio guarda una flora extraordinaria, capaz de ofrecer color, estructura y carácter con una ventaja adicional: está adaptada al clima, al suelo y a la fauna local. Cada vez más paisajistas y viveristas redescubren estas especies que crecen de forma espontánea en montes, sierras y selvas del país. Incorporarlas es una manera de reconectar el jardín con el paisaje argentino y favorecer la biodiversidad. Estas cinco especies demuestran que lo nativo puede ser tan espectacular como cualquier planta exótica Trompetas blancas perfumadas Sinningia tubiflora Pocas plantas nativas tienen una presencia tan delicada y elegante. Esta herbácea tuberosa produce tallos rojizos y hojas verde grisáceas que sostienen flores largas y tubulares de color blanco, levemente perfumadas. Su silueta liviana recuerda a pequeñas trompetas suspendidas en el aire. Originaria de Argentina, Paraguay y Uruguay, es muy valorada en jardinería por su forma y su capacidad de prosperar en suelos bien drenados con sol o media sombra. La patagónica que seduce colibríes Fuchsia magellanica En los bosques y riberas del sur aparece este arbusto elegante, comunmente llamado aljaba, cargado de flores colgantes rojo intenso con tonos púrpura. Su forma pendular y sus colores llamativos atraen a colibríes, que actúan como sus principales polinizadores. Resistente al frío y a las heladas, es una de las pocas especies ornamentales que prosperan sin problemas en los climas duros el de la Patagonia. Parece una orquídea Alstroemeria aurea Pariente de las famosas alstroemerias de las florerías, esta especie nativa despliega flores amarillas o anaranjadas con manchas rojizas que recuerdan a pequeñas orquídeas. Crece como herbácea perenne y puede alcanzar cerca de un metro de altura. Además de su belleza, es notablemente resistente: soporta bajas temperaturas y puede",
+      "link": "https://www.lanacion.com.ar/revista-jardin/orgullo-botanico-5-especies-nativas-que-enamoran-a-primera-vista-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 04:58:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/FLYUXUB3XRFV5LBONIWI6AHTXM.jpg?auth=e0b2b59d46189dc059fe2ccea0c5bfb686d2db42cc6e63c1fc5f0609cd7d8c06&smart=true&width=2002&height=1333",
+      "subcat": "mercado"
     },
     {
       "id": "31d30f0542f5a3da7d15",
@@ -138,7 +681,7 @@
       "pubDate": "Wed, 15 Apr 2026 04:29:03 +0000",
       "source": "La Nacion",
       "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/JKHXJLXVNNGEVGHCVGMAKXTHN4.JPG?auth=91f92baac73506927992a4a7c8cf5d90ed9baf52eba4355c214404c661936068&smart=true&width=1998&height=1333"
+      "image": "https://resizer.glanacion.com/resizer/v2/ZR2DV4CAZRFRXMKHZN6TAGEM5Y.jpg?auth=bf30408ff1f64146c111b214a6e05231e27a0d37aab09628b08d571fa2305756&smart=true&width=2048&height=1294"
     },
     {
       "id": "c4bb151f37e0af6ccea4",
@@ -171,16 +714,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b7e/live/7eca0900-37c9-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
-      "id": "205bb1d6edb97da02e5b",
-      "title": "WSJ: Europa elabora un plan de funcionamiento de la OTAN en caso de que Trump se retire",
-      "summary": "Los lideres europeos buscan asumir la mayor parte de las responsabilidades en la dirección de la defensa del continente, aún en el marco de la Alianza.",
-      "link": "https://actualidad.rt.com/actualidad/599338-wsj-europa-elabora-plan-funcionamiento-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 04:01:11 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df030659bf5b3d4f1ee824.jpg"
-    },
-    {
       "id": "424efa144a9b36ab557f",
       "title": "Guerra, migración, Irán… Los 8 episodios que prepararon el enfrentamiento entre Trump y el Papa",
       "summary": "A fondo Trump vs Papa Los 8 episodios que prepararon el enfrentamiento Lucía Boccio 15 de abril o de 2026",
@@ -189,36 +722,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/YBLM2DEFWZFHNFWF3UXLHGZWQ4.jpg?auth=0c24da9438035a23016e2691669a4b5088bc7402ce991395a8da1827486b91f5&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "e9e6599e72ea5bcdd2f4",
-      "title": "Ataques iraníes dañan infraestructura clave de una base militar de EE.UU. en Kuwait",
-      "summary": "Al menos dos helipuertos fueron completamente destruidos, junto con un almacén y un refugio de mantenimiento de gran superficie.",
-      "link": "https://actualidad.rt.com/actualidad/599340-ataques-iranies-infraestructura-base-eeuu-kuwait?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:59:52 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df0aa7e9ff7109cd0d9e48.jpg"
-    },
-    {
-      "id": "0c11a74264b593961ed3",
-      "title": "\"No nos apoyó y tampoco lo hará en el futuro\": Nueva arremetida de Trump contra la OTAN",
-      "summary": "El mandatario ha lanzado ataques verbales constantes contra la Alianza, calificándola como un \"tigre de papel\".",
-      "link": "https://actualidad.rt.com/actualidad/599343-apoyo-hara-futuro-nueva-arremetida?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:52:14 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df0f53e9ff7174c00ba8e4.jpg"
-    },
-    {
-      "id": "8bf99efa2b5208c2f9ce",
-      "title": "Perú responde por la muerte de un colombiano en la frontera con Colombia",
-      "summary": "Durante un operativo en el río Putumayo, otras dos personas fueron detenidas por las autoridades peruanas.",
-      "link": "https://actualidad.rt.com/actualidad/599319-peru-responder-muerte-colombiano-frontera-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:52:01 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69def473e9ff7174c00ba8cf.jpg"
     },
     {
       "id": "e6d9582beb888a97a045",
@@ -230,46 +733,6 @@
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/S6AXURHGCZD4DNDWLLMH56V5CA.JPG?auth=e39b07b8a0a66234100b79cc5d19b4d37de3ce8fea6465996a0c2f57ebe7cbf1&smart=true&width=1998&height=1333",
       "subcat": "diseño"
-    },
-    {
-      "id": "9f10d8dbc026d9be4533",
-      "title": "VIDEO: 'Sol abrasador' ruso hace añicos una fortificación enemiga",
-      "summary": "Unidades rusas del sistema lanzacohetes pesado TOS Solntsepiok ('Sol abrasador') de la agrupación de tropas Este destruyeron un punto fortificado de las Fuerzas Armadas de Ucrania en la provincia de Zaporozhie, mediante el empleo de municiones termobáricas contra posiciones defensivas del enemigo.",
-      "link": "https://actualidad.rt.com/actualidad/599339-video-sol-abrasador-ruso-hacer-a%C3%B1icos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:50:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df03a359bf5b54f74e1484.png"
-    },
-    {
-      "id": "60c4b4e33417df74a5a3",
-      "title": "Reino Unido obliga a sus FF.AA. a encontrar 4.750.000.000 dólares en plena guerra en Oriente Medio",
-      "summary": "Una de las fuentes consultadas señaló que la presión financiera se debe a que el presupuesto actual no alcanza ni siquiera para cumplir con los programas ya existentes.",
-      "link": "https://actualidad.rt.com/actualidad/599296-reino-unido-obliga-ffaa-encontrar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:49:43 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69de7e6359bf5b445535147f.jpg"
-    },
-    {
-      "id": "c812ae624b37fec4f63a",
-      "title": "Delcy Rodríguez recibe a comitiva de EE.UU. tras alivio de sanciones a Venezuela",
-      "summary": "Este lunes, la dignataria suscribió nuevos contratos con Chevron para incrementar la producción de crudo.",
-      "link": "https://actualidad.rt.com/actualidad/599317-delcy-rodriguez-recibir-comitiva-eeuu-alivio-sanciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:49:16 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69deb6d2e9ff711bc6441500.jpg"
-    },
-    {
-      "id": "46d16330b28850b658ca",
-      "title": "Vance: Epstein tenía \"conexiones extraordinarias con los servicios de inteligencia, dentro y fuera de EE.UU.\"",
-      "summary": "El vicepresidente estadounidense aseguró que ha sido y seguirá siendo un firme defensor de investigar el caso, afirmando que incluso está \"más obsesionado\" con el tema que muchos otros funcionarios.",
-      "link": "https://actualidad.rt.com/actualidad/599333-vance-epstein-conexiones-extraordinarias-servicios-inteligencia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:48:33 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69deebb2e9ff7174c00ba8cb.jpg"
     },
     {
       "id": "f31ee56353c21317a99f",
@@ -300,16 +763,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2024/08/10/u84_44U4G_1200x630__1.jpg"
-    },
-    {
-      "id": "2bae1a50468880e74f1c",
-      "title": "Carolina Calvagni, la mujer de Nicolás Tagliafico, posa en su casa y repasa su historia de amor con el futbolista",
-      "summary": "En una agenda cargada de reuniones, visitas y reencuentros, Caro Calvagni se hace un tiempo para protagonizar su primera tapa con ¡HOLA! Argentina en su breve paso por Buenos Aires. Hace ya ocho años que dejó nuestro país para acompañar a su marido, Nicolás Tagliafico (33), en su carrera profesional por Europa: primero desembarcaron en los Países Bajos –cuando el defensor fichó con el club Ajax de Ámsterdam en 2018– y luego en Francia, tras integrarse al equipo del Olympique de Lyon. “Allá tenemos una vida muy tranquila. Por las mañanas, él se va al club mientras yo entreno, almuerzo, hago mis cosas. Ya por la tarde arranco con las reuniones de mi marca”, dice la influencer haciendo referencia a Calvagni, la firma de ropa deportiva y moda que lanzó en 2023 después de dos años de trabajo. En la intimidad de su hogar en las afueras de Buenos Aires, nos habla de los desafíos de vivir en Francia, su historia de amor con el campeón del mundo y cómo se prepara para alentar a la selección en la Copa Mundial 2026. –¿Cuál es el mayor desafío de llevar una vida entre dos continentes? –La vida social es un tema. Cuando vivíamos en Países Bajos, tuvimos la suerte de engancharnos con un grupo muy grande de argentinos, uruguayos y colombianos, y todos los fines de semana teníamos un plan para hacer. Y esa compañía, quiérase o no, nos ayudó a que la adaptación en un país distinto no fuera tan difícil. El idioma es otro desafío. El inglés nos ayudó un montón en Ámsterdam, pero en Lyon, por ejemplo, ya no tanto. Empecé a estudiar francés, pero con tanto viaje y trabajo, se me está complicando. –Una vez dijiste que la vida de la mujer de un futbolista no siempre es color de rosa… –Muchos piensan que todo es más fácil para mí, pero la realidad es que para lograr estar bien como estoy hoy, tuve que aprender a acomodarme a un montón de cosas. Tranquilamente podría haberme quedado en casa y no hacer nada, pero con todos los recursos y las posibilidades que tenía y tengo, no podía quedarm",
-      "link": "https://www.lanacion.com.ar/revista-hola/carolina-calvagni-la-mujer-de-nicolas-tagliafico-posa-en-su-casa-y-repasa-su-historia-de-amor-con-el-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:42:34 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZXGP3WXKLRCANFZ4WHRY2RYLAU.jpg?auth=52d132ff4595c02261e0705de36662a777d210ebeb8131afab6ad1233f01a1d4&smart=true&width=2000&height=1333"
     },
     {
       "id": "8f3392f05aeebd0f655f",
@@ -352,16 +805,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/jZz9qGczi_1200x630__1.jpg"
     },
     {
-      "id": "b262364dccfd24166c7c",
-      "title": "Trump envía un mensaje al papa León XIV en medio de su embestida al Vaticano (TEXTO COMPLETO)",
-      "summary": "El presidente estadounidense recordó que es \"absolutamente inaceptable\" que Irán posea una bomba atómica.",
-      "link": "https://actualidad.rt.com/actualidad/599342-trump-envia-mensaje-papa-leon?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 03:41:01 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df0ab259bf5b35ad634b21.jpg"
-    },
-    {
       "id": "5ac72b164a03d23c31be",
       "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
       "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
@@ -372,36 +815,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg"
     },
     {
-      "id": "e1d8737c944b559b6a9b",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_LH86IGL1pU.html",
-      "pubDate": "Wed, 15 Apr 2026 03:40:41 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
-    },
-    {
-      "id": "8ea58d8a7a8292991d3f",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_8vZyOle8il.html",
-      "pubDate": "Wed, 15 Apr 2026 03:40:41 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
-    },
-    {
-      "id": "36168d2707b7cae7939d",
-      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_1hPCbHFXyf.html",
-      "pubDate": "Wed, 15 Apr 2026 03:40:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/TVpsiwPVQ_1200x630__1.jpg"
-    },
-    {
       "id": "980a2d6490cdce0ccaef",
       "title": "La regularización extraordinaria pone a prueba a la Administración: dudas y flecos de un decreto histórico",
       "summary": "Los migrantes hacen fila para recibir el certificado de memoria del abono de transportes, en Madrid.",
@@ -409,7 +822,7 @@
       "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/J7FQ6WYMPREX3OHTAVXOBWB4CY.jpg?auth=e65965777b00d642426f648cb2140eb3bd27a02b4b245bbd2919ade72803040a"
+      "image": "https://imagenes.elpais.com/resizer/v2/WQ7BLEKQKRCULDW2FXTNGIHWVA.jpg?auth=116beb9fce50de74d90f5a810ee5dbd267fb7c908bf370c405d5eeff04a2a6ab"
     },
     {
       "id": "a780b6c5967e99fc5c78",
@@ -463,23 +876,13 @@
     },
     {
       "id": "ccd62b97d818f5582054",
-      "title": "El Ayuntamiento de Madrid deja a una familia sin alternativa habitacional tras demoler cuatro viviendas en la Cañada Real",
+      "title": "El Ayuntamiento de Madrid deja a una familia hogar tras demoler cuatro viviendas en la Cañada Real",
       "summary": "Dos vecinos observan una de las viviendas que derribó el Ayuntamiento de Madrid el lunes en la Cañada Real.",
       "link": "https://elpais.com/espana/madrid/2026-04-15/el-ayuntamiento-de-madrid-deja-a-una-familia-sin-alternativa-habitacional-tras-demoler-cuatro-viviendas-en-la-canada-real.html",
       "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/BW3PVOLHAJBUDBQYCCCXI7UKKU.jpg?auth=9de9f2d61407b1fff7ed05cfdb51bbef7a15c53fdabc07bb3737c6ef72c52b9f"
-    },
-    {
-      "id": "38e136fc75c5a6014350",
-      "title": "El movimiento contra el aborto y contra los derechos LGTBIQ+ pierde con Orbán su modelo a seguir",
-      "summary": "Emisión de un mensaje de Viktor Orbán en un acto de Vox en Madrid en 2022.",
-      "link": "https://elpais.com/espana/2026-04-15/el-movimiento-contra-el-aborto-y-contra-los-derechos-lgtbiq-pierde-con-orban-su-modelo-a-seguir.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/MGEIQ7JWO7D3NUBGJTGXMF2YP4.jpg?auth=c0c9102d3aaae9dc33656675d03af9f9fb296e041c386a8a7aa4435950b9d71a"
     },
     {
       "id": "2129b2caa5c7af27644b",
@@ -490,6 +893,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/F7LJWLLD5ZKR3KNTYUSHVENABU.jpg?auth=909aa6ed5ddbe9cf83180c0f6a07125a3f51c316d59237c2bdef7059f92618b7"
+    },
+    {
+      "id": "38e136fc75c5a6014350",
+      "title": "El movimiento contra el aborto y contra los derechos LGTBIQ+ pierde con Orbán su modelo a seguir",
+      "summary": "Emisión de un mensaje de Viktor Orbán en un acto de Vox en Madrid en 2022.",
+      "link": "https://elpais.com/espana/2026-04-15/el-movimiento-contra-el-aborto-y-contra-los-derechos-lgtbiq-pierde-con-orban-su-modelo-a-seguir.html",
+      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/MGEIQ7JWO7D3NUBGJTGXMF2YP4.jpg?auth=c0c9102d3aaae9dc33656675d03af9f9fb296e041c386a8a7aa4435950b9d71a"
     },
     {
       "id": "a25bd678aa6183f764dc",
@@ -522,26 +935,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/DCTNIM6VJVEBLO7JGF6GC7EROU.jpg?auth=7a35054ab230c61f4785322874af32249916bf22f1a5def09b9552d32ed9a077"
     },
     {
-      "id": "8345173945466123a0a1",
-      "title": "Dime cómo viajas y te diré dónde reservas",
-      "summary": "Ilustración de Diego Blanco",
-      "link": "https://elpais.com/elviajero/guia-el-viajero/2026-04-15/dime-como-viajas-y-te-dire-donde-reservas.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/36Z56T3AXVEFTJ37K7Y6LJMVIY.jpeg?auth=e7ec0e3457c09ccc17c646173d686d6631312fb67fd5710abd8c8b446987d7c3"
-    },
-    {
-      "id": "152e264fdc38c9ab30ae",
-      "title": "Acné en la adolescencia: qué ocurre realmente en la piel y cómo tratarlo de la mejor manera",
-      "summary": "Existe la idea de que la piel grasa no necesita hidratarse, pero si no se hidrata, la piel produce más sebo como mecanismo de defensa.",
-      "link": "https://elpais.com/mamas-papas/actualidad/2026-04-15/acne-en-la-adolescencia-que-ocurre-realmente-en-la-piel-y-como-tratarlo-de-la-mejor-manera.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/GWWJVZKBONAXVCOT5QD3PWONLE.jpg?auth=3f357f3c13c1d981bf0d4ddfd6f528127ad5fe3601ea986ae917f7bd1a25ef3f"
-    },
-    {
       "id": "ef34f86515ae5091a391",
       "title": "Vuelco al escenario económico",
       "summary": "Precios de los carburantes en una gasolinera en Berlín.",
@@ -550,56 +943,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/W2TD7CYUMJLFPNNMSAPMLFDSJ4.jpg?auth=c3758f989245631635bdd03ba455335847ae01eb8de9df003fc75deecafb2009"
-    },
-    {
-      "id": "32608db4b84d942905fe",
-      "title": "El legado democrático de Leopoldo Calvo-Sotelo",
-      "summary": "Leopoldo Calvo-Sotelo Bustelo nació el 14 de abril de 1926, hace ahora 100 años. Era ingeniero de Caminos y desarrolló una larga trayectoria empresarial antes de desembarcar en la política, como procurador en las últimas Cortes franquistas en representación de las industrias químicas, ministro de Comercio en el primer Gobierno de la monarquía que presidió Carlos Arias Navarro , y ministro de Obras Públicas ya con Adolfo Suárez. Fue protagonista esencial y hombre de confianza de Suárez en la formación de la Unión de Centro Democrático (UCD), una coalición más que un partido que sumó en sus filas a liberales, demócratas cristianos y socialdemócratas, entre los que Leopoldo se declaraba “independiente”. Hacedor de las listas electorales, cesó como ministro para presentarse como número 2 por Madrid en las primeras elecciones de 1977 y asumió la portavocía de UCD en el Congreso. Fue ministro de Relaciones con las Comunidades Europeas y finalmente vicepresidente económico. Siempre reconoció que fue Adolfo Suárez quien “de verdad” hizo la Transición, quien “armonizó” en un momento difícil a una serie de gentes, de profesionales que llegaban de fuera de la política, como era el caso de Leopoldo. Seguir leyendo",
-      "link": "https://elpais.com/opinion/2026-04-15/el-legado-democratico-de-leopoldo-calvo-sotelo.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/PNOGOOCUYJDN5OX6WZ5NT7EJFI.jpg?auth=74b4372b66124124f29029671768baab52d710387d9bf222b75639cf1c599874"
-    },
-    {
-      "id": "8317c60d52f2bef33e9c",
-      "title": "Los ateos necesitamos un Papa con liturgia y misterio",
-      "summary": "El papa León XIV, ayer en el sitio arqueológico de Hippo Regius en Annaba, Argelia.",
-      "link": "https://elpais.com/opinion/2026-04-15/los-ateos-necesitamos-un-papa-con-liturgia-y-misterio.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/NPLUD4T5ZNETFCURUNWMDY6VH4.JPG?auth=44579a71a0b936f22b68befa7a25fd94f4a4fdbc01ae968a1f502f0ee7e66437"
-    },
-    {
-      "id": "c27437be47b0741ef1b7",
-      "title": "El súbito arrepentimiento de los presos de ETA",
-      "summary": "La exjefa de ETA Soledad Iparraguirre, 'Anboto', sale de la cárcel de Martutene de San Sebastián tras serle concedido el régimen de semilibertad.",
-      "link": "https://elpais.com/opinion/2026-04-15/el-subito-arrepentimiento-de-los-presos-de-eta.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/R6U3QMTLPNMZRCJWSPYGCETVFA.jpg?auth=31fe64e9c673b91747caa0739bf238676d8c36af9d2acaac093bfe5bb1820bb6"
-    },
-    {
-      "id": "4cec189f9475cc4bcb08",
-      "title": "El debate | ¿Qué fuerza tiene el republicanismo en España?",
-      "summary": "Una manifestación por la República en la Puerta del Sol de Madrid.",
-      "link": "https://elpais.com/opinion/2026-04-15/el-debate-que-fuerza-tiene-el-republicanismo-en-espana.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/SIUMWYREENAFZFNX5DOHCLPM2U.jpg?auth=16ff1b73dc82a76115512f5939800f812ce8522d51331f270c57a9f4aa0ebf61"
-    },
-    {
-      "id": "e216748d86cf51e8e096",
-      "title": "Desconocidos, pero no tanto: la importancia de los ‘extraños familiares’ que nos cruzamos a diario",
-      "summary": "Paul Mescal y Andrew Scott, en una escena de 'All of Us Strangers' (2023).",
-      "link": "https://elpais.com/estilo-de-vida/2026-04-15/desconocidos-pero-no-tanto-la-importancia-de-los-extranos-familiares-que-nos-cruzamos-a-diario.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/7ASOSFFD2ZF4VOT5EQNXFDCQNQ.jpg?auth=bc6127fe28eda7a307949632b6a179feb1f64a8d8bac3e2c1861f7944c363a64"
     },
     {
       "id": "a32f9322dafd762e9279",
@@ -712,46 +1055,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/7OCB3L4VWNDRLOJXPHCWUQ7KZQ.png?auth=efaef6ee0e95b04b25dd6bedc3ca011613043e8562cd26ac507eb02c649f2b1b&smart=true&width=2000&height=1333"
     },
     {
-      "id": "7b0fd28dc409999b24fe",
-      "title": "Cartas de lectores: Indignado, costo, glaciares",
-      "summary": "Indignado Los argentinos de bien, como suele calificar el Presidente, hemos apostado a que con este gobierno terminemos con la decadencia de 70 años de populismo, la corrupción en la política, los negocios de los amigos del poder, la justicia partidaria, el uso de los bienes del estado como propios, etc. A cambio, una gran parte de la sociedad que votamos con la esperanza de un cambio que inserte al país en el mundo desarrollado y lo encamine en la dirección del crecimiento y la mejora en la calidad de vida de sus habitantes, viene sobrellevando el ajuste más duro de las últimas décadas. Nadie en su sano juicio piensa que la herencia de sucesivos desgobiernos de décadas, dejando una economía desquiciada, se puede sanear en tan solo dos años. Pero tampoco tanto esfuerzo se merece asistir al espectáculo bochornoso que últimamente está dando tanto el oficialismo, ocupado en una lucha interna de poder y de defender lo indefendible, como la oposición, erigida en defensa de una transparencia en los actos de gobierno que nunca ejerció y que parece velar por los intereses de la gente, por los cuales poco se interesó. Guillermo Bronenberg wbronenberg@gmail.com Costo Paradójicamente se invirtieron los roles y el Presidente termina defendiendo al vocero que se quedó sin voz ante el escándalo de su crecimiento patrimonial y nivel de vida, al parecer inexplicables. Esta errada decisión lo ha puesto en pie de guerra. Contra el periodismo y los medios. Contra los empresarios. Contra los opositores. Contra los economistas. Creo que como buen economista, Milei debería ponderar si no está siendo ya muy alto el costo de sostener a Adorni. María Isabel Di Biasi dibiasiail@gmail.com Glaciares En un contexto de enormes sequías y crisis climáticas cada vez más frecuentes aprobar la ley de glaciares es un retroceso irreversible. Se desoyó a la ciencia y a miles de personas que exigieron ser escuchadas. Ya fue dicho por científicos, especialistas en Glaciología, que el daño puede ser irrepa",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-indignado-costo-piquetes-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/5WOGPCX4KZGUVAKLEAPHPHHSG4.jpg?auth=0ddcffce1da1a41ddee76d0fa14e0b64f2573fb5a50060de69d63dd8e19fff1f&smart=true&width=1141&height=835"
-    },
-    {
-      "id": "e11a63bf73586048325f",
-      "title": "Democracia interna partidaria y las PASO, un debate necesario",
-      "summary": "En los últimos tiempos se ha reabierto el debate acerca de la conveniencia o inconveniencia de derogar definitivamente las elecciones primarias, abiertas, simultáneas y obligatorias (PASO) impulsadas por la ley 26.571, que rigieron para todas las categorías nacionales desde las elecciones de 2011 y que fueron suspendidas mediante la Ley 27.783 para el proceso de elecciones legislativas de 2025. Concluida esa suspensión, corresponde al Congreso Nacional analizar su derogación definitiva o su continuidad, aunque también existe una tercera posibilidad y es la de sancionar un régimen distinto de elecciones primarias que dé cumplimiento al mandato del artículo 38 de la Constitución, reformada en 1994 en cuanto establece que la misma “…garantiza su organización y funcionamiento democráticos…[y]…la representación de las minorías…” entre otros aspectos resultantes de haber considerado a los partidos políticos “instituciones fundamentales del sistema democrático”. Es saludable que el Congreso se avenga a debatir este importante tema en un año no electoral y con suficiente anticipación a las elecciones presidenciales del año próximo. Es un principio del derecho electoral comparado que las modificaciones en las reglas de juego deben hacerse con una antelación razonable. Así lo afirmó la presidente de la Comisión de Venecia del Consejo de Europa en un seminario organizado por la Cámara Nacional Electoral que tuvo lugar en la sede del Consejo Argentino para las Relaciones Internacionales (CARI) el 17 de marzo pasado. La suspensión de las PASO en 2025 favoreció el buen desempeño que tuvo la boleta única de papel (BUP) en su debut, ya que se trató de una elección legislativa que en la mayoría de las provincias solamente comprendía la categoría de diputados nacionales y que en ocho distritos se extendió también a senadores nacionales. La mayoría de las provincias organizaron sus elecciones de manera separada –entre otras Buenos Aires y CABA- mientras que se celebraron de manera con",
-      "link": "https://www.lanacion.com.ar/opinion/democracia-interna-partidaria-y-las-paso-un-debate-necesario-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": ""
-    },
-    {
-      "id": "13023821fb839cc3e988",
-      "title": "Sudán: la emergencia humanitaria que el mundo no puede ignorar",
-      "summary": "La vida de Fatima Zakaria cambió para siempre en junio de 2023, cuando su ciudad natal de El Geneina, en Darfur occidental, fue atacada. A sus 27 años, esta licenciada en trabajo social se encontraba forjando un futuro prometedor en el Ministerio de Asuntos Sociales de su país mientras planificaba continuar sus estudios, pero sueños se vieron bruscamente interrumpidos. En medio de la huida, su familia se separó y su vida cambió drásticamente en cuestión de horas. “Estábamos dispersos. Mi familia huyó en distintas direcciones y yo me separé de mi madre y de algunos de mis hermanos”, recuerda Fatima. Con el resto de su grupo, intentó escapar hacia Chad, pero fueron detenidos por hombres armados cerca de la frontera. Allí se enfrentó al horror: asesinaron a su padre, a su esposo y a sus tres hermanos frente a sus ojos. A ella le dispararon en la pierna. Fatima sobrevivió por la solidaridad de otras familias que también huían. Gracias a esa ayuda, logró cruzar a Chad y llegar a la ciudad fronteriza de Adré, donde recibió atención médica. Más tarde, fue trasladada al asentamiento de Aboutengue, lugar en el que ocurrió algo que parecía improbable: se reencontró con su madre y sus otros hermanos. “Me enteré de que mi madre y mis hermanos seguían vivos, gracias a Dios. Pensaba que los habían matado a todos y que me había quedado sola en este mundo”, explica Fatima. La historia de Fatima trasciende el dolor de la guerra y es un ejemplo claro de resiliencia. Apenas se recuperó, decidió volver a reconstruir su vida y ayudar a su comunidad, como lo hacía en Sudán. En el asentamiento Aboutengue, formó una asociación de mujeres refugiadas que llevan a cabo actividades para generar ingresos como producción de artesanías, inciensos y tejido de cestas. Convirtió su pequeña casa en un centro donde la asociación celebra reuniones semanales para compartir ideas y experiencias, y debatir los retos a los que se enfrentan. El espacio también funciona como un lugar abierto y seguro donde c",
-      "link": "https://www.lanacion.com.ar/opinion/sudan-la-emergencia-humanitaria-que-el-mundo-no-puede-ignorar-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/ACA2WVV3EVFQTMHXBH4VCM4UWI.jpg?auth=986e101f7b3f0cbea4fe4fb926631fcf1f344f7131c60652bdc5c43da981c60c&smart=true&width=7008&height=4672"
-    },
-    {
-      "id": "78ca9e621fda73410d59",
-      "title": "La arquitectura del nuevo régimen penal tributario",
-      "summary": "Con la ley 27.799, conocida como de inocencia fiscal, se introducen diversas modificaciones impositivas, al régimen penal tributario , a la ley de procedimiento tributario, al régimen de prescripciones impositivas y a la creación de un régimen simplificado del impuesto a las ganancias . Respecto del régimen penal tributario, se han actualizado los pisos de punibilidad, que marcan la distinción entre los delitos tributarios y las infracciones administrativas, superando así el profundo problema provocado por la desnaturalización de dichos importes, a raíz del impacto inflacionario. Esto implica, la existencia de nuevos criterios para la persecución penal, que ahora estará en las maniobras dolosas más importantes. La actualización de los pisos de punibilidad implica que lo que antes se consideraba un delito fiscal ahora no lo es, desincriminándose ciertas conductas. Así, a través de la jurisprudencia se vienen cerrando muchos procesos penales por aplicación de la ley penal más benigna, siguiendo el criterio de la Corte Suprema de Justicia en las conocidas causas “Vidal”, “Cristalux” y “Palero”. Por su parte, la Agencia de Recaudación y Control Aduanero ( ARCA ) dictó la instrucción general 1/2026, admitiendo también la aplicación del principio de la ley penal más benigna, medida altamente positiva, pues permite reducir el tiempo de la finalización de los procesos penales tributarios. Al respecto, se observa que la actualización de los umbrales de punibilidad no responde a un criterio único, pues respecto de los delitos de la seguridad social, su actualización es menos importante que los pisos de los delitos tributarios. Por otra parte, si consideramos el piso de evasión fiscal simple vigente en el año 1997 de 100.000 dólares, tal cuantía es hoy de alrededor de 69.000 dólares. Pese a que buena parte de los procesos penales tributarios se están cerrando con la declaración del sobreseimiento de los imputados, el tema no desaparece totalmente, pues en las respectivas resol",
-      "link": "https://www.lanacion.com.ar/editoriales/el-nuevo-regimen-penal-tributario-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/OPTALEIUFBHQFKD2HJZSZCOPJM.JPG?auth=81f0e9a0101be8ce543a8c83fb70951024032f5e51cf0741fff8189825ae9a75&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "71989721a023bdbe2bf1",
       "title": "Escape From New York tendrá remake: regresa el clásico de John Carpenter",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com El regreso de Escape From New York (1997: Rescate en Nueva York) ya es una realidad. Durante la CinemaCon celebrada en Las Vegas, StudioCanal ha confirmado que está desarrollando una nueva versión del icónico thriller de ciencia ficción dirigido por John Carpenter en 1981. Y no es un simple intento más: esta vez el proyecto va en serio y forma parte de una estrategia clara del estudio por recuperar grandes títulos de culto. La noticia no solo confirma años de rumores, sino que reabre el debate sobre cómo actualizar una historia que marcó a toda una generación. Porque Escape From New York es una de esas obras que definieron un estilo, un tono y un tipo de protagonista que todavía hoy sigue influyendo en el cine de acción. StudioCanal impulsa el remake de Escape From New York con un nuevo enfoque El anuncio llegó de la mano de Anna Marsh , CEO de StudioCanal y responsable de contenido de Canal+, junto a Hugh Spearing, vicepresidente ejecutivo de marketing global. Ambos aprovecharon el arranque de la CinemaCon para dejar claro que el remake de Escape From New York está oficialmente en marcha, tras años de desarrollos fallidos. No es la primera vez que Hollywood intenta resucitar esta historia. En 2021 se habló de Leigh Whannell , director de The Invisible Man, como posible responsable de una nueva versión. Más recientemente, el proyecto parecía encaminarse con el equipo de Radio Silence (Matt Bettinelli-Olpin, Tyler Gillett y Chad Villella, responsables de Scream), aunque no está claro si siguen vinculados a esta nueva etapa. Lo interesante es que el estudio no ha hablado de un simple remake plano, sino de una “reinterpretación”. Y aquí es donde empieza lo realmente importante: adaptar el concepto original a un contexto actual sin perder la esencia que convirtió a Escape From New York en un clásico. 1997&#8230;Rescate en Nueva York ¿Volverá Kurt Russell como Snake Plissken? Uno de los puntos que más está dan",
@@ -760,36 +1063,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Escape-From-New-York.jpg"
-    },
-    {
-      "id": "c433e276523eb413f99d",
-      "title": "Hay alerta naranja por tormentas para este miércoles 15 de abril: las provincias afectadas",
-      "summary": "El Servicio Meteorológico Nacional (SMN) emitió una serie de alertas de nivel naranja y amarillo por tormentas y vientos para este miércoles 15 de abril, con un total de 13 provincias afectadas . Según precisó el organismo, se esperan fenómenos que podrían ser “peligrosos para la sociedad, la vida, los bienes y el medio ambiente”. La alerta naranja por tormentas rige en Entre Ríos , el oeste de Corrientes , Santa Fe , el sudeste de Chaco y el centro y este de Formosa . En toda esa zona, el SMN advirtió que el área será afectada por lluvias y tormentas fuertes, algunas localmente severas, acompañadas por precipitaciones persistentes y muy abundantes. También se prevé actividad eléctrica frecuente, posible caída de granizo y ráfagas que podrían alcanzar los 90 kilómetros por hora, con valores de precipitación acumulada entre 80 y 180 milímetros, que pueden ser superados de forma localizada. Por su parte, la alerta amarilla por tormentas alcanza al centro y noroeste de la provincia de Buenos Aires , el norte de La Pampa , Córdoba , el sur de Santa Fe , el este de Santiago del Estero , el este de Corrientes , Misiones , el oeste de Chaco , el oeste de Formosa y el este de Salta . En estas áreas se esperan lluvias y tormentas de variada intensidad, algunas localmente fuertes, con precipitaciones persistentes y abundantes, actividad eléctrica frecuente, posible granizo y ráfagas que podrían alcanzar los 80 kilómetros por hora. Se estiman acumulados entre 30 y 80 milímetros, con posibles superaciones puntuales. Además, rige alerta amarilla por vientos en el oeste de Santa Cruz y en Tierra del Fuego , donde el área será afectada por vientos del sector norte con velocidades entre 40 y 65 kilómetros por hora, y ráfagas que pueden alcanzar los 90 kilómetros por hora. Frente a este escenario, el SMN recomienda , para la alerta naranja por tormentas , seguir las indicaciones de las autoridades locales, evitar salir si no es necesario y permanecer en construcciones cerradas. Tamb",
-      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-por-tormentas-para-este-miercoles-15-de-abril-las-provincias-afectadas-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/OSUBAXUMCVDBVEBZHN6MSFKZ4Q.png?auth=a670500f221444ebf695c074318be833e2a78ea7418117dfc4d039f1cf32d260&smart=true&width=314&height=200"
-    },
-    {
-      "id": "18401f8e1c5c313624cd",
-      "title": "Cuánto cuesta el Fiat Cronos en abril 2026",
-      "summary": "El mercado automotor argentino atraviesa un primer trimestre con señales mixtas. Si bien marzo mostró una recuperación respecto a febrero en volumen total, algunos modelos continúan evidenciando caídas tanto en la comparación mensual como interanual. En ese escenario, el Fiat Cronos volvió a ubicarse entre los autos más vendidos, aunque con cifras en retroceso . Durante marzo, el sedán producido en Córdoba se posicionó como el tercer modelo más patentado del país , con 1760 unidades, lo que representó un 3,8% del total del mercado. A pesar de mantenerse en el podio, estos números implicaron una caída del 13,1% frente a febrero y un descenso del 34,2% en comparación con marzo de 2025 . Es argentina, tiene 28 años y sueña con ser la primera mujer del país en viajar al espacio En el acumulado del año , el Cronos registra 7042 patentamientos y alcanza un 4,7% de participación de mercado . Sin embargo, también muestra una baja del 29,6% respecto al mismo período del año pasado , reflejando un contexto más desafiante para el modelo que supo liderar el ranking durante tres años consecutivos, entre 2021 y 2023. Frente a este escenario, la gama del Cronos mantiene una política de precios sin grandes modificaciones para abril, donde solo dos versiones aumentaron un 0,5% . De esta manera, los valores oficiales de lista quedan configurados de la siguiente manera: Cronos Like 1.3 GSE: $31.120.000 Cronos Drive 1.3 GSE Pack Plus: $37.400.000 (+0,5%) Cronos Drive 1.3 GSE Pack Plus CVT: $37.620.000 (+0,5%) Cronos Precision 1.3 GSE CVT: $38.790.000 Así, el modelo se posiciona con un precio de entrada apenas por encima de los $31 millones, manteniéndose competitivo dentro del segmento de sedanes chicos. Más allá de la coyuntura comercial, el Cronos conserva la actualización estética y de equipamiento que recibió en abril del año pasado . Entre los principales cambios se destacan el rediseño de la parrilla frontal, nuevos paragolpes, un conjunto óptico con tecnología LED y la incorpora",
-      "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-fiat-cronos-en-abril-2026-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/B5YGPOAPANB3ZAQZOLHI4P7FOE.jpg?auth=020e0bc139936fe8c564b32ab08ef2f45fe000ab8bfb949d19953a6c33175b09&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "814e1daecb5047de0bcd",
-      "title": "Pagó US$117 por un boleto de rifa y se ganó un Picasso original valuado en US$1.000.000",
-      "summary": "PARÍS.- Ari Hodara , un ingeniero parisino de 58 años, se ganó este martes una obra de Pablo Picasso valuada en US$1.000.000 luego de pagar un boleto de rifa por US$117. Se trata de la obra “ Cabeza de una mujer ”, un retrato de Dora Maar, musa y pareja del artista durante muchos años, pintado en 1941. “ ¿Cómo compruebo que esto es real? ”, se preguntó Hodara después de que los organizadores se pusieran en contacto con él una vez finalizado el sorteo en París. El hombre de 58 años se describió a sí mismo como un aficionado al arte con un apego por Picasso. Además, relató que compró su boleto el fin de semana, después de enterarse por casualidad de la rifa , mientras comía en un restaurante. Organizada por la casa de subastas Christie’s, el sorteo de la tercera edición de la rifa “ 1 Picasso por 100 euros ” se realizó de manera virtual, ofreciendo la posibilidad de ganar un cuadro del artista español valuado en un millón de dólares. Según los organizadores, se vendieron 120.000 boletos en todo el mundo y se logró recaudar US$14.000.000. De esa suma, un millón será destinado a Opera Gallery , firma internacional de compraventa de arte que era propietaria del cuadro y el resto se destinará a la investigación contra el alzhéimer . Consultado sobre qué hará con el cuadro, Hodara dijo que “ en un principio, creo que lo aprovecharé y me lo quedaré ”. Luego comentó que a la primera persona que le contó sobre el premio fue su esposa. Gilles Dyan , fundador de la galería, señaló que ofreció un precio preferencial por la pintura, cuyo precio al público era de poco más de 1,5 millones de dólares. Los otros ganadores En la edición 2013 de “ 1 Picasso por 100 euros ”, un hombre de Pensilvania que trabajaba en un negocio de rociadores contra incendios ganó la primera rifa y se quedó con el cuadro “ El hombre del sombrero ”, que el maestro español pintó en 1914 durante su periodo cubista. En 2020, el cuadro “ Naturaleza Muerta ” de Picasso quedó en manos de Claudia Borgogno, una co",
-      "link": "https://www.lanacion.com.ar/el-mundo/pago-us117-por-un-boleto-de-rifa-y-se-gano-un-picasso-original-valuado-en-us1000000-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:00:30 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/5YET4YPDXBBVBKVKN2BGC6H3JI.png?auth=cc4fa1963916facc9e9e012485dacd2f5f94a1c9aaeb8cfe6dc2be16889bc1af&smart=true&width=463&height=367"
     },
     {
       "id": "690a8dff103b243b3710",
@@ -803,56 +1076,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "04fc5c8dfcecfd474c5f",
-      "title": "Set-jetting: por qué las series de televisión inspiran destinos vacacionales",
-      "summary": "Hace mucho tiempo uno elegía su próximo destino vacacional hojeando una revista o por la recomendación de un amigo. Pero aquello que inició como un fenómeno chiquito y de nicho (por ejemplo, los fanáticos de Star Wars visitando las locaciones donde la película se filmó), hoy la industria del turismo lo etiqueta como “Set-jetting”. El fenómeno es tan masivo que, según el Global Travel Trends Report de American Express , el 70% de los viajeros de las nuevas generaciones admiten haber reservado un viaje inspirados específicamente por una locación vista en pantalla . Acá lo interesante es que no se trata solo de ver un paisaje lindo; el Síndrome de la pantalla viajera es producto de la conexión emocional que la ficción genera en los fanáticos. Es decir, Ya no se trata solo de “ver” el Coliseo, también queremos caminar por la Roma de Succession o sentir la brisa siciliana que envolvió las tragedias de T he White Lotus . Esta tendencia ha transformado la economía de regiones enteras. Un estudio de Netflix en conjunto con la OMT (Organización Mundial del Turismo) demostró que la exposición a contenidos locales aumenta la afinidad por la cultura de ese país en un 2.4 veces , convirtiendo al espectador en un turista potencial casi inmediato. Estamos ante una nueva forma de descubrimiento: el viaje que empieza en el sillón de casa y termina en el check-in de un aeropuerto remoto. Ciudadanos del mundo: ficciones que borran fronteras Hay series que no se conforman con un solo set; su ADN es el movimiento. En esta categoría, la esperada producción coreana ¿Este amor puede ser traducido? ( Can This Love Be Translated?, Netflix) se perfila como el nuevo estandarte. La historia de un traductor que debe lidiar con una actriz que habla un “lenguaje” vital distinto no es solo un romance; es una invitación a entender cómo la geografía y el idioma moldean el afecto. Sus locaciones, que saltan de la ultra-tecnología de Seúl a rincones de una Europa idílica, nos recuerdan que viajar es, a",
-      "link": "https://www.lanacion.com.ar/lifestyle/set-jetting-por-que-las-series-de-television-inspiran-destinos-vacacionales-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/R74BIY6FBBBXPA7VMQPZ5TCYUI.JPG?auth=586b074d74ccc82f6c0525fa5341603644f5bd32da91a2ce33e09c05e8988595&smart=true&width=1217&height=769"
-    },
-    {
-      "id": "e106cc5c733aeaf62412",
-      "title": "TV y streaming del miércoles: Bayern - Real Madrid, River y Racing por Sudamericana, Libertadores y tenis",
-      "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del miércoles 15 de abril. FÚTBOL Champions League 16 Arsenal vs. Sporting Lisboa. Cuarto de final, partido de vuelta. ESPN y Disney+ 16 Bayern München vs. Real Madrid. Cuarto de final, desquite. Fox Sports y Disney+ Copa Libertadores 19 Cruzeiro (Brasil) vs. Universidad Católica (Chile). Fox Sports 3 y Disney+ 19 Libertad (Paraguay) vs. Rosario Central. Fox Sports y Disney+ 21.30 Corinthians (Brasil) vs. Independiente Santa Fe (Colombia). Fox Sports 2 y Disney+ 21.30 Fluminense (Brasil) vs. Independiente Rivadavia. Fox Sports y Disney+ 23 Independiente del Valle (Ecuador) vs. Universidad Central (Venezuela). Fox Sports 3 y Disney+ Copa Sudamericana 19 Caracas (Venezuela) vs. Independiente Petrolero (Bolivia). ESPN 3 y Disney+ 19 Racing vs. Botafogo (Brasil). DSports 21 Olimpia (Paraguay) vs. Barracas Central. ESPN 2 y Disney+ 21.30 River Plate vs. Carabobo (Venezuela). ESPN y Disney+ 23 América de Cali (Colombia) vs. Alianza Atlético (Perú). DSports 2 23 Millonarios (Colombia) vs. Boston River (Uruguay). DSports Copa Argentina 14.10 Gimnasia y Esgrima (Mendoza) vs. Gimnasia y Tiro. Treintaidosavo de final. TyC Sports TENIS ATP 500 de Barcelona 6 Octavos de final: Tomás Martín Etcheverry vs. Nuno Borges (Portugal) y Camilo Ugo Carabelli vs. Rafael Jódar (España). Disney+ BÁSQUETBOL Liga Nacional 21.25 Obras Sanitarias de la Nación vs. Independiente (Oliva). TyC Sports",
-      "link": "https://www.lanacion.com.ar/deportes/tv-y-streaming-del-miercoles-bayern-real-madrid-river-y-racing-por-sudamericana-libertadores-y-tenis-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/XCSJSXO3NNCMJG4TZ7YLWLIF44.jpg?auth=b5dae4457b2740842d41ec4d1ef7f28e5822ec04f1427cd8427a0fd06be9e8b1&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "faf8999a02dd1310ac20",
-      "title": "Nunca cuatro 15/4/2026",
-      "summary": "Cómo jugar al Nunca Cuatro Nunca Cuatro es un juego online que propone completar todos los casilleros vacíos con un círculo o una cruz. Pero el desafío reside en que nunca aparezcan cuatro signos iguales alineados en una misma fila, columna o diagonal. Una vez completados todos los casilleros, junto al juego -al lado del botón de “reiniciar”- aparecerá la opción “ver resolución “, con la que podrás controlar tus respuestas en línea. Cuando completes el Nunca Cuatro de hoy, podés disfrutar de otros pasatiempos online en LN Juegos : Crucigrama , Sudoku , Sopa de letras , Palabras cruzadas , Trivias , Criptograma y más desafíos diarios. Tu experiencia nos importa. Por eso, si tenés observaciones, inquietudes o sugerencias respecto de nuestros juegos online, envianos un mensaje a LNJuegos@lanacion.com.ar y contanos tus ideas. También podés seguirnos en nuestro canal de WhatsApp.",
-      "link": "https://www.lanacion.com.ar/juegos/nunca-cuatro/nunca-cuatro-1542026-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/VSGCP6CFNFENJBZFB5N5F4R5DM.png?auth=29c1ffb6e40025b0d2aa3a37be169fef5ad5dbc9893e4538afcbf343168db239&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "01e114528040fa939556",
-      "title": "Acertijo con respuesta: el viaje en moto",
-      "summary": "LN Juegos continúa en expansión y ahora suma acertijos y adivinanzas a su propuesta lúdica. A diferencia de los clásicos pasatiempos interactivos como Nexos , Palabra oculta y Panal de letras , estos acertijos combinan imágenes, letras y símbolos para representar palabras o frases que los jugadores deben descubrir. Por eso resultan ideales para estimular la creatividad y el pensamiento lateral. Para resolver un acertijo se recomienda examinar detenidamente la consigna . A menudo, la solución radica en interpretar el conjunto de forma no literal , en busca de juegos de palabras o frases conocidas representadas visualmente. ¿Sos capaz de resolver este acertijo? El acertijo del viaje en moto En esa moto había un padre, una madre, dos hijos y un abuelo. La moto no tenía sidecar, pero ellos estaban cómodos, nadie iba colgado, nadie iba haciendo equilibrio ni sentado encima de otro. ¿Cómo podía ser? Descubrí la respuesta al final de esta nota. Cómo jugar en línea en LN Juegos Para los fanáticos de los acertijos y de los desafíos mentales, LA NACION creó LN Juegos , una propuesta lúdica que todos los días ofrece diversos contenidos diseñados para desafiar a los usuarios y para ayudarlos a desconectarse de la rutina. Entre los pasatiempos más demandados se encuentran algunos juegos de palabras como el Crucigrama, la Palabra oculta y la Sopa de letras. También son muy jugadas las Trivias, el Sudoku y las Palabras cruzadas, en el marco de una propuesta innovadora que se actualiza y amplía todos los meses. También te ofrecemos Nexos , un pasatiempo atrapante que desafía a los jugadores a establecer relaciones entre 16 palabras mezcladas al azar. El objetivo del juego es formar cuatro grupos de cuatro palabras cada uno . Las palabras que integran cada conjunto se encuentran vinculadas entre sí por distintas temáticas a develar. Pero cuidado: no siempre son fáciles de distinguir. Respuesta del acertijo Pensamiento lateral: Viajaban un padre y su hija, que hacía poco había sido m",
-      "link": "https://www.lanacion.com.ar/juegos/adivinanzas/acertijo-con-respuesta-el-viaje-en-moto-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/WHYXMZSK3NFSRGNBENOSZQI7HM.JPG?auth=efbd77160f58645a2d6631a6fb52427830288f09e211f5ce7ae069c2dd9c615d&smart=true&width=6720&height=4480"
-    },
-    {
-      "id": "e59d9c4a7e3fa46a5e49",
-      "title": "Guillermo Francos opinó sobre las denuncias contra Manuel Adorni: “Tuvo una actitud que a la gente no le gustó”",
-      "summary": "A cinco meses de su salida del Gobierno, el exjefe de Gabinete Guillermo Francos reapareció públicamente y se refirió a la situación actual de Manuel Adorni , quien lo reemplazó en el cargo y enfrenta denuncias por enriquecimiento ilícito. El exfuncionario aseguró que la Justicia debe actuar como corresponde, acusó un “ acribillamiento mediático ” en torno a las denuncias y no descartó la posibilidad de ser candidato en 2027 . Entrevistado en LN+ por el periodista Alfredo Leuco, Francos calificó la situación de Adorni como “muy particular” y ponderó que está “siendo apoyado por el Presidente y la secretaria general [Karina Milei]”. \" Ellos están buscando una definición de este tema y esperando los resultados de la investigación “, sintetizó el exfuncionario nacional. 💬 Adorni falló en sus explicaciones Guillermo Francos habló sobre lo que ocurrió con el jefe de Gabinete y afirmó: Fue un golpe para el Gobierno”. 👉 En El Diario de Leuco pic.twitter.com/RGDvtKUKLk La Nación Más (@lanacionmas) April 15, 2026 No obstante, Francos reconoció que las denuncias contra el jefe de Gabinete significaron un “golpe” para el Gobierno, pero consideró que el Poder Ejecutivo recibe un “ acribillamiento mediático ” que complica la posibilidad de “dar explicaciones”. “ Sí creo que la situación le ha ocasionado al Gobierno un desgaste , en un momento en el que parecería que debería ser todo lo contrario. Ha tenido resultados positivos y cambió la Argentina”, continuó. En esa línea, el exjefe de Gabinete opinó que Adorni cometió un error al realizar una conferencia de prensa para explicar su situación y responder a las denuncias. Para Francos, la actitud que mostró el jefe de Gabinete “no le gustó a la gente”, lo que convirtió el asunto en algo aún “más negativo”. Tras ello, se refirió una a una a las acusaciones contra Adorni. Sobre el viaje del jefe de Gabinete con su esposa en el avión presidencial a Nueva York y evaluó que “no es un tema importante” porque el Presidente elige quiénes",
-      "link": "https://www.lanacion.com.ar/politica/guillermo-francos-opino-sobre-las-denuncias-contra-manuel-adorni-fallo-en-dar-sus-explicaciones-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 02:59:40 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/QIJSAD3LWFGUNJO4LI6VRKWFZE.JPG?auth=7894bf9a27ceab3e54392e294519efa1834325b06ee62098a370411fb83035c4&smart=true&width=800&height=533"
-    },
-    {
       "id": "152968a3bd943966ee1a",
       "title": "Spider-Man 4 tiene nuevo misterio: ¿Quién será la líder de La Mano?",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com En el primer tráiler de Spider-Man: Brand New Day , se mostró al trepamuros luchando contra La Mano tanto en un entorno carcelario como en las alturas de las calles de la ciudad de Nueva York. Hasta el momento, el alcance real de su papel en la película sigue siendo un misterio absoluto para todos nosotros. Sin embargo, algo que ha quedado claro es que el clan ninja tiene una líder femenina. Se la pudo ver brevemente en el avance y lidera claramente al grupo en el póster oficial lanzado durante la CinemaCon anoche. En este análisis, exploramos las posibilidades más probables de quién podría ser este personaje. Desde mutantes con vínculos con Jean Grey hasta rostros familiares del pasado de los Defenders, existen contendientes fascinantes capaces de preparar el escenario para una mezcla emocionante de historias futuras. 1. Typhoid Mary, debutaría en Spider-Man 4 Typhoid Mary Spider-Man: Brand New Day Alice Eve interpretó a una versión de Mary Walker en la segunda temporada de Iron Fist. Sin embargo, es probable que no solo mucha gente no la recuerde, sino que a pocos les importaría que el personaje fuera reiniciado para el UCM central. Mary es una mutante con trastorno de identidad disociativo y poderes psiónicos leves. Mary ha servido frecuentemente a La Mano, especialmente cuando Kingpin movía los hilos. Con Vanessa Fisk ahora fallecida, es muy probable que Wilson Fisk haga lo que sea para traer a su esposa de vuelta, y La Mano es capaz de resucitar personas. Dada la historia romántica complicada entre Fisk y Mary, su introducción aquí beneficiaría enormemente a la serie de Disney+ . Si su papel es breve, serviría perfectamente como preámbulo para profundizar en ella el próximo año. 2. Elektra aprovecharía Spider-Man para volver al UCM Elektra regresaría en Spider-Man 4 Aquí estamos lanzando una teoría ambiciosa. Con las especulaciones apuntando a que Matt Murdock terminará en prisión tras el final de la",
@@ -861,58 +1084,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/FotoJet-2026-04-14T213553.423.jpg"
-    },
-    {
-      "id": "f2d26c8ddc5325f3e605",
-      "title": "Remodelar cocina en abril 2026: tres presupuestos para cada bolsillo (económico, medio y premium)",
-      "summary": "Muchas son las personas que posponen la reforma de su cocina ya que esto representa una de las decisiones más importantes y costosas dentro del hogar . No solo implica una inversión significativa , sino también una reorganización completa de la vida cotidiana durante el tiempo que dura la obra . Según el arquitecto Damián Revelli, especialista en remodelaciones ( @elarquidecasas ), antes de pensar en el diseño o los materiales es fundamental comprender tres variables que determinan cualquier proyecto: el presupuesto, las posibilidades de la vivienda y los deseos o expectativas del propietario . Andrés Brody, desarrollador: “Cuando producir vivienda se vuelve demasiado caro, el problema deja de ser inmobiliario” “El primer punto es el bolsillo. Todos sabemos, aunque sea de manera intuitiva, cuánto dinero podemos invertir. Sin ese dato, no se puede avanzar”, explica. Entonces reconoce la existencia de un triángulo que define toda la obra al que llama el triángulo de la viabilidad . En primer lugar, está el presupuesto que determina el alcance que tendrá la reforma. Pero también hay que tener en cuenta lo que permite cada casa y esto está condicionado por la estructura, las instalaciones, normativas, ventanas, reglamentaciones y luz natural. Por último, están los deseos del propietario, es decir, qué proyecto tiene en su cabeza, pero este siempre está supeditado a los dos factores mencionados anteriormente. Por eso, Revelli advierte que, en la mayoría de los casos, las reformas o remodelaciones dependen más de lo posible que de lo deseado. Un especialista comparte una fórmula para saber si el alquiler de un departamento genera una renta lógica De un cambio estético a una cocina premium Revelli asegura que el nivel de intervención varía directamente según la inversión disponible. En el rango más bajo se ubican los llamados trabajos de “restyling” , que consisten en renovar superficies existentes sin modificar instalaciones; esto puede incluir vinilos, revestimientos sob",
-      "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/remodelar-cocina-en-abril-2026-tres-presupuestos-para-cada-bolsillo-economico-medio-y-premium-nid10042026/",
-      "pubDate": "Wed, 15 Apr 2026 02:36:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/3EUF7G7W7VDHDLRJ7IF3WFHJTQ.jpg?auth=a2730e135b0d8a054ef10050d197acedf05c63eaa7d5aa1919c21c31e10811ee&smart=true&width=3000&height=1924",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "bf590bdf8474a892573d",
-      "title": "Barrios cerrados en el Gran Buenos Aires: precios de lotes en abril 2026",
-      "summary": "La naturaleza dejó de ser un lujo para transformarse en un aspecto indispensable para muchos. Vivir rodeado de verde cobra cada vez más protagonismo y sigue impulsando a los habitantes de la c iudad de Buenos Aires a mudarse a los alrededores. Este fenómeno experimentó su auge durante la pospandemia, cuando se registró una fuerte migración hacia barrios cerrados. Años después, el tráfico y la escasez de servicios convencieron a algunos a volver a la urbe, sin embargo hay muchos que no renuncian a su sueño de vivir en un country . Pasó de ser la avenida favorita de las marcas a tener la mayor cantidad de locales vacíos en menos de un año “La vorágine de la pandemia frenó, pero las personas siguen eligiendo los barrios por estilo de vida ”, comenta Alice Pfeiffer, broker inmobiliaria en Achaval Cornejo, sucursales Nordelta y Puertos. Actualmente, la oferta de barrios cerrados no para de crecer. Con propuestas cada vez más completas, esta tipología busca diferenciarse ofreciendo todo lo necesario dentro de sus paredes: canchas de pádel, fútbol, juegos para los niños, piletas, caballerizas, gimnasios, lagunas, incluso supermercados, colegios y universidades. “ La demanda en barrios cerrados se volvió mucho más selectiva, exigente y racional ”, señala Soledad Ramos, directora sucursal Nordelta en L.J.Ramos. ¿Dónde se encuentran las oportunidades? La zona norte del Gran Buenos Aires -con Pilar, Tigre y Escobar como protagonistas - agrupa gran parte de las opciones de esta tipología. “El crecimiento sigue concentrándose principalmente en el corredor norte, con zonas como Escobar y Tigre muy dinámicas”, declara Alan Flexer, gerente de la sucursal San Isidro en Narvaez, y agrega que aunque Pilar continúa siendo referente histórico, Escobar ganó protagonismo en los últimos años a partir de nuevos proyectos. Dentro de este corredor, también emergen subzonas con fuerte desarrollo: “Hay sectores como el corredor de Camino de los Remeros en Tigre y áreas cercanas a San Isidro, do",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/barrios-cerrados-en-el-gran-buenos-aires-precios-de-lotes-en-abril-2026-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 02:36:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/RABA6G2V3NEI5AXLL7KITDVL6Y.JPG?auth=87e72e0466e1dd585d0f0c30e39c2a1b35ce730d5c70e11409243903048a1a88&smart=true&width=4000&height=2250"
-    },
-    {
-      "id": "bba9448336048071a025",
-      "title": "Errores comunes que hacen que el banco te rechace el crédito hipotecario",
-      "summary": "La decisión de comprar una propiedad es una de las decisiones financieras más importantes en la vida de una persona. Pero el desafío no empieza en la búsqueda del inmueble, ni siquiera en la visita al banco para pedir un crédito hipotecario . Arranca mucho antes: en la capacidad real de una persona para sostener un préstamo a largo plazo . Las tasas de los préstamos hipotecarios cambian constantemente : pasaron de un promedio del 5,5% al relanzarse los créditos UVA, a encontrarse cerca del 10% hoy. Dado que el valor de la cuota está atado a la inflación y se requiere un ahorro inicial de al menos el 25% del precio de la propiedad, evitar errores en el proceso de compra es tan crucial como encontrar “la vivienda ideal” . Surgen nuevas formas de crédito que permiten comprar un departamento nuevo en cuotas A continuación se presentan los errores más comunes que pueden frenar el crédito hipotecario en la Argentina y cómo evitarlos: 1) Presupuesto realista La primera barrera no es financiera , es de honestidad . Tener claro cuánto se puede pagar por mes define todo lo que viene después. Los bancos son tajantes: la cuota no puede superar el 25% del ingreso del solicitante (o del grupo familiar). Cuando esa proporción se estira más de la cuenta, el crédito se vuelve inviable . Muchos compradores empiezan la búsqueda por arriba de sus posibilidades y luego chocan de frente con la realidad del análisis crediticio . “La persona tiene que estar muy consciente de que va a poder pagar”, afirma Enrique Abatti, abogado especializado en derecho inmobiliario. Los expertos recomiendan que se intente que la cuota represente menos del 25% de los ingresos. De este modo, si las cuotas se disparan, el impacto financiero será menor y el solicitante no tendrá que realizar ajustes severos. 2) No tener en cuenta los gastos extras La hipoteca es solo una parte del presupuesto . Escritura, impuestos, registro, honorarios, sellados y luego, como propietario, expensas, mantenimiento y seguro. Tod",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/errores-comunes-que-hacen-que-el-banco-te-rechace-el-credito-hipotecario-nid13042026/",
-      "pubDate": "Wed, 15 Apr 2026 02:35:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/RTQUZZT4DJFQ5OAV4HPAH333NI.jpg?auth=e0bc26abd8e47646549fd3508a50535ef515cdf52d9c040722c46d757743eafc&smart=true&width=3840&height=2560"
-    },
-    {
-      "id": "3a7bef949777acf20c55",
-      "title": "Fabio Agostini de La casa de los famosos entró a Gran Hermano: así fue la reacción de los participantes",
-      "summary": "Tras una larga expectativa, Fabio Agostini entró a Gran Hermano Generación Dorada (Telefe) y fue recibido por los participantes del reality argentino, quienes se quedaron sin la presencia de Solange “Sol” Abraham con motivo de su intercambio con el español. De esta manera, La casa de los famosos (Univisión) se llevó a la hermanita por un período similar. En la previa al ingreso de Fabio a la casa de Gran Hermano , Santiago del Moro se encargó de anunciar un video de presentación del español . Así, se pudo observar un perfil llamativo que seguramente dará mucho que hablar a lo largo de los días, donde incluso ya hubo varias participantes que demostraron su interés por tener un vínculo amoroso con él , como el caso de Luana Fernández . La presentación de Fabio Agostini por parte de Gran Hermano Al momento de entrar, Fabio fue recibido por todos en el patio y gritó: “ Hola, ¡buenas noches Argentina! ”. Tras esto, la primera en acercarse a él fue Jennifer “Pincoya” Torres y lo abrazó, por lo que le dio la bienvenida al reality argentino. A la hora de saludar a los demás, decidió hacerlo con un beso a los hombres y dos a las mujeres . Después de algunos minutos alrededor de la casa de Gran Hermano , se vivió el “esperado” encuentro entre Fabio y Luana , quien siempre dejó en claro que se sentía atraída por él . Esta situación dejó a Franco Zunino en una situación incómoda, donde rápidamente aceptó desligarse de quien fuera su “ shippeo ” durante las últimas semanas. Fabio rápidamente se enteró del interés de Luana Ahora se deberá esperar para ver cómo transcurren los próximos siete días de Gran Hermano Generación Dorada , donde quedará en evidencia cuál es la tarea a cumplir por parte de Fabio Agostini . Ante la ausencia de “acción” amorosa entre los participantes del reality argentino, Telefe podría haber optado por el ingreso del español para intentar activar esta faceta y generar el desencanto de los otros hombres. Quién es Fabio Agostini Fabio Agostini nació en Las P",
-      "link": "https://www.lanacion.com.ar/espectaculos/fabio-agostini-de-la-casa-de-los-famosos-entro-a-gran-hermano-asi-fue-la-reaccion-de-los-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 02:31:14 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/CCHBY3L7YZFKBEFDT6CEEKJVVY.jpg?auth=7495d82cfce75094264a48e27231145ce05ce5401839dc2dc24af58b531481bb&smart=true&width=2000&height=1333",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "2efabe99f8afe31aa602",
-      "title": "Prórroga del IRS: dudas de última hora para hacer la declaración de taxes en EE.UU.",
-      "summary": "A horas del último día para presentar la declaración y pagar los taxes al Servicio de Impuestos Internos de Estados Unidos ( IRS , por sus siglas en inglés), hay algunas dudas frecuentes de los usuarios con respecto a la posibilidad de pedir una prórroga . Además, surgen preguntas sobre cuándo es exactamente el horario límite . IRS 2026: ¿hasta qué hora se pueden presentar impuestos el 15 de abril en EE.UU.? El último día para presentar la declaración correspondiente a esta temporada y pagar los impuestos al IRS es este miércoles 15 de abril . A la medianoche, cuando la fecha cambie al 16 de abril, ese plazo habrá vencido y quienes no hayan cumplido con los requisitos tendrán una deuda con la agencia impositiva . Declaración de impuestos en EE.UU.: ¿qué pasa si se presenta el último día? Los contribuyentes pueden llevar a cabo el trámite de completar su declaración de impuestos durante la fecha límite , siempre y cuando la presenten antes del final del día . El problema que pueden tener los contribuyentes con esta decisión es que el apuro para realizar el trámite derive en algún tipo de error al completar la documentación que se enviará al IRS . ¿A qué hora vencen los impuestos el 15 de abril? Específicamente, el horario límite en el que un contribuyente puede pagar y enviar su declaración al IRS es a las 23.59 (hora local) del 15 de abril . Prórroga del IRS: ¿cómo funciona la extensión automática hasta octubre 2026? Los contribuyentes que sepan que no podrán cumplir con la fecha límite tienen la posibilidad de solicitar una extensión automática de seis meses . Esta debe solicitarse como máximo el 15 de abril para evitar sanciones. Sobre esta herramienta, el IRS aclara que la prórroga hasta el 15 de octubre es para declarar impuestos, pero no para pagarlos . Todos los usuarios tienen hasta el 15 de abril para abonar la suma correspondiente. ¿Cómo solicitar la extensión automática del IRS para impuestos? La entidad tributaria detalla que existen distintas vías para o",
-      "link": "https://www.lanacion.com.ar/estados-unidos/prorroga-del-irs-dudas-de-ultima-hora-para-hacer-la-declaracion-de-taxes-en-eeuu-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 02:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/IE24PSRUZNCPLPFIPUH3QCBNPE.jpg?auth=5cc668f47e1addf857d138f70f2788d5931afec5b1f3f13b64aef546d5039856&smart=true&width=2313&height=1542"
     },
     {
       "id": "796668813a07798ed838",
@@ -926,7 +1097,7 @@
     },
     {
       "id": "b2d85b9d86ad03845fa5",
-      "title": "La prensa catalana habla de un Barça \"heroico\"",
+      "title": "Lo que dice la prensa catalana tras el KO del Barça",
       "summary": "Así vienen los periódicos deportivos de este miércoles 15 de abril de 2026.",
       "link": "https://www.marca.com/futbol/album/2026/04/15/portadas-dia.html",
       "pubDate": "Wed, 15 Apr 2026 02:22:32 +0200",
@@ -985,16 +1156,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/ac6uW1fthIQiI83pt.jpeg"
     },
     {
-      "id": "22c862f7746553741df2",
-      "title": "... Y recado a la afición del Atlético: \"Pa' fuera\"",
-      "summary": "Raphinha, en el césped del Metropolitano",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/15/raphinha-aficion-atletico-sobre-semifinales-pa-fuera.html",
-      "pubDate": "Wed, 15 Apr 2026 00:51:39 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69dec0f6ed6df.jpeg"
-    },
-    {
       "id": "8c490c36878bb7847ba1",
       "title": "El hombre que ganó un cuadro de Picasso valorado en US$1,2 millones en una rifa benéfica por la que pagó apenas US$118",
       "summary": "\"¿Cómo sé que no es una broma?\", preguntó el ganador al contestar una videollamada de la casa de subastas Christie's en París.",
@@ -1007,7 +1168,7 @@
     },
     {
       "id": "180be97d8bad01cdd6aa",
-      "title": "\"Ojalá Dios y el destino le den a Griezmann lo que le falta\"",
+      "title": "Simeone, eufórico: \"¡Buenísimo!\"",
       "summary": "SIMEONE, DURANTE EL PARTIDO.",
       "link": "https://www.marca.com/futbol/atletico/2026/04/15/simeone-faltan-tres-partidos-sabemos-queremos-iremos-buscar.html",
       "pubDate": "Wed, 15 Apr 2026 00:38:31 +0200",
@@ -1024,16 +1185,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/02/05/69846aad4b8d7.jpeg"
-    },
-    {
-      "id": "5ed6cb0743163d70fa43",
-      "title": "Rajadón de Raphinha...",
-      "summary": "Raphinha mira a la grada tras el pitido final en el Metropolitano",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/15/raphinha-mi-partido-robado.html",
-      "pubDate": "Wed, 15 Apr 2026 00:17:58 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69debcfa7203d.jpeg"
     },
     {
       "id": "a75c62913914f614e76c",
@@ -1056,56 +1207,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/2STA6FJRIJFVJLGD5UFYJ6RFLI.jpg?auth=c0de00d5bb40c1a0380f7a79f7f551ec167d5cf77295a247d7822ec7f88f041f"
     },
     {
-      "id": "9fa67036528e98907e28",
-      "title": "\"Volver a España siempre es un placer\"",
-      "summary": "Luis Enrique en el partido ante el Liverpool en Anfield.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/14/luis-enrique-sobre-enfrentamiento-madrid-volver-espana-siempre-placer.html",
-      "pubDate": "Tue, 14 Apr 2026 23:58:51 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb4ce6f3c7.jpeg"
-    },
-    {
-      "id": "681deed4a37048e82ae7",
-      "title": "\"No nos van a regalar nada, casi que nos van a quitar...\"",
-      "summary": "Dani Olmo.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/14/olmo-regalar-quitar.html",
-      "pubDate": "Tue, 14 Apr 2026 23:55:59 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb778c9988.jpeg"
-    },
-    {
-      "id": "e709cf019c734ccceb2b",
-      "title": "\"La diferencia de la eliminatoria la ha marcado la eficacia del Atlético de Madrid\"",
-      "summary": "",
-      "link": "https://www.marca.com/radio/2026/04/14/dani-garcia-lara-diferencia-eliminatoria-marcado-eficacia-atletico-madr-video.html",
-      "pubDate": "Tue, 14 Apr 2026 23:54:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/ac7EW1fthU0x9rd1s.jpeg"
-    },
-    {
-      "id": "29e9b5db9aeaa632e759",
-      "title": "\"Mientras nosotros estemos bien...\"",
-      "summary": ".",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/14/griezmann-da-igual-jugar-nosotros-estemos-bien.html",
-      "pubDate": "Tue, 14 Apr 2026 23:52:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb667da8f8.jpeg"
-    },
-    {
-      "id": "ccd58cccf3c02b752ef7",
-      "title": "\"Pasó el Atlético, brilló el fútbol\"",
-      "summary": "Los jugadores del Atlético de Madrid al finalizar el partido de vuelta de cuartos de final de Liga de Campeones que Atlético de Madrid y FC Barcelona disputaron este martes en el estadio Metropolitano, en Madrid.",
-      "link": "https://www.marca.com/futbol/atletico/opinion/2026/04/14/paso-atletico-brillo-futbol.html",
-      "pubDate": "Tue, 14 Apr 2026 23:49:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb4e394012.jpeg"
-    },
-    {
       "id": "b87ee72155e65458409f",
       "title": "¿Problemas con Claude Code? Anthropic responde con una gran actualización de su app",
       "summary": "En medio de la polémica por los límites de uso y una acusación de bajo rendimiento de sus modelos, Anthropic lanzó una actualización de Claude Code para escritorio. La nueva versión de la app llega con varias mejoras, como una barra lateral para gestionar varias sesiones, un terminal integrado y más. El tiempo en que llega esta actualización no podría ser más complicado. Desde hace unos días han crecido las quejas contra Anthropic por el desempeño de Claude . Los usuarios reportan que el modelo sigue menos instrucciones, toma atajos y comete más errores en tareas complejas. En el caso de Claude Code , la directora de IA de AMD, Stella Laurenzo, declaró que la herramienta se volvió inutilizable para tareas de ingeniería complejas . Lejos de ofrecer una solución a los problemas de rendimiento o los límites de mensajes, Anthropic se ha limitado a lanzar una actualización de la app de escritorio de Claude Code. De acuerdo con una publicación en su web , el rediseño se centra en hacer que los desarrolladores se conviertan en orquestadores de varias tareas simultáneas y no en una sola conversación. Nueva app de Claude Code El cambio más visible es la nueva barra lateral, que agrupa todas las sesiones activas y recientes en un único panel. Desde ahí se pueden filtrar por estado, proyecto o entorno, y agruparlas por proyecto para retomarlas con mayor rapidez. Cuando una sesión cierra su pull request o finaliza, se archiva automáticamente, de modo que la barra lateral siempre refleja lo que está activo en ese momento. Para no interrumpir el hilo principal de una tarea, la app incorpora los chats laterales , que se abren con el atajo ⌘ + ; en Mac o Ctrl + ; en Windows. Estos chats heredan el contexto de la conversación principal , pero no devuelven nada al hilo original. La app de Claude Code ahora es más útil El rediseño de Claude Code integra varias funciones que antes requerían cambiar de aplicación. Por ejemplo, la app ahora incluye un terminal para ejecutar pruebas o bui",
@@ -1115,66 +1216,6 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-code-app-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "herramientas"
-    },
-    {
-      "id": "faa7175c950026904dae",
-      "title": "\"Vergüenza de competición, hecha por tramposos\"",
-      "summary": "Toni Freixa denuncia en el programa 'El Chiringuito' que \"lo que se está haciendo con el Barcelona es infame y ruin\".",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/14/antifubol-arbitrajes-dirigidos-eliminan-vergueenza-competicion-hecha-tramposos.html",
-      "pubDate": "Tue, 14 Apr 2026 23:43:19 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/02/10/a0BUs1fYkwiAHSSCt.jpeg"
-    },
-    {
-      "id": "fa4f88e95589f4098d45",
-      "title": "Liverpool 0-2 PSG | Resumen Champions League",
-      "summary": "Un doblete de Dembélé aniquila al Liverpool... cuando mejor estaban los ingleses.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/14/liverpool-0-2-psg-resumen-champions-leagu-video.html",
-      "pubDate": "Tue, 14 Apr 2026 23:42:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/ac72o1fthIOo3Ua4N.jpeg"
-    },
-    {
-      "id": "24ba0bca03ef363bc40c",
-      "title": "El golpe de Musso a Fermín que le dejó sangrando a borbotones",
-      "summary": "El Barça tuvo el 0-3 en una clarísima ocasión en la cabeza de Fermín que fue desbaratada por el cuerpo de Musso sin poder evitar terminar impactando con la cara de Fermín que se quedó en el suelo dolido y sangrando abundantemente en su rostro.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/14/golpe-musso-fermin-le-dejo-sangrando-borbotones-video.html",
-      "pubDate": "Tue, 14 Apr 2026 23:40:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/ac6yK1fthGyukxJev.jpeg"
-    },
-    {
-      "id": "552745004ef6670bb4fa",
-      "title": "¡Griezmann enloqueció tras el partido en el Metropolitano!",
-      "summary": "Griezmann durante el partido",
-      "link": "https://www.marca.com/radio/2026/04/14/griezmann-enloquecio-partido-metropolitan-video.html",
-      "pubDate": "Tue, 14 Apr 2026 23:33:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb2a2f2bf8.jpeg"
-    },
-    {
-      "id": "19e88f95bda1f827bbe8",
-      "title": "\"No quiero hablar del árbitro\"",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/barcelona/2026/04/14/hansi-flick-mereciamos-semifinales-champions-pudo.html",
-      "pubDate": "Tue, 14 Apr 2026 23:28:49 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb30eba2ef.jpeg"
-    },
-    {
-      "id": "bd891bd1acf6a993581b",
-      "title": "¡Los jugadores del Atlético de Madrid saltaron al terreno de juego a petición de la afición!",
-      "summary": "Celebración Atlético",
-      "link": "https://www.marca.com/radio/2026/04/14/jugadores-atletico-madrid-saltaron-terreno-juego-peticion-aficion-video.html",
-      "pubDate": "Tue, 14 Apr 2026 23:25:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb0b0c0512.jpeg"
     },
     {
       "id": "ac754901f629ba22f8be",
@@ -1224,7 +1265,7 @@
       "pubDate": "Tue, 14 Apr 2026 21:47:20 GMT",
       "source": "El Pais",
       "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/UHWSQXMLYRDYRK2CGIXKPLVQQY.JPG?auth=937a2a4405f6337be6b92037fd20d1a9ad256d8452ec06d9a86aca65af3ecda8"
+      "image": "https://imagenes.elpais.com/resizer/v2/K2RR2YQKSNFWZKHHYY7M7ATKEU.JPG?auth=f670d4a5d42f01109d34fab5fa3e7e9a409e8f8252ccf03f69483715652e6d95"
     },
     {
       "id": "26c7ed4749b599ade599",
@@ -2109,17 +2150,6 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/youtube-shorts-avatares-1-1024x614.jpg"
     },
     {
-      "id": "c0eb64a991658cc9a0c2",
-      "title": "Mood cada vez que sacan “la mejor inteligencia artificial jamás creada”",
-      "summary": "[&#8230;] La entrada Mood cada vez que sacan &#8220;la mejor inteligencia artificial jamás creada&#8221; se publicó primero en Marketing4eCommerce .",
-      "link": "https://marketing4ecommerce.net/mood-cada-vez-que-sacan-la-mejor-inteligencia-artificial-jamas-creada/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:50 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "ia",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/Humor-M4c-articulo-10.jpg",
-      "subcat": "herramientas"
-    },
-    {
       "id": "7c4ce9e1be46f08c7302",
       "title": "La República de Slowjamastan, la micronación fundada en California por un excéntrico \"sultán\" que ya tiene 25.000 ciudadanos",
       "summary": "Es la más nueva micronación del mundo, ocupa cuatro y media hectáreas en un área desértica cerca de la ciudad San Diego donde todos los visitantes del mundo están bienvenidos, afirma su sultán.",
@@ -2189,16 +2219,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/45955a65-8acc-4473-b32a-b8caede64314_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "f0bbdc69d6eca4f864b8",
-      "title": "Steven Spielberg revela por qué canceló su mayor película de ciencia ficción: “Habría hundido un estudio”",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Steven Spielberg no necesita demostrar nada a estas alturas. Su nombre está ligado a algunas de las películas más influyentes del cine moderno, especialmente dentro de la ciencia ficción. Pero incluso alguien con su historial tiene proyectos que nunca llegan a ver la luz. Y cuando uno de ellos se cae, suele haber una razón de peso detrás. Ahora, el propio Steven Spielberg ha explicado por qué decidió cancelar lo que podría haber sido su película de ciencia ficción más ambiciosa. Y la respuesta no tiene que ver con problemas creativos, sino con algo mucho más serio: el riesgo real de provocar un desastre financiero dentro de la industria. Lo interesante no es solo que el proyecto se cancelara, sino el motivo. Porque revela hasta qué punto incluso los grandes nombres de Hollywood tienen límites cuando el equilibrio entre espectáculo y rentabilidad empieza a romperse. Robopocalypse, el gran proyecto de Steven Spielberg que nunca llegó a despegar Durante años, Steven Spielberg estuvo vinculado a Robopocalypse , una adaptación de la novela de Daniel H. Wilson que prometía convertirse en un blockbuster de ciencia ficción a gran escala. La historia, centrada en una rebelión de máquinas contra la humanidad, encajaba perfectamente dentro de la tradición del director tras títulos como Encuentros en la tercera fase, E.T. o Jurassic Park. Sin embargo, el proyecto quedó atrapado en lo que en Hollywood se conoce como “development hell”, ese limbo en el que muchas películas prometedoras acaban perdiéndose con el paso del tiempo. Y en este caso, no fue por falta de interés o de talento detrás de las cámaras. Steven Spielberg llevaba tiempo desarrollando la película, pero cuanto más avanzaba el proyecto, más evidente se hacía un problema que no podía ignorar: el coste. La razón real detrás de la cancelación En una entrevista con Empire , Steven Spielberg fue muy claro al explicar qué ocurrió con Robopocalypse. No se trató",
-      "link": "https://www.cinemascomics.com/steven-spielberg-cancelo-ciencia-ficcion/",
-      "pubDate": "Mon, 13 Apr 2026 22:01:53 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Steven-Spielberg-revela-por-que-cancelo-su-mayor-pelicula-de-ciencia-ficcion.jpg"
     },
     {
       "id": "5c859baf278052a086de",
@@ -2496,17 +2516,6 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/Copia-de-Articulo-podcast-750x450-53.jpg"
     },
     {
-      "id": "5c5cda53f11be61426f4",
-      "title": "Francia reemplazará Windows por Linux en un impulso hacia la soberanía digital",
-      "summary": "Francia reemplazará Windows por Linux en un ambicioso programa de migración de software en las computadoras de toda la administración pública del país. La directiva aprobada es uno de los mayores impulsos en Europa para recuperar soberanía digital frente a las tecnológicas estadounidenses. Teniendo en cuenta la influencia de Francia en la Unión Europea, la medida puede (debe) ser un ejemplo a seguir para otros países del continente , un cambio de inflexión para reducir la dependencia digital de Estados Unidos y una apuesta a favor del software de código abierto, el control tecnológico y de los datos digitales en todo el continente. La iniciativa aprobada no solo contempla cambios en sistemas operativos, también en las herramientas de colaboración, infraestructura en la nube y plataformas de inteligencia artificial desarrolladas en Europa. Francia reemplazará Windows por Linux y otro software La Agencia Nacional de Seguridad de los Sistemas de Información y la Dirección General de Contratación Pública del Estado de Francia (DINUM), ha aprobado una directiva que contempla cambios relevantes para avanzar en soberanía digital . La propia agencia, que emplea a unos 250 agentes, migrará de inmediato sus estaciones de trabajo de Windows a Linux. Todos los demás ministerios franceses, incluidos sus operadores y organismos afiliados, deberán elaborar sus propios planes antes del otoño de 2026. Dichos planes deberán abordar ocho categorías : estaciones de trabajo y sistemas operativos; herramientas de colaboración y comunicación; software antivirus y de seguridad; inteligencia artificial y algoritmos; bases de datos y almacenamiento; virtualización e infraestructura en la nube, y equipos de red y telecomunicaciones. David Amiel, el Ministro de Acción Pública francés, ha motivado la iniciativa: «El Estado ya no puede limitarse a reconocer su dependencia; debe liberarse. Debemos reducir nuestra dependencia de las herramientas estadounidenses y recuperar el control de nuestro de",
-      "link": "https://www.muycomputer.com/2026/04/13/francia-reemplazara-windows-por-linux-en-un-impulso-hacia-la-soberania-digital/",
-      "pubDate": "Mon, 13 Apr 2026 06:16:36 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Francia_reemplazara_Windows_por_Linux_2.jpg",
-      "subcat": "desarrollo"
-    },
-    {
       "id": "dadddaea6a5b7e79125a",
       "title": "POV: necesitas consejos de marketing y eCommerce pero estás en mitad de tu concierto en Coachella",
       "summary": "[&#8230;] La entrada POV: necesitas consejos de marketing y eCommerce pero estás en mitad de tu concierto en Coachella se publicó primero en Marketing4eCommerce .",
@@ -2715,5 +2724,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-15T04:42:42.686198+00:00"
+  "updated": "2026-04-15T07:22:47.565457+00:00"
 }
