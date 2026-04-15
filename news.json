@@ -1,8 +1,218 @@
 {
   "articles": [
     {
+      "id": "3bc008858b913503341b",
+      "title": "Alerta Mundial en Francia: Ekitike dice adiós tras romperse el Aquiles y preocupa Doué",
+      "summary": "Hugo Ekitike se duele después de caer lesionado.",
+      "link": "https://www.marca.com/futbol/champions-league/2026/04/15/alerta-mundial-francia-ekitike-dice-adios-romperse-aquiles-preocupa-doue.html",
+      "pubDate": "Wed, 15 Apr 2026 11:07:33 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df54f9e7ba6.jpeg"
+    },
+    {
+      "id": "c4d15a508e1ec3c5cdd7",
+      "title": "\"Volveremos para ganarla\"",
+      "summary": "Olmo, Ferran Torres y Gavi.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/15/volveremos-ganarla.html",
+      "pubDate": "Wed, 15 Apr 2026 10:58:40 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df527a8c6ee.jpeg"
+    },
+    {
+      "id": "f3be3af806d1513b6595",
+      "title": "La increíble historia de Johansen, líder en O Gran Camiño: campeón del mundo, 'exiliado' y socio de Pogacar",
+      "summary": "Julius Johansen, con el maillot amarillo.",
+      "link": "https://www.marca.com/ciclismo/2026/04/15/increible-historia-johansen-lider-gran-camino-campeon-mundo-exiliado-socio-pogacar.html",
+      "pubDate": "Wed, 15 Apr 2026 10:50:59 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de8dc5a1afa.jpeg"
+    },
+    {
+      "id": "a5ec5aa9bb3e945102cf",
+      "title": "Susanna Griso y su \"soponcio\" por la trágica pérdida de un ser querido: \"Se lo zamparon\"",
+      "summary": "Susanna Griso y su triste noticia con su mascota.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/15/susanna-griso-soponcio-tragica-perdida-querido-zamparon.html",
+      "pubDate": "Wed, 15 Apr 2026 10:50:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df483e0e736.jpeg"
+    },
+    {
+      "id": "d12cf699d05e7e259055",
+      "title": "Dacia Spring 2026: conducimos el eléctrico urbano que resiste a la oleada china",
+      "summary": "El Spring ha elevado su potencia.",
+      "link": "https://www.marca.com/coches-y-motos/coches/2026/04/15/dacia-spring-2026-conducimos-electrico-urbano-resiste-oleada-china.html",
+      "pubDate": "Wed, 15 Apr 2026 10:44:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4dbed51a3.jpeg"
+    },
+    {
+      "id": "73c0a6172072bc680814",
+      "title": "Llorente brilla como nunca... a pesar de perder horas de sueño: \"Me cago en los ritmos circadianos\"",
+      "summary": "Un montaje con una imagen de Llorente en el partido y otra de su mensaje en Instagram.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/15/llorente-duerme-tres-horas-aplica-teoria-sol-guardiola-deja-me-cago-ritmos-circadianos.html",
+      "pubDate": "Wed, 15 Apr 2026 10:43:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4e777e8ad.jpeg"
+    },
+    {
+      "id": "6e1cd73fade57b13352e",
+      "title": "El primer nuevo gran duelo está cerca: \"Sueño con un esprint entre Pogacar y Seixas por la victoria\"",
+      "summary": "El podio de Strade, con Seixas, Pogacar y Del Toro.",
+      "link": "https://www.marca.com/ciclismo/2026/04/15/primer-nuevo-gran-duelo-cerca-sueno-esprint-pogacar-seixas-victoria.html",
+      "pubDate": "Wed, 15 Apr 2026 10:43:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/19/69bbf533b4bec.jpeg"
+    },
+    {
+      "id": "4963701686bb139a4ee5",
+      "title": "\"Mandé a mi ingeniero a la mierda... y en la siguiente carrera, Vettel estaba en mi coche\"",
+      "summary": "Scott Speed y Sebastian Vettel.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/15/mande-mi-ingeniero-mierda-siguiente-carrera-vettel-mi-coche.html",
+      "pubDate": "Wed, 15 Apr 2026 10:39:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df45df4ee3e.jpeg"
+    },
+    {
+      "id": "a077edc07dd9483487af",
+      "title": "La sorpresa de UFC Casa Blanca: un millón de dólares como bonus en criptomonedas",
+      "summary": "Cartel oficial de UFC Casa Blanca.",
+      "link": "https://www.marca.com/combates-ufc/2026/04/15/sorpresa-ufc-casa-blanca-millon-dolares-bonus-criptomonedas.html",
+      "pubDate": "Wed, 15 Apr 2026 10:38:53 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/12/69daeaf5a9090.jpeg"
+    },
+    {
+      "id": "6c60f6951c5bb7687c64",
+      "title": "España necesita un ‘perfect’ para no poner en riesgo el Mundial",
+      "summary": "Sonia Bermúdez da instrucciones a las jugadoras de la selección en Wembley",
+      "link": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/04/15/espana-necesita-perfect.html",
+      "pubDate": "Wed, 15 Apr 2026 10:36:07 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4d4cb84d4.jpeg"
+    },
+    {
+      "id": "5c59e1d55eef617b1929",
+      "title": "El símil del rival que espera al Atlético en semis de la Champions: \"El Mercedes va a 200 km/h y el Peugeot también\"",
+      "summary": "El símil del rival que espera al Atlético en semis de la Champions: \"El Mercedes va a 200 km/h y el Peugeot también\"",
+      "link": "https://www.marca.com/futbol/champions-league/2026/04/15/simil-rival-espera-atletico-semis-champions-mercedes-200-km-h-peugeot-tambien.html",
+      "pubDate": "Wed, 15 Apr 2026 10:35:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4867d062a.jpeg"
+    },
+    {
+      "id": "382d49079ac9ef77205a",
+      "title": "Y ahora ¿quién entrena a Messi? Xavi, Gallardo, Palermo... y hasta Valverde en la lista",
+      "summary": "Mascherano y Messi durante un partido.",
+      "link": "https://www.marca.com/futbol/estados-unidos/2026/04/15/entrena-messi-xavi-gallardo-palermo-valverde-lista.html",
+      "pubDate": "Wed, 15 Apr 2026 10:34:17 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4a1dcccf3.jpeg"
+    },
+    {
+      "id": "92c6e32a43dc08955002",
+      "title": "Otra vez que al Barça no le alcanza",
+      "summary": "Los jugadores del Barça se lamentan de la eliminación.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/04/15/vez-barca-le-alcanza.html",
+      "pubDate": "Wed, 15 Apr 2026 10:31:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69deb8f7f1edf.jpeg"
+    },
+    {
+      "id": "7011c873edbd71eb4e54",
+      "title": "Llorente desvela el \"secreto\" que le ha permitido recuperarse tras el partido... ¡con un vídeo de Guardiola!",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/champions-league/2026/04/15/llorente-desvela-secreto-le-permitido-recuperarse-partido-video-guardiola-video.html",
+      "pubDate": "Wed, 15 Apr 2026 10:04:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4d8c913d3.png"
+    },
+    {
+      "id": "0060e70a784adc730ee2",
+      "title": "Doncic, plata en USA y oro en Europa: es el jugador NBA que más vende en el Viejo Continente",
+      "summary": "Doncic celebra una canasta este curso.",
+      "link": "https://www.marca.com/sport-business/2026/04/15/luka-doncic-plata-oro-europa-jugador-nba-vende-viejo-continente.html",
+      "pubDate": "Wed, 15 Apr 2026 09:55:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df43335fa5d.jpeg"
+    },
+    {
+      "id": "b5f3418e46f2c32eb118",
+      "title": "Antonio Carlos Ortega: \"No nos pueden exigir la Champions\"",
+      "summary": "Antonio Carlos Ortega, técnico del Barça.",
+      "link": "https://www.marca.com/balonmano/2026/04/15/antonio-carlos-ortega-exigir-champions.html",
+      "pubDate": "Wed, 15 Apr 2026 09:51:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69ded418030e9.jpeg"
+    },
+    {
+      "id": "0f9e000a81776980aa3b",
+      "title": "Chacarra: \"Siempre seré un fan de Trump\"",
+      "summary": "Eugenio López-Chacarra entrena en el PGA Riviera Maya antes del arranque del Tulum Championship.",
+      "link": "https://www.marca.com/golf/2026/04/15/eugenio-lopez-chacarra-me-costando-disfrutar-competicion-buena-idea-parar-tres-semanas.html",
+      "pubDate": "Wed, 15 Apr 2026 09:47:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/15/69df2e26d9def.r_d.1093-706-0.jpeg"
+    },
+    {
+      "id": "f4e2f1d26fde1dfa38e4",
+      "title": "Enganchón de Neymar con la afición: \"¿Soy un mimado? Me estoy dejando la vida\"",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/2026/04/15/enganchon-neymar-aficion-mimado-me-dejando-vida-video.html",
+      "pubDate": "Wed, 15 Apr 2026 09:39:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df4099df4bb.png"
+    },
+    {
+      "id": "af71dcaeab589ec0a9f0",
+      "title": "Gudelj, al más puro estilo Sergio Ramos: \"Me llaman serbillano, mitad serbio y mitad sevillano\"",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/sevilla/2026/04/15/gudelj-puro-estilo-sergio-ramos-me-llaman-serbillano-mitad-serbio-mitad-sevillan-video.html",
+      "pubDate": "Wed, 15 Apr 2026 09:36:23 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df3f1418817.png"
+    },
+    {
+      "id": "8f6fe1643c5a69efb4ef",
+      "title": "¿Qué hacen los pilotos de F1 en sus vacaciones 'forzosas' de abril?",
+      "summary": "Hamilton, en Coachella.",
+      "link": "https://www.marca.com/motor/formula1/album/2026/04/15/pilotos-f1-vacaciones-forzosas-abril.html",
+      "pubDate": "Wed, 15 Apr 2026 09:34:10 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df3d0c77306.jpeg"
+    },
+    {
+      "id": "de8992935e069d6a9b48",
+      "title": "¿La mejor entrevista de su vida? Comienza preguntándole por Boca y termina dándole su Instagram en directo",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/2026/04/15/mejor-entrevista-vida-comienza-preguntandole-boca-termina-dandole-instagram-video.html",
+      "pubDate": "Wed, 15 Apr 2026 09:29:02 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df3d4ab4db3.png"
+    },
+    {
       "id": "85c31a44e0a061de1dda",
-      "title": "Muere Santamaría, histórico del Real Madrid",
+      "title": "Muere Santamaría",
       "summary": "Santamaría, con la camiseta de España detrás.",
       "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/muere-santamaria-96-anos-edad.html",
       "pubDate": "Wed, 15 Apr 2026 09:14:03 +0200",
@@ -11,14 +221,157 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c9425da069f.jpeg"
     },
     {
-      "id": "9509480b39572ff0cb1f",
-      "title": "Roberto Gómez ensalza a Llorente: \"Tiene que ser imprescindible con España\"",
-      "summary": "Llorente remata ante Gerard Martín.",
-      "link": "https://www.marca.com/radio/2026/04/15/roberto-gomez-ensalza-llorente-imprescindible-espana.html",
-      "pubDate": "Wed, 15 Apr 2026 09:01:25 +0200",
-      "source": "Marca",
+      "id": "af789878bbd2874e6fdd",
+      "title": "China se pronuncia sobre una posible segunda ronda de conversaciones entre EE.UU. e Irán",
+      "summary": "Pekín celebra todos los esfuerzos para poner fin al conflicto entre Washington y Teherán, indicó el Ministerio de Relaciones Exteriores del país asiático.",
+      "link": "https://actualidad.rt.com/actualidad/599376-china-pronuncia-posible-segunda-ronda?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 09:09:41 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "9d6a76f2f4c1a6c94461",
+      "title": "Juicio de Kitchen, en directo | Cosidó dice que no tenía “una relación de confianza” con Villarejo y niega haberle pedido investigar a Bárcenas",
+      "summary": "El exsenador y exdirector de la Policía Ignacio Cosidó a su llegada a la Audiencia Nacional en Madrid, este miércoles.",
+      "link": "https://elpais.com/espana/2026-04-15/juicio-de-kitchen-por-la-trama-de-corrupcion-policial-vinculada-al-pp-en-directo.html",
+      "pubDate": "Wed, 15 Apr 2026 09:07:01 GMT",
+      "source": "El Pais",
+      "cat": "ar_pol",
+      "image": "https://imagenes.elpais.com/resizer/v2/O2556BIPLBJKPAODXG7VAGPUBA.jpg?auth=af1b84d631bef0eabd99f2097cbe24f5ffa24fdad4e8ca366367f07c906de019"
+    },
+    {
+      "id": "9cc98cbcb9b56520ba37",
+      "title": "Aumento colosal en NJ y NY: el boleto de tren al MetLife Stadium para el Mundial costaría casi 8 veces más",
+      "summary": "De cara al Mundial 2026 , hay malas noticias para quienes piensen asistir a un partido en el MetLife Stadium de la sede Nueva York/Nueva Jersey . Los boletos de tren tendrían un aumento durante la Copa del Mundo y un pasaje típico pasaría de costar menos de 13 dólares a US$100 o incluso más. El enfoque de este cambio es recuperar la inversión estatal de la organización del evento. Un boleto de tren al MetLife Stadium costaría más de US$100 durante el Mundial Según The Athletic , las autoridades de NJ Transit tienen previsto el aumento para el período en el que el estadio albergará partidos de la Copa del Mundo. Actualmente, aunque el boleto de tren tiene variantes y tramos, el cálculo es que un viaje desde Penn Station en Nueva York hasta el estadio MetLife suele costar US$12,90 . En lo que dure el Mundial 2026, esa cifra superaría los US$100 . La justificación, según el medio citado, es que la gobernadora de Nueva Jersey, Mikie Sherrill , busca recuperar la inversión de US$48 millones que suponen los costos operativos y de seguridad. El objetivo estatal es que ese dinero sea cubierto por quienes asisten a los partidos y no por los residentes o turistas habituales. Además de los costos, se enfatizó que la mayoría de los usuarios de Penn Station no podrán usar la sección de NJ Transit durante los días de partido en el MetLife. En esos casos, durante las cuatro horas previas a un encuentro , solo personas con boletos para ese cruce del Mundial podrían acceder . NJ Transit también cobraría una tarifa única para el tren al MetLife durante el Mundial 2026 En la misma línea, Nueva Jersey eliminaría temporalmente los descuentos en boletos . Durante el transcurso de la Copa del Mundo, todos los viajeros tendrían que pagar la tarifa cercana a los US$100 si quieren utilizar el servicio. La medida se alinea con decisiones similares que tomaron otras ciudades estadounidenses . Por ejemplo, Boston ya anticipó aumentos y precios de hasta US$80 para pasajes que usualmente rondan l",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-jersey/aumento-colosal-en-nj-y-ny-el-boleto-de-tren-al-metlife-stadium-para-el-mundial-costaria-casi-8-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:05:00 +0000",
+      "source": "La Nacion",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb11024d64.jpeg"
+      "image": "https://resizer.glanacion.com/resizer/v2/FEFLEX6OF5EZFHIQC7LLDSSBHY.jpg?auth=f0ee7e7ccf84618635cb99afbd3f09a67c6ed11a73493777fb041ba780495e04&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "e12d985350b147531c7a",
+      "title": "Una pequeña vendetta futbolera",
+      "summary": "Lo llamábamos “Fútbol Cero”. Era un elenco más o menos estable de diez jugadores, casi todos sin demasiado talento deportivo. La mayoría formábamos parte de la diáspora neuquina en Buenos Aires, aunque a menudo se sumaban amigos y conocidos para completar los equipos cuando faltaba alguien. Además del origen patagónico, compartíamos otra marca: por distintas razones –padres que no nos llevaban a pelotear a la plaza, una inclinación por los libros o las harinas– nuestra infancia había transcurrido lejos de los potreros. En el país de Maradona, Messi y las tres estrellas, no saber jugar a la pelota era motivo de no pocas burlas. Decidimos que “Fútbol Cero” sería una escuela: un lugar donde podríamos jugar horriblemente sin sufrir el escarnio de compañeros de la facultad o la oficina. Era importante para alguien como yo. En la primaria siempre me elegían último en los partidos del recreo. En la secundaria, el profesor de Educación Física me había bautizado “polideportivo” por mi asombrosa capacidad para ser malo en múltiples disciplinas. Veinte años después, todavía resentía a ese docente con cuerpo de papa. Por eso, las juntadas de “Fútbol Cero” tenían el sabor dulce de la revancha. Ñoños y pataduras reclamábamos el derecho a divertirnos: tomábamos cerveza en la previa, celebrábamos nuestros modestos avances técnicos en la cancha y, después, analizábamos los aspectos salientes del encuentro durante la cena. Era la gloria. Solíamos jugar por las noches en complejos de Abasto o Constitución, barrios que no frecuentaba por su atmósfera vagamente ominosa, pero en los que me internaba sin miedo con la excusa de jugar al fútbol. Una vez incluso llevé conmigo a una flamante noviecita, que observó mi bochornoso desempeño –tropiezos, caídas y penales errados– desde una grada cercana. No fue mi mejor idea. Después de dos o tres años, empezó a cristalizarse una realidad difícil de ignorar: todos mejoraban menos yo. Mis compañeros ya ejecutaban con soltura jugadas complejas, pase",
+      "link": "https://www.lanacion.com.ar/cultura/una-pequena-vendetta-futbolera-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:04:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/UGKCGIF3DZCPBOYWIJNN3XQEAE.jpg?auth=a0ce6192f2cb490038ca063fa92991cc9c8d291c968ca15a275a3a7cc8f40fd2&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f9269488bb39fd2d39e6",
+      "title": "Los escolares españoles también respiran dióxido de nitrógeno en el interior de las aulas",
+      "summary": "Inmediaciones del colegio público Kontxa de Bilbao, uno de los ocho centros escolares analizados en los que las mediciones superaron los 40 µg/m3, el límite legal actualmente vigente.",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-04-15/los-escolares-espanoles-tambien-respiran-dioxido-de-nitrogeno-en-el-interior-de-las-aulas.html",
+      "pubDate": "Wed, 15 Apr 2026 09:00:38 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/CYESWGV7ZBFETL3GQZMMUEQGZ4.jpg?auth=ae97e023d8955b38e0544c3e22090ad9465bcf9c779a1c84abbd08dad4f6adcc"
+    },
+    {
+      "id": "0a5d40c696967777fb11",
+      "title": "Es argentina, tiene 20 años, le diagnosticaron un cáncer que afecta a menos del 1% de los pacientes y hoy inspira a miles de seguidores en redes",
+      "summary": "“Sé que en estas semanas la vida de los demás siguió, pero la mía se pausó”, escribía Fátima Heinrich en su diario íntimo a fines de 2024, cuando le diagnosticaron neoplasia basaloide , un tipo de cáncer que representa menos del 1% de los tumores de pulmón a nivel mundial. La baja incidencia del nódulo que le detectaron hizo que el procedimiento para erradicarlo/tratarlo se volviera tedioso. Personal de salud desorientado, una familia aterrada y un cuerpo a merced de la incertidumbre médica: así transcurrieron las primeras semanas de su enfermedad. El cataclismo había comenzado en noviembre, cuando una Fátima de 19 años preparaba finales para la facultad y hacía planes para irse de vacaciones con sus amigas. “Empecé a sentir un dolor muy agudo cerca del omóplato. No podía ni describirlo”, recuerda. En un principio no le preocupó, pensaba que podía ser consecuencia de haber entrenado en el gimnasio o de un mal movimiento. Pero los días pasaban y la molestia persistía. Acompañada por su mamá y su hermana, fue a hacerse una tomografía cuyos resultados, a primera vista, no manifestaban la presencia de algo extraño. Igualmente, debían aguardar a que llegara el informe firmado por el médico. A los días, recuerda, empezó a recibir una catarata de llamados. Cuando pudo atender, escuchó a su médico enunciar las seis palabras que marcarían un giro radical en su vida: “Tenés un nódulo en el pulmón”. “Se me congeló la vida”, “entré en un limbo de disociación”, son dos frases que repite cuando se retrotrae a ese instante. Las consultas multidisciplinarias empezaron a ocupar de lleno su día a día. Las vacaciones con amigas dejaron de ser prioridad para dar lugar a estudios, salas de espera de hospital y quirófanos. Para enero de 2025 ya habían extirpado el nódulo. Aunque eso no significó que no se sometería a más operaciones: dada la rareza del tumor, su cuerpo sería tocado por instrumentos quirúrgicos unas siete veces en total . Con una enfermedad poco frecuente, se enfrentó a u",
+      "link": "https://www.lanacion.com.ar/salud/es-argentina-tiene-20-anos-le-diagnosticaron-un-cancer-que-afecta-a-menos-del-1-de-los-pacientes-y-nid14042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/NQOCULHOAFHSTK2LNXU43O6H7M.jpeg?auth=9ec31c192ae8a378ae7fe0a7e934ee95ea13fe4695f09615f5f7d423f397b4ca&smart=true&width=2000&height=1333",
+      "subcat": "mercado"
+    },
+    {
+      "id": "6ee84d4b090212b617af",
+      "title": "Luz de esperanza",
+      "summary": "Los pasillos siguen igual de angostos. Y la pobreza, igual de ancha. Pero la esperanza es bastante más alta que la que tuvieron sus padres. Tomás tiene 24 años y vive en la que fue la zona más peligrosa de Medellín. Casi como decir de América Latina. Camina por calles estrechas e irregulares con la habilidad con la que de chico eludía rivales en la canchita de fútbol. La misma destreza que necesitaba para gambetear tiros de narcos, policías, guerrilleros, parapolicías, militares, ladrones, paramilitares. Que regaban de cadáveres esa canchita para convertirla en morgue. Y mensaje. Hoy Tomás guía turistas por la famosa Comuna 13. Donde la paz (siempre precaria), una legalidad superficial, el indomable espíritu de superación y comunidad de los vecinos y las obras de urbanización del Estado la han vuelto barrio. Y ambiguo paseo turístico. Donde conviven el morbo, la vergüenza, la culpa y la admiración de los visitantes. Mucho cambió en poco más de una década. Como esas interminables escaleras mecánicas que (a algunos) alivian la subida por la falda del cerro. Mucho sigue parecido para demasiados. Tomás se aferra a su ventana de futuro. Aunque sabe que para muchos de los suyos solo hay presente continuo y difícil. Pero nadie se rinde. Por algo se empieza.",
+      "link": "https://www.lanacion.com.ar/opinion/luz-de-esperanza-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": ""
+    },
+    {
+      "id": "3236ce6324cdaa23332a",
+      "title": "Una agencia federal presenta tres tratamientos potenciales contra la osteoartritis",
+      "summary": "NUEVA YORK.- Hace tres años, una nueva y poco conocida agencia federal anunció su primer gran proyecto: invertiría decenas de millones de dólares a lo largo de cinco años para encontrar una cura para la osteoartritis , el doloroso desgaste de las articulaciones que afecta a 32 millones de estadounidenses. Ahora, la agencia ARPA-H (Agencia de Proyectos de Investigación Avanzados para la Salud, por sus siglas en inglés) afirma que tiene varias soluciones prometedoras . Sus equipos de investigación tienen la obligación contractual de comenzar las pruebas en pacientes dentro de los próximos 18 meses. La nueva investigación se concentra en la osteoartritis de rodilla , aunque los investigadores creen que las soluciones podrían aplicarse, con el tiempo, a cualquier articulación afectada por la enfermedad. Dos equipos de investigación, en la Universidad de Duke y en la Universidad de Colorado, con sede en Boulder, desarrollaron inyecciones o infusiones que regeneran hueso y cartílago , según informó ARPA-H este lunes. Un tercer equipo, en la Universidad de Columbia, podría haber encontrado una manera de regenerar una rodilla completa . Hasta ahora, los métodos solo fueron probados en animales. Aun así, especialistas consultados dijeron sentirse alentados por los resultados. “Es enormemente prometedor”, afirmó el doctor Scott Rodeo, vicepresidente de investigación ortopédica del Hospital for Special Surgery de Nueva York, que no participó de los estudios. “Hoy todo lo que tenemos se limita a modificar los síntomas”, añadió. Curar la artritis regenerando cartílago y hueso “sería un cambio de paradigma”. Encontrar un enfoque completamente nuevo es el objetivo, explicó el doctor Ross Uhrich, gerente del programa de osteoartritis de ARPA-H. “Si tu objetivo es solo publicar un artículo en una revista científica, esta no es la agencia adecuada”, sostuvo. Arpa-h depende del Departamento de Salud y Servicios Humanos de Estados Unidos. Su funcionamiento está inspirado en un programa",
+      "link": "https://www.lanacion.com.ar/sociedad/una-agencia-federal-presenta-tres-tratamientos-potenciales-contra-la-osteoartritis-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/TAT2ASIK2FAL3FU7WRJLD3I7EM.jpg?auth=395005f6c39534808c980c33561146bef1040292b6db799e64bcfa39e0debe35&smart=true&width=3000&height=2000"
+    },
+    {
+      "id": "e5d792fcdafa2573c9f3",
+      "title": "Betiana Blum: el secreto de su juventud, las experiencias paranormales que vivió y cómo quedó su relación con Moria Casán",
+      "summary": "A sus 86 años, Betiana Blum tiene la misma energía y la piel lozana de cuando estrenó Esperando la carroza , en 1985. Hace algunos meses terminó Mamá , comedia que la tuvo como protagonista durante dos temporadas, y el 3 de mayo vuelve a subirse al escenario, esta vez en el Teatro Regina, los viernes y domingos, para hacer El diario de Adán y Eva en una versión de Sebastián Parrota, autor teatral y de televisión y único hijo de la actriz. En diálogo con LA NACION , en un break en los ensayos con Antonio Grimau, el otro protagonista de la puesta, Blum acepta zambullirse en su historia, hablar de algunos de sus personajes icónicos y contar sus experiencias de avistamiento de ovnis. Además, revela cuál es su secreto para lucir tan joven y cuenta cómo quedó su relación con Moria Casán después del escandaloso relato de la exvedette y conductora. -¿Cómo se dio la posibilidad de hacer El diario de Adán y Eva ? -Todos tenemos en la cabeza, consciente o inconscientemente, el tema de Adán y Eva… Del comienzo. Es una versión que escribió Sebastián Parrota, tomando los textos de Mark Twain, y tiene una energía que realmente te mueve. Porque es el origen y es un misterio. Es una obra tierna, que tiene humor y los personajes son muy interesantes. Estoy muy contenta de hacer este espectáculo porque es un tema que realmente nos hace cosquillas, nos moviliza. Es muy bello el texto y la puesta también, con luces y música. El teatro es en vivo y no tiene red, aunque me gusta todo porque el cine tiene la posibilidad de ser más cuidado, y en la televisión te dan el libro y tenés que salir a grabar y no hay mucho tiempo de elaboración. Además, es una delicia trabajar con Antonio, con quien hice Gigi en teatro, hace muchos años. Y después nos cruzamos muchas veces en las novelas de Polka. -Siendo tu hijo el autor de la obra, ¿él te convocó a vos o vos le pediste que te escribiera algo? -Le pregunté a Sebastián si quería hacer una versión de una obra que pudiera crear y me propuso esta de ",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/betiana-blum-el-secreto-de-su-juventud-las-experiencias-paranormales-que-vivio-y-como-quedo-su-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/GAVD6C5ANBD3JIMQQPXEVXTYZM.JPG?auth=ab0493586579360cb35f173bf08dad77ab121ebfa5040c82e3ea15e42d08632c&smart=true&width=1021&height=680"
+    },
+    {
+      "id": "c322d6ba533bd030ba5d",
+      "title": "Diego Sehinkman con más espacio en Now y El Destape se concentra en la AM",
+      "summary": "Tras su debut en marzo pasado, Diego Sehinkman continúa fortaleciendo la grilla de FM Now 97.9 con una doble apuesta al aire. El periodista, que ya lidera de lunes a viernes After Office NOW en el segmento del regreso (de 17 a 20), encabeza desde el último fin de semana los sábados, de 7 a 8, Nube de palabras junto a Carlos Manzoni. Este ciclo ofrece entrevistas con personalidades relevantes sobre los temas más urgentes de la agenda actual. Cabe aclarar que, si bien la emisora de Kuarzo Entertainment Argentina cuenta con una fuerte impronta visual a través de sus transmisiones en YouTube y el canal Mix (89 de Flow), los programas de Sehinkman presentan una particularidad: salen al aire sin imagen. Esta modalidad responde a un pedido de Artear, firma a la que pertenece el conductor como figura de TN. La empresa solicita a sus periodistas no realizar streaming en otras plataformas para preservar la exclusividad de su imagen en las señales del grupo, aunque permite que su voz salga al aire sin imagen. Doctor C desembarcó en Radio Nacional Tras su paso por Radio 10 AM 710, el Dr. Guillermo Capuya inició este mes de abril la quinta temporada de Doctor C , que este año se emite por Radio Nacional AM 870. El programa se emite todos los domingos de 9 a 11 y cuenta con la participación de la locutora Pato Pérez. La dupla busca consolidar un espacio que ya es un clásico para quienes buscan información fidedigna sobre salud. Capuya, referente de la comunicación médica en el país -quien el lunes pasado fue reconocido como personalidad destacada en el ámbito de la salud-, mantiene en esta nueva etapa su premisa fundamental: desmitificar la medicina. A través de un lenguaje sencillo y accesible, el profesional aborda temas complejos sin resignar el rigor científico que lo caracteriza. Además, el ciclo cuenta con el análisis de los temas que marcan la agenda de salud pública, los últimos avances tecnológicos y columnas sobre nutrición, calidad de vida y cuidados preventivos. Este ",
+      "link": "https://www.lanacion.com.ar/espectaculos/diego-sehinkman-con-mas-espacio-en-now-y-el-destape-se-concentra-en-la-am-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/X3HALIRDJZHIVM674B2C277OKQ.jpg?auth=ba4127afbd66bd1a93450265918faf615585d1552ec0e9ea8a4fe01b2ee2526c&smart=true&width=1360&height=905",
+      "subcat": "diseño"
+    },
+    {
+      "id": "767861d6ed93480e1e8d",
+      "title": "Los precios de los autos chinos en la Argentina en abril 2026",
+      "summary": "Los autos de origen chino mantienen su avance en el mercado argentino y consolidan una tendencia que ya no aparece como incipiente, sino como parte estructural de la oferta disponible. En un contexto de mayor apertura comercial y con herramientas como el cupo de electrificados vigente , estas marcas continúan ampliando su presencia en concesionarios y ganando participación mes a mes. Durante el último año, la participación de vehículos provenientes de China creció de manera significativa. Mientras que a comienzos de 2025 representaban menos del 1% del mercado, hacia los primeros meses de 2026 ya alcanzan niveles cercanos al 10% en los registros mensuales. Este salto se explica tanto por la llegada de nuevas marcas como por la expansión de las ya instaladas, que incrementaron su portfolio de productos. Un grupo argentino fabricará autos chinos en el país y negocia para producir otra marca asiática Uno de los factores que impulsa este fenómeno es el régimen que permite importar hasta 50.000 unidades electrificadas por año sin abonar el arancel extrazona del 35% , siempre que cumplan con determinados requisitos técnicos y un valor FOB máximo de US$16.000. Este esquema no solo mejora la competitividad en precios, sino que también amplía la oferta en segmentos donde la electrificación comienza a ganar protagonismo. Con este escenario, l os modelos disponibles en abril continúan ampliándose y diversificándose . Así las cosas, estas son todas las unidades de origen chino que se pueden encontrar en la Argentina con su respectivo precio. Haval: Jolion 1.5 DCT Deluxe: US$30.000 Jolion 1.5 7DCT Supreme: US$33.000 Jolion PRO HEV Deluxe: US$28.990 Jolion PRO HEV Supreme: US$30.990 H6 2WD: US$36.500 H6 4WD: US$39.900 H6 GT 4WD: US$44.400 H6 HEV Deluxe: US$33.500 H6 HEV Supreme: US$35.500 Ora: Ora 03 Deluxe: US$31.000 Poer: Poer Elite 2WD: US$28.730 Poer Elite 4WD: US$32.697 Poer 4WD Super Luxury 8AT: US$41.990 Tank: Tank 300: US$51.900 Jetour: X50: US$26.600 T2: US$54.900 T1: US$",
+      "link": "https://www.lanacion.com.ar/autos/los-precios-de-los-autos-chinos-en-la-argentina-en-abril-2026-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/LNXN4EKWUFHWBLRC23AJTIDWSM.jpg?auth=aba4a82c5d3772e8afaaef03ce40da76aeba58eb2582c74b22ca3329c7022239&smart=true&width=3000&height=1687"
+    },
+    {
+      "id": "6127a3497485cdd519fc",
+      "title": "Lanzan un nuevo sedán a la Argentina que busca conquistar a un segmento olvidado",
+      "summary": "La industria automotriz hace varios años definió su futuro y viró hacia los Sport Utility Vehicle (SUV). Sin embargo, hay automotrices que todavía apuestan tanto por los hatchbacks como por los sedanes, esta última una silueta que supo ser furor en la industria. Un grupo argentino fabricará autos chinos en el país y negocia para producir otra marca asiática Para mantener vivo al segmento, Kia Argentina, representada localmente por Astara, lanzó oficialmente el nuevo K4, un sedán del segmento mediano con una silueta tipo fastback de líneas dinámicas que pone el foco en el diseño, la tecnología, el confort y la seguridad. De hecho, viene a rememorar al reconocido Kia Cerato, también perteneciente al segmento C. Este nuevo competidor llega desde México y lo hace en dos versiones de equipamiento: EX, como entrada de gama, y GT-Line como propuesta tope de gama. En el marco de este lanzamiento, también confirmaron que este año llegará el Kia K4 con silueta hatchback, aunque aún no hay fecha prevista debido a la situación del acuerdo con México para importar unidades sin pagar el arancel extrazona del 35%. “ No consideramos ingresar autos pagando el arancel del 35%, creemos que no tendría sentido. Nosotros tenemos un diálogo constante con la fábrica, cargamos las órdenes y se pueden aplazar, anular o volver a cargar; entonces estamos esperando una señal concreta para poder avanzar, aunque podría retrasar el lanzamiento del K4 hatchback ”, dijo Sebastián Sicardi, Country Manager de Kia Argentina. Cómo es el nuevo Kia K4 sedán Si se analiza el diseño, respeta muy bien lo que es la familia de la automotriz surcoreana, bajo el concepto llamado “ Opposites United ”. Cuenta con faros delanteros y traseros LED de orientación vertical inspirados en el modelo insignia EV9. En lo que refiere a dimensiones, presenta una longitud total de 4710 mm, un ancho de 1850 mm y una distancia entre ejes de 2720 mm. Según la firma, se posiciona como uno de los más amplios y espaciosos dentro del",
+      "link": "https://www.lanacion.com.ar/autos/lanzan-un-nuevo-sedan-a-la-argentina-que-busca-conquistar-a-un-segmento-olvidado-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/LRPN5TOYOBCDNHZRJSGTG5GTPE.jpg?auth=3025c9a8b3da3dfb49451034e35528cc49dcbe9f8dfc83c3395e9c8ce6a0f2e6&smart=true&width=4500&height=3000",
+      "subcat": "mercado"
+    },
+    {
+      "id": "f7d8d01f847d2aede074",
+      "title": "Graciela Borges: su gran amor, una relación que enfrentó prejuicios y una historia que mantiene en secreto",
+      "summary": "Pocas veces Graciela Borges habla de sus amores y, aunque tuvo parejas del mundo del espectáculo y del deporte, prefiere mantener un perfil bajo. Se casó muy joven con un corredor de autos que fue el padre de su único hijo. Estuvo muchos años junto a un director de cine y otros tantos con un arquero varios años menor que ella. Se dice también que tuvo romances secretos con colegas y hasta un affair con el “Beatle” Paul McCartney. Ella nunca confirma ni desmiente nada, pero su sonrisa y sus ojos brillantes encierran todas las respuestas. Su gran amor Conoció a Juan Manuel Bordeu en los 60 cuando ella tenía apenas 18 años y era una estrella incipiente del cine argentino, y él un piloto reconocido del automovilismo. Se casaron dos años después y en 1970 nació Juan Cruz, el único hijo de la actriz. Dicen que fue Juan Manuel quien la vio primero y se enamoró perdidamente, tanto que le pidió a amigos en común que se la presentaran. El flechazo sucedió en esa primera cena compartida. Alguna vez, Borges contó: “Fue mi gran amor. Tuve el marido más ideal que haya tenido nadie en la vida. Él conocía a una amiga mía y le dijo ‘te regalo mi mejor buzo si me presentás a Graciela Borges’. Entonces nos conocimos en una cena que armaron, y no nos separamos más. Estuvimos juntos durante 14 años. Me casé siendo muy joven; tenía 18 años cuando me enamoré de Juan Manuel. Y tuvimos una vida maravillosa. Fui muy feliz. Solo tengo recuerdos amorosos de ese tiempo…”. Sin embargo, también pasaron momentos difíciles: “Con él perdí tres chicos, uno se trató de un embarazo extrauterino y fue un proceso muy difícil…. Después hice un tratamiento feroz y a la vez maravilloso, gracias al cual nació Juan. Dejé todo y me dediqué a ese proceso… Fuimos muy felices el tiempo que lo fuimos, luego decidimos separarnos y seguimos siendo amigos hasta el último momento de su vida. Los hijos de Juan Manuel son como hijos para mí también y, por otra parte, soy muy amiga de su última mujer, la adoro y festejam",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/graciela-borges-su-gran-amor-una-relacion-que-enfrento-prejuicios-y-una-historia-que-mantiene-en-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/H2F3MSA4DZB77EONEBK2BHGVJ4.JPG?auth=1a3487f0ffa2bdc24e2abc0ca02229765aebcbefa22b831ed9715afc9fe8b5c7&smart=true&width=2000&height=1330"
+    },
+    {
+      "id": "c03f3cee1a0578720c03",
+      "title": "Así es el SUV francés que crece en ventas gracias a su diseño y alto equipamiento tecnológico",
+      "summary": "Otra de las marcas que actualizó su oferta en los últimos meses fue Peugeot , que volvió a tener en carpeta algunos modelos que estaban un poco relegados por la imposibilidad de importar. Es en ese entorno que volvió el SUV compacto 3008 , que llega en su tercera generación proveniente de Francia y en una sola versión, la GT. Esta es nuestra evaluación. Los autos con caja automática más baratos en abril 2026 Esta generación está desarrollada sobre la plataforma STLA Medium de Stellantis; por ende, hay cambios en las medidas : es 9,5 cm más largo, 5,5 cm más ancho, 1,7 cm más alto y posee 5 cm más entre ejes. El diseño exterior es completamente nuevo y derrocha atractivo y personalidad. Adopta una silueta tipo Fastback que remata en un alerón flotante que realza las curvas de la carrocería y que tiene como finalidad mejorar la aerodinámica (ahora, Cx 0,28). Estrena llantas diamantadas de 19” de diseño geométrico que también buscan reducir la incidencia del aire durante el andar. Largo: 4,542 m Ancho: 1,895 m Alto: 1,641 m Distancia entre ejes: 2,739 m Despeje: 198 mm Capacidad del baúl: 588 L Capacidad del tanque: 55 L Peso en orden de marcha: 1490 kg Neumáticos: 225/55 R19” La parte frontal fue totalmente replanteada, con una parrilla sin delimitaciones y que se integra al capot gracias al degradé de la pintura; los faros ultra compactos que representan la nueva firma lumínica de la automotriz (en lugar del colmillo del león aparecen tres garras) y que llegan con tecnología Pixel LED (adapta automáticamente el haz de los faros a las condiciones del tráfico. Todo esto se despliega en torno al flamante emblema de la automotriz. Atrás también hay cambios, con las luces en forma de tres garras 3D. Vanguardista por demás, en esta nueva generación la marca optó por crear un excepcional entorno digital inmersivo en el habitáculo. Esto, porque integró la central multimedia con el tablero de instrumentos para formar una pantalla curva y flotante de 21” (es compatible Android",
+      "link": "https://www.lanacion.com.ar/autos/test-drive/asi-es-el-auto-frances-que-crece-en-ventas-gracias-a-su-diseno-y-alto-equipamiento-tecnologico-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/2JERXYM2UNBY5FHUNZVI4EO56Q.jpg?auth=1ea515c8229a4757a1edd352fe2c0d88b95d93988f30d90ee60a6535262190ce&smart=true&width=2055&height=1372"
+    },
+    {
+      "id": "2bfb41f192af33c56b3f",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que la guerra con Irán está “cerca de terminar” y vuelve a cargar contra la OTAN",
+      "summary": "Manifestación en apoyo al Gobierno iraní, el martes en Teherán.",
+      "link": "https://elpais.com/internacional/2026-04-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Wed, 15 Apr 2026 08:59:31 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/PU5PEHMTCVKSDDV3PJ6X5PN5JE.jpg?auth=7e3cce59fdc0b5a4fff863e9f52771ccd20ceac689d4cb5561b4acb8810eb9be"
     },
     {
       "id": "6d5a2fe86cd35cd18ca6",
@@ -32,7 +385,7 @@
     },
     {
       "id": "dcb9ba01e95e30a3a08f",
-      "title": "El Atlético lo vuelve a hacer",
+      "title": "Simeone cambia la historia",
       "summary": "LOS JUGADORES DEL ATLÉTICO CELEBRAN EL TRIUNFO.",
       "link": "https://www.marca.com/futbol/atletico/2026/04/15/atletico-vuelve.html",
       "pubDate": "Wed, 15 Apr 2026 08:52:47 +0200",
@@ -41,24 +394,85 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69deca8d99121.jpeg"
     },
     {
-      "id": "cb22624871f721146f35",
-      "title": "MARCA X3 sube el nivel: nueva cita este miércoles con el mejor pádel",
-      "summary": "Marca X3, segundo programa lunes 16 de marzo a las 15:00 en directo en YouTube.",
-      "link": "https://www.marca.com/padel/2026/04/15/marca-x3-sube-nivel-nueva-cita-miercoles-mejor-padel.html",
-      "pubDate": "Wed, 15 Apr 2026 08:38:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/16/69b73ee4f137a.jpeg"
+      "id": "ab08fcf5288023bcf729",
+      "title": "‘El Señor de los Anillos: La caza de Gollum’ anuncia su reparto en un primer póster: Gandalf, Frodo… y el nuevo Aragorn",
+      "summary": "Warner Bros. ha lanzado el primer póster oficial de El Señor de los Anillos: La caza de Gollum ( The Lord of the Rings: The Hunt for Gollum ) , confirmando su reparto principal completo. La película es uno de los proyectos más esperados de la compañía de cara al próximo año. Y aunque todavía queda tiempo para verla, el estudio ha querido aprovechar su panel en la CinemaCon 2026 para dar novedades importantes al respecto. De esta forma, El Señor de los Anillos: La caza de Gollum ya tiene su primer póster. En él, el propio Gollum aparece de fondo en una oscura cueva. Pero lo más interesante es que la imagen cuenta con los nombres de los actores y actrices que protagonizarán esta nueva aventura en la Tierra media, así como los personajes a los que darán vida. Y además de confirmar algunos regresos muy esperados , se han desvelado nuevas caras. El reparto principal que regresa en El Señor de los Anillos: La caza de Gollum lo componen Andy Serkis como Gollum / Smeagol , Ian McKellen como Gandalf y Elijah Wood como Frodo Bolsón . Junto a ellos, Kate Winslet que interpretará a Marigol , Leo Woodall que dará vida a Halvard y Lee Pace en el papel de Thranduil . pero el nombre más destacado es el de Jamie Dornan , que será el nuevo Aragorn . View this post on Instagram El actor de la saga Cincuenta Sombras de Grey toma el testigo de Viggo Mortensen para interpretar al legendario personaje. Al margen de la franquicia romantico-erótica, Dornan es conocido por sus papeles en obras como las series The Fall y El turista , o las películas El asedio de Jadotville y Belfast . Esta última le valió nominaciones a los Globos de Oro, BAFTA y premios del Sindicato de Actores. Credit: Warner Bros. / Michael Baker / A.M.P.A.S. Qué sabemos de El Señor de los Anillos: La caza de Gollum El Señor de los Anillos: La caza de Gollum estará dirigida por el propio Andy Serkis . Además, contará con Peter Jackson como productor , asegurando la continuidad con sus dos trilogías. Y es que se situará com",
+      "link": "https://hipertextual.com/cine-television/el-senor-de-los-anillos-la-caza-de-gollum-anuncia-su-reparto-en-un-primer-poster-gandalf-frodo-y-el-nuevo-aragorn/",
+      "pubDate": "Wed, 15 Apr 2026 08:46:56 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/El-Senor-de-los-Anillos-La-Caza-de-Gollum.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "786b775fa5b434fd98a0",
-      "title": "Los Blazers mandan a los Suns a la repesca y se clasifican para los Playoffs: 41 puntos de Deni Avdija",
-      "summary": "Los Blazers mandan a los Suns a la repesca y se clasifican para los Playoffs: 41 puntos de Deni Avdija",
-      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/04/15/blazers-mandan-suns-repesca-clasifican-playoffs-41-puntos-deni-avdija.html",
-      "pubDate": "Wed, 15 Apr 2026 08:13:25 +0200",
+      "id": "7c29e082ecef6d45341e",
+      "title": "La IA sigue causando estragos en los precios de la tecnología, ahora Samsung Galaxy y Microsoft Surface",
+      "summary": "Los precios de la tecnología se están poniendo imposibles . La insaciable IA sigue acumulando contratos multimillonarios y los grandes proveedores de semiconductores han comprometida para ella una buena parte de su producción. El resultado a modo de falta de inventario y subida de precios está siendo demoledor y no solo para el consumidor, también para empresas, para fabricantes de equipos originales y para minoristas, que temen una caída general de ventas. Y teniendo en cuenta la enorme presencia de las memorias informáticas en cualquier tipo de producto electrónico, la subida de precios se está extendiendo a cualquier tipo de producto, desde una simple placa SBC ejemplo Raspberry a un servidor, pasando por los ordenadores portátiles y los móviles inteligentes, los dos productos más vendidos en consumo. Más subidas de precios de la tecnología Dos grandes fabricantes se han unido esta semana a la «fiesta» de las subidas de precio: Samsung y Microsoft . Ambos argumentan lo que el resto: no pueden compensar la enorme subida de costes de componentes clave y tienen que repercutir una parte de ellos al consumidor final. Microsoft Surface «Debido al reciente aumento en los costos de la memoria y los componentes, Surface está actualizando los precios en Microsoft.com para su gama de hardware de última generación. Seguimos comprometidos con ofrecer valor a nuestros clientes y socios, manteniendo nuestros estándares de calidad e innovación» , dicen desde Microsoft . Total. La línea de portátiles y tablets de Microsoft suben de precio y no poco , ya que algunas versiones lo hacen en cuantía de 500 dólares. Por ejemplo, el Surface Laptop de 13,8 pulgadas con 16 GB de RAM tenía un precio inicial de 999 dólares cuando el dispositivo apareció por primera vez en 2024, pero ahora cuesta 1499 dólares. Si quieres el modelo de 15 pulgadas del 2 en 1 tendrás que pagar 300 dólares más que en su lanzamiento. En cuanto a la Surface Pro de 13 pulgadas, su precio ha aumentado en 500 dólares",
+      "link": "https://www.muycomputer.com/2026/04/15/la-ia-sigue-causando-estragos-en-los-precios-de-la-tecnologia-ahora-samsung-galaxy-y-microsoft-surface/",
+      "pubDate": "Wed, 15 Apr 2026 08:46:28 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": ""
+    },
+    {
+      "id": "f141ba9028dd410be476",
+      "title": "La agencia de la energía atómica informa de una expansión “significativa” del programa nuclear de Corea del Norte",
+      "summary": "Un misil es lanzado desde el destructor Choe Hyon, en una fotografía cedida por la agencia estatal KCNA, el lunes.",
+      "link": "https://elpais.com/internacional/2026-04-15/la-agencia-de-la-energia-atomica-informa-de-una-expansion-significativa-del-programa-nuclear-norcoreano.html",
+      "pubDate": "Wed, 15 Apr 2026 08:44:42 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/GNCEEY6G2BPKBL5VELPNLT3W74.jpg?auth=e0d188a2bd2e58e6856d30509288a4986d3c781975ed821f0f937aabe77bc79a"
+    },
+    {
+      "id": "c37c048ba917b4c6a7e4",
+      "title": "Reportan quién lideraría la delegación de EE.UU. en una nueva ronda de conversaciones con Irán",
+      "summary": "El encuentro podría tener lugar antes de que expire la tregua la próxima semana.",
+      "link": "https://actualidad.rt.com/actualidad/599354-reportan-lideraria-delegacion-eeuu-nueva?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 08:34:48 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df366be9ff717ee3490181.jpg"
+    },
+    {
+      "id": "35e675df3f2eb499c4dd",
+      "title": "WhatsApp cambia de diseño en el iPhone. Es la mayor actualización de la app en años",
+      "summary": "Después de meses de espera y de que llegara solo a un pequeño número de usuarios, WhatsApp por fin está actualizando su app para el iPhone con una novedad que cambia por completo la interfaz, y no hablamos del nuevo diseño en la pestaña de chats con los estados. A partir de hoy, el diseño Liquid Glass de iOS 26 también llega a la app de mensajería WhatsApp empezó a probar el diseño Liquid Glass en octubre de 2025, cuando solo llegó a un pequeño número de usuarios que contaban con la versión beta de la app. Meses después, la plataforma fue expandiendo este nuevo diseño a más usuarios; se trataba de una segunda fase de prueba que no hacía más que revelar su futura disponibilidad global. Ahora, cualquier usuario que actualice la app es apto para recibir este nuevo diseño. Este nuevo diseño cambia por completo la barra de navegación inferior, que ahora se sobrepone a la interfaz principal y cuenta con esquinas redondeadas y el característico efecto transparente que también vemos en iOS 26 . Por fin llegó a WhatsApp, solo tuvimos que esperar 82828181 actualizaciones 😭😭‼️ pic.twitter.com/OT6riNRf4G Maldita Summer (@MalditaSummer) April 14, 2026 Este efecto transparente también lo vemos en otros elementos de la interfaz, como los botones de retroceso, el menú para adjuntar archivos y más. WhatsApp también ha modificado ligeramente las animaciones para que sean más fluidas, llamativas y estén acorde al iOS 26. Cómo tener Liquid Glass en WhatsApp Según comenta el portal Wabetainfo , especializado en noticias y novedades sobre la app de mensajería, la versión de WhatsApp que admite Liquid Glass es la 26.14.76 . Destaca, eso sí, que se trata de una implementación gradual, por lo que no llegará de inmediato a todas las cuentas. No obstante, hay varias cosas que puedes hacer para intentar forzar la llegada del nuevo diseño. Lo primero, es tener instalada la última versión de iOS. Puedes comprobar si existe una nueva yendo a Ajustes > General > Actualización de software . También",
+      "link": "https://hipertextual.com/mobile/whatsapp-cambia-de-diseno-en-el-iphone-es-la-mayor-actualizacion-de-la-app-en-anos/",
+      "pubDate": "Wed, 15 Apr 2026 08:34:11 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/whatsapp-icon.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "4a2a2c9a6c1ed9020697",
+      "title": "Golazo de Ander Herrera con Boca Juniors: así fue su primer gol en la Copa Libertadores",
+      "summary": "Ander Herrera marcó su primer gol en la Copa Libertadores en el triunfo de Boca Juniors por 3-0 ante el Barcelona de Guayaquil.",
+      "link": "https://www.marca.com/futbol/copa-libertadores/2026/04/15/golazo-ander-herrera-boca-juniors-asi-primer-gol-copa-libertadores-video.html",
+      "pubDate": "Wed, 15 Apr 2026 08:31:52 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df2c63e21e7.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acFm61ftozMdlmDXI.jpeg"
+    },
+    {
+      "id": "0524a962135ac6213889",
+      "title": "Con el 88% de los votos escrutados, Keiko Fujimori lidera el recuento electoral en Perú con una apretada disputa por el segundo puesto que da acceso al balotaje",
+      "summary": "Los candidatos en la segunda posición, en empate técnico, aspiran a pasar a la segunda vuelta.",
+      "link": "https://www.bbc.com/mundo/articles/cn4vvgynkm3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 15 Apr 2026 08:17:06 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c3f/live/a896c950-381c-11f1-87a9-4117efae0ff4.jpg"
+    },
+    {
+      "id": "d5f501b9fb42ff8b6c9d",
+      "title": "Prohibición de autos en Nueva York: el anuncio de Mamdani que cambiaría para siempre una parte de Brooklyn",
+      "summary": "El alcalde de la ciudad de Nueva York, Zohran Mamdani , presentó un plan junto con el Departamento de Transporte local (DOT, por sus siglas en inglés) para rediseñar Grand Army Plaza en Brooklyn . La propuesta implica la prohibición de los automóviles en una parte del espacio para facilitar el tránsito y mejorar el servicio de autobuses . Las autoridades realizarán talleres públicos del 23 al 29 de abril . El anuncio de Mamdani que cambiaría para siempre una parte de Brooklyn El 13 de abril, la oficina de Mamdani informó en un comunicado los detalles de la propuesta para rediseñar el área alrededor de Grand Army Plaza en Brooklyn . La medida apunta a crear un espacio público de primer nivel y mejorar la seguridad de peatones y ciclistas , a través de la conexión del Arco Conmemorativo de Soldados y Marineros con Prospect Park . En su página web , el DOT indicó que el proyecto incluirá la reconstrucción de la calzada y la introducción de nuevos materiales de diseño urbano . Se adaptarán las futuras zonas peatonales a la altura habitual de las aceras , se añadirá mobiliario urbano y luminarias , se plantarán árboles y se crearán nuevas zonas ajardinadas . ¿Dónde estarían prohibidos los autos en el nuevo desarrollo de Nueva York? Si bien no se cerrará por completo el espacio al público, el proyecto prohibiría la conexión directa de vehículos entre Union Street y Eastern Parkway . Para conseguirlo, desviaría el tráfico por el lado norte de la rotonda. “Grand Army Plaza es la puerta de entrada al Prospect Park, el corazón de Brooklyn, y debería recibir a los neoyorquinos con un diseño urbano que priorice la seguridad” , expresó el alcalde Mamdani. Asimismo, enfatizó los riesgos que representa el diseño actual. “Cualquiera que haya intentado cruzar por aquí sabe lo peligrosas y caóticas que pueden ser las calles . Este rediseño era necesario desde hace mucho tiempo y aportará una sensación de tranquilidad y disfrute a uno de los espacios públicos más importantes de Brookl",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/prohibicion-de-autos-en-nueva-york-el-anuncio-de-mamdani-que-cambiaria-para-siempre-una-parte-de-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 08:11:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/LH5IWZ4R2JAPTKJSJT44EBSA7M.jpg?auth=4ad136db2db28079e747de323c763b4a3ad60342d5f0d2cd10e2608a80070ed2&smart=true&width=2000&height=1333"
     },
     {
       "id": "5873063aff281ac2e4cc",
@@ -81,6 +495,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df153f4cffe.png"
     },
     {
+      "id": "94ee5907e29d5a2e5d2b",
+      "title": "Rafael Pérez Arroyo, ESIC: “Las marcas de moda de Fast Fashion carecen de identidad”",
+      "summary": "El sector del lujo ya no se mide solo por la calidad de una costura o la exclusividad de un escaparate en la Quinta Avenida. Hoy, el lujo es experiencia, datos y sostenibilidad. Hoy hablamos con Rafael Pérez Arroyo , asesor académico del Máster en Formación Permanente en Dirección de Marketing y Comunicación de Moda y Lujo en ESIC. Un máster presencial en español cuya convocatoria comienza en Octubre de 2026. Con una visión 360º que une la sensibilidad del diseño con la frialdad del KPI, Rafael nos ayudará a entender por qué el &#8220;lujo silencioso&#8221; hace tanto ruido en el entorno digital y cómo se prepara el talento para una industria que no permite errores. Entrevista El lujo siempre se basó en la exclusividad y la distancia. ¿Cómo se traslada esa sensación a una pantalla de móvil sin perder la esencia de la marca? En la moda de creación y de lujo no hablamos de esencia, lo hacemos de identidad. La identidad de una marca de moda está compuesta por una serie de variables que la hacen única. Respecto a la exclusividad me gustaría añadir que no está reñida con las imágenes que podamos ver en la página web de una marca, que en la mayoría de los casos contienen fotografías de vestidos y accesorios muy cuidadas y de gran calidad como las que se pueden admirar en la web de un museo. Lo que genera la exclusividad es el diseño original, el componente artesanal, la escasez de los materiales y la personalización de la pieza en cuestión. La distancia o la cercanía, por su parte, no se produce por el hecho de estar en una pantalla de móvil, se genera por el tono de la narrativa. Los medios digitales propios, si se saben utilizar bien, son una herramienta de comunicación muy valiosa para transmitir la identidad de la marca y producir deseo. Un deseo que se genera por la exclusividad y originalidad del diseño que todo el mundo puede ver y reconocer pero muy pocos pueden comprar, lo que convierte la adquisición del objeto en un sueño inalcanzable. Muchas marcas de moda tem",
+      "link": "https://marketing4ecommerce.net/entrevista-a-rafael-perez-arroyo-master-moda-y-lujo-esic/",
+      "pubDate": "Wed, 15 Apr 2026 08:04:43 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "tech",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/entrevista-perez-arroyo-esic.jpg"
+    },
+    {
       "id": "ecc0bf8180432db895c2",
       "title": "\"Somos mucho mejores que el Atlético, nos los hemos comido con patatas\"",
       "summary": "Gavi, centrocampista del Barcelona, analizó en TNT y HBO Max la eliminación en cuartos de final de la Champions League a manos del Atlético.",
@@ -89,6 +513,76 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acFDo1ftodbAA0KJi.jpeg"
+    },
+    {
+      "id": "bde6a5a761c12c56079d",
+      "title": "Nintendo termina el rodaje de The Legend of Zelda y da el siguiente paso clave del proyecto",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La película de The Legend of Zelda ya ha cruzado una de sus líneas más importantes. Nintendo y Sony han confirmado que el rodaje ha terminado, lo que coloca al proyecto en una nueva fase decisiva: la post-producción. Y sí, esto significa que la esperada adaptación en acción real empieza a tomar forma real de cara a su estreno en cines. No es un detalle menor. El cierre del rodaje suele marcar el momento en el que una superproducción comienza a preparar su carta de presentación al público. Si todo sigue el ritmo habitual de la industria, el primer vistazo a Hyrule podría estar más cerca de lo que parece. Y aquí es donde la cosa se pone interesante. Porque The Legend of Zelda no es una adaptación cualquiera. Es uno de los proyectos más delicados y ambiciosos que Nintendo ha puesto en marcha en décadas, especialmente después de su larga historia de cautela con Hollywood. Un paso clave tras décadas de prudencia de Nintendo con The Legend of Zelda Para entender por qué este momento es tan importante, hay que mirar atrás. El desastre de la película de Super Mario Bros. de 1993 dejó a Nintendo marcada durante años, hasta el punto de rechazar prácticamente cualquier propuesta cinematográfica. La compañía decidió proteger sus licencias… hasta que encontró la fórmula adecuada. Esa fórmula llegó con The Super Mario Bros. Movie en 2023, que arrasó en taquilla superando los 1.300 millones de dólares. Desde entonces, Nintendo ha cambiado completamente su estrategia. No solo ha consolidado su universo animado con nuevos proyectos, sino que ha dado el salto más arriesgado: adaptar The Legend of Zelda en acción real. Y no lo hace sola. La colaboración con Sony y el fichaje de Wes Ball , director de Kingdom of the Planet of the Apes , deja claro que el proyecto busca algo más que una simple adaptación: quiere posicionarse como una gran saga cinematográfica. Un reto enorme: adaptar The Legend of Zelda al cine Adaptar esta s",
+      "link": "https://www.cinemascomics.com/nintendo-termina-rodaje-the-legend-of-zelda/",
+      "pubDate": "Wed, 15 Apr 2026 08:01:29 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/zelda-movie.jpg"
+    },
+    {
+      "id": "5281b2e690a48cb77154",
+      "title": "Antes del eclipse solar anular más largo de la historia, llegan dos eclipses en 2026: cuándo serán y cómo impactarán en tus emociones",
+      "summary": "Agosto tendrá dos eclipses clave en el calendario astrológico del año. El astrólogo Juan Pedro Giménez explica qué energías se activan durante estos fenómenos.",
+      "link": "https://www.clarin.com/astrologia/eclipse-solar-anular-largo-historia-llegan-eclipses-2026-impactaran-emociones_0_TVNkwQLEDY.html",
+      "pubDate": "Wed, 15 Apr 2026 08:00:18 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/03/25/zMDUETxXp_1200x630__1.jpg"
+    },
+    {
+      "id": "408cadd573a14a78078f",
+      "title": "“Sindicato de Hermanos Menores”: las “injusticias” que marcan a los hermanos y por qué todos creen que les tocó el peor lugar en la familia",
+      "summary": "De la ropa heredada a las reglas “injustas”, un nuevo libro pone en primer plano el rol del hermano menor. Con humor, Gastón Gorali y Andrea Ferrari reivindican el rol del más chico de la familia.",
+      "link": "https://www.clarin.com/familias/sindicato-hermanos-menores-injusticias-marcan-hermanos-creen-toco-peor-lugar-familia_0_iiIKxivJgO.html",
+      "pubDate": "Wed, 15 Apr 2026 08:00:18 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/14/sMcTkOk77_1200x630__1.jpg"
+    },
+    {
+      "id": "beb94cea5623eccc69c9",
+      "title": "Fred Rogers, conductor de TV: “A menudo, de los períodos de pérdida surgen los mayores esfuerzos por lograr una nueva racha ganadora”",
+      "summary": "Una mirada esperanzadora sobre cómo los tropiezos pueden convertirse en impulso para la vida.",
+      "link": "https://www.clarin.com/estados-unidos/fred-rogers-conductor-tv-menudo-periodos-perdida-surgen-mayores-esfuerzos-lograr-nueva-racha-ganadora_0_JNnnDrp58d.html",
+      "pubDate": "Wed, 15 Apr 2026 08:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/04/VSGHw4H5X_1200x630__1.jpg"
+    },
+    {
+      "id": "e1bf4b34555bccc22432",
+      "title": "Belén Fontán, nutricionista: “El factor clave que influye en el riesgo de sobrepeso y obesidad”",
+      "summary": "La nutricionista advierte que tiene impacto directo en las hormonas del hambre, el metabolismo y los hábitos diarios, favoreciendo el aumento de peso.",
+      "link": "https://www.clarin.com/internacional/belen-fontan-nutricionista-factor-clave-influye-riesgo-sobrepeso-obesidad_0_EN0sUSslpS.html",
+      "pubDate": "Wed, 15 Apr 2026 08:00:17 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/04/12/Qa4dp8k5t_1200x630__1.jpg"
+    },
+    {
+      "id": "f43f6b36a41aaba4be2d",
+      "title": "El dolor de espalda que aparece al caminar y desaparece al sentarse: descubren que no es solo un problema de la edad",
+      "summary": "La estenosis lumbar tiene una \"pata\" genética, según un nuevo estudio. Cómo se diagnostica y se trata. La influencia del peso.",
+      "link": "https://www.clarin.com/buena-vida/dolor-espalda-aparece-caminar-desaparece-sentarse-descubren-solo-problema-edad_0_xcfovBmGKY.html",
+      "pubDate": "Wed, 15 Apr 2026 08:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2018/07/17/S1kfqp2mm_1200x630__1.jpg"
+    },
+    {
+      "id": "ea6a08855bc90117caae",
+      "title": "Superar a tu ex puede tardar hasta 8 años: qué dice un estudio y por qué cuesta tanto soltar",
+      "summary": "Una investigación reveló cuál es el tiempo promedio en el que se tarda en superar una ruptura amorosa. Qué pasa en el cerebro tras una separación. Estrategias sirven para el desapego.",
+      "link": "https://www.clarin.com/relaciones/superar-ex-puede-tardar-8-anos-dice-estudio-cuesta-soltar_0_P05hQ6Ag8i.html",
+      "pubDate": "Wed, 15 Apr 2026 08:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2022/04/25/ux4jwfe4g_1200x630__1.jpg"
     },
     {
       "id": "68476c514c895c807214",
@@ -111,24 +605,54 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df243109419.jpeg"
     },
     {
-      "id": "a5d4966a9c0000827fb0",
-      "title": "Rufián se compara a Guardiola: \"Hasta él se fue...\"",
-      "summary": "Gabriel Rufián permanecerá en su partido ERC hasta que lo \"echen\"",
-      "link": "https://www.marca.com/tiramillas/politica/2026/04/15/rufian-cree-partido-le-eche-insistir-unidad-izquierda-e-bromea-guardiola-barca.html",
-      "pubDate": "Wed, 15 Apr 2026 07:32:43 +0200",
-      "source": "Marca",
+      "id": "801fc41dfc3bd346f3cb",
+      "title": "Muere José Emilio Santamaría, exjugador del Real Madrid y exseleccionador de España",
+      "summary": "El exfutbolista hispano-uruguayo José Emilio Santamaría Iglesias.",
+      "link": "https://elpais.com/deportes/futbol/2026-04-15/muere-jose-emilio-santamaria-exjugador-del-real-madrid-y-exseleccionador-de-espana.html",
+      "pubDate": "Wed, 15 Apr 2026 07:36:42 GMT",
+      "source": "El Pais",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df1ef6935d3.jpeg"
+      "image": "https://imagenes.elpais.com/resizer/v2/K7F5XT4FAZD6JLTGG6MS7NWXVI.jpg?auth=71efafb159f72603059c4f9c496db569bd19fbe681e465e64e14f30336cec544"
     },
     {
-      "id": "5560c03627259fbd2441",
-      "title": "El plantón de Flick a Simeone",
-      "summary": "Diego Pablo Simeone espera más de un minuto y medio a Hansi Flick para saludarlo, tras eliminar el Atlético al Barcelona en cuartos de final de la Champions League, pero se queda con las ganas.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/15/simeone-espera-minuto-medio-flick-saludarlo-queda-ganas-video.html",
-      "pubDate": "Wed, 15 Apr 2026 07:19:58 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acEMm1ftnzXmC8ZSC.jpeg"
+      "id": "da1051d336b10aa6b4de",
+      "title": "Estas son las 10 mejores agencias Growth/CRO de España [2026]",
+      "summary": "El CRO (Conversion Rate Optimization) y las estrategias de growth hacking son esenciales para optimizar resultados y aumentar conversiones en negocios digitales. Contar con una agencia especializada y con experiencia es fundamental para diseñar y ejecutar estas estrategias de forma efectiva, ya que solo los profesionales que conocen a fondo el mercado y las herramientas pueden adaptar las tácticas a las necesidades específicas de cada empresa. En este artículo te presentamos un listado con las 10 mejores agencias Growth/CRO de España en 2026 según la valoración de más de 100 expertos de del marketing y eCommerce, y líderes de marcas de renombre en el retail español. El listado forma parte de la segunda edición de nuestro descargable Mejores Agencias de España 2026 , que reúne a los top 10 agencias de 12 verticales distintas y que puedes descargar de forma gratuita en el siguiente enlace &#x1f447; Descarga tu guía gratis &#x1f642; Ahora sí, estas son las 10 mejores agencias Growth/CRO de España 2026: Product Hackers Flat 101 TheGrowthHacker Webimpacto Elogia Internet República Human Level VML THE COCKTAIL Coco Solution Azurally 1.Product Hackers Product Hackers cuenta con un equipo de 97 especialistas dedicados a diseñar, activar y escalar sistemas de crecimiento mediante un enfoque Full Business Growth . Su metodología conecta datos, tecnología y experimentación continua para impactar en todo el ecosistema del negocio: desde la medición predictiva y la adquisición escalable hasta la monetización del journey y la retención del LTV. Su enfoque Agentic Growth se sirve de tecnología propia como eXperimentor , su plataforma de agentes de experimentación que capitaliza el conocimiento de más de 5.000 experimentos previos para duplicar la productividad y maximizar la tasa de éxito, y Pórtico , un orquestador de agentes que crea experiencias de cliente líquidas y adaptativas. La agencia resuelve retos complejos para gigantes como Stradivarius, Mapfre, Walmart, Civitatis y H",
+      "link": "https://marketing4ecommerce.net/mejores-agencias-cro-growth-espana/",
+      "pubDate": "Wed, 15 Apr 2026 07:30:22 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "tech",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2025/05/Estas-son-las-10-mejores-agencias-growth-cro-1024x614.jpg"
+    },
+    {
+      "id": "c642137b7a2bd34e24e5",
+      "title": "EE.UU. lanza advertencia petrolera a China",
+      "summary": "\"No van a poder obtener\" el petróleo iraní, aseveró Scott Bessent.",
+      "link": "https://actualidad.rt.com/actualidad/599346-eeuu-lanzar-advertencia-petrolera-china?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 07:28:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df33f159bf5b44e40aeb91.jpg"
+    },
+    {
+      "id": "ebbe7ef28c9d837b8e7b",
+      "title": "OneXPlayer X2 Mini, un híbrido entre consola, tablet y mini portátil",
+      "summary": "El OneXPlayer X2 Mini es un dispositivo que apuesta por la versatilidad , funcionando como tableta electrónica y también como consola portátil gracias a un diseño que permite acoplarle mandos Bluetooth desmontables. Adicionalmente, un teclado magnético lo convierte en una especie de mini portátil. La base de todo es una pantalla multitáctil con tecnología OLED y un tamaño generoso de 8,8 pulgadas . A su resolución nativa de alta definición se une la frecuencia variable de hasta 144 Hz. El hardware interno del OneXPlayer X2 Mini está protagonizado por un Ryzen AI Max+ 395 , un procesador que AMD enfoca a usos en mini-PCs y que en una consola portátil debe aportar un gran rendimiento con sus 16 núcleos y 32 hilos, frecuencia máxima superior a los 5 GHz, gráficos integrados AMD Radeon 8060S que incluye 40 unidades de cómputo RDNA 3.5 y una unidad de procesamiento neuronal de 50 TOPS. Un chip realmente potente , pero que tiene un problema para usos en una máquina de mano. Y es que consume bastante energía para ser un chip móvil, con un TDP de 45-120 W. Esto ha llevado a algunas empresas que utilizan este chip en consolas portátiles a idear soluciones poco convencionales para garantizar que no te quedes sin batería después de 30 minutos de juego. Otras portátiles como la GPD Win 5 y la OneXFly Apex del mismo fabricante, cuentan con baterías externas que facilitan el cambio de baterías sobre la marcha, manteniendo una de las partes más calientes y pesadas del ordenador fuera de la carcasa. El OneXPlayer X2 Mini adoptará un enfoque similar como puede verse en un vídeo promocional publicado en redes sociales chinas que muestra una batería de gran tamaño (85 Wh) acoplada a la parte posterior del dispositivo. OneXPlayer X2 Mini: modular y versátil A destacar su diseño modular que, además de ofrecer varios casos de uso, permite reemplazos por el usuario. Los mandos desmontables (conectables por Bluetooth) contarán con botones, joysticks y motores de vibración reemplazables por",
+      "link": "https://www.muycomputer.com/2026/04/15/onexplayer-x2-mini-un-hibrido-entre-consola-tablet-y-mini-portatil/",
+      "pubDate": "Wed, 15 Apr 2026 07:24:05 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/OneXPlayer_X2_Mini_1.jpg"
+    },
+    {
+      "id": "719f2e5505abad0d4cd4",
+      "title": "Superpetrolero iraní sancionado desafía el bloqueo de EE.UU. y cruza Ormuz",
+      "summary": "El buque ingresó a aguas iraníes mientras tenía encendido su dispositivo de rastreo, según la agencia Fars.",
+      "link": "https://actualidad.rt.com/actualidad/599194-superpetrolero-irani-sancionado-desafiar-bloqueo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 15 Apr 2026 07:22:51 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df3fd359bf5b47c46d6d9f.jpg"
     },
     {
       "id": "ae40b6e29c4ff2c726fd",
@@ -139,6 +663,16 @@
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/ZIVUM3JXHFC4FOFUTIGLU7THWI.jpg?auth=7f5a1692ea8eab671e9d03c10ded6c92e517afdb2a9fcb8512219c2245766bc8&smart=true&width=3951&height=2634"
+    },
+    {
+      "id": "7b3fbe9200752c0537b1",
+      "title": "Un adolescente sin licencia chocó con una mujer y su padre lo encubrió: dijo que él estaba al volante",
+      "summary": "El siniestro vial se produjo en la localidad de Gonnet, en La Plata este martes por la tarde. De milagro no hubo heridos. El padre del joven arregló con la víctima y la Policía no pudo interceder. Eso desató la furia de los vecinos.",
+      "link": "https://www.clarin.com/sociedad/adolescente-licencia-choco-mujer-padre-encubrio-dijo-volante_0_l7aSl8VhPv.html",
+      "pubDate": "Wed, 15 Apr 2026 07:14:49 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/15/JO3Q58YzQ_1200x630__1.jpg"
     },
     {
       "id": "6781d2c94f964143fdd3",
@@ -261,16 +795,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/ZRL3632KFFBQBOCT4BPPJWRSHM.jpg?auth=309f1a50f9942411b43793249d8ee51d802f2a2f13bf4926a6a1260aedd2885c&smart=true&width=2000&height=1333"
     },
     {
-      "id": "2bfb41f192af33c56b3f",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que la guerra con Irán está “cerca de terminar” y vuelve a cargar contra la OTAN",
-      "summary": "Manifestación en apoyo al Gobierno iraní, el martes en Teherán.",
-      "link": "https://elpais.com/internacional/2026-04-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Wed, 15 Apr 2026 06:34:11 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/PU5PEHMTCVKSDDV3PJ6X5PN5JE.jpg?auth=7e3cce59fdc0b5a4fff863e9f52771ccd20ceac689d4cb5561b4acb8810eb9be"
-    },
-    {
       "id": "60cc3aa3bd7564c708a5",
       "title": "Tormenta deja al descubierto un cadáver inquietante y nadie logra explicar qué es",
       "summary": "En una playa galesa se hallaron los restos de un animal con características inusuales que no parecen corresponder a una especie marina.",
@@ -279,16 +803,6 @@
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69deaae059bf5b35a342fcd7.jpg"
-    },
-    {
-      "id": "5929e0390a88151992d2",
-      "title": "\"¿Acaso ha terminado la guerra?\"",
-      "summary": "Manifestaciones ucranianas contra Rusia",
-      "link": "https://www.marca.com/natacion/opinion/2026/04/15/acaso-terminado-guerra.html",
-      "pubDate": "Wed, 15 Apr 2026 06:29:21 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de7850bb577.jpeg"
     },
     {
       "id": "bf9db34852806e5f10d1",
@@ -311,69 +825,9 @@
       "image": "https://www.clarin.com/img/2026/04/15/xF7KqZs85_1200x630__1.jpg"
     },
     {
-      "id": "be34e4dab8c89c7cb7b2",
-      "title": "Neuer-Madrid, una batalla de 14 años",
-      "summary": "Manuel Neuer, durante el partido de la semana pasada en el Bernabéu.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/neuer-madrid-batalla-14-anos.html",
-      "pubDate": "Wed, 15 Apr 2026 06:23:50 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/12/69dbe75816ee5.jpeg"
-    },
-    {
-      "id": "059b9d92538c61432068",
-      "title": "En la boca del lobo",
-      "summary": "Arbeloa",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/bayern-real-madrid-boca-lobo.html",
-      "pubDate": "Wed, 15 Apr 2026 06:21:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de0e87480f1.jpeg"
-    },
-    {
-      "id": "310369805c84678b626a",
-      "title": "La gran revuelta 'anarcosindicalista' del Bayern",
-      "summary": "El Bayern de 1979 tras ganar 2-0 al Ajax en la primera edición del Trofeo Santiago Bernabéu.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/gran-revuelta-anarcosindicalista-bayern.html",
-      "pubDate": "Wed, 15 Apr 2026 06:21:20 +0200",
-      "source": "Marca",
-      "cat": "poleco",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/12/69dbeab57a1df.jpeg"
-    },
-    {
-      "id": "ef38bd28a4625c1d5b3b",
-      "title": "Musiala también se apunta al histórico ataque del Bayern y avisa al Real Madrid",
-      "summary": "Musiala, celebrando un gol junto a Bischof",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/15/musiala-tambien-apunta-historico-ataque-bayern-avisa-real-madrid-avanzaremos-semifinales.html",
-      "pubDate": "Wed, 15 Apr 2026 06:20:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de242fdb17d.jpeg"
-    },
-    {
-      "id": "f9a10a2498e43ce40562",
-      "title": "El CM del Atleti, desatado: dardos para todos",
-      "summary": "Los memes y bromas del Atlético tras eleminar al Barcelona en Champions",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/15/pellizcos-atletico-barcelona-lamine-yamal-clave-memes-atletico-madrid-club.html",
-      "pubDate": "Wed, 15 Apr 2026 06:13:14 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df0fea2f631.jpeg"
-    },
-    {
-      "id": "357e24705dfcc696b985",
-      "title": "Peio Uralde esta vez lo tiene claro: \"En el 87 era del Atlético y jugué para el Atlético, pero soy de la Real\"",
-      "summary": "Peio Uralde posa en su despacho de la agencia de futbolistas IDUB. en la que trabaja.",
-      "link": "https://www.marca.com/futbol/copa-rey/2026/04/15/peio-uralde-vez-claro-87-atletico-jugue-atletico-real.html",
-      "pubDate": "Wed, 15 Apr 2026 06:10:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/09/69d7bced8597d.jpeg"
-    },
-    {
       "id": "2fb161cc5169ec338080",
       "title": "Temporal y caos en Coronel Suárez: cayeron 100 milímetros de agua en menos de media hora y se inundó la ciudad",
-      "summary": "El martes por la noche una lluvia torrencial afectó la localidad de Coronel Suárez , ubicada al de la provincia de Buenos Aires. En menos de media hora cayeron 100 milímetros de agua y se inundó la ciudad. Desde el Servicio Meteorológico Nacional (SMN) activaron una alerta amarilla por tormentas y ráfagas de viento para el centro y oeste de la provincia de Buenos Aires. Por la copiosa lluvia, en diversos sectores del tejido urbano el agua alcanzó niveles considerables, tapando vehículos estacionados e imposibilitando la libre circulación , detallaron las autoridades locales. Además, debido a la fugacidad del temporal, varias personas quedaron atrapadas dentro de sus automóviles , motivo por el cual se desplegó un gran operativo encabezado por la unidad de Bomberos Voluntarios, consignó el medio local Radio Suárez . La lluvia también tapó los principales desagües e interrumpió el suministro de la energía eléctrica. Pese al caos que generó el desastre natural, no hubo que lamentar víctimas fatales . Por otro lado, los domicilios particulares también se vieron afectados. Debido al intenso caudal, el agua empezó a colarse entre las estructuras , despertando la desesperación de los vecinos. Además de la zona centro, los operativos de emergencia se desplegaron en diversos barrios periféricos de Coronel Suárez. Las imágenes y videos del temporal se viralizaron rápidamente en redes sociales. Qué dice el alerta del SMN El ente meteorológico emitió durante la medianoche del miércoles un alerta amarilla para Coronel Suárez, donde continuarán las tormentas hasta el mediodía del miércoles inclusive. A partir de las previsiones del SMN, el agua regresaría el viernes y se prolongaría hasta la noche del sábado . La alerta amarilla también incluye otras ciudades del centro, oeste y sur de la Provincia, que se extiende por lo que resta del martes hasta el mediodía del miércoles. Un temporal que dejó 40.000 usuarios sin luz Durante la última semana de marzo, intensas tormentas azotaro",
+      "summary": "El martes por la noche una lluvia torrencial afectó la localidad de Coronel Suárez , ubicada en el sur de la provincia de Buenos Aires. En menos de media hora cayeron 100 milímetros de agua y se inundó la ciudad. Desde el Servicio Meteorológico Nacional (SMN) activaron una alerta amarilla por tormentas y ráfagas de viento para el centro y oeste de la provincia de Buenos Aires. Por la copiosa lluvia, en diversos sectores del tejido urbano el agua alcanzó niveles considerables, tapando vehículos estacionados e imposibilitando la libre circulación , detallaron las autoridades locales. Además, debido a la fugacidad del temporal, varias personas quedaron atrapadas dentro de sus automóviles , motivo por el cual se desplegó un gran operativo encabezado por la unidad de Bomberos Voluntarios, consignó el medio local Radio Suárez . La lluvia también tapó los principales desagües e interrumpió el suministro de la energía eléctrica. Pese al caos que generó el desastre natural, no hubo que lamentar víctimas fatales . Por otro lado, los domicilios particulares también se vieron afectados. Debido al intenso caudal, el agua empezó a colarse entre las estructuras , despertando la desesperación de los vecinos. Además de la zona centro, los operativos de emergencia se desplegaron en diversos barrios periféricos de Coronel Suárez. Las imágenes y videos del temporal se viralizaron rápidamente en redes sociales. Qué dice el alerta del SMN El ente meteorológico emitió durante la medianoche del miércoles un alerta amarilla para Coronel Suárez, donde continuarán las tormentas hasta el mediodía del miércoles inclusive. A partir de las previsiones del SMN, el agua regresaría el viernes y se prolongaría hasta la noche del sábado . La alerta amarilla también incluye otras ciudades del centro, oeste y sur de la Provincia, que se extiende por lo que resta del martes hasta el mediodía del miércoles. Un temporal que dejó 40.000 usuarios sin luz Durante la última semana de marzo, intensas tormentas ",
       "link": "https://www.lanacion.com.ar/sociedad/temporal-y-caos-en-coronel-suarez-cayeron-100-milimetros-de-agua-en-menos-de-media-hora-y-se-inundo-nid15042026/",
       "pubDate": "Wed, 15 Apr 2026 06:09:51 +0000",
       "source": "La Nacion",
@@ -391,26 +845,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7MLF3CYOXJE5VHGHMMNUK433KA.jpg?auth=fd4b713476e3b2cd5b86bb7e9bd735d300747aa68c609247c4bc9453193a5154"
     },
     {
-      "id": "a62a9957a61f5d4b22dd",
-      "title": "Más vidas que el Vitesse: le expulsan de la Liga y ahora puede ascender a Primera ¡quedando decimosegundo!",
-      "summary": "Los jugadores del Vitesse celebran una victoria.",
-      "link": "https://www.marca.com/futbol/2026/04/15/vidas-vitesse-le-expulsan-liga-ascender-primera-quedando-decimosegundo.html",
-      "pubDate": "Wed, 15 Apr 2026 06:07:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de5a1ef2adf.jpeg"
-    },
-    {
-      "id": "d2265a0d04d5c9efbc2a",
-      "title": "Nordhagen, el 'nuevo Vingegaard' que ya asoma en O Gran Camiño: \"Es un gran héroe y una gran inspiración\"",
-      "summary": "Nordhagen, con MARCA en O Gran Camiño.",
-      "link": "https://www.marca.com/ciclismo/2026/04/15/nordhagen-nuevo-vingegaard-asoma-gran-camino-gran-heroe-gran-inspiracion.html",
-      "pubDate": "Wed, 15 Apr 2026 06:07:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69de9c43d740e.jpeg"
-    },
-    {
       "id": "acf345d97f68a6521430",
       "title": "Trump dice que la guerra con Irán está a punto de terminar y promete \"2 días increíbles\" (MINUTO A MINUTO)",
       "summary": "Asimismo, el mandatario descartó extender el alto el fuego, al considerar que podría no ser necesario.",
@@ -419,16 +853,6 @@
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df2a6959bf5b2cdb09c961.jpg"
-    },
-    {
-      "id": "193d210f98bc361b146c",
-      "title": "Huracán Kane: 14 goles en los últimos 10 partidos",
-      "summary": "Bayern's Harry Kane celebrates scoring his side's second goal during the Champions League quarterfinal first leg soccer match between Real Madrid and Bayern Munich in Madrid, Spain, Tuesday, April 7, 2026. (AP Photo/Jose Breton)",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/huracan-kane-14-goles-ultimos-10-partidos.html",
-      "pubDate": "Wed, 15 Apr 2026 06:05:12 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/08/69d5e7f9ee49d.jpeg"
     },
     {
       "id": "33479c280f58605f3285",
@@ -472,16 +896,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Vengadores-Doomsday-marvel-studios.jpg"
     },
     {
-      "id": "2bae1a50468880e74f1c",
-      "title": "Carolina Calvagni, la mujer de Nicolás Tagliafico, posa en su casa y repasa su historia de amor con el futbolista",
-      "summary": "En una agenda cargada de reuniones, visitas y reencuentros, Caro Calvagni se hace un tiempo para protagonizar su primera tapa con ¡HOLA! Argentina en su breve paso por Buenos Aires. Hace ya ocho años que dejó nuestro país para acompañar a su marido, Nicolás Tagliafico (33), en su carrera profesional por Europa: primero desembarcaron en los Países Bajos –cuando el defensor fichó con el club Ajax de Ámsterdam en 2018– y luego en Francia, tras integrarse al equipo del Olympique de Lyon. “Allá tenemos una vida muy tranquila. Por las mañanas, él se va al club mientras yo entreno, almuerzo, hago mis cosas. Ya por la tarde arranco con las reuniones de mi marca”, dice la influencer haciendo referencia a Calvagni, la firma de ropa deportiva y moda que lanzó en 2023 después de dos años de trabajo. En la intimidad de su hogar en las afueras de Buenos Aires, nos habla de los desafíos de vivir en Francia, su historia de amor con el campeón del mundo y cómo se prepara para alentar a la selección en la Copa Mundial 2026. –¿Cuál es el mayor desafío de llevar una vida entre dos continentes? –La vida social es un tema. Cuando vivíamos en Países Bajos, tuvimos la suerte de engancharnos con un grupo muy grande de argentinos, uruguayos y colombianos, y todos los fines de semana teníamos un plan para hacer. Y esa compañía, quiérase o no, nos ayudó a que la adaptación en un país distinto no fuera tan difícil. El idioma es otro desafío. El inglés nos ayudó un montón en Ámsterdam, pero en Lyon, por ejemplo, ya no tanto. Empecé a estudiar francés, pero con tanto viaje y trabajo, se me está complicando. –Una vez dijiste que la vida de la mujer de un futbolista no siempre es color de rosa… –Muchos piensan que todo es más fácil para mí, pero la realidad es que para lograr estar bien como estoy hoy, tuve que aprender a acomodarme a un montón de cosas. Tranquilamente podría haberme quedado en casa y no hacer nada, pero con todos los recursos y las posibilidades que tenía y tengo, no podía quedarm",
-      "link": "https://www.lanacion.com.ar/revista-hola/carolina-calvagni-la-mujer-de-nicolas-tagliafico-posa-en-su-casa-y-repasa-su-historia-de-amor-con-el-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZXGP3WXKLRCANFZ4WHRY2RYLAU.jpg?auth=52d132ff4595c02261e0705de36662a777d210ebeb8131afab6ad1233f01a1d4&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "c754d1e7996099cc9b1c",
       "title": "Separada hacía 8 meses, su ex pareja la ayudó a transitar un cáncer que los hizo redescubrirse: “Todo se dio natural, más relajado”",
       "summary": "Malvina Torrielli y Juan Andrés se cruzaron por primera vez a fines de 2019, en un fin de semana largo que prometía ser solo una salida casual con amigos. En un bar animado, dos chicos invitaron a dos amigas a compartir mesa; el siguiente encuentro sería en casa de otro amigo y el destino empezó a tejer su hilo. Unas juntadas después, en otro bar, sus miradas se encontraron de verdad: un choque accidental derivó en una pequeña discusión que, como en las mejores películas románticas, terminó en un brindis compartido. Esa chispa inicial reveló en él una personalidad reservada y observadora que la cautivó al instante, su actitud tranquila la hizo sentirse vista de verdad. La pandemia, lejos de separarlos, los unió mucho más. Nunca hubo un “somos novios” formal; en cambio, surgió un lazo natural durante la cuarentena, donde él se convirtió en su “compañero de cuarentena”. Incluso cuando el mundo volvió a abrirse, Malvina seguía usándo ese apodo, hasta que sus amigas le recordaron con risas que esa etapa ya había pasado. Así evolucionó a “mi compañero”, un término cargado de cariño que encapsulaba su conexión profunda, sin etiquetas apresuradas. “Nos divertíamos juntos, había mucha complicidad . También me ayudó a crecer en varios aspectos y valorábamos las opiniones del otro, aunque pensáramos distinto siempre con respeto. Solíamos elegir más planes de a dos que sociales, respetando los momentos, amigos y espacios de cada uno. Priorizábamos estar juntos, viajar, conocer lugares nuevos y hacer escapadas de fin de semana”, recuerda Malvina. Sin embargo, a fines de diciembre de 2024, llegó el momento de una decisión compartida: ambos elegimos terminar, reconociendo que, pese al amor que aún latía fuerte, las diferencias en gustos y visiones de vida hacían el camino cada vez más cuesta arriba. El peor momento de su vida A los 43 años y habiendo pasado ocho meses de la ruptura con Juan Andrés, en su control ginecológico anual, Malvina se había palpado un bulto en la mama izq",
@@ -490,6 +904,16 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/CC2F6C4PEZH3ZM5V47N42W4NHM.JPG?auth=7bba2fd168b81a2e670177e69eed7a062277ac4a70e551994284452c6382c377&smart=true&width=1295&height=862"
+    },
+    {
+      "id": "2bae1a50468880e74f1c",
+      "title": "Carolina Calvagni, la mujer de Nicolás Tagliafico, posa en su casa y repasa su historia de amor con el futbolista",
+      "summary": "En una agenda cargada de reuniones, visitas y reencuentros, Caro Calvagni se hace un tiempo para protagonizar su primera tapa con ¡HOLA! Argentina en su breve paso por Buenos Aires. Hace ya ocho años que dejó nuestro país para acompañar a su marido, Nicolás Tagliafico (33), en su carrera profesional por Europa: primero desembarcaron en los Países Bajos –cuando el defensor fichó con el club Ajax de Ámsterdam en 2018– y luego en Francia, tras integrarse al equipo del Olympique de Lyon. “Allá tenemos una vida muy tranquila. Por las mañanas, él se va al club mientras yo entreno, almuerzo, hago mis cosas. Ya por la tarde arranco con las reuniones de mi marca”, dice la influencer haciendo referencia a Calvagni, la firma de ropa deportiva y moda que lanzó en 2023 después de dos años de trabajo. En la intimidad de su hogar en las afueras de Buenos Aires, nos habla de los desafíos de vivir en Francia, su historia de amor con el campeón del mundo y cómo se prepara para alentar a la selección en la Copa Mundial 2026. –¿Cuál es el mayor desafío de llevar una vida entre dos continentes? –La vida social es un tema. Cuando vivíamos en Países Bajos, tuvimos la suerte de engancharnos con un grupo muy grande de argentinos, uruguayos y colombianos, y todos los fines de semana teníamos un plan para hacer. Y esa compañía, quiérase o no, nos ayudó a que la adaptación en un país distinto no fuera tan difícil. El idioma es otro desafío. El inglés nos ayudó un montón en Ámsterdam, pero en Lyon, por ejemplo, ya no tanto. Empecé a estudiar francés, pero con tanto viaje y trabajo, se me está complicando. –Una vez dijiste que la vida de la mujer de un futbolista no siempre es color de rosa… –Muchos piensan que todo es más fácil para mí, pero la realidad es que para lograr estar bien como estoy hoy, tuve que aprender a acomodarme a un montón de cosas. Tranquilamente podría haberme quedado en casa y no hacer nada, pero con todos los recursos y las posibilidades que tenía y tengo, no podía quedarm",
+      "link": "https://www.lanacion.com.ar/revista-hola/carolina-calvagni-la-mujer-de-nicolas-tagliafico-posa-en-su-casa-y-repasa-su-historia-de-amor-con-el-nid15042026/",
+      "pubDate": "Wed, 15 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZXGP3WXKLRCANFZ4WHRY2RYLAU.jpg?auth=52d132ff4595c02261e0705de36662a777d210ebeb8131afab6ad1233f01a1d4&smart=true&width=2000&height=1333"
     },
     {
       "id": "46d2fb4641b387ce3dcf",
@@ -542,16 +966,6 @@
       "image": "https://www.clarin.com/img/2026/04/15/uQ09ayqoW_1200x630__1.jpg"
     },
     {
-      "id": "88dc5626babcbf862d11",
-      "title": "Reportes: EE.UU. intercepta dos petroleros en aguas iraníes",
-      "summary": "Los buques habrían zarpado del puerto de Chabahar, situado en el sureste de Irán, y avanzado a través del golfo de Omán.",
-      "link": "https://actualidad.rt.com/actualidad/599344-reportes-eeuu-interceptar-petroleros?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 05:26:19 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df19c359bf5b2ccb391898.jpg"
-    },
-    {
       "id": "025662972959387111d4",
       "title": "Inundó un pueblo para tener aventuras extramatrimoniales e irse de fiesta sin su esposa: fue condenado a cadena perpetua",
       "summary": "En el verano de 1993, el medio oeste de Estados Unidos atravesaba una catástrofe inédita: más lluvias y menos temperatura de lo normal desde el año anterior, suelos saturados y tormentas que desbordaron los ríos Missouri y Mississippi. El resultado fue desastroso y se conoce como la Gran Inundación . Una nota del Chicago Tribune de aquel entonces describía: “Las escenas de destrucción [...] han sido impactantes: casas arrancadas de sus cimientos, cientos de miles de acres de fértiles tierras de cultivo convertidas en lagunas fétidas”. Muchos años después, el mismo medio recordó que esa inundación suele ubicarse entre los desastres naturales más devastadores en la historia de Estados Unidos. Y todavía hoy podría recordarse como un hecho meteorológico terrible pero natural. En cambio, la historia tomó un giro cuando en la ciudad de West Quincy , en el estado de Missouri, la rotura de un dique empeoró todo. El 16 de julio de aquel año, aunque decenas de voluntarios se encargaban de reforzar posibles grietas de la estructura con bolsas de arena, el muro que contenía el agua terminó cediendo. El agua lo arrasó todo: cubrió 57 kilómetros cuadrados, lo que equivale a un cuarto de la superficie de la Ciudad de Buenos Aires. La investigación no encontró fallas técnicas. Descubrió un sabotaje y se propuso encontrar al culpable. Al instante, apareció en el radar de la policía un vecino de West Quincy llamado James Scott , que tenía el prontuario perfecto y una excusa que sorprendería al mundo. Amigos, fiestas y cerveza Scott tenía 24 años y un pasado de rebeldía que iba a resultar determinante. Los policías lo recordaban muy bien. A los 13 años, junto a sus hermanos, provocó un incendio en su escuela, la primaria Webster. Fue el puntapié para una breve carrera como pirómano. De hecho, recibió más de una condena por incendio y otros delitos menores y, para la época de la inundación, gozaba del beneficio de libertad condicional. El periodista Adam Pitluk reconstruyó la vida de S",
@@ -565,22 +979,12 @@
     {
       "id": "81316642bc216e70e2b0",
       "title": "Victoria Villarruel y Lilia Lemoine protagonizaron un fuerte cruce en redes sociales: “Ella escupe huevadas”",
-      "summary": "La vicepresidenta Victoria Villarruel criticó en duros términos a la diputada de La Libertad Avanza (LLA) Lilia Lemoine luego de que la legisladora asegurará que debía haber sido “leal y humilde” y quedarse “callada por cuatro años” mientras ejercía la dupla presidencial con Javier Milei . La titular del Senado dijo que Lemoine “ escupe huevadas ” y sostuvo que no está calificada para ocupar una banca en la Cámara de Diputados. El conflicto comenzó cuando un usuario compartió una imagen de la boleta de LLA , con la fórmula integrada por Milei y Villarruel , y planteó: “si usted [Villarruel] no forma parte del rumbo del gobierno, debe dejar su cargo” . En el mismo mensaje, sostuvo que “los cargos públicos deberían responder a las ideas y al proyecto político que la ciudadanía votó”. A partir de esa publicación, Lemoine se sumó al cuestionamiento. “Se la votó para ser vicepresidente de Javier Milei. Solo tenía que ser mínimamente leal, humilde y callarse 4 años. No pudo” , escribió. En la misma publicación, agregó: “La domina el vicio del poder. Se creyó en la cima... pero ahora siempre será fondo de olla de algún partido opositor” . La respuesta generó nuevas reacciones dentro de la misma red social. Una usuaria cuestionó el planteo de la diputada y esgrimió: “¿No le parece un exceso pedirle a una Vicepresidente silencio por cuatro años?” . Además, consideró que esa postura implicaría “una falta de respeto a las instituciones” y defendió el rol activo de Villarruel al señalar que las diferencias forman parte de la dinámica democrática. En ese contexto, la vicepresidenta decidió intervenir y respondió el mensaje de la usuaria que la defendió. “Gracias Laura por la defensa”, escribió, antes de dirigir sus críticas a Lemoine. “La desubicación de esta señora es equiparable a su falta de condiciones para representar el rol para el que fue votada dentro de una lista sábana” , expresó. Villarruel también cuestionó el tono de las declaraciones de la diputada y afirmó: “Pedir",
+      "summary": "La vicepresidenta Victoria Villarruel criticó en duros términos a la diputada de La Libertad Avanza (LLA) Lilia Lemoine luego de que la legisladora asegurara que debía haber sido “leal y humilde” y quedarse “callada por cuatro años” mientras ejercía la dupla presidencial con Javier Milei . La titular del Senado dijo que Lemoine “ escupe huevadas ” y sostuvo que no está calificada para ocupar una banca en la Cámara de Diputados. El conflicto comenzó cuando un usuario compartió una imagen de la boleta de LLA , con la fórmula integrada por Milei y Villarruel , y planteó: “si usted [Villarruel] no forma parte del rumbo del gobierno, debe dejar su cargo” . En el mismo mensaje, sostuvo que “los cargos públicos deberían responder a las ideas y al proyecto político que la ciudadanía votó”. A partir de esa publicación, Lemoine se sumó al cuestionamiento. “Se la votó para ser vicepresidente de Javier Milei. Solo tenía que ser mínimamente leal, humilde y callarse 4 años. No pudo” , escribió. En la misma publicación, agregó: “La domina el vicio del poder. Se creyó en la cima... pero ahora siempre será fondo de olla de algún partido opositor” . La respuesta generó nuevas reacciones dentro de la misma red social. Una usuaria cuestionó el planteo de la diputada y esgrimió: “¿No le parece un exceso pedirle a una Vicepresidente silencio por cuatro años?” . Además, consideró que esa postura implicaría “una falta de respeto a las instituciones” y defendió el rol activo de Villarruel al señalar que las diferencias forman parte de la dinámica democrática. En ese contexto, la vicepresidenta decidió intervenir y respondió el mensaje de la usuaria que la defendió. “Gracias Laura por la defensa”, escribió, antes de dirigir sus críticas a Lemoine. “La desubicación de esta señora es equiparable a su falta de condiciones para representar el rol para el que fue votada dentro de una lista sábana” , expresó. Villarruel también cuestionó el tono de las declaraciones de la diputada y afirmó: “Pedir",
       "link": "https://www.lanacion.com.ar/politica/victoria-villarruel-y-lilia-lemoine-protagonizaron-un-fuerte-cruce-en-redes-sociales-ella-escupe-nid15042026/",
       "pubDate": "Wed, 15 Apr 2026 05:11:24 +0000",
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/5NOAKFUKCVDCXHTS7K3RCPUQ2Q.jpeg?auth=ade87dfc41cf476ec42f1ba013ef0f39c939049da635a88a9321896b29454515&smart=true&width=1280&height=846"
-    },
-    {
-      "id": "6e32a0045ee61d80036b",
-      "title": "Trump dice que no planea extender el alto el fuego con Irán",
-      "summary": "El mandatario estadounidense aseguró que ya se han eliminado los elementos \"radicales\" del país persa.",
-      "link": "https://actualidad.rt.com/actualidad/599350-trump-dice-planea-extender-alto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 05:11:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df21c1e9ff717fca738406.jpg"
     },
     {
       "id": "ff10cb5bcb7a48e51490",
@@ -623,87 +1027,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CEWYDCOWMFAZRJS2HT3KC3BKYU.png?auth=11b94a54d3864f2317b759927552c443a876e2531e828fc4ab14170277fa685e"
     },
     {
-      "id": "0ae90e118be204464ee5",
-      "title": "Xi Jinping llama a fortalecer la coordinación estratégica con Rusia",
-      "summary": "El mandatario chino instó a estrechar las relaciones con Moscú para defender al Sur Global.",
-      "link": "https://actualidad.rt.com/actualidad/599271-xi-jinping-fortalecer-coordinacion-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 05:00:53 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df1d2259bf5b2d063ec944.jpg"
-    },
-    {
-      "id": "112e610ac37910d4cb47",
-      "title": "Xi Jinping califica de \"preciados\" los lazos de China con Rusia ante el caos internacional",
-      "summary": "El mandatario chino se reunió con el canciller ruso, que llegó a Pekín en visita oficial de 2 días.",
-      "link": "https://actualidad.rt.com/actualidad/599349-xi-jinping-lazos-preciados-rusia-china?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 15 Apr 2026 05:00:46 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69df1f6559bf5b2b9807e7f6.jpg"
-    },
-    {
-      "id": "ed40194f4b408e7154bf",
-      "title": "Pilar Sordo: “Es distinto sentirse solo a estar solo y eso está relacionado con el amor propio”",
-      "summary": "Pilar Sordo , psicóloga, escritora y conferencista de origen chileno, analizó los procesos de introspección y la construcción del bienestar emocional durante una entrevista para La Fête Chocolat . La especialista vinculó el estado anímico con la calidad del vínculo que cada persona mantiene con su propia identidad y destacó la importancia del amor propio en este desarrollo. “Es distinto sentirse solo a estar solo” , sostuvo Sordo para separar ambos conceptos. La realidad objetiva de la falta de compañía no implica necesariamente un estado de angustia o desolación. Según Sordo, el bienestar depende de la relación con uno mismo, una percepción que se vincula de manera directa con la calidad del diálogo interno de cada persona. View this post on Instagram El temor al silencio La ausencia de estímulos sonoros externos obliga a un encuentro frontal con la conciencia individual, un escenario que la psicóloga describió como una confrontación que muchos intentan evitar: “La gente le tiene miedo al silencio porque el silencio tiene mucho ruido” . “El silencio devela un montón, entonces si yo no quiero esa revelación que me va a dar el silencio, me voy a sentir mucho más sola”, explicó la escritora. La revelación de la verdad íntima asusta a los sujetos que no poseen una comunicación interna saludable y el ruido del silencio expone los conflictos que el sonido exterior suele ocultar. “ Yo tengo la impresión de que esto está directamente relacionado con el amor propio, con tu diálogo interno . No con los prejuicios que existen en relación al concepto de amor propio, que tiene que ver con la soberbia, con el egoísmo”, sumó. “El amor propio en sí mismo es profundamente humilde, porque si yo conozco mis sombras, no tengo cara para hablarte de las tuyas digamos” , afirmó la experta con el fin de remarcar que el conocimiento de las propias debilidades anula la necesidad de juzgar a los demás. La aceptación de la identidad propia transforma la relación con el entorno, es por ello qu",
-      "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-es-distinto-sentirse-solo-a-estar-solo-y-eso-esta-relacionado-con-el-amor-propio-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 05:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/3UHTVNMS4NAD3I5DLVHURXH3BM.jpg?auth=4473e74315467a259e902420f53a0dc3e2163b2bfd4c03f86c58ba3ffd9204c4&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "dc7a988197836aec6a9e",
-      "title": "Punto por punto, cómo fue la primera audiencia del nuevo juicio por la muerte de Maradona",
-      "summary": "El Tribunal Oral en lo Penal N°7 de San Isidro inició el debate por la muerte de Maradona este martes 14 de abril, donde los jueces Alberto Gaig, Alberto Ortolani y Pablo Rolón recibieron a los siete imputados ya los abogados de la familia en la sala de audiencias. El Ministerio Público Fiscal y las defensas expusieron sus lineamientos ante los magistrados para establecer las causas del fallecimiento del exjugador . Los argumentos de la acusación pública y el rol de los médicos Patricio Ferrari, fiscal general adjunto de San Isidro, calificó a los acusados como un “Grupo de improvisados”. El funcionario lideró la presentación de la acusación y explicó que la fiscalía construyó una imputación sólida durante cinco años. El tribunal conocerá las pruebas en tres estamentos: testimonios, evidencia tecnológica y esfera médica. “Tenemos una necesidad imperiosa: nosotros y la sociedad en su conjunto queremos que haya verdad. El derecho a la verdad es un derecho humano” y señaló a Leopoldo Luque como el médico de cabecera, Agustina Cosachov ocupó el rol de psiquiatra así como el resto de los acusados: Carlos Díaz, Mariano Perroni, Ricardo Almirón, Nancy Forlini y Pedro Di Spagna. “Maradona fue abandonado a su suerte, condenado a la muerte” afirmó y sentenció: “Maradona comenzó a morir 12 horas antes de su verdadera muerte” . Asimismo, el fiscal Cosme Iribarren detalló las acciones de cada procesado. Nuevo juicio por la muerte de Maradona: la palabra del fiscal Patricio Ferrari El reclamo de los familiares y la calificación de asesinato Fernando Burlando representó a Dalma y Gianinna Maradona en la audiencia e inició su exposición con una definición tajante: “Diego fue asesinado” . El letrado mencionó que alguien oculto convocó a los profesionales para realizar acciones demenciales. La querella afirmó que los imputados empujaron la vida del exjugador hacia el deceso a pesar de las oportunidades de supervivencia. “No fueron meras negligencias. Señores jueces, le van a hacer cr",
-      "link": "https://www.lanacion.com.ar/seguridad/punto-por-punto-como-fue-la-primera-audiencia-del-nuevo-juicio-por-la-muerte-de-maradona-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 05:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/AYKYFUWGHJHBLDKXFSF7GVPSDE.jpg?auth=7b33b9d20f2f228866e3129fe8893c6933cf64acd13831e4dc574d809b9a0ace&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "795b921a03f15f7efa35",
-      "title": "Orgullo botánico: 5 especies nativas que enamoran a primera vista",
-      "summary": "Durante décadas, el jardín ornamental argentino miró hacia afuera. Rosas europeas, lavandas mediterráneas, agapantos africanos. Sin embargo, el propio territorio guarda una flora extraordinaria, capaz de ofrecer color, estructura y carácter con una ventaja adicional: está adaptada al clima, al suelo y a la fauna local. Cada vez más paisajistas y viveristas redescubren estas especies que crecen de forma espontánea en montes, sierras y selvas del país. Incorporarlas es una manera de reconectar el jardín con el paisaje argentino y favorecer la biodiversidad. Estas cinco especies demuestran que lo nativo puede ser tan espectacular como cualquier planta exótica Trompetas blancas perfumadas Sinningia tubiflora Pocas plantas nativas tienen una presencia tan delicada y elegante. Esta herbácea tuberosa produce tallos rojizos y hojas verde grisáceas que sostienen flores largas y tubulares de color blanco, levemente perfumadas. Su silueta liviana recuerda a pequeñas trompetas suspendidas en el aire. Originaria de Argentina, Paraguay y Uruguay, es muy valorada en jardinería por su forma y su capacidad de prosperar en suelos bien drenados con sol o media sombra. La patagónica que seduce colibríes Fuchsia magellanica En los bosques y riberas del sur aparece este arbusto elegante, comunmente llamado aljaba, cargado de flores colgantes rojo intenso con tonos púrpura. Su forma pendular y sus colores llamativos atraen a colibríes, que actúan como sus principales polinizadores. Resistente al frío y a las heladas, es una de las pocas especies ornamentales que prosperan sin problemas en los climas duros el de la Patagonia. Parece una orquídea Alstroemeria aurea Pariente de las famosas alstroemerias de las florerías, esta especie nativa despliega flores amarillas o anaranjadas con manchas rojizas que recuerdan a pequeñas orquídeas. Crece como herbácea perenne y puede alcanzar cerca de un metro de altura. Además de su belleza, es notablemente resistente: soporta bajas temperaturas y puede",
-      "link": "https://www.lanacion.com.ar/revista-jardin/orgullo-botanico-5-especies-nativas-que-enamoran-a-primera-vista-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 04:58:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/FLYUXUB3XRFV5LBONIWI6AHTXM.jpg?auth=e0b2b59d46189dc059fe2ccea0c5bfb686d2db42cc6e63c1fc5f0609cd7d8c06&smart=true&width=2002&height=1333",
-      "subcat": "mercado"
-    },
-    {
-      "id": "31d30f0542f5a3da7d15",
-      "title": "Renunciaron el presidente y el vicepresidente de Central Córdoba por “motivos personales”",
-      "summary": "José Alfano, presidente de Central Córdoba, y Víctor Paz Trotta, su vice, renunciaron a sus respectivos cargos en medio de una crisis futbolística que atraviesa el club santiagueño y señalaron que se trató por motivos personales. El mandamás había asumido al puesto en 2018 y llevó al Ferroviario a la primera división. Si bien ganó la Copa Argentina en 2024 y disputó la Copa Libertadores 2025, en la que incluso llegó a vencer a Flamengo, el conjunto dirigido por Lucas Pusineri no está atravesando un buen momento futbolístico: se encuentra en el puesto 12 de la tabla del Torneo Apertura con 13 unidades y volvió a quedar comprometido con el descenso . En este marco, Alfano y Trotta anunciaron su salida del club y desde el Ferroviario emitieron un comunicado, en el que informaron que el motivo es de índole personal y totalmente ajeno a la vida institucional. “La comisión directiva ha aceptado dichas renuncias y, conforme a lo establecido en el estatuto social, ha resuelto que el actual vicepresidente segundo, Hernán Zanni , asuma la presidencia de manera interina, garantizando la continuidad administrativa y deportiva de la institución”, explicó. “La comisión directiva reafirma su compromiso de seguir trabajando con responsabilidad y unidad, redoblando esfuerzos para fortalecer cada una de las áreas del club. Central Córdoba continuará enfocado en sus objetivos, con la convicción de representar de la mejor manera al primer grande del interior”, marcó. La salida de ambos funcionarios se dio también tras la derrota de Central Córdoba ante Vélez -líder del campeonato- por 1 a 0 en el Estadio Amalfitani, en un partido en el que el Fortín ganó por la mínima pero fue superior en el juego y creó más de diez chances. Dentro de los logros de la gestión de Alfano como presidente de Central Córdoba se encuentran el ascenso a la primera división en 2019, el subcampeonato de la Copa Argentina en ese mismo año -luego de perder contra River en la final-, la Copa Argentina 2024 y el su",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/renunciaron-el-presidente-y-el-vicepresidente-de-central-cordoba-por-motivos-personales-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 04:29:03 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZR2DV4CAZRFRXMKHZN6TAGEM5Y.jpg?auth=bf30408ff1f64146c111b214a6e05231e27a0d37aab09628b08d571fa2305756&smart=true&width=2048&height=1294"
-    },
-    {
-      "id": "c4bb151f37e0af6ccea4",
-      "title": "Guillermo Francos dijo que las denuncias contra Adorni fueron \"un golpe para el Gobierno\" y que el actual jefe de Gabinete \"falló en dar explicaciones\"",
-      "summary": "Luego de las tensiones por su salida, el ex ministro coordinador defendió a su sucesor. Consideró que el viaje a Punta del Este fue \"una imprudencia\". Por otro lado, habló sobre la posibilidad de una candidatura en 2027.",
-      "link": "https://www.clarin.com/politica/guillermo-francos-dijo-denuncias-adorni-golpe-gobierno-actual-jefe-gabinete-fallo-dar-explicaciones_0_FzGNgH8msT.html",
-      "pubDate": "Wed, 15 Apr 2026 04:19:58 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/04/14/CEQLhgJkx_1200x630__1.jpg"
-    },
-    {
-      "id": "ec2a694d566a2fc16585",
-      "title": "Intendentes de La Cámpora reclaman a Caputo por el precio de la nafta y la ejecución de obras públicas",
-      "summary": "No hay noticias buenas . La suerte del Presidente es esquiva dentro y fuera del país. Tenaz inflación nacional ; denuncias de corrupción de funcionarios libertarios; la derrota de Viktor Orban , su amigo húngaro, el último domingo, y, encima, la encerrona iraní en la que se encuentra su aliado más poderoso: Donald Trump. Trump le hizo lo mismo a su más viejo amigo Mauricio Macri cuando este era presidente. Lo ayudaba en los trámites formales, sobre todo en el Fondo Monetario Internacional, pero las políticas internas y externas de los Estados Unidos complicaron seriamente el segundo tramo de la presidencia del líder argentino, que resultó su último trecho como jefe del Estado. A Milei también lo auxilió en el FMI para que lograra un nuevo acuerdo y lo socorrió cuando en septiembre del año pasado el peronismo ganó la provincia de Buenos Aires. Trump hizo algo más con Milei: le mostró un cheque de 20.000 millones de dólares a la sociedad argentina, pero le advirtió que solo se lo prestaría al actual presidente argentino. El cheque desaparecería si en las elecciones nacionales del siguiente mes de octubre el peronismo ganaba las elecciones. Milei triunfó ampliamente esa primavera de vértigo. Sin embargo, es el mismo Trump que emprendió una guerra, inconclusa aún, con los criminales ayatollah de Irán. El régimen teocrático de Teherán está desabasteciendo de energía al mundo porque todavía controla gran parte del estrecho de Ormuz. Nadie se puede explicar por qué Estados Unidos no previó el control del clave Ormuz antes de comenzar la guerra; atravesar esa angosta vía marítima, por la que pasa gran parte del petróleo y el gas de varios países árabes, es todavía un riesgo que ningún barco particular quiere correr. La escasez energética se apoderó del mundo . La caída en la oferta de combustibles fósiles significó un aumento en el precio del petróleo y el gas y una inflación más alta en el mundo , también en los Estados Unidos y en la Argentina. Leé la nota completa acá Hu",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-conoce-la-inflacion-de-marzo-y-adorni-se-prepara-para-asistir-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 04:19:51 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/7AHRL2YEQFFLNA3ESIOFOUDFZQ.JPG?auth=72e89b5d1431877aea31e59e1ab97d38f0fef56a3f677a5ee2fe13a1b8a80319&smart=true&width=3000&height=2000"
-    },
-    {
       "id": "da83166c5fecfe048573",
       "title": "\"A un joven le pegaron tanto que se desmayó\": cómo la policía de Grecia utiliza migrantes enmascarados para expulsar a otros migrantes en su frontera con Turquía",
       "summary": "Se ha reclutado a \"mercenarios\" para practicar devoluciones en caliente desde al menos desde 2020, según ha podido saber la BBC.",
@@ -712,27 +1035,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b7e/live/7eca0900-37c9-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "id": "424efa144a9b36ab557f",
-      "title": "Guerra, migración, Irán… Los 8 episodios que prepararon el enfrentamiento entre Trump y el Papa",
-      "summary": "A fondo Trump vs Papa Los 8 episodios que prepararon el enfrentamiento Lucía Boccio 15 de abril o de 2026",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-migracion-iran-los-8-episodios-que-prepararon-el-enfrentamiento-entre-trump-y-el-papa-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 04:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/YBLM2DEFWZFHNFWF3UXLHGZWQ4.jpg?auth=0c24da9438035a23016e2691669a4b5088bc7402ce991395a8da1827486b91f5&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "e6d9582beb888a97a045",
-      "title": "Universidades avanzan con nuevas medidas en reclamo por la ley de financiamiento",
-      "summary": "Bajo la consigna “la universidad no se apaga” , desde las 8, las casas de estudios nacionales se mantendrán abiertas durante 24 horas, con clases públicas, servicios gratuitos, visitas guiadas y diferentes actividades académicas, culturales y científicas. Buscan, una vez más, exigir que el Gobierno cumpla con la Ley de Financiamiento Universitario , que dispone la actualización de salarios y becas. El cierre será con una clase pública el jueves 16 a las 8 en la Secretaría de Educación. A la iniciativa del Consejo Interuniversitario Nacional (CIN), integrado por los rectores de las universidades nacionales, también se suman los gremios docentes y la Federación Universitaria Argentina (FUA). Se esperan actividades en más de 30 universidades con la luz prendida por 24 horas . El cronograma incluye clases magistrales, charlas, conversatorios, consultorios, talleres, asesoramiento. Desde la Universidad de Buenos Aires (UBA) hablan de un “paro a la japonesa”. Entre otras actividades, habrá atención odontológica, óptica y oftalmológica, médica, psicológica y veterinaria durante 24 horas en trailers en la Plaza Houssay. Se pueden sacar turnos por WhatsApp al 11-3758-9941. Los colegios preuniversitarios también se suman: el Nacional de Buenos AIres convoca a un abrazo a las 12:30 y el Carlos Pellegrini hará una clase abierta por streaming. View this post on Instagram A las 13, habrá una conferencia en la UBA con el rector Ricardo Gelpi, los decanos, rectores de los colegios preuniversitarios y el presidente del CIN, Franco Bartolacci. Formalmente, comunicarán a la Justicia que el Gobierno no está cumpliendo la ley y también le enviarán una nota a la ministra de Capital Humano, Sandra Pettovello . En caso de que la ley siga sin cumplirse, prevén la cuarta marcha federal para la primera quincena de mayo . El derrotero de la ley El 31 de marzo pasado, la Justicia ratificó que se debe ejecutar la Ley de Financiamiento Universitario , sancionada por el Congreso el año pasado y ra",
-      "link": "https://www.lanacion.com.ar/sociedad/universidades-avanzan-manana-con-nuevas-medidas-en-reclamo-por-la-ley-de-financiamiento-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:51:02 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/S6AXURHGCZD4DNDWLLMH56V5CA.JPG?auth=e39b07b8a0a66234100b79cc5d19b4d37de3ce8fea6465996a0c2f57ebe7cbf1&smart=true&width=1998&height=1333",
-      "subcat": "diseño"
     },
     {
       "id": "f31ee56353c21317a99f",
@@ -755,74 +1057,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/ECUXEXYQJ5HH3HNRBME5M66VHI.jpg?auth=e7d383b3bc177191dd8be042b905aafbf7b5893d66301a01dc742f951e75c9c3"
     },
     {
-      "id": "3c84f48c75860b8d4c8f",
-      "title": "Nuevo round entre Lilia Lemoine que mandó a callar a Villarruel y la vice la cruzó: \"Escupe huevadas al por mayor\"",
-      "summary": "La diputada libertaria había dicho que la titular de la Cámara alta \"solo tenía que ser mínimamente leal, humilde y callarse 4 años\". La pelea se inició a partir de una publicación en Instagram y rápidamente se trasladó a X.",
-      "link": "https://www.clarin.com/politica/nuevo-round-lilia-lemoine-mando-callar-villarruel-vice-cruzo-escupe-huevadas-mayor_0_gXPWzTbkOU.html",
-      "pubDate": "Wed, 15 Apr 2026 03:43:49 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2024/08/10/u84_44U4G_1200x630__1.jpg"
-    },
-    {
-      "id": "8f3392f05aeebd0f655f",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El SMN anticipa para este miércoles temperaturas entre 19°C y 22°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-miercoles-15-abril-2026_0_5QHmRLhqCF.html",
-      "pubDate": "Wed, 15 Apr 2026 03:41:30 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/xjGlgNfnh_1200x630__1.jpg"
-    },
-    {
-      "id": "9732796e12415046c663",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_Urgesu0htT.html",
-      "pubDate": "Wed, 15 Apr 2026 03:41:06 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
-    },
-    {
-      "id": "a5019ced97010bd8efef",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_Vg6zIx9gME.html",
-      "pubDate": "Wed, 15 Apr 2026 03:41:06 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/uIpHwpc_L_1200x630__1.jpg"
-    },
-    {
-      "id": "37e1bd3e780a5a5b3dd5",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_C4bbqzIPtN.html",
-      "pubDate": "Wed, 15 Apr 2026 03:41:06 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/jZz9qGczi_1200x630__1.jpg"
-    },
-    {
-      "id": "5ac72b164a03d23c31be",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este miércoles 15 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-miercoles-15-abril-2026_0_pVmVtkZZ8Y.html",
-      "pubDate": "Wed, 15 Apr 2026 03:40:42 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg"
-    },
-    {
-      "id": "980a2d6490cdce0ccaef",
-      "title": "La regularización extraordinaria pone a prueba a la Administración: dudas y flecos de un decreto histórico",
-      "summary": "Los migrantes hacen fila para recibir el certificado de memoria del abono de transportes, en Madrid.",
-      "link": "https://elpais.com/espana/2026-04-15/la-regularizacion-extraordinaria-pone-a-prueba-a-la-administracion-dudas-y-flecos-de-un-decreto-historico.html",
+      "id": "ad29613c91b555a70cf0",
+      "title": "El emperador contra el Papa",
+      "summary": "Donald Trump y León XIV.",
+      "link": "https://elpais.com/opinion/2026-04-15/el-emperador-contra-el-papa.html",
       "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/WQ7BLEKQKRCULDW2FXTNGIHWVA.jpg?auth=116beb9fce50de74d90f5a810ee5dbd267fb7c908bf370c405d5eeff04a2a6ab"
+      "image": "https://imagenes.elpais.com/resizer/v2/ISMUCLK55NOTFPKVWKAFT2RPGU.jpg?auth=943c6426cbfe69332323b074800cf26e80312f7c58cf8912c2538a98892eb393"
     },
     {
       "id": "a780b6c5967e99fc5c78",
@@ -845,14 +1087,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/KRRW2O5LCRHLRFXEBR6ODS4HWY.jpg?auth=d1518499657a975dca3f99da1d6a1f7c696404b60d9b1b7cbadb7917572bafb9"
     },
     {
-      "id": "ad29613c91b555a70cf0",
-      "title": "El emperador contra el Papa",
-      "summary": "Donald Trump y León XIV.",
-      "link": "https://elpais.com/opinion/2026-04-15/el-emperador-contra-el-papa.html",
+      "id": "980a2d6490cdce0ccaef",
+      "title": "La regularización extraordinaria pone a prueba a la Administración: dudas y flecos de un decreto histórico",
+      "summary": "Los migrantes hacen fila para recibir el certificado de memoria del abono de transportes, en Madrid.",
+      "link": "https://elpais.com/espana/2026-04-15/la-regularizacion-extraordinaria-pone-a-prueba-a-la-administracion-dudas-y-flecos-de-un-decreto-historico.html",
       "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/ISMUCLK55NOTFPKVWKAFT2RPGU.jpg?auth=943c6426cbfe69332323b074800cf26e80312f7c58cf8912c2538a98892eb393"
+      "image": "https://imagenes.elpais.com/resizer/v2/WQ7BLEKQKRCULDW2FXTNGIHWVA.jpg?auth=116beb9fce50de74d90f5a810ee5dbd267fb7c908bf370c405d5eeff04a2a6ab"
     },
     {
       "id": "75fd7def2b76fc269650",
@@ -865,34 +1107,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Q4L3BY4RAFK3NJOYRZPDHM5RQE.jpg?auth=45f527b5222fef6e0eee4c5841bdf27c8e303d7b40f206b6a333f90d30a831ec"
     },
     {
-      "id": "81f7274706b36f03b184",
-      "title": "El juicio de Kitchen aguarda el testimonio de Cosidó: “No sé quién tenía conocimiento de esa operación”",
-      "summary": "Ignacio Cosidó, ex director general de la Policía Nacional, este martes en la Audiencia Nacional.",
-      "link": "https://elpais.com/espana/2026-04-15/el-juicio-de-kitchen-aguarda-el-testimonio-de-cosido-no-se-quien-tenia-conocimiento-de-esa-operacion.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/3RUA2XIUK5LXZEJD2KYFJ7HU7U.jpg?auth=98d4497b554299dd504d9d861fdc3961273a8eb892f220b2b916075b2962c5f8"
-    },
-    {
-      "id": "ccd62b97d818f5582054",
-      "title": "El Ayuntamiento de Madrid deja a una familia hogar tras demoler cuatro viviendas en la Cañada Real",
-      "summary": "Dos vecinos observan una de las viviendas que derribó el Ayuntamiento de Madrid el lunes en la Cañada Real.",
-      "link": "https://elpais.com/espana/madrid/2026-04-15/el-ayuntamiento-de-madrid-deja-a-una-familia-sin-alternativa-habitacional-tras-demoler-cuatro-viviendas-en-la-canada-real.html",
+      "id": "36853f29cbbcd9ea7e6b",
+      "title": "Bócsa, el pueblo que se sacude el miedo que paralizaba a la Hungría de Orbán",
+      "summary": "Mihaly Szoke-Tóth, alcalde de Bócsa, este martes en su despacho en el Ayuntamiento.",
+      "link": "https://elpais.com/internacional/2026-04-15/bocsa-el-pueblo-que-desafio-el-miedo-que-paralizaba-a-la-hungria-de-orban.html",
       "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/BW3PVOLHAJBUDBQYCCCXI7UKKU.jpg?auth=9de9f2d61407b1fff7ed05cfdb51bbef7a15c53fdabc07bb3737c6ef72c52b9f"
-    },
-    {
-      "id": "2129b2caa5c7af27644b",
-      "title": "El Gobierno de Ayuso exhibe su rechazo al registro de objetores al aborto en cada línea de su tramitación obligada por la justicia",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en una imagen del 10 de abril de 2026.",
-      "link": "https://elpais.com/espana/madrid/2026-04-15/el-gobierno-de-ayuso-exhibe-su-rechazo-al-registro-de-objetores-al-aborto-en-cada-linea-de-su-tramitacion-obligada-por-la-justicia.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/F7LJWLLD5ZKR3KNTYUSHVENABU.jpg?auth=909aa6ed5ddbe9cf83180c0f6a07125a3f51c316d59237c2bdef7059f92618b7"
+      "image": "https://imagenes.elpais.com/resizer/v2/65X2O2Y4NBC65FYXPVBNYBOUUU.jpeg?auth=2b44d3a13e8afaa20f6ef467a65ff947bf2ad2a4ce9174c4da9b9da408833dae"
     },
     {
       "id": "38e136fc75c5a6014350",
@@ -902,7 +1124,7 @@
       "pubDate": "Wed, 15 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/MGEIQ7JWO7D3NUBGJTGXMF2YP4.jpg?auth=c0c9102d3aaae9dc33656675d03af9f9fb296e041c386a8a7aa4435950b9d71a"
+      "image": "https://imagenes.elpais.com/resizer/v2/3VXMK5IJVBFCDMXUCZXH6QWF5U.jpg?auth=bda28433faa8ea0d8ff98c8a87a17bff04a1d7f23b0f8f766d68bf0c69167e18"
     },
     {
       "id": "a25bd678aa6183f764dc",
@@ -955,16 +1177,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/KT4NIOEJVBF4LCMDROECWNSQB4.jpg?auth=5c19321fafc4a03452e0dd5c5c922c161f2749f1950a3a2ed25cad5c8bfa2b8f"
     },
     {
-      "id": "bfec6d47512430c31869",
-      "title": "Artemis 3 y más allá: para pisar la Luna, la NASA necesita a Elon Musk y Jeff Bezos, pero no tienen listas sus naves",
-      "summary": "Recreación artística del Blue Moon Mark 2, el aterrizador lunar que la empresa Blue Origin está desarrollando, originalmente para la misión Artemis 5, que la NASA acaba de adelantar de 2030 a 2028.",
-      "link": "https://elpais.com/ciencia/2026-04-15/artemis-3-y-mas-alla-para-pisar-la-luna-la-nasa-necesita-a-elon-musk-y-jeff-bezos-pero-no-tienen-listas-sus-naves.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/IYXUMZWX5FGNVI4B3IC4LNLVCE.jpeg?auth=3f1d45fc9ace01b5fee02b96313adbebf77101e71c7a9dcb627472961de6edd5"
-    },
-    {
       "id": "a39c56b0043fa45fc9e8",
       "title": "Lipoproteína A: la prueba para el colesterol que todo el mundo debería hacerse y que no ofrece la sanidad pública",
       "summary": "Jubilados haciendo ejercicio en un parque de Valencia.",
@@ -975,6 +1187,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YY5A3BFONBERLFS62XAJZGPZII.jpg?auth=9b83c601d3b819878de606a44161e7ca20d1453017f1489d0537d766d6735afd"
     },
     {
+      "id": "bfec6d47512430c31869",
+      "title": "Artemis 3 y más allá: para pisar la Luna, la NASA necesita a Elon Musk y Jeff Bezos, pero no tienen listas sus naves",
+      "summary": "Recreación artística del Blue Moon Mark 2, el aterrizador lunar que la empresa Blue Origin está desarrollando, originalmente para la misión Artemis 5, que la NASA acaba de adelantar de 2030 a 2028.",
+      "link": "https://elpais.com/ciencia/2026-04-15/artemis-3-y-mas-alla-para-pisar-la-luna-la-nasa-necesita-a-elon-musk-y-jeff-bezos-pero-no-tienen-listas-sus-naves.html",
+      "pubDate": "Wed, 15 Apr 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/IYXUMZWX5FGNVI4B3IC4LNLVCE.jpeg?auth=3f1d45fc9ace01b5fee02b96313adbebf77101e71c7a9dcb627472961de6edd5"
+    },
+    {
       "id": "5b3f53b067615921c5c8",
       "title": "Claves | ¿Cómo funciona la oficina que atenderá a las víctimas de pederastia? ¿Quién estudia los casos? ¿Cuáles son los plazos?",
       "summary": "El ministro Félix Bolaños en la reunión que mantuvo con asociaciones de víctimas el pasado 7 de abril.",
@@ -983,76 +1205,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/G5Y75OLW6FMYNCPGG6PJ3X4HR4.jpg?auth=ff3da0a68485310245d6438155cdc9b1807cc1950562fb8b3dd7b361dd4862c7"
-    },
-    {
-      "id": "300a550bf44443caf5b1",
-      "title": "¿Cuánto saben los alumnos de 6° de Primaria? El ‘Informe PISA español’ evalúa estos días sus conocimientos",
-      "summary": "Alumnos, estudiantes, de primaria e infantil del colegio Ceip Colegio de Les Arts Lectura en clase.",
-      "link": "https://elpais.com/educacion/2026-04-15/cuanto-saben-los-alumnos-de-6-de-primaria-el-informe-pisa-espanol-evalua-estos-dias-sus-conocimientos.html",
-      "pubDate": "Wed, 15 Apr 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/Z2JZBQA25FDCTGSGC6PEETJU74.jpg?auth=83e23c849d8e6b99877e8ee744606000c6493638d309a56f0b91e1343ca1d035"
-    },
-    {
-      "id": "42827edd80ce20c8b969",
-      "title": "El bodegón del sur de Buenos Aires que está siempre lleno y es atendido por un mozo legendario",
-      "summary": "“Tirifilo” es una palabra tanguera y lunfarda; quiere decir “petimetre”, es decir, niño bien, engreído, presumido. El bodegón más tradicional del barrio de Adrogué adoptó ese nombre, no por su sentido literal, sino más como una picardía y una marca para una de sus esquinas icónicas. Tirifilo es ideal para hacerse una escapada a una zona elegante del sur del gran Buenos Aires que conserva el aire pacífico de antaño, cuando el paisaje estaba poblado de chacras, quintas y confortables casas de profesionales con porches abiertos a sus jardines. A escasos 20 km de Capital, cada vez más porteños se acercan a esta fonda amable y hospitalaria para saborear pastas inolvidables, una tortilla jugosa de papa a la española -puede repartirse entre cinco comensales- o un lomo gruyere provenzal: la carta tiene más de 150 opciones, todas abundantes y a precios pagables. Ubicado en la esquina de Almirante Cordero y Spiro, en el corazón del Adrogué histórico donde se cruzan diagonales amparadas por cúpulas de plátanos centenarios y casas en tonos pastel con sus jardincitos al frente, resulta imposible ignorar la ochava azul y verde de Tirifilo, con sus mesas en la vereda –las más codiciadas– prolijamente cubiertas por manteles. Con una estética típica vintage que recuerda las antiguas cantinas y almacenes del Gran Buenos Aires, se distinguen cuadros de personajes históricos y locales en las paredes de ladrillo junto a repisas que exhiben objetos antiguos, como botellas de licores, balanzas de pesas, relojes, cafeteras y elementos de cocina de época. Las lámparas colgantes de múltiples brazos y su decoración intencionalmente pretérita le ponen un toque de historia. Pero el recurso es sutil: a diferencia de otros bodegones que acumulan desordenadamente sus souvenirs, en Tirifilo se observa un criterio y un orden. En cualquier caso, el lugar no es muy viejo, aunque –cuenta Carlos Bravo, su gerente general– hace más de 15 años que, sobre todo los fines de semana y algunas noches, está prá",
-      "link": "https://www.lanacion.com.ar/revista-lugares/el-bodegon-del-sur-de-buenos-aires-que-esta-siempre-lleno-y-es-atendido-por-un-mozo-legendario-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/IYSXXHSIQ5AJNLVOFHPS3RNMAE.jpg?auth=c419d8ef4cac3c9a778776f44a7470c502427e87b74546791b094678fcdbb592&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "3fcd05e1a50bee31cffa",
-      "title": "Boca venció a Barcelona y volvió a sentir el sabor de una noche de Copa Libertadores en la Bombonera",
-      "summary": "Se hizo esperar. Fueron 413 días en los que pasó de todo: una eliminación que dolió a manos de Alianza Lima, un golpe en el clásico frente a River que terminó marcando un final de ciclo, interinatos, cambios de rumbo, la llegada de Miguel Russo, un Mundial de Clubes, el regreso de Leandro Paredes, la asunción de Claudio Ubeda y hasta una proyección de una Bombonera distinta. Demasiado tiempo para un equipo que hizo de la Copa Libertadores su hábitat natural. Y, sin embargo, la pausa tuvo sentido. Porque Boca volvió a su casa en el torneo que lo obsesiona de la forma que sus hinchas deseaban, sostenido más en su mística que en su juego, pero con la personalidad necesaria para quedarse con un triunfo importante. Ante Barcelona, de Ecuador , en la antesala del superclásico, hilvanó su partido invicto N° 12 y mostró una versión que, aun con altibajos, invita a creer que el equipo empieza a parecerse a lo que su historia le exige . Boca construyó una victoria trabajosa en un típico partido de Copa, de esos en los que la superioridad no alcanza y que obligan a dar algo más. El equipo, es cierto, no sostuvo el nivel de los últimos encuentros, pero, tras un inicio titubeante y el impacto que implicó la lesión de Agustín Marchesin , terminó de entender cómo debía jugarlo. Primero, intentó progresar a partir de la circulación, pero se encontró con un rival que mordió en todos los sectores y que fue rápido para contragolpear, desnudando ciertas desinteligencias en el fondo. De hecho, en el primer cuarto de hora fue el conjunto dirigido por César Farías el que leyó mejor el partido: llegaba con peligro en pocos toques. Entonces, Boca comprendió que debía ir por un camino más directo: saltear líneas cuando hiciera falta y sumar gente en ataque, resignando algo de orden pero ganando peso ofensivo. El primer gol fue una muestra clara: tras una pelota parada en favor, Lautaro Di Lollo se quedó en el área y, luego de un centro de Lautaro Blanco , conectó de cabeza. A partir del 1 a ",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vencio-a-barcelona-y-volvio-a-sentir-el-sabor-de-una-noche-de-copa-libertadores-en-la-bombonera-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:21:06 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/35AIHBKL4VGQFDUMONQU7DPEPM.jpg?auth=1ff66b3edf633f313ad9046613d2a07da202311226c2e7d5f21a23fecaa26f7c&smart=true&width=2000&height=1334"
-    },
-    {
-      "id": "44148f640ec4c1ba6e37",
-      "title": "El secretario del Tesoro estadounidense afirmó que China no podrá obtener petróleo iraní",
-      "summary": "Canadá, el Reino Unido, Australia, Japón, Brasil, Colombia, Indonesia, Jordania, Sierra Leona y Suiza emitieron un comunicado conjunto en el que expresan su profunda preocupación por “ el empeoramiento de la situación humanitaria y la crisis de desplazamiento en el Líbano ”, consignó Al Jazeera. En una rueda de prensa realizada este martes en la Casa Blanca, Scott Bessent declaró que Estados Unidos bloqueará el paso de petroleros chinos que transportan petróleo iraní por el estrecho de Ormuz. “No van a poder conseguir su petróleo. Sí pueden conseguir petróleo, pero no petróleo iraní”, sentenció el funcionario. El Comando Central de Estados Unidos (Centcom, por sus siglas en inglés) afirmó a través de su cuenta en X que el bloqueo de los puertos iraníes “ se está aplicando de manera imparcial contra los buques de todas las naciones que entran o salen de las zonas costeras o puertos de Irán ”. U.S. Navy guided-missile destroyers are among the assets executing a blockade mission impacting Iranian ports. The blockade is being enforced impartially against vessels of all nations entering or leaving coastal areas or ports in Iran. A typical destroyer has a crew of more than… pic.twitter.com/tsu4i322r4 U.S. Central Command (@CENTCOM) April 15, 2026 El vicepresidente encabezó la delegación estadounidense en las conversaciones con Irán en Islamabad y dijo que Estados Unidos ofreció normalizar las relaciones económicas con Irán si este estaba “dispuesto a comportarse como un país normal” , señaló Al Jazeera . Además, sugirió que Donald Trump “no quiere un trato pequeño, si no un gran trato”. Según indicó CNN , Together Against the Death Penalty, con sede en París, e Iran Human Rights (IHR), con sede en Noruega, publicaron un informe en el que señalaron que Irán llevó a cabo el mayor número de ejecuciones en más de tres décadas el año pasado. Al menos 1639 personas fueron ejecutadas en 2025, la cifra anual más alta desde 1989 y un fuerte aumento frente a las 975 ejecuciones del",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-martes-14-de-nid14042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:18:08 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/R4YZEGBV3ZGGXFDRXXQZJCXZJQ.JPEG?auth=f282b83fa08493f6f90e0decb127ff6cc95ae86eec3cc9ad7285b55018d53431&smart=true&width=2500&height=1668"
-    },
-    {
-      "id": "8e62037c658a27d6ce21",
-      "title": "La preocupante reforma por decreto de la ley de inteligencia",
-      "summary": "El DNU 941/2025, dictado por el presidente Javier Milei en el último día hábil del año anterior, importó algo más que un simple cambio en la denominación de los distintos organismos autorizados a realizar las llamadas “tareas de inteligencia y contrainteligencia”. Un primer factor de preocupación lo constituye que, en una materia tan sensible, el Presidente haya optado por legislar por la excepcional vía de un DNU. Cabe recordar que la Ley Fundamental ha reservado el uso de este instrumento “cuando circunstancias excepcionales hicieran imposible seguir los trámites ordinarios previstos por esta Constitución para la sanción de las leyes”. La única justificación ofrecida en los considerandos del referido decreto es que “esperar la cadencia habitual del trámite legislativo irrogaría un importante retraso que dificultaría actuar en tiempo oportuno y obstaría al cumplimiento efectivo de los objetivos de la presente medida”. Y, cuando se repasan los objetivos en cuestión, hay un señalamiento de posibles superposiciones de funciones entre el Departamento Federal de Investigaciones de la Policía y la Agencia de Seguridad Nacional ”, por lo que “resulta necesario reorientar las actividades de la citada Agencia en materia de contrainteligencia para identificar y analizar, con enfoque preventivo, amenazas a la seguridad estratégica nacional, incluyendo acciones de espionaje, sabotaje, injerencia, interferencia e influencia”. La transcripción de este lenguaje es relevante, pues el mismo se replica luego en el DNU al señalar el ámbito de actuación de la llamada Agencia Nacional de Contrainteligencia . Debe aquí concluirse que se han escogido, con fuerza de ley, términos de una vaguedad excesiva, pues serán los agentes de inteligencia quienes decidan en qué casos puede estarse en presencia de acciones de “interferencia” e “influencia” que justifiquen tareas por definición secretas y que han sido confiadas a agentes cuya identidad y funciones quedan cubiertas por una clasificación",
-      "link": "https://www.lanacion.com.ar/editoriales/la-preocupante-reforma-por-decreto-de-la-ley-de-inteligencia-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:11:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/QRJDLSEHIJDKZCNMAEIBBCVOD4.JPG?auth=624a2df90824c1eaec31f626f0a8dfe605d89f75df554ed91a089dc8bd93c52a&smart=true&width=3500&height=2332"
-    },
-    {
-      "id": "0848ea20595a2b44b4ee",
-      "title": "Un viaje a las raíces del periodismo en tiempos de fake news y desconfianzas",
-      "summary": "Bajemos las banderas corporativas. Contengamos el primer impulso para responder a la pregunta: ¿es importante el periodismo? y démonos un tiempo –tal vez el que lleve leer este artículo– para pensar. Estamos viviendo un momento en el que el periodismo está siendo torpedeado en su línea de flotación: la confianza. No solo por errores propios o por las deformaciones que introducen nuevos intermediarios tecnológicos, sino también por arrebatos insultantes, groseros y deliberadamente descalificatorios provenientes tanto de gobernantes como de sectores de la sociedad civil, que reducen un oficio complejo a una caricatura interesada. En este clima de sospecha permanente, tal vez resulte necesario volver un poco a las raíces y recordar de qué hablamos cuando hablamos de periodismo. Nos referimos al que se ejerce con método, con responsabilidad y con coraje. A ese periodismo que, desde hace ya más de trescientos años, cuando la imprenta permitió multiplicar la palabra escrita, ha sido capaz de interpelar al poder incluso cuando hacerlo tenía altos costos personales. En los años más oscuros del siglo XX, cuando el régimen nazi desplegaba en Europa una maquinaria de exterminio cuidadosamente diseñada para no dejar testigos, la prensa fue uno de los primeros instrumentos que permitieron que esa verdad comenzara a filtrarse. En 1942, diarios de gran circulación publicaron informaciones provenientes de fuentes diplomáticas y de organizaciones europeas que denunciaban asesinatos masivos en la Polonia ocupada. El 25 de noviembre de 1942 The New York Times publicó en una misma edición tres informes independientes que describían la exterminación sistemática de judíos en Europa del Este. ( https://www.academia.edu/31591905/New_York_Times_25_Nov_1942 ). No eran rumores: eran datos corroborados que el poder prefería negar y que a muchos lectores les costaba creer. En diciembre de ese mismo año, la prensa británica reflejó un hecho inédito: la declaración formal de los gobiernos aliados",
-      "link": "https://www.lanacion.com.ar/opinion/una-pregunta-incorrecta-es-importante-el-periodismo-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/E5FLU325MVFDTFUOJZX7DBQKVI.jpg?auth=6f02712d815701529cc8e832cc9d99c669c8b8e5773c796beb2251d8d8ca85d0&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "f2faf7aefad2bdb6a5fb",
-      "title": "El espectáculo que promete Adorni",
-      "summary": "Se suponía que la creación del jefe de Gabinete serviría para atenuar el hiperpresidencialismo. Su función consistiría en aliviar al presidente. Aliviar era el verbo que se usaba durante los debates de la reforma constitucional de 1994, pero hoy, con el caso Adorni al rojo vivo, el recuerdo mueve a ris a. Desde hace 37 días, cuando la revelación periodística de que la esposa de Adorni había viajado a Nueva York en el avión presidencial desbarrancó una sucesión de incongruentes explicaciones oficiales sobre el patrimonio del jefe de Gabinete, Javier Milei está tratando de aliviar a su subordinado, acción inversa a la naturaleza de las cosas. En el alivio se busca comprometer a todo el gobierno. Martín Menem, presidente de la Cámara de Diputados e hijo de quien hace tres décadas condujo la convención constituyente que creó la jefatura de Gabinete, confirmó el lunes en un foro de abogados que Adorni comparecerá en el Congreso el miércoles 29. Dijo que la sesión “será picante” y recomendó: “compren pochoclos”. Quizás el anuncio deba ser entendido como una ratificación de que el plan del gobierno para salvar al funcionario que está cuestionado por la Justicia, por la prensa y por gran parte de la sociedad consiste en montar un contraataque espectacular, como si en lugar de Adorni se tratara de Muhammad Alí yendo a enfrentar a George Foreman. Aunque esta no es la primera crisis protagonizada por un jefe de Gabinete, sin duda es la más grave. Es probable que Adorni también esté batiendo un récord en la categoría protección más pertinaz, más obcecada, a un altísimo funcionario sospechado por corrupción. Igual que en el famoso caso Watergate que llevó a la renuncia a Richard Nixon, el problema no está acá en la trapisonda original sino en los esfuerzos destinados a taparla (Nixon no fue acusado por mandar a poner micrófonos en el Partido Demócrata sino por obstrucción de la Justicia, abuso de poder y desacato al Congreso). Pero hay que reconocer que el soporte institucional ",
-      "link": "https://www.lanacion.com.ar/opinion/el-espectaculo-que-promete-adorni-nid15042026/",
-      "pubDate": "Wed, 15 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/7OCB3L4VWNDRLOJXPHCWUQ7KZQ.png?auth=efaef6ee0e95b04b25dd6bedc3ca011613043e8562cd26ac507eb02c649f2b1b&smart=true&width=2000&height=1333"
     },
     {
       "id": "71989721a023bdbe2bf1",
@@ -1078,7 +1230,7 @@
     {
       "id": "152968a3bd943966ee1a",
       "title": "Spider-Man 4 tiene nuevo misterio: ¿Quién será la líder de La Mano?",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com En el primer tráiler de Spider-Man: Brand New Day , se mostró al trepamuros luchando contra La Mano tanto en un entorno carcelario como en las alturas de las calles de la ciudad de Nueva York. Hasta el momento, el alcance real de su papel en la película sigue siendo un misterio absoluto para todos nosotros. Sin embargo, algo que ha quedado claro es que el clan ninja tiene una líder femenina. Se la pudo ver brevemente en el avance y lidera claramente al grupo en el póster oficial lanzado durante la CinemaCon anoche. En este análisis, exploramos las posibilidades más probables de quién podría ser este personaje. Desde mutantes con vínculos con Jean Grey hasta rostros familiares del pasado de los Defenders, existen contendientes fascinantes capaces de preparar el escenario para una mezcla emocionante de historias futuras. 1. Typhoid Mary, debutaría en Spider-Man 4 Typhoid Mary Spider-Man: Brand New Day Alice Eve interpretó a una versión de Mary Walker en la segunda temporada de Iron Fist. Sin embargo, es probable que no solo mucha gente no la recuerde, sino que a pocos les importaría que el personaje fuera reiniciado para el UCM central. Mary es una mutante con trastorno de identidad disociativo y poderes psiónicos leves. Mary ha servido frecuentemente a La Mano, especialmente cuando Kingpin movía los hilos. Con Vanessa Fisk ahora fallecida, es muy probable que Wilson Fisk haga lo que sea para traer a su esposa de vuelta, y La Mano es capaz de resucitar personas. Dada la historia romántica complicada entre Fisk y Mary, su introducción aquí beneficiaría enormemente a la serie de Disney+ . Si su papel es breve, serviría perfectamente como preámbulo para profundizar en ella el próximo año. 2. Elektra aprovecharía Spider-Man para volver al UCM Elektra regresaría en Spider-Man 4 Aquí estamos lanzando una teoría ambiciosa. Con las especulaciones apuntando a que Matt Murdock terminará en prisión tras el final de la",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com En el primer tráiler de Spider-Man: Brand New Day , se mostró al trepamuros luchando contra La Mano tanto en un entorno carcelario como en las alturas de las calles de la ciudad de Nueva York. Hasta el momento, el alcance real de su papel en la película sigue siendo un misterio absoluto para todos nosotros. Sin embargo, algo que ha quedado claro es que el clan ninja tiene una líder femenina. Se la pudo ver brevemente en el avance y lidera claramente al grupo en el póster oficial lanzado durante la CinemaCon anoche. En este análisis, exploramos las posibilidades más probables de quién podría ser este personaje. Desde mutantes con vínculos con Jean Grey hasta rostros familiares del pasado de los Defenders , existen contendientes fascinantes capaces de preparar el escenario para una mezcla emocionante de historias futuras. 1. Typhoid Mary, debutaría en Spider-Man 4 Typhoid Mary Spider-Man: Brand New Day Alice Eve interpretó a una versión de Mary Walker en la segunda temporada de Iron Fist. Sin embargo, es probable que no solo mucha gente no la recuerde, sino que a pocos les importaría que el personaje fuera reiniciado para el UCM central. Mary es una mutante con trastorno de identidad disociativo y poderes psiónicos leves. Mary ha servido frecuentemente a La Mano, especialmente cuando Kingpin movía los hilos. Con Vanessa Fisk ahora fallecida, es muy probable que Wilson Fisk haga lo que sea para traer a su esposa de vuelta, y La Mano es capaz de resucitar personas. Dada la historia romántica complicada entre Fisk y Mary, su introducción aquí beneficiaría enormemente a la serie de Disney+ . Si su papel es breve, serviría perfectamente como preámbulo para profundizar en ella el próximo año. 2. Elektra aprovecharía Spider-Man para volver al UCM Elektra regresaría en Spider-Man 4 Aquí estamos lanzando una teoría ambiciosa. Con las especulaciones apuntando a que Matt Murdock terminará en prisión tras el final de l",
       "link": "https://www.cinemascomics.com/spider-man-4-misterio-quien-es-lider-la-mano/",
       "pubDate": "Wed, 15 Apr 2026 02:46:51 +0000",
       "source": "CinemasComics",
@@ -1096,16 +1248,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/defenders-marve.jpg"
     },
     {
-      "id": "b2d85b9d86ad03845fa5",
-      "title": "Lo que dice la prensa catalana tras el KO del Barça",
-      "summary": "Así vienen los periódicos deportivos de este miércoles 15 de abril de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/04/15/portadas-dia.html",
-      "pubDate": "Wed, 15 Apr 2026 02:22:32 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69ded9fb6745b.jpeg"
-    },
-    {
       "id": "b5f0dcfb5b30f6182aba",
       "title": "Confirman a Adria Arjona en Superman 2: dan detalles de su personaje",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Adria Arjona se ha unido oficialmente al reparto de Man of Tomorrow , la esperada secuela de James Gunn, pero incluso los medios especializados más importantes de Hollywood no parecen estar del todo seguros de qué personaje interpretará exactamente. Recientemente, recibimos noticias sobre varias actrices que supuestamente habían realizado pruebas para el papel de la villana Maxima, incluyendo a Arjona, Eva De Dominici ( The Cleaning Lady ), Sydney Chandler ( Alien: Earth ) y Grace Van Patten ( Tell Me Lies ). Aunque ha habido una oleada de especulaciones sugiriendo que Gunn podría estar en pleno proceso de casting para la Wonder Woman del nuevo DCU , y aunque esto bien podría ser cierto, los informantes internos parecían bastante seguros de que las actrices mencionadas estaban siendo consideradas específicamente para Maxima. Adria Arjona Wonder Woman El enigma del papel de Adria Arjona en Superman: ¿Maxima o Diana? Ahora, The Hollywood Reporter (THR) informa que Adria Arjona ha obtenido un «papel misterioso» en la secuela de Superman de DC Studios . El medio señala: «Se informó anteriormente que el personaje era la antiheroína de los cómics Maxima, pero se desconoce si eso es correcto». En el material de origen de los cómics, Maxima es una poderosa alienígena del planeta Almerac que viaja a la Tierra con la intención de seducir al Hombre de Acero, considerándolo el único ser digno de ser su esposo. Aunque inicialmente se presenta como una antagonista, más tarde se reforma y lucha junto a Superman como miembro de la Liga de la Justicia. A pesar de que el papel bien podría terminar siendo Maxima (de hecho, Variety cree que así es), Arjona ha sido una de las opciones favoritas de los fans para interpretar a Wonder Woman durante mucho tiempo. El año pasado, James Gunn abordó estos rumores de forma curiosa: “Sigo a Adria en Instagram y todo el mundo salió a decir: ‘La acaba de seguir, eso significa que es Wond",
@@ -1114,46 +1256,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Untitled-design-28.jpg"
-    },
-    {
-      "id": "06a348a4726a7a285c00",
-      "title": "Musso, el mejor portero 'suplente' del mundo: \"Es una locura querer hacer pasar esto como un robo...\"",
-      "summary": "Musso, celebrando el pase del Atlético.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/15/musso-mejor-portero-suplente-mundo-locura-querer-pasar-esto-robo.html",
-      "pubDate": "Wed, 15 Apr 2026 01:32:55 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69dec3a070e96.jpeg"
-    },
-    {
-      "id": "4e5ee7ad9c8cb210532c",
-      "title": "Musso: \"Es una locura querer hacer pasar esto como un robo\"",
-      "summary": "El portero argentino del Atlético de Madrid se mostró orgulloso del equipo y de la afición tras el pase a semifinales: \"En ningún momento de la eliminatoria fuimos por debajo\".",
-      "link": "https://www.marca.com/futbol/2026/04/15/musso-locura-querer-pasar-esto-rob-video.html",
-      "pubDate": "Wed, 15 Apr 2026 01:16:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/ac81W1ftiNzIiZBWs.jpeg"
-    },
-    {
-      "id": "e88b3c4e87d9546d62d1",
-      "title": "Simeone obvia las quejas del Barça: \"Qué bueno es estar entre los cuatro mejores de Europa\"",
-      "summary": "El técnico del Atlético de Madrid no quiso entrar a valorar las quejas arbitrales (y del césped) del conjunto azulgrana.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/15/simeone-obvia-quejas-barca-bueno-cuatro-mejores-europa-video.html",
-      "pubDate": "Wed, 15 Apr 2026 01:10:08 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/ac8Gy1ftib3dMZYb8.jpeg"
-    },
-    {
-      "id": "f8c3f7635562df5fcce5",
-      "title": "El incomprensible error de Lenglet en el gol de Lamine Yamal... que le pudo costar muy caro",
-      "summary": "Error garrafal de Lenglet, que se duerme y no ve llegar a Lamine por su espalda, quiere ceder a Musso y tapona el azulgrana, el balón sale rebotado hacia Ferran, que se la pone rapidísimo a Lamine a la carrera y este define por bajo ante la salida de Musso.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/15/incomprensible-error-lenglet-gol-lamine-yamal-le-pudo-costar-car-video.html",
-      "pubDate": "Wed, 15 Apr 2026 00:56:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/ac6uW1fthIQiI83pt.jpeg"
     },
     {
       "id": "8c490c36878bb7847ba1",
@@ -1165,26 +1267,6 @@
       "cat": "ia",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b83f/live/52efd750-3838-11f1-9d5c-8ba507d7dbde.jpg",
       "subcat": "herramientas"
-    },
-    {
-      "id": "180be97d8bad01cdd6aa",
-      "title": "Simeone, eufórico: \"¡Buenísimo!\"",
-      "summary": "SIMEONE, DURANTE EL PARTIDO.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/15/simeone-faltan-tres-partidos-sabemos-queremos-iremos-buscar.html",
-      "pubDate": "Wed, 15 Apr 2026 00:38:31 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/14/69deb41d35f22.jpeg"
-    },
-    {
-      "id": "9521702eefd1e40c1b0c",
-      "title": "Almeyda se siente traicionado: \"Un día antes, me dijeron que me quedaría hasta el final\"",
-      "summary": "Matías Almeyda, en un entrenamiento en la ciudad deportiva nervionense",
-      "link": "https://www.marca.com/futbol/sevilla/2026/04/15/almeyda-dolido-traicion-sevilla-dia-me-dijeron-me-quedaria-final.html",
-      "pubDate": "Wed, 15 Apr 2026 00:32:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/02/05/69846aad4b8d7.jpeg"
     },
     {
       "id": "a75c62913914f614e76c",
@@ -1297,16 +1379,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/c5123487-47a6-4b57-85ec-b7d65fcf6b17_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "0524a962135ac6213889",
-      "title": "Keiko Fujimori lidera el recuento electoral en Perú con una apretada disputa por el segundo puesto que da acceso al balotaje",
-      "summary": "Los candidatos en la segunda posición, en empate técnico, aspiran a pasar a la segunda vuelta.",
-      "link": "https://www.bbc.com/mundo/articles/cn4vvgynkm3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 14 Apr 2026 20:27:06 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c3f/live/a896c950-381c-11f1-87a9-4117efae0ff4.jpg"
     },
     {
       "id": "b77f8d5839d729c01fa7",
@@ -1765,16 +1837,6 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/Google-secuestro-boton-de-retroceso-1-1024x614.jpg"
     },
     {
-      "id": "9fb4a52a4f5e3bf7fc3f",
-      "title": "‘Jumanji 3’ hace un emotivo guiño a Robin Williams y confirma su título y sinopsis oficial",
-      "summary": "El estreno de Jumanji 3 está cada vez más cerca y, por eso, Sony Pictures ha querido revelar de una vez por todas su título oficial. La exitosa saga de aventuras volverá a expandirse este mismo año con su tercera entrega, que en realidad es la cuarta si contamos la original de Robbin Williams de 1995. De nuevo con Dwayne Johnson y compañía como protagonistas, el proyecto promete convertirse en una de las comedias familiares del año. Por ello, durante la CinemaCon 2026, Sony Pictures ha querido darle su espacio a la cinta, confirmando su título. Así, Jumanji 3 se titulará Jumanji: Open World . Su estreno está previsto para finales de 2026 y su reparto lo encabezarán una vez más Dwayne Johnson , Jack Black , Kevin Hart y Karen Gillan , a quienes en esta ocasión se une Danny DeVito . Además del título, los asistentes a la CinemaCon 2026 en Las Vegas pudieron ver en exclusiva algunos fragmentos de la película. Se trata de clips de Jumanji 3: Open World que por ahora Sony no ha querido hacer públicos para el resto del mundo. Pero los medios que allí se encontraban ya se han hecho eco de lo que pudo verse. Y entre otras cosas, hay un easter egg muy especial . Jumanji 3 homenajea a Robin Williams En Jumanji 3: Open World , los avatares se encuentran viviendo una nueva aventura dentro del juego, pero esta vez en un desierto. Sin embargo, en el mundo real, una pareja juega con la consola de Jumanji y, sin querer, libera a los personajes y enemigos. Al igual que ocurría en la cinta original de los años 90, los personajes del juego salen de él y llegan a la \"realidad\" . Esto permite que el grupo principal de amigos se reencuentre con sus avatares del juego. Lo curioso es que, al salir al mundo real, los avatares se han quedado atascados en distintos modos. Por ejemplo, el Dr. Bravestone de Dwayne Johnson está en modo español. Y, por su parte, Shelly Oberon (Black) y 'Mouse' Finbar (Hart) se encuentran en el modo demo. Así, se desvela que en Jumanji 3: Open World la aventura te",
-      "link": "https://hipertextual.com/cine-television/jumanji-3-hace-un-emotivo-guino-a-robin-williams-y-confirma-su-titulo-y-sinopsis-oficial/",
-      "pubDate": "Tue, 14 Apr 2026 10:53:33 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Jumanji-3.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "7841bc2bd985a1986ed4",
       "title": "Reapareció Lilita Carrió: apuntó contra Adorni y vaticinó el fin del Gobierno de Milei",
       "summary": "La líder de la Coalición Cívica dio su visión sobre las próximas elecciones y anticipó una derrota de Javier Milei en 2027: \"No reelige” porque “las sociedades van de un extremo al otro, pero hay un punto en que vuelven al medio”. Además, dijo que el caso Adorni parece \"una corrupción de Almodóvar. Me parece que es lo más bizarro que yo he visto”, apuntó. Elisa Carri , l der de la Coalici n C vica-ARI, habl sobre el caso que tiene en el centro de la escena al jefe de Gabinete, Manuel Adorni, y, con una spera cr tica, dijo que es todo muy rid culo y se pregunt : A qui n se le ocurre ir en un avi n privado a Punta del Este? . Siguiendo la l nea del caso, tambi n dio su opini n sobre el look de la escribana Adriana Nechevenko , cayendo en la cr tica a El Jefe , como el presidente llama a la secretaria de la Presidencia, su hermana, diciendo: Es una corrupci n de Almod var. Si no hubiera estado la escribana, es que el look de la escribana es peor que el look de Karina Milei. Me parece que es lo m s bizarro que yo he visto . Tambi n adelant su visi n respecto de las elecciones y presume una derrota electoral en 2027 de Javier Milei , sobre quien dijo que no reelige porque las sociedades van de un extremo al otro, pero hay un punto en que vuelven al medio . Asimismo, en otro pasaje de la entrevista en el canal de streaming Gelatina sobre el viaje de Adorni a Punta del Este se pregunt : A qui n se le ocurre ir en un avi n privado a Punta del Este? Y enseguida respondi que el tipo se gast un mes de estad a en Punta del Este , de estad a digo de gastos, de estad a, y de compra y de todos, en un pasaje . Adem s, ante la pregunta sobre si el jefe de Gabinete es o no corrupto , respondi sin dejar margen a la duda diciendo: Pero obvio. Es el ascenso social por excelencia, que yo lo vi en la C mara de Diputados . Con informaci n de agencias.",
@@ -1783,17 +1845,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/76aa9e39-0191-4d2d-beaf-72495f4b5e65_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "a31d9eef68e9a205ba9d",
-      "title": "De qué va ‘Buena suerte, pásalo bien, no mueras’, la comedia extrañísima de la que todo el mundo habla",
-      "summary": "Buena suerte, pásalo bien, no mueras ; el regreso al cine de Gore Verbinski, que se estrena este fin de semana en España, es dos cosas a la vez. Por un lado, una fábula sobre la responsabilidad que todos tenemos sobre el futuro, utilizando el tropo del viaje en el tiempo. Por el otro, una comedia ácida y negrísima acerca de cómo la ciencia ficción puede explorar en la distopía sin caer en clichés . Entre ambas cosas, la película sorprende por su intento de tocar temas profundos, sin hacerlo de manera obvia. Pero además, por su sátira sobre el género que va de lo hilarante a lo tenebroso. Lo interesante es que la cinta no intenta crear un universo complicado. Tampoco pierde tiempo en explicaciones extensas ni en construir un mundo futurista lleno de detalles técnicos. En cambio, lanza al espectador a una experiencia que mezcla ansiedad tecnológica con humor incómodo. La historia toma como base una idea conocida ( la IA como amenaza ), pero la aborda desde un ángulo torcido, casi burlón. Por lo que evita parecer una aventura épica. De hecho, Buena suerte, pásalo bien, no mueras; es una especie de combinación destartalada de Regreso al futuro con algunas ideas de la saga Terminator . Pero todo más sucio, inmediato y cercano. El director opta por una estrategia clara: exagerar los miedos actuales hasta volverlos grotescos. La inteligencia artificial no es un concepto abstracto ni un villano distante. Es una presencia que parece inevitable, como una filtración lenta que nadie puede detener. Lo interesante es que la película evita sermones. No intenta enseñar, sino que prefiere incomodar. Cada escena parece diseñada para provocar una reacción, incluso si esa reacción es una risa nerviosa. De la llegada de su viajero en el tiempo ( Sam Rockwell con una desconocida vena cómica) hasta cómo contar su historia. La cinta desafía la expectativa de una historia de ciencia ficción típica. Catástrofe servida con café nocturno Una idea que la película plantea desde su primera escena",
-      "link": "https://hipertextual.com/cine-television/de-que-va-buena-suerte-pasalo-bien-no-mueras-la-comedia-extranisima-de-la-que-todo-el-mundo-habla/",
-      "pubDate": "Tue, 14 Apr 2026 10:46:58 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Buena-suerte-pasalo-bien-no-mueras-723.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
     },
     {
       "id": "34b28727c590512b06bd",
@@ -2038,16 +2089,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2017/04/the-defenders.jpg"
     },
     {
-      "id": "ed6d8437d798b0482281",
-      "title": "Los juegos del hambre: amanecer en la cosecha estrena segundo tráiler",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Lionsgate ha lanzado un nuevo tráiler y póster oficial para Los juegos del hambre: amanecer en la cosecha (vía SFFGazette.com), y en este avance encontramos a un joven Haymitch Abernathy, interpretado por Joseph Zada, luchando desesperadamente por su vida en el Segundo Vasallaje de los Veinticinco de Panem. Además de prometer completar una parte fundamental de la historia de Panem, este nuevo adelanto revela mucho más sobre cómo Haymitch se convirtió en el hombre que conocimos por primera vez en la película de 2013, Los juegos del hambre (donde fue interpretado magistralmente por Woody Harrelson ). El tráiler nos muestra versiones más jóvenes de varios rostros familiares, destacando a un Ralph Fiennes que resulta adecuadamente amenazante en el papel del Presidente Snow. Una estética violenta en Los juegos del hambre La paleta de colores de la película es innegablemente impactante, y los Juegos en sí mismos parecen tan violentos y retorcidos como hemos llegado a esperar de la franquicia. En esta ocasión, el 50º aniversario de Los Juegos del Hambre cuenta con el doble de competidores de lo habitual, lo que significa que podemos anticipar el doble de muertes brutales y una competencia mucho más encarnizada. Sin embargo, en su mayor parte, el foco de atención se pone sobre Haymitch y un viaje que sabemos tendrá un impacto sísmico en su personalidad y en su futuro como mentor. Aunque todavía quedan muchos huecos por llenar en la narrativa general de la saga, esto depende de que la autora Suzanne Collins escriba más libros. Hasta el momento, no ha habido noticias sobre una nueva entrega literaria, aunque siempre es posible que recibamos novedades sobre su próxima novela cerca del estreno de esta película. El fenómeno literario de Los juegos del hambre y el éxito en ventas El libro Los juegos del hambre: amanecer en la cosecha vendió la impresionante cantidad de 1,5 millones de copias en su primera semana a la v",
-      "link": "https://www.cinemascomics.com/los-juegos-del-hambre-amanecer-nuevo-trailer/",
-      "pubDate": "Tue, 14 Apr 2026 02:30:56 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/FotoJet-2026-04-13T212716.842.jpg"
-    },
-    {
       "id": "66d1697c5be81868a061",
       "title": "Lanzamos CheckLab: un espacio para navegar el ecosistema desinformativo con evidencia y claridad",
       "summary": "",
@@ -2128,26 +2169,6 @@
       "cat": "ia",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/meta-muse-spark-1024x614.jpg",
       "subcat": "empresas"
-    },
-    {
-      "id": "80d87a69f6bb243c12e0",
-      "title": "Estas son las 5 mejores newsletters de marketing en español (2026)",
-      "summary": "Las newsletters son una herramienta muy útil para estar al día sobre temas que te interesan (ya sea con una frecuencia diaria, semanal, mensual, bimensual o trimestral). Si te gusta el marketing y andas buscando una fuente de información curada sobre el tema, estás en el lugar correcto. En este artículo te ofrecemos un listado de las mejores newsletters de marketing. Estas son las 5 mejores newsletters de marketing en español: 1.Ecommartech 2.10 links azules 3.Emprende en remoto (Olga de Andrés) 4.Product Hackers 5.Marketing Paradise Otras newsletter de marketing a las que también deberías suscribirte Marketing4eCommerce &#x2b50; Vaaaale, siiiií, nos hemos permitido la licencia de incluirnos en este artículo, aunque no en el ranking. Solo hacemos un &#8220;friendly reminder&#8221; de que, si quieres estar al día de las noticias más importantes del marketing, eCommerce, IA, redes sociales, etc. , puedes anotarte para recibir nuestra newsletter diaria , que enviamos cada mañana para que desayunes en compañía 🙂 Suscríbete aquí mismo &#x1f447; 1. Ecommartech Andrés Barreto, el ecosystems manager de la startup Product Hackers, tiene su propia newsletter donde trata temas de eCommerce, marketing y tecnología, dándole un enfoque humano e inspiracional. “ Sin humo, ni vanity metrics” , como promete el mismo Barreto. Está dirigida a profesionales que lideran el comercio electrónico y desean estar al tanto de las estrategias, herramientas y tendencias que están transformando el sector. Cada sábado religiosamente y antes de que te tomes el café de la mañana, ya tendrás en tu correo la edición de la semana, al igual que otros más de 2.000 suscriptores. 2. 10 links azules 10 links azules es un newsletter creado por Juan González Villa , consultor SEO independiente especializado en proyectos de eCommerce y SEO internacional, que actualmente es el director de su propia agencia, USEO. Con esta suscripción, cada domingo a las 9:30 de la mañana recibirás un boletín con enlaces a los ",
-      "link": "https://marketing4ecommerce.net/top-mejores-newsletters-marketing-y-comercio-electronico/",
-      "pubDate": "Thu, 09 Apr 2026 10:31:49 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2025/02/top-newsletters-de-marketing-en-espanol-1024x614.jpg"
-    },
-    {
-      "id": "31ecf888c5ead14dfb0d",
-      "title": "Pronto Youtube se va a llenar de Shorts protagonizados por avatares. No tengo claro que sea buena idea",
-      "summary": "Google ha lanzado una nueva función para los creadores de YouTube que había anunciado hace tiempo: la posibilidad de generar avatares , versiones sintéticas de los humanos que hasta ahora protagonizaban sus vídeos. De esta forma, pronto cualquier usuario podrá crear Shorts en los que el actor principal sea un avatar, o podrá incluirlo dentro de un vídeo ya creado. Y no tengo claro que esto vaya a ser una buena idea. Tal y como explica la propia Google , con esta medida, que se implantará gradualmente, se busca &#8220;facilitar y mejorar la precisión al añadir tu imagen a tus vídeos&#8221; . Los avatares crean una versión digital de ti mismo para que puedas generar vídeos que se vean y suenen como tú, &#8220;de forma segura y confidencial&#8221; . Para crear tu avatar de IA podrás utilizar la app móvil de YouTube o hacerlo directamente desde la app YouTube Create. Tal y como explica YouTube, solo necesitarás ser mayor de edad y tener la propiedad de un canal de YouTube preexistente. Para tratar de no generar confusiones, todos los vídeos en los que aparezcan este tipo de avatares incluirán marcas de agua visibles y etiquetas digitales como SynthID y C2PA para indicar que se trata de contenido generado por IA. Vale, pero&#8230; ¿cómo se asegurará de que no haces un avatar de otra persona? Por supuesto, ya se te habrá ocurrido una posibilidad un poco perversa: ¿podría generar un avatar a partir de la imagen de otra persona y crear vídeos con él? La respuesta corta es no. Menos mal. YouTube asegura que solo tú podrás usar tu avatar para crear vídeos originales, podrás eliminarlo cuando quieras y todo el contenido resultante se etiquetará como IA. Para asegurarse de que esto es así, la red social ha habilitado un proceso seguro de captura de selfie en directo, con el que grabarás tu rostro y tu voz para crear tu avatar . Solo tendrás que crearlo una vez, ya sea desde la aplicación de YouTube o la aplicación YouTube Create. Cómo crear un vídeo con tu avatar Cuando lo teng",
-      "link": "https://marketing4ecommerce.net/youtube-shorts-protagonizados-por-avatares/",
-      "pubDate": "Thu, 09 Apr 2026 10:30:44 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/youtube-shorts-avatares-1-1024x614.jpg"
     },
     {
       "id": "7c4ce9e1be46f08c7302",
@@ -2464,16 +2485,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "89f5a9f4c55a837374bb",
-      "title": "MSI Cubi NUC TWG, otro mini-PC eficiente y económico",
-      "summary": "El MSI Cubi NUC TWG es una computadora de sobremesa compacta con dimensiones reducidas a su mínima expresión, 135,6 x 112,6 x 40,1 mm y solo 0,55 litros de volumen. Usa procesadores de la serie &#8216; Twin Lake &#8216; (los más económicos de Intel) y llega para satisfacer las necesidades básicas de cualquier usuario o entornos comerciales . MSI tiene un buen catálogo de mini-PCs bajo la serie &#8216;Cubi&#8217;, desde los más simples a los más potentes, tanto con hardware de Intel como de AMD. Dispone de versiones para el sector empresarial, oficinas, sector industrial y escritorios de consumo. El modelo que nos ocupa se presenta en dos versiones , una con refrigeración activa y otra aún más eficiente con refrigeración pasiva que nos libra del ruido de los ventiladores. MSI Cubi NUC TWG El fabricante repite el diseño conocido en formato cuadrado, sencillo y elegante, con chasis de policarbonato reciclado y unas dimensiones que permiten colocarlo en cualquier parte y un soporte VESA para instalarlo detrás de un monitor o en paredes. En su interior, equipa procesadores Intel Core N250 o Core N150 . Son versiones de cuatro núcleos, gráfica integrada y un consumo TDP de tan solo 6 vatios, lo que confirma nuestro titular: básicos, eficientes y económicos. Incluye una ranura SO-DIMM para instalar un módulo de memoria DDR5-4800 y un conector M.2 para almacenamiento interno a base de SSD. En cuanto a conectividad , dispone de varias opciones inalámbricas, tarjetas AzureWave compatible con Wi-Fi 5 y Bluetooth 5 o una tarjeta Intel compatible con Wi-Fi 6E y Bluetooth 5.3. En cuanto a puertos, equipa tanto en la parte trasera como el frontal lo siguiente: 1 puerto USB 3.2 Gen 2 Tipo-C (10 Gbps) 2 puertos USB 3.2 Gen 2 Tipo A (10 Gbps) 4 puertos USB 2.0 Tipo A (480 Mbps) 2 x HDMI 2.1 1 entrada de audio de 3,5 mm 1 puerto LAN de 2,5 GbE 1 puerto LAN Gigabit Este compacto puede alimentar de contenido hasta tres pantallas de manera simultánea y aunque no está diseñada para maneja",
-      "link": "https://www.muycomputer.com/2026/04/13/msi-cubi-nuc-twg-otro-mini-pc-eficiente-y-economico/",
-      "pubDate": "Mon, 13 Apr 2026 08:09:09 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/MSI_Cubi_NUC_TWG_2.jpg"
-    },
-    {
       "id": "23161ef26d507a6f0d73",
       "title": "Los retos del comercio español ante el auge del turismo, a debate el 15 de abril en Barcelona",
       "summary": "El próximo 15 de abril, la plataforma especializada en soluciones tecnológicas para el turismo de compras y el Real Tax Free, Stamp , celebrará en Barcelona un encuentro privado que reunirá a directivos de ámbitos como el retail, tecnología y lujo para analizar cómo el auge del turismo internacional está redefiniendo el comercio en España. En un contexto marcado por el crecimiento del consumo turístico frente al estancamiento del consumo doméstico, el evento abordará las claves para adaptarse a nuevos modelos de mercados. La explosión turística procedente de China Barcelona se ha convertido, sin duda, en uno de los polos turísticos de toda Europa. Con una afluencia de visitantes que no para de creer, y que cada vez llegan en mayor número desde fuera de las propias fronteras europeas, los negocios de la capital catalana, al igual que los del resto de España, deben analizar y revisar todos sus procesos para poder sacar todo el partido al potencial que este flujo turístico inusitado representa. En este contexto, uno de los puntos críticos que marcará la agenda del sector en los próximos meses es la gestión del turista de alto valor, especialmente el asiático. Con un gasto medio que ronda los 3.000 euros por estancia, este perfil de viajero duplica la media internacional. Sin embargo, existe una brecha importante: gran parte de su decisión de compra ocurre antes de salir de su país de origen. Los datos de China Trading Desk (CTD) revelan que la investigación previa reduce la capacidad de influencia en el punto de venta físico. Esta desconexión digital y estratégica se traduce en cifras preocupantes para el comercio: uno de cada tres visitantes se va sin encontrar lo que buscaba y un 28% percibe precios elevados, una barrera que una buena estrategia de Tax Free podría derribar. A esto se suma la escasez de tiempo (21%) y las barreras lingüísticas (14%), factores que todavía frenan el potencial de ventas en el sector. Así, si una marca no está presente en ecosistemas omni",
@@ -2493,17 +2504,6 @@
       "cat": "ia",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/opinion-alejandra-salleras-neoattack.jpg",
       "subcat": "herramientas"
-    },
-    {
-      "id": "57260ddb5553710a4718",
-      "title": "Renueva tu impresora y olvídate de la tinta durante seis meses, gracias a HP Instant Ink",
-      "summary": "Quieres cambiar tu impresora, porque esta ya no cumple con tus necesidades, y porque además cada vez te sale más caro imprimir con ella, pero tienes un presupuesto muy ajustado y crees que no podrás ahorrar de verdad con una nueva impresora de tinta. Si piensas así es porque no conoces HP Instant Ink. El servicio de reposición de tinta HP Instant Ink te hará la vida mucho más fácil, y además te permitirá ahorrarte hasta un 70% en tinta. Suena bien, ¿verdad? Seguro que estás deseando saber cómo funciona, y te lo vamos a explicar a continuación: HP Instant Ink funciona bajo un modelo de suscripción sin compromiso. Tú elijes un plan de impresión que incluye una cantidad de páginas que puedes imprimir al mes en color o en blanco y negro por una cuota fija. Puedes cambiarte de plan en cualquier momento, y tantas veces como quieras, tanto a un plan superior como a un plan inferior. Cuando te des de alta tu impresora controlará los niveles de tinta automáticamente, y recibirás todos los cartuchos de tinta que necesites a domicilio y sin gastos de envío . No tendrás que volver a preocuparte por quedarte sin tinta. Con HP Instant Ink pagas por las páginas que imprimas, no por la tinta que gastes. Esto quiere decir que podrás imprimir en color a precio de blanco y negro, y que te ahorrarás hasta un 70% en tinta. Toda la tinta que recibes es original de HP, así que disfrutarás de una alta calidad de impresión. Si en un mes no gastas todas las páginas de tu plan no pasa nada, estas se acumularán y podrás gastarlas al mes que viene . No las perderás. Podrás reciclar fácilmente y de forma cómoda todos los cartuchos de tinta que recibas, aportando con ello tu granito al cuidado del medio ambiente. Es importante tener en cuenta que para poder suscribirnos a HP Instant Ink necesitaremos una impresora compatible. Lo más seguro es que tu vieja impresora no sea compatible, así que para poder disfrutar de todas las ventajas que ofrece este servicio tendrás que comprar una nueva. Seis me",
-      "link": "https://www.muycomputer.com/2026/04/13/renueva-tu-impresora-y-olvidate-de-la-tinta-durante-seis-meses-gracias-a-hp-instant-ink/",
-      "pubDate": "Mon, 13 Apr 2026 07:02:47 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/HP-Instant-Ink-OfficeJet-Pro.jpg",
-      "subcat": "diseño"
     },
     {
       "id": "addb636f6690482b1d96",
@@ -2706,8 +2706,8 @@
       {
         "name": "Sora",
         "type": "Video AI",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Alta atención",
+        "cls": "rb-orange"
       },
       {
         "name": "Claude",
@@ -2724,5 +2724,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-15T07:22:47.565457+00:00"
+  "updated": "2026-04-15T09:12:58.680148+00:00"
 }
