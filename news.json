@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "id": "a973bc1023bcf2b2f848",
-      "title": "\"Es mejor que no hable...\"",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/15/ruediger-muerde-lengua-expulsion-camavinga-mejor-hable.html",
-      "pubDate": "Wed, 15 Apr 2026 23:48:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e00b20a263d.jpeg"
-    },
-    {
-      "id": "b7b18e12af679b89d125",
-      "title": "La jugada que resultó decisiva: la segunda amarilla a Camavinga",
-      "summary": "Vincic le mostró la segunda tarjeta en el minuto 86",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/15/jugada-resulto-decisiva-segunda-amarilla-camavinga-video.html",
-      "pubDate": "Wed, 15 Apr 2026 23:41:59 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/acaZS1fu0B8tufZcK.jpeg"
-    },
-    {
-      "id": "30cb90dde33672e25a00",
-      "title": "\"Vinicius, esta vez tampoco\"",
-      "summary": "Camavinga, tras ser expulsado en el Allianz.",
-      "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/04/15/final-estropeo-camavinga.html",
-      "pubDate": "Wed, 15 Apr 2026 23:36:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69e004aca28d9.jpeg"
-    },
-    {
-      "id": "59d39a8c26fa5ab96bba",
-      "title": "A rematar la faena",
-      "summary": "AEK Atenas - Rayo Vallecano",
-      "link": "https://www.marca.com/futbol/rayo/2026/04/15/aek-atenas-rayo-rematar-faena-analisis-previa-pronostico-prediccion.html",
-      "pubDate": "Wed, 15 Apr 2026 23:31:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/04/15/69e001c06f117.r_d.594-630-0.jpeg"
-    },
-    {
       "id": "266018a6f29ddd3f1baa",
       "title": "Barrios de Pie pondrá una olla popular frente a la casa de Manuel Adorni",
       "summary": "La propiedad investigada del titular de ministros será el epicentro de la protesta por el cierre del programa Volver al Trabajo. La organizaci n social Barrios de Pie montar un comedor comunitario este jueves frente a la casa del jefe de Gabinete, Manuel Adorni , en reclamo por el cierre del programa Volver al Trabajo. Se trata de la propiedad ubicada en el barrio porte o de Caballito , la misma que es investigada en la Justicia en una causa por supuesto enriquecimiento il cito del funcionario de la administraci n libertaria. La olla popular se colocar a partir de las 11 en la calle Mir al 500. El Gobierno Nacional decidi cerrar el programa Volver al Trabajo , ex salario social complementario, que abarca a 951.871 trabajadores de la econom a popular, cobrando un escaso ingreso mensual de $78.000 , se quej Barrios de Pie. En un mensaje, la agrupaci n sostuvo que las principales afectadas de esta medida son las cocineras de los comedores comunitarios , ya que era su nico ingreso por el trabajo que all realizaban . Mientras funcionarios nacionales compraron casas, viajaron al exterior en vuelos privados y sacaron cr ditos en el Banco Naci n para segundas o terceras casas, las cocineras se quedan sin su escaso ingreso, poniendo en peligro la apertura de los comedores , indic el espacio. Norma Morales , referente de Barrios de Pie y Secretaria General Adjunta de la UTEP, expres : Es increible que este mamarracho de Adorni diga que se desloma mientras viaja al exterior y se compra casas que no puede justificar. Las verdaderas deslomadas son las cocineras de nuestros barrios que hacen magia para que millones de personas puedan tener un plato de comida. Estamos frente a un gobierno nefasto que esta llevando a nuestro pueblo a la pobreza total mientras ellos se vuelven millonarios. Con la medida que tomaron peligra el cierre de los comedores, decidieron sacarles el nico plato de comida al que accedian miles de ni os y jubilados , agreg Morales. Con informaci n de la agencia ",
@@ -101,16 +61,6 @@
       "image": "https://static.eldiario.es/clip/94ee76b4-e86e-4a54-9c24-79faa6e0cee5_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "b970c4e4ba9d10ff567b",
-      "title": "Nadar para morir en una tarjeta roja",
-      "summary": "Eduardo Camavinga deja el campo tras ser amonestado con tarjeta roja al ver la segunda amarilla.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-15/nadar-para-morir-en-una-tarjeta-roja.html",
-      "pubDate": "Wed, 15 Apr 2026 21:54:51 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XKSY2JWBSBEVRP3K5HMBIPM5DI.jpg?auth=85e33b410f978e0e9cff710993769fb201ac7dc3646b298dd17dff6e0cf0e9fa"
-    },
-    {
       "id": "cdbeefcb93775d8b06f4",
       "title": "El mejor Madrid asoma en la despedida de la Champions",
       "summary": "Luis Díaz marca el tercer gol del Bayern al Madrid.",
@@ -118,7 +68,7 @@
       "pubDate": "Wed, 15 Apr 2026 21:40:35 GMT",
       "source": "El Pais",
       "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/U6J6ACTVJFB43K6VSYPIYUU4P4.jpg?auth=018725973d5a9ac517e5058741009e170461e6fef9d006565a81aa3a39f56c8c"
+      "image": "https://imagenes.elpais.com/resizer/v2/IM5KCJHJSVDVRI6WDVJBYGJBHU.jpg?auth=27c9c93243cb7a69eae3d6ade6352f32a4ba1a0dec51ed9ed313d200cb30331d"
     },
     {
       "id": "0946f12c1a68d7c6a6dc",
@@ -193,6 +143,16 @@
       "subcat": "herramientas"
     },
     {
+      "id": "5cfecd79f00cb2b274d1",
+      "title": "Antiguos altos cargos sitúan a Aldama empotrado en Transportes durante la etapa de Ábalos",
+      "summary": "El empresario Víctor de Aldama, a su llegada al Tribunal Supremo, este miércoles.",
+      "link": "https://elpais.com/espana/2026-04-15/antiguos-altos-cargos-situan-a-aldama-empotrado-en-transportes-durante-la-etapa-de-abalos.html",
+      "pubDate": "Wed, 15 Apr 2026 20:06:44 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZGTWNWQLP5KMFCFMPSZ6AI35PM.jpg?auth=959c67a085982f9cb56d5c75529c29078a568b1630210d999949e007450bed94"
+    },
+    {
       "id": "bd6b398f3576b448ae55",
       "title": "The Lord of the Rings: The Hunt for Gollum confirma al nuevo Aragorn",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Warner Bros. acaba de mover ficha con The Lord of the Rings: The Hunt for Gollum , y no lo ha hecho con un simple adelanto más. El primer teaser mostrado en la CinemaCon no solo confirma el tono de la película, también deja algo mucho más importante: ya sabemos quién será el nuevo Aragorn en esta nueva etapa de la Tierra Media. La elección no es menor, porque hablamos de uno de los personajes más icónicos de toda la saga creada por J.R.R. Tolkien y llevada al cine por Peter Jackson . Y aquí es donde la cosa se pone interesante: el actor elegido no es el favorito que muchos esperaban, y eso cambia bastante la conversación alrededor del proyecto. Jamie Dornan será el nuevo Aragorn en The Lord of the Rings: The Hunt for Gollum El teaser de The Lord of the Rings: The Hunt for Gollum ha servido para confirmar un reparto que mezcla nostalgia con renovación. Andy Serkis regresa como Gollum y también dirige la película, mientras que Ian McKellen vuelve como Gandalf y Elijah Wood retoma su papel de Frodo. Pero el gran foco está en el relevo generacional: Jamie Dornan (Cincuenta sombras de Grey) será Trancos, es decir, Aragorn antes de convertirse en el rey que conocimos en El Señor de los Anillos . Un movimiento arriesgado, porque sustituir a Viggo Mortensen no es precisamente tarea sencilla, pero también coherente con el enfoque de la película. Jamie Dornan Aquí no veremos al Aragorn coronado ni al líder de Gondor, sino a un montaraz todavía en la sombra, un rastreador endurecido que opera lejos de los grandes focos de la historia principal. Y eso abre una puerta narrativa muy potente. Un reparto que conecta pasado y futuro de la saga Más allá del nuevo Aragorn, el reparto combina nombres conocidos con caras nuevas. Lee Pace vuelve como Thranduil, reforzando el vínculo con la trilogía de El Hobbit , mientras que Leo Woodall interpreta a Halvard, un dúnedain que acompañará a Aragorn en su misión. Además, Kate Wins",
@@ -231,6 +191,16 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ea9/live/875083c0-7699-11f0-9b97-07a092acff81.jpg"
+    },
+    {
+      "id": "245cd02f4eabde700356",
+      "title": "Cinco ideas para mejorar nuestra sociedad que necesitan su ayuda: ¿cuál apoyaría?",
+      "summary": "En la primera edición de Cancha Solidaria Endesa, los principales protagonistas fueron los proyectos que buscaban restañar los efectos de la dana.",
+      "link": "https://elpais.com/deportes/donde-juega-la-emocion/2026-04-15/cinco-ideas-para-mejorar-nuestra-sociedad-que-necesitan-su-ayuda-cual-apoyaria.html",
+      "pubDate": "Wed, 15 Apr 2026 19:15:42 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/X2RKX6P2UJFWJCWPNOXSYTGE44.JPG?auth=b0882893608c8b9ae04e6c58211fe2c8c4bc65c791207a52bd9acbda1c6a4e76"
     },
     {
       "id": "3d6ea113a683038634a2",
@@ -314,6 +284,16 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/gemini-macos.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "mercado"
+    },
+    {
+      "id": "e598643e23ee6c87afa5",
+      "title": "Más de un millón de ciudadanos europeos firman para que Bruselas sancione a Israel por la guerra en Gaza",
+      "summary": "Manifestación en París para demandar el fin de la guerra en Gaza, en una imagen de archivo",
+      "link": "https://elpais.com/internacional/2026-04-15/mas-de-un-millon-de-ciudadanos-europeos-firman-para-que-bruselas-sancione-a-israel-por-la-guerra-en-gaza.html",
+      "pubDate": "Wed, 15 Apr 2026 17:37:54 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/36CGNMAKYNPSPOR26FWSJEW2JA.jpg?auth=6d2c047628abd3d63e31c789e6afccbb7f2acecbb8a0ac343eec3002db05abe4"
     },
     {
       "id": "be48997cc91b9a8608b6",
@@ -457,6 +437,16 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/11/2-recall-timeline-scaled.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "herramientas"
+    },
+    {
+      "id": "3cd599f663d48e27637a",
+      "title": "Condenado a 13 años de cárcel por violar a su hijastra de 10 años en Palma y dejarla embarazada",
+      "summary": "La Audiencia Provincial de Palma en una foto de archivo.",
+      "link": "https://elpais.com/sociedad/2026-04-15/condenado-a-13-anos-de-carcel-por-violar-a-su-hijastra-de-10-anos-en-palma-y-dejarla-embarazada.html",
+      "pubDate": "Wed, 15 Apr 2026 13:27:36 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZSZ7H5YUDVC3RLV7B77YYJ62VA.jpg?auth=a7046283213cfe72abacef0beee81742644b87b525165d0cdd2216de85c5eae9"
     },
     {
       "id": "9dc1aed1bea7a478e3ae",
@@ -879,16 +869,6 @@
       "image": "https://static.eldiario.es/clip/c5123487-47a6-4b57-85ec-b7d65fcf6b17_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "50b43e43048c4dee42ca",
-      "title": "Revelan el tráiler de Jumanji: Open World de la CinemaCon",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com La saga Jumanji vuelve a moverse… pero esta vez el tablero cambia por completo. El primer tráiler de Jumanji: Open World se ha presentado en la CinemaCon de Las Vegas y deja claro que la franquicia no solo regresa, sino que da un giro bastante interesante: ahora los personajes salen del juego y llegan al mundo real. El regreso de Dwayne Johnson , Kevin Hart , Jack Black y Karen Gillan ya era esperado, pero lo que muestra este avance va un paso más allá. Porque sí, la clave no es solo que vuelvan… sino cómo lo hacen y qué cambia eso dentro de la saga. Y aquí está lo importante: Jumanji: Open World no es una simple tercera entrega. Es una evolución directa del concepto que revitalizó la franquicia en 2017 y que ahora parece romper sus propias reglas. Jumanji: Open World cambia las reglas del juego Durante la presentación en la CinemaCon, el reparto principal subió al escenario para mostrar las primeras imágenes de la película. Entre bromas y el tono desenfadado habitual del equipo, también dejaron pistas bastante claras sobre el enfoque de esta nueva entrega. Jumanji: Open World El tráiler que todavía no está online muestra a los personajes en el mundo real, pero no como personas normales, sino como versiones rígidas y extrañas de sus avatares del videojuego. Es decir, siguen funcionando como si estuvieran dentro del juego… pero fuera de él. Uno de los momentos más reveladores llega cuando el personaje de Alex explica que están “atascados en modo demo”. Y ahí es donde todo encaja: Jumanji: Open World introduce una especie de bug narrativo que mezcla dos realidades. Jack Black lanza una frase que resume perfectamente la situación: “Empiezo a sospechar que no estamos en Jumanji”. Y eso cambia completamente la dinámica de la historia, porque ya no se trata de sobrevivir dentro del juego… sino de entender por qué el juego ha invadido el mundo real. Un tono más ambicioso y con guiños al pasado Más allá del conce",
-      "link": "https://www.cinemascomics.com/revelan-trailer-jumanji-open-world-cinemacon/",
-      "pubDate": "Tue, 14 Apr 2026 20:02:54 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Jumanji-Open-World.jpg"
-    },
-    {
       "id": "51253b4532749350c674",
       "title": "Milei: \"El dato no nos gusta ya que la inflación nos repugna pero podemos explicarlo\"",
       "summary": "El Presidente y el ministro de Economía admitieron que el dato de marzo no cumplió las expectativas, pero lo atribuyeron a factores transitorios y ratificaron que la inflación retomará su sendero descendente en los próximos meses. El presidente Javier Milei y el ministro de Econom a Luis Caputo se pronunciaron tras conocerse el dato de inflaci n de marzo, que registr una suba mensual del 3,4% , con mensajes que combinaron cr ticas al n mero y una defensa del programa econ mico. Milei reconoci que el ndice no cumpli con las expectativas oficiales. El dato es malo. El dato no nos gusta ya que la inflaci n nos repugna , expres , aunque sostuvo que existen elementos duros para explicar lo ocurrido y proyect que en los pr ximos meses retorne a su sendero decreciente . El mandatario anticip adem s que ampliar a su an lisis en una exposici n p blica. Por su parte, Caputo ofreci una lectura m s t cnica del ndice y destac algunos componentes que, seg n su visi n, muestran se ales de desaceleraci n. Detall que la inflaci n n cleo fue del 3,2%, mientras que los precios regulados subieron 5,1% y los estacionales 1,0%. En ese marco, subray la desaceleraci n de la Canasta B sica Alimentaria, que pas de 3,2% en febrero a 2,2% en marzo, y una leve baja en la Canasta B sica Total, de 2,7% a 2,6%. El ministro atribuy parte de la suba a factores externos, en particular al impacto de la guerra en Medio Oriente, que seg n indic se reflej en aumentos como el 9% en combustibles, el 24% en pasajes a reos de cabotaje y el 22% en transporte interurbano. Tambi n se al que la econom a atraviesa un proceso de correcci n de precios relativos , visible en rubros como servicios regulados y carnes. En ese sentido, destac que la inflaci n n cleo sin carnes se mantuvo en 2,5%, en l nea con febrero, lo que seg n plante indicar a estabilidad en el componente subyacente. Adem s, remarc que el cap tulo Educaci n registr una suba del 12,1%, la m s baja para un mes de marzo en los ltimos ocho a os. Caputo ",
@@ -1172,27 +1152,6 @@
       "subcat": "desarrollo"
     },
     {
-      "id": "73911586514adf8352e6",
-      "title": "Android prepara su propia versión de AirDrop",
-      "summary": "Compartir archivos entre dispositivos móviles debería ser una tarea sencilla, pero durante años ha sido una de las áreas donde la experiencia ha estado más fragmentada en el ecosistema Android . Mientras Apple consiguió consolidar una solución bastante directa con AirDrop , Google ha ido probando distintas alternativas a lo largo del tiempo, desde Android Beam hasta Nearby Share, que posteriormente evolucionó hacia Quick Share. Ahora parece que la compañía quiere dar un paso más en esa dirección con una nueva función pensada para hacer que el intercambio de contenido entre teléfonos resulte todavía más natural e inmediato. Según se ha podido comprobar en el código de Google Play Services, Google está trabajando en una nueva función llamada Tap to Share . Esta herramienta permitiría compartir contenido entre dispositivos Android simplemente acercando dos teléfonos , de una forma bastante similar a la que los usuarios de iPhone ya conocen desde hace tiempo. La información procede del análisis del código de la versión 26.15.31 de Play Services, donde ya aparecen referencias claras a la interfaz y al funcionamiento de esta característica, lo que indica que su desarrollo está bastante avanzado, aunque todavía no se encuentre disponible para el público. Uno de los aspectos interesantes de Tap to Share es que no parece limitarse a un único tipo de contenido. Según lo que muestra la interfaz detectada en el código de la aplicación, los usuarios podrán transferir contactos, fotografías, vídeos, enlaces, ubicaciones y otros tipos de archivos utilizando este sistema . Esto sugiere que Google pretende convertir esta función en una herramienta de intercambio rápido bastante versátil, capaz de cubrir la mayoría de situaciones cotidianas en las que los usuarios necesitan enviar información a otro dispositivo cercano sin recurrir a aplicaciones externas o servicios en la nube. En cuanto a su funcionamiento, Google parece haber optado por una interacción basada en la proximidad físi",
-      "link": "https://www.muycomputer.com/2026/04/14/android-prepara-su-propia-version-de-airdrop/",
-      "pubDate": "Tue, 14 Apr 2026 07:22:16 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Android-2-1.jpg",
-      "subcat": "mercado"
-    },
-    {
-      "id": "808894e57d7a8272dbae",
-      "title": "ASUS TUF Gaming B850I WiFi Neo, ideal para montarte tu propia Steam Machine",
-      "summary": "La ASUS TUF Gaming B850I WiFi Neo es la primera placa base de la serie TUF Gaming en formato Mini-ITX de 17 x 17 cm. El fabricante ofrece así más opciones para utilizar los procesadores de AMD en nuevos factores de forma y concretamente en computadoras compactas como podría ser una versión personalizada de la Steam Machine de Valve que está pendiente de lanzamiento La placa está construida en torno a la arquitectura AMD AM5 y el chipset B850 , y es compatible con procesadores Ryzen de las series 7000, 8000 y 9000, incluyendo los novedosos con caché 3D. Incluye dos ranuras de memoria DIMM para admitir módulos DDR5 de hasta 128 GB, con velocidades que varían según la CPU: hasta DDR5-8200 con Ryzen 9000, DDR5-9600 con Ryzen 8000 y DDR5-8000 con Ryzen 7000. Todas admiten perfiles EXPO y ASUS AEMP. La ranura PCIe x16 incluida en la placa funciona con prestaciones Gen 5 si usas chips Ryzen 7000/9000 y a Gen 4 con los Ryzen 8000. La placa base cuenta con dos conectores M.2 para instalar unidades de estado sólido y dos puertos SATA de 6 Gb/s para incluir almacenamiento adicional a base de de SSDs o discos duros. Al igual que la velocidad de la memoria, el primer conector M.2 ofrece velocidades hasta PCIe 5.0 x4 si está conectada a una CPU Ryzen 7000 y 9000, mientras que la segunda es PCIe 4.0 x4 conectada al chipset independientemente de la CPU. La entrega de energía de la ASUS TUF Gaming B850I WiFi Neo está a cargo de un regulador de voltaje (VRM) de 8 + 2 + 1 fases con una capacidad de 80 A y construido sobre una placa PCB de 10 capas. La parte posterior incluye un protector de E/S pre-montado y ofrece un puerto USB 20 Gbps Tipo-C, dos USB 10 Gbps Tipo-A, un USB 5 Gbps Tipo-A, dos puertos USB 2.0, interfaces DisplayPort 1.4 y HDMI 2.1, Ethernet LAN de 2.5 GbE a través de un chip de Realtek También soporta conexiones inalámbricas Wi-Fi 6E y Bluetooth 5.3 , y no faltan funciones típicas de las placas base de ASUS como BIOS FlashBack y Clear CMOS. Internamente, cuenta con do",
-      "link": "https://www.muycomputer.com/2026/04/14/asus-tuf-gaming-b850i-wifi-neo-ideal-para-montarte-tu-propia-steam-machine/",
-      "pubDate": "Tue, 14 Apr 2026 05:56:47 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/ASUS-TUF-Gaming-B850I-WiFi-Neo_3.jpg"
-    },
-    {
       "id": "07431065f405f0ba2dbd",
       "title": "Por qué el bloqueo naval a Irán es una jugada arriesgada de Trump (y qué rol puede jugar China para que funcione)",
       "summary": "EE.UU. ha apostado a su poderío militar para hacer que el estrecho de Ormuz no esté controlado por Irán, pero el país de Medio Oriente ha demostrado su resistencia en el pasado.",
@@ -1201,6 +1160,106 @@
       "source": "BBC Mundo",
       "cat": "israel",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e8e/live/aa466f00-3775-11f1-b023-c3d1c5398968.jpg"
+    },
+    {
+      "id": "c8251f020b1c2efc5d15",
+      "title": "Rafa Jódar: \"Si se da la ocasión de jugar en el Bernabéu, intentaré aprovecharla\"",
+      "summary": "El madrileño, de 19 años, se ha convertido en la gran sensación de la presente temporada",
+      "link": "https://www.marca.com/tenis/conde-godo/2026/04/16/rafa-jodar-da-ocasion-jugar-bernabeu-intentare-aprovecharla.html",
+      "pubDate": "Thu, 16 Apr 2026 09:31:07 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/Fa_vaEqr.jpeg"
+    },
+    {
+      "id": "270ebfd5fef94bbdb250",
+      "title": "Vuelve la magia, vuelve el capitán",
+      "summary": "Isco, en el entrenamiento de ayer",
+      "link": "https://www.marca.com/futbol/betis/2026/04/16/vuelve-magia-vuelve-capitan.html",
+      "pubDate": "Thu, 16 Apr 2026 09:19:41 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e08d6b3b614.jpeg"
+    },
+    {
+      "id": "06823d6a3ff5d79ac6ad",
+      "title": "Durísimo Raúl Varela: \"Ridículos e inmaduros\"",
+      "summary": "El presentador de La Tribu analiza la eliminación del Real Madrid en Champions.",
+      "link": "https://www.marca.com/radio/2026/04/16/raul-varela-senala-jugadores-real-madrid.html",
+      "pubDate": "Thu, 16 Apr 2026 09:17:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/acjws1fu8enIQRxDG.jpeg"
+    },
+    {
+      "id": "e9bcdaffeec8778a810d",
+      "title": "Muere María Caamaño, la 'princesa futbolera guerrera', a los 13 años",
+      "summary": "María, durante la celebración de la Eurocopa, junto a su amigo Baena.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/04/16/muere-maria-caamano-princesa-futbolera-guerrera-lucho-cancer-2392-dias.html",
+      "pubDate": "Thu, 16 Apr 2026 09:09:32 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e08b170cbd0.jpeg"
+    },
+    {
+      "id": "8c2677a384e49b7c68f5",
+      "title": "Roberto Gómez señala al árbitro: \"¿De qué nacionalidad es Vinčić?\"",
+      "summary": "Una vez que el colegiado señaló el final del partido prácticamente la totalidad de los jugadores fueron a protestarle",
+      "link": "https://www.marca.com/radio/2026/04/16/roberto-gomez-senala-arbitro-nacionalidad-vincic.html",
+      "pubDate": "Thu, 16 Apr 2026 08:58:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/acb901fu0uBzRiW9W.jpeg"
+    },
+    {
+      "id": "8e541a83cb4dbd5a8184",
+      "title": "Un Aston Martin 'B' para salvar la temporada... y el futuro",
+      "summary": "El AMR26 de Alonso, en una parrilla.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/16/aston-martin-b-salvar-temporada-futuro.html",
+      "pubDate": "Thu, 16 Apr 2026 08:57:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e08409dfadb.jpeg"
+    },
+    {
+      "id": "4bc081024a837eafd09f",
+      "title": "La reacción de Pogacar tras 'inventar' una solución en plena crisis de Roubaix: “Me dieron un ‘karjolo’\"",
+      "summary": "Pogacar, con la bici de repuesto.",
+      "link": "https://www.marca.com/ciclismo/clasicas-ciclismo/2026/04/16/pogacar-sobrevive-caos-roubaix-bici-neutra-me-dieron-karjolo.html",
+      "pubDate": "Thu, 16 Apr 2026 08:43:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e0847f95022.jpeg"
+    },
+    {
+      "id": "cc2fff0fa40cb28c3e73",
+      "title": "Macroencuesta sobre la eliminación y el futuro del Real Madrid",
+      "summary": "Vinicius, Florentino y Arbeloa.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/04/16/macroencuesta-sobre-eliminacion-futuro-real-madrid.html",
+      "pubDate": "Thu, 16 Apr 2026 08:28:23 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e0815256375.jpeg"
+    },
+    {
+      "id": "1bb0d4443d56180a1a88",
+      "title": "McManaman descubre el veneno que está matando al Madrid",
+      "summary": "McManaman destapa \"el quid\" del Ral Madrid : \"Los jugadores son los jefes\"",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/04/16/mcmanaman-destapa-quid-real-madrid-jugadores-son-jefes.html",
+      "pubDate": "Thu, 16 Apr 2026 08:23:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e0800b1cccb.jpeg"
+    },
+    {
+      "id": "b40e04eb7ed7d4bb49fd",
+      "title": "Romeo: \"Se corre para ganar; hacerlo por los puntos es malo\"",
+      "summary": "Iván Romeo, ciclista de Movistar Team en O Gran Camiño.",
+      "link": "https://www.marca.com/ciclismo/2026/04/16/romeo-corre-ganar-hacerlo-puntos-malo.html",
+      "pubDate": "Thu, 16 Apr 2026 08:23:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69df751fa8a44.jpeg"
     },
     {
       "id": "202503d07d29977eec9f",
@@ -1213,14 +1272,75 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e0775a6ce8c.jpeg"
     },
     {
-      "id": "fa7f6c83b890e1d4d010",
-      "title": "Un ladrón se cuela en una carrera ciclista en plena fuga: la Policía le atrapa... ¡porque casi gana!",
-      "summary": "Un ladrón se cuela en una carrera ciclista en plena fuga: la Policía le atrapa... ¡porque casi gana!",
-      "link": "https://www.marca.com/ciclismo/2026/04/16/ladron-cuela-carrera-ciclista-plena-fuga-policia-le-atrapa-gana.html",
-      "pubDate": "Thu, 16 Apr 2026 07:36:56 +0200",
-      "source": "Marca",
+      "id": "11b8614a735409619dc0",
+      "title": "VIDEO: Incendio en refinería petrolera clave de un aliado de EE.UU. en medio de la crisis energética",
+      "summary": "Un incendio en la refinería de Viva Energy en Geelong, una de las dos principales de Australia, podría afectar la producción de gasolina de la nación. La planta aporta cerca del 10 % del combustible del país y, aunque sigue operando a menor capacidad, el impacto se da en medio de la crisis global del petróleo y podría condicionar el suministro nacional.",
+      "link": "https://actualidad.rt.com/actualidad/599564-video-incendio-refineria-petrolera-clave?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Thu, 16 Apr 2026 07:44:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e08e1959bf5b03d53e3c56.jpg"
+    },
+    {
+      "id": "850d68f2eb55277ff7b7",
+      "title": "MOMENTO en que la Armada de Israel detecta y destruye un dron",
+      "summary": "La Armada israelí interceptó durante la noche de este miércoles un dron que se dirigía hacia su territorio. Según se informó, fue detectado por una embarcación de misiles mientras se aproximaba desde el Líbano. Tras su identificación, los militares procedieron a neutralizarlo antes de que alcanzara su objetivo.",
+      "link": "https://actualidad.rt.com/actualidad/599565-momento-armada-israel-detecta-destruye?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Thu, 16 Apr 2026 07:42:48 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e08eb0e9ff7151615d8cf4.jpeg"
+    },
+    {
+      "id": "ccc76f9f2f41fb3d0978",
+      "title": "La omnicanalidad transversal: el nuevo alimento de los LLM en la gran empresa",
+      "summary": "En la última década, las estrategias de contenidos han evolucionado y pasado de ser un silo operativo a convertirse en el sistema nervioso central de las grandes corporaciones. Sin embargo, en un mundo y una sociedad cada vez más volátil, no es de extrañar que la tecnología también lo sea, por lo que sí, el paradigma ha vuelto a cambiar. Ya no basta con “estar”, el surgimiento de los modelos de lenguaje de gran tamaño (LLM), ha transformado el contenido corporativo en el combustible que entrena la percepción de marca de la IA . Hoy hablamos de IA para realizar cualquier acción, está presente en el ensamblado desde el principio hasta el fin, lo cual es muy peligroso para la comunicación de una marca. La relevancia de una compañía no se mide por su autoridad, ni de dominio (DA) ni de perfil (PA), sino por su capacidad para desplegar estrategias transversales que unan el SEO , las redes sociales y los soportes dinámicos como YouTube. ¿Por qué? Fácil: Ni los LLM ni los motores de respuesta (SGE) consumen data aislada. ¿Esto qué significa? Que consumen ecosistemas. Si las corporaciones no proyectan narrativa coherente y técnicamente optimizada en cada una de las fases de su modelo de atribución, el riesgo de ser malinterpretada o ignorada por los algoritmos se eleva exponencialmente. Comunicación líquida para adaptarse a usuarios y canales sin perder la identidad La clave de esta eficiencia radica en la segmentación algorítmica del Buyer Persona . Ya no existe un único perfil de cliente, sino una representación del mismo por cada canal. El usuario que busca una solución técnica en Google no consume la misma narrativa que aquel que busca formación visual en YouTube o cercanía en redes sociales. Las grandes empresas deben, por tanto, definir una línea de comunicación líquida : lo suficientemente sólida para mantener la identidad de marca, pero lo suficientemente flexible para adaptarse a los formatos que los modelos de IA priorizan. En este nuevo escenario, el contenido no",
+      "link": "https://marketing4ecommerce.net/omnicanalidad-transversal-nuevo-alimento-de-los-llm/",
+      "pubDate": "Thu, 16 Apr 2026 07:38:04 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/opinion-aaron-peon-coco-solution.jpg",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "fe0117f6e7c41101e9d1",
+      "title": "Javier Milei y sus medidas, en vivo: la revisión del acuerdo con el FMI y la situación de Adorni ante la Justicia",
+      "summary": "Julio María Sanguinetti suele bromear, y no tanto, con un consejo. Es este: “En política, si pronosticás qué, no digas cuándo; y si pronosticás cuándo, no digas qué”. Javier Milei debería ir aprendiendo la lección. El principal organizador de su gobierno, el objetivo sacralizado de su gestión, acaba de pegarle un golpe bajo . La inflación de marzo fue de 3,4%. El discurso oficial relativiza ese número nefasto, subrayando los factores que lo vuelven transitorio. Pero el perjuicio para Milei es otro. Ya no se cumplirá su vaticinio mayor: la inflación anual en 2026 no será de alrededor del 20% . Con 9,4% en el primer trimestre, los expertos imaginan que a fin de año el porcentaje rondará el 30% . Quiere decir que se mantendrá estable respecto de 2025, cuando marcó 31,5% . El propio equipo oficial está desconcertado. Hay que recordar que hace apenas meses se negó a cambiar la base de cálculo del INDEC porque “van a atribuir a esa modificación y no a nuestro mérito la caída abrupta de la inflación”. Conclusión preliminar: la credibilidad del Presidente comienza a erosionarse en la materia para la cual él se siente más dotado . Peor aún: en la materia para la cual el núcleo de quienes lo votaron lo cree más dotado. Si hubiera que armar una nube de palabras que describiera la realidad argentina de estos días, los siguientes vocablos y expresiones aparecerían muy destacados: testaferros, prestamistas, pagos en negro, evasión, empresas fantasma, facturas posdatadas, omisión de bienes y desvíos de fondos. Son “nubes” que atraviesan, por lo menos, a la AFA, a sindicatos y al Gobierno, pero que tal vez dibujen los contornos de algo más profundo : una especie de moral difusa en nuestra vida pública, en la que los límites éticos se hacen cada vez más laxos y donde tienden a naturalizarse, y contagiarse, conductas difíciles de explicar, que por lo menos juegan al fleje de la legalidad y que contradicen la supuesta “tolerancia cero” a las corruptelas, las avivadas y los privilegios",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-revision-del-acuerdo-con-el-fmi-y-la-situacion-de-adorni-ante-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 07:33:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/EMHV5PNJ6BEWXDSJYUEDDMSC5Y.JPG?auth=91eb01cefb175a026b0ba9a4e26e2fbed992c874c9f0da9c9a1044b3b3d28a1b&smart=true&width=971&height=647"
+    },
+    {
+      "id": "4b34e2736cef8c85d329",
+      "title": "China advierte sobre una etapa crítica en la guerra de Irán",
+      "summary": "Wang Yi sostuvo que es esencial garantizar la libertad y seguridad del tránsito marítimo por el estrecho de Ormuz.",
+      "link": "https://actualidad.rt.com/actualidad/599561-china-adviertir-etapa-critica-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Thu, 16 Apr 2026 07:30:36 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e0898c59bf5b7a341cea4a.jpg"
+    },
+    {
+      "id": "7e3fa1c5976cafd96502",
+      "title": "Perros y gatos en trenes Amtrak: cómo llevarlos y cuánto cobran por tramo en abril 2026",
+      "summary": "En abril de 2026, la empresa de transporte Amtrak tiene una política pet-friendly , por lo que permite a los usuarios viajar con mascotas en sus trenes . La normativa autoriza solo perros y gatos , e incluye una tarifa adicional para quienes deseen llevar a sus animales consigo, además de ciertas restricciones a tener en cuenta y requisitos de transporte y salud . Reglas de Amtrak para viajar con mascotas y tarifas por tramo en EE.UU. Las mascotas forman parte de muchas familias, y para un gran número de personas representan una compañía esencial que hace la diferencia en su día a día. En este marco, Amtrak permite a los usuarios viajar con su mascota de tamaño pequeño a una tarifa económica , pero solo acepta perros y gatos . La compañía de transporte señala en su sitio web oficial que las reservaciones están limitadas a una mascota por cliente , en tanto el cargo se evalúa por cada tramo de viaje . De este modo, no detalla cuánto deben pagar las personas para viajar con su animal, sino que indica que el dinero a abonar varía según la ruta y se mostrará en el resumen de precios al momento de la reserva . Las rutas de Carolina del Norte suelen costar US$29, mientras que la mayoría de las demás valen US$39 . Las mascotas deben ir en una jaula transportadora , que cuenta como equipaje de mano, y pueden pesar hasta 20 libras (9 kilogramos). Ese límite se refiere al peso combinado. Además, solo están permitidas en tramos de hasta siete horas en la mayoría de las rutas , en lo que se incluye el tiempo de transbordo de trenes cuando hay múltiples segmentos. En Canadá , este tipo de viajes no está disponible en el Adirondack, Maple Leaf ni en Amtrak Cascades ; tampoco en el Auto Train, Gold Runner ni en los servicios de Conexión de Amtrak . Otra disposición a tener en cuenta consiste en que el servicio está disponible en Clase Económica y en la Clase Ejecutiva de Acela . No se permiten mascotas en Primera Clase y habitaciones privadas de Primera Clase de Acela, Clase Ejecu",
+      "link": "https://www.lanacion.com.ar/estados-unidos/mascotas-en-trenes-amtrak-que-animales-acepta-y-cuanto-cobra-por-tramo-en-abril-2026-nid15042026/",
+      "pubDate": "Thu, 16 Apr 2026 07:22:57 +0000",
+      "source": "La Nacion",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e075304ec98.jpeg"
+      "image": "https://resizer.glanacion.com/resizer/v2/YQGNQBXOQBFI3HYXN7AVYTCYC4.jpg?auth=cd8926b87a80d1162c89cbe88238b295f7018f40e1ead66f14138fc6e3e68924&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "16042aa91fa6f080a0e3",
+      "title": "Zorin OS 18.1 llega para aprovechar el peor momento de Windows",
+      "summary": "Zorin OS 18.1 es la nueva versión de la distribución GNU/Linux pensada especialmente para atraer a los usuarios desencantados de Windows . Un grupo cada vez mayor ante el mal estado de Windows 11 y la falta de una respuesta rápida y contundente de Microsoft. Linux sigue siendo la mejor alternativa para los usuarios que están hasta el gorro de los problemas de Windows 11, los que aún queriendo no pueden usarlo por el caos de requisitos de hardware y también para los que aún usan Windows 10, una versión sin soporte oficial estándar y cuyo programa de seguridad extendida (ESU) finaliza el próximo octubre. Aunque también puedes pasarte al ecosistema de Apple como alternativa y ahí está el MacBook Neo vendiendo unidades por millones, Linux es simplemente imbatible para actualizar (o recuperar) equipos nuevos o viejos totalmente gratis. Zorin OS 18.1, mejorando lo presente Si de manera general Linux es perfecto para salir del círculo cada vez más viciado de Windows, Zorin OS es una de las distribuciones más recomendables porque -desde su lanzamiento inicial- está pensada especialmente para usuarios de Windows que quieren dar el salto al ecosistema de código abierto. Los 3,3 millones de descargas de Zorin OS 18 confirman que este grupo de usuarios valora el desarrollo. La nueva edición llega seis meses después del lanzamiento de la versión general y contiene novedades de interés, como resumen: mejoras en la interfaz, aumento y optimización en el soporte de hardware, mayor compatibilidad con aplicaciones Windows y la vuelta de una variante &#8216;Lite&#8217; que gustó especialmente a los usuarios que apuestan por la ligereza y bajo consumo de recursos de sistemas operativos. Confirmando que esta distribución está centrada en conseguir que los usuarios de Windows recién llegados se sientan como en casa , uno de los cambios más interesantes es la ampliación de su base de datos integrada para detectar archivos de instalación de aplicaciones populares de Windows en más de un 40",
+      "link": "https://www.muycomputer.com/2026/04/16/zorin-os-18-1-llega-para-aprovechar-el-peor-momento-de-windows/",
+      "pubDate": "Thu, 16 Apr 2026 07:21:30 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Zorin-OS-18.1_2.jpg"
     },
     {
       "id": "1c135359a96a346abdb7",
@@ -1243,6 +1363,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69dfe710c478f.jpeg"
     },
     {
+      "id": "506af985484e0496549b",
+      "title": "California obliga a las apps de remesas a licenciarse antes del 1 de julio: qué pasa si no cumplen",
+      "summary": "California establece el 1 de julio de 2026 como fecha límite para que las apps de remesas, exchanges y wallets de criptomonedas que operen con residentes del estado obtengan una licencia del Departamento de Protección e Innovación Financiera (DFPI, por sus siglas en inglés). La normativa, conocida como DFAL , fue promulgada por el gobernador Gavin Newsom en octubre de 2023 y representa el primer marco regulatorio integral para activos digitales en el estado más poblado del país. Las plataformas que no presenten una solicitud completa ante el DFPI antes de esa fecha deberán suspender sus operaciones con usuarios de California . ¿Qué dice la ley? La DFAL, compuesta por los proyectos AB 39 y SB 401, exige licencia estatal a cualquier entidad que intercambie, almacene o transfiera activos digitales en nombre de residentes de California. Alcanza a exchanges, custodios, proveedores de wallets, operadores de quioscos de cripto y otras plataformas intermediarias , según información publicada por el DFPI . La fecha límite original era el 1 de julio de 2025 , pero la ley AB 1934, firmada en septiembre de 2024, extendió el plazo un año . Qué ocurre si la app no cumple Las plataformas sin licencia ni solicitud en trámite deberán cesar servicios con usuarios de California a partir del 1 de julio. En ese escenario, los usuarios podrían verse obligados a transferir sus fondos a otra aplicación para continuar operando. El DFPI abrió el portal de solicitudes el 9 de marzo de 2026 a través del sistema NMLS, dejando aproximadamente cuatro meses para presentar la documentación . Por qué importa en California California concentra una alta proporción de usuarios de apps de remesas con destino a México, Venezuela y el Caribe , lo que hace especialmente relevante conocer el estado de licenciamiento de cada plataforma. En diciembre, el comisionado del DFPI, KC Mohseni, señaló en Coin Insider que el organismo estaba bien posicionado para proteger a los consumidores de California independient",
+      "link": "https://www.lanacion.com.ar/estados-unidos/california/california-obliga-a-las-apps-de-remesas-a-licenciarse-antes-del-1-de-julio-que-pasa-con-los-fondos-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 07:17:41 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/Z5PPH6GWS5G7JFUUBMKFV5AREE.png?auth=addbcf755608444c2249f1dccf8c246a46bedea639d21cd70dda06ab23c83c13&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "eb3d357c70c41c16ae07",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, jueves 16 de abril",
+      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró que este viernes se llevará a cabo una reunión entre funcionarios de Israel y Líbano . “Ha pasado mucho tiempo desde que los dos líderes hablaron, como 34 años”, escribió en su cuenta de Truth Social . Funcionarios de Irán y el jefe de las fuerzas de Pakistán , Asim Munir, se reunirán este jueves en Teherán, según informó CNN , para dialogar respecto a los mensajes intercambiados con Estados Unidos luego del fracaso de la ronda de negociaciones llevado a cabo en Islamabad. Este miércoles Munir se reunió con el ministro de Asuntos Exteriores iraní, Abbas Araghchi . Luego de ese encuentro, el funcionario del país persa difundió un mensaje en el que reafirmó el compromiso de Irán de “promover la paz y la estabilidad en la región”. La directora gerente del FMI, Kristalina Georgieva , advirtió este miércoles que se vienen “tiempos difíciles” para la economía mundial si la guerra en Medio Oriente no se resuelve y los precios del petróleo se mantienen altos, según informó AFP . “Debemos prepararnos para tiempos difíciles” si el conflicto persiste, dijo ante periodistas en una rueda de prensa que se llevó a cabo durante las reuniones de primavera del Fondo Monetario Internacional y el Banco Mundial en Washington. “Nos preocupan los riesgos para la inflación , que se trasladen a los precios de los alimentos si no se reanudan pronto las entregas de fertilizantes a un precio razonable”, detalló Georgieva. A través de su cuenta oficial de X, el Departamento de Guerra de Estados Unidos anunció la realización de una conferencia de prensa para las próximas horas. El adelanto detalla que será el secretario de Defensa, Pete Hegseth , quien lleve a cabo la conferencia, que girará en torno a la guerra en Medio Oriente. ANNOUNCEMENT: pic.twitter.com/t0i56pPbcS Department of War 🇺🇸 (@DeptofWar) April 16, 2026 WASHINGTON.– “Peligroso e irresponsable” . Así calificó China el bloqueo de Estados Unidos al petróleo iraní que atraviesa el",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-jueves-16-de-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 07:14:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/LHYIXGJC65CKNI7RZG4YAEWQAY.JPG?auth=294a1e59f63ab48ad6ad75b200de710776bfd64ae369f88f894d6642a2b2de4e&smart=true&width=8256&height=5504"
+    },
+    {
       "id": "665ca8ad610a0af36569",
       "title": "El Madrid viaja a la Youth con 34 millones de euros en 'joyas'",
       "summary": "La plantilla del Juvenil A, tras ganar al Sporting de Portugal y clasificarse para la Final Four de la Youth.",
@@ -1261,6 +1401,66 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e06dced62ad.jpeg"
+    },
+    {
+      "id": "71b997e45df426763a39",
+      "title": "El SMN emitió una alerta amarilla por lluvias para este jueves en la Ciudad y la provincia de Buenos Aires",
+      "summary": "El área más afectada es la zona costera desde Magdalena hasta Miramar, pasando por el partido de La Costa, donde la advertencia se extiende hasta la tarde. Cómo estará el clima en el AMBA.",
+      "link": "https://www.clarin.com/sociedad/smn-emitio-alerta-amarilla-lluvias-jueves-ciudad-provincia-buenos-aires_0_sBjaStaHDN.html",
+      "pubDate": "Thu, 16 Apr 2026 07:00:26 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/03/27/JkNAc4otN_1200x630__1.jpg"
+    },
+    {
+      "id": "385ec10dc9915cfeac6d",
+      "title": "Dólar blue hoy: a cuánto cotiza este jueves 16 de abril",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-jueves-16-abril_0_i91Y6RYDIm.html",
+      "pubDate": "Thu, 16 Apr 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2017/09/30/ryWILzajb_1200x630.jpg"
+    },
+    {
+      "id": "3b6baf960fc560b5abe5",
+      "title": "¿Tenés humedad en casa y no sabés por qué? Las claves para identificarla",
+      "summary": "Durante temporadas lluviosas con variaciones constantes de temperatura, las viviendas pueden presentar acumulaciones de humedad en paredes, rincones y ventanas . Este fenómeno, si no se trata a tiempo, puede derivar en problemas como moho, olores persistentes y deterioro de materiales . Un arquitecto técnico explica cómo identificar cada tipo de humedad y qué soluciones aplicar en cada caso. En contextos climáticos donde las lluvias son frecuentes y las temperaturas fluctúan, es habitual que aparezcan signos de humedad dentro de las viviendas. Aunque en muchos casos se percibe como un inconveniente menor, su persistencia puede generar afectaciones visibles como desprendimiento de pintura o aparición de moho. El arquitecto técnico Jordi Martí, conocido como Jordimartix en redes sociales, indica que el primer paso para abordar este tipo de problemas consiste en reconocer su origen. “El primer paso para resolver un problema de humedades está en identificar el tipo que está presente en la vivienda”. @jordimartix Tarde o temprano te va a tocar saber esto: Tipos de humedades y cómo se solucionan. ♬ so original - jordimartix Tipos de humedad en viviendas y sus causas Entre las formas más comunes se encuentra la humedad por capilaridad . Este fenómeno ocurre cuando el agua asciende a través de los muros desde el suelo, de forma similar a cómo un líquido sube por un material poroso. Incluso si las paredes cuentan con recubrimientos como pintura o mortero de cal, estos no actúan como barreras impermeables efectivas. Según el especialista, el uso de pintura puede favorecer que el agua alcance niveles más altos de los esperados. Para estos casos, propone varias alternativas: 1. Inyectar resinas en el interior del muro. 2. Mejorar los sistemas de drenaje alrededor de la vivienda. 3. Realizar cortes en el muro para incorporar barreras impermeables. Otro tipo frecuente es la humedad por condensación , que se produce debido a diferencias de temperatura entre el ambiente y las super",
+      "link": "https://www.lanacion.com.ar/lifestyle/tenes-humedad-en-casa-y-no-sabes-por-que-las-claves-para-identificarla-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/TOK6PHVAXNGKJKG4S3O7B5B2DU.JPG?auth=3f9718710fdecff695f916f2196ce12e4c1e5e2d8ec24f92f869631f4bf46951&smart=true&width=2000&height=1334"
+    },
+    {
+      "id": "56325798046205defdd0",
+      "title": "BrownMark, bajista de The Revolution, brindó detalles de cómo fueron los últimos meses de Prince: “Algo andaba mal”",
+      "summary": "A diez años de la muerte de Prince, uno de sus compañeros de banda rompió el silencio y reveló que algo extraño le sucedía al músico en los meses previos a su sobredosis de fentanilo. “Sabía que algo andaba mal”, declaró BrownMark, bajista de The Revolution entre 1981 y 1986, a Page Six. “Algo no estaba bien con su memoria ni con su comportamiento”, indicó. A pesar de que hacía años que no estaban en contacto, BrownMark describió su relación con Prince como “una hermandad” que podía volverse volátil. Por eso, no se sorprendió del todo cuando un conocido de ambos, Jim Lundstrom, conserje de Paisley Park, la icónica finca, estudio de grabación y complejo creativo de 6000 del intérprete de “Purple Rain” lo llamó. View this post on Instagram “Me dijo: ‘Mark, tengo la sensación de que él te va a contactar, porque no para de hablar de vos’”, recordó BrownMark. Prince, le dijo Lundstrom, estaba arrepentido de sus errores del pasado y dispuesto a enmendarlos. Poco después, sonó el teléfono de BrownMark. “[Prince] me dice: ‘Quiero que vueles a Minneapolis. Vamos a organizar algunas cosas. Quiero ver si quieres participar’”. Para BrownMark, eso fue suficiente. Su relación siempre había sido complicada: “Ambos éramos dominantes. ”Siempre fuimos así“, explicó. Sin dudarlo, abandonó y voló a Minneapolis. Pero cuando llegó, se encontró con una situación incomprensible: ”Prince “se olvidó de que me había convocado allí”, relató. El bajista pasó días sentado en su hotel, solo, esperando hasta que un día se encontró con el baterista John Blackwell Jr. en el vestíbulo. “No tengo el número de teléfono de Prince y no sé cómo contactarlo. He estado aquí sentado. No sé qué está pasando”, recordó haber dicho. Cuando Blackwell le informó a Prince que BrownMark estaba en el hotel, la respuesta, según el bajista, fue: “¿Qué? ¿Qué hace allí? ¿Lo trajiste vos? ¡Oh, lo olvidé!”. View this post on Instagram Sorteado el primer inconveniente, cuando BrownMark finalmente llegó a Paisley Park se dio",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/brownmark-bajista-de-the-revolution-brindo-detalles-de-como-fueron-los-ultimos-meses-de-prince-algo-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:51:40 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/EKL4LVSMSNBVBI5ZWNT35CTMFA.jpg?auth=64ff1b70962b07aca8d3ed762098dda114cbb7cdb719142dc266ac45c987e622&smart=true&width=1080&height=608"
+    },
+    {
+      "id": "631f4d9fd2ce09a0bd9a",
+      "title": "Día 48 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente entró este jueves 16 de abril en su 48° día de guerra . Después de las fallidas negociaciones en Pakistán y del bloqueo de Estados Unidos a puertos iraníes, la tensión aumentó. Donald Trump sostuvo que este viernes habrá una reunión entre funcionarios de Israel y Líbano. Kristalina Georgieva, titular del FMI, dijo que pueden venir “ tiempos difíciles ” para la economía global si se prolonga el asedio sobre Teherán. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Donald Trump sostuvo que este viernes habrá una reunión entre funcionarios de Israel y Líbano . Kristalina Georgieva sostuvo que pueden venir “ tiempos difíciles ” si se prolonga el conflicto en Medio Oriente. Estados Unidos activa el bloqueo naval del estrecho de Ormuz y Trump afirma que Irán quiere seguir el diálogo. Funcionarios de Rusia y de China se reúnen para discutir sobre el conflicto en Medio Oriente. Otros hechos de importancia Se llevará a cabo una reunión entre funcionarios de Irán y de Pakistán para dialogar sobre los mensajes intercambiados con EE.UU. . El papa León XIV pidió por la paz en el Líbano y reclamó un cese al fuego. En respuesta a las expresiones del Papa, el mandatario estadounidense le respondió: “No quiero un Papa que piense que está ok que Irán tenga un arma nuclear”. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos terminado, tomen el contr",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-48-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:50:58 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/CGCEQ6IKUBAB7GU5GF6WXBR7FI.JPG?auth=f54da78a5a9516382a0a7c267cdd55755b5cccaaaa638ed1eac1972ad1709fd2&smart=true&width=5293&height=3528"
+    },
+    {
+      "id": "14cdcb7f5e41c259e38e",
+      "title": "AFP: El Líbano \"no tiene conocimiento\" de un próximo contacto con Israel pese al anuncio de Trump",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/599559-afp-libano-tiene-conocimiento-proximo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Thu, 16 Apr 2026 06:50:55 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "de650d63399f056da799",
@@ -1283,6 +1483,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/10/69d8c8cee9a01.jpeg"
     },
     {
+      "id": "77f022aeabf725745a2f",
+      "title": "Un colectivo desbarrancó, cayó a un abismo, se prendió fuego y murieron 11 personas en Ecuador",
+      "summary": "QUITO.- Un trágico accidente sacudió a la ciudad de Cuenca , al sur de Ecuador : un colectivo desbarrancó, cayó a un abismo y se prendió fuego. El accidente dejó un saldo de 11 personas muertas y otras 20 heridas . Las primeras pericias indicaron que el chofer de la Cooperativa San Luis habría perdido el control del vehículo. El colectivo circulaba por la ruta 315, en la zona de San Felipe de Molleturo, cuando desbarrancó . Luego de que la unidad cayera por el precipicio e impactara en tierra firme, las llamas se apoderaron del vehículo, señalaron medios locales. En declaraciones a la prensa, Sixto Heras, jefe de Bomberos de Cuenca, apuntó que se enviaron ambulancias y vehículos particulares . Además, personal del Ministerio de Salud de Ecuador también participó en el operativo. \" Hay víctimas fatales que están fuera del vehículo y el autobús quedó prácticamente consumido “, señaló Heras. #Atención 🧑‍🚒🚒 Las labores de recuperación de las víctimas del accidente de tránsito en la vía #Cuenca - Molleturo, continúan. Personal y equipos de #BomberosCuenca apoyan el trabajo de las autoridades encargadas. pic.twitter.com/k7Lsg2YTWR Bomberos Cuenca (@Bomberos_Cuenca) April 16, 2026 Luego de la tragedia, el trabajo de los rescatistas se prolongó por varias horas, asistiendo a los heridos y ayudando en su traslado a los centros de salud de la zona. La mayoría presentó traumatismos severos y más de uno fue socorrido a la vera de la ruta. Lugareños indicaron que, tras el accidente, una columna de humo negro se apoderó de un área donde suele predominar el verde de la vegetación. Por otro lado, precisaron que la ruta es conocida por su complejidad geográfica y la frecuencia de incidentes climáticos que afectan la calzada. Según estadísticas oficiales, en lo que va de 2026 se registraron 1595 accidentes en Ecuador, con un saldo total de 206 muertos . Un accidente similar A finales del 2025, al menos 22 personas murieron y otras 10 resultaron heridas luego de que un micro de pasaje",
+      "link": "https://www.lanacion.com.ar/el-mundo/un-colectivo-desbarranco-cayo-a-un-abismo-se-prendio-fuego-y-murieron-11-personas-en-ecuador-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:46:34 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/S2HYH5QMIJDQFJCGSP3UR63SGM.png?auth=1bb17fd1d214ffdc3e847daf086583a7a9805b8019511fa0e9bbef48be4ff281&smart=true&width=1212&height=649"
+    },
+    {
+      "id": "c5d9de924fbc71d6b9d4",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo",
+      "summary": "Un hombre delante de un edificio destruido por los ataques aéreos de Isral, el jueves en Beirut.",
+      "link": "https://elpais.com/internacional/2026-04-16/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Thu, 16 Apr 2026 06:44:34 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/M6DLR7THL5DQFEGFGACRM74EYI.JPG?auth=9e07c3c55961f00b74ce5c967e3fd2efd84e5c9fba11ae75dbfb349fc2e17468"
+    },
+    {
       "id": "ede24edbcabaa5e700bd",
       "title": "Valdano visualiza el futuro del Madrid tras caer eliminado",
       "summary": "Valdano visualiza el futuro del Madrid tras su eliminación: \"El equipo necesita fichajes y Arbeloa puede pagar las consecuencias\"",
@@ -1303,6 +1523,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e066cbf0a7f.jpeg"
     },
     {
+      "id": "3111dd6982b1e7a33a51",
+      "title": "Alicia Jackson, directora de ARPA-H y los tratamientos sobre osteoartritis : “En un futuro no habrá que despertarse con dolor”",
+      "summary": "La osteoartritis representa hoy una de las mayores causas de discapacidad en Estados Unidos . Nuevas terapias consiguieron avances en la regeneración biológica de los tejidos , en lugar de las prótesis de metal y plástico, según infomó la Agencia de Proyectos de Investigación Avanzados para la Salud ( ARPA-H ). Terapias contra la osteoartritis, enfocadas en la rodilla Los tratamientos se concentraron en sus efectos en la rodilla , aunque los investigadores creen que las soluciones podrían aplicarse, con el tiempo, a cualquier articulación afectada por la enfermedad. La osteoartritis afecta a 32 millones de personas y genera u n gasto anual superior a los 132.000 millones de dólares para el sistema de salud. Ante este escenario, ARPA-H, entidad dependiente del Departamento de Salud y Servicios Humanos, impulsa un cambio de paradigma radical mediante el programa Nitro . “Vamos a un futuro donde las personas no tengan que despertarse con dolor, renunciar a las actividades que aman o enfrentar cirugías mayores y reemplazos articulares repetidos” , sostuvo Alicia Jackson, directora de la agencia , durante la presentación de los resultados preliminares, según un comunicado oficial . La científica remarcó que el progreso del programa Nitro permite que las articulaciones dañadas recuperen su funcionamiento natural, lo cual reduce drásticamente el malestar físico y ofrece una alternativa real a las cirugías de reemplazo . El propósito, según sus palabras, radica en restaurar el movimiento natural y apoyar la longevidad para que los ciudadanos vivan la vida que desean. El programa , que recibió financiamiento para su ejecución hace dos años, ya alcanzó hitos preclínicos significativos en modelos animales . Equipos de investigadores en las universidades de Duke, Colorado Boulder y Columbia lograron regenerar hueso y cartílago con éxito. Ross Uhrich , gerente del programa Nitro, planteó desde el inicio una pregunta fundamental: “¿Qué pasaría si nuestras articulaciones se curara",
+      "link": "https://www.lanacion.com.ar/ciencia/alicia-jackson-directora-de-arpa-h-y-los-tratamientos-sobre-osteoartritis-en-un-futuro-no-habra-que-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:26:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/BHBXCIY6CVA5TDG7CLWS6VQGA4.jpg?auth=6b6f18563b7d5a1d8a8ccaf73e4d4b18d42b26a06128ce4731c2d5d8305665a3&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "9dda7cb728a24ffdd1f4",
       "title": "Pablo Motos se disculpa tras la polémica por el IVA de los libros: \"Nadie comprobó el dato\"",
       "summary": "Pablo Motos en 'El Hormiguero'",
@@ -1313,14 +1543,136 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e064ab16903.jpeg"
     },
     {
-      "id": "8a5f57f79e28d6dcc50e",
-      "title": "El Bayern vacila al Madrid con el espíritu de Juanito",
-      "summary": "Juanito y el detalle.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/16/bayern-vacila-madrid-espiritu-juanito-90-minuti-bernabeu-son-molto-longo.html",
-      "pubDate": "Thu, 16 Apr 2026 06:18:27 +0200",
+      "id": "b799421e6277df7defc7",
+      "title": "Primeras palabras de Aitana tras los rumores de crisis con Plex: \"No me gusta pronunciarme pero...\"",
+      "summary": "Aitana y Plex",
+      "link": "https://www.marca.com/tiramillas/musica/2026/04/16/primeras-palabras-aitana-rumores-crisis-plex-me-gusta-pronunciarme.html",
+      "pubDate": "Thu, 16 Apr 2026 06:16:17 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/08/08/6895fa6e24dc9.png"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e06239bb77b.jpeg"
+    },
+    {
+      "id": "b22ac1ecc0177b3e6cdc",
+      "title": "La FIFA asegura que Irán jugará el Mundial pese a la guerra",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/599556-fifa-asegurar-iran-jugar-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Thu, 16 Apr 2026 06:14:57 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "5a540c96733aa172324b",
+      "title": "Condenado a cadena perpetua por un asesinato sobre el cual había consultado con ChatGPT",
+      "summary": "La jueza señaló que las respuestas de la IA le parecieron \"más empáticas y humanas\" que las del propio acusado.",
+      "link": "https://actualidad.rt.com/actualidad/599554-condenado-cadena-perpetua-asesinato-consultar-chatgpt?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Thu, 16 Apr 2026 06:13:16 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e076e059bf5b048554d1af.jpg"
+    },
+    {
+      "id": "d7a1725b19c52007634b",
+      "title": "Cuatro potenciales escenarios a los que puede dirigirse el conflicto entre EE.UU. e Irán",
+      "summary": "Se cree que Estados Unidos está discutiendo con Irán una segunda ronda de conversaciones para un alto el fuego coincidiendo con la llegada de una delegación pakistaní a Teherán. De momento sigue vigente un alto el fuego de dos semanas después de que más de veinte horas de conversaciones entre EE.UU. e Irán -organizadas por Pakistán- concluyeran el domingo sin lograr avances significativos. Apenas un día después de esas discusiones inconclusas, el presidente Donald Trump anunció lo que describió como su nueva estrategia hacia Irán que incluye un bloqueo de los puertos iraníes. ¿ Cómo debemos interpretar este fracaso inicial para llegar a un acuerdo y la perspectiva de futuras conversaciones ? ¿Se dirigen Irán y Estados Unidos hacia una escalada controlada o hacia una deriva inevitable a una guerra de mayor envergadura? Presentamos cuatro escenarios posibles sobre lo que podría ocurrir a continuación. Un alto el fuego frágil como “pausa táctica” Tras semanas de combates, el alto el fuego entre EE.UU. e Irán pareció indicar una voluntad de contener la crisis . Sin embargo, desde el principio ha estado rodeado de ambigüedades. Las diferencias en la interpretación de los términos -incluyendo su alcance geográfico, los tipos de objetivos abarcados e incluso la definición de una “ violación del alto el fuego ”- han llevado a algunos observadores a considerar el acuerdo más como una pausa táctica que como un marco sostenible. “Las probabilidades de llegar a un acuerdo eran cercanas a cero desde el principio, una vez que comenzó el conflicto ”, afirmó Behnam Ben Taleblu, investigador en la Fundación para la Defensa de las Democracias, un think tank con sede en Washington. “Se trata de un conjunto de principios, posturas y políticas sobre los cuales Estados Unidos y la República Islámica han discrepado durante años y, a corto plazo, la guerra no solo no ha logrado reducir estas diferencias, sino que las ha intensificado ”, indicó a BBC News Persian . Mientras tanto, las decla",
+      "link": "https://www.lanacion.com.ar/el-mundo/cuatro-potenciales-escenarios-a-los-que-puede-dirigirse-el-conflicto-entre-eeuu-e-iran-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:11:15 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/C2LLEPYBPBE77IX23UFB6G5YYM.jpg?auth=edca2fb197f9403bf8e34aefc063f8525b865ae7fca762a752ade0270ec3fc11&smart=true&width=800&height=452"
+    },
+    {
+      "id": "ed1387bd370921b79909",
+      "title": "Adobe Firefly se refuerza: IA para vídeo, nuevos modelos y más integración",
+      "summary": "La creación de vídeo vive uno de los momentos más dinámicos de su historia reciente, impulsada por la integración de inteligencia artificial en prácticamente todas las fases del proceso creativo. En ese contexto, Firefly , la plataforma de IA generativa de Adobe , se ha convertido en una pieza clave dentro del ecosistema de herramientas de la compañía . Con su última actualización, Adobe amplía aún más sus capacidades, incorporando nuevas funciones centradas en el vídeo y reforzando la conexión entre Firefly y aplicaciones como Premiere, After Effects o Frame.io. Uno de los pilares de este anuncio es la evolución del editor de vídeo de Firefly, que continúa consolidándose como una herramienta para generar y editar contenido audiovisual directamente desde el navegador . Este editor permite combinar clips generados mediante IA, material propio del usuario y música dentro de una línea de tiempo multipista, con la posibilidad de editar tanto de forma tradicional como mediante instrucciones de texto. Adobe ha añadido además nuevas capacidades de audio , incluyendo herramientas como Mejorar la voz, que limpia automáticamente los diálogos y permite ajustar ruido, reverberación y equilibrio entre pistas de voz, música y ambiente. Otra de las novedades destacadas es la incorporación de nuevos modelos de generación de vídeo, entre los que se encuentran Kling 3.0 y Kling 3.0 Omni . Estos modelos están diseñados para facilitar la creación de storyboards, sincronización audiovisual y producción de vídeo generativo con mayor control creativo. La versión Omni, en particular, permite definir parámetros más avanzados como duración de las tomas, ángulo de cámara o movimiento, lo que abre la puerta a flujos de trabajo más cercanos a la producción profesional. Con estas incorporaciones, Firefly supera ya los 30 modelos disponibles para generar contenido visual y audiovisual. El propio editor de Firefly también amplía su funcionalidad con la integración directa de Adobe Stock , lo que p",
+      "link": "https://www.muycomputer.com/2026/04/16/adobe-firefly-se-refuerza-ia-para-video-nuevos-modelos-y-mas-integracion/",
+      "pubDate": "Thu, 16 Apr 2026 06:11:02 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Adobe-2.jpg",
+      "subcat": "diseño"
+    },
+    {
+      "id": "d9a42b56bc47185da090",
+      "title": "Gaten Matarazzo reacciona al final de Eleven en Stranger Things",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El final de Stranger Things sigue dando que hablar semanas después de su estreno, y uno de los puntos más debatidos sigue siendo el destino de Eleven. La escena final dejó abierta una interpretación que ha dividido a la audiencia, con quienes creen que el personaje interpretado por Millie Bobby Brown no sobrevivió y quienes confían en que sigue con vida. Ahora, faltaba una voz clave dentro del reparto, y ya la tenemos. Gaten Matarazzo , el actor que da vida a Dustin, ha reaccionado por fin al desenlace de Stranger Things, y lo ha hecho con una reflexión que, lejos de cerrar el debate, lo mantiene más vivo que nunca. Gaten Matarazzo se moja sobre el final de Eleven en Stranger Things Durante una entrevista con THR , Gaten Matarazzo habló tanto de su nuevo proyecto como del final de Stranger Things, y era inevitable que surgiera la gran pregunta: ¿Qué pasó realmente con Eleven? Su respuesta es interesante porque combina la perspectiva del personaje con la suya propia. El actor explicó que Dustin, fiel a su forma de ver el mundo, probablemente asumiría el peor escenario. No es un optimista como Mike, sino alguien que se guía por pruebas, lógica y lo que tiene delante. Eso marca mucho la forma en la que interpreta el desenlace. “(Ríe.) Al principio pensaba: voy a seguir sin pronunciarme. Pero luego todo el mundo empezó a decir lo que pensaba, así que quizá debería hacer lo mismo. Pero siento que sería un bajón subirme a ese tren y decir que también creo que está muerta. Definitivamente creo que Dustin piensa que está muerta. Es un tipo pragmático, científico, que mira todas las pruebas que tiene delante, y no creo que realmente lo creyera como alguien optimista como Mike. Pero por su amiga, probablemente siempre dirá que cree que está viva” , dijo Matarazzo. Netflix Y aquí es donde viene lo realmente interesante. Cuando deja de hablar como Dustin y pasa a opinar como espectador, su respuesta se vuelve mucho m",
+      "link": "https://www.cinemascomics.com/gaten-matarazzo-habla-final-stranger-things/",
+      "pubDate": "Thu, 16 Apr 2026 06:01:23 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Matarazzo-Dustin.jpg"
+    },
+    {
+      "id": "5d55f6be136d237427a1",
+      "title": "Reina Máxima. Una valija “color esperanza”, su encuentro con Melania Trump, una camiseta de fútbol y hasta un partido de dominó",
+      "summary": "Máxima y Guillermo de los Países Bajos aterrizaron el lunes en el Aeropuerto Internacional de Filadelfia, Pensilvania, como parte de una visita de tres días a Estados Unidos con escalas, además, en Washington D.C y Miami. Se trata de un viaje pensado para subrayar y fortalecer los vínculos entre ambos países que, sin embargo, también generó polémica por el timing en el que se da, dada la tensión por la guerra de Irán. Experto piloto (vuela desde hace años para KLM y pronto deberá volver a entrenarse ya que la aerolínea renovará su flota y cambiará los Boeing por los Airbus), el Rey ofició de copiloto del vuelo en el que también estaba el primer ministro de los Países Bajos, Rob Jetten. Como es costumbre, desde que aterrizaron Máxima cautivó con cada look, pensado en detalle para que la moda hable por ella, algo que cada vez hacen más las royals. LUGARES HISTÓRICOS Y FÚTBOL AMERICANO En Pensilvania, Máxima eligió destacar el talento neerlandés con un set compuesto por top, pantalón ancho y chal, todo con brillos, firmado por Jan Taminiau, uno de sus diseñadores de cabecera. Experta como pocas en darles nuevas oportunidades a sus estilismos (puede repetir muchas veces aquello que le gusta y le queda bien), a este se lo habíamos visto en 2017, durante una reunión con la organización Single Supermom. La agenda arrancó con la bienvenida del gobernador Josh Shapiro y su mujer, Lori, que los guiaron en un recorrido por el Independence Hall, donde se conmemorará el 250º aniversario de la independencia de Estados Unidos y hablaron del papel que los Países Bajos desempeñaron en ella. También se reunieron con empresarios y visitaron el Jefferson Health Training Complex, donde entrena Philadelphia Eagles, el equipo de fútbol americano local. Para este primer tramo del día, Máxima volvió a apostar al verde, esta vez con un vestido midi del diseñador danés Claes Iversen, que es el mismo que llevó en octubre pasado, con motivo de la proclamación del Gran Duque Guillermo y la Gran ",
+      "link": "https://www.lanacion.com.ar/revista-hola/reina-maxima-una-valija-color-esperanza-su-encuentro-con-melania-trump-una-camiseta-de-futbol-y-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/TZOTD332GRBA3PYLZXENGI6JEA.jpg?auth=bbefb40b81941eb7c8d0398b1f687a2af7b8bd00648177ce517f5033c5f9d63c&smart=true&width=2000&height=1333",
+      "subcat": "mercado"
+    },
+    {
+      "id": "22f90bb853e2021cfece",
+      "title": "Un grupo de socios en el Lawn Tennis Club rescató a dos gatitos hermanos con una enfermedad: “Resaltó su fuerza y alegría de vivir”",
+      "summary": "En el corazón de Palermo, donde el bullicio urbano convive con la calma de los espacios verdes, a fines de diciembre pasado comenzó a gestarse una historia de rescate que estuvo atravesada por la pérdida y las nuevas oportunidades. Cuando la ciudad se preparaba para las fiestas de fin de año, Manso y Oliva, junto a su madre y otros hermanos, sobrevivían en un contexto de extrema vulnerabilidad. Fue entonces cuando un grupo de socios del Buenos Aires Lawn Tennis Club, sensibilizados por su situación, decidieron unir fuerzas para rescatarlos. No podían permitir que continuaran expuestos a los peligros y la indiferencia. Vivían en un espacio del club con poca circulación de personas, en uno de esos lugares destinados al guardado de materiales. De modo que tenían una amplia variedad de opciones para esconderse sin ser vistos. Los mismos socios y los trabajadores del lugar que cuidan las canchas se ocupaban de darles de comer y cuidarlos, sabiendo que lo mejor para ellos era salir de ahí y tener un hogar. Por esa razón pidieron ayuda a una agrupación de rescatistas de la zona. Lo rescató enfermo, los veterinarios sugirieron la eutanasia pero una corazonada lo mantuvo con vida: “Dejalo una semana más” La mamá era muy sociable y confiada. Y, el día del rescate, simplemente una socia del club la tomó en brazos, la puso en un bolsito y cambió su vida. Lo que costó fue que los cachorros confiaran. Ya no eran bebitos de 40 días, sino un poco más grandes y eso los hace mas tímidos y cautelosos. Además que saben esconderse y camuflarse muy bien. Pero con mucha paciencia, los socios lo lograron. El rescate fue un éxito . Y pronto la gatita mamá encontró un hogar. Sin embargo, quedaban los cuatro bebés, y la responsabilidad de cuidarlos recayó en manos amorosas que se aseguraron de que recibieran atención veterinaria, desparasitación, una buena alimentación y un seguimiento clínico riguroso. Fue cuando Manso y Oliva llegaron al tránsito de Daiana, de Gatitos de Belgrano Adopciones",
+      "link": "https://www.lanacion.com.ar/lifestyle/un-grupo-de-socios-en-el-lawn-tennis-club-rescato-a-dos-gatitos-hermanos-con-una-enfermedad-resalto-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/DR4HX5REDFHJBAKWKZ4WGNC5PU.jpg?auth=f42661a6b3bdfef597813148f9bbb81dfa85369781868414486509f144dfa1dd&smart=true&width=1200&height=1600"
+    },
+    {
+      "id": "22806148c64761385763",
+      "title": "El granero de dos pisos que Home Depot vende por menos de US$13.000 en 2026 y puede usarse como vivienda",
+      "summary": "En Estados Unidos, algunas tiendas como Home Depot ofrecen estructuras prefabricadas que pueden adaptarse a distintos usos. Recientemente, se popularizó una construcción de dos pisos con formato de granero . Además, puede usarse como vivienda y cuesta menos de 13.000 dólares. ¿Qué incluye el granero de dos pisos que vende Home Depot? El kit del modelo Handcrafted Homestead XL de Best Barns, que se comercializa a un precio promocional por US$12.565 , es una estructura de madera de 16 x 24 pies (aproximadamente 4,8 x 7,3 metros). Está diseñado como un espacio amplio para taller , almacenamiento o uso multifuncional, según Home Depot . De acuerdo con FinanceBuzz , la estructura tiene otros usos, como una alternativa intermedia entre construir desde cero o adquirir una vivienda prefabricada . Su diseño permite transformar el entrepiso en un dormitorio. Entre las características principales de este granero están: Un segundo piso tipo loft con altura libre de 7 pies y 1 pulgada (aproximadamente 2,16 metros) Paredes inferiores de 8 pies y 1 pulgada (aproximadamente 2,46 metros) Una escalera incluida que puede ser ubicada en cualquiera de las cuatro esquinas Capacidad para soportar hasta 45 libras de carga de nieve (aproximadamente 220 kg/m²) Resistencia a vientos de hasta 130 millas por hora (aproximadamente 209 km/h) El interior ofrece un volumen de almacenamiento de 5058 pies cúbicos (aproximadamente 143,2 metros cúbicos). El entrepiso soporta una carga de 40 libras por pie cuadrado (aproximadamente 195 kg/m²). El diseño incorpora un sistema de vigas SecureTruss y los paneles exteriores están tratados contra la humedad, hongos e insectos . A su vez, el producto cuenta con una garantía de 15 años y una política de devolución dentro de los 90 días. Lo que no incluye el granero de venta en Home Depot La estructura no incluye puertas, ventanas ni piso , por lo que el comprador puede adquirir estos elementos por separado y personalizarlos a su gusto . Otro detalle importante ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/el-granero-de-dos-pisos-que-home-depot-vende-por-menos-de-us13000-en-2026-y-puede-usarse-como-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/ASTLRLWSARA4HMCBYD73ZYRWMQ.png?auth=f80525a7b0cbc22dce7fcfe317c15e3b5cbb7c48795a290768383f6cd3f47ec9&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "7198eb04bda469911cb9",
+      "title": "Charlotte Casiraghi. La hija de la princesa Carolina de Mónaco protagonizó un momento de película junto a su novio",
+      "summary": "El fin de semana, hubo cumbre familiar (y mucho amor) en Mónaco: fanáticos del tenis, los Grimaldi dijeron presente en la final del Masters 1000 de Montecarlo, donde Jannik Sinner se impuso a Carlos Alcaraz . En el Montecarlo Country Club, Charlene y Alberto de Mónaco estuvieron rodeados por C harlotte Casiraghi , que aprovechó la ocasión para hacer oficial su relación con el escritor francés Nicolas Mathieu , con quien sale hace dos años (eso sí: ella se sentó en el palco oficial, cerca de su tío, y él en una tribuna); la princesa Alexandra de Hannover , que volvió a Mónaco acompañada por su novio, Ben-Sylvester Strautmann ; así como también Pauline y Louis Ducruet , inseparable de su mujer, Marie, y Mélanie-Antoinette de Massy , prima de Su Alteza Serenísima y presidenta de la federación de tenis del principado, además de máxima responsable de la organización del torneo. Al igual que el novio de la hija de Carolina de Mónaco , Alexandre Grimaldi también se sentó en una tribuna aparte. El hijo que el príncipe Alberto tuvo durante una brevísima relación con la azafata togolesa Nicole Coste posó para los fotógrafos al llegar al court. Y aunque en ningún momento estuvo junto a su padre (al menos de manera pública), de un tiempo a esta parte se lo ve integrado en la vida social y pública del principado y mantiene muy buena relación con su tía, Estefanía, y con su prima, Pauline, con quien, además, comparte la pasión por la moda. De hecho, aunque estudia negocios empresariales en Reino Unido, ya fue embajador de marcas de lujo en diferentes campañas publicitarias. AMOR Y PRIMAS LEJANAS QUE SON CERCANAS El hecho de que Charlotte Casiraghi haya elegido un evento público en el que estaba su tío para presentar a su novio desde hace dos años es, para muchos, una manera de decir “esto es oficial”. Sobre Nicolas se sabe que su padre era mecánico, su madre contadora, que nació en el barrio obrero de Espinal, en los Vosgos (en el noreste de Francia), y que en 2018 ganó el Premio",
+      "link": "https://www.lanacion.com.ar/revista-hola/charlotte-casiraghi-la-hija-de-la-princesa-carolina-de-monaco-protagonizo-un-momento-de-pelicula-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/4NUWI2Y2IZCCBIM5DNWFDCRFSE.jpg?auth=ca2b33bcd072ab197b9d220440bb717de846200d0cf47c821eefe14d2cfc8cf5&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "12bab123fa07842cbe55",
+      "title": "Juan Bautista Mahiques designó a su hermano Esteban como titular de asesores en el Ministerio de Justicia",
+      "summary": "El Gobierno designó a Esteban Mahiques como titular de la Unidad Gabinete de Asesores del Ministerio de Justicia . La medida fue oficializada este jueves mediante el Decreto 251/2026 publicado en el Boletín Oficial y cuenta con las firmas de su hermano y ministro de Justicia, Juan Bautista Mahiques, y del presidente Javier Milei . El texto indica que el cargo será desempañado ad honorem , lo que implica que no percibirá remuneración por el desempeño de esa función. Asimismo, fija como fecha de inicio el 6 de marzo de 2026 . Esteban Mahiques se desempeñaba como funcionario de la Cancillería y fue miembro del Tribunal de Disciplina de la AFA . El hombre de 43 años, había sido señalado por supuestos vínculos con el tesorero de la AFA, Pablo Toviggino , en medio de las denuncias contra el dirigente del fútbol local realizadas por ARCA y que incluyen al titular del organismo, Claudio Tapia . Estaban es el hermano menor de Juan Bautista, exmiembro de la Comisión de Ética de la Conmebol y exfiscal general de CABA, y hermano mayor de Ignacio Mahiques , juez de Cámara en la Ciudad de Buenos Aires. Es hijo de Carlos Mahiques , camarista de la Casación que, según reveló LA NACION festejó su cumpleaños en la fastuosa quinta atribuida a Toviggino en Pilar, una de las propiedades allanadas e investigadas por la Justicia. En las últimas horas, el extitular de la Inspección General de Justicia (IGJ), Daniel Vitolo , aseguró que, tras el desembarco de los Mahiques en Justicia, las cusas por evasión fiscal que sacudieron los cimientos de la sede del fútbol argentino podrían no prosperar. “ Yo no tengo ninguna esperanza en que el ministro de Justicia tenga interés en avanzar con la AFA ”, dijo en una entrevista radial. Además, denunció que fue Mahiques quien pidió que fuera desplazado. “ Se ve que el ministro de Justicia le pidió al Presidente de la República que me desplazaran . Y el Presidente de la República accedió a esa petición o a ese requerimiento del ministro. Pero el ministr",
+      "link": "https://www.lanacion.com.ar/politica/juan-bautista-mahiques-designo-a-su-hermano-esteban-como-titular-de-asesores-en-el-ministerio-de-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 05:59:57 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/4BRGHPDJABAU3GZYEFS6SRBZUE.jpg?auth=4491a981256e4b1b9a7a9f6412ed2040dc0f80043e93ce885df9e6c6e7528b5c&smart=true&width=1360&height=910"
+    },
+    {
+      "id": "6f7d6e7db17132db954b",
+      "title": "Agenda de TV y streaming del jueves: San Lorenzo y más argentinos por copas, Europa League, tenis y Pumas 7s",
+      "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del jueves 16 de abril de 2026. FÚTBOL Copa Libertadores 19 Lanús vs. Always Ready (Bolivia). Fox Sports y Disney+ 19 Palmeiras (Brasil) vs. Sporting Cristal (Perú). Fox Sports 2 y Disney+ 21.30 Flamengo (Brasil) vs. Independiente Medellín (Colombia). Fox Sports 2 y Disney+ 21.30 Peñarol (Uruguay) vs. Platense. Fox Sports y Disney+ Copa Sudamericana 19 Mineiro (Brasil) vs. Juventud (Uruguay). DSports 2 19 Tigre vs. Macará (Ecuador). ESPN y Disney+ 21.30 Bragantino (Brasil) vs. Blooming (Bolivia). ESPN 2 y Disney+ 21.30 San Lorenzo vs. Cuenca (Ecuador). DSports 23 Cienciano (Perú) vs. Puerto Cabello (Venezuela). ESPN 3 y Disney+ Europa League 13.45 Celta de Vigo (España) vs. Freiburg (Alemania). Cuarto de final, partido de vuelta. ESPN 2 y Disney+ 16 Aston Villa (Inglaterra) vs. Bologna (Italia). Cuarto de final, desquite. ESPN y Disney+ 16 Betis (España) vs. Braga (Portugal). Cuarto de final, encuentro de vuelta. ESPN 2 y Disney+ 16 Nottingham Forest (Inglaterra) vs. Porto (Portugal). Cuarto de final, partido de desquite. ESPN 4 y Disney+ Conference Leage 13.45 AZ Alkmaar (Países Bajos) vs. Shakhtar Donetsk (Ucrania). Cuarto de final, partido de vuelta. Disney+ 16 Fiorentina (Italia) vs. Crystal Palace (Inglaterra). Cuarto de final, desquite. Disney+ 16 AEK Athens (Grecia) vs. Rayo Vallecano (España). Cuarto de final, encuentro de vuelta. Disney+ 16 Strasbourg vs. Mainz 05. Cuarto de final, partido de desquite. Disney+ RUGBY Seven de Hong Kong 23.30 Las Yaguaretés vs. Francia. Disney+ 0.16 (del viernes) Los Pumas 7s vs. España. Disney+ TENIS ATP 500 de Barcelona 6 Octavos de final. Disney+ BÁSQUETBOL Euroliga 15.15 Olympiacos (Grecia) vs. Milano (Italia). DSports 2 GOLF 15 RBC Heritage. La primera vuelta. ESPN 3 y Disney+",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-y-streaming-del-jueves-san-lorenzo-y-mas-argentinos-por-las-copas-europa-league-tenis-y-nid15042026/",
+      "pubDate": "Thu, 16 Apr 2026 05:58:25 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/B7HNMTULXVBRZAIVAYKJPQAOII.JPG?auth=d42cea51336574350214d25a2d75c91d4e209dd3e20aba6a47caf44012da3dc9&smart=true&width=3862&height=2707"
+    },
+    {
+      "id": "2e0b3b0c9306048dd50d",
+      "title": "Wilhelm Brasse retrató los experimentos de Mengele en el campo de exterminio y rescató 50 mil retratos de prisioneros",
+      "summary": "“El fotógrafo permanece detrás de la cámara para crear un diminuto fragmento de otro mundo: el mundo de imágenes que procura sobrevivir a todos”, escribió Susan Sontag en el ensayo “En la caverna de Platón”, del libro Sobre la fotografía . Ese fragmento de mundo y esas imágenes que sobrevivieron, incluso ante la muerte de los fotografiados, tuvo una especial importancia para Wilhelm Brasse , conocido como “el fotógrafo de Auschwitz\" . Brasse llevaba tatuado en su brazo un 3444 . Como muchos prisioneros de los campos de concentración nazi durante la Segunda Guerra Mundial, su humanidad había sida transformada en eso: un simple número. Pero su profesión —que en cierto modo le salvó la vida, a la vez que inmortalizó a quienes murieron allá—lo destacó para siempre entre esos millones de tatuajes. Sontag escribió también algo relevante para esta historia: “Las fotografías procuran pruebas. Algo que sabemos de oídas pero de lo cual dudamos, parece demostrado cuando nos muestran una fotografía. En una versión de su utilidad, el registro de la cámara incrimina ”. Retratos de estilo policial Brasse nació en Żywiec, al sur de Polonia, en 1917. Hijo de un padre austríaco y de una madre polaca, hablaba alemán a la perfección . Un dato que parece trivial, pero que en esa época fue un punto más a su favor para preservar la vida. El otro punto fue que se dedicaba a la fotografía . De hecho, trabajaba en un estudio fotográfico en Katowice, una ciudad cercana a la frontera con Alemania, cuando los nazis invadieron el país. Brasse tenía entonces 22 años, y aunque era católico, lo arrestaron cuando en 1940 intentaba cruzar hacia Hungría. Tenía la esperanza de exiliarse en Francia. Entonces le ofrecieron unirse al ejército alemán. Pero, tras negarse, lo trasladaron a uno de los campos de exterminio conocido como el más atroz del momento, Auschwitz, adonde llegó junto con otros 400 prisioneros políticos polacos . “Cuando llegó a Auschwitz fue enviado a trabajar como obrero ”, dijo Janin",
+      "link": "https://www.lanacion.com.ar/lifestyle/wilhelm-brasse-retrato-los-experimentos-de-mengele-en-el-campo-de-exterminio-y-rescato-50-mil-nid16042026/",
+      "pubDate": "Thu, 16 Apr 2026 05:57:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/Q4BYLJRQUFDRTFXG6O535QUF4M.jpg?auth=b8da7e19ea891f8ae1fab534700f0f7867fbb6518f4dc18789b1e68d1d474524&smart=true&width=632&height=405"
     },
     {
       "id": "8055e2b8bd08e2663e81",
@@ -1331,16 +1683,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e05dc6d1d5e.jpeg"
-    },
-    {
-      "id": "fe0117f6e7c41101e9d1",
-      "title": "Javier Milei y sus medidas, en vivo: la revisión del acuerdo con el FMI y la situación de Adorni ante la Justicia",
-      "summary": "Un tema siempre explosivo en la Argentina, la propiedad intelectual, desencadenó esta semana una acalorada discusión entre representantes de laboratorios y empresas agropecuarias, lobbistas y funcionarios, todos ellos miembros de un grupo de WhatsApp de Red de Acción Política (RAP), una organización apartidaria fundada por Alan Clutterbuck. Fue justo en momentos en que el Gobierno está a punto de enviar al Congreso la adhesión de la Argentina al Tratado de Cooperación de Patentes y empieza a discutir una nueva normativa para las semillas. Palabras fuertes, alguna ironía, enojos y hasta el concepto ambiguo y contemporizador de siempre formaron parte de la conversación que LA NACION pudo reconstruir a partir de consultas a varios integrantes del chat y que, en realidad, había empezado la semana pasada, cuando el empresario Marcelo Figueiras , dueño de laboratorios Richmond, envió una nota que acababa de publicar este diario cuestionando la reciente derogación de una resolución de 2012 que aplicaba criterios de patentabilidad para las farmacéuticas y que, desde entonces, sostenía el negocio de la industria nacional. Es una discusión sensible porque incluye no sólo el resguardo y el financiamiento de la innovación, sino también precios y empleos en el sector, elementos que no siempre se pueden conciliar. Un plenario de dos comisiones en el Senado se convirtió en escenario de un nuevo round del duelo ideológico entre el oficialismo libertario y el kirchnerismo , que esta tarde volvieron a chocar y a ubicarse en las antípodas en torno al proyecto de ley de inviolabilidad de la propiedad privada que impulsa el gobierno de Javier Milei, El momento de mayor tensión se produjo cuando promediaba la reunión de las comisiones de Asuntos Constitucionales y de Legislación General, cuando la ministra de Medio Ambiente de la provincia de Buenos Aires y militante de La Cámpora, Daniela Vilar , concluyó su exposición relacionando los cambios propuestos por el oficialismo con la prisió",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-revision-del-acuerdo-con-el-fmi-y-la-situacion-de-adorni-ante-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 05:54:20 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/EMHV5PNJ6BEWXDSJYUEDDMSC5Y.JPG?auth=91eb01cefb175a026b0ba9a4e26e2fbed992c874c9f0da9c9a1044b3b3d28a1b&smart=true&width=971&height=647"
     },
     {
       "id": "eacb88e308f3a1dd9801",
@@ -1354,26 +1696,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "c5d9de924fbc71d6b9d4",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano",
-      "summary": "Edificios destruidos por los ataques aéreos israelíes, el miércoles en Tiro, en el sur de Líbano.",
-      "link": "https://elpais.com/internacional/2026-04-16/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Thu, 16 Apr 2026 05:45:00 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/5IKELZTEXZLI3DEOSALWMIE324.jpg?auth=bbf55935867def594a368f9c5d02fb45b495fd1851f8639f2a11a56a233e4328"
-    },
-    {
-      "id": "8b586f8c5f1950882fe5",
-      "title": "El PIB de China bate las expectativas al crecer un 5% interanual en el primer trimestre",
-      "summary": "Vista general de unos edificios de apartamentos en Pekín, China.",
-      "link": "https://elpais.com/economia/2026-04-16/el-pib-de-china-bate-las-expectativas-al-crecer-un-5-interanual-en-el-primer-trimestre.html",
-      "pubDate": "Thu, 16 Apr 2026 05:41:27 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/S44ZIOTF3BPDZMYEXUTPXON5UQ.jpg?auth=e17fe2f4fdb08f6107bd3e10b09fbffdbd6fff3658141100d25aa8dd29c7d693"
-    },
-    {
       "id": "ec6bb68d39712739db96",
       "title": "Hugo González ya tiene rival en los playoffs",
       "summary": "Hugo González ya tiene rival en los playoffs: los Sixers ganan a Orlando en el 'play-in' y jugarán contra Boston",
@@ -1382,16 +1704,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e058a4af370.jpeg"
-    },
-    {
-      "id": "6e7b794f87b045823dbe",
-      "title": "Arbeloa culpa al árbitro tras la eliminación ante el Bayern: “Es inexplicable la expulsión de Camavinga”",
-      "summary": "El árbitro Slavko Vincic enseña la amarilla a Camavinga.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-15/arbeloa-culpa-al-arbitro-tras-la-eliminacion-con-el-bayern-es-inexplicable-la-expulsion-de-camavinga.html",
-      "pubDate": "Thu, 16 Apr 2026 05:30:48 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/G2WTPIHTYFMOHOO6MXQMCHAZTE.jpg?auth=2a83668bee534d16855534e42eea231d86efcba65352cdd990b6dd265822c71a"
     },
     {
       "id": "b7e0c355d3ab8e8571d3",
@@ -1422,16 +1734,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2022/12/22/rB-HIepAE_1200x630__1.jpg"
-    },
-    {
-      "id": "eb3d357c70c41c16ae07",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, jueves 16 de abril",
-      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró que este viernes se llevará a cabo una reunión entre funcionarios de Israel y Líbano . “Ha pasado mucho tiempo desde que los dos líderes hablaron, como 34 años”, escribió en su cuenta de Truth Social . Funcionarios de Irán y el jefe de las fuerzas de Pakistán , Asim Munir, se reunirán este jueves en Teherán, según informó CNN , para dialogar respecto a los mensajes intercambiados con Estados Unidos luego del fracaso de la ronda de negociaciones llevado a cabo en Islamabad. Este miércoles Munir se reunió con el ministro de Asuntos Exteriores iraní, Abbas Araghchi . Luego de ese encuentro, el funcionario del país persa difundió un mensaje en el que reafirmó el compromiso de Irán de “promover la paz y la estabilidad en la región”. La directora gerente del FMI, Kristalina Georgieva , advirtió este miércoles que se vienen “tiempos difíciles” para la economía mundial si la guerra en Medio Oriente no se resuelve y los precios del petróleo se mantienen altos, según informó AFP . “Debemos prepararnos para tiempos difíciles” si el conflicto persiste, dijo ante periodistas en una rueda de prensa que se llevó a cabo durante las reuniones de primavera del Fondo Monetario Internacional y el Banco Mundial en Washington. “Nos preocupan los riesgos para la inflación , que se trasladen a los precios de los alimentos si no se reanudan pronto las entregas de fertilizantes a un precio razonable”, detalló Georgieva. A través de su cuenta oficial de X, el Departamento de Guerra de Estados Unidos anunció la realización de una conferencia de prensa para las próximas horas. El adelanto detalla que será el secretario de Defensa, Pete Hegseth , quien lleve a cabo la conferencia, que girará en torno a la guerra en Medio Oriente. ANNOUNCEMENT: pic.twitter.com/t0i56pPbcS Department of War 🇺🇸 (@DeptofWar) April 16, 2026 WASHINGTON.– “Peligroso e irresponsable” . Así calificó China el bloqueo de Estados Unidos al petróleo iraní que atraviesa el",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-jueves-16-de-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 05:24:03 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/LHYIXGJC65CKNI7RZG4YAEWQAY.JPG?auth=294a1e59f63ab48ad6ad75b200de710776bfd64ae369f88f894d6642a2b2de4e&smart=true&width=8256&height=5504"
     },
     {
       "id": "057d21c1db8e9f36bf81",
@@ -1564,26 +1866,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/ZJOQ7WNWVBHRPAT5I3UFJJG2WY.png?auth=76dd76e871a51eb8c979243f013cbb1fed7fab013f7f1d86e6f4bbeb47c2bb92&smart=true&width=1361&height=530"
     },
     {
-      "id": "fc740101a8cc38d20065",
-      "title": "EE.UU. anuncia que está produciendo más armas nucleares que nunca desde la Guerra Fría",
-      "summary": "\"Estamos impulsando un renacimiento nuclear\", aseguró el secretario de Energía estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/599547-eeuu-anuncia-esta-produciendo-armas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Thu, 16 Apr 2026 03:59:47 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e0536d59bf5b7a341cea38.jpg"
-    },
-    {
-      "id": "435fce0bc78b7761790c",
-      "title": "VIDEO: Artillería rusa destruye posiciones fortificadas del Ejército ucraniano",
-      "summary": "La tripulación de un cañón remolcado ruso Guiatsint-B de 152 mm de la agrupación de tropas Este destruyó posiciones fortificadas del Ejército ucraniano en la provincia de Zaporozhie, informa el Ministerio de Defensa de Rusia. Entre los objetivos alcanzados se encuentran trincheras ocultas en zonas boscosas y posiciones de tiro organizadas en edificios residenciales. Las posiciones enemigas quedaron \"completamente destruidas\", indicó el organismo.",
-      "link": "https://actualidad.rt.com/actualidad/599550-video-artilleria-rusa-destruye-posiciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Thu, 16 Apr 2026 03:56:30 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e05d5ae9ff716c022c49fc.png"
-    },
-    {
       "id": "c3aec16ffd5757c98e37",
       "title": "River necesitó de algunos titulares para vencer a Carabobo y se preocupa por un par de lesionados",
       "summary": "En noches con pocas luces, la efectividad puede ser un atajo para disimular defectos y carencias. No sobran futbolistas con ese don. En estos momentos lo posee Sebastián Driussi, que atraviesa por una racha muy positiva como goleador. Cuando a River le costaba salir de su confusión, el N° 9 lo sacó del atasco con un derechazo seco junto a un poste. Fue una irrupción en medio de la bruma que se respiró toda la noche en el Monumental. Triunfo corto y esforzado por 1-0 contra Carabobo , que lo puso en más problemas de los imaginados. O River se metió solo en ellos a partir de un recambio en la formación que no funcionó. Eduardo Coudet, pensando en el superclásico del domingo frente a Boca , de arranque cuidó piezas de las que debió echar mano porque todo lo que no fuera una victoria contra los venezolanos hubiera empinado peligrosamente la cuesta de una clasificación en la que solo el primero de cada zona de la Copa Sudamericana pasa directamente a los octavos de final. El segundo deberá disputar un play-off con un tercero de la Copa Libertadores. De ahí la importancia del triunfo de anoche, tras el empate del debut contra Blooming. El plan B de Coudet descendió varias letras en el abecedario a medida que avanzaba el partido. Para resolver el asunto fue necesario que ingresaran nombres de más peso: Driussi y Galván, mientras Moreno había sustituido antes de los 20 minutos al lesionado, una preocupación de cara al superclásico. Demasiado estático e impreciso fue el comienzo de River. El mal estado del campo, producto de los recitales recientes, expuso aún más su deficiente traslado de la pelota. Pases que no tenían destinatario, controles de la pelota que se iban largo. River no se encontraba colectivamente, como si los ocho cambios que hizo “Chacho” Coudet con respecto a la formación inicial frente a Racing hubieran juntado a jugadores que se desconocían entre sí. Si alguien imaginó que River iba a moverse cerca del área rival ya desde el comienzo, sucedió todo lo cont",
@@ -1674,26 +1956,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_1200x630__1.jpg"
     },
     {
-      "id": "3d8c6fa98b06e6dc9bb1",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este jueves 16 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-jueves-16-abril-2026_0_AweZw9DfuI.html",
-      "pubDate": "Thu, 16 Apr 2026 03:46:00 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/rypcttiZZ_1200x630__1.jpg"
-    },
-    {
-      "id": "d1614e97f9db0d28a9d7",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este jueves 16 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-jueves-16-abril-2026_0_LLJGc9FfZH.html",
-      "pubDate": "Thu, 16 Apr 2026 03:46:00 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/f4xLaY8eq_1200x630__1.jpg"
-    },
-    {
       "id": "02e2ac3f759f73ec0d26",
       "title": "Bruselas exige a las empresas que eviten los vuelos por motivos laborales y pide a los Estados que bajen el precio del tren",
       "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen, en una conferencia de prensa en Bruselas.",
@@ -1702,16 +1964,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DIEYXBTNNJIWFEMGKYY3Z46BGA.jpg?auth=da05d7a963e0e00332eebcd467091cd7ee4ed3f3d3124a06dda2c15065523104"
-    },
-    {
-      "id": "7f5b37c210521e7db48e",
-      "title": "Así es conseguir papeles en España: “Me ha cambiado la vida”",
-      "summary": "Este jueves en España entra en vigor el real decreto del Gobierno para la regularización extraordinaria de inmigrantes. Unas 500.000 personas que ya viven en el país, que trabajan, pero que no tienen papeles, podrán por fin salir de un limbo legal, con todos sus derechos y obligaciones. Seguir leyendo",
-      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-04-16/asi-es-conseguir-papeles-en-espana-me-ha-cambiado-la-vida.html",
-      "pubDate": "Thu, 16 Apr 2026 03:45:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": ""
     },
     {
       "id": "4930143c8be679f4a0b5",
@@ -1775,46 +2027,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "36dc81a6a86a692e0aa3",
-      "title": "Trump anuncia la primera reunión entre líderes de Israel y el Líbano en décadas",
-      "summary": "\"Sucederá mañana\", aseveró el mandatario estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/599548-trump-anuncia-primera-reunion-lideres?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Thu, 16 Apr 2026 03:35:20 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e05b0959bf5b048554d199.jpg"
-    },
-    {
-      "id": "7dab0ea134adcd47fea0",
-      "title": "Irán promete hacer prisioneros a miles de soldados si EE.UU. lanza una incursión terrestre",
-      "summary": "\"Si entran en escena, nuestras fuerzas terrestres entrarán en acción\", afirmó Mohsen Rezai.",
-      "link": "https://actualidad.rt.com/actualidad/599535-iran-promete-capturar-miles-soldados-si-eeuu-lanza-incursion-terrestre?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Thu, 16 Apr 2026 03:34:46 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e02e54e9ff716c937bd1a5.jpg"
-    },
-    {
-      "id": "d71e850dd4b7da8291a4",
-      "title": "VIDEO: Tanquistas rusos arrasan un bastión ucraniano",
-      "summary": "Tripulaciones de los tanques T-90M Proryv de la Guardia del Grupo Dniéper destruyeron una fortaleza donde se encontraban efectivos de las Fuerzas Armadas ucranianas, informó este miércoles el Ministerio de Defensa de Rusia. El ataque se registró en dirección a Orejovskoye, en la provincia rusa de Zaporozhie. En un video compartido por el ente se puede ver en acción al tanque, que cuenta con un potente cañón y un blindaje diseñado para contrarrestar múltiples amenazas",
-      "link": "https://actualidad.rt.com/actualidad/599546-video-tanquistas-rusas-arrasan-bastion-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Thu, 16 Apr 2026 03:33:35 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e0542c59bf5b048554d194.jpg"
-    },
-    {
-      "id": "cdd38b82d90ca047d70f",
-      "title": "\"Israelismo\": Tucker Carlson habla sobre \"la religión del Gobierno de EE.UU.\" y de Trump",
-      "summary": "El periodista estadounidense sostiene que Washington \"ha establecido como eje central de su política exterior la defensa de Israel\".",
-      "link": "https://actualidad.rt.com/actualidad/599544-israelismo-tucker-carlson-habla-religion-gobierno-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Thu, 16 Apr 2026 03:33:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e04f5159bf5b048554d186.jpg"
-    },
-    {
       "id": "93d5da5221ff58aa08b2",
       "title": "Sectores católicos se revuelven contra Trump, que insiste en asociarse con Jesucristo y en sus críticas al Papa",
       "summary": "Imágenes creadas con IA y publicadas por Trump. A la izquierda, la de este miércoles. A la derecha, la que provocó la polémica el pasado domingo.",
@@ -1822,37 +2034,27 @@
       "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/XLPJO26EIBANVP6XZRSJQA2BJY.jpg?auth=49c64ad401439d891b1d9df98a4ca4a997f188c900f1d08d34255d7fad0204fe"
+      "image": "https://imagenes.elpais.com/resizer/v2/BCN22DDQSNCAZLC7EJLFQUFI3A.jpg?auth=0c1d8e110ec9ced64579eedbc45c0fd2dddc138fc940d70b17eb747a76cf9bc8"
     },
     {
-      "id": "3ee7f6fa847d60a962f4",
-      "title": "La regularización de migrantes recrudece la batalla política entre el Gobierno y la oposición",
-      "summary": "Extranjeros en dependencias del País Vasco para recoger documentos para su regularización.",
-      "link": "https://elpais.com/espana/2026-04-16/la-regularizacion-de-migrantes-recrudece-la-batalla-politica-entre-el-gobierno-y-la-oposicion.html",
+      "id": "a4a84afe739ad1702f81",
+      "title": "El ICE detiene a una francesa de 86 años tres meses después de que falleciera su marido estadounidense",
+      "summary": "Marie-Therese Helene Ross, mujer francesa detenida por ICE.",
+      "link": "https://elpais.com/internacional/2026-04-16/el-ice-detiene-a-una-francesa-de-86-anos-tres-meses-despues-de-que-falleciera-su-marido-estadounidense.html",
       "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/S6TS4LPGR5B3FGRKUTQSQUXWK4.jpg?auth=65e8b73acf21d56489a19791ee2abdb5eaaac7f6a1bcff92f6cb13a576b763f3"
+      "image": "https://imagenes.elpais.com/resizer/v2/OQQNYML5ORGVVOM27QDHRN7CBM.jpg?auth=83e4a2f1dfb299458cdd0affc9f12b07e40a7f8be991e2a5c9d4951a614d4e66"
     },
     {
-      "id": "6936f113277e4a1e5206",
-      "title": "“Sentencias: no constan”: tras el papel más buscado en el consulado de Marruecos",
-      "summary": "Youness, tras recoger el certificado de antecedentes penales en el consulado de Marruecos.",
-      "link": "https://elpais.com/espana/catalunya/2026-04-16/sentencias-no-constan-tras-el-papel-mas-buscado-en-el-consulado-de-marruecos.html",
+      "id": "0ae08fa3de47a9a90845",
+      "title": "Hay que decir más que no",
+      "summary": "Rosalía, durante su concierto del lunes en Barcelona, en una imagen de promoción.",
+      "link": "https://elpais.com/opinion/2026-04-16/hay-que-decir-mas-que-no.html",
       "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XUWTVDCGNBFAHONY37JJNA7COU.jpg?auth=c4cca9b257b9de417d517509775bfae9d5723838e02971e405528cb4db43c1bf"
-    },
-    {
-      "id": "68f5f04fc9e5ca47e827",
-      "title": "El bloqueo de Ormuz va de mal (Irán) en peor (Estados Unidos)",
-      "summary": "Un petrolero, el pasado sábado en el puerto chino de Qingdao.",
-      "link": "https://elpais.com/opinion/2026-04-16/el-bloqueo-de-ormuz-va-de-mal-iran-en-peor-estados-unidos.html",
-      "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/G2CPMA52WVGRRJM6OAOCMT7N7I.jpg?auth=4674b5b236663f6e5bf0a689061f86d2409d8c6d16bf4c8ff12a4e71868f2932"
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/IJFTW2KH5RHJNK3QZBBLQEAH3I.jpg?auth=9e0973fc55bfaf55cdfd85183b39fe875efabef77223c72ad8357fb526b54120"
     },
     {
       "id": "af88f1ee43d805cc50d8",
@@ -1877,7 +2079,7 @@
     {
       "id": "2a814cbe10cbfd2493a8",
       "title": "Feijóo hará campaña en Andalucía con agenda propia en paralelo a la de Juan Manuel Moreno",
-      "summary": "El presidente de la Junta de Andalucía Juanma Moreno Bonilla y el líder del PP Alberto Nuñez Feijóo, en Adamuz (Córdoba), en una comparecencia por el accidente de tren. EFE/ Jorge Zapata",
+      "summary": "El presidente de la Junta de Andalucía Juanma Moreno Bonilla y el líder del PP Alberto Nuñez Feijóo, en Adamuz (Córdoba), en una comparecencia por el accidente de tren.",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-16/feijoo-hara-campana-en-andalucia-con-agenda-propia-en-paralelo-a-la-de-juan-manuel-moreno.html",
       "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
@@ -1895,16 +2097,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CWGCFXAS55DXNNVF7BNF2AUO4U.jpg?auth=b558a6b83825d59f06eaa9cc46114cbe16a567d49baff97cf37d361b2b2a5b6c"
     },
     {
-      "id": "a4a84afe739ad1702f81",
-      "title": "El ICE detiene a una francesa de 86 años tres meses después de que falleciera su marido estadounidense",
-      "summary": "Marie-Therese Helene Ross, mujer francesa detenida por ICE.",
-      "link": "https://elpais.com/internacional/2026-04-16/el-ice-detiene-a-una-francesa-de-86-anos-tres-meses-despues-de-que-falleciera-su-marido-estadounidense.html",
-      "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OQQNYML5ORGVVOM27QDHRN7CBM.jpg?auth=83e4a2f1dfb299458cdd0affc9f12b07e40a7f8be991e2a5c9d4951a614d4e66"
-    },
-    {
       "id": "d7542be9d7766a91d258",
       "title": "La justicia avala la exclusión de un joven con autismo de una oposición en Vitoria",
       "summary": "Aimar y su madre Elena en su domicilio particular en Bilbao en una imagen ofrecida por la familia.",
@@ -1913,16 +2105,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/R3R7EIGNQRGTXCXSXHX3KEIX6Q.jpg?auth=53e2d68751224b4d807ac7f301bc503d5d2a47634ee2fc04d34e334396f721c8"
-    },
-    {
-      "id": "c099ae9063b39465ebfa",
-      "title": "Las Bellas Artes de Cádiz languidecen entre puntales de obras",
-      "summary": "Esculturas almacenadas en la sede de la Real Academia Provincial de Bellas Artés de Cádiz, actualmente cerrada.",
-      "link": "https://elpais.com/cultura/2026-04-16/las-bellas-artes-de-cadiz-languidecen-entre-puntales-de-obras.html",
-      "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/EVTB5O7BW5FJNJ54PSSJXAEJMM.JPG?auth=d3ddfa1d705c3db90f427fa55fe296369c2371cb1358f3e5a0cc8b3a7a3acfd7"
     },
     {
       "id": "87eaa57ae4224c2a7ddd",
@@ -1955,6 +2137,26 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BKG2HUPFGNBDHOIAQZDLJX3FIM.jpg?auth=56075442a8265134945b703e800793d1d9d80425f075317bd0e5483b957f4877"
     },
     {
+      "id": "3ee7f6fa847d60a962f4",
+      "title": "La regularización de migrantes recrudece la batalla política entre el Gobierno y la oposición",
+      "summary": "Extranjeros en dependencias del País Vasco para recoger documentos para su regularización.",
+      "link": "https://elpais.com/espana/2026-04-16/la-regularizacion-de-migrantes-recrudece-la-batalla-politica-entre-el-gobierno-y-la-oposicion.html",
+      "pubDate": "Thu, 16 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/S6TS4LPGR5B3FGRKUTQSQUXWK4.jpg?auth=65e8b73acf21d56489a19791ee2abdb5eaaac7f6a1bcff92f6cb13a576b763f3"
+    },
+    {
+      "id": "a0a9f598a579c76e2169",
+      "title": "Medio centenar de países se unen para salir de los combustibles fósiles en pleno ‘shock’ petrolero: “Nos jugamos la soberanía”",
+      "summary": "La ministra colombiana de Ambiente, Irene Vélez, en una conferencia de prensa el martes en Bogotá.",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-04-16/medio-centenar-de-paises-se-unen-para-salir-de-los-combustibles-en-pleno-shock-fosil-nos-jugamos-la-soberania.html",
+      "pubDate": "Thu, 16 Apr 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZZR6JANWT5OSLDJPROPFYDXQOY.jpg?auth=bbbb7fc38fbc243a4561333a256f80099d12884f3d415085441209622044746e"
+    },
+    {
       "id": "ce5cd36269c2318e6e74",
       "title": "Una psiquiatra se enfrenta a cuatro años de cárcel en el juicio por desatender a un paciente que acabó matándose",
       "summary": "Vista exterior del Hospital Universitario Reina Sofía de Córdoba, esta primavera.",
@@ -1985,16 +2187,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/DBEWXESZSVDYPOLQSVGL7TJSNU.jpg?auth=e8fb7a557a6b734a5d6a679fcf5b557722411114213af612d2c41a859576872e"
     },
     {
-      "id": "37d55a32ef8ed8f3b47e",
-      "title": "Dejaron su empresa para mudarse a las sierras y armar una posada campestre",
-      "summary": "Viviana Bornancini y Andrés Pucheta nunca imaginaron tener un hotel boutique con spa en las sierras de Córdoba. Mucho menos, ser los chefs del único restaurante especializado en cocina nikkei y sushi de Villa General Belgrano, en el valle de Calamuchita. Pero la vida los fue llevando por caminos inesperados y ahí se encuentran hoy, administrando y trabajando en Posada de Campo , un alojamiento con estilo y una energía difícil de explicar. El establecimiento se ubica a sólo dos kilómetros del ingreso al precioso pueblo de identidad centroeuropea, conocido por su historia de inmigración alemana y austríaca, así como por sus emblemáticas celebraciones: la Fiesta de la Cerveza, la del Chocolate Alpino y de la Masa Vienesa. Está a 85 kilómetros de la ciudad de Córdoba. La posada cuenta con 13 habitaciones, una pileta rodeada de un parque con flores y árboles nativos y una tina de madera con agua climatizada. En el spa holístico Dhalia , Mara Troncoso y su equipo ofrecen masajes y tratamientos realizados con productos veganos de Calixta Cosmética Natural y aromas de Quinta Esencia, de Atos Pampa. El lobby y el salón principal son un viaje en el tiempo. Está repleto de antigüedades que la pareja recolecta en distintos puntos del país: una radio Tonomac de seis bandas, una balanza de mármol que compraron a la vera de una ruta y hasta un “pata de lana”, usado antiguamente para cardar colchones. Cada objeto cuenta una historia. Un cambio de vida La posada nace del deseo de la pareja de un cambio de vida. Ambos eran empresarios de la industria del calzado en la ciudad de Córdoba, pero los vaivenes económicos y el ritmo acelerado los motivaron a imaginar otros rumbos, allá por el año 2012. “Deseábamos vivir más tranquilos, vivir mejor, más relajados. Eso significó un camino interior, de ir viendo adentro, a dónde queríamos ir, cómo queríamos vivir”, explica Viviana. Tras un período de introspección, un allegado les sugirió el rubro hotelero en Villa General Belgrano, un mundo c",
-      "link": "https://www.lanacion.com.ar/revista-lugares/dejaron-su-empresa-para-mudarse-a-las-sierras-y-armar-una-posada-campestre-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/OBXDASEUS5A43JFZFI7EUZMR6U.jpg?auth=24d9d5b32b38c4d4a38f8b417d181353ab3aa4a3460d254e1b4e80ba70f453bb&smart=true&width=1300&height=868"
-    },
-    {
       "id": "d417fd42ad9985c5c1d6",
       "title": "La izquierda se afianza para la segunda vuelta en Perú y la ultraderecha denuncia un fraude",
       "summary": "Rafael López Aliaga en la manifestación fuera del Jurado Nacional de Elecciones, en Lima (Perú), el 14 de abril.",
@@ -2005,106 +2197,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/EFE44JZ5UNJ4VGAQQNJZHWBRFY.jpg?auth=5137e063851d47185338f6e6a015409ca81f7b7e2b4536d8693dd73b5c4e7527"
     },
     {
-      "id": "c67a05bc1a67bc43beda",
-      "title": "La Justicia ante el espejo: una reforma necesaria para el siglo XXI",
-      "summary": "Pareciera que, en materia judicial, la Argentina está condenada a un eterno retorno . Discutimos los mismos vicios, las mismas demoras y las mismas estructuras desde hace décadas, como si el sistema fuera inmune al paso del tiempo. Sin embargo, nos encontramos ante una oportunidad histórica. No se trata de un simple retoque cosmético, sino de una transformación profunda, cualitativa y moderna que el país clama con urgencia. Esta necesidad de reconstrucción no surge del vacío. Existen factores externos que hoy atraviesan nuestra realidad de forma universal. La irrupción de la inteligencia artificial, por ejemplo, no es solo una herramienta tecnológica: es un cambio de paradigma que obliga a replantear la gestión de los conflictos y la celeridad de las respuestas judiciales. A esto se suman deudas internas injustificables, como la demora en el traspaso de competencias de la Nación a la ciudad de Buenos Aires, un mandato constitucional de 1994 que sigue encontrando resistencias políticas difíciles de defender en un Estado de Derecho pleno. El mapa legislativo actual nos marca el camino. La modernización laboral, la ley de inocencia fiscal y las reformas previstas en los códigos Civil, Comercial y Procesal, junto con la implementación del sistema acusatorio y el juicio por jurados, no son solo cambios técnicos. Son la prueba de que el debate está vivo y de que el derecho debe rendirse ante la elocuencia de los hechos. Pretender que una sociedad hiperconectada y compleja se rija por estructuras pensadas para el siglo pasado es un oxímoron que debemos evitar. Desde el Colegio de Abogados de la Ciudad de Buenos Aires estamos trabajando activamente en una propuesta para transformar el funcionamiento de la Corte Suprema de Justicia de la Nación. Los resultados actuales demuestran que su modelo de gestión ha quedado obsoleto. Ignorar esta realidad es atentar directamente contra la seguridad jurídica. La seguridad jurídica no es una abstracción para especialistas; es la certez",
-      "link": "https://www.lanacion.com.ar/opinion/la-justicia-ante-el-espejo-una-reforma-necesaria-para-el-siglo-xxi-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:15:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "ae40b6e29c4ff2c726fd",
-      "title": "El canciller Pablo Quirno se reunió con el gobernador Maximiliano Pullaro",
-      "summary": "A cinco meses de su salida del Gobierno, Guillermo Francos volvió a pronunciarse sobre la situación política de la administración de Javier Milei y, en particular, sobre el escenario que atraviesa Manuel Adorni , su sucesor en la Jefatura de Gabinete, quien enfrenta denuncias por presunto enriquecimiento ilícito . En ese marco, definió el caso como una situación “muy particular” , sostuvo que hubo un “acribillamiento mediático” y consideró que algunas de las acusaciones “se agrandaron mucho” . Un meticuloso heladero que opera en CABA registra que produce y vende 100 helados por mes, excepto cada enero, cuando vende 130 helados, y cada julio, en los que vende 70 helados. No hay que ser un genio para saber que el aumento de sus ventas en cada enero, así como la caída en cada julio, tienen que ver principalmente con el aumento y la disminución de las temperaturas, respectivamente. De manera que si me preguntara cómo le fue en 2025, más allá de la estacionalidad, me fijaría si en enero vendió más o menos de 130, y en julio más o menos de 70 . Andrés Dachary , secretario de Malvinas, Antártida, Islas del Atlántico Sur y Asuntos Internacionales de Tierra del Fuego, sostuvo que una aeronave militar del Reino Unido operó entre Montevideo y las Islas Malvinas sin autorización sobre espacio aéreo argentino . El funcionario provincial detalló que la nave en cuestión es una Airbus A400M e indicó que el itinerario finalizó en el aeropuerto de Carrasco , situado en Uruguay . “Según versiones de público conocimiento, el vuelo habría apagado su transponder volando sin autorización sobre espacio aéreo argentino”, escribió en su cuenta de X. Un plenario de dos comisiones en el Senado se convirtió en escenario de un nuevo round del duelo ideológico entre el oficialismo libertario y el kirchnerismo , que esta tarde volvieron a chocar y a ubicarse en las antípodas en torno al proyecto de ley de inviolabilidad de la propiedad privada que impulsa el gobierno de Javier Milei, El momento de",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:10:11 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/TTPBGWEWINAJFCHMQUBLD7VXEQ.png?auth=03b6242b789077efa71b25ba94764bc85a814d9a861190f5e7ff65f0cc6797d3&smart=true&width=568&height=349"
-    },
-    {
-      "id": "cbf7465ae18d25377aa1",
-      "title": "River le ganó a Carabobo por la Copa Sudamericana y es puntero de su grupo",
-      "summary": "Llegó el alivio en el segundo tiempo para River , que apostó por un equipo alternativo para este miércoles en la Copa Sudamericana y necesitó de la jerarquía de Sebastián Driussi para hacer la diferencia ante Carabobo , de Venezuela. Fue triunfo por 1-0, con un gol del delantero que ingresó en la segunda etapa, tras los silbidos que habían despedido al equipo cuando llegó el entretiempo. Pensando en el superclásico del domingo con Boca, se le hizo cuesta arriba el duelo por la segunda fecha del grupo H del que ahora es líder. Después, con la ventaja, el conjunto millonario tuvo ocasiones para golear, pero entre el arquero Lucas Bruera y el travesaño se lo negaron . Aunque le costó tener claridad, sobre todo en el primer tiempo, River casi no vivió zozobras. Apenas una pifia de Lautaro Rivero que pudo ser un blooper y un remate desde lejos de Edson Tortolero que Santiago Beltrán resolvió despejando hacia un costado, ya casi en la última jugada. Una curiosidad: un River que empujó gran parte del partido terminó convirtiendo solamente en una de las pocas veces que encontró al rival con las defensas bajas. Un ataque del visitante se convirtió en una salida rápida de local, con Kendry Páez pasando entre dos rivales y, cuando se le iba larga, Driussi se la robó sacando el derechazo abajo. Ahí llegó cierta calma. Claro, no todas fueron buenas , por lesiones. Fausto Vera , uno de los pocos habituales titulares que sí jugaron desde el inicio, duró casi 20 minutos en el campo, aunque casi la mitad de ellos probando si podía seguir. Y no. Terminó saliendo por un golpe en la rodilla derecha. En el segundo tiempo, también Juan Fernando Quintero sintió una molestia y pidió el cambio. Al final, River se quedó con la victoria, suma 4 unidades y despejó de la punta del grupo a Carabobo, que se queda con 3 puntos. En tanto, este jueves, en Brasil, completarán la fecha Bragantino , que cayó en Venezuela en el debut, y Blooming , que le empató al conjunto argentino en Bolivia la semana",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-carabobo-en-vivo-nid15042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:07:01 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/RQEGYYXEWBEN7OVNOGOJTOEZZQ.jpg?auth=58853def67170bf45942238352f97ac1834e5656e7798176bbace4c4c4ba9ba1&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "97388a55b6fec3ac56ff",
-      "title": "Cartas de lectores: Violencia cotidiana, preferencia, derrota de Orban",
-      "summary": "Violencia cotidiana En mi celular apareció un reel: esquina en zona urbana, plena luz del día, vecinos linchando a dos supuestos ladrones y publicando su “hazaña” en redes. La escena duele. Se entiende la bronca, la impotencia y la falta de orden. No está bien naturalizar la barbarie, celebrarla y amplificar la escena por redes. Cuando la venganza se disfraza de justicia y actúa; impera el odio y se borra la frontera entre culpables e inocentes. La ausencia de seguridad y de justicia nos “empuja” a abdicar del Estado de Derecho, y abandonar la ley no corrige el problema: lo agrava y nos vuelve más vulnerables a todos. La decadencia ya es una práctica que erosiona la convivencia. Si aceptamos la inseguridad y la falta de justicia, la violencia empieza a naturalizarse; hasta convertirse en regla. Fernando J. Bustillo fernandojbustillo@gmail.com Seguridad jurídica Da la impresión de que el Poder Ejecutivo no es consciente de la importancia de contar con una Justicia independiente, ágil y eficiente, que brinde seguridad jurídica a potenciales inversores para decidirlos a concretar emprendimientos fundamentales para el crecimiento económico. La lentitud para dictar sentencias se debe no solo a las inadmisibles vacantes del 40% de jueces y fiscales que obliga a designar a subrogantes, que no pueden atender eficientemente a dos juzgados. Además, hay magistrados que en causas de corrupción se excusan, otros respondiendo a intereses políticos duermen los expedientes hasta que prescriben y algunos están denunciados por corruptos y siguen en sus cargos. Tampoco hay consenso sobre el mecanismo más conveniente para designar jueces y se nombran funcionarios en el Ministerio de Justicia más por su capacidad para influir en causas sensibles para el Poder Ejecutivo, que por su idoneidad para el cargo. Ricardo E. Frías ricardoefrias@gmail.com Preferencia Haciendo una pregunta retórica, me gustaría preguntar a los agoreros de siempre si prefieren una inflación del 3% con un gobierno a",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-violencia-cotidiana-preferencia-derrota-de-orban-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/PCRONEZU75FRVIFVYICXAXJ4Q4.jpg?auth=67da57471fa95adde9601f75843651b37e4489a1c632f22462da03300339f490&smart=true&width=1289&height=1037"
-    },
-    {
-      "id": "5655aea4b92bc8d4fe22",
-      "title": "Milei: más comunicación que gestión explica los malos resultados",
-      "summary": "“El dato es malo. El dato no nos gusta ya que la inflación nos repugna. Sin embargo, hoy elementos duros que nos permiten explicar lo que ha pasado”, dijo el presidente Javier Milei el martes luego de conocerse la cifra oficial de inflación de marzo de 3,4%. Luego explicó la razón de la suba de la inflación con precisiones técnicas, pero las más importantes fueron políticas: “No fue gratis el intento de la política de generar un golpe de Estado, hay que tener en cuenta a qué estuvimos sujetos en el segundo semestre del año pasado, y muy en especial desde la elección en la provincia de septiembre”, sostuvo. El “intento de golpe” al que se refería Milei era la derrota electoral en la provincia de Buenos Aires en septiembre pasado. Cuesta entender que la voluntad de la sociedad votando libremente sea interpretada como una desestabilización. Al poner la culpa afuera, sin un error admitido, la idea era comunicar rápido y sacarse la responsabilidad de encima. En el momento más duro en cuanto a la confianza de la sociedad en las expectativas sobre la marcha del gobierno, Milei parece el único “vocero” potable para afrontar y revertir la situación , pero su discurso sigue dirigido al núcleo duro, a los suyos, que por sentido de pertenencia tienen más paciencia y comprensión. No es una novedad, Milei, todo lo contrario a un líder componedor y calmo, habla mucho, sobre todo en las redes sociales, y muchas veces de más . Afirmar con tanta liviandad sobre un “intento de golpe de estado” para explicar una inflación de 3,4% suena hasta ingenuo, pero tiene un cometido: dejar un tema en la conversación pública que empareje la atención generada por el dato inflacionario. Crear un conflicto para superar otro, denunciar algo para tapar otra denuncia, son viejas estrategias de la comunicación política tradicional argentina. Estamos ante un gobierno que parece creer más en la comunicación que en la gestión . El propio Milei pasa horas en redes sociales. Con excepción de Luis Caputo, el ",
-      "link": "https://www.lanacion.com.ar/opinion/milei-mas-comunicacion-que-gestion-explica-los-malos-resultados-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/6VF4SJDUZRFJJJJ7P5M22YXZOM.JPG?auth=9764ce26982022fadc5bf01f956e68b971976ef8e86e3c1518d3c3def8f7d225&smart=true&width=1700&height=1275"
-    },
-    {
-      "id": "6784aaf0bd0469da5075",
-      "title": "Negociar en la incertidumbre: el verdadero tablero entre EE. UU. e Irán",
-      "summary": "Cualquier negociación puede pensarse como una partida de ajedrez, no sólo por la importancia de las estrategias -donde cada parte proyecta sus movimientos y los de la contraparte varios pasos hacia adelante-, sino también por la descomposición de las necesidades en distintos elementos con diferente valor. Así, un jaque mate anuncia la caída del rey, la pieza más importante del tablero. En el otro extremo, un peón puede ser sacrificado por su menor valor material, sin que por ello deje de tener relevancia estratégica. Esa concesión, trasladada a una mesa de negociación, puede abrir el camino hacia un acuerdo si para la otra parte representa un beneficio mayor. Pensemos en un cliente y en un proveedor enfrentados por el precio de un producto. Ambos pueden salir de una dicotomía rígida si un plan de financiamiento se convierte en un punto de encuentro: el cliente acepta pagar el precio, pero en cuotas, mientras que el proveedor renuncia al pago inmediato sin ceder en el valor del producto. Si llevamos esta lógica al plano geopolítico, como en el caso del conflicto entre Estados Unidos e Irán, los elementos en juego podrían incluir el cese del enriquecimiento de uranio y de la carrera nuclear iraní, la liberación del estrecho de Ormuz, la disminución de la presión de Israel sobre Hezbollah en el Líbano, y la eventual ayuda para una reconstrucción tras la guerra. Lo que no resulta claro es el valor relativo que cada país asigna a estos factores. Además, es probable que el conjunto de intereses sea más amplio. Por ejemplo, ¿qué tan prioritario es para Estados Unidos poner fin al conflicto rápidamente? ¿Y para Irán? Podría suponerse que es más urgente para Irán, aunque también podría ocurrir lo contrario si el gobierno estadounidense percibiera riesgos en la opinión pública por una guerra prolongada, mientras que Irán la interpretara como una causa estratégica o incluso religiosa. Por otra parte, cabe preguntarse qué papel juega Israel en este escenario. Si bien su alianza",
-      "link": "https://www.lanacion.com.ar/opinion/negociar-en-la-incertidumbre-el-verdadero-tablero-entre-ee-uu-e-iran-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/VJ3TXJBE5RATLE6B2NDJ4MRCAE.JPG?auth=868dcdf644f596db290f79e2ba21d35c410482f3d30cba7fbec9253b0e698edf&smart=true&width=6286&height=4192"
-    },
-    {
-      "id": "fbc765983b5854369de5",
-      "title": "Argentina, el país del estrés",
-      "summary": "Hoy, Día Mundial de la Conciencia sobre el Estrés, nos encontramos frente a un diagnóstico ineludible: según un reciente informe de Statista Consumer Insights , Argentina encabeza el ranking mundial de ansiedad y estrés cotidiano. Con un 49% de nuestra población adulta reportando síntomas frecuentes en el último año, superamos ampliamente a naciones como Finlandia (45%), Canadá (42%) y Estados Unidos (39%). Las cifras y lo que se ve a diario en el consultorio lo confirman: hoy, más que nunca, somos “el país del estrés”. Pero, ¿qué significa esto realmente para nuestra salud física y mental? Es fundamental comprender que el estrés, en su naturaleza originaria, no es nuestro enemigo. Nos ha permitido adaptarnos a cada momento y tener herramientas para sobrevivir a lo largo de los siglos. Como suelo advertir a mis pacientes, sin estrés, nos morimos. El verdadero peligro de la vida moderna surge cuando esta reacción adaptativa no desciende y se vuelve constante. Si el sistema de alerta no se apaga, el cortisol inunda nuestro cerebro, nos hace perder la objetividad y desarregla todo nuestro organismo. Es allí cuando cruzamos la línea hacia el estrés crónico, abriendo la puerta a síntomas severos como la desmotivación, el cansancio extremo, la depresión, problemas musculares, úlceras, afecciones dérmicas y la hipertensión. A menudo se culpa exclusivamente a la coyuntura del país, pero lo cierto es que todo tiene que ver con cómo uno vive y percibe el contexto. Para explicar esto, me gusta utilizar la regla de la sigla CINE: Control, Imprevisibilidad, Novedad y Ego, de la Dra. Sonia Lupien -fundadora del Centro para la Investigación sobre el Estrés Humano en Montreal (Canadá)-. Es la “película” personal que cada uno se genera frente a estos factores lo que detona nuestra alarma interna. En este escenario de incertidumbre e irritabilidad cotidiana, me preocupa especialmente la vulnerabilidad de dos extremos de nuestra sociedad. Por un lado, los adultos mayores, que son quie",
-      "link": "https://www.lanacion.com.ar/opinion/argentina-el-pais-del-estres-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/NPYITFVM5VAJDAFA4UNQALVIEQ.jpg?auth=9a7cd8175b57e33d2f4605fe9f23e2db49e623f23b41ae0df94c9209b26ae7b1&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "5990a0ad01378256751e",
-      "title": "Cayó un hombre que estafaba a turistas en la playa: le cobró más de 2000 dólares a una mujer en Río de Janeiro",
-      "summary": "RIO DE JANEIRO.– La escena ocurrió a plena luz del día , sobre la arena de Copacabana , a pocos metros de algunos de los hoteles más caros de Río de Janeiro. Una turista británica aceptó comprar un “churrasquinho” que un vendedor ambulante le ofreció por 10 reales. Minutos después, la mujer descubrió que su tarjeta había registrado un débito de casi 10.000 reales , lo que equivale a 2000 dólares, cerca de 1500 libras esterlinas. La policía encontró al sospechoso, identificado como Caio Alencar, en la zona del puesto 5 de la playa y lo detuvo. Según la investigación, el hombre actuó junto a un cómplice, que manipuló la terminal de pago para cargar un monto cien veces mayor al acordado. El caso se convirtió en el episodio más reciente de una serie de estafas que apuntan contra turistas extranjeros en las playas de la zona sur carioca. La policía sostiene que existe un esquema organizado que opera sobre todo en Copacabana e Ipanema , con vendedores que ofrecen bebidas, cigarrillos o comida y luego cobran cifras astronómicas sin que las víctimas lo adviertan de inmediato. De acuerdo con la reconstrucción policial, la británica creyó que pagaba 10 reales por el churrasco. El valor que apareció en la máquina, sin embargo, fue de 10.000, razon por la que el vendedor quedó luego detenido. La detención estuvo a cargo de agentes de la Delegación Especial de Apoyo al Turismo, conocida por sus siglas DEAT . La titular del organismo, Patricia Alemany, afirmó que la policía ya identificó varios episodios similares y advirtió que la falta de fiscalización sobre el comercio ambulante favorece este tipo de delitos. “La DEAT arresta de modo reiterado a estos criminales. Sin embargo, no hay fiscalización de los vendedores ambulantes en la playa. Eso crea un ambiente de desorden público y facilita mucho este tipo de delito”, señaló Alemany. La investigación apunta a una estructura más amplia. Según la policía, Caio Alencar integra un grupo dedicado a estafar a extranjeros, en donde uno",
-      "link": "https://www.lanacion.com.ar/el-mundo/cayo-un-hombre-que-estafaba-turistas-le-cobro-mas-de-2000-dolares-a-una-mujer-en-rio-de-janeiro-nid15042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:03:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/2RYON2EDPBCZ3AF436MTCZZ6QQ.jpg?auth=f256a08ff6da211b149c440978c5e4ea56c72623a6c21db9fa164855b3653cf5&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "27f5e710baf49cb6563b",
-      "title": "“Por primera vez en mi vida siento ganas de estar viva”. Juana sufrió un bullying extremo que la llevó a varios intentos de suicidio",
-      "summary": "“Por primera vez en mi vida siento ganas de estar viva” Juana sufrió un bullying extremo que la llevó a varios intentos de suicidio; tras años de hostigamiento escolar, cuenta cómo logró sanar 16 de abril de 2026 . Por María Ayuso . Fotos Santiago Filipuzzi",
-      "link": "https://www.lanacion.com.ar/comunidad/por-primera-vez-en-mi-vida-siento-ganas-de-estar-viva-juana-sufrio-un-bullying-extremo-que-la-llevo-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:02:00 +0000",
-      "source": "La Nacion",
+      "id": "67d120ea47a32f3dc00c",
+      "title": "Rusia envía a España el mayor cargamento de gas de la historia en el primer mes de guerra en Oriente Próximo",
+      "summary": "El presidente de Rusia, Vladimir Putin.",
+      "link": "https://elpais.com/economia/2026-04-16/rusia-envia-a-espana-el-mayor-cargamento-de-gas-de-la-historia-en-el-primer-mes-de-guerra-en-oriente-proximo.html",
+      "pubDate": "Thu, 16 Apr 2026 03:15:00 GMT",
+      "source": "El Pais",
       "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/OF3YICLVJRFKLHFGHMRRJWBYBI.jpg?auth=ffa9b00e978f9604dad716f7156463b5c878593c5c5fc98618c0921c5b166a94&smart=true&width=600&height=400"
-    },
-    {
-      "id": "89345df127a64a058262",
-      "title": "No evita ese nombre",
-      "summary": "Es imponente. Son más de cuatro mil metros cuadrados cubiertos en cuatro niveles. Tenía 35 dormitorios y 19 baños. En el subsuelo funcionaba la cocina, la sala de caldera, el depósito, la bodega, el gimnasio, el garaje y los dormitorios para el personal. Lo construyó el arquitecto Carlos Agote entre 1912 y 1916 y Carlos Thays diseñó un bonito parque a su alrededor. Allí vivió el doctor Martín Ferreyra, con su esposa, siete hijos y la servidumbre que los asistía. Es una de las joyas arquitectónicas, aún en pie, de la ciudad de Córdoba. El gobierno de Juan Manuel de la Sota lo expropió cuando corría riesgos por un negocio inmobiliario en ciernes. El litigio con los herederos de la familia original continúa. Desde 2007, ya en manos del estado provincial, se exhibe allí un valioso patrimonio pictórico conformado por obras de Fader, Malanca, Alonso, Pettoruti y muchas otras célebres firmas. Todo el mundo lo conoce como “Palacio Ferreyra”, y así lo siguen llamando los cordobeses, aunque por ley provincial le cambiaron el nombre. Por una persistente manía peronista fue renombrado como Museo Superior de Bellas Artes Evita, aunque de la segunda esposa de Perón no haya el más mínimo vestigio.",
-      "link": "https://www.lanacion.com.ar/opinion/no-evita-ese-nombre-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "",
-      "subcat": "herramientas"
+      "image": "https://imagenes.elpais.com/resizer/v2/PPTKJIW3RZJKFLZE7VJ7SYITUQ.jpg?auth=9d575509e3e4fb3caab78a17b6b9b257201c137e6567097f94fb4d75840d5245"
     },
     {
       "id": "b061dcbeb3e95961d548",
@@ -2115,46 +2215,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Aegon-Targaryen-dragon.jpg"
-    },
-    {
-      "id": "d9209d820be1239bb394",
-      "title": "Memoria de una madre: un planteo sobrenatural interesante, pero sin demasiada estrategia de progresión",
-      "summary": "Memoria de una madre (Argentina/2025). Dirección : Mauro Iván Ojeda. Guion : Mauro Iván Ojeda. Fotografía : Mariano Suárez. Música : Pablo Fuu. Edición : Lionel Cornistein. Elenco : Santino Resta, Julieta Palermo, Mateo Berti Tallarico, Vilma Echeverría, Edgardo Molinelli, Miguel Ángel Bosco, Lorenzo Crespo, Virginia Garófalo, Mayra Sánchez, Guadalupe Aldaz Gallo, Ana Oliva. Duración : 85 minutos. Calificación : Restringida para menores de 17 años. Distribuidora : Black Mandala Films. Nuestra opinión : regular. 2 stars Vaya uno a saber a quién se le ocurrió primero, pero esta creencia de que el cine de terror es solo cuestión de atmósfera es un error que se arrastra desde hace demasiado tiempo. Prescindir de una astuta construcción de guion, en favor de ambientes lúgubres, imágenes impactantes y “creación de clima”, pudo haber funcionado en algún momento, pero hace rato que ya no sucede. Quizás todavía fascine a los fundamentalistas del género, pero hoy no seduce al que vio demasiado y necesita algo más. Memoria de una madre , con sus aciertos (que los tiene), se entrega a ese camino y pierde la posibilidad de levantar la cabeza por fuera de lo ya conocido. Lo mejor de la nueva película de Mauro Iván Ojeda es su premisa: un matrimonio adopta a Genaro (Santino Resta), adolescente que pasa de vivir en un orfanato a una casa modesta, pero aparentemente acogedora. En su nuevo hogar conoce a sus dos hermanos, también adoptados: Nuria (Julieta Palermo) y Samuel (Mateo Berti Tallarico), pero Genaro enseguida advierte que en el lugar se respira un clima agobiante de tristeza, que va más allá de los modos de la familia. Está en el aire. Ruidos, sombras, la mención a una abuela muerta, pero que “está con nosotros”. Al mismo tiempo, Nuria pregunta todo el tiempo por su madre biológica, tema aparentemente tabú en el entorno familiar. En esa idea de la búsqueda de un amor materno genuino, pero también recurrente y obsesivo, se insinúa un planteo interesante más cercano al terror",
-      "link": "https://www.lanacion.com.ar/espectaculos/cine/memoria-de-una-madre-un-planteo-sobrenatural-interesante-pero-sin-demasiada-estrategia-de-progresion-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/YLTZGHLFTJE3JDLOSGQNEN2NXA.jpg?auth=454152268a94e1cbe367c18b569af78044b098d25b0f00dcfb9fc1fe5c786a76&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "1e3942f5798ab604274e",
-      "title": "Risa y la cabina del viento, una emotiva historia de duelo y segundas oportunidades",
-      "summary": "Risa y la cabina del viento (Argentina/2025). Dirección: Juan Cabral. Guion: Pablo Minces y Juan Cabral. Fotografía: Leandro Filloy. Edición: Emiliano Fardaus. Elenco: Elena Romero, Diego Peretti, Cazzu, Joaquín Furriel, Gustavo Garzón, Silvina Sabater y Fabián Casas. Duración: 95 minutos. Calificación: apta para todo público. Nuestra opinión: buena. En 2010, Itaru Sasaki, diseñador de jardines de Ōtsuchi, un pequeño pueblo del noreste de Japón, supo que su primo tenía cáncer terminal y le quedaban tres meses de vida. Apenas recibió la noticia empezó a pensar en una idea que llevó a cabo tras la muerte de ese familiar: instalar una vieja cabina telefónica en su jardín para seguir “conectándose” con él. Un año después, en 2011, el terremoto y el tsunami de Tōhoku provocaron una de las mayores catástrofes recientes de Japón: murieron más de 15.000 personas. A partir de entonces, el kaze no denwa (teléfono de viento) cambió de escala y se convirtió en un espacio colectivo . Miles de personas comenzaron a visitarlo y de ese modo pasó de gesto íntimo a símbolo del duelo comunitario. 3 stars Esa singular historia inspiró a Juan Cabral , realizador argentino con una sólida carrera en publicidad y autor de varios videoclips de Babasónicos que en su largometraje anterior, TWO/ONE (2020), ya había trabajado sobre una conexión misteriosa en tre un hombre en China y otro en Canadá . En Risa y la cabina del viento la protagonista es una niña (Elena Romero, muy suelta en su debut) que vive en Ushuaia con su madre ( Cazzu ) y desea comunicarse con su padre, al que cree muerto. No hay demasiados detalles sobre esa ausencia, pero sí se siente su peso . Ese vacío lo ocupa, a su manera, Esteban, un vecino taciturno y aficionado al alcohol (Diego Peretti) que de a poco va estrechando el vínculo con Risa, un nombre que suena paradójico en todo ese contexto. Cabral evita deliberadamente cargar la narración con pistas explícitas. Prefiere moverse en una zona ambigua, donde lo fantástico n",
-      "link": "https://www.lanacion.com.ar/espectaculos/cine/risa-y-la-cabina-del-viento-una-emotiva-historia-de-duelo-y-segundas-oportunidades-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/BVQOKCTQ2VDDBF24KOQE6NVXOY.png?auth=bbd636d1f31208c27ccbd43d5853c28e04f22ecc5f79aed340a8a9f3b48b003a&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b6f17a742bf481f50da5",
-      "title": "Caso 137: un potente thriller policial que posa su mirada en los hombres y el funcionamiento de las instituciones",
-      "summary": "Caso 137 (Dossier 137, Francia, 2025). Dirección: Dominik Moll. Guion: Dominik Moll y Gilles Marchand. Fotografía: Patrick Ghiringhelli. Edición: Laurent Rouan. Música: Olivier Marguerit. Elenco: Lea Drucker, Yoann Blanc, Guslagie Malanda, Antonia Buresi, Kevin Debonne. Calificación: R-13. Distribuidora: Mirada Distribution. Duración: 116 minutos. Nuestra opinión: Muy buena. “Esta película es una obra de ficción basada en hechos reales”, reza –incluso a modo de advertencia- una placa antes del inicio formal de la historia narrada con pericia por Dominik Moll. La información no es casual. La mímesis con la cual relata los disturbios en París en 2018, durante las protestas del movimiento de los denominados “chalecos amarillos” es de tanto impacto que, incluso aquellas imágenes que no forman parte del material de archivo, poseen una crudeza y un estado de urgencia contundente. Aunque sea plena ficción la historia de un joven gravemente herido durante las protestas, pero que pareciera, en rigor, condensar varias de las historias reales que tuvieron lugar durante aquellos días febriles en París. Del mismo modo sucede con Stéphanie Bertrand, la investigadora del IGPN (Inspection Générale de la Policie Nationale), quien inquiere ante el episodio de violencia policial que dejó a Guillaume Girard muy malherido. Ella sintetiza la labor de “asuntos internos” frente a la enorme recopilación de pruebas y testimonios que muestran el accionar de grupos antidisturbios que, vestidos de civil, forman parte de las denuncias de abuso de autoridad y lesiones. Pero aunque cada uno adquiera la dimensión de un arquetipo de esas realidades en pugna, la inteligencia del realizador francés nacido en Alemania es la de construir un thriller policial de tinte político que cimenta también las realidades interiores tanto de Bertrand como de la familia Girard, cuando una insólita coincidencia se hace presente. Así Moll desmonta la realidad institucional de la fuerza y también de una oficina que es ",
-      "link": "https://www.lanacion.com.ar/espectaculos/cine/caso-137-un-potente-thriller-policial-que-posa-su-mirada-en-los-hombres-y-el-funcionamiento-de-las-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/MGXSGL74NZHMBCEKPXR25I3LNA.jpg?auth=211d69dfec322e36a8c5148a12542f1af3d2920c8cddcc010032d79d0bed6dd8&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "de16f24d3c66d13c85bd",
-      "title": "Hay alerta amarilla por lluvias para este jueves 16 de abril: las provincias afectadas",
-      "summary": "El Servicio Meteorológico Nacional (SMN) emitió una alerta de nivel amarillo por lluvias que afectarán principalmente al Área Metropolitana de Buenos Aires (AMBA) durante este jueves 16 de abril. Tanto en la Ciudad como en la provincia de Buenos Aires se espera una jornada con precipitaciones de variada intensidad pero sin actividad eléctrica . En CABA las lluvias arrancarán a partir de la madrugada del jueves y se extenderán, al menos, hasta las 19 horas. El reporte del SMN indica que el cielo se mantendrá encapotado durante toda la jornada y con leves ráfagas de viento. La actividad eléctrica está descartada . Para el territorio porteño se avizora una temperatura que oscilará entre los 19° y los 23° C . Durante la noche del jueves se espera un leve descenso térmico, que podría ubicarse en los 17° C a partir de la madrugada del viernes. Se prevén valores de precipitación acumulada entre 30 y 70 mm , los cuales podrían ser superados localmente. En la provincia de Buenos Aires el cuadro de situación es bastante similar, indicó el ente meteorológico nacional. El área de la costa bonaerense comprendida entre Mar del Tuyú y Miramar será la más castigada por las lluvias . Lo mismo ocurrirá en los distritos bonaerenses que lindan con la provincia de Santa Fe. Allí, las lluvias se concentrarán principalmente en Colón, Rojas, Junín y Pergamino. El SMN prevé una temperatura mínima de 18° C para el territorio bonaerense , mientras que la máxima se colocará en 22° C. Se estiman acumulaciones de agua de hasta 80 mm. El alerta amarilla emitido por el ente comprende posibles fenómenos meteorológicos con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas . Por lo cual se recomienda evitar actividades al aire libre. En ambos distritos, el buen tiempo regresaría recién a la madrugada del sábado . Pero para el arranque del domingo se espera un nuevo temporal de lluvias. Lluvias en el interior del país De acuerdo a la red oficial de medición del SMN , las ",
-      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-lluvias-para-este-jueves-16-de-abril-las-provincias-afectadas-nid16042026/",
-      "pubDate": "Thu, 16 Apr 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/FWKFR7CTWJECNI42OGT3HZ555M.png?auth=38351861311f4d304723bc89cb1c6072a269cd5e3b417b3e6c30e56112a7703d&smart=true&width=809&height=485"
     },
     {
       "id": "ef07b1dc7b466fc6541e",
@@ -2247,56 +2307,6 @@
       "image": "https://static.eldiario.es/clip/a02b2440-9d27-4349-8640-e2fd36052a9a_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "fdff6d22e9ce3c90feab",
-      "title": "El tremendo enfado de los jugadores del Real Madrid con Vincic tras el pitido final",
-      "summary": "Una vez que el colegiado señaló el final del partido prácticamente la totalidad de los jugadores fueron a protestarle",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/16/enfado-jugadores-real-madrid-vincic-pitido-final-video.html",
-      "pubDate": "Thu, 16 Apr 2026 00:22:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/acb901fu0uBzRiW9W.jpeg"
-    },
-    {
-      "id": "fc6cb188aea0f9618764",
-      "title": "Bellingham estalla: \"Es una broma\"",
-      "summary": "El inglés mostró su enfado por la segunda amarilla que vio su compañero.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/16/bellingham-estalla-expulsion-camavinga-broma-video.html",
-      "pubDate": "Thu, 16 Apr 2026 00:16:49 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/acb7u1fu0rmRATOb2.jpeg"
-    },
-    {
-      "id": "06d49557c0c62e23fb54",
-      "title": "Clamor mundial... y en Alemania incluso dudan",
-      "summary": "Slavko Vincic saca la segunda amarilla a Camavinga.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/16/clamor-mundial-absurda-expulsiones-pasar-historia.html",
-      "pubDate": "Thu, 16 Apr 2026 00:12:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69e007ea28123.jpeg"
-    },
-    {
-      "id": "15f33f33c693deb73d17",
-      "title": "\"Creo que cualquier árbitro habría hecho lo mismo\"",
-      "summary": "Luis Díaz celebra el gol que puso el 3-3 en el marcador.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/16/luis-diaz-creo-arbitro-habria-hecho.html",
-      "pubDate": "Thu, 16 Apr 2026 00:11:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e00d011cd6f.jpeg"
-    },
-    {
-      "id": "9b8f8024fe10d17d498f",
-      "title": "Vinicius, a Bellingham: \"¿Qué quieres? Calla la boca\"",
-      "summary": "Vinicius, en el partido.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/04/16/vinicius-le-gusto-reproche-bellingham-quieres-calla-boca.html",
-      "pubDate": "Thu, 16 Apr 2026 00:06:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/15/69e009cc0dfcf.jpeg"
-    },
-    {
       "id": "24b93c9f3cbcda4b47cf",
       "title": "La polémica en Argentina por la ley que modifica la protección de los glaciares para que pueda haber actividad minera",
       "summary": "La nueva ley facilitará a los gobiernos provinciales la autorización de proyectos mineros en regiones glaciares.",
@@ -2336,16 +2346,6 @@
       "cat": "ia",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/03/entrevista-inmoral.jpg",
       "subcat": "modelos"
-    },
-    {
-      "id": "1f9559bfc99cfbc8b18c",
-      "title": "Tokenización: la clave de la seguridad en los pagos digitales",
-      "summary": "En la actualidad, los pagos digitales se están expandiendo rápidamente, por lo que almacenar y procesar de forma segura la información de las tarjetas de los usuarios se ha convertido en una necesidad crítica. La tokenización es una de las tecnologías más importantes que responde a esta necesidad. ¿Qué es la tokenización? En su forma más simple, la tokenización es el proceso de generar un “token” que reemplaza los datos de pago sensibles (por ejemplo, el número de tarjeta). Este token sustituye al dato real y las transacciones se realizan a través de este token. Gracias a este enfoque, la información de las tarjetas no se almacena directamente en los sistemas de los comercios online. Especialmente en un entorno donde el volumen de pagos digitales crece rápidamente cada año, este tipo de soluciones de seguridad ya no es una opción, sino una necesidad. ¿Por qué los comercios necesitan la tokenización? Las razones principales por las que los comercios online recurren a la tecnología de tokenización se basan en tres pilares: seguridad, regulación y experiencia del usuario. En primer lugar, la seguridad. Las brechas de datos generan consecuencias graves para los comercios online, tanto a nivel financiero como reputacional. Según el informe Cost of a Data Breach 2025 publicado por IBM, el coste promedio global de una brecha de datos ha superado los 4,4 millones de dólares. Esto demuestra claramente lo crítica que es la protección de los datos sensibles. La tokenización reduce directamente este riesgo al trasladar los datos de tarjetas fuera de los sistemas de los comercios online. El segundo aspecto importante es la regulación. Los comercios online que operan con sistemas de pago deben cumplir con estándares internacionales de seguridad como PCI-DSS . Sin embargo, cumplir con estos estándares es tan caro como operativamente complejo. La tokenización reduce significativamente estas cargas al trasladar los datos sensibles a infraestructuras seguras . En tercer lugar, destac",
-      "link": "https://marketing4ecommerce.net/tokenizacion-la-clave-de-la-seguridad-en-los-pagos-digitales/",
-      "pubDate": "Thu, 09 Apr 2026 11:05:33 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/tokenizacion-1-1024x614.jpg"
     },
     {
       "id": "7c4ce9e1be46f08c7302",
@@ -2732,13 +2732,13 @@
         "cls": "rb-orange"
       },
       {
-        "name": "Sora",
-        "type": "Video AI",
+        "name": "Copilot",
+        "type": "Coding AI",
         "badge": "Alta atención",
         "cls": "rb-orange"
       }
     ],
     "rising": []
   },
-  "updated": "2026-04-16T05:58:23.751849+00:00"
+  "updated": "2026-04-16T07:48:40.152298+00:00"
 }
