@@ -212,16 +212,6 @@
       "subcat": "desarrollo"
     },
     {
-      "id": "185d22eb562cd7fcb0ea",
-      "title": "Ridley Scott nos lleva al apocalipsis con ‘The Dog Stars’, que estrena tráiler con Jacob Elordi y Margaret Qualley",
-      "summary": "Ridley Scott vuelve a los cines este año con su nueva película, The Dog Stars , un drama postapocalíptico que promete mucha tensión. El proyecto se ha presentado como parte del calendario de Disney para este año durante la CinemaCon 2026 de Las Vegas. El título será uno de los filmes más adultos de la compañía, bajo el sello de 20th Century Studios, y ya ha revelado varios detalles muy importantes. Lo más destacado del proyecto es que The Dog Stars ha lanzado su primer tráiler oficial. En él, podemos ver a su reparto principal, encabezado por Jacob Elordi ( Frankenstein , Euphoria ) y Margaret Qualley ( La Sustancia ). El primero será el gran protagonista, un piloto que, acompañado de su fiel perro, recorre los Estados Unidos, totalmente salvajes y desolados tras una pandemia. El piloto tendrá que aferrarse a la supervivencia y a la esperanza de establecer contacto humano cuando intercepta una misteriosa transmisión de radio. Una situación que le hace pensar que quizá no estén tan solos como él creía. Y es que, en su viaje, tal y como se ve en el tráiler de The Dog Stars , se encuentra a otros dos supervivientes. Así, todos se unen para explorar ese nuevo mundo tan terrible y peligroso. Mira el tráiler de The Dog Stars The Dog Stars , de Ridley Scott , está basada en la novela de Peter Heller . Además de Elordi y Qualley , el reparto principal lo componen Josh Brolin , Guy Pearce y Benedict Wong . El guion es obra de Mark L. Smith , autor de la aclamada película El Renacido , de Alejandro G. Iñárritu . \" The Dog Stars está especialmente pensada para la gran pantalla. Espero que cada fotograma os deje realmente boquiabiertos\", ha prometido Ridley Scott durante la presentación del proyecto en la convención. Y es que el cineasta siempre ha sido un férreo defensor de los estrenos en cines, por lo que su nuevo proyecto no podía ser menos. The Dog Stars se estrena en cines el 28 de agosto. Seguir leyendo: Ridley Scott nos lleva al apocalipsis con &#8216;The Dog Stars&#821",
-      "link": "https://hipertextual.com/cine-television/ridley-scott-nos-lleva-al-apocalipsis-con-the-dog-stars-que-estrena-trailer-con-jacob-elordi-y-margaret-qualley/",
-      "pubDate": "Thu, 16 Apr 2026 23:40:24 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/The-Dog-Stars-Ridley-Scott.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "b995c12aff561a8b402f",
       "title": "Por qué el estrecho de Ormuz es el arma más potente de Irán en la guerra contra EE.UU.",
       "summary": "Mira en este video los puntos más importantes en torno al paso marítimo entre Irán y Omán, por cuyo cierre mantienen un pulso EE.UU. e Irán.",
@@ -252,6 +242,17 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8998/live/f9165de0-39c1-11f1-ae0f-b9a8d6dfceb4.jpg"
     },
     {
+      "id": "7aa6e633126e1521f697",
+      "title": "Opera apuesta por la IA contextual con Browser Connector",
+      "summary": "Los navegadores se están convirtiendo rápidamente en uno de los principales puntos de integración de la inteligencia artificial en el uso cotidiano de Internet. Tras varios años en los que las herramientas de IA han evolucionado principalmente como servicios externos, cada vez más compañías buscan integrarlas directamente en las aplicaciones que utilizamos a diario. En ese contexto, Opera ha presentado una nueva función llamada Browser Connector, con la que pretende llevar la interacción entre el navegador y la inteligencia artificial a un nuevo nivel y convertir la navegación en un entorno más inteligente y asistido. Browser Connector permite conectar herramientas de IA externas, como ChatGPT o Claude , directamente con la sesión de navegación del usuario. De este modo, estas plataformas pueden utilizar el contenido de las páginas abiertas como contexto para responder preguntas, analizar información o ayudar en distintas tareas mientras el usuario navega por la web. La función está disponible en Opera One y Opera GX, y busca simplificar la forma en la que los usuarios utilizan la inteligencia artificial dentro del propio navegador, evitando tener que alternar constantemente entre servicios. La clave de esta integración está en que la IA puede acceder directamente al contenido de las páginas que el usuario tiene abiertas en el navegador . Gracias a ello, herramientas como ChatGPT o Claude pueden identificar qué pestañas están activas, leer el contenido de los sitios web e incluso realizar capturas de pantalla para analizar imágenes o gráficos cuando sea necesario. Todo esto permite que las consultas a la IA tengan un contexto mucho más completo que el habitual, algo que puede resultar especialmente útil en tareas de análisis, investigación o productividad. Hasta ahora, utilizar servicios externos de inteligencia artificial implicaba normalmente copiar y pegar información desde la página web hacia el chat de la herramienta correspondiente . Ese proceso añadía un paso",
+      "link": "https://www.muycomputer.com/2026/04/16/opera-apuesta-por-la-ia-contextual-con-browser-connector/",
+      "pubDate": "Thu, 16 Apr 2026 17:43:51 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Opera-2.jpg",
+      "subcat": "herramientas"
+    },
+    {
       "id": "cca770a7961e3354b3ee",
       "title": "Europa impulsa un frente común para limitar el uso de las redes sociales a los menores",
       "summary": "Emmanuel Macron la mañana del 16 de abril de 2016, antes de la reunión con los mandatarios europeos, en la Ciudad Internacional de la Lengua Francesa, en Villers-Cotterets.",
@@ -260,6 +261,17 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/PSXJMYYGOZIY5LWWLBHXC76HFY.jpg?auth=61c53bad08fd22a88ac887eb30da55a35f2fe2ebb22cd715235fc1b18166bf2e"
+    },
+    {
+      "id": "48866fdf3275ff0ccecb",
+      "title": "Nuevo golpe a Denuvo: Pragmata ya puede jugarse antes de su estreno oficial",
+      "summary": "La tecnología antipiratería Denuvo lleva años vendiéndose a los estudios como una especie de escudo casi mágico capaz de proteger los juegos durante sus primeras semanas de vida comercial. Esa promesa —que básicamente justifica su elevado coste— consiste en retrasar lo máximo posible la aparición de versiones piratas, especialmente en los días posteriores al lanzamiento, cuando se concentra buena parte de las ventas. El problema es que, una vez más, la realidad vuelve a demostrar que esa barrera no es tan sólida como su marketing sugiere. Y el último ejemplo lo tenemos en Pragmata, que ya puede ejecutarse sin pasar por Denuvo… incluso antes de su estreno oficial . Según la información que ha trascendido, el sistema de protección del juego ha sido burlado mediante un bypass basado en hipervisor , un método que permite ejecutar el título sin que la verificación antipiratería lo bloquee. Es importante matizar que no se trata de un crack completo que elimine Denuvo del juego, sino de un procedimiento que permite esquivar su comprobación. Aun así, el resultado práctico es el mismo para quien quiera utilizarlo: el juego puede ejecutarse sin que la protección impida su funcionamiento. Este matiz técnico es relevante porque la mayoría de métodos asociados a Denuvo funcionan precisamente de esa manera. En muchos casos no se elimina realmente el sistema de protección, sino que se crea una vía alternativa para saltárselo. Dicho de otra forma, Denuvo sigue ahí, ejecutándose en segundo plano… pero ya no cumple la función para la que supuestamente fue contratado. Y aunque este tipo de bypass no sea un crack “limpio”, lo cierto es que basta para dejar en evidencia la protección . Lo que hace especialmente llamativo el caso de Pragmata es el momento en el que ha aparecido este bypass. Lo habitual es que los métodos para saltarse Denuvo empiecen a circular días o semanas después del lanzamient o de un juego, cuando el interés de la comunidad técnica y de los grupos de cracking se ce",
+      "link": "https://www.muycomputer.com/2026/04/16/nuevo-golpe-a-denuvo-pragmata-ya-puede-jugarse-antes-de-su-estreno-oficial/",
+      "pubDate": "Thu, 16 Apr 2026 16:28:34 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Pragmata-2.jpg",
+      "subcat": "mercado"
     },
     {
       "id": "e5ec4853ce00d1e3d2be",
@@ -313,6 +325,26 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e9c/live/c9573d60-327b-11f1-b297-95b0a0a8331e.jpg"
     },
     {
+      "id": "299c667db228439991dd",
+      "title": "PS6 y PS6 portátil serán retrocompatibles con PS4 y PS5",
+      "summary": "Una presentación de AMD filtrada, a la que tuvo acceso Moore´s Law is Dead , confirma que tanto PS6 como PS6 portátil tendrán una retrocompatibilidad total con PS5 y PS4. Esto es algo que ya dábamos por hecho, porque para Sony no ofrecer esa retrocompatibilidad sería un grave error , ya que haría que sus nuevas consolas tuvieran un nivel de prestaciones inferior al de su gran rival, Xbox Project Helix. No obstante, aunque es algo que dábamos por hecho tener la confirmación a través de una presentación de la propia AMD es importante, ya que nos permite tener totalmente claro que no habrá sorpresas desagradables en este sentido , y que las consolas de nueva generación de Sony serán retrocompatibles con PS4 y PS5. En la presentación se mencionan detalles importantes que apuntan a una retrocompatibilidad total , lo que significa que los juegos de PS4 y PS5 funcionarán a la perfección en PS6 y PS6 portátil, y que además esta se extenderá a tecnologías como el reescalado por IA, el trazado de rayos y los modos de bajo consumo. Es lógico que Sony haya optado por este enfoque con sus consolas de próxima generación. Microsoft viene apostando por la retrocompatibilidad desde el lanzamiento de Xbox 360, una consola que ofrecía compatibilidad con una parte de los juegos de Xbox, a pesar de las diferencias entre ambas a nivel de arquitectura, y Xbox Series X es retrocompatible con Xbox One, Xbox 360 y Xbox. Microsoft va a mantener esa retrocompatibilidad con Xbox Project Helix , así que para Sony es imprescindible ofrecer también un buen nivel de retrocompatibilidad con PS6 y PS6 portátil para que ambas sean competitivas frente a la nueva generación de Microsoft. No tenemos ninguna referencia sobre la posible retrocompatibilidad de ambas consolas con PS3 y con generaciones anteriores, algo que los usuarios de PS5 llevan tiempo pidiendo a Sony. Hemos visto rumores que sugieren que PS6 podría ser la primera consola de la compañía en ofrecer una retrocompatibilidad plena con todas ",
+      "link": "https://www.muycomputer.com/2026/04/16/ps6-y-ps6-portatil-seran-retrocompatibles-con-ps4-y-ps5/",
+      "pubDate": "Thu, 16 Apr 2026 13:39:32 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/PS6-portatil-generada-con-IA-1.jpg"
+    },
+    {
+      "id": "13a1a285161ae05fec90",
+      "title": "Intel Core Ultra Series 3: especificaciones y claves",
+      "summary": "El gigante del chip ha lanzado hoy los Intel Core Ultra Series 3 , una nueva generación de procesadores para portátiles conocidos también por su nombre en clave, Wildcat Lake. Los Intel Core Ultra Series 3 repiten la configuración de núcleos P y núcleos E que hemos visto en Intel Panther Lake , pero con una particularidad, y es que vienen sin núcleos LP (consumo ultrabajo). Es un cambio importante, pero tiene un lado positivo, y es que permite a Intel reducir costes, y por tanto reducir precios. Diseño y especificaciones de los Intel Core Ultra Series 3 Estos procesadores también repiten el diseño basado en bloques que hemos visto en la serie Core Ultra de Intel. Tenemos dos bloques, uno de computación donde se integran el procesador, la GPU, la NPU y la controladora de memoria, y otro bloque de plataforma. Todo esto es lo que contiene el bloque de computación: CPU de hasta 6 núcleos, repartidos en dos núcleos P (Cougar Cove) y cuatro núcleos E (Darkmont). NPU 5 con una potencia de hasta 17 TOPs. Gráfica integrada Intel Xe3 con hasta dos núcleos gráficos. Compatible con memoria LPDDR5X a 7.467 Mbps y con DDR5 a 6.400 Mbps. 4 MB de caché L2 adicional. En el bloque de plataforma tenemos: Sistema PCIe con 6 líneas PCIe Gen4. Sistema USB con soporte de hasta dos puertos Thunderbolt 4, dos USB 3.2 y ocho USB 2.0. Intel Wi-Fi 7 e Intel Bluetooth Core 6.0. Claves a nivel de plataforma: equilibrio entre rendimiento y coste Esta es la mejor manera de describir lo que ha hecho Intel con los Core Ultra Series 3. A nivel de plataforma, el gigante del chip ha apostado por una configuración de memoria en canal único, porque según Intel ofrece el ancho de banda adecuado para ofrecer un buen rendimiento en las tareas más comunes. Esto tiene un lado negativo, y es que el rendimiento de la CPU en tareas muy dependientes se verá afectado, y lo mismo ocurrirá con la GPU integrada, ya que su ancho de banda se verá limitado por esa configuración en canal único. A nivel de almacenamiento,",
+      "link": "https://www.muycomputer.com/2026/04/16/intel-core-ultra-series-3-especificaciones-y-claves/",
+      "pubDate": "Thu, 16 Apr 2026 13:00:42 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Intel-Core-Series-3-procesadores-claves-1.jpg"
+    },
+    {
       "id": "d94dc5887123f618fef4",
       "title": "4 posibles escenarios que pueden darse en la guerra entre EE.UU. e Irán",
       "summary": "¿Se mantendrá el alto el fuego y continuará la diplomacia, o se dirigen Irán y Estados Unidos hacia una escalada controlada o incluso hacia una guerra más amplia?",
@@ -321,6 +353,16 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/929f/live/3e6fadb0-38d2-11f1-9d5c-8ba507d7dbde.jpg"
+    },
+    {
+      "id": "9171009a3a28c35a1630",
+      "title": "Resident Evil Requiem y Pragmata utilizan SER, ReSTIR GI y DLSS RR: ¿sabes qué son y por qué importan?",
+      "summary": "Ya os contamos en nuestro análisis técnico que Resident Evil Requiem implementa trazado de rayos y trazado de trayectorias, dos tecnologías que también está presente en Pragmata, y que mejoran de forma drástica el comportamiento de la luz y las interacciones de esta con la geometría en ambos juegos. En Resident Evil Requiem la diferencia que marca el trazado de trayectorias es espectacular , y lo mismo os puedo decir de Pragmata, un juego que estoy probando poco a poco, y cuyo análisis técnico espero publicar en los próximos días si el tiempo me lo permite. Capcom ha hecho un trabajo excelente con la integración del trazado de trayectorias en ambos juegos, y ha llegado a un nivel que no tiene nada que ver con entregas anteriores, como Resident Evil Village , que hacía un uso bastante pobre del trazado de rayos. El trazado de trayectorias supone un importante desafío cuando se implementa en un juego actual, porque este tiene una geometría muy compleja, lo que acaba disparando la exigencia a nivel de rendimiento . Si no se optimiza adecuadamente nos encontraremos con unos requisitos de hardware exagerados, y si se hacen ciertos sacrificios podríamos encontrarnos con una gran cantidad de ruido en la imagen. Trazado de trayectorias: así se ha implementado en Resident Evil Requiem y en Pragmata NVIDIA ha publicado un nuevo vídeo donde explican de una manera muy técnica y profunda cómo ha sido la implementación del trazado de rayos, y del trazado de trayectorias, en el RE Engine de nueva generación utilizado en Resident Evil Requiem y Pragmata. Toda la implementación corrió a cargo de Kenta Nakamoto y Kosuke Nabata, de Capcom, que completaron el proceso en un año y medio. Trazado de rayos y trazado de trayectorias comparten el mismo pipeline en esta implementación , una medida muy inteligente ya que simplifica y facilita la integración de ambos en juegos. Ambas tecnologías utilizan también RayQuery , y realizan la evaluación del mismo material utilizando recursos sin vinc",
+      "link": "https://www.muycomputer.com/2026/04/16/resident-evil-requiem-y-pragmata-utilizan-ser-restir-gi-y-dlss-rr-sabes-que-son-y-por-que-importan/",
+      "pubDate": "Thu, 16 Apr 2026 11:37:31 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/cola-trazado-de-trayectorias-NVIDIA-Capcom.jpg"
     },
     {
       "id": "588a99048a5e4ed21079",
@@ -375,6 +417,26 @@
       "subcat": "mercado"
     },
     {
+      "id": "ed17127841c9b641dc45",
+      "title": "Los próximos sockets de Intel serán mucho más longevos, LGA1700 tendrá una gran vida útil",
+      "summary": "En los últimos diez años Intel siempre ha tenido un punto débil si comparamos con AMD, la longevidad de sus sockets, que ha sido claramente inferior. Solo tenemos que fijarnos en lo que ha ocurrido con el socket AM4 para darnos cuenta de que AMD ha hecho mucho mejor las cosas en este sentido. El socket AM4 se lanzó en 2017 junto con los procesadores Ryzen de primera generación, y una placa base con chipset X370 y un buen VRM puede montar sin problemas un procesador Ryzen 9 5950X. Esto quiere decir que esa placa base, lanzada en 2017, es capaz de montar un procesador lanzado en 2020, y que además ha tenido soporte para cuatro generaciones de CPUs AMD diferentes: Ryzen 1000. Ryzen 2000. Ryzen 3000. Ryzen 5000. Por contra, el socket LGA1151 con chipset serie 100 y chipset serie 200, que era lo que tenía Intel en el mercado cuando llegó el socket AM4, solo tenía soporta para procesadores Intel Core Gen 6 e Intel Core Gen 7 , es decir, para Skylake y Kaby Lake. La diferencia en este sentido es abrumadora, porque Kaby Lake tiene como tope de gama procesadores de cuatro núcleos y ocho hilos y un rendimiento monohilo competitivo con los Ryzen 2000, mientras que en la serie Ryzen 5000 tenemos un rendimiento monohilo competitivo con los Core Gen 12, y un rendimiento multihilo excelente en modelos como el Ryzen 9 5950X, que tiene 16 núcleos y 32 hilos. Intel promete sockets más longevos, y mantendrá vivo el socket LGA1700 Una fuente bastante conocida asegura que el gigante del chip ha aprendido la lección, y que está trabajando para que su próximo socket, el LGA1954, tenga una vida útil mucho mayor , y que esté a la altura de los sockets de AMD en este sentido. Sin embargo, no tendremos que esperar a esa nueva plataforma para disfrutar de una mayor vida útil en los sockets de Intel, porque la compañía tiene pensado trasladar la estrategia de AMD con el socket AM4 al socket LGA1700. Sé lo que estás pensando, ¿y cómo piensa conseguirlo? Lanzando nuevos procesadores Raptor Lake e",
+      "link": "https://www.muycomputer.com/2026/04/16/los-proximos-sockets-de-intel-seran-mucho-mas-longevos-lga1700-tendra-una-gran-vida-util/",
+      "pubDate": "Thu, 16 Apr 2026 09:56:13 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Intel-sockets-mas-longevos.jpg"
+    },
+    {
+      "id": "67757d55e1e9e911b54b",
+      "title": "Amazon presenta un nuevo Fire TV Stick HD, el primero con alimentación directa",
+      "summary": "Amazon ha anunciado el lanzamiento del Fire TV Stick HD. Manteniendo el precio contenido que caracteriza a esta línea de producto, la compañía destaca que el dispositivo es más rápido y delgado que versiones anteriores, cuenta con sistema operativo y es el primero de la serie con alimentación energética directa. Hace casi una década que analizamos uno de los primeros Fire TV que llegaron al mercado. Desde entonces, Amazon ha ido lanzando más y renovadas versiones para resoluciones FHD y 4K y los ha convertido en los más vendidos del segmento que conocemos como &#8216;streamers de hardware&#8217;. Su objetivo inicial no ha cambiado. Básicamente, permite elevar a la categoría de «inteligente» televisores sin funciones de Smart TV, mejorar las prestaciones de las pantallas más antiguas o elevar las capacidades de las más nuevas. Además, puedes llevarlo a cualquier parte en un bolsillo y conectarlo a un televisor (o monitor) con HDMI y acceso a Wi-Fi. Fire TV Stick HD, más opciones Amazon tiene varios dispositivos de este tipo en catálogo, por lo que hay que preguntarse qué novedades presenta éste. Hay dos relevantes, de software y de hardware. La primera estriba en la nueva interfaz de usuario que junto al también nuevo sistema operativo Vega OS , Amazon desplegará próximamente como actualización de su ecosistema. La segunda es un cambio relevante ya que se trata del primer Fire TV que incluye alimentación energética directa . O lo que es lo mismo, la alimentación de energía para que funcione la proporcionará el mismo dispositivo y no tendremos que conectarlo a fuentes de alimentación externas, evitando el uso de adaptadores externos como sucede con los actuales, conectándolos a un puerto USB del televisor. Dice Amazon que el nuevo Fire TV Stick HD es el dispositivo de streaming más delgado , más pequeño en volumen y ancho que los modelos anteriores. La alimentación directa comentada, también permite integrarlo mejor detrás de la pantalla. El nuevo Fire TV también ofre",
+      "link": "https://www.muycomputer.com/2026/04/16/amazon-presenta-un-nuevo-fire-tv-stick-hd-el-primero-con-alimentacion-directa/",
+      "pubDate": "Thu, 16 Apr 2026 08:43:55 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Fire_TV_Stick_HD_3.jpg"
+    },
+    {
       "id": "ccc76f9f2f41fb3d0978",
       "title": "La omnicanalidad transversal: el nuevo alimento de los LLM en la gran empresa",
       "summary": "En la última década, las estrategias de contenidos han evolucionado y pasado de ser un silo operativo a convertirse en el sistema nervioso central de las grandes corporaciones. Sin embargo, en un mundo y una sociedad cada vez más volátil, no es de extrañar que la tecnología también lo sea, por lo que sí, el paradigma ha vuelto a cambiar. Ya no basta con “estar”, el surgimiento de los modelos de lenguaje de gran tamaño (LLM), ha transformado el contenido corporativo en el combustible que entrena la percepción de marca de la IA . Hoy hablamos de IA para realizar cualquier acción, está presente en el ensamblado desde el principio hasta el fin, lo cual es muy peligroso para la comunicación de una marca. La relevancia de una compañía no se mide por su autoridad, ni de dominio (DA) ni de perfil (PA), sino por su capacidad para desplegar estrategias transversales que unan el SEO , las redes sociales y los soportes dinámicos como YouTube. ¿Por qué? Fácil: Ni los LLM ni los motores de respuesta (SGE) consumen data aislada. ¿Esto qué significa? Que consumen ecosistemas. Si las corporaciones no proyectan narrativa coherente y técnicamente optimizada en cada una de las fases de su modelo de atribución, el riesgo de ser malinterpretada o ignorada por los algoritmos se eleva exponencialmente. Comunicación líquida para adaptarse a usuarios y canales sin perder la identidad La clave de esta eficiencia radica en la segmentación algorítmica del Buyer Persona . Ya no existe un único perfil de cliente, sino una representación del mismo por cada canal. El usuario que busca una solución técnica en Google no consume la misma narrativa que aquel que busca formación visual en YouTube o cercanía en redes sociales. Las grandes empresas deben, por tanto, definir una línea de comunicación líquida : lo suficientemente sólida para mantener la identidad de marca, pero lo suficientemente flexible para adaptarse a los formatos que los modelos de IA priorizan. En este nuevo escenario, el contenido no",
@@ -394,6 +456,16 @@
       "source": "Marketing4ecommerce",
       "cat": "tech",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/limite-de-visualizacion-de-shorts-1-1024x614.jpg"
+    },
+    {
+      "id": "16042aa91fa6f080a0e3",
+      "title": "Zorin OS 18.1 llega para aprovechar el peor momento de Windows",
+      "summary": "Zorin OS 18.1 es la nueva versión de la distribución GNU/Linux pensada especialmente para atraer a los usuarios desencantados de Windows . Un grupo cada vez mayor ante el mal estado de Windows 11 y la falta de una respuesta rápida y contundente de Microsoft. Linux sigue siendo la mejor alternativa para los usuarios que están hasta el gorro de los problemas de Windows 11, los que aún queriendo no pueden usarlo por el caos de requisitos de hardware y también para los que aún usan Windows 10, una versión sin soporte oficial estándar y cuyo programa de seguridad extendida (ESU) finaliza el próximo octubre. Aunque también puedes pasarte al ecosistema de Apple como alternativa y ahí está el MacBook Neo vendiendo unidades por millones, Linux es simplemente imbatible para actualizar (o recuperar) equipos nuevos o viejos totalmente gratis. Zorin OS 18.1, mejorando lo presente Si de manera general Linux es perfecto para salir del círculo cada vez más viciado de Windows, Zorin OS es una de las distribuciones más recomendables porque -desde su lanzamiento inicial- está pensada especialmente para usuarios de Windows que quieren dar el salto al ecosistema de código abierto. Los 3,3 millones de descargas de Zorin OS 18 confirman que este grupo de usuarios valora el desarrollo. La nueva edición llega seis meses después del lanzamiento de la versión general y contiene novedades de interés, como resumen: mejoras en la interfaz, aumento y optimización en el soporte de hardware, mayor compatibilidad con aplicaciones Windows y la vuelta de una variante &#8216;Lite&#8217; que gustó especialmente a los usuarios que apuestan por la ligereza y bajo consumo de recursos de sistemas operativos. Confirmando que esta distribución está centrada en conseguir que los usuarios de Windows recién llegados se sientan como en casa , uno de los cambios más interesantes es la ampliación de su base de datos integrada para detectar archivos de instalación de aplicaciones populares de Windows en más de un 40",
+      "link": "https://www.muycomputer.com/2026/04/16/zorin-os-18-1-llega-para-aprovechar-el-peor-momento-de-windows/",
+      "pubDate": "Thu, 16 Apr 2026 07:21:30 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Zorin-OS-18.1_2.jpg"
     },
     {
       "id": "d3e37d88bfeb83a1d787",
@@ -456,6 +528,106 @@
       "image": "https://static.eldiario.es/clip/ad46dfa1-5066-49f8-bd02-65d4c44167f7_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
+      "id": "868305ea283d1af884ad",
+      "title": "Los famosos de la final de Copa",
+      "summary": "Los famosos hinchas del Atlético de Madrid y de la Real Sociedad.",
+      "link": "https://www.marca.com/tiramillas/sociedad/album/2026/04/18/famosos-final-copa-real-sociedad-atletico.html",
+      "pubDate": "Sat, 18 Apr 2026 10:28:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e337dabc4e4.jpeg"
+    },
+    {
+      "id": "0f015b42bc3635a00b9c",
+      "title": "Mercedes cierra la puerta a Verstappen",
+      "summary": "Russell y Verstappen se saludan tras una carrera.",
+      "link": "https://www.marca.com/motor/formula1/2026/04/18/mercedes-cierra-puerta-verstappen.html",
+      "pubDate": "Sat, 18 Apr 2026 10:23:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e33c016254e.jpeg"
+    },
+    {
+      "id": "c60791a307a4d2f51bc4",
+      "title": "Vondrousova se rompe tras no pasar un control antidopaje por miedo",
+      "summary": "Vondrousova",
+      "link": "https://www.marca.com/tenis/2026/04/18/vondrousova-rompe-pasar-control-antidopaje-miedo-llegue-limite-necesito.html",
+      "pubDate": "Sat, 18 Apr 2026 10:22:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e25ec060f82.jpeg"
+    },
+    {
+      "id": "32151b23e995047ad9b2",
+      "title": "\"Nos volvíamos locos, íbamos corriendo a la piscina, volvíamos... los vecinos se preguntaban quién jugaba\"",
+      "summary": "GIANLUCA Y GIULIANO SIMEONE VIENDO LA FINAL DE 2013.",
+      "link": "https://www.marca.com/futbol/atletico/2026/04/18/primera-copa-giuliano-vecinos-hicieron-atletico.html",
+      "pubDate": "Sat, 18 Apr 2026 10:11:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e26f348a588.jpeg"
+    },
+    {
+      "id": "960969d1b8723fb4fce7",
+      "title": "El terrible parte de lesiones de Piqueras tras el accidente múltiple de Moto2 en Austin",
+      "summary": "Piqueras recibe el golpe.",
+      "link": "https://www.marca.com/motor/moto2/2026/04/18/terrible-parte-lesiones-piqueras-accidente-multiple-moto2-austin.html",
+      "pubDate": "Sat, 18 Apr 2026 09:41:38 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e331d7f0ef7.jpeg"
+    },
+    {
+      "id": "20e3a2347d7d69c37b8d",
+      "title": "¿Qué once sacarán Simeone y Matarazzo?",
+      "summary": "descarga",
+      "link": "https://www.marca.com/futbol/copa-rey/2026/04/18/final-copa-rey-directo-previa-atletico-real-sociedad-hoy-vivo.html",
+      "pubDate": "Sat, 18 Apr 2026 09:36:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e334594e7f4.png"
+    },
+    {
+      "id": "8bd545c530ce3c9f02c7",
+      "title": "Hasta la FIFA se planta por el \"exorbitante\" subidón de precios para el Mundial: 150 dólares... ¡por un tren de 12!",
+      "summary": "Gianni Infantino, en un acto de la FIFA.",
+      "link": "https://www.marca.com/futbol/mundial/2026/04/18/fifa-planta-exorbitante-subidon-precios-mundial-150-dolares-tren-12.html",
+      "pubDate": "Sat, 18 Apr 2026 09:28:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/17/69b9434d47159.jpeg"
+    },
+    {
+      "id": "e5bcff0b00c79c8a5f3b",
+      "title": "Baba Miller: otro español en el draft de la NBA",
+      "summary": "Baba Miller, en un partido con la Universidad de Cincinnati",
+      "link": "https://www.marca.com/baloncesto/nba/2026/04/18/baba-miller-espanol-draft-nba.html",
+      "pubDate": "Sat, 18 Apr 2026 09:21:54 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e32d7158b4e.jpeg"
+    },
+    {
+      "id": "6f7854bffdadd83c2b5a",
+      "title": "Cristóbal Lorente sale por la Puerta Grande en Glasgow: “Pronto tendremos campeón mundial”",
+      "summary": "Cristóbal Lorente golpea a Nathaniel Collins en su segundo combate.",
+      "link": "https://www.marca.com/boxeo/2026/04/18/cristobal-lorente-sale-puerta-grande-glasgow-pronto-tendremos-campeon-mundial.html",
+      "pubDate": "Sat, 18 Apr 2026 09:16:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e32e3c1fd2f.jpeg"
+    },
+    {
+      "id": "e1ad1c675d8b681882e0",
+      "title": "El curioso caso del Maybach de Vinicius: esta fue la 'macabra' última voluntad de su creador",
+      "summary": "Vini Jr. tiene en su garaje uno de los Maybach más exclusivos jamás creados.",
+      "link": "https://www.marca.com/coches-y-motos/coches/2026/04/18/curioso-caso-maybach-vinicius-macabra-ultima-voluntad-creador.html",
+      "pubDate": "Sat, 18 Apr 2026 09:01:41 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e1e8960e9c8.jpeg"
+    },
+    {
       "id": "459d786b3b4581f01fe5",
       "title": "A la luz las posibles causas del ataque de un tiburón a un turista español en su luna de miel: una planta de pescado, días sin comer...",
       "summary": "Tiburón.",
@@ -486,6 +658,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e3269ab7336.jpeg"
     },
     {
+      "id": "0649627641f1c1706e9c",
+      "title": "Reunión de líderes progresistas en Barcelona, en directo | Sánchez, ante los “ataques” a la democracia: “No basta con resistir, tenemos que proponer”",
+      "summary": "Pedro Sánchez, con la presidenta de México, Claudia Sheinbaum, en la Reunión en Defensa de la Democracia este sábado en Barcelona.",
+      "link": "https://elpais.com/espana/2026-04-18/reunion-de-lideres-progresistas-en-barcelona-en-directo-global-progressive-mobilisation-y-la-iv-reunion-en-defensa-de-la-democracia.html",
+      "pubDate": "Sat, 18 Apr 2026 08:35:42 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/VBSR46FIFNB65JUEMPESHLPLMM.JPG?auth=05db2c3b883723975cbecc38ca65e76ad127a2e4674c91edf9c1df82354ddf20"
+    },
+    {
+      "id": "9dcdc0c7d25a6d53b7c6",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que hay “noticias bastante buenas” sobre Irán pero deja en el aire la prórroga del alto el fuego",
+      "summary": "Una imagen satelital muestra el tráfico marítimo en el estrecho de Ormuz, el 2 de abril.",
+      "link": "https://elpais.com/internacional/2026-04-18/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Sat, 18 Apr 2026 08:32:54 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/CCQ45KIE5JNCVI6TK7YXNY3LCQ.jpg?auth=e27ad2d6316843087580bcded7a3c0753bc71750690ffd1d59b33467bf7edbb7"
+    },
+    {
       "id": "cdf7c1a230b53dfb4201",
       "title": "La Policía avisa: \"Lo necesitarás para acceder a la final\"",
       "summary": "Yon Cuezva denuncia el elevado coste que supone para el aficionado asistir a la final de La Cartuja.",
@@ -496,24 +688,56 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/adKMQ1fuWEibccGQx.jpeg"
     },
     {
+      "id": "de694ac9bb07c49a5a38",
+      "title": "La batalla por el relato: todo CEO es una estrella",
+      "summary": "OpenAI tiene lo que la industria de las relaciones públicas podría llamar un problema de imagen. El creador de ChatGPT debe convencer a los inversores de su futura rentabilidad y a todos los demás —el público trabajador, votante y hasta el que arroja piedras— de su humanidad. Ambas tareas son complicadas. Tan complicadas que Sam Altman, el director ejecutivo de OpenAI, ha decidido que contratar a los tradicionales especialistas en comunicación corporativa simplemente no es suficiente. En cambio, ha comprado un programa de entrevistas. Según The Financial Times, OpenAI pagó “cientos bajos de millones” de dólares por TBPN , un excéntrico videopodcast de 18 meses de antigüedad presentado por un par de carismáticos jóvenes tecnólogos vestidos de traje. Estéticamente, el programa es una mezcla entre CNBC y Nascar. Un invitado típico podría ser Alex Karp, el director ejecutivo de Palantir, repasando su rutina de ejercicios (“el dead hang es crucial”). O el propio Altman, conversando sobre el último modelo de su empresa. Afortunadamente para el jefe de OpenAI, sus dos periodistas favoritos ahora son también dos de sus empleados mejor remunerados. Altman está lejos de ser un caso único entre la élite empresarial estadounidense, tanto en su deseo de aparecer en cámara como en el de ser propietario del programa. Han quedado atrás los días en que los directores ejecutivos limitaban sus declaraciones públicas a comentarios mordaces en las conferencias de resultados y a alguna que otra cita para periodistas que, después de todo, “no saben realmente de lo que hablan”. En cambio, el jefe moderno se somete a horas de interrogatorios amables por parte de sus pares. Los programas más grandes, como los conducidos por Joe Rogan o Lex Fridman, son eventos comparables al Super Bowl. Muchos otros cuentan con audiencias pequeñas, apasionadas y mayoritariamente masculinas, similares a los partidos de fútbol serbio de tercera división. China está ganando la carrera por el talento de la IA El",
+      "link": "https://www.lanacion.com.ar/economia/negocios/la-batalla-por-el-relato-todo-ceo-es-una-estrella-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:30:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/KJTJK4TPYFHA3OSYM5R7INAYO4.JPG?auth=3cd17a47bd4f62f09526657e0d88ab72ed7d3301ef901c91e680d924d9b80c71&smart=true&width=8011&height=5341",
+      "subcat": "empresas"
+    },
+    {
+      "id": "3b8ee3f780c757236c52",
+      "title": "Día 50 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
+      "summary": "El conflicto en Medio Oriente entró este sábado 18 de abril en su 50° día de guerra, en el marco de fuertes tensiones. En vísperas de que finalice el cese al fuego acordado entre Estados Unidos e Irán, crece la incertidumbre sobre cómo seguirá la guerra. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Donald Trump celebró la apertura de Ormuz y dijo que el presidente de China “está muy contento”. EE.UU. anunció el levantamiento temporal de la mayoría de sanciones contra el petróleo ruso. Irán anunció la reapertura de su espacio aéreo en su parte oriental . En Irán crece el optimismo de un acuerdo con EE.UU. Estados Unidos activa el bloqueo naval del estrecho de Ormuz y Trump afirma que Irán quiere seguir el diálogo. Fuerte reacción del petróleo y de Wall Street a la apertura del estrecho de Ormuz. Otros hechos de importancia Trump: “La guerra en Irán está yendo de maravilla”. El papa León XIV pidió por la paz en el Líbano y reclamó un cese al fuego. En respuesta a las expresiones del Papa, el mandatario estadounidense le respondió: “No quiero un Papa que piense que está ok que Irán tenga un arma nuclear”. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos terminado, tomen el control de su gobierno. Será suyo. Esta será probablemente su única oportunidad durante generaciones”, dijo en un video difundido en redes sociales. Estados Unidos hizo la mayor movilizaci",
+      "link": "https://www.lanacion.com.ar/el-mundo/dia-50-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:30:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/RAPTDKTSMRA6NOU477O5LVHVU4.JPG?auth=35c930e043953625bc0e6c5854a5f037b49382f4cb5f1a1502b2101a0bacbfea&smart=true&width=3500&height=2333"
+    },
+    {
       "id": "6c13efeba66f0963e922",
       "title": "El 'influencer' de La Fábrica",
-      "summary": "Liberto, a la izquierda de la imagen, celebra junto a Ciria y Carlos Díez el pase a la final.",
+      "summary": "Liberto sujeta una camiseta durante la celebración del pase a la Final de la Youth.",
       "link": "https://www.marca.com/futbol/real-madrid/2026/04/18/influencer-fabrica.html",
       "pubDate": "Sat, 18 Apr 2026 08:28:18 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e2a32de9a69.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e333e2f07e1.jpeg"
     },
     {
-      "id": "9118117be216c9a022c2",
-      "title": "Evenepoel quiere brindar aprocehando el 'vacío' en la Amstel",
-      "summary": "Amstel Gold Race 2026.",
-      "link": "https://www.marca.com/ciclismo/2026/04/18/amstel-gold-race-2026-recorrido-favoritos-horario-ver.html",
-      "pubDate": "Sat, 18 Apr 2026 08:25:55 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e2aa9e6c966.jpeg"
+      "id": "dae1fb27d6aff73adbae",
+      "title": "Anticipar ya no alcanza: los nuevos desafíos para descifrar el cambio",
+      "summary": "Durante años, hubo un momento casi ritual en el calendario corporativo: la publicación de los reportes de tendencias. Documentos largos, densos, muchas veces interminables, que circulaban por directorios y mesas de decisión con una promesa clara: no sólo anticipar el futuro, sino ofrecer un marco para tomar decisiones en el presente con cierta ventaja sobre lo que estaba por venir. Por eso, lo que ocurrió este año en el festival SXSW- uno de los festivales más relevantes a nivel global en materia de innovación, tecnología y cultura- no fue un detalle menor. En una de las charlas más esperadas del evento, la futurista Amy Webb -una de las principales responsables de haber convertido esos informes en una herramienta clave para empresas y sector público- decidió hacer algo inesperado: escenificar su funeral. La metáfora no fue sutil. Según la fundadora Future Today Strategy Group, el formato mismo del reporte anual de tendencias “quedó obsoleto”. En un contexto donde la inteligencia artificial, la biotecnología, la robótica y la geopolítica avanzan en simultáneo, capturar “lo que viene” en una foto fija ya no alcanza. Para cuando ese documento llega a manos de los decisores, parte de lo que describe ya pertenece al pasado. El problema, plantea Webb, no es la falta de información, sino la forma de interpretarla. Durante mucho tiempo, el foco estuvo puesto en identificar tendencias individuales -IA, automatización, datos- como si cada una avanzara por su carril. Pero lo verdaderamente transformador ocurre en otro plano: en el punto donde esas tendencias se cruzan, se potencian y empiezan a reconfigurar sistemas enteros. Del ritual a la incertidumbre La propuesta de Webb es dejar de mirar el futuro como una serie de señales aisladas y empezar a entenderlo como un sistema en movimiento . Si las tendencias son datos del clima, las verdaderas disrupciones son las tormentas que se forman cuando esas variables colisionan. Y esas tormentas -advierte- no sólo son más difíciles d",
+      "link": "https://www.lanacion.com.ar/economia/negocios/anticipar-ya-no-alcanza-los-nuevos-desafios-para-descifrar-el-cambio-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:26:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/B6KASO3BHRD2RLS25QT7CSTQ6I.jpg?auth=24df5d4143445b19f421ae7ff4a21e3717816b9df8b11e244a83f913c63d1063&smart=true&width=2000&height=1333",
+      "subcat": "desarrollo"
+    },
+    {
+      "id": "2d3acaba4316a2ee712e",
+      "title": "Irán restablece el control militar sobre Ormuz por las \"violaciones\" de EE.UU.",
+      "summary": "En Teherán afirman que la decisión se debe a la negativa de EE.UU. de levantar su bloqueo.",
+      "link": "https://actualidad.rt.com/actualidad/599962-iran-restablece-control-militar-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 18 Apr 2026 08:23:46 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e3406059bf5b6c0e51ed1d.jpg"
     },
     {
       "id": "3a607b9e0a7e7cae5d7d",
@@ -524,16 +748,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/02/69ce632b2d884.jpeg"
-    },
-    {
-      "id": "ba923db1964e89403371",
-      "title": "Cerezo, a la altura de Vicente Calderón",
-      "summary": "Enrique Cerezo.",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/18/cerezo-altura-vicente-calderon.html",
-      "pubDate": "Sat, 18 Apr 2026 08:17:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e1e640c8416.jpeg"
     },
     {
       "id": "bc8c0a91036b0903e561",
@@ -556,8 +770,109 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e1e909a5ca2.jpeg"
     },
     {
+      "id": "daf3c1a6e9a4d07302de",
+      "title": "VIDEO: Soldados israelíes celebran mientras exhiben poblados en ruinas en el Líbano",
+      "summary": "Soldados israelíes difundieron imágenes desde el sur del Líbano en las que muestran la destrucción en la zona y la califican como un \"éxito tremendo\", tras el alto al fuego entre Israel y Hezbolá. Miles de casas en la región fueron arrasadas durante la ofensiva de Tel Aviv, forzando desplazamientos masivos.",
+      "link": "https://actualidad.rt.com/actualidad/599953-video-soldados-israelies-celebrar-exhibir-destruccion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 18 Apr 2026 08:13:20 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e32f6659bf5b76cc273707.jpg"
+    },
+    {
+      "id": "7615feff657706cb746c",
+      "title": "Los Warriors de Stephen Curry se quedan sin playoffs y vislumbran el fin de una era",
+      "summary": "Stephen Curry abraza a Draymond Green tras el partido contra Phoenix Suns en el cierre de la temporada para los Warriors.",
+      "link": "https://elpais.com/deportes/baloncesto/2026-04-18/los-warriors-de-stephen-curry-se-quedan-sin-playoffs-y-vislumbran-el-fin-de-una-era.html",
+      "pubDate": "Sat, 18 Apr 2026 08:11:59 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/OBLCVUDB25MINFFTSRU2RWXSDM.jpg?auth=aa058092675b796d92e7150a3292936565eeee6a1700cb6c87a90fd2d76ed9d6"
+    },
+    {
+      "id": "ecbb047db7b2f5c1c3ac",
+      "title": "Líder del CGRI advierte sobre las \"narrativas falsas\" de EE.UU. acerca de Ormuz",
+      "summary": "Además, aseguró que las fuerzas iraníes están en máxima alerta y preparadas para responder a cualquier amenaza.",
+      "link": "https://actualidad.rt.com/actualidad/599954-lider-cgri-advierte-narrativas-falsas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 18 Apr 2026 08:05:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e32f94e9ff715c540aa754.jpg"
+    },
+    {
+      "id": "4a2cd0f8535845762ad0",
+      "title": "Amenaza eléctrica: las automotrices japonesas enfrentan su mayor desafío en décadas",
+      "summary": "En una sombría conferencia de prensa el mes pasado, Mibe Toshihiro, director ejecutivo de Honda, anunció que la automotriz japonesa se encaminaba a registrar su primera pérdida neta desde 1957 en el ejercicio fiscal que finaliza en marzo, un fracaso por el cual asumió la responsabilidad personal. Como señal de contrición, Mibe indicó que reduciría su salario en un 30%, al igual que el de su adjunto. Honda no es la única automotriz japonesa bajo una fuerte presión. En un evento de la industria la semana siguiente, Mibe lanzó una advertencia contundente: “La propia industria automotriz japonesa está al borde de la supervivencia.” No estaba exagerando. Nissan, que alguna vez fue la sexta automotriz más grande del mundo por ventas, está entrando en el segundo año de una brutal reestructuración, con el cierre de siete fábricas previsto para 2028. Un arancel del 25% a los autos importados en Estados Unidos ha afectado las ganancias del sector. Sin embargo, el golpe más duro proviene del vertiginoso ascenso de los competidores chinos. En 2019, las automotrices japonesas representaban el 31% de las ventas globales; para el año pasado, su participación había caído al 26%. El impacto ha sido aún mayor en Asia. En la propia China, las ventas de autos japoneses se han desplomado en un tercio desde 2019. En el sudeste asiático, que alguna vez fue un bastión, su cuota de mercado fue del 57% en 2025, frente al 68% de apenas dos años antes. Las automotrices japonesas parecían imbatibles. ¿Cómo salió todo tan mal? El corazón del problema es que, incluso más que sus contrapartes occidentales, las automotrices japonesas han tenido dificultades con la electrificación. Muchas han sido escépticas respecto a la permanencia de los vehículos eléctricos (VE), que representan una proporción ínfima de sus ventas. Los vehículos convencionales a nafta constituyen más de la mitad de las ventas de todas las automotrices japonesas; en el atribulado Nissan, esa proporción asciende al 80%. En lugar d",
+      "link": "https://www.lanacion.com.ar/economia/negocios/revolucion-electrica-las-automotrices-japonesas-enfrentan-su-mayor-desafio-en-decadas-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:02:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/7BOH6Z4KUND2BHMTQN5VJZOFJ4.jpeg?auth=2ca275cc4c72ba2c6368cd3415277da450a1a1e567bc1b0f75a679e4a29c7a22&smart=true&width=1200&height=675"
+    },
+    {
+      "id": "e1255795302e2d411af3",
+      "title": "El nuevo James Bond sigue sin actor porque están replanteando el rumbo completo de la saga",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La elección del nuevo James Bond sigue sin resolverse y, a estas alturas, ya no es solo una cuestión de casting. Han pasado cinco años desde la despedida de Daniel Craig en No Time to Die (Sin tiempo para morir) y la ausencia de un nuevo 007 en el horizonte empieza a tener más peso del que parece dentro de la industria. Pero lo interesante no es únicamente el retraso. Lo que realmente cambia el panorama es el motivo que hay detrás. Amazon MGM Studios ha querido explicar por qué todavía no hay sustituto y, sobre todo, por qué esta decisión está marcando el futuro de toda la saga. Amazon se toma el relevo de James Bond con calma… y con una intención clara Durante la presentación de MGM en CinemaCon, Courtenay Valenti, vicepresidenta de cine del estudio, abordó directamente la gran pregunta que lleva años sobre la mesa: ¿cuándo se anunciará al nuevo James Bond? Su respuesta fue clara y deja entrever el enfoque actual del estudio: «Ahora sé que todos os estáis preguntando cuándo vamos a anunciar quién interpretará a James Bond. Por favor, sabed que estamos dedicando el tiempo necesario para hacerlo con cuidado y un profundo respeto. Es el sueño de toda una vida para todos nosotros llevar al público este nuevo capítulo, y es una responsabilidad que no nos tomamos a la ligera» . No es una frase vacía. De hecho, encaja perfectamente con el momento que vive la franquicia. Tras más de 60 años y 25 películas, James Bond no solo es un personaje icónico, sino una marca extremadamente delicada que no puede permitirse un paso en falso. James Bond El peso de Daniel Craig y el problema de encontrar un nuevo 007 Aquí es donde entra la verdadera dificultad. Daniel Craig no fue un Bond más. Durante quince años redefinió el personaje con una versión más física, emocional y moderna que ha marcado a toda una generación de espectadores. Eso significa que el siguiente actor no solo debe estar a la altura, sino también ofrecer al",
+      "link": "https://www.cinemascomics.com/james-bond-sigue-sin-actor-rumbo-saga/",
+      "pubDate": "Sat, 18 Apr 2026 08:01:48 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Daniel-Craig-James-Bond.jpg"
+    },
+    {
+      "id": "05243298c2ba236764ab",
+      "title": "Cuidado con escribir estas 6 palabras en Google: así pueden hacerse con tus datos en cuestión de segundos",
+      "summary": "Buscar cualquier cosa en Google puede parecer inofensivo. La mayoría de resultados son de webs fiables o incluso la propia compañía hace resúmenes potenciados por inteligencia artificial que ya dan la respuesta que necesitábamos. Pero en los últimos meses ha incrementado la preocupación por una práctica que los hackers están llevando a cabo y con la que pueden hacerse con tus datos en segundos. Se llama SEO Poisoning (o envenenamiento SEO) y puede afectarte con escribir estas 6 palabras en Google . Ha sido la firma de ciberseguridad SOPHOS quien ha alertado de esta práctica cada vez más usada en el buscador de Google. Tal y como han detectado, la mayoría de gente que busca ¿“Son legales los gatos de Bengala en Australia?” , terminan robándoles su información personal al hacer clic en enlaces fraudulentos que se muestran en las primeras páginas. SOPHOS dice que son “ adwares maliciosos ” o incluso enlaces disfrazados de marketing legítimo o búsquedas legítimas en Google” que en realidad están controlados por hackers. Al hacer clic sobre este tipo de webs pueden descargarse archivos .ZIP que ejecutan programas o procesos que roban tus datos personales. Entre ellos direcciones postales, datos bancarios y más. The New Post , quien se ha hecho eco de la noticia, detalla que si bien está búsqueda es algo de nicho y no es tan popular como otras, revela la preocupación de estos ataques en Google incluso a la hora de realizar preguntas tan sencillas y cotidianas como esta. Cómo protegerte del SEO Poisoning que está afectando a Google Fingerprint El SEO Poisoning es una técnica muy sofisticada y es difícil de detectar. No obstante, hay una serie de pasos que puedes seguir para evitar caer en este tipo de estafas y ataques. Una de las recomendaciones es comprobar los enlaces antes de pulsar sobre el resultado. Asegúrate de que el enlace proviene de una web fiable (como Wikipedia o Reddit, por ejemplo). Además, evita introducir tus datos personales, tales como contraseñas, info",
+      "link": "https://hipertextual.com/tecnologia/cuidado-con-escribir-estas-6-palabras-en-google-asi-pueden-hacerse-con-tus-datos-en-cuestion-de-segundos/",
+      "pubDate": "Sat, 18 Apr 2026 08:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/google-inteligencia-artificial-2.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "mercado"
+    },
+    {
+      "id": "9e5497f4eee6cf7c2b18",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, sábado 18 de abril",
+      "summary": "La Autoridad de Aviación Civil de Irán anunció que este sábado se reabrió parcialmente el espacio aéreo a vuelos internacionales que cruzan la parte oriental de su territorio. “Las rutas en la zona oriental del espacio aéreo del país están abiertas para los vuelos internacionales en tránsito por Irán”, señaló, y añadió que algunos aeropuertos también habían reabierto a las 7 locales. Más de tres horas después, sin embargo, las páginas web de rastreo de vuelos seguían sin mostrar vuelos internacionales cruzando Irán, y varios evitaban su espacio aéreo realizando largos desvíos. Con información de AFP. La petrolera serbia Naftna Industrija Srbije, de propiedad rusa, ha conseguido una prórroga de la exención de las sanciones estadounidenses, según informa la agencia de noticias Tanjug . Según la publicación, la ministra de Energía serbia, Dubravka Dedovic Handanovic , afirmó que la compañía petrolera podría operar hasta el 16 de junio. Irán anunció que había reabierto por completo el estrecho de Ormuz a los buques comerciales, pero el sábado persistían las dudas sobre cuánta libertad tenían realmente los barcos para transitar por la vía marítima , ya que Teherán mantenía su control sobre quién podía pasar y amenazó con cerrarlo de nuevo si Estados Unidos mantenía su bloqueo a los barcos y puertos iraníes, consignó la agencia AP. El anuncio del viernes de Irán sobre la apertura de la crucial vía marítima por la que se envía alrededor del 20% del petróleo mundial se produjo mientras una tregua de 10 días parecía mantenerse en Líbano entre Israel y la milicia de Hezbollah. Mientras tanto, el presidente de Estados Unidos, Donald Trump, dijo que el bloqueo estadounidense “seguirá en pleno vigor” hasta que Teherán llegue a un acuerdo con Estados Unidos, el cual debe incluir su programa nuclear. Nueva Zelanda rechazó el sábado las acusaciones de Pekín sobre una vigilancia militar “ perturbadora e irresponsable ” en el espacio aéreo chino e insistió en que sus maniobras forman",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-18-de-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/DAQZCK6O3JENDKERVAQS75AX3A.jpg?auth=a21a710b91709366e4f67486db2713dce96b16ae77e40136ebe982826e8531ab&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "fe1e72a6bea0bd5ab01c",
+      "title": "La caja del agro: qué volumen de granos sigue en manos de los productores",
+      "summary": "Los productores ya vendieron 14,3 millones de toneladas de trigo a la exportación, el equivalente al 78% de un saldo exportable estimado en 18,3 millones de toneladas . Esto se produjo durante los primeros cuatro meses del año comercial , y todavía faltan ocho meses para su finalización. Por su parte, los exportadores han declarado ventas al exterior (DJVE) por un total de 12,6 millones de toneladas . Con destino a la exportación, los productores tienen en su poder 4 millones de toneladas de trigo , que, a un precio FOB de US$/t 233 , equivalen a US$932 millones de ingreso de divisas por exportaciones. Los molinos harineros, en tanto, tienen compras declaradas por un total de 2,5 millones de toneladas , sobre una molienda estimada en 5,5 millones de toneladas . El trigo pendiente de vender por parte de los productores a los molinos asciende a tres millones de toneladas . En el caso del maíz , los productores han vendido 21,3 millones de toneladas , mientras que la exportación ha declarado ventas por un total de 12,3 millones de toneladas . Considerando un saldo exportable estimado en 35 millones de toneladas , los productores mantienen en su poder 13,7 millones de toneladas , equivalentes a US$ 2900 millones de ingreso de divisas, en base a un precio FOB de US$/t 211 . “Nadie podía pensar hace 5 años”: las grandes empresas ven una oportunidad mundial inédita con el girasol En soja , los productores han vendido 1,3 millones de toneladas a la exportación, mientras que esta última tiene declaradas ventas por 2 millones de toneladas . La industria aceitera ha declarado compras de soja por un total de 10 millones de toneladas . En este caso, el dato de mercado indica que los productores vendieron 2,7 millones de toneladas a precio y 7,3 millones de toneladas a fijar , de las cuales ya se fijaron 383 mil toneladas , quedando pendientes de fijación 6,7 millones de toneladas . Considerando un volumen de molienda anual de soja estimado en 35 millones de toneladas , los produ",
+      "link": "https://www.lanacion.com.ar/economia/campo/agricultura/la-caja-del-agro-que-volumen-de-granos-sigue-en-manos-de-los-productores-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/NFG2SIYE4BB57JRUDR3FHY5BPA.jpg?auth=c3fb412148f4fa847f2038842169f1d0277c4e15a256a30c961caf65384cef22&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "44a9c0fbc193ec77da76",
+      "title": "Juan Carlos Dávalos y Ricardo Güiraldes, una amistad sellada en un camino polvoriento",
+      "summary": "La correspondencia suele muchas veces aportarnos valiosos datos para reconstruir la vida de ciertas personas -afortunadamente- como en este caso. Victoria Ocampo , al publicar el primer número de Sur, en el verano de 1931 no se resignaba a no tenerlo a Ricardo Güiraldes como colaborador, y suplió con estas palabras su ausencia física: “Todos los que hacen esta revista fueron amigos de Ricardo Güiraldes . Todos sabemos que él hubiera estado hoy aquí. Sur se honra al reproducir algunas de sus cartas -elegidas expresamente por Adelina del Carril - que forman parte de un epistolario inédito”. “Es jugar un Mundial”: designaron a un argentino para jurar en una importante competencia en Paraguay Entre esa correspondencia se encontraba la que Güiraldes, en viaje por las provincias del norte con su mujer Adelina del Carril, le escribió a su madre Dolores Goñi desde Salta el 22 de julio de 1921, adonde había llegado dos días antes, “después de un viaje bastante penoso, pues llegamos a las dos de la mañana, con cinco horas de atraso”. Y agregó: “Esto es muy lindo y Adelina está encantada. Hasta ahora hemos tenido la suerte de no tener más frío que en Tucumán y como poseemos un buen calentador de kerosene el cuarto está siempre agradable”. Después de recorrer la ciudad, tomó el camino a San Lorenzo, algo decepcionado porque sabía que allí tenía su casa Juan Carlos Dávalos -al que no conocía-, pero que vivía en la ciudad por estar momentáneamente enferma su mujer. La descripción de ese recorrido es una página literaria, el campo de la batalla del 20 de febrero de 1813: “amarillento y las llanuras y lomas del valle cantan en claro dentro del límite azul brumoso de los cerros que los circundan, como un paño a un reñidero de tierra arenosa”. La subidas y bajadas al cerro: “Íbamos haciendo montaña rusa por las lomas mondas; atrás centro del valle, núcleo de los campos, clareaba el caserío de la ciudad e hincaban sus campanarios. A la vera del camino serpentino como un arroyo, alguno",
+      "link": "https://www.lanacion.com.ar/economia/campo/juan-carlos-davalos-y-ricardo-guiraldes-una-amistad-sellada-en-un-camino-polvoriento-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/WQOSQUKGPJHB5KKHRIX7I4P4YI.jpg?auth=1e250cc00e8c5d85992892e36cec23be0a9b4422e12d75ffa46cb36c394217e4&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "4f79ca209c4e40b83c74",
+      "title": "Gabriel Rolón: “La felicidad no es una decisión”",
+      "summary": "El reconocido psicoanalista Gabriel Rolón , en una entrevista con LN+ , profundizó en los mitos contemporáneos sobre la plenitud personal y los desafíos de habitar el tiempo actual en una cultura que prioriza resultados inmediatos. El escritor vinculó el bienestar con la aceptación de las carencias propias y critica las corrientes que simplifican los procesos emocionales como una mera decisión individual. Rolón cuestionó las terapias y los discursos de entrenamiento personal que aseguran que el bienestar emocional está bajo el control absoluto de la persona. Según el analista, este enfoque ignora variables externas, azares y la influencia de terceros en la vida de una persona, ya que la plenitud requiere de un entorno que la permita porque bajo la presión de la necesidad extrema no existe espacio para el bienestar. “La felicidad no es una decisión” . En su libro La felicidad , el analista acuña un neologismo para definir el estado real al que puede aspirar un ser humano. El término “faltacidad” describe una felicidad que es capaz de abrazar todas las faltas, las ausencias, los dolores y las heridas del sujeto. “No existe la felicidad. Existe la faltacidad, que es una felicidad que es capaz de abrazar todas mis faltas, mis ausencias, mis dolores y mis heridas” , explicó. Para el autor, el bienestar se encuentra en un punto específico de la temporalidad: “La felicidad es en la eternidad del aquí y ahora”, y advirtió que este estado en el pasado o en un futuro incierto anula el sentido de la existencia presente: “Hay que construir felicidad en el presente”. Asimismo subrayó: “La felicidad es imperfecta” . El amor como renuncia al poder sobre el otro El analista define al amor como una herramienta fundamental frente a la angustia existencial. Lo describe como un invento humano para engañar a la muerte por un momento. “El amor es ese invento maravilloso de los hombres para intentar engañar a la muerte por un rato” sostuvo. El autor destaca la utilidad del afecto: “El amo",
+      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-la-felicidad-no-depende-solo-de-vos-y-el-que-te-dice-que-si-te-esta-mintiendo-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/I65ZSDVVLNCVPALQSGO53GSFSI.png?auth=d187b2d3bf80dc6bb61562d7473ec57a6e7503ff4cf048faf0736856a20a6a78&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "86f6b8cd75547dc2bcd5",
-      "title": "Una proyección que se ha disparado en el Madrid tras una tanda de penaltis para la historia",
+      "title": "El inesperado nuevo héroe del Madrid: su proyección se ha disparado",
       "summary": "Javi Navarro, celebrando una de sus paradas en la tanda de penaltis ante el PSG.",
       "link": "https://www.marca.com/futbol/real-madrid/2026/04/18/javi-navarro-heroe-llego-munich.html",
       "pubDate": "Sat, 18 Apr 2026 07:50:35 +0200",
@@ -614,6 +929,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e25397e1cd5.jpeg"
+    },
+    {
+      "id": "9326f917839978f20ad6",
+      "title": "Irán reabre parte de su espacio aéreo",
+      "summary": "La reapertura se efectúa únicamente para la aviación civil.",
+      "link": "https://actualidad.rt.com/actualidad/599956-iran-reabre-parte-espacio-aereo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sat, 18 Apr 2026 07:33:15 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e3378fe9ff715c540aa758.jpg"
     },
     {
       "id": "2a1d25c14aaf15a306be",
@@ -676,14 +1001,65 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/16/69e133b07e358.jpeg"
     },
     {
-      "id": "b2367e563350a83fc9c9",
-      "title": "Miranda: \"Ahora no depende de mí y eso me hace sufrir mucho más\"",
-      "summary": "FINAL DE LA COPA DEL REY 2013. REAL MADRID - ATLETICO DE MADRID EN EL ESTADIO SANTIAGO BERNABEU",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/18/miranda-gol-cambio-historia.html",
-      "pubDate": "Sat, 18 Apr 2026 07:06:54 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e3134b9d864.jpeg"
+      "id": "57137466e9f491594445",
+      "title": "Ley Hojarasca: desregular, pero no tanto",
+      "summary": "El oficialismo más rígido admite que el proyecto no puede pasar tal como llegó al Senado, y que tanto la ley de tierras como la de villas deberán tener cambios sustanciales para ser aprobadas.",
+      "link": "https://www.clarin.com/economia/ley-hojarasca-desregular_0_WerBlcSjoH.html",
+      "pubDate": "Sat, 18 Apr 2026 07:11:02 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/04/17/1Iaou38MS_1200x630__1.jpg"
+    },
+    {
+      "id": "48ea8e36209ad0483f49",
+      "title": "Analizamos el robot doméstico ROLA Mini Companion Robot",
+      "summary": "El universo de los robots personales lleva años prometiendo asistentes domésticos capaces de integrarse en nuestra vida cotidiana. Sin embargo, muchas de esas propuestas se han quedado en un terreno ambiguo entre gadget curioso y herramienta realmente útil. Tras varios días probando el ROLA Mini Companion Robot , la sensación es distinta: este dispositivo no pretende hacer mucho, sino hacerlo de una forma diferente. Su objetivo no es tanto ejecutar tareas complejas como generar una sensación de compañía. El primer contacto entra por los ojos. El ROLA Mini apuesta por un diseño compacto, amable y claramente pensado para no intimidar. Se aleja del aspecto técnico o industrial que solemos asociar a la robótica y se acerca más a un objeto decorativo con personalidad. Sus acabados son correctos, sin grandes alardes, pero transmiten solidez. Además, su tamaño y peso facilitan moverlo de una estancia a otra sin esfuerzo, lo que invita a integrarlo en distintos momentos del día. No es un dispositivo que imponga su presencia, sino que se adapta al entorno. La interacción como eje de la experiencia Donde realmente se juega su valor es en la interacción . El ROLA Mini combina , reconocimiento de voz y una serie de respuestas “emocionales” diseñadas para humanizar la experiencia . Durante las pruebas, responde con agilidad a comandos básicos y mantiene pequeñas conversaciones que, sin ser profundas, resultan lo suficientemente naturales como para no romper la ilusión. Aquí es importante entender su enfoque. No compite con asistentes virtuales avanzados en términos de información o complejidad, sino que apuesta por algo diferente: la sensación de estar interactuando con algo “presente”. El robot reacciona cuando detecta movimiento, emite sonidos suaves o modifica su comportamiento en función del contexto. No hay emociones reales, pero sí una simulación lo bastante convincente como para generar cierta conexión con el usuario. Este aspecto cobra especial relevancia en determinados",
+      "link": "https://www.muycomputer.com/2026/04/18/analizamos-robot-domestico-rola-mini-companion-robot/",
+      "pubDate": "Sat, 18 Apr 2026 07:02:38 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/IMG20260414121820.jpg"
+    },
+    {
+      "id": "18e11f04b145246676de",
+      "title": "Dólar blue hoy: a cuánto cotiza este sábado 18 de abril",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-18-abril_0_KlkMQmzeGI.html",
+      "pubDate": "Sat, 18 Apr 2026 07:00:03 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/03/10/HbFc6HLP_1200x630__1.jpg"
+    },
+    {
+      "id": "dd9bc5cf84026b179c0d",
+      "title": "El comando ‘mágico’ de Windows que te dice cuánto le queda de vida a tu batería",
+      "summary": "La batería de tu PC portátil es uno de sus componentes más importantes. Sin batería, pierde el apelativo de portátil y se convierte en un ordenador de sobremesa . Algo que muchos hacemos sin darnos cuenta, con un uso intensivo en tareas como jugar, editar video o ver series y películas. Pero esto no es incompatible con que nos interesemos por la salud de la batería en Windows . El problema es que el sistema operativo de Microsoft no da toda la información que debería. O la tienes que buscar en sitios recónditos. Por ejemplo, con el informe del estado de la batería de Windows . A estas alturas, todos sabemos que la vida útil de una batería es limitada . Convivimos con esta tecnología en toda clase de aparatos a nuestro alrededor. Especialmente, teléfonos móviles. Pero también consolas de juego, relojes y pulseras inteligentes, tabletas, altavoces y un largo etcétera. Así que todos hemos vivido la frustración de cargar una y otra vez una batería porque cada vez dura menos. Esto es debido a que una batería tiene unos ciclos determinados. Cada carga consume un ciclo. Y, según varios autores, un uso normal puede hacer que la batería acabe siendo inútil en un periodo que va de los dos a los cinco años . En resumen. Por mucho que cuides tu PC portátil con Windows , es inevitable que, tarde o temprano, detectes que su carga completa dura cada vez menos. Hay muchas causas. Pero una de ellas es la antigüedad de la batería. Y la mejor manera de comprobarlo es echando un vistazo al estado de la batería de Windows . Veamos cómo hacerlo y cómo interpretar los resultados de ese informe . Comprobar la salud de la batería en Windows Si tienes un ordenador portátil, Windows muestra un icono de batería en la bandeja de sistema, en la esquina inferior derecha. Si pulsas en ella o colocas el cursor del ratón encima, obtendrás información básica, como cuánto le queda de carga, en porcentaje y/o horas y minutos. Pero lo que queremos saber es cuál es el estado de la batería de Windows . Es",
+      "link": "https://hipertextual.com/guias/estado-bateria-windows-salud-portatil/",
+      "pubDate": "Sat, 18 Apr 2026 07:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Windows-Fondo-Colores-Bateria-Cargada.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "975b64ceda7e6c5cdbe6",
+      "title": "Tierras rurales: una reforma para cerrar un ciclo",
+      "summary": "El 27 de marzo pasado el Poder Ejecutivo envió al Congreso un proyecto de ley denominado “Inviolabilidad de la propiedad privada” que, entre otros aspectos, propone una modificación sustancial del régimen de titularidad de tierras rurales por parte de extranjeros previsto en la Ley N°26.737, comúnmente denominada “Ley de Tierras Rurales” . Sancionada en 2011, dicha ley estableció un régimen restrictivo para la adquisición y posesión de tierras rurales por personas humanas y jurídicas extranjeras basado en límites por hectáreas, por persona, por nacionalidad y por localización. “Situación compleja”: una cámara del negocio de semillas hizo una fuerte advertencia Si bien esta ley había sido derogada por el DNU 70/2023 dictado por Milei al inicio de su mandato como parte de un proceso más amplio de desregulación económica, actualmente se encuentra vigente en virtud de una acción de amparo, lo que resulta en un cuadro de alta incertidumbre normativa. Es en este contexto que el nuevo proyecto de ley adquiere particular relevancia ya que, tal como se refiere en los fundamentos del mismo, es intención del Gobierno canalizar el debate en el propio Congreso a fin de que mientras la Justicia define el fondo de la cuestión, se eliminen restricciones irrazonables. En este sentido, la iniciativa propone, en los hechos, consolidar y profundizar el cambio de paradigma iniciado por el DNU 70/2023, pero aplicado exclusivamente a los inversores privados, ya que el mismo proyecto prohíbe a los Estados y entes vinculados la adquisición o posesión de tierras rurales en Argentina . De esta manera, de ser aprobada la reforma, se eliminarán totalmente las restricciones para personas humanas o jurídicas privadas extranjeras o argentinas de capitales extranjeros. En contrapartida, se introduce una prohibición a la propiedad o posesión de tierras rurales por parte de Estados extranjeros y entidades vinculadas. Si bien en el sector de agronegocios hay consenso de que este proyecto es una excele",
+      "link": "https://www.lanacion.com.ar/economia/campo/tierras-rurales-una-reforma-para-cerrar-un-ciclo-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/KEXSFSUIVVBJVAY66PQ2RPYDLI.jpg?auth=39ebf1fd95f02f473e0ce0f01f89996d138145ac0882323ac55b71aeeac8192d&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "e148affca789c7ab01db",
+      "title": "Contra las ratas de Nueva York: los seis nuevos distritos donde habrá 100% de contenedores de basura en 2027",
+      "summary": "La ciudad de Nueva York busca mejorar su sistema de recolección de residuos con la incorporación de seis nuevos distritos al listado de los vecindarios que ya tienen contenedores fijos . El alcalde Zohran Mamdani dijo que las calles de la Gran Manzana deben estar libres de basura y ser “la envidia del mundo” . Cómo funciona el sistema de contenedores en NYC Mamdani y el comisionado de Saneamiento, Gregory Anderson, presentaron el plan, que replica el programa piloto de West Harlem . Desde junio de 2024, esa iniciaitiva redujo la acumulación de residuos y el número de roedores en el barrio . “En la ciudad más rica de la nación más rica en la historia del mundo, ningún neoyorquino debería tener sus veredas cubiertas de basura . Al terminar el trabajo de contenerización, nos aseguraremos de que las calles de la ciudad de Nueva York sigan siendo la envidia del mundo ”, dijo el alcalde Mamdani. “Tenemos el plan, estamos invirtiendo el dinero y estamos cumpliendo la promesa de calles limpias y saludables para cada barrio”, señaló el funcionario a través de un comunicado oficial . Los legisladores Crystal Hudson y Christopher Marte respaldaron la iniciativa y la calificaron como una herramienta clave para reducir la crisis de ratas . El eje del programa son los llamados Empire Bins : contenedores fijos instalados en edificios de mediana y alta densidad , accesibles solo para encargados. Los residuos se recogen con camiones de carga lateral automatizada, tecnología desarrollada en Italia y Estados Unidos . Escala prevista del plan de la ciudad de Nueva York: Más de 6.500 contenedores Al menos 3.500 edificios cubiertos Edificios con más de 10 unidades como unidad mínima de cobertura Cronograma Próximo otoño: ocho de los 59 distritos sin bolsas en la vía pública Finales de 2027: seis nuevos distritos con contenerización total 2031: cobertura en toda la ciudad Distritos que tendrán contenedores fijos antes de fines de 2027 en NYC Los vecindarios alcanzados por la contenerizaci",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/contra-las-ratas-de-nueva-york-los-seis-nuevos-distritos-donde-habra-100-de-contenedores-de-basura-nid18042026/",
+      "pubDate": "Sat, 18 Apr 2026 06:55:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/CACKDJ7DTBAJLBMZQQQNRWP6C4.jpg?auth=f03fd7dc48588716dd90290c1798feb38006869090e4a8934c8c4733952b3e2d&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
     },
     {
       "id": "d597cdda7a4f50270896",
@@ -714,16 +1090,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/EYIABAMPU5FXZADNZEJ37F4XCM.jpg?auth=e8e52a3844d6af2943b426c57a49a5904505fe190d1672904cb81eb45f84f028&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "9dcdc0c7d25a6d53b7c6",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que hay “noticias bastante buenas” sobre Irán pero deja en el aire la prórroga del alto el fuego",
-      "summary": "Una imagen satelital muestra el tráfico marítimo en el estrecho de Ormuz, el 2 de abril.",
-      "link": "https://elpais.com/internacional/2026-04-18/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Sat, 18 Apr 2026 06:45:01 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/CCQ45KIE5JNCVI6TK7YXNY3LCQ.jpg?auth=e27ad2d6316843087580bcded7a3c0753bc71750690ffd1d59b33467bf7edbb7"
     },
     {
       "id": "3f3a21013a89c2212bd8",
@@ -757,24 +1123,24 @@
       "subcat": "herramientas"
     },
     {
-      "id": "9e5497f4eee6cf7c2b18",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, sábado 18 de abril",
-      "summary": "Irán anunció que había reabierto por completo el estrecho de Ormuz a los buques comerciales, pero el sábado persistían las dudas sobre cuánta libertad tenían realmente los barcos para transitar por la vía marítima , ya que Teherán mantenía su control sobre quién podía pasar y amenazó con cerrarlo de nuevo si Estados Unidos mantenía su bloqueo a los barcos y puertos iraníes, consignó la agencia AP. El anuncio del viernes de Irán sobre la apertura de la crucial vía marítima por la que se envía alrededor del 20% del petróleo mundial se produjo mientras una tregua de 10 días parecía mantenerse en Líbano entre Israel y la milicia de Hezbollah. Mientras tanto, el presidente de Estados Unidos, Donald Trump, dijo que el bloqueo estadounidense “seguirá en pleno vigor” hasta que Teherán llegue a un acuerdo con Estados Unidos, el cual debe incluir su programa nuclear. Nueva Zelanda rechazó el sábado las acusaciones de Pekín sobre una vigilancia militar “ perturbadora e irresponsable ” en el espacio aéreo chino e insistió en que sus maniobras forman parte de los esfuerzos respaldados por la ONU para hacer cumplir las sanciones contra Corea del Norte, informó la agencia AFP . Jean-Paul Rodrigue , especialista en transporte marítimo de la Universidad de Texas A M, afirmó en declaraciones a Al Jazeera que los informes contradictorios sobre el estado del estrecho de Ormuz siguen disuadiendo a muchos buques de cruzarlo, a pesar del anuncio de Irán de que está abierto. “Desde el anuncio, los barcos intentaron transitar por la zona, pero parece que muchos están regresando porque la situación no está clara ”, declaró. “Todas las partes están difundiendo información contradictoria”, remató. TEHERÁN.– En medio de la tregua entre Israel y el Líbano establecida este jueves y mientras avanzan gestiones para alcanzar un acuerdo más amplio con Estados Unidos, Irán anunció la reapertura total del estrecho de Ormuz para el tránsito de buques comerciales , en un gesto que generó optimismo de que",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-18-de-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 06:32:53 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/DAQZCK6O3JENDKERVAQS75AX3A.jpg?auth=a21a710b91709366e4f67486db2713dce96b16ae77e40136ebe982826e8531ab&smart=true&width=2000&height=1333"
+      "id": "9b17f9a5daff318661d0",
+      "title": "Denuncian a un operario del centro de monitoreo por no cumplir con sus funciones: lo filmaron haciendo videos de TikTok",
+      "summary": "Ocurrió en la localidad santafesina de San Lorenzo. El hombre hacia los videos desde su celular, pero dentro de su horario de trabajo. El video viralizó las redes y el operario está siendo investigado por el Municipio.",
+      "link": "https://www.clarin.com/sociedad/denuncian-operario-centro-monitoreo-cumplia-funciones-lugar-vigilar-filmaron-videos-tiktok_0_tATSmFe3Rc.html",
+      "pubDate": "Sat, 18 Apr 2026 06:32:30 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/04/18/RIMiAPBy6_1200x630__1.jpg"
     },
     {
       "id": "2e9888235eb32e974450",
       "title": "Así fue el show de Ricky Martin en Buenos Aires: pura emoción, una canción improvisada y la promesa de volver pronto",
-      "summary": "La espera terminó. A tres años de su última visita al país y luego de sus presentaciones en Córdoba y en Rosario el pasado domingo 12 y martes 14, Ricky Martin desembarcó en Buenos Aires e hizo delirar a sus fans en el primero de sus dos recitales programados este fin de semana el Campo Argentino de Polo. Pasados quince minutos de las diez de la noche, hora a la que estaba pautado el show, el boricua salió a escena e hizo una reverencia ante la marea de gente que lo recibía entre gritos de euforia, aplausos, flashes, vinchas con luces de colores, carteles y remeras estampadas con su rostro o la letra de alguno de sus grandes hits, esos que repasará a lo largo de la noche entre sensuales coreografías y un magnetismo al que no hace mella el paso del tiempo. Tras un video que se proyectó en las cuatro pantallas dispuestas a lo largo del escenario, con imágenes que recordaban distintas etapas de la trayectoria del cantante, la banda que lo acompañaba encendió al público con un fragmento instrumental de “Pégate” . “Vamos Buenos Aires”, arengó el artista como antesala de una noche enérgica. Como primer look, Ricky Martin llevó un conjunto oversized de pantalón, camisa y saco con apliques de joyas, que se quitó luego del primer tema. Y, claro, generó una reacción en cadena de suspiros que se replicó pocos minutos después con sus movimientos de caderas en perfecta sincronía con “María” . “¿Seguimos? ¡Vamos que se siente hasta Puerto Rico!“, dijo a continuación para darle paso a ”Adrenalina\" , a tono con el clima que reinaba en el Campo Argentino de Polo. “No te oigo”, recriminó irónicamente a su público -estrategia que repitió a lo largo de la noche-, a sabiendas de que el fervor local no tiene competencia. Con “Bombón de azúcar” regresaron los suspiros acompañados de aplausos, especialmente cuando el cantante comenzó a secarse con una toalla el sudor de su rostro y debajo de su camisa, o incluso cuando amagó con arrojar la toalla al público. Un breve instrumental dio lugar",
+      "summary": "La espera terminó. A tres años de su última visita al país y luego de sus presentaciones en Córdoba y en Rosario el pasado domingo 12 y martes 14, Ricky Martin desembarcó en Buenos Aires e hizo delirar a sus fans en el primero de sus dos recitales programados este fin de semana el Campo Argentino de Polo . Pasados quince minutos de las diez de la noche, hora a la que estaba pautado el show, el boricua salió a escena e hizo una reverencia ante la marea de gente que lo recibía entre gritos de euforia, aplausos, flashes, vinchas con luces de colores, carteles y remeras estampadas con su rostro o la letra de alguno de sus grandes hits , esos que repasará a lo largo de la noche entre sensuales coreografías y un magnetismo al que no hace mella el paso del tiempo. Tras un video que se proyectó en las cuatro pantallas dispuestas a lo largo del escenario, con imágenes que recordaban distintas etapas de la trayectoria del cantante, la banda que lo acompañaba encendió al público con un fragmento instrumental de Pégate . “Vamos Buenos Aires”, arengó el artista como antesala de una noche enérgica. Como primer look, Ricky Martin llevó un conjunto oversized de pantalón, camisa y saco con apliques de joyas, que se quitó luego del primer tema. Y, claro, generó una reacción en cadena de suspiros que se replicó pocos minutos después con sus movimientos de caderas en perfecta sincronía con María . “¿Seguimos? ¡Vamos que se siente hasta Puerto Rico!“, dijo a continuación para darle paso a Adrenalina , a tono con el clima que reinaba en el Campo Argentino de Polo. “No te oigo”, recriminó irónicamente a su público -estrategia que repitió a lo largo de la noche-, a sabiendas de que el fervor local no tiene competencia. Con Bombón de azúcar regresaron los suspiros acompañados de aplausos, especialmente cuando el cantante comenzó a secarse con una toalla el sudor de su rostro y debajo de su camisa, o incluso cuando amagó con arrojar la toalla al público. Un breve instrumental dio lugar a que",
       "link": "https://www.lanacion.com.ar/espectaculos/musica/comenzo-el-primer-show-de-ricky-martin-en-el-campo-argentino-de-polo-nid17042026/",
       "pubDate": "Sat, 18 Apr 2026 06:31:58 +0000",
       "source": "La Nacion",
       "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/GEKPZXCNKVGZPPEUZ2A5WPEA5E.JPG?auth=9127b6efaab68affa82766ff0ac50fad2d291d9ec78ca1750db0a1551b971656&smart=true&width=767&height=511"
+      "image": "https://resizer.glanacion.com/resizer/v2/5WPSS4Z2RFBW7GIZOVLYRMXZ4M.JPG?auth=95797432305234b628e31417071622d914792032f9782fef735e381eadbc0e42&smart=true&width=1998&height=1333"
     },
     {
       "id": "445143754bf8bc08ac24",
@@ -908,16 +1274,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/HY5XMKLMNRDDLA4BIWD4GF3L4E.jpg?auth=114d23737837cf5a2004363a618c52f45bfcde7cb9fae1ba2a074605a9264eb5&smart=true&width=2000&height=1333"
     },
     {
-      "id": "3b8ee3f780c757236c52",
-      "title": "Día 50 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
-      "summary": "El conflicto en Medio Oriente entró este sábado 18 de abril en su 50° día de guerra, en el marco de fuertes tensiones. En vísperas de que finalice el cese al fuego acordado entre Estados Unidos e Irán, crece la incertidumbre sobre cómo seguirá la guerra. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Donald Trump celebró la apertura de Ormuz y dijo que el presidente de China “está muy contento”. EE.UU. anunció el levantamiento temporal de la mayoría de sanciones contra el petróleo ruso. En Irán crece el optimismo de un acuerdo con EE.UU. Estados Unidos activa el bloqueo naval del estrecho de Ormuz y Trump afirma que Irán quiere seguir el diálogo. Fuerte reacción del petróleo y de Wall Street a la apertura del estrecho de Ormuz. Otros hechos de importancia Trump: “La guerra en Irán está yendo de maravilla”. El papa León XIV pidió por la paz en el Líbano y reclamó un cese al fuego. En respuesta a las expresiones del Papa, el mandatario estadounidense le respondió: “No quiero un Papa que piense que está ok que Irán tenga un arma nuclear”. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos terminado, tomen el control de su gobierno. Será suyo. Esta será probablemente su única oportunidad durante generaciones”, dijo en un video difundido en redes sociales. Estados Unidos hizo la mayor movilización militar desde la invasión a Irak en 2003 para cercar a Irán. Un paí",
-      "link": "https://www.lanacion.com.ar/el-mundo/dia-50-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 05:41:30 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/RAPTDKTSMRA6NOU477O5LVHVU4.JPG?auth=35c930e043953625bc0e6c5854a5f037b49382f4cb5f1a1502b2101a0bacbfea&smart=true&width=3500&height=2333"
-    },
-    {
       "id": "3b432122288db703c3d6",
       "title": "Trump sobre Irán: \"Nos llegaron unas noticias bastante buenas\"",
       "summary": "El mandatario estadounidense no brindó más detalles al respecto.",
@@ -966,26 +1322,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2026/04/18/UcqW9Aclj_1200x630__1.jpg"
-    },
-    {
-      "id": "d5442c1487b371eae1f9",
-      "title": "Irán reabre el estrecho de Ormuz, mientras Trump amenaza con quitarles el uranio de \"forma menos amistosa\"",
-      "summary": "Por otro lado, Israel advierte que la tregua con el Líbano es temporal y que la campaña contra Hezbolá aún no ha cumplido todos sus objetivos.",
-      "link": "https://actualidad.rt.com/actualidad/599942-iran-reabre-estrecho-ormuz-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 18 Apr 2026 05:21:21 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e3102059bf5b69981fcaf4.jpg"
-    },
-    {
-      "id": "e5f3081f692385f5cf21",
-      "title": "Ataque con un dron ucraniano daña un hospital materno en Rusia",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/599944-ataque-dron-ucraniano-danar-hospital?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 18 Apr 2026 05:21:06 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "55595bf855fb1d4ae018",
@@ -1059,77 +1395,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/AHGARK7E5JEMXM6PB3KMBCKTBI.jpg?auth=33958737bec910b8c4f0b7c5e68513eeffe05719e0b8b516e1ea3078c1d1ad68&smart=true&width=581&height=387"
     },
     {
-      "id": "b5cbb76a86218e69bbcb",
-      "title": "Otoño al aire libre: 12 terrazas, patios y jardines calefaccionados para comer “afuera” sin preocuparse por el frío",
-      "summary": "Aunque el otoño ya anticipa que el invierno está mas cerca, no es razón suficiente para quedarse puertas adentro. Cuando el invite a juntarse busca, al menos, respirar un podo de aire libre, hay espacios que ya se han preparado para que sean disfrutable y especiales para el encuentro. He aquí 12 propuestas para conocer y si al rato, no parece tan buena idea, muchos tienen cálidas mantas para quedarse y disfrutar. Bajo las estrellas con buena música En una terraza que combina diseño y aire libre, Mixtape Listening Bar , propone una experiencia nocturna que cruza música, coctelería y gastronomía. El espacio se despliega mayormente a cielo abierto, con sectores parcialmente techados, mesas bajas, sillones cómodos y una barra protagonista que organiza la circulación. La ambientación invita a quedarse, ya sea en formato íntimo o en grupos, con el sonido como hilo conductor. Al mometo de hablar de tragos, algunas opciones son: Daiquiri ($13.000) o el Negroni ($14.500), además de mocktails como el Clover ($11.500). Y para comer en la carta hay buñuelos de hakusai con sweet chilli y nori ($14.000), yakitori de pollo ($12.500) o un sushi mix de 20 piezas ($38.000). También platos más contundentes, como la Japo Burger ($19.000), pensados para compartir. Ideal para las noches porteñas. Dirección: Franklin D. Roosevelt 1806, Belgrano. Un respiro verde en la ciudad Entre plantas, macetas frondosas y mesas bien espaciadas, Aire Libre propone un verdadero jardín urbano para disfrutar sin apuro. El espacio es mayormente al aire libre, con sectores reparados que permiten quedarse tanto de día como de noche, y una disposición cómoda que combina mesas tradicionales y rincones más relajados. La experiencia se completa con una propuesta gastronómica porteña de impronta contemporánea, ideal para compartir. Al mediodía, se lucen raciones como la burrata con olivas negras, albahaca y tomate ($18.700), la bruschetta de anchoas y tomatillo ($9500) o la trucha curada con papines y vinagreta d",
-      "link": "https://www.lanacion.com.ar/lifestyle/otono-al-aire-libre-12-terrazas-patios-y-jardines-calefaccionados-para-comer-afuera-sin-preocuparse-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 04:06:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/4QGBZORURFDOTICKYN3BB34YN4.jpg?auth=1d459acee59da66386b3c7022d8ccf5c3a052e076b4b4f63d8743489e93400a3&smart=true&width=1536&height=1024"
-    },
-    {
-      "id": "a0d6c403e3f52e4ab8a7",
-      "title": "Un grupo de legisladores por la Ciudad se reunió con Karina Milei",
-      "summary": "HAGAMOS CABA GRANDE OTRA VEZ El presidente @JMilei es el que más hizo por los porteños. Por eso, los legisladores, diputados y senadores de la Ciudad nos reunimos con @KarinaMileiOk para impulsar reformas claves para los porteños. Somos el bloque más reformista de la historia! pic.twitter.com/ZXvMOaz9ZU Pilar Ramírez (@PilarRamirezmpr) April 18, 2026 Nos preocupa y nos ocupa una problemática que está creciendo en todo el país: las amenazas y conductas de riesgo en las escuelas. Es una situación que está impactando en cada una de las provincias y debemos ocuparnos. Las redes de delito internacionales operan de forma… pic.twitter.com/8LHcIBG7rf Maximiliano Pullaro (@maxipullaro) April 18, 2026 Mientras algunos hablan de elecciones, hay jubilados sin atención. No consiguen medicamentos. Personas con discapacidad sin respuestas. Y un sistema de salud que no puede esperar. Lo venimos diciendo y lo vamos a seguir sosteniendo: estos temas no tienen color político. La… pic.twitter.com/hTjQkH23Ka Gustavo Sáenz (@GustavoSaenzOK) April 18, 2026 La Casa Rosada analiza denunciar al juez Raúl Horacio Ojeda , que fue asesor del kirchnerismo y suspendió la reforma laboral a pedido de la CGT. El debate se da luego de que el juez Raúl Horacio Ojeda , que intervino en primera instancia, rechazara la presentación del procurador del Tesoro Nacional, Sebastián Amerio , con el argumento de que se presentó “sin contar con matrícula profesional”. Leé la nota completa acá El senador bonaerense por Unión y Libertad Carlos Kikuchi, ex armador electoral de Javier Milei, mantuvo este viernes un encuentro en Malvinas Argentinas con los diputados nacionales Emilio Monzó y Miguel Ángel Pichetto. Del encuentro también participaron el diputado provincial Luis Vivona y el intendente local Leonardo Nardini , quien también supo desempeñarse como ministro de Infraestructura del gobernador Axel Kicillof . Los dirigentes coincidieron en la “necesidad de abrir el diálogo con todos los sectores políticos y s",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-negociaciones-con-el-banco-mundial-y-el-nuevo-recurso-por-la-nid17042026/",
-      "pubDate": "Sat, 18 Apr 2026 04:02:17 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/FO6T5LRLHNAY7MSELUI6LP3BX4.jfif?auth=6528dea2d57dcc15fb12e8b3c07956c6541fe0a0d619e7e68966409cb2fed3ed&smart=true&width=2048&height=1366"
-    },
-    {
-      "id": "fff1b6a28b471e8a9c80",
-      "title": "Sin mariposas, nada sería igual: el rol silencioso de la “espejitos”",
-      "summary": "La mariposa “espejitos” pone huevos en plantas del género Passiflora . Son las plantas hospederas. Las aves comen los frutos de estas enredaderas tan prolíficas y, luego de digerirlos, dispersan sus semillas en cada rincón verde en que se posen. Si la planta hospedera está, es sumamente probable que la mariposa también. Aunque estén más asociadas a encantadores personajes de cuentos de hadas y no a “bichos” que muchos menosprecian, las mariposas son insectos clasificados como Lepidópteros, que se distinguen por la estructura de sus alas. Ellas son membranosas, como las de las libélulas; pero están cubiertas por “escamas”, que son en realidad pelos modificados. Los pelos de los insectos no son como los de los mamíferos. Las escamas no solo les dan la belleza única que tienen, sino que ayudan a regular la temperatura y la humedad, entre otras funciones. La espejitos, cuando abre sus alas –es decir, en su faz dorsal– predominan escamas de color naranja intenso y algunas otras que forman manchas negras. Cuando cierra sus alas –faz ventral– posee escamas nacaradas agrupadas de tal forma que, cuando reciben los rayos del sol, parecen diminutos espejos. Por eso recibieron el nombre común “espejitos”. Parecería que esos reflejos que produce podrían servir para desorientar depredadores. Muy por el contrario, su faz dorsal, naranja y negro, advierte de su toxicidad a animales que saben de códigos de la naturaleza. Rojo, naranja, amarillo combinados con negro significan “¡Peligro!”. De los huevos nacen mínimas orugas que son máquinas de comer para aumentar su tamaño. Son de colores variables, desde marrón hasta gris, con líneas laterales blancas y anaranjadas. Tienen espinas negras ramificadas que sugieren amenaza, pero son totalmente inofensivas. Luego de aumentar cientos de veces su tamaño y mudar su piel unas cinco, forman la pupa (o crisálida) que parece una hoja seca que pasa desapercibida por completo. Y allí ocurre la magia: los tejidos de la oruga se licúan y se redist",
-      "link": "https://www.lanacion.com.ar/revista-jardin/sin-mariposas-nada-seria-igual-el-rol-silencioso-de-la-espejitos-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/FM3NBHH57BDLLAEWMYGYADOCCA.jpg?auth=ea0cb1872c5571a015625eed794f819b5bc3842a42202723341d65a9fa28c436&smart=true&width=2002&height=1333"
-    },
-    {
-      "id": "d1d3e605dbeb8c21e82d",
-      "title": "Parecen erizos: Las curiosas flores que son tendencia entre paisajistas y floristas",
-      "summary": "En los últimos años, la estética del jardín evolucionó: dejó de ser meticulosa y pulcra para volcarse hacia lo naturalizado, lo estructural y funcional. Esa transición puso en primer plano plantas fáciles de cuidar que, además de aportar belleza, facilitan la vida tanto a paisajistas como a floristas. Como resume la ingeniera agrónoma Gabriela Benito: “Pueden cultivarse fácilmente y por eso hoy la jardinería difundió varios de estos ‘erizos vegetales’, como se los conoce comúnmente”. Precisamente uno de los ejemplos más populares de esta tendencia es el Eryngium , un género de plantas con siluetas arquitectónicas y floraciones que parecen esculturas. Según Benito, “ Los Eryngium aportan un efecto vertical de gran interés. Además, sus llamativas cabezuelas con flores verdosas, plateadas o azuladas se presentan rodeadas con un llamativo collar de brácteas ” . El porqué de su encanto Esa combinación de resistencia, textura y color las convierte en favoritas tanto en macizos de jardines como en arreglos florales contemporáneos. Dentro de esta categoría, las formas y usos son amplios. El Eryngium sanguisorba —o “cardo borlita”— se destaca por su tonalidad bordó y su capacidad de mantener la estructura floral incluso en estado seco, ideal para diseños que duran estaciones enteras o para usar como flor de corte. El Eryngium paniculatum (cardoncillo o chupalla) convierte la adversidad en virtud. Nativo de pastizales y ambientes abiertos del centro y norte argentino, prospera donde muchas ornamentales se rinden: suelos pobres, laderas erosionadas, zonas ventosas o con drenaje irregular. Su sistema radicular profundo le permite fijar el suelo y frenar procesos de degradación, mientras sus tallos rígidos y ramificados dibujan una silueta escultórica de gran valor paisajístico. Rústico, longevo y de mantenimiento mínimo, el cardoncillo no solo aporta textura y arquitectura al jardín naturalista: funciona como especie pionera, regeneradora de ambientes frágiles y aliada de la bi",
-      "link": "https://www.lanacion.com.ar/revista-jardin/parecen-erizos-las-curiosas-flores-que-son-tendencia-entre-paisajistas-y-floristas-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/V7XFE3KGMZGHLB4EAPGSD7NZDY.jpg?auth=36d6032ef70d8f52d82439005ef1d3e02ce07d6c17d64b202cfe2e45d64654cf&smart=true&width=2002&height=1333",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "03f47dd7e4b1bbde4dbf",
-      "title": "Menos es más: Si tu jardín se ve caótico en otoño, probá esta fórmula del minimalismo",
-      "summary": "Cuando el jardín empieza a desacelerar su ritmo después del verano, aparece una oportunidad inesperada: simplificar . El otoño no solo cambia la luz y la temperatura; también redefine las prioridades del jardín . Algunas especies entran en reposo, otras bajan su intensidad y, de pronto, lo que queda visible es lo esencial: estructura, textura y proporción. En ese contexto, el jardín minimalista se convierte en una estrategia oportuna. Menos especies, menos intervenciones y más espacio para plantas que funcionan bien durante todo el año , incluso cuando el jardín está en transición. Estructura primero En un jardín minimalista , el diseño se sostiene en plantas que aportan forma clara y presencia permanente . Especies de follaje definido, porte arquitectónico o crecimiento ordenado permiten que el jardín mantenga interés incluso cuando las floraciones disminuyen. Entre las nativas argentinas , algunas funcionan especialmente bien para este enfoque. El sen del campo ( Senna corymbosa ), por ejemplo, combina una estructura liviana con una floración amarilla tardía que puede extenderse hasta el otoño . Su porte abierto deja pasar la luz y convive bien con gramíneas o herbáceas bajas, evitando el aspecto recargado. Otra especie interesante es la Verbena bonariensis , que aporta verticalidad sin ocupar demasiado espacio visual. Sus tallos altos y aireados permiten que el jardín respire, una cualidad fundamental en los diseños minimalistas . El otoño revela la arquitectura del jardín: cuando el diseño es bueno, unas pocas especies alcanzan para sostener todo el paisaje Gramíneas: la elegancia del movimiento Si el minimalismo tuviera una familia vegetal preferida, probablemente serían las gramíneas ornamentales . Su forma simple, su resistencia y su capacidad para captar la luz baja del otoño las convierten en aliadas naturales de este estilo. El Paspalum haumanii , una gramínea nativa que forma matas suaves que se mueven con el viento y requieren muy poco mantenimiento. En ",
-      "link": "https://www.lanacion.com.ar/revista-jardin/menos-es-mas-si-tu-jardin-se-ve-caotico-en-otono-proba-esta-formula-del-minimalismo-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/MIXSIWAW3ZHQ7LTOBVBL4BI5AY.jpg?auth=f341629f23b23ecb5dfd5186cf5ff143d8f19b5417da8241581151944a55713e&smart=true&width=2002&height=1333"
-    },
-    {
-      "id": "00d8cbce0601291947b6",
-      "title": "Donald Trump celebró la apertura de Ormuz y sostuvo que el presidente de China está “muy contento”",
-      "summary": "El presidente de los Estados Unidos celebró la apertura de Ormuz de cara a la próxima reunión bilateral con China. “ El presidente Xi está muy contento de que el Estrecho de Ormuz esté abierto y/o abriéndose rápidamente . Nuestra reunión en China será una especial y, potencialmente, histórica. Espero con interés estar con el presidente Xi. ¡Se logrará mucho!”, posteó Trump. “President Xi is very happy that the Strait of Hormuz is open and/or rapidly opening. Our meeting in China will be a special one and, potentially, Historic. I look forward to being with President Xi — Much will be accomplished!” - President DONALD J. TRUMP pic.twitter.com/wQkYuttGfV The White House (@WhiteHouse) April 18, 2026 Andres Repetto en LN+ Estados Unidos suspendió hasta el 16 de mayo la mayoría de las sanciones dirigidas contra la industria petrolera rusa , justo cuando la reanudación del tráfico por el estrecho de Ormuz ha provocado una fuerte caída de los precios del petróleo, consignó la agencia AFP . La decisión, anunciada el viernes por el Departamento del Tesoro, abarca a todas las operaciones relacionadas con el embarque y la entrega de petróleo procedente de Rusia , y se aplica también a los buques de la flota fantasma rusa que hasta ahora estaban sujetos a sanciones. Sigue únicamente en pie la prohibición de las transacciones con Irán, Corea del Norte, Cuba y las regiones ucranianas ocupadas, incluida Crimea. JERUSALÉN.- Luego de un mes y medio de combates, el Líbano vive este viernes unas primeras horas de relativa calma por la entrada en vigor de un alto el fuego de 10 días luego que el presidente norteamericano Donald Trump le “prohibió” a Israel seguir con los bombardeos. El alto el fuego parece haber llevado a Irán a reabrir el estrecho de Ormuz , pero todavía persisten importantes obstáculos, ya que Hezbollah no ha aceptado formalmente la tregua y exige la retirada de Israel . Israel afirma que aún no ha concluido el desmantelamiento del grupo militante respaldado por Irán",
-      "link": "https://www.lanacion.com.ar/politica/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-viernes-17-de-nid17042026/",
-      "pubDate": "Sat, 18 Apr 2026 03:58:07 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/LAKAY2F7ZZEZRKKQJOVDL2OZZA.JPG?auth=9b842cb9258e08fca003d8598c8f21d75dd7c5f776a1e5fe48d4019eab68f9c7&smart=true&width=5000&height=3333"
-    },
-    {
-      "id": "eae642b10e8daaa7b411",
-      "title": "Avión de carga estuvo a punto de chocar en un aeropuerto con historial trágico",
-      "summary": "El incidente ocurrió durante la madrugada de este martes, cuando una aeronave de menor tamaño irrumpió sin autorización en la pista donde un avión de carga de UPS se disponía a aterrizar.",
-      "link": "https://actualidad.rt.com/actualidad/599937-avion-carga-esquiva-choque-mortal-aeropuerto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 18 Apr 2026 03:52:19 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e2f06f59bf5b4a5d6bc6b6.jpg"
-    },
-    {
       "id": "ac293ae18615ae5d833f",
       "title": "El Gordo Dan habló de su pelea con Lilia Lemoine, después de que Milei la apoyara: \"Las trompadas nos la tenemos que meter ahora\"",
       "summary": "El influencer y la diputada libertaria habían protagonizado un durísimo primer round en la disputa dentro del Gobierno que sostienen Santiago Caputo y Karina Milei. Hubo un retuit del Presidente que inclinó la balanza hacia un lado.",
@@ -1148,16 +1413,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DFIFZ6DISVEFJN6NM6KKB22JJA.jpg?auth=5f026624607bf7a77b3ffabff23943860a2aa2ee12c1a0d769f0facdbe6b53d3"
-    },
-    {
-      "id": "66eefb05e94184eed8c2",
-      "title": "Trump explica qué hará cuando termine la tregua con Irán",
-      "summary": "El presidente estadounidense aseguró que no extenderá la tregua con la República Islámica.",
-      "link": "https://actualidad.rt.com/actualidad/599940-trump-cuenta-hara-termine-tregua?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sat, 18 Apr 2026 03:44:45 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.04/thumbnail/69e3000159bf5b0d9b031ce1.jpg"
     },
     {
       "id": "4daf4c76e729bb1867da",
@@ -1180,36 +1435,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/k1TUADqrD_1200x630__1.jpg"
     },
     {
-      "id": "7cc832624ed7bd62e99b",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este sábado 18 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-sabado-18-abril-2026_0_kWKgs5WmVz.html",
-      "pubDate": "Sat, 18 Apr 2026 03:41:14 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/g8BBYIxw-_1200x630__1.jpg"
-    },
-    {
-      "id": "d2fcaa70aa5df7b23ec9",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este sábado 18 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-sabado-18-abril-2026_0_GfK7KtDNDZ.html",
-      "pubDate": "Sat, 18 Apr 2026 03:41:13 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
-    },
-    {
-      "id": "5cda6cc6d3516d7ba32e",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este sábado 18 abril de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-sabado-18-abril-2026_0_TuPq5haPbc.html",
-      "pubDate": "Sat, 18 Apr 2026 03:41:13 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg"
-    },
-    {
       "id": "11d1f2f01e1750880b05",
       "title": "El largo camino para restablecer el suministro energético tras la reapertura de Ormuz",
       "summary": "Un petrolero con bandera de Malta, que atravesó el estrecho de Ormuz y llegó a las aguas territoriales iraquíes frente a Basora, Irak, el 17 de abril de 2026.",
@@ -1219,16 +1444,6 @@
       "cat": "ia",
       "image": "https://imagenes.elpais.com/resizer/v2/SYJRBMSA6VLYVI424B24QZIDXU.jpg?auth=149eb4c7006028945e5274a92f96d211015177b2abf064062d814080f6a4918e",
       "subcat": "diseño"
-    },
-    {
-      "id": "799eb438c73be628885b",
-      "title": "Agenda de TV y streaming del sábado: Messi, Independiente, Copa del Rey, Top 14, NBA, Boca en básquet",
-      "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del sábado 18 de abril de 2026. FÚTBOL Torneo Apertura 15 Gimnasia y Esgrima La Plata vs. Estudiantes (Río Cuarto). ESPN Premium 17.15 Instituto vs. Estudiantes de La Plata. TNT Sports 19.30 Independiente vs. Defensa y Justicia. ESPN Premium 21.45 Argentinos Juniors vs. Atlético Tucumán. TNT Sports Copa del Rey 16 Atlético de Madrid vs. Real Sociedad. La final. Canal 116 (Flow) Premier League 8.30 Brentford vs. Fulham. ESPN y Disney+ 11 Leeds United vs. Wolverhampton. ESPN y Disney+ 11 Newcastle vs. Bournemouth. Disney+ 13.30 Tottenham Hotspur vs. Brighton Hove. Disney+ 16 Chelsea vs. Manchester United. ESPN y Disney+ Serie A 10 Udinese vs. Parma. Disney+ 13 Napoli vs. Lazio. ESPN y Disney+ Major League Soccer 17.30 Colorado Rapids vs. Inter Miami. Apple TV Bundesliga 10.30 Hoffenheim vs. Borussia Dortmund. ESPN 2 y Disney+ 10.30 Bayer Leverkusen vs. Augsburg. Disney+ 10.30 Werder Bremen vs. Hamburger. Disney+ 10.30 Union Berlin vs. Wolfsburg. Disney+ 13.30 Eintracht Frankfurt vs. Leipzig. ESPN 2 y Disney+ Championship 8.30 Portsmouth vs. Leicester City. Disney+ RUGBY Seven de Hong Kong 4.35 La segunda jornada, con los Pumas 7s y las Yaguaretés. Fox Sports y Disney+ 8.15 Los playoffs, con las Yaguaretés y los Pumas 7s. Fox Sports y Disney+ 23.40 El tercer día, con los Pumas 7s y las Yaguaretés. Fox Sports y Disney+ 6.30 La jornada final, con las Yaguaretés y los Pumas 7s. Fox Sports y Disney+ Top 14 de URBA 15.30 Los Matreros vs. Los Tilos. Disney+ 15.30 Alumni vs. Newman. Disney+ 15.30 Regatas Bella Vista vs. CUBA. Disney+ 15.30 Rosario vs. CASI. Disney+ 15.30 La Plata vs. Buenos Aires. Disney+ 15.30 Hindú vs. Belgrano. Disney+ 15.40 Champagnat vs. SIC. ESPN 3 y Disney+ Top 14 de Francia 9.30 La Rochelle vs. Bordeaux. ESPN 3 y Disney+ 17 Castres vs. Toulouse. Disney+ Premiership 11 Exeter Chieffs vs. Northampton Saints. Disney+ 13.30 Bath vs. Harlequins. Disney+ TENIS ATP 500 de Ba",
-      "link": "https://www.lanacion.com.ar/deportes/agenda-de-tv-y-streaming-del-sabado-messi-independiente-copa-del-rey-top-14-nba-boca-en-basquet-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 03:37:23 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/3LEOKLRJ25G3DIF66Q4AWGG654.JPG?auth=183676e5a61df0148df76d19022a5269922e2d3731e0e9010095250e5d7f94d1&smart=true&width=2000&height=1192"
     },
     {
       "id": "5f60a6a331ca83801bac",
@@ -1251,6 +1466,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/X6YYACAUQZCEDC3CAXPM4PWR3E.jpg?auth=b08a4582c783744230bb76b373a55c50cb6ecd4fe41ce6dcb1d8aa038db88426"
     },
     {
+      "id": "6ca696317a1176d3f672",
+      "title": "La cumbre progresista busca recetas contra el populismo: poner coto al negocio con los servicios públicos e impuestos a los ultrarricos",
+      "summary": "La vicepresidenta primera y comisaria de Competencia en la Comisión Europea, Teresa Ribera, a la dereza, y la economista Mariana Mazzucato, en una mesa de la cumbre.",
+      "link": "https://elpais.com/espana/2026-04-18/la-cumbre-progresista-busca-recetas-contra-el-populismo-poner-coto-al-negocio-con-los-servicios-publicos-e-impuestos-a-los-ultrarricos.html",
+      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/S7CNJKN5B5DTDEEWV4WPP3GKXA.jpg?auth=a9bd484c0c22cc6cdb9e8d52b0755627f803cf4ed9a95b4f4afe6f65ffbbd9a7"
+    },
+    {
       "id": "711f9018943fddf1151d",
       "title": "Regreso al sur de Líbano: “Levantaremos una nueva generación que luche contra Israel”",
       "summary": "Desplazados libaneses con banderas de Irán y Hezbolá regresan al sur de su país tras el inicio del alto el fuego con Israel este viernes.",
@@ -1259,26 +1484,6 @@
       "source": "El Pais",
       "cat": "israel",
       "image": "https://imagenes.elpais.com/resizer/v2/XZO2ETJCFNNL5OGUXOYLPL2WGM.jpg?auth=abb7421cc1c632fbf816568cf4ef7a99db981a0ad6e3061dc201d3cbf0e658b3"
-    },
-    {
-      "id": "858a3f65825020db5c8b",
-      "title": "La discriminación de los inmigrantes en el acceso a ayudas en Extremadura choca con el documento marco del PP",
-      "summary": "Colas de personas frente a oficinas municipales de Palma durante el proceso de regularización extraordinario de migrantes, este jueves.",
-      "link": "https://elpais.com/espana/2026-04-18/la-discriminacion-de-los-inmigrantes-en-el-acceso-a-ayudas-en-extremadura-choca-con-el-documento-marco-del-pp.html",
-      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/SKAVILY24VNO7H3DTLYOW6AIDY.jpg?auth=07a070ff44650646476df431b5ac395ee43a5152e71f3a48a84621e3b3170544"
-    },
-    {
-      "id": "f651ea2a84739889df59",
-      "title": "El mundo del idioma español atisba el pacto para que el próximo congreso internacional de la lengua sea en Panamá",
-      "summary": "El director del Instituto Cervantes, Luis García Montero (izquierda), el alcalde de Arequipa; Víctor Hugo Rivera, el director de la Real Academia Española, Santiago Muñoz, en un acto en el pasado congreso de la lengua en Arequipa.",
-      "link": "https://elpais.com/cultura/2026-04-18/el-mundo-del-idioma-espanol-atisba-el-pacto-para-que-el-proximo-congreso-internacional-de-la-lengua-sea-en-panama.html",
-      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/7AUAKNJIHREHDPROP43ZWRURCI.jpg?auth=e01e80c59e2ddd3b99a57ee09f3ae5c115698cfdc8a3812bf04fa64b41485c7a"
     },
     {
       "id": "bf039c4e318288281ea9",
@@ -1332,6 +1537,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/PPSGWGWQCBCVZMNT2G74AGY4YU.jpg?auth=33659f8e414c7093a911f25a0926333e03581913c247e382b0add0780e790093"
     },
     {
+      "id": "4bb5ee5f073fbf0bd483",
+      "title": "Cómo la izquierda perdió el pulso (y cómo recuperarlo)",
+      "summary": "Vista del ambiente en la cumbre Movilización Progresista Global, este viernes en Barcelona.",
+      "link": "https://elpais.com/opinion/2026-04-18/como-la-izquierda-perdio-el-pulso-y-como-recuperarlo.html",
+      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZVB7XLWDM5NX7DLFKCRVXESUHQ.jpg?auth=96d724530cf5d693c7cd3d896f9bf1168e5198bba512d1c17a34a96de577ae8b"
+    },
+    {
       "id": "fd4e4f88065b3cf6db8b",
       "title": "Los petromachos",
       "summary": "El coche ha girado a su derecha para entrar en la calle lateral en el momento en el que mi perra y yo cruzamos por el paso de peatones. Mi perra tiene las patas cortas y los andares tranquilos, y ni a ella ni a mí nos apura la prisa en este momento en que la luz de la tarde se vuelve oblicua y dorada. La parada obligatoria no ha podido retrasar al conductor más de unos segundos. Pero él saca la cabeza y me grita algo que tardo en entender, ya que lo dice con el vozarrón de la furia automovilística en Madrid: “¡Vete al Retiro!”. No es mi primer encuentro y me temo que no será el último con un fenómeno que hasta ahora yo no sabía que tiene nombre, pero que de un modo u otro llevo padeciéndolo toda la vida. En uno de mis primeros recuerdos, voy por una calle de Úbeda de la mano de mi madre y ella me da un tirón y me aparta un lado en el momento en que uno de aquellos grandes coches negros de entonces dobla la esquina a toda velocidad. Mi madre se acordaba siempre de aquel susto que pudo habernos costado la vida a los dos. Aunque no se hubiera detenido, ella sabía quién era el conductor, ya que entonces había muy pocos coches: un médico muy conocido, con la sombría autoridad sacerdotal que los médicos tenían entonces. Muchos años después, conocí a un director teatral que me contó que era de Úbeda. Su apellido me trajo el recuerdo del automóvil agresivo, y le pregunté si por casualidad su padre había sido médico. El hombre debió de sentir algo de congoja retrospectiva al descubrir que, a causa de la pasión conductora de su padre, aquel encuentro pudo no haber sucedido. Seguir leyendo",
@@ -1342,54 +1557,34 @@
       "image": "https://imagenes.elpais.com/resizer/v2/SK27KVX6SNDAHASVLNHFU3DDGA.jpg?auth=56b4514a2818cdf44fc4b58d386359997b9ccaf2979ec77c97c0efdc279b0127"
     },
     {
-      "id": "5fa658dd182b00245896",
-      "title": "La final de Copa del Griezmann más disfrutón",
-      "summary": "Antoine Griezmann celebra el pase a las semifinales de la Liga de Campeones en el Metropolitano frente a la afición del Atlético.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-18/la-final-de-copa-del-griezmann-mas-disfruton.html",
-      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/NGC7XYMXFFC3HJVK3J33M46IBI.jpg?auth=a020410cee0459ecb50df2f623f45b423d887126617045912833d6af8aeeb994"
-    },
-    {
-      "id": "58ab726bcfc895256ef1",
-      "title": "Diez Copas del Rey para cambiar la historia del Atlético",
-      "summary": "Los jugadores del Atlético celebran la Copa del Rey de 2013 ante el Real Madrid en el Bernabéu.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-18/diez-copas-del-rey-para-cambiar-la-historia-del-atletico.html",
-      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/4MRSYJMIARE7NEY7JB7QDOKCYM.jpg?auth=907db41ff19db1b2e7447d8c3f423a0f406206b6317835c80984328c36e971bb"
-    },
-    {
-      "id": "37b15b3f7c6a02c7e753",
-      "title": "Mikel Oyarzabal, el futbolista que aparece cuando todo se decide",
-      "summary": "Mikel Oyarzabal dispara a puerta en la ida de semifinales de la Copa del Rey ante el Athletic.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-18/mikel-oyarzabal-el-futbolista-que-aparece-cuando-todo-se-decide.html",
-      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/UMOTEK5OGNBF5C7DZ64PQNAAIA.JPG?auth=9e392e0bf7ff1b2ff888bd995004c27e051674cbfd69d6b28e55c15bfef88116"
-    },
-    {
-      "id": "004f068098b713c1274c",
-      "title": "El supersábado pone a prueba la capacidad de Sevilla con máxima alerta por los grupos ultras",
-      "summary": "Aficionadas de la Real Sociedad, en el Muelle de la Sal bajo el Puente de Triana, en Sevilla.",
-      "link": "https://elpais.com/deportes/futbol/2026-04-18/el-supersabado-pone-a-prueba-la-capacidad-de-sevilla-con-maxima-alerta-por-los-grupos-ultras.html",
+      "id": "09fc79c5111bf838627c",
+      "title": "La inhumanidad: el invento más perdurable del ser humano",
+      "summary": "Varias personas caminan entre los escombros de edificios destruidos, esta semana en Beirut.",
+      "link": "https://elpais.com/opinion/2026-04-18/la-inhumanidad-el-invento-mas-perdurable-del-ser-humano.html",
       "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/FVKP4AFPHJCNJLIJX5EULJ36NQ.jpg?auth=d00be229ba603d0ec85e714f4ce64877b4636a0194d1c1ffb08a176391e1c094"
+      "image": "https://imagenes.elpais.com/resizer/v2/ZP7BA6FAH5LLZAJUJ2NIG3YBUM.jpg?auth=c717384f8ed932b6d91749466b72c3382fdd255b6ecb5f09d26974c2a8021f6f"
     },
     {
-      "id": "6ca696317a1176d3f672",
-      "title": "La cumbre progresista busca recetas contra el populismo: poner coto al negocio con los servicios públicos e impuestos a los ultrarricos",
-      "summary": "La vicepresidenta primera y comisaria de Competencia en la Comisión Europea, Teresa Ribera, a la dereza, y la economista Mariana Mazzucato, en una mesa de la cumbre.",
-      "link": "https://elpais.com/espana/2026-04-18/la-cumbre-progresista-busca-recetas-contra-el-populismo-poner-coto-al-negocio-con-los-servicios-publicos-e-impuestos-a-los-ultrarricos.html",
+      "id": "858a3f65825020db5c8b",
+      "title": "La discriminación de los inmigrantes en el acceso a ayudas en Extremadura choca con el documento marco del PP",
+      "summary": "Colas de personas frente a oficinas municipales de Palma durante el proceso de regularización extraordinario de migrantes, este jueves.",
+      "link": "https://elpais.com/espana/2026-04-18/la-discriminacion-de-los-inmigrantes-en-el-acceso-a-ayudas-en-extremadura-choca-con-el-documento-marco-del-pp.html",
       "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/V6JKEA2UORD3VJ4RNSTDOFQ6TI.jpg?auth=2ee47aa04d82b2ba2a2c87b6b712f955dba70e2b638bd11ea8989b8504d6e495"
+      "image": "https://imagenes.elpais.com/resizer/v2/SKAVILY24VNO7H3DTLYOW6AIDY.jpg?auth=07a070ff44650646476df431b5ac395ee43a5152e71f3a48a84621e3b3170544"
+    },
+    {
+      "id": "f651ea2a84739889df59",
+      "title": "El mundo del idioma español atisba el pacto para que el próximo congreso internacional de la lengua sea en Panamá",
+      "summary": "El director del Instituto Cervantes, Luis García Montero (izquierda), el alcalde de Arequipa; Víctor Hugo Rivera, el director de la Real Academia Española, Santiago Muñoz, en un acto en el pasado congreso de la lengua en Arequipa.",
+      "link": "https://elpais.com/cultura/2026-04-18/el-mundo-del-idioma-espanol-atisba-el-pacto-para-que-el-proximo-congreso-internacional-de-la-lengua-sea-en-panama.html",
+      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/7AUAKNJIHREHDPROP43ZWRURCI.jpg?auth=e01e80c59e2ddd3b99a57ee09f3ae5c115698cfdc8a3812bf04fa64b41485c7a"
     },
     {
       "id": "e7373e633638ac07fd04",
@@ -1453,6 +1648,16 @@
       "subcat": "herramientas"
     },
     {
+      "id": "24491dfb08cb1b03b0e6",
+      "title": "Por qué la cultura de las citas penaliza estar emocionalmente disponible: “Hay que dosificar el interés para no asustar”",
+      "summary": "Margot Robbie, en una escena de 'Cumbres borrascosas' (2026).",
+      "link": "https://elpais.com/estilo-de-vida/2026-04-18/por-que-la-cultura-de-las-citas-penaliza-estar-emocionalmente-disponible-hay-que-dosificar-el-interes-para-no-asustar.html",
+      "pubDate": "Sat, 18 Apr 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4E2E7PBVHZDKHJDNGFS5RRQTBU.jpg?auth=b63825af329d5cbe1c16cb9c61166491294b436481f81ffa13a0213e2bfd9dbe"
+    },
+    {
       "id": "f57f169db700817537c2",
       "title": "Banana negra, frutilesbiana o cuál es el chiste de las frutinovelas",
       "summary": "Una escena de 'Las frutinovelas', con Naranja, Banana Negra y Limón Limoné.",
@@ -1491,16 +1696,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/TRG2AZWURVGKXIUDWTNCPOIQC4.jpg?auth=bf49017de0668c0910adeb86a941020aa794ab4b2f127749bf3553018d3958f9"
-    },
-    {
-      "id": "42733f477cbf266f9bf1",
-      "title": "El insulto que nos degrada",
-      "summary": "Hay episodios que trascienden a sus protagonistas. Y no porque sean extraordinarios, sino porque revelan una forma de pensar que, cuando se hace visible, resulta inquietante. El gesto racista realizado por Agostina Páez , una ciudadana argentina en el Brasil , fue uno de ellos, no solo por la ofensa en sí misma —que ya era grave— sino por lo que ocurrió después: la reiteración del gesto por parte de su propio padre, la justificación pública y la insistencia en una conducta que hiere y que parece exhibirse con una mezcla de provocación e incomprensión. El problema no es únicamente individual. El racismo es más que un prejuicio privado: es un mensaje público que deshumaniza. Cuando se lo repite, se lo trivializa o se lo convierte en espectáculo, el daño se multiplica. Los jueces brasileños reaccionaron con firmeza, no por susceptibilidad exagerada, sino por memoria histórica. En una sociedad marcada por una compleja herencia racial, estos gestos no son bromas. Son evocaciones dolorosas, pues tocan fibras sensibles que forman parte de una historia colectiva. El prejuicio suele ir acompañado de ignorancia, pero la ignorancia se vuelve peligrosa cuando se exhibe con orgullo. Entonces, el insulto deja de ser un exabrupto y se transforma en una actitud Lo que resulta más preocupante es la incapacidad de advertir esa dimensión. El prejuicio suele ir acompañado de ignorancia, pero la ignorancia se vuelve peligrosa cuando se exhibe con orgullo. Entonces, el insulto deja de ser un exabrupto y se transforma en una actitud. Hay además un efecto colateral que no debería subestimarse. Estos episodios proyectan una imagen colectiva. La conducta de unos pocos termina afectando la percepción de muchos. No es justo, pero es inevitable. Los estereotipos se alimentan precisamente de estas escenas. No es la primera vez. El 9 de junio de 2021, durante una conferencia de prensa en la Casa Rosada junto al presidente del gobierno de España , Pedro Sánchez , el entonces presidente argentino A",
-      "link": "https://www.lanacion.com.ar/editoriales/el-insulto-que-nos-degrada-nid18042026/",
-      "pubDate": "Sat, 18 Apr 2026 03:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/4GEIPTVLKNBS7HPTZHMIANMXUE.jpg?auth=50e3a1c6b2e7f34288673154fdd0800d52c639d67d980e5aaed9c8caab0c81ab&smart=true&width=1624&height=1082"
     },
     {
       "id": "d2da1179f1b2b4649bda",
@@ -1653,36 +1848,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ece7/live/4df03240-3a5e-11f1-8606-05fe34b06e1b.jpg"
     },
     {
-      "id": "e8e23d617fe2ed821678",
-      "title": "Las portadas: los fichajes que quiere el Barça para la próxima temporada",
-      "summary": "Repaso a las primeras de los principales diarios deportivos.",
-      "link": "https://www.marca.com/futbol/album/2026/04/18/portadas-copa-vale-oro.html",
-      "pubDate": "Sat, 18 Apr 2026 01:21:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e2bf7994488.jpeg"
-    },
-    {
-      "id": "3390721fc101ba177d24",
-      "title": "Jon Rahm manda en México, pero el héroe del día es Luis Masaveu",
-      "summary": "Jon Rahm (31) en la etapa del LIV Golf en México",
-      "link": "https://www.marca.com/golf/liv-golf/2026/04/18/jon-rahm-manda-mexico-heroe-dia-luis-masaveu.html",
-      "pubDate": "Sat, 18 Apr 2026 01:06:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/18/69e2bc0d24903.jpeg"
-    },
-    {
-      "id": "3914deb7517c6a5c5a74",
-      "title": "Lampard devuelve al Coventry City a la Premier 25 años después",
-      "summary": "La felicitación de la Premier League al Coventry City.",
-      "link": "https://www.marca.com/futbol/premier-league/2026/04/18/lampard-devuelve-coventry-city-premier-25-anos-despues.html",
-      "pubDate": "Sat, 18 Apr 2026 00:00:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e2a7569ba64.jpeg"
-    },
-    {
       "id": "6a394e2c273c26497602",
       "title": "La separación, Esto es Tarot, Mary Poppins y Jhumpa Lahiri",
       "summary": "En este episodio Tamara y Male Rey conversan sobre la nueva novela de Martín Kohan, un libro de Elisa Carricajo sobre tarot, la película Mary Poppins y los cuentos romanos de Jhumpa Lahiri. Episodios anteriores Algo Prestado es un podcast de elDiarioAR realizado por Tamara Tenenbaum , junto a un invitado cada semana. Est alojado en Spotify , plataforma l der para la publicaci n de podcast, y tambi n en otras aplicaciones de streaming.",
@@ -1777,26 +1942,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "a07b84ad734e9f512655",
-      "title": "Genial 'spot' copero del Atleti: \"La vida no va solo de ganar... va de dar la cara\"",
-      "summary": "El conjunto rojiblanco motiva a sus seguidores de cara a la final de la Copa del Rey con un anuncio en el que llama a \"escribir una nueva historia\" y en la que hace un repaso de sus diez triunfos en la competición del KO: \"Esta es la noche que forjará los recuerdos de una nueva generación\".",
-      "link": "https://www.marca.com/futbol/atletico/2026/04/17/genial-spot-copero-atleti-vida-ganar-dar-cara-video.html",
-      "pubDate": "Fri, 17 Apr 2026 23:59:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/adh2E1fugpgwd1Fy_.jpeg"
-    },
-    {
-      "id": "e927068bd498b290663e",
-      "title": "Borrón y cuenta nueva",
-      "summary": "Arbeloa, en el banquillo junto a uno de sus ayudantes.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/04/17/arbeloa-seguira-salvo-milagro.html",
-      "pubDate": "Fri, 17 Apr 2026 23:45:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e233b3450a9.jpeg"
-    },
-    {
       "id": "bd09f07e207439c90293",
       "title": "Manos Limpias pide más de diez años de cárcel para Begoña Gómez por tráfico de influencias y malversación",
       "summary": "También solicita que se condene al empresario Juan Carlos Barrabés a dos años y tres meses de prisión por tráfico de influencias. El seudosindicato Manos Limpias pidi en su escrito de acusaci n m s de diez a os de c rcel para Bego a G mez por delitos continuados de tr fico de influencias y malversaci n de caudales p blicos. En el documento, registrado este viernes, tambi n solicita que se condene al empresario Juan Carlos Barrab s a dos a os y tres meses de prisi n por tr fico de influencias. La organizaci n argumenta que G mez se prevali de su posici n en la Administraci n, como esposa del presidente del Gobierno para que el rector de la Universidad Complutense diera las instrucciones oportunas para que se constituyera una c tedra universitaria para que ella pudiera dirigirla . Se lucr de su posici n en la c tedra, no solo por el importe obtenido [15.000 euros] sino que tambi n detrajo el software desarrollado en su seno para su comercializaci n a trav s de una sociedad mercantil , se ala el escrito, que tambi n apunta que inmediatamente despu s , en julio de 2020, emiti cartas de recomendaci n a favor de la empresa de Barrab s. Esas cartas a favor de la UTE de Barrab s fueron presentadas en dos procesos de licitaci n de la empresa p blica Red.es que estaban financiados con fondos de la Uni n Europea, por lo que la Fiscal a Europea asumi su investigaci n. Un informe pericial a la Unidad de Apoyo de la Intervenci n General de la Administraci n del Estado (IGAE) determin que Red.es hab a beneficiado injusta e ilegalmente al empresario, pero G mez no tiene la condici n de investigada en esa causa. Manos Limpias tambi n cree que los hechos anteriores podr an constituir un delito de prevaricaci n del que ser a responsable quien nombr a Bego a G mez para la c tedra universitaria, pero entiende que tal acusaci n no es factible en este momento procesal . La esposa de S nchez empez a trabajar en la Complutense en 2012, seis a os antes de la llegada de su marido al Palacio d",
@@ -1805,26 +1950,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/ebd590c4-5a1e-494b-b194-fadc4573bb41_16-9-discover-aspect-ratio_default_0_x393y102.jpg"
-    },
-    {
-      "id": "9b8a5f0e3bc518d90422",
-      "title": "El récord de 11 triples en un partido de Oscar Schmidt en la ACB... ¡que duró 20 años!",
-      "summary": "El brasileño del Forum Valladolid, apodado 'Mano santa', encestó once triples en un partido ante el CB Murcia en la temporada 1993-94 firmando un registro que estuvo vigente dos décadas.",
-      "link": "https://www.marca.com/baloncesto/2026/04/17/record-11-triples-partido-oscar-schmidt-acb-duro-20-anos-video.html",
-      "pubDate": "Fri, 17 Apr 2026 23:11:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/adfeG1fufouTQYLDp.jpeg"
-    },
-    {
-      "id": "295ed03b91cc88fb9918",
-      "title": "Las Palmas se niega a renunciar",
-      "summary": "Pedrola celebra su gol al Leganés.",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/04/17/palmas-niega-renunciar-costa-lega.html",
-      "pubDate": "Fri, 17 Apr 2026 22:59:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/17/69e299fe155ae.jpeg"
     },
     {
       "id": "acc79db149abee01d3de",
@@ -1941,6 +2066,17 @@
       "image": "https://imagenes.elpais.com/resizer/v2/UZ2VOOXM35GNBAWHEUNMVINP4M.JPG?auth=fffcfe0e59c04af7e2dbd205d4f46cbffe1a886bedb7ea7cf45b035911b5ea1e"
     },
     {
+      "id": "b8d3e91f52a4883407e7",
+      "title": "Un nuevo Patch Tuesday, un nuevo roto en Windows 11",
+      "summary": "Cada segundo martes de mes llega una cita que, sobre el papel, debería ser tranquilizadora para los usuarios de Windows: el Patch Tuesday , el ciclo de actualizaciones de seguridad con el que Microsoft corrige vulnerabilidades detectadas en su software. En la práctica, sin embargo, este ritual mensual se ha convertido desde hace años en una especie de ruleta rusa para los usuarios de Windows 11 . El Patch Tuesday de abril de 2026 ya había llamado la atención por su tamaño —más de 160 vulnerabilidades corregidas—, pero apenas 48 horas después de su lanzamiento ha vuelto a confirmar uno de los mayores problemas del ecosistema Windows : instalar una actualización crítica puede acabar convirtiéndose en un problema tan serio como los fallos que pretende corregir. El nuevo incidente gira en torno a un problema confirmado por la propia Microsoft que puede bloquear el acceso al sistema en determinados equipos tras instalar la actualización . En algunos dispositivos con configuraciones concretas de BitLocker , el primer reinicio posterior al parche puede obligar al usuario a introducir la clave de recuperación del cifrado. Dicho de forma más clara: una actualización de seguridad pensada para proteger el sistema puede dejar al usuario sin acceso a su propio ordenador si no tiene a mano esa clave de recuperación. No se trata de un escenario especialmente agradable cuando hablamos de un parche que muchos usuarios instalan automáticamente confiando en que se trata de una actualización rutinaria. El problema se produce por u na interacción entre BitLocker, ciertas políticas de grupo relacionadas con el TPM y los cambios introducidos en el sistema de certificados de Secure Boot . La actualización de abril incluye nuevos certificados que sustituyen a los emitidos en 2011 y que expiran en junio , un cambio necesario tras más de quince años sin modificaciones en este componente de seguridad. Sin embargo, en determinadas configuraciones el sistema detecta inconsistencias tras el reini",
+      "link": "https://www.muycomputer.com/2026/04/17/un-nuevo-patch-tuesday-un-nuevo-roto-en-windows-11/",
+      "pubDate": "Fri, 17 Apr 2026 18:38:10 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Patch-Tuesday-2-1.jpg",
+      "subcat": "empresas"
+    },
+    {
       "id": "c0565000622301abfc64",
       "title": "Tu PC con Windows podría fallar hoy: Microsoft confirma fallos críticos en la actualización de abril de 2026",
       "summary": "Microsoft ha lanzado su actualización mensual para Windows y, como es costumbre, el parche ya está generando fallos en muchos ordenadores. El más reciente tiene que ver con una medida de seguridad del sistema operativo que causa reinicios infinitos en algunas versiones de Windows. Por si fuera poco, otros usuarios reportan un bug que pide la clave de recuperación de BitLocker al arrancar, algo que no debería ocurrir. De acuerdo con Neowin , el Patch Tuesday de Windows comenzó a causar dolores de cabeza a miles de usuarios y organizaciones. Un fallo grave en los controladores de dominio que usan el Privileged Access Management (PAM) provoca que el ordenador entre en un bucle de reinicios . Este problema bloquea por completo la autenticación de usuarios y los servicios de directorio. Microsoft confirmó que el fallo afecta a las versiones de Windows Server 2025 y 2022 que instalaron el parche de abril de 2026. Tras aplicar la actualización y reiniciar, el proceso de validación de credenciales falla , por lo que los ordenadores entran en un ciclo infinito de reinicios que impide que el servidor lleve a cabo funciones básicas de autenticación y directorio. En un escenario más complejo, este fallo podría provocar que todo el dominio quede inoperativo . Según la explicación técnica , el parche causa que entren en conflicto dos componentes: LSASS y PAM. El primero es el servicio de autoridad local encargado de validar credenciales tanto en inicios de sesión locales como remotos, mientras que el segundo es una capa de protección que restringe el acceso y dificulta que un atacante se mueva por la red para obtener cuentas con privilegios altos. Debido a la complejidad del fallo, Microsoft recomendó a los administradores de TI que contacten al servicio de soporte para aplicar una mitigación en lo que llega un parche. No solo las empresas: los usuarios de Windows 11 también experimentan problemas tras la actualización El fallo en los controladores de dominio no es el único probl",
@@ -2010,6 +2146,16 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0790/live/5a41eb90-3a6a-11f1-b0ed-870299e8b290.jpg"
+    },
+    {
+      "id": "9a795bbc3c56d51eeb42",
+      "title": "GIGABYTE introduce T-Guard en sus nuevas fuentes de alimentación",
+      "summary": "El aumento constante del consumo energético de las tarjetas gráficas de gama alta ha convertido a las fuentes de alimentación en un componente cada vez más crítico dentro de los equipos de alto rendimiento. Con la llegada de nuevas generaciones de GPUs y del conector 12V-2&#215;6, la estabilidad eléctrica y la seguridad térmica han pasado a ocupar un lugar central en el diseño de estos componentes. En este contexto, GIGABYTE ha presentado su nueva serie de fuentes de alimentación , pensadas para ofrecer un equilibrio entre potencia, eficiencia y protección avanzada del hardware. La nueva serie GAMING de GIGABYTE está diseñada específicamente para sistemas exigentes, como PCs gaming de alto nivel o estaciones de trabajo creativas. Estas fuentes cumplen con los estándares ATX 3.1 y PCIe 5.1 , lo que garantiza compatibilidad con las GPUs modernas y con las demandas energéticas actuales. Con capacidades disponibles de 750 W, 850 W y 1000 W , la serie busca cubrir diferentes configuraciones de hardware manteniendo un diseño robusto orientado a la estabilidad y la seguridad. Uno de los elementos más destacados de estas fuentes es la introducción de T-Guard, una tecnología de monitorización térmica activa desarrollada por GIGABYTE para supervisar el comportamiento del conector 12V-2&#215;6 . A diferencia de los sistemas de protección tradicionales, que actúan de forma reactiva cuando aparece un problema, T-Guard incorpora sensores térmicos que permiten controlar en tiempo real la temperatura del conector y detectar posibles anomalías, como conexiones incorrectas o cargas eléctricas inusuales. Este sistema se apoya en un enfoque de protección en tres fases que GIGABYTE define como Detect, Protect y Reconnect . En primer lugar, los sensores monitorizan constantemente la temperatura del conector para detectar posibles situaciones de riesgo. Si se identifica un sobrecalentamiento, la fuente reduce de forma inteligente el suministro de energía a la GPU para evitar daños en el c",
+      "link": "https://www.muycomputer.com/2026/04/17/gigabyte-introduce-t-guard-en-sus-nuevas-fuentes-de-alimentacion/",
+      "pubDate": "Fri, 17 Apr 2026 16:51:46 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Gigabyte-2.jpg"
     },
     {
       "id": "ecb3050acda2f9396d40",
@@ -2102,6 +2248,16 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/766b/live/7d7e9d70-3a5f-11f1-bab3-e3881342f552.jpg"
     },
     {
+      "id": "8aa2205a179f8e242513",
+      "title": "Ofertas top de la semana: especial portátiles",
+      "summary": "Esta semana tenemos otra selección de ofertas top, pero centrada en portátiles, porque PcComponentes tiene abierta una campaña con descuentos que pueden superar el 40% en algunos modelos, y en la mayoría de equipos los descuentos rondan entre un 20% y un 30%. Si estabas pensando en comprar un nuevo portátil esta temporada de ofertas te viene como anillo al dedo, porque además de ahorrar podrás elegir entre una gran variedad de equipos, ya que están en oferta tanto portátiles ultraligeros como equipos gaming, y también los MacBook de Apple. Ofertas top en portátiles para gaming MSI Cyborg 15 con CPU Intel Core 7 240H, 32 GB de DDR5, SSD de 1 TB y GeForce RTX 5060 con 8 GB rebajado a 1.149 euros. HP Victus 15 con CPU Intel Core 7 240H, 16 GB de RAM, SSD de 1 TB y GeForce RTX 5060 con 8 GB en oferta por 1.099 euros. ASUS TUF Gaming 15 con Intel Core i7-14650HX, 32 GB de RAM, SSD de 1 TB y GeForce RTX 5060 con 8 GB rebajado a 1.299 euros. Lenovo Legion 5 con pantalla OLED, AMD Ryzen 7 260, 32 GB de RAM, SSD de 1 TB y GeForce RTX 5060 rebajado a 1.299 euros. HP Victus 15 con AMD Ryzen 5 8645HS, 16 GB de RAM, SSD de 512 GB y GeForce RTX 4050 de 6 GB en oferta por 779 euros. MSI Cyborg 15 con Intel Core 7 240H, 32 GB de RAM, SSD de 1 TB y GeForce RTX 5070 de 8 GB en oferta por 1.349 euros. ASUS ROG Zephyrus G14 con pantalla OLED, AMD Ryzen AI 9 HX 370, 32 GB de RAM, SSD de 1 TB y GeForce RTX 5070 Ti de 12 GB rebajado a 2.489,99 euros. MSI Stealth A16 con pantalla OLED, AMD Ryzen AI 9 HX 370, 32 GB de RAM, SSD de 1 TB y GeForce RTX 5080 de 16 GB rebajado a 2.799 euros. Lenovo LOQ Essential con Intel Core i5-13450HX, 16 GB de RAM, SSD de 512 GB y GeForce RTX 5050 de 8 GB rebajado a 899,01 euros. Lenovo Legion Pro 7 con pantalla OLED, AMD Ryzen 9 9950HX3D, 64 GB de RAM, SSD de 2 TB y GeForce RTX 5080 de 16 GB rebajado a 3.599 euros. MSI Vector 16 HX con Intel Core Ultra 7 255HX, 32 GB de RAM, SSD de 1 TB y GeForce RTX 5070 Ti de 12 GB en oferta por 1.999 euros. Ofertas top en",
+      "link": "https://www.muycomputer.com/2026/04/17/ofertas-top-de-la-semana-especial-portatiles/",
+      "pubDate": "Fri, 17 Apr 2026 13:22:07 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2025/11/Afiliacion-boton-pccomponentes-440x50-1.jpg"
+    },
+    {
       "id": "c5c65d72088c8a069bea",
       "title": "¿Tendrá ‘The Pitt’ temporada 3? Esto es todo lo que sabemos",
       "summary": "La segunda temporada de The Pitt acaba de llegar a su final en HBO Max y, por ello, lo fans ya piensan en una posible temporada 3. El exitoso drama médico ha vuelto a demostrar por qué es una de las mejores series de la actualidad . Su triunfo incontestable en la pasada temporada de premios no fue una casualidad. De cara a este curso, podría repetir victoria, ya que por ahora es una de las grandes candidatas . Por eso, sus millones de espectadores quieren saber si la historia ha llegado a su fin o podrán ver más episodios en el futuro. The Pitt es un examen realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital moderno de Pittsburgh, Pensilvania. Cada episodio sigue una hora del turno de 15 horas del Dr. Robby como jefe de urgencias del Pittsburgh Trauma Medical Hospital . En este caso la temporada 2 se ha centrado en el turno de día de un caótico y accidentado 4 de julio. Fiesta nacional en Estados Unidos, muchísimo calor veraniego e incluso un hackeo informático masivo que ha obligado a los sanitarios a trabajar en analógico son solo algunos de los retos a los que se han enfrentado los protagonistas en esta segunda entrega. Y aunque el turno ha acabado, hay algunas cuestiones que han quedado sin resolver. O, al menos, con finales abiertos. Por eso, los fans piden ya una temporada 3 para The Pitt . Todo lo que sabemos de The Pitt temporada 3 Por fortuna para todos ellos, HBO Max sabe que lo que se tiene entre manos es un éxito mundial. Por eso, sí, The Pitt tendrá temporada 3 próximamente. Po el momento, sabemos que se ambientará en el mes de noviembre. Es decir, con un salto temporal de cuatro meses con respecto a la segunda temporada. En ese tiempo, el permiso de tres meses de vacaciones del Doctor Robby ya se habrá terminado. Sin embargo, habrá un cambio importante. \"Una de las cosas que veremos en la tercera temporada es que él regresa,",
@@ -2162,6 +2318,26 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/lobo-jason-momoa.jpg"
     },
     {
+      "id": "7dbd96ae1b5182d7b335",
+      "title": "RPCS3 configura automáticamente los juegos de PS3: lanza el juego… y a jugar, como en una consola",
+      "summary": "Hace solo unos días os contamos que RPCS3, el mejor emulador de PS3 que existe ahora mismo, introdujo una importante mejora que le permite comportarse casi como si fuera una PS3 real, y justo ahora ha recibido otra mejora que la acerca todavía más a ese objetivo de ofrecer una experiencia más cercana a la consola de Sony. Este emulador ha introducido una base de datos para utilizarla en la configuración de los juegos. Funciona de forma individualizada, utiliza los datos obtenidos a través de la Wiki RPCS3 y los aplica de forma individualizada cuando detecta que estamos lanzando un juego. Es una mejora muy importante porque aplica los ajustes y la configuración necesaria a cada juego para que este funcione correctamente, solucionando con ello el problema de la configuración manual y liberando al usuario de una tarea que podía ser bastante tediosa. No es una solución milagrosa, es decir, si un juego tiene problemas a nivel de emulación, ya sea a nivel gráfico, de rendimiento o de estabilidad dicho juego seguirá teniendo esos problemas. Sin embargo, sí que puede ayudar al aplicar automáticamente esas configuraciones específicas que necesitan ciertos juegos para funcionar correctamente. Por ejemplo, hay juegos que con la configuración manual adecuada pueden librarse completamente de fallos gráficos grave s, evitar bloqueos y cierres espontáneos, e incluso mejorar su nivel de calidad gráfica y de rendimiento. Así de importante es la configuración al lanzar juegos de PS3 en RPCS3, y esto nos ayuda a entender el valor que tiene esa nueva función de configuración automática. Gracias a esta actualización, el emulador RPCS3 pasará a aplicar automáticamente las configuraciones y correcciones que tenga en su base de datos, haciendo que el proceso de jugar a juegos de PS3 sea cada vez más parecido a jugar en una consola real. El emulador RPCS3 se puede descargar de forma gratuita y segura a través de su web oficial, y tiene unos requisitos mínimos bastante razonables para los ti",
+      "link": "https://www.muycomputer.com/2026/04/17/rpcs3-configura-automaticamente-los-juegos-de-ps3-lanza-el-juego-y-a-jugar-como-en-una-consola/",
+      "pubDate": "Fri, 17 Apr 2026 11:58:58 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/RPCS3-emulador-PS3.jpg"
+    },
+    {
+      "id": "484ce2b532e390946908",
+      "title": "El arma secreta del iPhone 18 Pro ya ha entrado en producción",
+      "summary": "Una de las novedades más importantes que traerá el iPhone 18 Pro, y por ende también el modelo Pro Max, es la cámara con apertura variable . Esta tecnología estará implementada en la cámara principal de ambos terminales, y permitirá regular de forma dinámica la cantidad de luz que entra al sensor, mejorando con ello sus capacidades fotográficas. El iPhone 18 Pro no sería el primer smartphone en adoptar la apertura variable en su cámara principal, pero sí que le ayudaría a convertirse en uno de los smartphones de nueva generación con mejores prestaciones a nivel de cámaras, y sería un avance muy importante frente a la generación actual , esto no admite discusión. Según fuentes surcoreanas , la cadena de suministro ya ha empezado a trabajar en componentes que serán clave para el iPhone 18 Pro, y uno de esos componentes son los actuadores que utilizará la cámara de apertura variable de dicho smartphone. En teoría, LG Innotek será la encargada de sacar adelante la producción de los módulos de cámara del iPhone 18 Pro, y dicha producción arrancará entre junio y julio. Las mismas fuentes confirmaron que LG ha montado equipamiento dedicado para la producción de cámaras de apertura variable en su planta situada en Gumi, Corea del Sur. Apple no ha confirmado nada todavía sobre las especificaciones de su próximo terminal estrella, como es lógico, pero con las informaciones que vamos teniendo cada vez está más claro que la cámara con apertura variable será una realidad en el iPhone 18 Pro. Si esto se confirma, dicho terminal será el primer iPhone en contar con una cámara con apertura variable. Veremos cómo afecta esto a su precio de venta, aunque ya os puedo adelantar que algunos rumores sugieren que Apple no va a incrementar el precio de venta de los iPhone 18 y iPhone 18 Pro para que estos sean más competitivos. Con la cámara de apertura variable el iPhone 18 Pro podrá hacer mejores fotos en condiciones de baja iluminación ambiental, porque podrá abrirse al máximo para incre",
+      "link": "https://www.muycomputer.com/2026/04/17/el-arma-secreta-del-iphone-18-pro-ya-ha-entrado-en-produccion/",
+      "pubDate": "Fri, 17 Apr 2026 11:55:08 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/iphone-17-Pro-2.jpg"
+    },
+    {
       "id": "fd52f79d8efd11839e03",
       "title": "The Dog Stars lanza su tráiler y confirma el giro más emocional de Ridley Scott en la ciencia ficción",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com El mundo ya no es lo que era… pero Ridley Scott parece tener muy claro cómo quiere que lo volvamos a sentir. Ridley Scott desvela el tráiler de The Dog Stars tras las primeras imágenes en CinemaCon Ayer hablábamos de las primeras imágenes que llegaban desde la CinemaCon y hoy ya tenemos el siguiente paso lógico: el primer tráiler de The Dog Stars , la nueva apuesta de ciencia ficción de Ridley Scott que apunta a convertirse en uno de los grandes estrenos del verano. 20th Century Studios ha presentado por fin el primer avance oficial de esta adaptación del best-seller de Peter Heller, confirmando que no estamos ante una simple historia postapocalíptica, sino ante una película que quiere mezclar supervivencia, emoción y ese toque reflexivo que siempre ha acompañado al cine del director de Blade Runner . Un mundo roto… y una señal que lo cambia todo La historia nos sitúa en un futuro devastado por una pandemia que ha arrasado con gran parte de la humanidad, dejando un paisaje desolador donde sobrevivir ya no es suficiente si no hay algo por lo que seguir adelante. Ahí entra en juego Hig, interpretado por Jacob Elordi, un piloto civil que vive aislado en un hangar junto a su perro y a Bangley, un exmilitar interpretado por Josh Brolin que actúa como protector en un mundo donde confiar en alguien puede ser un error fatal. El tráiler deja una idea muy clara desde el principio: mientras uno cree que el mundo se ha terminado, el otro todavía piensa que puede reconstruirse . Ese contraste entre supervivencia y esperanza es el motor de la historia, y también lo que diferencia a The Dog Stars de otras propuestas del género. Todo cambia cuando una misteriosa transmisión de radio irrumpe en la rutina de Hig, empujándolo a salir de su zona segura y a enfrentarse a lo desconocido en busca de algo que parecía perdido: conexión humana. Ciencia ficción con alma… y con conflicto Uno de los aspectos más interesantes del trái",
@@ -2203,6 +2379,16 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/EXLANTIX-ES-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
+      "id": "a48e4a973913b903bac9",
+      "title": "La GeForce RTX 3060 vuelve al mercado en junio, y sí, es el modelo de 12 GB",
+      "summary": "NVIDIA quiere mejorar la situación en el mercado de tarjetas gráficas de gama de entrada con la GeForce RTX 5050 de 9 GB , un modelo que podría ser interesante si utiliza memoria GDDR7, porque tendría 1 GB más de VRAM y mayor ancho de banda. La compañía también va a lanzar la GeForce RTX 3060 en su versión de 12 GB, y ya tenemos posible fecha de llegada tras sufrir un pequeño retraso . El lanzamiento de la GeForce RTX 3060 se espera para el mes de junio. El modelo que relanzará NVIDIA tiene 12 GB de GDDR6, un bus de 192 bits y cuenta con 3.584 shaders . Está basada en Ampere, una arquitectura que se lleva bastante bien con los motores gráficos actuales, incluido el Unreal Engine 5, y es considerada como el nivel mínimo recomendable para jugar con todas las garantías en 1080p. Ese es el nivel al que se dirige la GeForce RTX 3060, a aquellos que quieran jugar en 1080p con garantías sin tener que hacer una gran inversión. No tenemos detalles sobre su precio de venta, pero no tendría sentido que costase más de 200 euros, porque se pisaría con la GeForce RTX 5050 y con la GeForce RTX 5060. Volviendo a la GeForce RTX 5050 de 9 GB, su presentación se esperaba para el Computex, pero parece que estos planes han cambiado, y que finalmente llegará más tarde de lo previsto . Este modelo podría ofrecer un mayor rendimiento que la versión de 8 GB no solo por tener 1 GB más de VRAM, sino porque como os dije al principio pasar de GDDR6 a GDDR7 aumentaría el ancho de banda. Como ya os dije en ocasiones anteriores, lo realmente rompedor sería que NVIDIA nos sorprendiera con una GeForce RTX 5060 equipada con 12 GB de GDDR7 , ya sea una versión equipada con chips de 3 GB, en cuyo caso tendría un bus de 128 bits, o configurada con chips de 2 GB de VRAM, en cuyo caso tendría un bus de 192 bits. Esa tarjeta gráfica, de existir, se convertiría en la mejor opción dentro de la gama media , siempre y cuando el precio se mantenga dentro de unos niveles razonables, claro está. Iremos viendo qué",
+      "link": "https://www.muycomputer.com/2026/04/17/la-geforce-rtx-3060-vuelve-al-mercado-en-junio-y-si-es-el-modelo-de-12-gb/",
+      "pubDate": "Fri, 17 Apr 2026 10:41:26 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/GeForce-RTX-3060-NVIDIA.jpg"
+    },
+    {
       "id": "66ca0b1ff5a3220154fb",
       "title": "Increíble oportunidad: los dos mejores teléfonos de gama media, ahora en oferta con casi un 40% de descuento",
       "summary": "El iPhone 17 Pro, el Samsung Galaxy S26 Ultra o el mismo Xiaomi 17 Ultra son teléfonos top, seguramente los mejores del mercado ahora mismo. Especificaciones de primer nivel que van acompañadas de un precio que sobrepasa con tranquilidad los mil euros. Para todas aquellas personas que no están dispuestas a pagar esa cantidad de dinero, la gama media suele ser la mejor opción, sobre todo determinados terminales. Es por eso que para muchos fabricantes, el verdadero negocio está ahí, en los terminales que van de los 200 a los 400 euros, que son bastante equilibrados tanto en funciones como en precio . Buena cámara, buen procesador, buena autonomía… Entre todos los fabricantes, hay dos que se han posicionado como los favoritos para muchas personas. Por un lado, Samsung, que lleva años siendo la apuesta personal y de confianza para millones de personas. Por otro lado, Xiaomi, que aunque lleva menos tiempo, tiene una importante cartera de clientes que han llegado a ella principalmente por su precio, pero también por todo lo que da. Hoy te traemos la oferta de dos de sus mejores teléfonos. Y decimos mejores porque así lo han evaluado cientos de consumidores. Por un lado, el Samsung Galaxy A56 . Por otro, el Xiaomi REDMI Note 14 . Los dos teléfonos van de los 169 euros a los 399 euros. Samsung Galaxy A56 en oferta: 24 por ciento de descuento Es cierto que los 399 euros de su precio final pueden alejar a cierta parte de los consumidores pero de verdad que es un teléfono que se acerca mucho a ser un teléfono redondo. Tiene muchos aspectos de la gama premium como el uso de la Inteligencia Artificial pero en el día a día, es un teléfono que no falla. Tenemos un teléfono de 6,7 pulgadas de pantalla Super AMOLED con resolución FHD+ y una tasa de refresco de 120 Hz. Si te gusta jugar en el móvil de camino al trabajo o a la universidad, disfrutarás muchísimo con su calidad. En cuanto a cámaras, tiene un módulo triple compuesto de un sensor principal de 50 MP con OIS, gran angular d",
@@ -2234,6 +2420,16 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/292d/live/d6d60490-3a54-11f1-a5de-8146db4c6e12.jpg"
     },
     {
+      "id": "aec92adba302406fdff8",
+      "title": "Metro 2039 o cómo las guerras moldean el desarrollo de los videojuegos",
+      "summary": "4A Games ha presentado oficialmente Metro 2039 , la nueva entrega de la franquicia &#8216;Metro&#8217; que estará disponible el próximo invierno para PC, Xbox Series X/S y PlayStation 5. El lanzamiento será todo un logro por las condiciones en las que se está desarrollando. Si la realidad de este mundo de locos que nos ha tocado vivir no te parece lo suficientemente sombría, la desarrolladora ucraniana nos llevará más allá con un juego aún más oscuro que títulos anteriores . Un reto considerable porque Metro siempre ha gustado por su ambientación, aunque la agitación social que ha afectado a 4A Games desde la invasión rusa de Ucrania parece haberse convertido en una dolorosa fuente de inspiración para la desarrolladora. Para situar la problemática, conviene recordar que la saga Metro está basada en las novelas de Dmitry Glukhovsky, un autor ruso exiliado por su denuncia pública de la invasión rusa de Ucrania . 4A Games explica que si bien este nuevo juego no se basa específicamente en una de sus obras, colaboraron con Glukhovsky en la historia de Metro 2039, «una historia moldeada por valores compartidos de libertad y verdad, e inspirada por las duras realidades del mundo actual» . Si bien la serie Metro siempre ha sido sombría, no es difícil imaginar cómo la invasión rusa pudo haber influido en la narrativa de un estudio ucraniano con un ruso exiliado en el equipo de guionistas: « La guerra ha moldeado directamente el desarrollo de Metro 2039 , con una historia centrada en las decisiones, las acciones, las consecuencias y el precio de asegurar un futuro. Aunque narrada desde una perspectiva claramente ucraniana, Metro 2039 sigue siendo una historia auténtica de Metro” . El estudio también ha comentado las dificultades personales para crear el juego . «Muchos desarrolladores siguen trabajando desde diferentes lugares, enfrentándose a retos diarios imprevistos. A pesar de los cortes de luz, el uso de generadores y las interrupciones causadas por ataques con misiles y",
+      "link": "https://www.muycomputer.com/2026/04/17/metro-2039-o-como-las-guerras-moldean-el-desarrollo-de-los-videojuegos/",
+      "pubDate": "Fri, 17 Apr 2026 09:16:13 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Metro_2039_2.jpg"
+    },
+    {
       "id": "ef86739bd0caa92e937d",
       "title": "BigBuy capta 4 M€ y crea un nuevo consejo en una operación que profundiza sus lazos con China",
       "summary": "BigBuy han anunciado el cierre de una nueva ronda de financiación de 4 millones de euros, procedentes de dos socios industriales procedentes de China y el grupo español GVC Gaesco Alternative Investments. La compañía ha explicado que &#8220;la operación refuerza la estructura financiera de BigBuy y consolida su papel como plataforma integrada que conecta la fabricación y la innovación china con el fragmentado ecosistema del eCommerce europeo&#8221; . Así, la nueva dirección de BigBuy cree que &#8220;esta alianza estratégica permitirá a los clientes europeos acceder directamente a marcas chinas de alta calidad, reduciendo intermediarios y acelerando el time-to-market&#8221;. Planes de futuro para BigBuy BigBuy espera que esta inversión le permita consolidar su plataforma mayorista, así como potenciar InnovaGoods, su marca multicategoría que cuenta con presencia en eCommerce, marketplaces y retail. Además, la nueva dirección de la compañía acelerará el desarrollo de nuevas soluciones tecnológicas basadas en inteligencia artificial y reforzará su negocio internacional cross-border, &#8220;construyendo un catálogo que combine marcas europeas líderes con marcas chinas de alta calidad interesadas en expandirse en Europa&#8221;. Con esta estrategia, BigBuy busca &#8220;evolucionar hacia una plataforma más sofisticada y potenciada por la IA&#8221; , con proyectos centrados en pricing dinámico, optimización de inventario y automatización de catálogo, orientados a mejorar la conversión, los márgenes y la eficiencia operativa. Recordemos que la compañía opera desde hace tiempo como una plataforma tecnológica de supply chain, que integra abastecimiento de producto, gestión de catálogo, logística y distribución multicanal en los distintos canales de eCommerce europeos, permitiendo a los vendedores B2B europeos acceder directamente a las cadenas de suministro en origen, tanto para dropshipping como para marcas propias. Nuevo consejo de administración Esta operación llega en un mo",
@@ -2263,6 +2459,16 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/XIAOMI-BATERIA.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "c112530ecc5932cb2b7b",
+      "title": "Nuevos juegos de GeForce Now: Pragmata y Replaced son lo más destacado",
+      "summary": "Ya conocemos los juegos que llegan esta semana a GeForce Now, y tenemos dos novedades que destacan especialmente: Pragmata y Replaced. Pragmata es un nuevo juego desarrollado por Capcom que, a nivel técnico, posiciona como uno de los títulos más avanzados de su generación, un tema sobre el que ya profundizamos ayer en este artículo , donde repasamos las tecnologías que utiliza y cómo ha sido capaz de implementar el trazado de trayectorias manteniendo un alto grado de optimización. Lo nuevo de Capcom es un juego altamente escalable, pero para disfrutarlo al máximo debemos activar el trazado de trayectorias, un ajuste que tiene un gran impacto en la calidad gráfica, y en el rendimiento. Si tu PC no está preparado para ello, y no puedes permitirte actualizar, tranquilo, porque puedes jugar a Pragmata en GeForce Now con la suscripción «ultimate» y disfrutar de todo el potencial de una GeForce RTX 5080. Bajo la modalidad «ultimate» podrás jugar a Pragmata en 4K con calidad máxima, trazado de trayectorias y disfrutar de un buen rendimiento activando DLSS 4 Super Resolution y Multi Frame Generation en modo x4. Replaced no es un juego tan exigente ni tan avanzado tecnológicamente, pero es una auténtica maravilla del género «pixel art» que está recibiendo críticas muy positivas en Steam, y su precio de venta es muy bajo, ya que se puede comprar por 19,99 euros. A continuación de te dejamos un listado con las novedades que llegan esta semana a GeForce Now: REPLACED (Nuevo en Steam y Xbox, Game Pass, GeForce RTX 5080-ready). Windrose (Nuevo en Steam, GeForce RTX 5080-ready). Cthulhu: The Cosmic Abyss (Nuevo en Steam, GeForce RTX 5080-ready). PRAGMATA (Nuevo en Steam, GeForce RTX 5080-ready). PRAGMATA SKETCHBOOK &#8211; DEMO (Steam, GeForce RTX 5080-ready). El indicativo «GeForce RTX 5080 ready» significa que estos juegos se ejecutan sobre una tarjeta gráfica equivalente en potencia y prestaciones a una GeForce RTX 5080 en los servidores de GeForce Now, siempre que cuentes con ",
+      "link": "https://www.muycomputer.com/2026/04/17/nuevos-juegos-de-geforce-now-pragmata-y-replaced-son-lo-mas-destacado/",
+      "pubDate": "Fri, 17 Apr 2026 08:48:48 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Replaced.jpg"
     },
     {
       "id": "7f2f178aaba891ae03d4",
@@ -2315,6 +2521,16 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/The-Last-Starfighter-comic.jpg"
     },
     {
+      "id": "4154b6b2a31a2d9dbce1",
+      "title": "Windows 11 OEM: cinco razones por las que vale la pena comprarlo por 21,6 euros",
+      "summary": "Windows 11 está disponible en varias versiones. Las más conocidas son Windows 11 Home, Windows 11 Pro y Windows 11 LTSC, ¿pero sabías que este sistema operativo también se divide en dos tipos de licencia? Pues así es, está la licencia «retail» y la OEM. ¿Qué vale más la pena, una licencia OEM o una «retail? En la mayoría de los casos la licencia OEM es más interesante, porque ofrece un mejor valor en relación calidad precio. Piensa que el coste de una licencia «retail» de Windows 11 Home puede ser de hasta 150 euros, y que una licencia «retail» de Windows 11 Pro te puede costar hasta 250 euros. Con las ofertas de GvGMall España puedes conseguir una licencia OEM de Windows 11 Pro por solo 21,6 euros, es decir, un 91,36% más barata, y con validez de por vida . Pero esta no es la única oferta que podrás encontrar en esta tienda, echa un vistazo a las licencias OEM que puedes comprar, y no te olvides de utilizar el cupón GVGMM antes de completar el proceso de compra para conseguir un 30% de descuento. Windows 11 Pro OEM con validez de por vida por 21, 6 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Windows 11 Enterprise LTSC 2024 clave con validez de por vida por 13 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Windows 11 Home OEM con validez de por vida por 18 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Windows 10 Pro OEM con validez de por vida por 15 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Windows 10 Enterprise LTSC 2021 clave con validez de por vida por 1 2 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Windows 10 Home OEM con validez de por vida por 1 3 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Microsoft Office 2016 Pro Plus rebajado a 2 3 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Microsoft Office 2019 Pro Plus en oferta por 4 2 euros, utilizando el cupón GV",
+      "link": "https://www.muycomputer.com/2026/04/17/windows-11-oem-vale-la-pena-razones/",
+      "pubDate": "Fri, 17 Apr 2026 07:58:32 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/como-comprar-licencia-1.jpg"
+    },
+    {
       "id": "c2ca2cf18d4929357019",
       "title": "Estas son las 10 mejores agencias para marketplaces en España [2026]",
       "summary": "Vender en marketplace permite ampliar el alcance y las ventas de un negocio, pero requiere conocimientos específicos para gestionar y optimizar estos canales. Por eso, es importante contar con una agencia especializada que entienda bien la lógica de funcionamiento de grandes plataformas como Amazon o AliExpress , entre otras. A continuación, encontrarás un listado con las 10 mejores agencias de España que te ayudarán a escalar tu negocio a través de cualquier marketplace. La selección estuvo a cargo de un jurado de más de 100 expertos del sector y líderes del retail. El top forma parte de la segunda edición del descargable Mejores Agencias de España 2026 , que reúne a las top 10 agencias de 12 verticales distintas y que puedes descargar de forma gratuita en el siguiente enlace &#x1f447; Descarga tu guía gratis &#x1f642; Ahora sí, estas son las 10 mejores agencias para vender en marketplace de España 2026: Bluco Década Studio Webimpacto Elogia Cyberclick Epinium Adsmurai B2Marketplace Cosmo5 Artefact 1.Bluco Bajo el liderazgo de Alejandro Orviz, el Grupo Bluco opera como un socio estratégico de negocio. La agencia despliega su capacidad a través de tres divisiones especializadas que resuelven los retos estratégicos, operativos y financieros de la escala internacional. A través de bluco.es , asumen la gestión 360º en más de 50 canales como Amazon, Miravia o Leroy Merlin, profesionalizando desde la estrategia hasta la atención al cliente. El grupo valida su experiencia mediante blucobrands.com , donde gestionan marcas propias para garantizar el control total del catálogo y el precio. Esta estructura se completa con creafin.es , una asesoría fiscal y contable exclusiva para eCommerce que asegura la viabilidad internacional y la salud financiera del proyecto. Marcas como Lladró, MBT, Pikolin o Ysabel Mora confían en Bluco para transformar su presencia en marketplaces en un modelo de negocio sólido, donde la rentabilidad y la salud financiera son los únicos indicadores de",
@@ -2345,6 +2561,16 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/04/email-marketing-automatizado-1024x614.webp"
     },
     {
+      "id": "3bc78a1cdfff4e833f04",
+      "title": "Microsoft elimina el límite de FAT32… 30 años después",
+      "summary": "Microsoft ha introducido un cambio largamente esperado para superar una de las limitaciones de almacenamiento más antiguas del ecosistema de Windows: el límite de 32 GB del sistema de archivos FAT32 . El cambio ha llegado en las compilaciones 26220 y 26300 de Windows 11 para el canal Insider y tras las pruebas correspondientes pasará al canal estable. Una vez implementado, el tamaño máximo de partición admitido FAT32 será de 2 Tbytes , un valor más racional para los tiempos que corren y para la capacidad real de este sistema de archivos. FAT32 supera los límites en Windows Empezar diciendo que Windows soporta varios sistemas de archivos para el manejo de datos y son esenciales para la asignación de espacio de los ficheros, la administración del espacio libre y el acceso a los datos guardados. NTFS y exFAT son soportados nativamente por Microsoft y son los principales en Windows, pero no los únicos que se pueden utilizar. FAT32 fue introducido originalmente en 1996 junto con Windows 95 OSR2 para mejorar FAT16 y el anterior FAT creado para MS-DOS, que es menos avanzado que los nombrados, pero todavía útil en algunos escenarios. Microsoft «solo» ha tardado treinta años en desbloquear una limitación que nadie entendía. Y es que el formato siempre ha admitido la creación de volúmenes significativamente mayores que los que Windows permitía. Como resultado, los usuarios que buscaban crear volúmenes FAT32 más grandes, han tenido que depender de software de terceros como FAT32 Format o soluciones alternativas de línea de comandos para sortear la restricción. Con esta actualización, Microsoft finalmente soluciona el problema, aunque sigue sin facilitar la tarea porque solo se puede realizar desde la línea de comandos de Windows . Microsoft debería actualizar la función también en la interfaz gráfica, ya que el cuadro de diálogo de formateo estándar y las herramientas de Administración de discos siguen aplicando el límite original de 32 GB, lo que resulta en una experiencia in",
+      "link": "https://www.muycomputer.com/2026/04/17/microsoft-elimina-el-limite-de-fat32-30-anos-despues/",
+      "pubDate": "Fri, 17 Apr 2026 07:08:29 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/FAT32_2.jpg"
+    },
+    {
       "id": "0c9f3848d8b3bcc2d79b",
       "title": "La Ciencia de Pixar en Zaragoza: así es la exposición interactiva que te deja crear animación y rompe todos los récords",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La lámpara saltaba una y otra vez en la pantalla mientras ajustábamos cada movimiento con cuidado, como si estuviéramos dentro de un estudio de animación real y no en una sala de exposiciones en Zaragoza, y en ese instante se hizo evidente que lo que propone La Ciencia de Pixar no es simplemente una muestra para mirar, sino una experiencia pensada para entender , tocar y vivir cómo se construyen algunas de las historias más importantes del cine moderno. Así se vive Pixar desde dentro en Zaragoza La inauguración de la exposición en CaixaForum Zaragoza no se siente como un evento institucional al uso, sino como una puerta de entrada a un universo creativo que normalmente permanece oculto tras la pantalla, y que aquí se abre sin filtros para cualquier visitante dispuesto a ir un paso más allá del simple “me gusta esta película” . Desde el primer momento queda claro que el objetivo no es solo mostrar curiosidades o personajes icónicos, sino explicar de forma tangible cómo una idea termina convirtiéndose en una producción compleja que combina arte, tecnología y emoción de una forma casi quirúrgica , y lo hace además con una capa interactiva que marca la diferencia frente a otras exposiciones similares. No hablamos de paneles informativos o vitrinas estáticas, sino de módulos que invitan a experimentar con los mismos conceptos que utilizan los equipos de Pixar en su día a día, lo que convierte el recorrido en algo mucho más cercano a un laboratorio creativo que a un museo tradicional. Cuando te conviertes en parte del proceso creativo Hay un momento que define perfectamente la experiencia, y es cuando dejas de observar y pasas a crear, porque en uno de los espacios interactivos acabamos animando en stop motion la mítica lámpara del estudio , ese símbolo que todos reconocemos antes incluso de que empiece cualquier película de Pixar, y que aquí cobra una nueva dimensión cuando eres tú quien controla su movimiento",
@@ -2355,6 +2581,16 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Exposicion-Pixar-Zaragoza.jpg"
     },
     {
+      "id": "d18f8a2251510e02dc87",
+      "title": "NEOGEO AES+ revive la legendaria consola con hardware real y cartuchos",
+      "summary": "Pocas consolas han dejado una huella tan profunda en la historia del videojuego como NEOGEO AES , el sistema doméstico con el que SNK llevó la experiencia de los salones recreativos directamente al salón de casa. Su potencia, su catálogo y, también, su elevado precio la convirtieron en una máquina legendaria que todavía hoy sigue siendo objeto de culto entre coleccionistas y aficionados al retro. Ahora, más de tres décadas después de su debut, esa historia suma un nuevo capítulo con el anuncio de NEOGEO AES+, una nueva versión del sistema que llegará coincidiendo con el 35 aniversario de la consola original. La NEOGEO AES+ es el resultado de una colaboración entre PLAION Replai y SNK , y su planteamiento se aleja bastante de las habituales reediciones retro que han proliferado en los últimos años. No estamos ante una consola mini ni ante un sistema que recurre a emulación para reproducir los juegos clásicos. La propuesta aquí es mucho más ambiciosa: recrear el comportamiento del hardware original para ofrecer una experiencia lo más fiel posible a la máquina que debutó a comienzos de los años noventa. La clave técnica de esta consola está en el uso de chips ASIC (Application Specific Integrated Circuit), que permiten replicar en silicio moderno el funcionamiento del hardware de la NEOGEO original . En lugar de ejecutar los juegos mediante software de emulación, la AES+ reproduce directamente el comportamiento del sistema clásico a nivel de hardware. Para los aficionados al retro, este detalle no es menor, ya que garantiza una fidelidad absoluta en aspectos como el rendimiento, la sincronización o el comportamiento de los juegos, algo que no siempre se consigue con soluciones basadas en emulación. Otro de los grandes atractivos de la consola es su compatibilidad con los cartuchos originales de NEOGEO AES . Esto significa que quienes aún conserven juegos de la consola clásica podrán utilizarlos directamente en el nuevo sistema. Al mismo tiempo, PLAION también lanzará n",
+      "link": "https://www.muycomputer.com/2026/04/17/neogeo-aes-revive-la-legendaria-consola-con-hardware-real-y-cartuchos/",
+      "pubDate": "Fri, 17 Apr 2026 06:02:45 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f525.png"
+    },
+    {
       "id": "66773b266d2e0e4bde45",
       "title": "Primera imagen de Venom en Tu amigo y vecino Spider-Man",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La segunda temporada de Tu amigo y vecino Spider-Man (Your Friendly Neighborhood Spider-Man) ya empieza a enseñar sus cartas… y una de ellas tiene dientes afilados, lengua imposible y pinta de dar muchos problemas. La primera imagen oficial de Venom ya está aquí, y aunque Marvel intenta despistar con el nombre, lo que tenemos delante es puro caos simbionte listo para liarla en 2026. La serie animada de Marvel Animation prepara su regreso para otoño de 2026 en Disney+ , y todo apunta a que esta nueva etapa va a subir bastante el nivel. Porque sí, Venom entra en juego… y eso cambia completamente las reglas. La primera imagen de Venom deja pocas dudas Venom en Tu amigo y vecino Spider-Man La revelación llega a través de arte promocional de la temporada 2 de Tu amigo y vecino Spider-Man, donde el personaje aparece bajo el nombre de “Symbiote Spider-Man”. Pero no hay mucho misterio aquí: la boca monstruosa, las garras y el icónico símbolo en el pecho dejan claro que estamos ante Venom en toda su esencia. Este detalle abre una lectura interesante. Aunque el traje simbionte parece estar vinculado a Peter Parker en esta fase inicial, no sería raro que la historia vaya más allá. Y ojo con esto, porque el contexto de la serie apunta directamente a una jugada más grande. Norman Osborn podría tener un plan oculto El final de la primera temporada dejó claro que la relación entre Peter y Norman Osborn no acabó precisamente bien. El joven héroe decidió romper con Oscorp, lo que deja a Osborn sin su “Spider-Man” particular. ¿Solución? Crear uno nuevo. La posibilidad de que Norman utilice el simbionte para diseñar su propio sustituto no suena descabellada. De hecho, encajaría perfectamente con su perfil manipulador y con el rumbo que ha tomado la serie. Norman Osborn Una temporada 2 mucho más ambiciosa La llegada de Venom no es el único elemento potente que se suma a la historia. La segunda temporada viene cargada de pers",
@@ -2363,16 +2599,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Venom-Marvel-Comics.jpg"
-    },
-    {
-      "id": "39fff5a83e74e2dee18b",
-      "title": "Tráiler final de The Mandalorian and Grogu",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com El tráiler final de The Mandalorian and Grogu ya está aquí… y esta vez no deja lugar a dudas: la apuesta de Lucasfilm es mucho más grande, emocional y ambiciosa de lo que parecía. Presentado durante la CinemaCon en Las Vegas, este anticipo no solo sube el nivel de expectación, también redefine lo que podemos esperar del salto de la serie al cine. Y ojo, porque la jugada viene acompañada de una decisión clave: las entradas para The Mandalorian and Grogu se ponen a la venta de forma inminente, lo que confirma que Disney confía plenamente en el impacto de esta película. No es solo un estreno más de Star Wars , es un evento pensado para arrastrar a los fans a las salas. Un tráiler que por fin deja claras las apuestas de The Mandalorian and Grogu Hasta ahora, los avances habían jugado más con la nostalgia y el misterio, pero este tráiler final de The Mandalorian and Grogu cambia completamente el enfoque. Aquí ya no hay dudas: estamos ante una aventura clásica de Star Wars con un conflicto mucho más personal y, al mismo tiempo, más épico. Lo más llamativo es el giro emocional. Din Djarin y Grogu, la pareja que ha sostenido la serie en Disney+ , parecen destinados a separarse en esta historia. Y no es una separación cualquiera, sino el motor narrativo que empuja todo el relato. La dinámica padre-hijo se invierte, y ahora es Grogu quien tendrá que dar un paso al frente. Este cambio no es menor. Durante años hemos visto a Din Djarin proteger a Grogu en cada rincón de la galaxia, pero la película plantea justo lo contrario: el aprendiz convertido en salvador. Ese matiz le da un peso emocional que la franquicia llevaba tiempo buscando en su nueva etapa. The Mandalorian and Grogu Villanos, caras nuevas y viejos conocidos en acción El tráiler también aprovecha para mostrar más claramente a uno de los grandes antagonistas: Embo, el cazarrecompensas visto en Star Wars: The Clone Wars. Su presencia no es anecdótica, ya q",
-      "link": "https://www.cinemascomics.com/trailer-final-de-the-mandalorian-and-grogu/",
-      "pubDate": "Fri, 17 Apr 2026 04:37:56 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/The-Mandalorian-and-Grogu-cine-2.jpg"
     },
     {
       "id": "07edc298d6dedccced7f",
@@ -2395,16 +2621,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BHKSNP66PFH7ZPS37C7CPE4WEY.jpg?auth=4dc4574bb3317e374e2b5252155102d45e4a9e586db0a874439e2c692a1d89c1"
     },
     {
-      "id": "3fe09ca908bef83cccf0",
-      "title": "Puches, las deliciosas migas dulces manchegas que sirven para aprovechar el pan",
-      "summary": "Puches, las migas dulces típicas de castilla-la mancha | EL COMIDISTA",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-04-17/puches-las-deliciosas-migas-dulces-manchegas-que-sirven-para-aprovechar-el-pan.html",
-      "pubDate": "Fri, 17 Apr 2026 03:00:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/YHQIPIZUDFGXXPJWCJAITOKY7I.jpg?auth=df1f21bc5ddd293b897b1cdb0d3ccbcfa614f753b051fa2ad4da7251c654b244"
-    },
-    {
       "id": "98578ff1c424247fa2f1",
       "title": "Disney anuncia Infinity Vision, un nuevo sello de cine premium para competir con IMAX en el estreno de ‘Avengers: Doomsday’",
       "summary": "Además del nuevo tráiler de Avengers: Doomsday , Disney ha aprovechado la CinemaCon 2026 para anunciar un nuevo proyecto muy importante en cines. Y es que la compañía ha decidido poner en marcha un nuevo sello de exhibición cinematográfica. Se llamará Infinity Vision y, gracias a lo revelado en la convención, ya conocemos algunos detalles al respecto. El Infinity Vision será un sello de cines premium que reúnan ciertas características específicas aprobadas para su certificación. Es decir, para obtener el sello los cines tendrán que cumplir con rigurosos estándares técnicos para ofrecer la mejor experiencia cinematográfica posible. Según se ha especificado, las salas Infinity Vision deberán estar equipadas con las pantallas más grandes para lograr la máxima amplitud de imagen. A su vez, contarán con proyección láser de calidad superior que garantice el mayor brillo y nitidez posibles. También tendrán formatos de audio premium de sonido totalmente envolvente. Actualmente ya habría 75 salas de este nuevo formato de cine premium de Disney solo en Estados Unidos. A nivel mundial, el número asciende a las 300. Por qué Disney ha creado los cines Infinity Vision Lo cierto es que la decisión de Disney de llevar a cabo este proyecto de cine premium tiene mucho sentido. El 18 de diciembre estrenará Avengers: Doomsday , su película más esperada del año y probablemente también una de las más taquilleras de los últimos tiempos. Sin embargo, ese mismo día se estrenará Dune 3 . Y el filme de Denis Villeneuve se hizo con los derechos exclusivos de exhibición en salas IMAX. A día de hoy, los cines IMAX son los que mejor calidad cinematográfica ofrecen de todo el mercado. Por eso, los grandes títulos siempre se pelean por enviar sus estrenos a este formato. Pero Disney ha visto cómo Dune 3 adelantaba por la derecha a Avengers: Doomsday . Por eso, para contrarrestar, han creado la certificación Infinity Vision para, en el resto de salas, tratar de ofrecer a los espectadores una experie",
@@ -2414,16 +2630,6 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Infinity-Vision.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "herramientas"
-    },
-    {
-      "id": "bcd742eb43070e15dd92",
-      "title": "‘Avengers: Doomsday’ muestra por fin a Robert Downey Jr. como Doctor Doom en su épico nuevo tráiler",
-      "summary": "Disney no ha querido dejar para la oportunidad de la CinemaCon 2026 y, tal y como se esperaba, ha lanzado un nuevo tráiler de Avengers: Doomsday . La nueva película de los Vengadores de Marvel es sin lugar a dudas el estreno más esperado de La Casa del Ratón para este 2026. Por ello, con los hermanos Russo , Robert Downey Jr. , Chris Evans y hasta el mismísimo Kevin Feige , han querido aprovechar la convención celebrada en Las Vegas para desvelar el nuevo adelanto. En el pasado, Avengers: Doomsday ya había dejado ver sus cuatro primeros tráileres . Fue durante el mes de diciembre cuando Marvel lanzó cuatro avances, uno por semana, centrados en algunos de los regresos más esperados: el Capitán América , Thor , los X-Men , los 4 Fantásticos o Black Panther y los guerreros de Wakanda . Eso sí, en todos ellos ni rastro del Doctor Doom de Robert Downey Jr. Ahora, esto al fin ha cambiado. Y es que el nuevo tráiler de Avengers: Doomsday por fin ha dejado ver al antiguo actor de Iron Man como el infame villano. Eso sí, para poder descubrirlo aún tendremos que esperar, pues por ahora Disney y Marvel solo han proyectado el adelanto en exclusiva para los asistentes a la CinemaCon 2026. Probablemente en las próximas horas, días o semanas lo liberen de manera online en todo el mundo. Por fortuna, los medios asistentes ya se han hecho eco de lo que sucede, dando descripciones detalladas de lo que han podido ver. Así es el tráiler de Avengers: Doomsday El tráiler de Avengers: Doomsday arranca con el Profesor X observando lo que parece ser una incursión multiversal desde la Mansión X. \"Se avecina algo, algo que quizá no podamos impedir. Antes de que termine el día, nos veremos obligados a tomar una decisión impensable\", reflexiona. Justo después, Robert Downey Jr. aparece al fin como el Doctor Doom , aunque sin su máscara y hablando con su acento de Latveria. Tras el logo de Marvel Studios, los 4 Fantásticos llegan a la Tierra 616 y se reúnen con Sam Wilson y los nuevos Vengadores.",
-      "link": "https://hipertextual.com/cine-television/avengers-doomsday-muestra-robert-downey-jr-doctor-doom-epico-nuevo-trailer/",
-      "pubDate": "Fri, 17 Apr 2026 00:09:20 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/Robert-Downey-Jr-Avengers-Doomsday-mascara-Doctor-Doom.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "id": "44316b9374858f65b87a",
@@ -2516,10 +2722,10 @@
         "cls": "rb-blue"
       },
       {
-        "name": "Gemini",
+        "name": "ChatGPT",
         "type": "Modelo",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Trending",
+        "cls": "rb-green"
       },
       {
         "name": "Claude",
@@ -2528,7 +2734,7 @@
         "cls": "rb-accent"
       },
       {
-        "name": "ChatGPT",
+        "name": "Gemini",
         "type": "Modelo",
         "badge": "En foco",
         "cls": "rb-accent"
@@ -2542,5 +2748,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-04-18T07:02:28.389902+00:00"
+  "updated": "2026-04-18T08:41:22.414745+00:00"
 }
