@@ -311,16 +311,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/TS4OEKPL4RDEJAO7WERO2NUYQE.jpg?auth=37734e106b25fa68bed9809e64dcef3e496d7e48d40b441034ebb5565e9ee237"
     },
     {
-      "id": "5345cb5027ecf377a1ca",
-      "title": "Este mod convierte tu PS5 en un PC con Linux que corre juegos de Steam",
-      "summary": "La relación entre PlayStation y Linux es algo que existe desde hace más de dos décadas. Si eres lo suficientemente viejo como para haber jugado en la PS2 recordarás un kit oficial que transformaba tu consola en un ordenador para desarrollar software. Esa funcionalidad ha vuelto a la generación actual gracias a un mod que convierte tu PS5 en un PC con Linux completamente funcional. El proyecto ps5-linux es un loader que habilita la opción de instalar Linux en la consola de Sony. El mod aprovecha una vulnerabilidad en el hipervisor de la consola para arrancar el sistema operativo libre directamente sobre el hardware. Esto no solo trae de vuelta las opciones para desarrollador, sino que también te permite ejecutar tus juegos de Steam . En términos de rendimiento, el hardware de la PS5 tiene bastante que ofrecer bajo Linux. Los 8 núcleos de la CPU a 3,5 GHz y la GPU a 2,23 GHz son suficientes para mover juegos de Steam y emuladores con fluidez. La salida de vídeo llega hasta 4K a 60 Hz por HDMI, y el sistema soporta resoluciones de 1080p, 1440p y 2160p. La instalación base requiere un USB de al menos 64 GB , un adaptador Ethernet o Wi-Fi por USB y un teclado conectado; el Wi-Fi y el Bluetooth integrados de la consola todavía no tienen controladores funcionales. Para quienes quieran sacarle más rendimiento, existe la opción de instalar Linux en una unidad M.2 instalada en la propia consola , con soporte disponible desde el firmware 4.xx. Esto mejora bastante los tiempos de carga respecto a una memoria flash USB convencional. También hay una utilidad incluida en el repositorio que permite activar el boost de CPU y GPU hasta sus frecuencias máximas junto con el control del ventilador. Cómo ejecutar Linux en tu consola PS5 El proceso de instalar Linux en tu PS5 no es sencillo . Lo primero que tienes que saber es que la compatibilidad se limita a los modelos PS5 Phat con firmware 3.xx o 4.xx . Si tienes una consola actualizada más allá de la versión 4.51, el mod todavía no e",
-      "link": "https://hipertextual.com/videojuegos/ps5-linux-mod-instalar-steam-emuladores/",
-      "pubDate": "Thu, 30 Apr 2026 23:54:17 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/ps-linux-wallpaper-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "df2d94db58107d99350f",
       "title": "Argentina cae once puestos en el ranking de libertad de prensa de Reporteros sin Fronteras",
       "summary": "El informe advierte sobre un aumento de la hostilidad oficial, en un escenario global donde más de la mitad de los países presenta condiciones adversas para el ejercicio del periodismo. La Argentina retrocedi 11 posiciones en el ranking mundial de libertad de prensa y qued en el puesto 98, en un contexto de creciente tensi n entre el Gobierno y los medios , seg n el informe anual de Reporteros Sin Fronteras (RSF) . La ca da se explica por el aumento de la hostilidad oficial hacia el periodismo y episodios de violencia contra trabajadores de prensa durante coberturas de protestas. El descenso se da adem s en una semana marcada por un nuevo cap tulo en ese conflicto, luego de que el Ejecutivo dispusiera restricciones al acceso de periodistas a la Casa Rosada . Para RSF, este tipo de medidas se inscribe en un clima m s amplio de deterioro de las condiciones para el ejercicio de la profesi n. El informe advierte que la situaci n local no es aislada . A nivel global, la libertad de prensa atraviesa su peor momento desde que el organismo comenz a elaborar este ranking, hace 25 a os. La puntuaci n promedio de los 180 pa ses evaluados alcanz su nivel m s bajo hist rico y m s de la mitad (52,2 %) se encuentran en condiciones dif ciles o muy graves . Periodistas manifestándose en defensa de su profesión delante de la Casa Rosada En ese marco, RSF se ala que el retroceso responde a m ltiples factores, entre ellos la proliferaci n de marcos legales restrictivos -muchas veces justificados en la seguridad nacional-, la criminalizaci n del periodismo y los ataques directos desde el poder pol tico. Como ejemplo, menciona las descalificaciones recurrentes del presidente de Estados Unidos, Donald Trump, hacia la prensa . Seg n el organismo, ese estilo tambi n encuentra eco en otros l deres, como el presidente argentino Javier Milei y el mandatario salvadore o Nayib Bukele, cuyos pa ses registraron ca das en la clasificaci n. En ambos casos, RSF advierte sobre una tendencia a confront",
@@ -586,6 +576,378 @@
       "image": "https://resizer.glanacion.com/resizer/v2/JGW7FZCADZBGHLLZVSY7HP7CMM.jpg?auth=b599f13425f3eb874771ab7f443b08bf90713b281748d7cd5fb51dd31637332b&smart=true&width=2048&height=1705"
     },
     {
+      "id": "5278f1d5268b2b5d6dfa",
+      "title": "Miami y la F1 avisan del 'caos' que podría llegar en el Mundial por el protocolo de Estados Unidos",
+      "summary": "F1 y Mundial.",
+      "link": "https://www.marca.com/futbol/mundial/2026/05/03/miami-f1-avisan-caos-podria-llegar-mundial-protocolo-estados-unidos.html",
+      "pubDate": "Sun, 03 May 2026 11:08:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f7104d67386.jpeg"
+    },
+    {
+      "id": "bfc2926822d7dc54b2d4",
+      "title": "McLaren pone la locura al Mundial",
+      "summary": "Norris tira por delante de Piastri.",
+      "link": "https://www.marca.com/motor/formula1/gp-miami/2026/05/03/mclaren-pone-locura-mundial.html",
+      "pubDate": "Sun, 03 May 2026 11:00:27 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f6573d393da.jpeg"
+    },
+    {
+      "id": "12481f708d1f4c29584f",
+      "title": "Uno de los lugares más visitados en verano se prepara para abrir: a menos de una hora de Madrid",
+      "summary": "Una imagen de la Playa del Alberche, a menos de una hora en coche de Madrid",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/05/03/lugares-visitados-verano-prepara-abrir-asi-playa-hora-madrid.html",
+      "pubDate": "Sun, 03 May 2026 10:59:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f70e174a602.jpeg"
+    },
+    {
+      "id": "bc14b52d2cff1c3f4fc7",
+      "title": "Aitana Bonmatí, a por la Champions: alta y directa a la convocatoria contra el Bayern",
+      "summary": "Aitana Bonmatí",
+      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/05/03/aitana-bonmati-champions-alta-directa-convocatoria-bayern.html",
+      "pubDate": "Sun, 03 May 2026 10:59:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/12/68c46d0f21d45.jpeg"
+    },
+    {
+      "id": "531bbf6c8f434424282b",
+      "title": "Dani Carvajal y la maldición de ser primer capitán del Real Madrid",
+      "summary": "Dani Carvajal, en un partido de este curso.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/05/03/dani-carvajal-maldicion-primer-capitan-real-madrid.html",
+      "pubDate": "Sun, 03 May 2026 10:58:24 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f7085a61f6f.jpeg"
+    },
+    {
+      "id": "6ceff836eb24c9f00012",
+      "title": "El Real Madrid júnior tumba a una generación única del Barça y se corona siete años después",
+      "summary": "Los júniors del Real Madrid celebran el título en el Campeonato de España.",
+      "link": "https://www.marca.com/baloncesto/acb/2026/05/03/real-madrid-junior-tumba-generacion-unica-barca-corona-siete-anos-despues.html",
+      "pubDate": "Sun, 03 May 2026 10:50:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f7085ef10ae.jpeg"
+    },
+    {
+      "id": "d78f09ab226286168a1f",
+      "title": "Escándalo en Portugal con el Benfica de Mourinho",
+      "summary": "Escándalo en Portugal.",
+      "link": "https://www.marca.com/futbol/2026/05/03/escandalo-portugal-benfica-mourinho-senala-arbitro-mvp-polemico-partido.html",
+      "pubDate": "Sun, 03 May 2026 10:48:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f70bc100c71.jpeg"
+    },
+    {
+      "id": "4b6738d56a366117235b",
+      "title": "Messi sufre una de sus peores remontadas en el Clásico de Florida",
+      "summary": "Messi, en una acción del partido.",
+      "link": "https://www.marca.com/futbol/estados-unidos/2026/05/03/inter-miami-messi-tira-3-0-orlando-firma-increible-remontada.html",
+      "pubDate": "Sun, 03 May 2026 10:28:45 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f70618def8f.jpeg"
+    },
+    {
+      "id": "eebe1189fce29acc5d99",
+      "title": "El 'Monstruo Mexicano' es el boxeador más temido",
+      "summary": "'Zurdo' Ramírez recibe un impacto de David Benavidez.",
+      "link": "https://www.marca.com/boxeo/2026/05/03/david-benavidez-arrasa-zurdo-ramirez-confirma-boxeador-temido.html",
+      "pubDate": "Sun, 03 May 2026 10:15:44 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f704285b316.jpeg"
+    },
+    {
+      "id": "ed3212b7fe6abc80de0f",
+      "title": "Macarena Gómez defiende su libertad de no opinar sobre política: \"Las críticas me dan igual\"",
+      "summary": "La actriz Macarena Gómez en una alfombra roja recientemente",
+      "link": "https://www.marca.com/tiramillas/cine/2026/05/03/macarena-gomez-defiende-libertad-opinar-sobre-politica-mi-criticas-me-entran-oido-me-salen.html",
+      "pubDate": "Sun, 03 May 2026 10:14:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f703ae6e56a.jpeg"
+    },
+    {
+      "id": "fc4d10016520728b9e03",
+      "title": "Conquistó Corea, triunfó en Europa y ahora va a por China: Hyundai aspira a todo con el IONIQ V",
+      "summary": "Así luce el Hyundai IONIQ V, un coche específico para el mercado chino.",
+      "link": "https://www.marca.com/coches-y-motos/coches/electricos/2026/05/03/conquisto-corea-triunfo-europa-china-hyundai-aspira-ioniq-v.html",
+      "pubDate": "Sun, 03 May 2026 10:06:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6fbd0cb493.jpeg"
+    },
+    {
+      "id": "bf7affa6f6a4f719db56",
+      "title": "Expolio a la cantera del Barça",
+      "summary": "Joaquim Boumtje-Boumtje y Sayon Keita.",
+      "link": "https://www.marca.com/baloncesto/acb/2026/05/03/expolio-cantera-barca-dos-perlas-emigran-ncaa.html",
+      "pubDate": "Sun, 03 May 2026 09:44:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/01/69f4f1163d243.jpeg"
+    },
+    {
+      "id": "e63053232d7b4dc798c6",
+      "title": "Feo final del año rookie de Hugo González",
+      "summary": "Hugo González, durante un encuentro ante los Knicks.",
+      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/05/03/acaba-ano-rookie-hugo-gonzalez-defensa-le-hizo-hueco-nba.html",
+      "pubDate": "Sun, 03 May 2026 09:15:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6f2d20f2b5.jpeg"
+    },
+    {
+      "id": "7ca1e235a97c1f237a83",
+      "title": "'Superpetrolero' iraní rompe el bloqueo naval de EE.UU.",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/602807-superpetrolero-irani-rompe-bloqueo-naval-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 09:14:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "891102116e01b72a2840",
+      "title": "La emotiva despedida de Risto Mejide de ‘Got Talent’: \"Fracasar es la manera que tiene...”",
+      "summary": "Risto Mejide",
+      "link": "https://www.marca.com/tiramillas/television/2026/05/03/emotiva-despedida-risto-mejide-got-talent-fracasar-manera-vida-preguntarte-cuanto-deseas-deseas.html",
+      "pubDate": "Sun, 03 May 2026 09:13:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6ef150be80.jpeg"
+    },
+    {
+      "id": "a9b316b7e185d7fa18be",
+      "title": "En la sala de máquinas de EL PAÍS: así se decide la primera página",
+      "summary": "Reunión de primera de EL PAÍS, celebrada este sábado en el Festival por el 50 aniversario del diario.",
+      "link": "https://elpais.com/aniversario/2026-05-02/en-la-sala-de-maquinas-de-el-pais-asi-se-decide-la-primera-pagina.html",
+      "pubDate": "Sun, 03 May 2026 09:09:08 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/EMKMVYLIP5CUTANFNCEK6Y2YDM.jpg?auth=f00d9ef3eec986d8cde86e8b0b5cd5b06ca8d1cb5bd87bc0a16e0a1a74214b3b"
+    },
+    {
+      "id": "5971257b53d779395842",
+      "title": "El Laporta de siempre: así celebró en Pamplona el gol de Ferran",
+      "summary": "Joan Laporta, en El Sadar.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/05/03/laporta-siempre-asi-celebro-pamplona-gol-ferran.html",
+      "pubDate": "Sun, 03 May 2026 09:05:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6f38b757eb.jpeg"
+    },
+    {
+      "id": "ee995a4d432f6794c057",
+      "title": "Man on Fire en Netflix cambia por completo la historia original y convierte a John Creasy en su versión más oscura",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com He terminado la serie con la sensación de haber visto algo que no es exactamente lo que esperaba… pero que tampoco podía dejar de ver. La nueva adaptación de Man on Fire juega a una cosa muy concreta: coger una historia que todos asociamos automáticamente a Man on Fire con Denzel Washington y convertirla en algo más introspectivo, más denso, más incómodo… y eso tiene consecuencias. Porque sí, funciona, pero no siempre como debería. Un Creasy diferente que te obliga a entrar en su cabeza Lo primero que te golpea es el tono. Aquí no hay ese thriller de venganza estilizado que recordábamos , sino algo mucho más pesado emocionalmente. El John Creasy de Yahya Abdul-Mateen II no es un héroe cool ni un ejecutor eficiente al que admirar desde la distancia, sino un tipo roto desde el minuto uno, marcado por un pasado que no le deja respirar y que convierte cada decisión en una especie de carga. Eso cambia completamente la experiencia. Hay momentos en los que la serie casi se olvida de que es un thriller y se convierte en un estudio de personaje, en una exploración bastante cruda del trauma, de la culpa y de esa necesidad casi desesperada de encontrar redención aunque ya sea tarde. Es ahí donde la serie engancha de verdad, porque cuando se centra en ese conflicto interno, cuando deja que los silencios pesen más que los disparos, se vuelve mucho más interesante que la media de productos de acción de Netflix. El problema es que no siempre se queda ahí. Cuando la acción choca con el tono MAN ON FIRE. (L to R) Alice Braga as Valeria Melo and Yahya Abdul-Mateen II as John Creasy in Episode 102 of Man on Fire. Cr. Courtesy of Netflix © 2025 Hay algo que chirría durante toda la serie y es esa sensación de que intenta ser dos cosas a la vez sin terminar de casar del todo. Por un lado tienes ese enfoque serio, casi deprimente, de un protagonista que arrastra su propia destrucción, y por otro lado tienes escenas de acción qu",
+      "link": "https://www.cinemascomics.com/review-man-on-fire-en-netflix/",
+      "pubDate": "Sun, 03 May 2026 09:00:35 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/MANONFIRE-critica.jpg"
+    },
+    {
+      "id": "d800d20e470d2d7e35da",
+      "title": "¿Qué está pasando con GitHub? Las claves para entender la crisis de la plataforma para desarrolladores",
+      "summary": "GitHub se ha convertido en uno de los casos más preocupantes del sector tecnológico actual. La plataforma se mantiene como la más usada por la comunidad de desarrolladores, pero desde hace algún tiempo es noticia recurrente por lo motivos menos deseados: caídas recurrentes, falta de confiabilidad, incidentes de ciberseguridad y un creciente empuje por la IA que enfada a los desarrolladores. La situación es tal que varios proyectos de software nacidos y evolucionados de la mano de GitHub están comenzando a migrar sus repositorios de código a otras plataformas, hastiados de los problemas que aquejan a la infraestructura que pertenece a Microsoft. Una de las últimas noticias respecto de GitHub fue el hallazgo de una vulnerabilidad crítica que permitía la ejecución de código remoto. El fallo fue encontrado por Wiz usando un modelo de inteligencia artificial no especificado, lo que obligó al desarrollo y despliegue urgente de un parche para solucionarlo. Según reportó The Verge , la resolución de la brecha de seguridad se concretó en un lapso de 6 horas, reflejando la rapidez del equipo de trabajo de GitHub. Sin embargo, los investigadores que la descubrieron alertaron que se trató de una vulnerabilidad \"sorprendentemente fácil de explotar\". Un caso que, si bien puede ser (o parecer) aislado o extraordinario, no da tranquilidad cuando la plataforma cobija a millones de proyectos. Las caídas frecuentes de GitHub, un auténtico dolor de cabeza Una queja que se ha vuelto frecuente entre los programadores es por las caídas de GitHub . Las salidas de servicio totales o parciales se hicieron más evidentes en los últimos meses, profundizando el malestar entre desarrolladores y usuarios. Parte de las caídas se han atribuido al plan de Microsoft para migrar GitHub a Azure , su infraestructura en la nube. Sin embargo, los fallos técnicos se vienen arrastrando desde bastante antes que se comenzara a implementar dicho cambio. Días atrás, se viralizó un gráfico que muestra cómo se deg",
+      "link": "https://hipertextual.com/tecnologia/github-claves-crisis-plataforma-desarrolladores/",
+      "pubDate": "Sun, 03 May 2026 09:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/GitHub-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "desarrollo"
+    },
+    {
+      "id": "5e1f7dd125d8f2ebdb9b",
+      "title": "Licencias de conducir que Florida no acepta: la lista oficial que afecta a inmigrantes y visitantes en 2026",
+      "summary": "Florida no reconoce ciertas licencias de conducir de otros estados emitidas a inmigrantes sin prueba de presencia legal en Estados Unidos. El Departamento de Seguridad Vial y Vehículos Motorizados (FLHSMV, por sus siglas en inglés) fundamenta esta medida en el artículo 322.03 de los Estatutos de Florida. Las licencias de conducir de otros estados que no son aceptadas en Florida La normativa afecta a documentos de identidad de diversas jurisdicciones que no cumplen con los requisitos de la Ley REAL ID . Según el sitio web de la agencia local, el Estado del Sol considera inválidas las clases de licencias que presentan las siguientes leyendas o características: Connecticut: credenciales con la marca “DO” que indica “Solo para conducir” ( Drive Only ) y no funcionan como identificación federal. Delaware: documentos con el texto “Solo válido como permiso de conducir; no sirve como identificación”. California e Illinois: licencias emitidas a partir de 2018 y 2019 respectivamente que contienen la frase “Se aplican límites federales”. Colorado y Minnesota: tarjetas que indican “No válido para identificación federal” o carecen de la estrella REAL ID. Nueva York y Nueva Jersey: versiones que señalan “No apto para fines federales” o “No válido para fines de REAL ID”. Nevada: documentos etiquetados como “Tarjeta de autorización de conductor: no válida como identificación”. Rhode Island y Vermont: tarjetas de privilegio de conductor o permisos que especifican su invalidez para propósitos federales. Distrito de Columbia y Hawái: licencias de propósito limitado emitidas para conductores sin estatus legal comprobado. Qué es el estatuto 322.03 que establece la invalidez de varias licencias de conducir en Florida El estatuto 322.03 establece que cualquier permiso emitido exclusivamente a inmigrantes indocumentados carece de validez en Florida. El Flhsmv advirtió que los agentes utilizan bases de datos de la Conferencia Nacional de Legislaturas Estatales para verificar los procesos de",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/licencias-de-conducir-que-florida-no-acepta-la-lista-oficial-que-afecta-a-inmigrantes-y-visitantes-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/SEKAMUBOPZE65GVWIZCA2ZCTNQ.png?auth=20ad784478a6d0b9fa4db65eca06f2293ee788a79880cbbf9aaf688dd3344203&smart=true&width=880&height=586"
+    },
+    {
+      "id": "5993ebca80c16fb66386",
+      "title": "Contenedores colapsados: el desborde de basura ya es parte del paisaje en los cinco barrios porteños con más reclamos",
+      "summary": "“Hay días que hago tres cuadras para tirar la basura y cuando llego no entra más; no me queda otra que dejarla afuera ”, dice Simón Gentili mientras apoya una bolsa sobre otra, al costado de un contenedor desbordado en una calle interna del barrio porteño de San Nicolás. El olor es penetrante , una mezcla de residuos acumulados y orina que se impregna en la vereda. A pocos metros, otra escena repite el patrón: bolsas abiertas, líquidos oscuros que escurren hacia la calle y restos que quedaron fuera del alcance de la recolección. La postal, que se multiplica en distintas cuadras, convive con otra muy distinta sobre las avenidas principales, donde los contenedores aparecen vacíos o en mejores condiciones, aunque el olor persiste. Hace un año, LA NACION había recorrido Recoleta para documentar cómo la basura empezaba a formar parte del paisaje urbano. Doce meses después, y con datos que muestran un crecimiento sostenido de los reclamos , este medio volvió a salir a la calle. A partir de los datos del Sistema Único de Atención Ciudadana (Suaci), la plataforma oficial del gobierno porteño para gestionar reclamos, denuncias, quejas, sugerencias y solicitudes de los vecinos, los barrios con más reclamos por higiene entre enero de 2025 y enero de 2026 por cada 1.000 habitantes fueron, según los datos procesados por LN Data, San Nicolás (460), Nueva Pompeya (425), Colegiales (391), Agronomía (331) y Parque Chas (305). Con ese mapa, la recorrida buscó contrastar los números con lo que ocurre en la calle. Los datos muestran que la higiene urbana es hoy la principal preocupación de los vecinos dentro del sistema de atención ciudadana . Entre enero de 2025 y enero de 2026 se registraron 558.748 contactos por este tema , frente a 331.535 en el mismo período anterior, lo que implica un aumento del 69% . En ese mismo lapso, de los 1.500.000 contactos ingresados al sistema, el 35% correspondió a higiene , muy por encima de la segunda categoría, desarrollo urbano, que sumó 273.002 (1",
+      "link": "https://www.lanacion.com.ar/sociedad/contenedores-colapsados-el-desborde-de-basura-ya-es-parte-del-paisaje-en-los-cinco-barrios-portenos-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/K5XYIFJT5BFUPMC5B6EGGRHILQ.jpg?auth=f9d7e864ed1f9292e6dc1c179540c5ae9a517c093e3290bffef58be55a902bd5&smart=true&width=3000&height=2000"
+    },
+    {
+      "id": "cb84a44c5ab480b2cbb4",
+      "title": "Ceballos y el 'Todo es mentira' tras la rueda de prensa de Arbeloa",
+      "summary": "Las dos imágenes que subió Ceballos a redes.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/05/03/ceballos-mentira-historia-instagram-mensaje-traves-redes.html",
+      "pubDate": "Sun, 03 May 2026 08:54:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6f0b08fdbe.jpeg"
+    },
+    {
+      "id": "6e16fa7545539e6b2108",
+      "title": "VIDEO: Intenta asaltar un supermercado y termina con un machetazo en el brazo",
+      "summary": "Un intento de asalto en un supermercado del municipio de Anajás, en el estado brasileño de Pará, dejó a uno de los sospechosos herido en el brazo por un machetazo. El hecho ocurrió el jueves, cuando dos hombres irrumpieron en el local y tomaron rehenes. En medio del caos, un empleado enfrentó a los delincuentes con un machete, lesionando a uno de ellos, que intentaba escapar. El otro sujeto fue reducido por el personal. La Policía está investigando el incidente.",
+      "link": "https://actualidad.rt.com/viral/602793-intenta-asaltar-supermercado-termina-machetazo-brazo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 08:52:20 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f7055b59bf5b474240732a.jpg"
+    },
+    {
+      "id": "c45ccb35ecff90e667de",
+      "title": "Qué es lo que realmente influye en lo que vemos en nuestros sueños",
+      "summary": "Una investigación basada en más de 3.700 informes de experiencias oníricas y vivencias diarias de casi 300 personas reveló las causas que provocan que los sueños sean tan reales o extraños.",
+      "link": "https://actualidad.rt.com/actualidad/602786-misterio-detras-suenos-sentirse-reales-extranos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 08:47:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6fe8859bf5b4830034c73.jpg"
+    },
+    {
+      "id": "c46b96cc3fa6f9728da9",
+      "title": "Gretchen Walsh bate el récord de 100 mariposa por tercera vez en 12 meses",
+      "summary": "Gretchen Walsh (23) en una imagen de archivo",
+      "link": "https://www.marca.com/natacion/2026/05/03/gretchen-walsh-bate-record-100-mariposa-tercera-vez-12-meses.html",
+      "pubDate": "Sun, 03 May 2026 08:47:02 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6ef521cccb.jpeg"
+    },
+    {
+      "id": "d2df19113baac6af0b87",
+      "title": "Rajadón dentro del pelotón tras la última victoria de Pogacar",
+      "summary": "Paret Peintre y Pogacar.",
+      "link": "https://www.marca.com/ciclismo/2026/05/03/paret-peintre-senala-motos-organizacion-quiere-pogacar-gane-eleccion-hemos-dicho-veces.html",
+      "pubDate": "Sun, 03 May 2026 08:46:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6ef2b6feb0.jpeg"
+    },
+    {
+      "id": "efd826c6c8f1756cf570",
+      "title": "Pogacar reconoce su 'debilidad': “Se me fue un poco la mano\"",
+      "summary": "El esloveno consigue su tercera victoria para dar un golpe sobre la mesa en la general",
+      "link": "https://www.marca.com/ciclismo/2026/05/03/tadej-pogacar-reconoce-debilidad-me-poco-mano.html",
+      "pubDate": "Sun, 03 May 2026 08:41:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/aq_DO1fzWTfWwn3OG.jpeg"
+    },
+    {
+      "id": "4c49534b740b960647d2",
+      "title": "Mamdani le dice “no” a la Met Gala: por qué el alcalde de Nueva York rechazó asistir al reconocido evento de moda",
+      "summary": "El alcalde de Nueva York, Zohran Mamdani, y su esposa, Rama Duwaji, confirmaron que no asistirán a la Met Gala 2026 , programada para el lunes 4 de mayo. Su decisión contrasta con la habitual presencia de los líderes de la ciudad en este evento, que es una de las principales instancias de recaudación de fondos para el Metropolitan Museum of Art . Por qué Zohran Mamdani no irá a la Met Gala 2026 Mamdani explicó su postura en declaraciones recogidas por El País : “Prefiero estar centrado en que la ciudad más cara de Estados Unidos sea más asequible para sus ciudadanos” . El medio citado indica que su ausencia puede interpretarse en el contexto de su agenda política, que está centrada en la asequibilidad y propuestas de impuestos para los sectores más acaudalados. Según el medio , la ausencia marca un distanciamiento frente a un evento que reúne a influyentes de la moda, negocios y entretenimiento. Además, destacan que la decisión es inusual, ya que los alcaldes de Nueva York suelen asistir a la gala. Al respecto, una fuente cercana al alcalde declaró a Page Six : “No va a venir, y sería una tontería si lo hiciera… ¿Te lo imaginas? Va en contra de todo en lo que cree\" . Zohran Mamdani no es el único en faltar a la Met Gala 2026 Según The New York Times , han aparecido carteles en espacios públicos con la leyenda “Boycott the Met”, en medio de cuestionamientos por la participación de empresarios como el fundador de Amazon, Jeff Bezos , y bajo una narrativa de rechazo a la ostentación de las élites . Además de Mamdani, algunas figuras del entretenimiento también habrían optado por no asistir o mantienen en reserva su participación. Just Jared dio a conocer que actrices como Priyanka Chopra Jonas y Rachel Zegler no estarían presentes por compromisos laborales. Código de vestimenta para la Met Gala 2026 La Met Gala tiene lugar cada año el primer lunes de mayo y en cada edición la temática del evento es diferente. En esta ocasión se llama “Costume Art” , que explora el vínc",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-le-dice-no-a-la-met-gala-por-que-el-alcalde-de-nueva-york-rechazo-asistir-al-reconocido-nid02052026/",
+      "pubDate": "Sun, 03 May 2026 08:38:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/YZSGPOJD6JGIBD3HT5M6BB5RII.jpg?auth=bbe39cc90b1dde75479bbdc21d65d8cf30c0b29ce64ad8f107c62d345388f10e&smart=true&width=2000&height=1333",
+      "subcat": "mercado"
+    },
+    {
+      "id": "4d9bfa7d40dc4bafa5bc",
+      "title": "El Pontevedra estalla tras 11 goles anulados: \"Nos van a tener que pegar 4 tiros\"",
+      "summary": "Domínguez y sus jugadores.",
+      "link": "https://www.marca.com/futbol/primera-rfef/2026/05/03/rajada-dominguez-quieren-quitar-puestos-playoff-pegar-4-tiros.html",
+      "pubDate": "Sun, 03 May 2026 08:34:14 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6ec4808330.jpeg"
+    },
+    {
+      "id": "1f74aa63780f4e401617",
+      "title": "Israel aprueba la compra de dos nuevos escuadrones de aviones de combate",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/602800-israel-aprobar-compra-nuevos-escuadrones-aviones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 08:34:13 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "6f57913517d1da1c4d40",
+      "title": "El ascenso de Karius, el portero 'maldito' por la Decimotercera del Real Madrid",
+      "summary": "Karius, en dos imágenes de archivo.",
+      "link": "https://www.marca.com/futbol/2026/05/03/milagro-karius-portero-maldito-champions-pregunta-alguien-volveria-confiar-mi.html",
+      "pubDate": "Sun, 03 May 2026 08:29:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6eb34bb61f.jpeg"
+    },
+    {
+      "id": "437c9b58f5081101bbd5",
+      "title": "Hombre con actitud psicópata armado con un cuchillo aterroriza un vecindario en EE.UU. (VIDEO DE CÁMARA DE TIMBRE)",
+      "summary": "El sospechoso se plantaba en las puertas de entrada de las viviendas. Aunque fue capturado, lo pusieron en libertad dos horas después.",
+      "link": "https://actualidad.rt.com/actualidad/602794-hombre-aspecto-psicopata-aterroriza-vecindario?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 08:26:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6ffbde9ff713b2d742027.png"
+    },
+    {
+      "id": "b4b0746593d633965bc2",
+      "title": "Marco Rubio se estrena como DJ y genera una lluvia de memes (VIDEO)",
+      "summary": "El secretario de Estado de EE.UU. fue grabado eligiendo música y bailando en la boda de un familiar.",
+      "link": "https://actualidad.rt.com/viral/602797-marco-rubio-convierte-dj-memes?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 08:23:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f7059159bf5b4830034c7d.png"
+    },
+    {
+      "id": "b531c5de1cc83f68a239",
+      "title": "La venganza de Marcet",
+      "summary": "El remate de chilena de Marcet que fue el tercer gol perico en el 7-1 al Madrid.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/05/03/venganza-marcet.html",
+      "pubDate": "Sun, 03 May 2026 08:23:56 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f5c2ef4eea9.jpeg"
+    },
+    {
+      "id": "676c824f7cb63a19f253",
+      "title": "Uruguay 1930: el caótico primer entrenamiento de la Selección que dejó la desorganización al desnudo",
+      "summary": "A poco más de un mes del Mundial, solo 24 jugadores se presentaron y la práctica duró 25 minutos. Confusiones, ausencias y una cancha inundada marcaron el inicio de la preparación.",
+      "link": "https://www.clarin.com/deportes/uruguay-1930-caotico-primer-entrenamiento-seleccion-dejo-desorganizacion-desnudo_0_2MCjZLRibv.html",
+      "pubDate": "Sun, 03 May 2026 08:20:44 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/10/ATSwi5LC7_1200x630__1.jpg"
+    },
+    {
+      "id": "5e24ea6ade3b68694274",
+      "title": "El último milagro de Podolski a los 40 años que rompe una racha ‘irrompible’",
+      "summary": "Podolski, con la copa.",
+      "link": "https://www.marca.com/futbol/2026/05/03/ultimo-milagro-podolski-40-anos-rompe-racha-irrompible.html",
+      "pubDate": "Sun, 03 May 2026 08:19:47 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6e8dd9fc7b.jpeg"
+    },
+    {
+      "id": "fd7be68e48f34a5eed05",
+      "title": "País europeo advierte del \"punto sin retorno\" en la relaciones entre EE.UU. y la UE",
+      "summary": "\"El hecho de que Trump anuncie la retirada de 5.000 soldados de Alemania es una señal demasiado importante. Es muy grave\", indicó el presidente serbio.",
+      "link": "https://actualidad.rt.com/actualidad/602783-vucic-relaciones-eeuu-europa-llegado-punto-sin-retorno?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 08:13:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6dc6059bf5b72da5f1471.jpg"
+    },
+    {
       "id": "d07575a40d3ab942f68c",
       "title": "El Atlético, a la guerra sin un rasguño",
       "summary": "LOS JUGADORES DEL ATLÉTICO CELEBRAN UNO DE LOS GOLES.",
@@ -606,8 +968,79 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/01/69f4ba683431c.jpeg"
     },
     {
+      "id": "7a82a2368206adec5c3b",
+      "title": "Grogu da un salto de poder en The Mandalorian and Grogu",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Jon Favreau lo ha confirmado en exclusiva: Grogu ha evolucionado, ha absorbido el entrenamiento con Luke Skywalker y ahora llega a The Mandalorian and Grogu como una mezcla explosiva de Jedi y aprendiz mandaloriano. Y eso lo cambia todo, tanto para la película como para el futuro de Star Wars en pantalla grande. De bebé protegido a guerrero de campo en The Mandalorian and Grogu Durante las dos primeras temporadas de The Mandalorian, la dinámica era clara: Din Djarin protegía a Grogu. Él era el objetivo, el activo, la criatura que todo el mundo quería. Pero Favreau ha dejado claro en declaraciones a ComicBook que esa ecuación ha cambiado por completo. «Grogu ha… subido de nivel. Sabemos que anteriormente entrenó con Luke Skywalker, así que tiene algo de influencia jedi; además, es un aprendiz mandaloriano, lo que le hace muy único. Es hora de que Grogu salga al campo y de que papá le enseñe las cuerdas» . Esa frase, «es hora de que salga al campo», no es un detalle menor. Es una declaración de intenciones sobre el tipo de película que nos espera. Grogu ya no es el MacGuffin de la historia. Es uno de sus protagonistas activos. ¿Qué ha pasado entre las series y la película The Mandalorian and Grogu? Aquí está el contexto que importa. Grogu sobrevivió a la Orden 66, uno de los mayores traumas de la galaxia, y pasó décadas ocultándose. Cuando Din Djarin lo encontró, era una criatura de poder enorme pero sin control. Luego llegó Luke Skywalker y empezó a formarle, aunque esa etapa fue breve: Grogu eligió a su padre adoptivo mandaloriano por encima del entrenamiento jedi completo. Esa decisión, que en su momento pareció emotiva pero casi imprudente, ahora se revela como algo mucho más interesante. Grogu ha absorbido lo mejor de dos mundos: la sensibilidad y la conexión con la Fuerza del lado jedi, y la disciplina, el combate y el código de honor mandaloriano. No hay nadie más en toda la galaxia con esa combinaci",
+      "link": "https://www.cinemascomics.com/grogu-salto-poder-the-mandalorian-and-grogu/",
+      "pubDate": "Sun, 03 May 2026 08:01:32 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/The-Mandalorian-and-Grogu-2026.jpg"
+    },
+    {
+      "id": "5f7c30bfc1a7aa5871e9",
+      "title": "F1 GP de Miami: horarios de la carrera, cómo y dónde ver la Fórmula 1",
+      "summary": "La quinta fecha del campeonato 2026 se corre este domingo en el circuito callejero del Hard Rock Stadium con formato sprint. Franco Colapinto buscará volver a sumar puntos en una carrera clave del campeonato que lidera Kimi Antonelli.",
+      "link": "https://www.clarin.com/deportes/f1-gp-miami-horarios-carrera-ver-formula-1_0_GyzAAzApE5.html",
+      "pubDate": "Sun, 03 May 2026 08:00:44 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/05/02/stNs7q4ub_1200x630__1.jpg"
+    },
+    {
+      "id": "3d792ad9766eea0ddf86",
+      "title": "Andrew Carnegie, empresario industrial y multimillonario: \"Ningún hombre será un gran líder si quiere hacerlo todo él mismo o llevarse todo el mérito\"",
+      "summary": "Liderar no es brillar solo: es construir un equipo que también pueda brillar.",
+      "link": "https://www.clarin.com/estados-unidos/andrew-carnegie-empresario-industrial-multimillonario-hombre-gran-lider-quiere-hacerlo-mismo-llevarse-merito_0_Qbz2eC7Otn.html",
+      "pubDate": "Sun, 03 May 2026 08:00:44 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/24/XDRtQZxy1_1200x630__1.jpg"
+    },
+    {
+      "id": "90831951ca8c065629ca",
+      "title": "F1 GP de Miami con Franco Colapinto, EN VIVO: horarios y cómo ver la carrera este domingo 3 de mayo",
+      "summary": "El piloto argentino logró su mejor clasificación en Fórmula 1. Saldrá desde la octava posición de la grilla, por delante de Gasly. La largada se adelantó tres horas por riesgo de tormentas.",
+      "link": "https://www.clarin.com/deportes/f1-gp-miami-franco-colapinto-vivo-horarios-ver-carrera-domingo-3-mayo_0_U6DdHRKPfA.html",
+      "pubDate": "Sun, 03 May 2026 08:00:44 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/05/02/la6B-ZLqq_1200x630__1.jpg"
+    },
+    {
+      "id": "56d21517a291d20d41b1",
+      "title": "Yomif Kejelcha, el otro súper hombre que bajó las dos horas en el maratón de Londres: un segundo que nadie olvidará",
+      "summary": "El etíope debutó en Londres con un tiempo histórico, pero quedó detrás del keniano Sabastian Sawe. Una hazaña monumental que reabre el debate sobre la grandeza deportiva más allá del primer puesto.",
+      "link": "https://www.clarin.com/deportes/yomif-kejelcha-super-hombre-horas-maraton-londres-segundo-nadie-olvidara_0_o6rd1eUniH.html",
+      "pubDate": "Sun, 03 May 2026 08:00:44 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/10/27/yZErIdy8h_1200x630__1.jpg"
+    },
+    {
+      "id": "bef534a7f67f61ca1d04",
+      "title": "Esta alternativa a Android TV es más rápida, no tiene anuncios y se parece a Apple TV",
+      "summary": "Android TV es uno de los sistemas más usados en los smart TV , para bien o para mal. Si no tienes un televisor Samsung o LG, es casi un hecho que dependes de Google para navegar entre el contenido, aplicaciones y los molestos anuncios. La buena noticia es que existe una alternativa de código abierto llamada Arc Launcher , la cual puedes instalar gratis hoy mismo para retomar el control de tu televisor. En términos generales, Arc Launcher es un fork de LtvLauncher, otro lanzador alternativo para Android TV que a su vez está basado en FLauncher . Su objetivo es ofrecer una interfaz limpia inspirada en Apple TV, sin publicidad y con un rendimiento más ágil que el de Google. A diferencia de las recomendaciones que vemos en el sistema por defecto, acá el foco está en lanzar aplicaciones rápido y sin distracciones. En cuanto abres Arc Launcher, la pantalla de inicio ya te dice de qué va todo esto. Hay un dock en la parte inferior con tus apps favoritas y el resto de aplicaciones agrupadas debajo, organizadas en categorías que tú defines. Puedes crear secciones como Deportes, Música o lo que necesites, reordenarlas con las flechas del mando y ocultar las que no quieras ver. En la esquina superior izquierda tienes accesos directos a ajustes y WiFi; en la derecha, la hora y la fecha. Lo que más se agradece en el uso diario es la ausencia total de anuncios y el rendimiento. Los tiempos de apertura de apps son notablemente más rápidos respecto al lanzador de Google en dispositivos de gama media, y la navegación entre elementos fluye sin los pequeños saltos que a veces aparecen en la interfaz de Google TV. Funciones que marcan la diferencia Dejando de lado la estética, Arc incluye algunas funciones prácticas que no están en la mayoría de lanzadores alternativos. Tiene un widget de consumo de datos en la barra de estado para que puedas ver cuántos datos llevas gastados sin tener que entrar a ajustes. También incluye un salvapantallas OLED con desplazamiento del reloj cada 30 seg",
+      "link": "https://hipertextual.com/tecnologia/arc-launcher-alternativa-android-tv/",
+      "pubDate": "Sun, 03 May 2026 08:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/smart-tv-control-remoto.jpg?fit=1024%2C681&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "desarrollo"
+    },
+    {
+      "id": "abe40509344a5d6b2331",
+      "title": "Qué es el estrés crónico y cuáles son los síntomas para detectarlo a tiempo, según un experto",
+      "summary": "En el marco de un creciente debate sobre la salud mental, el cardiólogo Mario Boskis alertó sobre las consecuencias del estrés crónico y su impacto directo en el organismo. “Todo lo que empieza en la mente baja al cuerpo” , afirmó, al explicar cómo los procesos emocionales terminan generando efectos físicos concretos. Durante una entrevista en LN+ , el especialista sostuvo que el estrés dejó de ser un problema exclusivamente psicológico para convertirse en un factor de riesgo cardiovascular de primer orden. Según indicó, estudios recientes muestran que puede casi duplicar la probabilidad de sufrir un infarto . Dr. Mario Boskis, cardiologo Cómo el estrés afecta al cuerpo El médico explicó que el estrés activa mecanismos biológicos concretos. En situaciones agudas, el organismo responde con la liberación de adrenalina y noradrenalina , lo que acelera la frecuencia cardíaca y prepara al cuerpo para reaccionar ante una amenaza. Pero el problema aparece cuando ese estado se vuelve sostenido en el tiempo. “El estrés crónico activa la liberación de cortisol” , detalló. Ese proceso tiene múltiples efectos negativos: eleva la presión arterial, aumenta el azúcar en sangre, favorece el aumento de peso y daña los vasos sanguíneos . “Ataca el endotelio, la parte interna de las arterias, genera inflamación y puede llevar a obstrucciones”, explicó. Síntomas y señales de alerta Según Boskis, el estrés crónico puede manifestarse de distintas formas, incluso en personas jóvenes. Entre los síntomas más frecuentes mencionó las palpitaciones, alteraciones del sueño, dolores de cabeza persistentes y cambios en los hábitos cotidianos . También advirtió sobre la dificultad para detectarlo: “La autopercepción es muy difícil. Muchas veces lo identifica antes un familiar o el médico” . En algunos casos, incluso, puede confundirse con cuadros más agudos como los ataques de pánico. “El paciente siente dolor en el pecho, cree que se está muriendo . Por eso siempre hay que consultar para descarta",
+      "link": "https://www.lanacion.com.ar/sociedad/que-es-el-estres-cronico-y-cuales-son-los-sintomas-para-detectarlo-a-tiempo-segun-un-experto-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/YLMWVNL2VVFLHNKA5S46DKQG6Y.png?auth=cd8fa2cb69955c1c937000efc7ec9e9f05f4b152f5b7ca21441a0468a9139171&smart=true&width=1200&height=800"
+    },
+    {
       "id": "b22fdc9e7cae2869d86d",
-      "title": "\"Mbappé: de implorarlo a perseguirlo, para humillarlo\"",
+      "title": "\"Si el problema es Mbappé...\"",
       "summary": "l delantero francés del Real Madrid, Kylian Mbappé (izda), disputa el balón ante el jugador del Betis Fidalgo, durante el encuentro correspondiente a la jornada 32 de Laliga EA Sports",
       "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/05/03/mbappe-implorarlo-perseguirlo-humillarlo.html",
       "pubDate": "Sun, 03 May 2026 07:57:38 +0200",
@@ -624,6 +1057,36 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f629902be75.jpeg"
+    },
+    {
+      "id": "c395fdfe0a544ad34927",
+      "title": "Hallazgo de la Edad de Bronce mientras construían un parque eólico: un collar de 156 piezas de ámbar y un peine de hueso",
+      "summary": "Durante la construcción de un parque eólico en Baja Sajonia, Alemania , autoridades detectaron un yacimiento arqueológico tras supervisiones obligatorias , según informó la Oficina Estatal de Protección de Monumentos. Allí, se hallaron joyas de la Edad de Bronce y otros artículos antiguos. Hallan joyas de la Edad de Bronce en parque eólico de Baja Sajonia, Alemania Las excavaciones se realizaron en una zona cercana a Wolfenbüttel , según un comunicado de la institución gubernamental. Allí se instalarían 19 aerogeneradores, y abarcaron cerca de 92.780 metros cuadrados (998.677 pies cuadrados) inspeccionados entre 2024 y 2025. El monitoreo permitió documentar al menos 412 contextos arqueológicos que abarcan desde el Neolítico hasta periodos tardíos de la antigüedad , lo que confirma la ocupación humana prolongada en la región. Este tipo de supervisión es habitual en proyectos de infraestructura en Alemania cuando existe probabilidad de hallazgos patrimoniales, de acuerdo con Finestre Sull Arte . “ En el sur, se descubrieron además dos cimientos de casas, en gran parte intactos, pertenecientes a la cultura de la cerámica lineal , la primera cultura agrícola de Baja Sajonia”, detalló la autoridad. Collar de 156 piezas de ámbar y joyas de bronce: qué encontraron en Alemania Entre los descubrimientos más relevantes se identificó un conjunto de objetos ornamentales de la Edad de Bronce , datados entre 1500 y 1300 a.C. Se incluyen collares, espirales, alfileres y fragmentos metálicos asociados al menos a tres individuos, posiblemente mujeres . Este conjunto apareció concentrado en un área específica durante las excavaciones de una de las turbinas . Uno de los elementos más destacados es un collar compuesto por más de 156 piezas de ámbar , considerado el mayor conjunto de este tipo documentado en Baja Sajonia hasta la fecha. Los especialistas señalan que este tipo de piezas eran altamente valoradas en la Edad de Bronce por su rareza y simbolismo. Por otro lado, las autoridad",
+      "link": "https://www.lanacion.com.ar/ciencia/hallazgo-de-la-edad-de-bronce-mientras-construian-un-parque-eolico-un-collar-de-156-piezas-de-ambar-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 07:45:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/6KWA6LW6PZEKZHVULRBW6VQCIQ.jpg?auth=eb68cc04915ce70ca35672f837915e8172dca3343c000cf26254452a2ad155ab&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "33ef0f06bda7069413be",
+      "title": "¿Qué nos espera en The Punisher: One Last Kill?",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El Punisher regresa en The Punisher: One Last Kill con una propuesta que no se limita a traer de vuelta al personaje, sino que busca redefinir su papel dentro del universo de Marvel Studios en un momento clave en el que la franquicia necesita figuras con identidad propia capaces de sostener historias más personales, más incómodas y, sobre todo, más contundentes. Tras su paso por Daredevil: Born Again y justo antes de lo que está por venir en Spider-Man: Brand New Day , este especial se presenta como una pieza estratégica dentro del tablero narrativo actual de Marvel, funcionando como un punto de entrada para nuevos espectadores, pero también como una declaración de intenciones para quienes llevan años siguiendo la evolución de Frank Castle y saben que este personaje nunca ha encajado del todo en los moldes tradicionales del género. Porque el Castigador vuelve, sí, pero lo hace desde un enfoque que prioriza la identidad sobre el espectáculo, la consecuencia sobre la épica y la crudeza sobre cualquier tipo de concesión, en una historia que aspira a capturar la esencia de un personaje que ya no lucha por redención ni por justicia, sino porque es lo único que sabe hacer. La implicación directa de Jon Bernthal en el libreto refuerza esa sensación de proyecto personal, de historia construida desde dentro, con una intención clara de respetar lo que ha hecho funcionar al personaje hasta ahora y, al mismo tiempo, empujarlo hacia un terreno todavía más incómodo, más físico y más emocional, condensando en apenas una hora de metraje todo el peso de su trayectoria. Un control creativo que marca la diferencia La dirección corre a cargo de Reinaldo Marcus Green, un cineasta que ya demostró en King Richard su capacidad para construir relatos con identidad y que ahora se enfrenta a un personaje que exige algo más que solvencia técnica, ya que necesita una mirada muy concreta para no diluir su esencia dentro del engranaje ",
+      "link": "https://www.cinemascomics.com/que-nos-espera-en-the-punisher-one-last-kill/",
+      "pubDate": "Sun, 03 May 2026 07:27:32 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/The-Punisher-One-Last-Kill-Disney-May-12-2026The-Punisher-One-Last-Kill-is-a.jpg"
+    },
+    {
+      "id": "e3037455630935c5df57",
+      "title": "VIDEO: Momento en que un coche cargado con explosivos embiste contra un club deportivo en EE.UU",
+      "summary": "Un hombre embistió su coche cargado de explosivos contra un club deportivo en la ciudad estadounidense de Portland, Oregón. La planta baja de la instalación fue completamente destruida tras la detonación de bombas caseras y tanques de propano. Los servicios de emergencia lograron extinguir las llamas y encontraron al sujeto, un exempleado del establecimiento, muerto dentro del vehículo.",
+      "link": "https://actualidad.rt.com/actualidad/602795-video-momento-coche-cargado-explosivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 07:20:21 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6f6e8e9ff717b921ba59e.png"
     },
     {
       "id": "569c9c6d3ced31010b22",
@@ -646,24 +1109,126 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f6702f53d38.jpeg"
     },
     {
-      "id": "fb09a6d68cbdf212ebd6",
-      "title": "Operación Joan Martínez: 150 millones de cláusula, Luis Campos, un traspaso que puede ser millonario...",
-      "summary": "Joan Martínez, a la izquierda, celebrando junto a Javi Navarro el título de la Youth League.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/05/03/joan-martinez-objetivo-psg.html",
-      "pubDate": "Sun, 03 May 2026 07:13:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f607dee0225.jpeg"
+      "id": "fccd36328999dd439493",
+      "title": "Enviado de Kremlin: \"El mundo avanza a tientas hacia la mayor crisis energética de la historia\"",
+      "summary": "Kiril Dmítriev indicó que aún no todos entienden lo que está pasando.",
+      "link": "https://actualidad.rt.com/actualidad/602792-enviado-kremlin-mundo-avanza-crisis-energetica?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 07:13:55 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6ec38e9ff7163800aebcf.jpg"
     },
     {
-      "id": "41b8ea86a976efeca17d",
-      "title": "Hadjar descalificado, con lo que Sainz y Alonso ganan una plaza cada uno",
-      "summary": "Hadjar, durante el GP de Miami 2026.",
-      "link": "https://www.marca.com/motor/formula1/gp-miami/2026/05/03/hadjar-descalificado-sainz-alonso-ganan-plaza.html",
-      "pubDate": "Sun, 03 May 2026 07:05:28 +0200",
-      "source": "Marca",
+      "id": "86dae98c306f35772338",
+      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 3 de mayo",
+      "summary": "Ciudadanos israelíes llevaron a cabo manifestaciones en Tel Aviv , con el objetivo de exigir el fin de la guerra. Según indicó la agencia Al Jazeera , los manifestantes señalan que el gobierno de Benjamin Netanyahu recurra a la detrucción. El presidente de Estados Unidos , Donald Trump , advirtió este sábado, según consigó AFP , que prevé reducir “drásticamente” el número de soldados estadounidenses en Alemania , tras un primer anuncio sobre la retirada de 5.000 efectivos. Dicha advertencia por parte del mandatario estadounidense surge después de que el canciller alemán, Friedrich Merz , considerara el pasado lunes que Washington no tiene “ninguna estrategia” en Irán , y que la república islámica ha “humillado” a Washington . En declaraciones a periodistas, Donald Trump señaló que existe la posibilidad de que Estados Unidos vuelva a atacar Irán , según consignó The Times of Israel . Donald Trump señaló que pronto revisará la propuesta enviada por Irán con el objetivo de poner fin a la guerra. Sin embargo, adelantó que duda que sea aceptable . “Aún no han pagado un precio suficientemente alto por lo que le han hecho a la humanidad y al mundo durante los últimos 47 años”, escribió el mandatario estadounidense en su cuenta de Truth Social. Irán respondió a Estados Unidos con una propuesta de 14 puntos , según indicó CNN . El objetivo de la misma es por fin a la guerra “en todos los frentes”, lo que incluye también a Líbano . También incluye la liberación de activos iraníes congelados, levantamiento de sanciones y generar un “nuevo mecanismo” para el estrecho de Ormuz . Previamente el país conducido por Donald Trump había acercado un planteo que incluía nueve puntos. BERLÍN.– Alemania y la OTAN apostaron este sábado por reforzar la autonomía en defensa de Europa después de que Estados Unidos anunciara la próxima retirada de 5000 soldados desplegados en ese país europeo. La medida anunciada el viernes por el Pentágono representa un nuevo revés a las relaciones transatlán",
+      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-3-de-mayo-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 07:06:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/OSTOXRQ4SZDH5OP2BZNX6IIDVA.JPG?auth=cb1ae5ddae8326309767f10e6e96e95511e76c106b8b1f53a00022ad23faa940&smart=true&width=5058&height=3312"
+    },
+    {
+      "id": "852de3326ecfdfe0fa10",
+      "title": "Amtrak reemplaza toda su flota de larga distancia con 800 vagones: cuándo llegan los nuevos trenes",
+      "summary": "La empresa ferroviaria Amtrak anunció un programa de renovación de flota que contempla la incorporación de aproximadamente 800 nuevos vagones para sus servicios de larga distancia en 14 rutas clave de Estados Unidos. Este proyecto representa la actualización más amplia en más de cuatro décadas. Renovación histórica en la red ferroviaria de larga distancia de Amtrak en EE.UU. La compañía confirmó en un comunicado que este paso forma parte de una estrategia para sustituir equipos antiguos y modernizar la experiencia de los pasajeros . El plan incluye la sustitución progresiva de vagones que han operado durante décadas en rutas de larga distancia. La empresa detalló que estos nuevos trenes incorporarán tecnología actualizada , mayor eficiencia energética y mejoras en seguridad. La flota actual, en muchos casos, supera los 40 años de servicio , lo que motivó la implementación de este programa. Además, la compañía destacó que este esfuerzo responde a una creciente demanda por viajes en tren en rutas interurbanas. En ese sentido, busca asegurar la confiabilidad del servicio y reducir costos de mantenimiento asociados a equipos antiguos. Según el comunicado oficial, la renovación permitirá mejorar la puntualidad y la capacidad operativa en corredores de alta demanda. Nuevos vagones de Amtrak tendrán tecnología y mayor comodidad La firma señaló que estos ajustes son el resultado de los análisis realizados en conjunto con la Administración Federal de Ferrocarriles (FRA, por sus siglas en inglés), que identificó las áreas de oportunidad. Los nuevos vagones que integrará Amtrak ofrecerán espacios rediseñados. Entre las mejoras se incluyen asientos ergonómicos, iluminación moderna , conectividad mejorada y áreas comunes más funcionales. El rediseño también contempla cabinas privadas y opciones de descanso optimizadas para viajes largos o nocturnos. Cuándo entrarán los 800 nuevos vagones de Amtrak Roger Harris, presidente de la compañía, declaró que se prevé introducir los prime",
+      "link": "https://www.lanacion.com.ar/estados-unidos/amtrak-reemplaza-toda-su-flota-de-larga-distancia-con-800-vagones-cuando-llegan-los-nuevos-trenes-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 07:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/ERW5MILKVNAJLFZHCJBF2JTRGI.jpg?auth=cb5210ee01fe51c30713215401ba7851d9964ec5cb65bb37a2936fd57d69a445&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "879f476db093fa99b4de",
+      "title": "F1 GP de Miami: horarios de la carrera, cómo y dónde ver la Fórmula 1",
+      "summary": "La quinta fecha del campeonato 2026 se corre este domingo en el circuito callejero del Hard Rock Stadium con formato sprint. Franco Colapinto buscará volver a sumar puntos en una carrera clave del campeonato que lidera Kimi Antonelli.",
+      "link": "https://www.clarin.com/deportes/f1-gp-miami-horarios-carrera-ver-formula-1_0_Ofm7rn9Hv9.html",
+      "pubDate": "Sun, 03 May 2026 07:00:44 +0000",
+      "source": "Clarin",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f6ac71154d7.jpeg"
+      "image": "https://www.clarin.com/img/2026/04/13/W9hJJJ8oW_1200x630__1.jpg"
+    },
+    {
+      "id": "ca761eb790a58542307d",
+      "title": "Dólar blue hoy: a cuánto cotiza este domingo 03 de mayo",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-03-mayo_0_JXPLwKxlTG.html",
+      "pubDate": "Sun, 03 May 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/04/23/UIgMX6Usc_1200x630__1.jpg"
+    },
+    {
+      "id": "3849883cabfcb8bd39bc",
+      "title": "Tus juegos de Android en el PC: así funciona Google Play Games en Windows",
+      "summary": "Cuando hablamos de juegos o videojuegos, muchos pensamos en Steam, Xbox, Nintendo o PlayStation . Sin embargo, las estadísticas dicen algo distinto. La gran mayoría de descargas de juegos se producen en dispositivos móviles . En especial, en Android . La industria del videojuego móvil cuenta con decenas de miles de títulos en Google Play y App Store para que juegues. Gratis o pagando. Aunque el modelo que más triunfa es el de los micropagos. No es de extrañar que surjan aplicaciones para jugar a juegos de Android en Windows . Incluso Google tiene la suya propia, Google Play Juegos . En inglés, Google Play Games. Si no has oído hablar de esta plataforma, es normal. O, mejor dicho, es probable que no supieras de su compatibilidad con Windows. Google Play Games es como Google llama a su sección de juegos dentro de la tienda oficial de aplicaciones para Android, conocida como Play Store . En 2013 se separó en forma de app independiente. Y hace unos años, Google decidió lanzar una versión para PC con Windows . La idea es que puedas disfrutar de tus juegos en móviles, tabletas y ordenadores compatibles. En 2022 empezó su etapa en fase beta. Primero con invitación. Luego, solo tenías que solicitar permiso y obtenías un enlace para descargar su instalador. Y, desde septiembre de 2025, Google ofrece Google Play Juegos para PC como una opción más para que jugadores de todo el mundo disfruten de los mismos títulos en Android y en Windows . Android y Windows no siempre se han llevado bien. Incluso hoy son dos sistemas distintos que conviven gracias a aplicaciones que permiten enviar y recibir archivos , compartir pantalla y otras funciones más o menos conseguidas. Y si hablamos de juegos de Android en Windows , hace tiempo que aplicaciones como BlueStacks o Bliss OS te permiten emular o instalar Android para jugar o instalar apps en tu PC. Incluso Google tiene su propio emulador para desarrolladores y curiosos dentro de su software Android Studio . Pero Google Play Games va más",
+      "link": "https://hipertextual.com/guias/juegos-android-windows-google-play-games/",
+      "pubDate": "Sun, 03 May 2026 07:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Google-Play-Juegos-PC-Windows.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "e777d23a4446278f1c14",
+      "title": "Dónde entregan comida fresca gratis en California durante la primera semana de mayo 2026",
+      "summary": "La entrega de comida gratis continuará durante la primera semana de mayo en distintos puntos de California , con operativos organizados por bancos de alimentos regionales , iglesias, escuelas y centros comunitarios que buscan asistir a familias, adultos mayores y personas con ingresos limitados. Mapa de puntos con alimentos gratuitos en California Los cronogramas del Central California Food Bank y FIND Food Bank indican cuáles serán las entregas programadas para la primera semana de mayo . El Mercado First Fruits es un lugar de dignidad y libertad de elección Viernes 1° de mayo Indio : FIND Food Bank (83775 Citrus Ave), de 7 a 8.30 hs. Fresno : Butler Mennonite Brethren Church, de 9 a 11 hs. Fresno : Centro Familia de Adoración, de 9 a 11 hs. Dinuba : Dinuba Hispanic SDA Church, de 9 a 11 hs. Parlier : EOC - Parlier - At City Heritage Park, de 9 a 11 hs. Porterville : Altruistic United Humanity Association (AUHA), de 10 a 12 hs. Chowchilla : Shepherds Temple, de 10 a 12 hs. Tollhouse : Cancel-Cold Springs Rancheria, de 10.30 a 12.30 hs. Ivanhoe : First Southern Baptist Church of Ivanhoe, de 10.30 a 12.30 hs. Lemoore : Casa de Dios Agua De Vida, de 14 a 16 hs. Avenal : Casa De Dios Christian Fellowship, de 14 a 16 hs. Porterville : Centro Familiar Cosecha Abundante, de 15 a 17 hs. Fresno : Harmony Korean Church, de 15.30 a 16.30 hs. Sábado 2 de mayo Indio : Shadow Hills High School (39225 Jefferson St.), de 8 a 10 hs. Cathedral City : Agua Caliente Elementary (30800 San Luis Rey), de 9 a 10 hs. Tulare : Brooks Chapel, de 9 a 11 hs. Hanford : Glad Tidings Church of Hanford, de 9 a 11 hs. Clovis : Holy Ground Family Fellowship - Neighborhood Market USDA Food Distribution, de 9 a 11 hs. Pinehurst : Central Sierra Chamber, de 9.30 a 12 hs. Fresno : Hope Worldwide-Central Valley, de 10 a 12 hs. Caruthers : Caruthers Seven Day Adventist Church, de 15 a 17 hs. Lunes 4 de mayo Thermal : Coachella Valley High School (83800 Airport Blvd), de 11 a 12 hs. Hanford : Mustard Seed,",
+      "link": "https://www.lanacion.com.ar/estados-unidos/california/donde-entregan-comida-fresca-gratis-en-california-durante-la-primera-semana-de-mayo-2026-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 06:55:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/GOQRICRSTBGLNAIYJ3V46UIVTY.jpg?auth=7d301c54cf06eb12027dde7b457b4234dd4626ea5d67911afc9df9fe5b3c85a5&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "72b546072cb28873d666",
+      "title": "Celebran masiva fiesta ilegal en un campo de tiro, rodeados de municiones que amenazan con explotar",
+      "summary": "Entre 30.000 y 40.000 personas se congregaron en una instalación militar francesa considerada \"extremadamente peligrosa\" por la presencia de artefactos explosivos de la Segunda Guerra Mundial.",
+      "link": "https://actualidad.rt.com/actualidad/602782-realizan-masiva-fiesta-ilegal-campo-tiro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 03 May 2026 06:45:28 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6fb9759bf5b3ba8741cff.jpg"
+    },
+    {
+      "id": "659b01e10fcb769a2bb8",
+      "title": "La isla sagrada que aparece al amanecer y desaparece con el sol: testigos la documentaron por más de un siglo",
+      "summary": "En Hawái , entre Maui y Molokai, desde hace décadas se documentó la aparición de la isla Kanehunamoku. El lugar forma parte de la mitología hawaiana y fascina a residentes y turistas . A lo largo del tiempo, se discutió sobre la realidad de sus avistamientos. La isla de Hawái que desaparece en el horizonte En diciembre de 1900, un periódico hawaiano documentó el avistamiento de la isla Kanehunamoku . Según el relato, únicamente pudo ser observada entre las 5.05 y las 6.20 (hora local), que luego dejó lugar a un vacío y un misterio en la zona. Retomada por SFGATE , la historia está relacionada con una tradición hawaiana de acuerdo a la cual existen islas ocultas que, habitadas por los dioses, solo son visibles para algunas personas. Estas llamadas islas perdidas , según reportaron testigos, llegan a verse justo al amanecer o al atardecer , pero desaparecen en el horizonte poco tiempo después. El hecho coincide con otro reporte, publicado en febrero de 1912, en el que un matrimonio aseguró haber visto luces en movimiento en el mar . Cuando estas se apagaron, divisaron una isla cerca de la costa en la cual, afirmaron, pudieron observar figuras que se movían. Sin embargo, a la mañana siguiente había desaparecido. Qué dice la leyenda de la isla oculta por los dioses en Hawái De acuerdo con la Biblioteca Electrónica de Hawái , la isla Kanehunamoku es un paraíso de abundancia habitado por dioses y espíritus. Según los especialistas, este lugar únicamente puede ser visto en momentos específicos y por personas con gran conexión espiritual . La leyenda proviene del libro The Water of Kane and other legends of Hawaiian Islands , que cuenta que la isla oculta fue creada por los dioses Kane y Kanaloa para servir de hogar a los espíritus y descendientes de los dioses. Según la mitología y lo que establece la leyenda, la razón por la cual este lugar se mantiene fuera de la vista de la mayoría de los humanos es que los dioses buscan preservar su pureza. La isla Kanehunamoku en Hawá",
+      "link": "https://www.lanacion.com.ar/estados-unidos/la-isla-sagrada-que-aparece-al-amanecer-y-desaparece-con-el-sol-testigos-la-documentaron-por-mas-de-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 06:40:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/RUXUPAIP5RAWBB2MBJNK5GXQZE.jpg?auth=37f7cbce7374302cfd79a037bafa946d2589639ac24aaf176788c98136ea4901&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "e536115c8eb182cf7917",
+      "title": "Los puntajes de Clarín de la fecha 9 del Torneo Apertura 2026 de la Liga Profesional de Fútbol",
+      "summary": "Sigue adelante el primer torneo doméstico de la temporada. Acá podés encontrar las formaciones, los puntajes y los goles de cada partido.",
+      "link": "https://www.clarin.com/deportes/puntajes-clarin-fecha-9-torneo-apertura-2026-liga-profesional-futbol_0_2jkSrhq0tg.html",
+      "pubDate": "Sun, 03 May 2026 06:38:34 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/05/03/oeV0Af53-_1200x630__1.jpg"
+    },
+    {
+      "id": "bf27df504dba5f606ad1",
+      "title": "Lotería de visas 2027 en EE.UU.: los nuevos requisitos que deberán cumplir los migrantes ahora",
+      "summary": "El Departamento de Estado de EE.UU. (DOS, por sus siglas en inglés) estableció una norma que marca cambios en el funcionamiento del programa de visas de diversidad en su edición 2027 y que ya entró en vigor el pasado 10 de abril. La oficina busca mejorar la integridad y combatir posibles fraudes en el proceso de selección. Regulación sobre visas y la carga de datos de los participantes Los participantes deben incluir información de un pasaporte vigente en el formulario de registro en línea. El requisito consiste en la entrega del número de serie, el nombre del titular, el sitio de emisión y la fecha de expiración. Además, se exige la carga de una imagen de la página biográfica del pasaporte y de la firma del documento. El envío de estos datos es una condición para la entrada en el programa de visas de diversidad 2027. La medida pretende confirmar la identidad de los solicitantes en una fase inicial del proceso para evitar inconvenientes más adelante. La autoridad tomó esta decisión para enfrentar la cantidad de registros con fraudes, dado que el Registro Federal reveló que se detectaron 2,5 millones de entradas con irregularidades durante 2025. El texto oficial menciona la operación de grupos de terceros que presentan solicitudes en nombre de personas sin su consentimiento. Además, ocultan el número de confirmación a los interesados y exigen pagos desorbitados para la entrega de la información . Antecedentes de actividades ilícitas en el programa El Registro Federal cita ejemplos de actividades ilegales en el pasado. En 2012, una dirección de internet en Bangladesh realizó el envío de más de 63 mil peticiones; en 2013, grupos en Ucrania obtuvieron información para el ingreso al sistema y solicitaron pagos de hasta 15.000 dólares. Asimismo, en 2023, una red en Camboya cobró entre US$5000 y US$30.000 a los seleccionados. La nueva regla del pasaporte pretende reducir estas conductas al exigir un documento de identidad desde el comienzo. Cabe destacar que el formulario ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/loteria-de-visas-2027-en-eeuu-los-nuevos-requisitos-que-deberan-cumplir-los-migrantes-ahora-nid03052026/",
+      "pubDate": "Sun, 03 May 2026 06:33:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/DSTBRAN63JHYVJWQ43UJLEDTTQ.jpg?auth=c401255c6b4aa9bc3bc017d64f12f63270a6d3bc9b7ea0ba86fb8c4abbb20647&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "d96cf954bce1b6c8548b",
+      "title": "Borró chats de un celular secuestrado en una investigación judicial de asuntos internos de la Policía: quedó preso",
+      "summary": "Sergio L. fue detenido porque habría eliminado conversaciones y archivos de WhatsApp de un teléfono incautado por Asuntos Internos de la Policía de Santa Fe. Ahora, la investigación apunta a sus posibles vínculos con funcionarios públicos.",
+      "link": "https://www.clarin.com/policiales/borro-chats-celular-secuestrado-investigacion-judicial-asuntos-internos-policia-quedo-preso_0_oKzpOwoR69.html",
+      "pubDate": "Sun, 03 May 2026 06:30:34 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/02/11/EFSk-GkDj_1200x630__1.jpg"
     },
     {
       "id": "84d4ce123de1ac11c439",
@@ -704,16 +1269,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/ORKARW3FKZD6ZB22INTQUKZJ2E.jpg?auth=887f357fe028986849f68d5406290f6b8273f8eee9da2981165b90f4368684af&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "86dae98c306f35772338",
-      "title": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, domingo 3 de mayo",
-      "summary": "Ciudadanos israelíes llevaron a cabo manifestaciones en Tel Aviv , con el objetivo de exigir el fin de la guerra. Según indicó la agencia Al Jazeera , los manifestantes señalan que el gobierno de Benjamin Netanyahu recurra a la detrucción. El presidente de Estados Unidos , Donald Trump , advirtió este sábado, según consigó AFP , que prevé reducir “drásticamente” el número de soldados estadounidenses en Alemania , tras un primer anuncio sobre la retirada de 5.000 efectivos. Dicha advertencia por parte del mandatario estadounidense surge después de que el canciller alemán, Friedrich Merz , considerara el pasado lunes que Washington no tiene “ninguna estrategia” en Irán , y que la república islámica ha “humillado” a Washington . En declaraciones a periodistas, Donald Trump señaló que existe la posibilidad de que Estados Unidos vuelva a atacar Irán , según consignó The Times of Israel . Donald Trump señaló que pronto revisará la propuesta enviada por Irán con el objetivo de poner fin a la guerra. Sin embargo, adelantó que duda que sea aceptable . “Aún no han pagado un precio suficientemente alto por lo que le han hecho a la humanidad y al mundo durante los últimos 47 años”, escribió el mandatario estadounidense en su cuenta de Truth Social. Irán respondió a Estados Unidos con una propuesta de 14 puntos , según indicó CNN . El objetivo de la misma es por fin a la guerra “en todos los frentes”, lo que incluye también a Líbano . También incluye la liberación de activos iraníes congelados, levantamiento de sanciones y generar un “nuevo mecanismo” para el estrecho de Ormuz . Previamente el país conducido por Donald Trump había acercado un planteo que incluía nueve puntos. BERLÍN.– Alemania y la OTAN apostaron este sábado por reforzar la autonomía en defensa de Europa después de que Estados Unidos anunciara la próxima retirada de 5000 soldados desplegados en ese país europeo. La medida anunciada el viernes por el Pentágono representa un nuevo revés a las relaciones transatlán",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-domingo-3-de-mayo-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 06:03:22 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/OSTOXRQ4SZDH5OP2BZNX6IIDVA.JPG?auth=cb1ae5ddae8326309767f10e6e96e95511e76c106b8b1f53a00022ad23faa940&smart=true&width=5058&height=3312"
     },
     {
       "id": "e0418489019722bfbc34",
@@ -757,16 +1312,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "a6fbaf0b49f61a875318",
-      "title": "Trump no descarta retomar la guerra contra Irán, mientras este propone un nuevo plan de paz",
-      "summary": "\"[Irán] todavía no ha pagado un precio suficientemente alto\", afirmó el presidente estadounidense, comentando la propuesta de paz de la República Islámica.",
-      "link": "https://actualidad.rt.com/actualidad/602785-trump-descarta-retomar-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 05:58:05 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6d2f959bf5b7aeb6d9527.jpg"
-    },
-    {
       "id": "44762dbe70350abf92b9",
       "title": "El punto clave de la propuesta iraní que no convence a EE.UU. y complica a Trump",
       "summary": "TEHERÁN.- Luego de que el presidente estadounidense Donald Trump rechazara la “última propuesta” iraní para destrabar las negociaciones de paz, desde Teherán no descartaron que se retomen las “hostilidades” con Estados Unidos. Para la República Islámica, la definición quedó ahora en manos de Washington, aunque advirtieron que están preparados tanto para un escenario de guerra como para retomar la vía diplomática. “Es probable que se reanude el conflicto con Estados Unidos, y los hechos demuestran que no respeta ninguna promesa ni acuerdo”, apuntó este sábado Mohamad Jafar Asadi, inspector adjunto del mando militar central Jatam al Anbiya, citado por la agencia iraní Fars. La declaración del funcionario cobra especial relevancia después de Trump se manifestara insatisfecho con la última propuesta de Teherán. Sin embargo, el sábado por la noche el mandatario estadounidense dijo que revisará la propuesta iraní aunque puso en duda que sea “aceptable”. “Pronto revisaré el plan que Irán nos acaba de enviar, pero no puedo imaginar que sea aceptable, ya que aún no han pagado un precio suficientemente alto por lo que le han hecho a la humanidad y al mundo durante los últimos 47 años. ¡Gracias por su atención a este asunto!“, escribió en su cuenta de Truth Social. Si bien no se dieron a conocer oficialmente los detalles de la nueva iniciativa presentada a Estados Unidos, vía Pakistán-mediador en el conflicto- un alto funcionario iraní aseguró que plantea principalmente la apertura del tráfico marítimo en el estrecho de Ormuz, postergando para más adelante las conversaciones sobre el programa nuclear iraní. Es justamente la cuestión nuclear, el foco de conflicto principal a la hora de obtener el visto bueno de Estados Unidos para reencauzar las negociaciones. Trump ya se ha manifestado en contra de dilatar estas conversaciones como propone Irán, y en cambio exige que sean incluidas en cualquier acuerdo de paz. Para Teherán cualquier definición se encuentra ahora del lado de Tr",
@@ -805,16 +1350,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/FLGZY5FADZCOJNW2MODI3JTUQU.JPG?auth=ada7cad35a4086267e68389385442dfc7b79591c671057a8679960bf5b7a5721&smart=true&width=4221&height=2814"
-    },
-    {
-      "id": "b69fbd3b5d6abcc39844",
-      "title": "Israel emite \"una advertencia urgente\" y ordena la evacuación de una docena de localidades del Líbano",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/602789-israel-ordena-evacuacion-docena-localidades-libano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 05:28:41 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "5b573b10f3599f31cd4c",
@@ -867,16 +1402,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/VARSQBLXE5CYVA5ZPMBAI4FSHM.JPG?auth=f2bc0cc053c920e0f2893618fca41e7ee340a26974b0a5cf0d64e95391f34c7f&smart=true&width=2500&height=1666"
     },
     {
-      "id": "dc358a9dca7c7525f853",
-      "title": "Rusia repele un ataque masivo de más de 300 drones ucranianos durante la noche",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/602784-rusia-repele-ataque-masivo-300-drones-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 04:46:06 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "9e537d0a1371cf8189bf",
       "title": "Shakira, aclamada reina de la música latina por dos millones de personas en la playa de Copacabana",
       "summary": "La cantante colombiana Shakira durante su concierto en Copacabana, este sábado en Río de Janeiro.",
@@ -917,16 +1442,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/FO563OJ6YNAQRFBDLTIQMKFWLI.jpg?auth=2cc82e99a8e2f62e8891229839427a3e6e86461d84820a5fee4b96dc751c5620&smart=true&width=2000&height=1333"
     },
     {
-      "id": "de0c38ecf7d564493802",
-      "title": "Día 65 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
-      "summary": "El conflicto en Medio Oriente entró este domingo 3 de mayo en su 65° día de guerra . Estados Unidos e Irán intercambian propuestas para avanzar en un acuerdo que permite el fin de la guerra. En tanto, continúan los ataques entre Israel y Hezbollah. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy Israel intensificó sus ataques en el Líbano a pesar del alto el fuego. Se registraron al menos 7 muertos. Irán respondió a la propuesta enviada por Estados Unidos con una nueva oferta. La enviada por el país persa incluye 14 puntos. El presidente de Estados Unidos dijo que pronto analizará la propuesta de Irán pero planteó dudas al respecto: “No puedo imaginar que sea aceptable”, señaló. Hezbollah afirmó haber atacado a las fuerzas israelíes en el Líbano. Trump amenaza con sancionar a las empresas navieras que paguen peajes a Irán para transitar por el estrecho de Ormuz Otros hechos de importancia Trump habla de “tomar el control” de Cuba después de Irán y desata un duro cruce con Díaz-Canel. El presidente de EE.UU. advierte que prevé reducir “drásticamente” el número de tropas en Alemania tras polémicas declaraciones del canciller. Estados Unidos agilizó la venta de armas por valor de US$8000 millones a países de Medio Oriente. Irán aprobará una ley que restringirá el tráfico en el estrecho de Ormuz . Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos terminado, tomen",
-      "link": "https://www.lanacion.com.ar/el-mundo/dia-65-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 04:26:03 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZRGXB72XTBAY3BYBMYTNSXHPFI.JPG?auth=14861930a092854920a2db1472bb29e35ae40727616762f9632d264db1fb7495&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "ec5e0c577abde1403451",
       "title": "Encuentran el cuerpo de una mujer al borde del camino en un campo rural y la policía cree que fue embestida: hay un sospechoso",
       "summary": "El cuerpo de Estefanía Isabel Villamea fue hallado en un camino rural en jurisdicción de Latín, en el departamento Unión, en Córdoba. Tenía 30 años. Un peón rural es el principal apuntado, aunque se aguarda por los resultados de la autopsia.",
@@ -935,16 +1450,6 @@
       "source": "Clarin",
       "cat": "poleco",
       "image": "https://www.clarin.com/img/2026/05/03/IA5G9_f86_1200x630__1.jpg"
-    },
-    {
-      "id": "562d8e22d5be18935013",
-      "title": "El Adornigate, el muerto y el degollado",
-      "summary": "Una de las leyes del poder compiladas por Robert Greene recomienda decir siempre menos de lo necesario. Cuando un líder político intente impresionar a la gente con palabras, debe tener en cuenta que cuanto más diga, más vulnerable será y menor control de la situación tendrá. Las personas poderosas impresionan o intimidan por su parquedad y cuanto más hablen, mayor será el riesgo de pronunciar alguna tontería. Para su reciente presentación ante la Cámara de Diputados , Manuel Adorni pareció aprender esa lección. Al menos hasta antes de ese informe, el jefe de Gabinete venía exhibiendo una llamativa fragilidad a la hora de brindar explicaciones y de convencer al público sobre su inocencia en los hechos que se le imputan. Sus intervenciones públicas habían agigantado las dudas en vez de disiparlas. Por eso el miércoles último concurrió al Congreso de la Nación en modo conservador, sin apartarse en ningún momento de un libreto cuidadosamente preparado por sus asesores, que leyó hasta cuando debió responder preguntas. Actuó como si fuera un bot, intentando evitar complicaciones mayores, como las que experimentó en una prueba anterior, que fue la conferencia de prensa en la cual todo salió mal porque se apartó del guión original, se mostró prepotente y minimizó el papel de los periodistas. Pero aun así, dejó sin contestar la mayoría de los interrogantes vinculados con su enriquecimiento patrimonial, los inmuebles adquiridos y los costosos viajes familiares. Con su presentación en el Congreso, el Gobierno no pretendió resolver el Adornigate , sino comprobar que la decisión de mantenerlo en la Jefatura de Gabinete continuaba siendo sostenible a pesar de las denuncias y sospechas de corrupción. Se buscó generar el contexto más favorable posible, con el acompañamiento del propio presidente Javier Milei y del gabinete ministerial en pleno, con el propósito de que el funcionario en desgracia casi no tuviera margen para descarrilar y pudiera superar el examen. Fue, por cierto, u",
-      "link": "https://www.lanacion.com.ar/opinion/el-adornigate-el-muerto-y-el-degollado-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 04:15:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/LVZJEMVKEFHNJGQ2PFCUJK5MIE.jpg?auth=bc9205744b5dcae984ffd816850cf42310dfabc9bc2ec2100afd9b3dc8fc9dd2&smart=true&width=1175&height=881"
     },
     {
       "id": "177c1b7b22f90b1242a4",
@@ -957,16 +1462,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg"
     },
     {
-      "id": "0d24dcf6039191d39fe7",
-      "title": "La única sommelier de agua del país cuenta que gusto tiene y cómo \"estar a pleno con los sentidos\"",
-      "summary": "Analía Videla (46) comenzó su carrera con los vinos hace 24 años y luego se especializó en la cata de aguas en Alemania. Esta mendocina explica que identificar las características sensoriales de este líquido esencial permite mejores uso, maridaje y beneficios para la salud.",
-      "link": "https://www.clarin.com/sociedad/unica-sommelier-agua-pais-cuenta-gusto-pleno-sentidos_0_exgYGp4N2n.html",
-      "pubDate": "Sun, 03 May 2026 04:00:43 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/02/JiWCRdM7L_1200x630__1.jpg"
-    },
-    {
       "id": "a7f65884300463742104",
       "title": "Morir por la Revolución: Cuba pide al pueblo que se inmole, pero “la gente tiene hambre y está disgustada”",
       "summary": "Amanece en La Habana. Es Primero de Mayo, Día de los Trabajadores, y la gente comienza a congregarse desde temprano en cuatro puntos estratégicos de la ciudad para marchar con carteles y pancartas hasta los predios de la Tribuna Antimperialista, el escenario que Fidel Castro ordenó construir en el año 2000 para hablarle directamente a Estados Unidos o reclamar la devolución de Elián González , el niño de seis años que Cuba convirtió en un trofeo político frente a Washington. Parece todo tan lejano: Castro murió hace una década y Elián, de 32 años hoy, se graduó de ingeniero industrial y tuvo una hija. Hay ciertas cosas, sin embargo, que permanecen intactas: la eterna guerra fría con los estadounidenses y la advertencia a los cubanos de que, si se ausentan del desfile, podrían perder el poco salario del mes, incluso el puesto laboral, o ganarse que el jefe les mire con malos ojos. Seguir leyendo",
@@ -977,49 +1472,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YPEYAT2Z45EMNLWS32BFOLH2ZA.jpg?auth=3d50bcdd58407b9c2f2692061b6e8d2641d10842f66275d55312c0afee152457"
     },
     {
-      "id": "e39408d120f7ab302042",
-      "title": "Del retoño del árbol de San Lorenzo al gomero de la Recoleta: diez árboles históricos de la Argentina",
-      "summary": "Testigos del paso del tiempo y la transformación del escenario urbano, un repertorio de árboles históricos desafía la premisa actual de constante reinvención, a la vez que evoca historias y leyendas. Herencia cultural y botánica, su legado aún se disfruta en diversos rincones de la Argentina. 1. MAGNOLIA DEL PARQUE 3 DE FEBRERO Corría noviembre de 1875. El presidente Nicolás Avellaneda inauguraba el Parque Tres de Febrero y en el acto plantaba una “ magnolia americana del bosque primitivo”. El hecho sucedió el día 3 de febrero de 1852, conmemorando la caída de Rosas en la Batalla de Caseros . Ese bellísimo ejemplar de Magnolia grandiflora aún subsiste. Muchos no recuerdan que el parque, hoy conocido como Bosques de Palermo , se asentó sobre una antigua propiedad del mismo Rosas, tras su derrota, por decreto provincial, fue expropiada para su uso y disfrute público. El ejemplar, destacado por su tamaño, con hojas perennes y flores blancas de intenso perfume, se ubica en la Av. Adolfo Berro, entre Av. Sarmiento y Av. Casares. Quien se acerque podrá ver la placa conmemorativa que incluye una cita del discurso de Avellaneda , que la describe como un símbolo de pureza y destaca la importancia de las obras públicas. El Parque, parada obligada de turistas de todo el mundo, es uno de los espacios verdes más relevantes de la capital argentina. 2. AGUARIBAY DEL PARQUE PATRICIOS Plantado nada menos que por Francisco P. Moreno —más conocido como el Perito Moreno—, el primer árbol en ser declarado histórico fue un aguaribay , a través de un decreto de 1943. Aún hoy puede vérselo en el Instituto Bernasconi, Parque Patricios, donde se cree está desde 1872. El naturalista y geógrafo, impulsor de la creación del primer Parque Nacional (Nahuel Huapi), plantó el ejemplar en su quinta familiar, donde planeaba albergar su primera colección museológica. En una fotografía del diario LA NACION , Moreno aparece junto a “su árbol”, en 1912; esto sería unos años antes de la liquidación de sus",
-      "link": "https://www.lanacion.com.ar/revista-jardin/del-retono-del-arbol-de-san-lorenzo-al-gomero-de-la-recoleta-diez-arboles-historicos-de-la-argentina-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 04:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/7RPYDM4LDBEYNCGVPCUZLN3CGA.jpg?auth=d92bc9a33db8da81d4e61e4a1b639a6fd58a1722200efb36f12afddafcaab30e&smart=true&width=2000&height=1335"
-    },
-    {
-      "id": "ca58d62d99554c895962",
-      "title": "Show de Shakira en Río de Janeiro: las imágenes de la masiva convocatoria de la artista colombiana",
-      "summary": "RÍO DE JANEIRO (AP).- Este sábado por la noche, Shakira brindó un show gratuito en Río de Janeiro, Brasil, frente a más de 2.000.000 de personas que coparon las playas de Copacabana, y las imágenes de la extraordinaria cantidad de gente no tardaron en viralizarse en redes sociales. A través de diferentes fotos y videos, quedó registro del multitudinario público que convocó la artista colombiana en Brasil. Las tomas aéreas dejaron ver las filas de pantallas dispuestas a lo largo de la costanera hasta el escenario principal. Shakira cantó Hips don't lie (Fuente: O Globo) Entre los fragmentos de video del show que circulan en las redes sociales, se puede ver el momento en el que la cantante colombiana cantó algunos de sus canciones más conocidas, como Hips Don’t Lie o Inevitable . Además, gracias a las filmaciones quedaron inmortalizadas las participaciones de dos importantes artistas de Brasil: Maria Bethânia y Anitta . La actuación de Shakira forma parte de la gira mundial “Las Mujeres Ya No Lloran” , basada en el álbum publicado en 2024. A la vez, se inscribe en una serie de recitales gratuitos organizados en la ciudad brasileña en los últimos años. Previamente, iniciativas similares convocaron a grandes multitudes, como los espectáculos de Madonna en 2024 y Lady Gaga en 2025. El concierto estaba pautado para arrancar a las 22 (hora argentina), pero finalmente inició más de una hora después. Sin embargo, ya por la mañana las personas se fueron acercando al escenario principal para conseguir buenos lugares. Anitta estuvo presente en el show (Fuente: O Globo) En el lugar se vieron cientos de vendedores ambulantes que ofrecieron durante todo el día alimentos, bebidas, productos como desodorante, papel higiénico o bolsas de arena para mejorar la visibilidad del escenario montado frente al hotel Copacabana Palace. Maria Bethânia formó parte del show de Shakira (Fuente: O Globo) Antes del inicio, la programación contó con presentaciones de DJs durante la tarde y, tras el ",
-      "link": "https://www.lanacion.com.ar/espectaculos/musica/show-de-shakira-en-rio-de-janeiro-las-imagenes-de-la-masiva-convocatoria-de-la-artista-colombiana-nid02052026/",
-      "pubDate": "Sun, 03 May 2026 03:59:27 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/7J6OU3S27REN3ML43WXTV2KD3I.JPG?auth=5f179a525e1fd213849afb83113b2aab5421ec1eeb5564fe7909240549a57311&smart=true&width=4647&height=3098"
-    },
-    {
-      "id": "4a0a0948f8a5a61d14e3",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El SMN anticipa para este domingo temperaturas entre 3°C y 15°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-domingo-3-mayo-2026_0_3nOPoOESzJ.html",
-      "pubDate": "Sun, 03 May 2026 03:46:58 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
-    },
-    {
-      "id": "1bd1101ef76718533b59",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-domingo-3-mayo-2026_0_a6JG9rOmFb.html",
-      "pubDate": "Sun, 03 May 2026 03:46:35 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/NTddMGN8q_1200x630__1.jpg"
-    },
-    {
       "id": "566d56037559400405a1",
       "title": "Luis de Guindos: “Fui más halcón, ahora estoy más en el lado de la prudencia”",
-      "summary": "Luis de Guindos, vicepresidente del BCE, el pasado 30 de abril en Fráncfort. Claudio Álvarez",
+      "summary": "Luis de Guindos, vicepresidente del BCE, el pasado 30 de abril en Fráncfort.",
       "link": "https://elpais.com/economia/2026-05-03/luis-de-guindos-fui-mas-halcon-ahora-estoy-mas-en-el-lado-de-la-prudencia.html",
       "pubDate": "Sun, 03 May 2026 03:45:01 GMT",
       "source": "El Pais",
@@ -1035,66 +1490,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/YUHAOFIGTFGINOPN2SLPNRKAOI.jpg?auth=8412395e472d9e6fa540da2c1149259d7c61562dc95c6aa9e52b13794ef8406d"
-    },
-    {
-      "id": "616788f082c256b8d8e8",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-domingo-3-mayo-2026_0_zYnCtANCiE.html",
-      "pubDate": "Sun, 03 May 2026 03:41:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/qrC2hnAc8_1200x630__1.jpg"
-    },
-    {
-      "id": "b08c1e9d55f6ebc53786",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-domingo-3-mayo-2026_0_gEb2oPRjG4.html",
-      "pubDate": "Sun, 03 May 2026 03:41:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg"
-    },
-    {
-      "id": "798726e24b5cc552de94",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-domingo-3-mayo-2026_0_1qJ0PsPN6E.html",
-      "pubDate": "Sun, 03 May 2026 03:40:52 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/qrC2hnAc8_1200x630__1.jpg"
-    },
-    {
-      "id": "34ae9d38103ea755d066",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-domingo-3-mayo-2026_0_NxnGCSLCSZ.html",
-      "pubDate": "Sun, 03 May 2026 03:40:52 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/Hm-nGLi3-_1200x630__1.jpg"
-    },
-    {
-      "id": "797bbdad4c4ac146dfd8",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-domingo-3-mayo-2026_0_5z8Lx5Sgn4.html",
-      "pubDate": "Sun, 03 May 2026 03:40:51 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/qrC2hnAc8_1200x630__1.jpg"
-    },
-    {
-      "id": "835d1a9a537b894ed860",
-      "title": "Clima hoy en Tacuarembó, Uruguay: el pronóstico del tiempo para este domingo 3 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-tacuarembo-uruguay-pronostico-tiempo-domingo-3-mayo-2026_0_QSexPufgOv.html",
-      "pubDate": "Sun, 03 May 2026 03:40:27 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg"
     },
     {
       "id": "51a9a09bb5071af7265d",
@@ -1127,37 +1522,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/55HEMNLXWVGGXNKRGYQPYNIFBQ.jpg?auth=9b4e0946bd46e7a0453d324e3ca20760e42eb007b4d21bd9d8f6379bcdf0752b"
     },
     {
-      "id": "b9d0e417840e83092ca1",
-      "title": "VIDEO: Tanques rusos muestran su poderío en entrenamiento con fuego real",
-      "summary": "Los tanques T-72B3, pertenecientes a la agrupación de tropas rusas Tsentr ('Centro'), alcanzaron durante el entrenamiento de combate objetivos que simulaban fortificaciones enemigas, informó el Ministerio de Defensa de Rusia. Los disparos se realizaron con munición de fragmentación de alto poder explosivo desde una posición de fuego cerrada.",
-      "link": "https://actualidad.rt.com/actualidad/602779-video-tanques-rusos-muestran-poderio-entrenamiento-fuego-real?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 03:38:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6c17be9ff710dd279aa2f.png"
-    },
-    {
-      "id": "3d2d2eb1506654d72b81",
-      "title": "VIDEO: Llamas fluorescentes durante el incendio de un laboratorio universitario en EE.UU.",
-      "summary": "Este sábado se registró un fuerte incendio en el campus de San Petersburgo de la Universidad del Sur de Florida (EE.UU.). El fuego destruyó un edificio del Laboratorio de Ciencias Marinas y generó una gran columna de humo. En redes circula un video con intensas llamas de color verde fluorescente saliendo del techo. Bomberos prevén trabajar toda la noche debido a los materiales peligrosos del interior. No hay gases de riesgo para los residentes locales, hubo evacuación y no se reportaron heridos.",
-      "link": "https://actualidad.rt.com/actualidad/602777-llamas-fluorescentes-indendio-laboratorio-universitario-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 03:33:25 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "5be0404f4b1d8a6e3c0d",
-      "title": "Guiada por su instinto, cruzaba al patio del vecino por un agujero en el cerco para sanar una pérdida: “Parecía saber que la necesitábamos”",
-      "summary": "El verano pasado, Crystal y Seth Karnes estaban tomando un café en el patio trasero de su casa en Oklahoma cuando vieron a una perrita asomar la cabeza por un agujero del cero de madera que separaba su terreno del de los vecinos. Sin dificultad alguna, el animal se metió por el agujero y corrió hacia ellos, moviendo la cola con entusiasmo. No era la primera vez que la pareja veía a la perra, llamada Bella. De hecho, días atrás la habían cruzado deambulando sola por el vecindario. Sabían que era parte de una familia que vivía calle abajo y que a menudo se escapaba de su propiedad, pero les preocupaba su seguridad. Escapó de un campo, lo atropellaron en la autopista y su grito de dolor alertó a su madre: “Hicimos todo lo posible” Pero esa tarde, Crystal y Seth se sorprendieron de lo rápido que Bella se sintió cómoda en su jardín. Luego de que hiciera un cariñoso saludo, inmediatamente se acostó panza arriba y pidió que la acariciaran. La pareja se sorprendió cuando Bella regresó al día siguiente, y también al siguiente. Desde entonces, Crystal y Seth empezaron a esperar con ilusión las frecuentes visitas de Bella y rápidamente se enamoraron de su personalidad increíblemente extrovertida y cariñosa. Bella disfrutaba corriendo en círculos por el jardín de Seth y Crystal. Se sentaba sobre sus regazos para recibir caricias y luego volvía a correr y revolcarse en el pasto. A veces, después de un largo día de juegos y mimos, Bella se acurrucaba y se quedaba dormida en el sofá del patio trasero. “Siempre nos daba un poco de pena cuando Bella se iba de casa”, dijo Seth. Los días que Bella no pasaba a visitarlos, Crystal y Seth la extrañaban. Miraban con nostalgia el agujero del cerco de madera y deseaban que su cabecita asomara. “Fue entonces cuando nos dimos cuenta de que no se trataba solo de la perra del vecino”, dijo Crystal a un medio local. Ese verano, Crystal y Seth tuvieron que despedirse de su querida perra Dooney, su dachshund de 17 años que ya estaba viejita. “No e",
-      "link": "https://www.lanacion.com.ar/lifestyle/guiada-por-su-instinto-cruzaba-al-patio-del-vecino-por-un-agujero-en-el-cerco-para-sanar-una-perdida-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 03:32:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/43SMIXMUNFAQVIR6S4JXJOEB7A.jpg?auth=b9ba3d635ec3e76a4ffd8c97aa99ac14feba5b9c85c3713d59b942d0ef390f63&smart=true&width=1440&height=1920",
-      "subcat": "herramientas"
-    },
-    {
       "id": "154e3d2a34b46d6dd534",
       "title": "Regularización de migrantes: “Tener papeles nos salva la vida”",
       "summary": "De izquierda a derecha, de arriba abajo, César Verdún (Paraguay), Othmane Nahi (Marruecos), Lilia Lozano (Honduras), Frank Daniel Padrón Rojas (Cuba), Angélica María Victoriano (El Salvador) y Elena Pérez (Honduras).",
@@ -1180,12 +1544,12 @@
     {
       "id": "6367691baa20e597cbd8",
       "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venció Aureliano al mar",
-      "summary": "Aureliano Mendes , superviviente tras estar 14 días a la deriva con su velero en el Mediterráneo, fotografiado en el Puerto Deportivo de Gandía desde donde salió.",
+      "summary": "Aureliano Mendes, superviviente tras estar 14 días a la deriva con su velero en el Mediterráneo, fotografiado en el Puerto Deportivo de Gandía desde donde salió.",
       "link": "https://elpais.com/espana/2026-05-03/doce-dias-a-la-deriva-sin-motor-ni-radio-y-con-olas-de-cinco-metros-asi-vencio-aureliano-al-mar.html",
       "pubDate": "Sun, 03 May 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TTCUK6CDYFCQVI5OBHSX6N6M3U.jpg?auth=4cc6ef73af3cb809877d8390e5ee4847fa5d3e86017e0290daadefd612ef6ca4"
+      "image": "https://imagenes.elpais.com/resizer/v2/NCBAD2PQZ5GC7H6POAUKBWWCZ4.jpg?auth=dd436fff86412d479912a39df42aefc4c375b7b1bd8d19ff8b75e7408ebc3096"
     },
     {
       "id": "d3c141362725c09debbf",
@@ -1198,14 +1562,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/I537EOPKVJCQNGGOCQWAKMO7OU.jpg?auth=c99ddd1ef6c336b7870712dbf64f186ec7894d0f4c6a534513745b57e105342a"
     },
     {
-      "id": "a13fc4cff8e080034bad",
-      "title": "EE UU y la democracia cautiva",
-      "summary": "Si la institución que debe custodiar las reglas del juego pasa a reescribirlas en sincronía con uno de los jugadores, lo que se pierde no es esa partida, sino la idea misma de que hay reglas. La erosión de la democracia empieza cuando desaparecen los árbitros imparciales, no cuando gana el bando equivocado. Eso es lo que ha hecho el Tribunal Supremo de EE UU al dejar sin efecto la norma que, durante seis décadas, protegió el voto de las minorías . El argumento del tribunal, redactado por el juez Alito, invierte la lógica de la enmienda invocada, la Decimocuarta, escrita en 1868 para proteger a los antiguos esclavos, y la relee como una prohibición de protegerlos. Tener en cuenta la raza para remediar la discriminación racial sería, según Alito, una forma de discriminación racial. Es un truco conocido: usar el lenguaje liberal-universalista para vaciarlo desde dentro. Seguir leyendo",
-      "link": "https://elpais.com/opinion/2026-05-03/ee-uu-y-la-democracia-cautiva.html",
+      "id": "aeb41fc6d3ea2242e973",
+      "title": "Alfabeto del macho alfa",
+      "summary": "De madrugada el despertador taladra nuestros sueños. Es el heraldo chillón de los horarios y las obligaciones, de las tareas nuestras de cada día. En esos instantes todavía oníricos, entre bostezos, alguien añora tal vez una vida sin jefes ni imposiciones. En lugar de legañas y atascos de tráfico, imagina un mundo a su mando, una vida sometida solo a su voluntad. Y mientras acalla a la fiera aulladora que da la hora desde la mesita de noche, fantasea con parecerse a esos animales salvajes y pletóricos que aterrorizan la selva. Al parecer, existen tantos hombres deseosos de encarnar la quimera del macho alfa que ha nacido un nuevo negocio: el mercado ofrece campamentos de endurecimiento para padres e hijos, concebidos por gurús del ramo. Prometen largas tandas de flexiones, baños en agua helada y rutas reptando entre barrizales y alambradas, amenizadas por arengas de marines retirados, todo incluido. Garantizan la inmediata transformación en un tipo duro y triunfador, un auténtico jefe de la manada. Seguir leyendo",
+      "link": "https://elpais.com/opinion/2026-05-03/alfabeto-del-macho-alfa.html",
       "pubDate": "Sun, 03 May 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/WAPJNAEZQBHGFFVGARL3XKXJX4.jpg?auth=d17e3e6eda9fa348f4f0bd36f507cdde46671cf2e750b19b86449fe3ff0c3c45"
+      "image": "https://imagenes.elpais.com/resizer/v2/PWNIVOLG7NFIBGOHVEKAEIDKRI.jpg?auth=e4f043c29b64b2b7413e37ca2d48d662484836241db600461f3f3626b80de0bc"
     },
     {
       "id": "63ffbef656334bc409db",
@@ -1215,7 +1579,7 @@
       "pubDate": "Sun, 03 May 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/DUGGSACM3ZOLHDDGQ7UCBVSDXY.jpg?auth=e212e2bed9410dff8c2a7449b3f4be0749735c150ceeacd220dd780cb40fc478"
+      "image": "https://imagenes.elpais.com/resizer/v2/CURZDJG63FFT7DD2RJVPKHSBPU.jpg?auth=f8dc26caf64840e4bd4bc9758422b9ffe0526f8423edbb725bbd499f51ee5076"
     },
     {
       "id": "f621c22fc273dfc33827",
@@ -1257,6 +1621,16 @@
       "cat": "ia",
       "image": "https://imagenes.elpais.com/resizer/v2/NLDM7K7C5ZOWZJ5YRZTV4INW6A.jpg?auth=b4658e1f4f33c1c776687b31cc87dfa250ff9b94df6b37636d51e2c739bd7d50",
       "subcat": "herramientas"
+    },
+    {
+      "id": "2314f8fc0515e36647b1",
+      "title": "Jacqueline Bisset: “Hay tanto dolor en el mundo que hablar de cine me parece irrelevante”",
+      "summary": "Jacqueline Bisset, ayer en Zaragoza, en el festival Saraqusta, en un retrato cedido por el festival.",
+      "link": "https://elpais.com/cultura/cine/2026-05-03/jacqueline-bisset-hay-tanto-dolor-en-el-mundo-que-hablar-de-cine-me-parece-irrelevante.html",
+      "pubDate": "Sun, 03 May 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/AWANRCX5MND45JCMDOVLSJB3QM.jpeg?auth=9ca2b519436f4642344c675fe6768a85ee79bf0064b6ae8f14471dda642f04fa"
     },
     {
       "id": "25567bb49258e54b8cc6",
@@ -1321,75 +1695,24 @@
       "image": "https://imagenes.elpais.com/resizer/v2/TVCACDCL75HPBC563LBC3BNK54.jpg?auth=e7e3affeabc2ec3265850734d453dd16cb2cd35de988fc5f021b5504fae55385"
     },
     {
-      "id": "b2f6049b18b5de51959b",
-      "title": "El galardonado restaurante de Brasil que sirve un cultivo premium de origen argentino",
-      "summary": "El chef Iván Ralston está al frente de la cocina junto a Catherina Kordás, su esposa, madre de sus tres hijos y directora del Centro de Investigación y Creatividad de Tuju , la usina creativa que destacó Michelin en la distinción. Junto a Evvai , otro ganador de las tres estrellas, Brasil pasa a ser el único país de la región con dos referentes que ostentan el máximo galardón internacional. La pareja montó un laboratorio experimental, conocido como Tuju Pesquisa, en el corazón del barrio Jardín Paulista. Todo parte de una receta imbatible: generar sabores desde el territorio, la temporada de lluvias y la “brasilidad”, como adn en cada detalle. Los pequeños productores, la mayoría de São Paulo, nutren al centro de investigación que los elige si cumplen con la premisa de trabajar de manera justa, ética y sostenible. Así, contactaron a Trufas Argentinas, pioneros del cultivo de este diamante negro, en Coronel Suárez, provincia de Buenos Aires. En Tuju la experiencia involucra todos los sentidos. Desde la humedad, la vegetación y la cultura paulista hasta la trazabilidad de cada ingrediente, explicada con rigor. La entrada al espacio proyectado por el reconocido arquitecto Angelo Bucci en tres plantas funciona como advertencia: la propuesta requiere moverse, subir, volver a bajar, atravesar el jardín interior y recorrer este dispositivo brutalista de madera, vidrio y hormigón. Alrededor de una frondosa jabuticaba arranca la travesía, con cócteles de autor y aperitivos que combinan cangrejo, maní, hojas de la huerta. Junto a una cava de dos pisos y más de 2 mil etiquetas, es la antesala de un menú de 11 pasos que tiene como escenario principal el salón con la cocina abierta. Allí desfila un equipo de artesanos del detalle, profesionales silenciosos que siguen una coreografía meticulosa. Ostras, erizo de mar, tomates, mero, cordero, mango y cacao con cardamomo son apenas algunas de las propuestas, maridadas con vinos de la Patagonia, de Italia, Francia y Portugal, entre o",
-      "link": "https://www.lanacion.com.ar/revista-lugares/el-galardonado-restaurante-de-brasil-que-sirve-un-cultivo-premium-de-origen-argentino-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 03:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZM7WCK65FVGDFHZ3RBUPWXYQGU.jpg?auth=31683b5085cb8c96f0d3f12902754efda5f286ee3b997c1a4f8d5d9eeed5b1b1&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "44923608d5ff85971de4",
-      "title": "El pueblo que fue cuna de San Martín y hoy cuenta con apenas 1500 habitantes",
-      "summary": "Nació en el siglo XVII como uno de los 30 pueblos a los que la Compañía de Jesús dio vida en lo que hoy es Paraguay, Argentina y Brasil. Como parte de la orden creada por San Ignacio de Loyola en 1540, aglutinó a alrededor de 8.000 guaraníes y era toda una ciudadela. La misión se llamaba Nuestra Señora de los Santos Reyes de Yapeyú y había sido fundada el 4 de febrero de 1627 por Roque González de Santa Cruz, un sacerdote de origen español nacido en Asunción. Dedicada a la cría de ganado vacuno, funcionó como una gran fuente de ingresos para la orden. Ubicado a 720 km de Capital Federal, por la RN 14, Yapeyú se levanta sobre el río Uruguay y condensa el espíritu correntino, calmo y gauchesco. Su ejido tiene un tramado regular, de diez cuadras por diez. Los nombres de las calles hacen alusión a José de San Martín y su historia: homenajean a sus padres, a sus laderos en la gesta emancipadora y sus batallas más famosas. Claro que la avenida principal se llama Del Libertador. Yapeyú se recorre con un ojo en el pasado: conviene mirar las calles, plaza y ruinas en función de qué estaba dónde. La iglesia principal se levantaba sobre lo que luego fue el Museo Jesuítico Guillermo Furlong, cerrado hace algunos años. Muy cerca también se encontraban el colegio, los talleres, el hospedaje y un cementerio, todo frente a la plaza. Mientras que el coti guazú –donde se recluía a viudas, huérfanos y madres solteras– estaba en el predio que actualmente ocupa el Museo Histórico de Yapeyú, inaugurado en agosto de 2021 y muy bien puesto. Expone piezas precolombinas, otras tantas jesuíticas y coloniales, y también militares, como uniformes y espadas. En tanto, la antigua Plaza de Armas es la actual Plaza San Martín, que abarca dos manzanas y estaba rodeada de las casas de los guaraníes, donde todavía se descubren los antiguos muros de piedra. ¿Cómo es que el Libertador nació en Yapeyú? Su historia está íntimamente ligada a las misiones jesuíticas. Su padre, el militar español Juan de San",
-      "link": "https://www.lanacion.com.ar/revista-lugares/el-pueblo-que-fue-cuna-de-san-martin-y-hoy-cuenta-con-apenas-1500-habitantes-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 03:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/W2URLSZYSJEPJCPZRGUZ3QNMWA.jpg?auth=cf5d1905ea07177e10c1727efaabaf6d1d39955f4364934c10f89a6cc4bf030a&smart=true&width=5616&height=3744",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "a0849f8b6873815e57da",
-      "title": "El taxi aéreo silencioso que conecta JFK con Midtown en minutos ya vuela en Nueva York: cuánto costará el pasaje",
-      "summary": "La compañía Joby Aviation comenzó una serie de vuelos de prueba con taxis aéreos eléctricos en Nueva York . Se trata de aeronaves de despegue y aterrizaje vertical diseñadas para conectar distintos puntos de la ciudad con aeropuertos cercanos. Ya se estiman los precios para los futuros pasajeros . Cuánto costará viajar en los taxis aéreos de Joby Aviation entre Manhattan y JFK Aunque el servicio aún no está disponible para el público de forma regular, la empresa anticipó valores de referencia para los futuros viajes. “ Nuestro objetivo es ser competitivos con el transporte terrestre a largo plazo ”, dijo JoeBen Bevirt, director ejecutivo de Joby Aviation, según Fox News . La campaña forma parte de ‘ Electric Skies: Joby’s US Tour 2026 ’, una gira nacional vinculada a las celebraciones por el 250 aniversario de EE.UU. que ya tuvo exhibiciones en el área de la Bahía de San Francisco. Según estimaciones, un vuelo entre Midtown Manhattan y el Aeropuerto Internacional John F. Kennedy podría costar entre US$150 y US$250 . Estos precios toman como referencia el valor actual del transporte terrestre de lujo como Uber Black , el nivel premium de la plataforma de viajes compartidos. De acuerdo con el New York Post , el lunes 27 de abril el costo por el servicio de Uber Black era de: De Midtown Manhattan al Aeropuerto JFK: alrededor de US$193 . De Midtown Manhattan al Aeropuerto Newark: alrededor de US$190 . De Midtown Manhattan al Aeropuerto LaGuardia: alrededor de US$125 . El proyecto apunta a reducir los tiempos de traslado entre Manhattan y terminales aéreas . Trayectos que por vía terrestre pueden demandar entre una y dos horas podrían completarse en pocos minutos mediante este sistema. Las pruebas forman parte de una etapa previa a la operación comercial, que aún requiere aprobación regulatoria . Durante este período se realizan demostraciones con el objetivo de validar el funcionamiento del servicio. Joby Aviation inicia vuelos de prueba entre Manhattan y JFK en Nueva Y",
-      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/el-taxi-aereo-silencioso-que-conecta-jfk-con-midtown-en-minutos-ya-vuela-en-nueva-york-cuanto-nid03052026/",
-      "pubDate": "Sun, 03 May 2026 03:27:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/YHR5EHA22VFLREBBFGMPQF6ZNM.jpg?auth=807ed08eee6c238ff3edbc46931bfeceb594e78a9ea94b18f5b8c4e126780a79&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "765fd9100582ba5b6241",
-      "title": "Donald Trump planteó dudas sobre la propuesta de 14 puntos enviada por Irán: “No puedo imaginar que sea aceptable”",
-      "summary": "El presidente de Estados Unidos , Donald Trump , advirtió este sábado, según consigó AFP , que prevé reducir “drásticamente” el número de soldados estadounidenses en Alemania , tras un primer anuncio sobre la retirada de 5.000 efectivos. Dicha advertencia por parte del mandatario estadounidense surge después de que el canciller alemán, Friedrich Merz , considerara el pasado lunes que Washington no tiene “ninguna estrategia” en Irán , y que la república islámica ha “humillado” a Washington . En declaraciones a periodistas, Donald Trump señaló que existe la posibilidad de que Estados Unidos vuelva a atacar Irán , según consignó The Times of Israel . Donald Trump señaló que pronto revisará la propuesta enviada por Irán con el objetivo de poner fin a la guerra. Sin embargo, adelantó que duda que sea aceptable . “Aún no han pagado un precio suficientemente alto por lo que le han hecho a la humanidad y al mundo durante los últimos 47 años”, escribió el mandatario estadounidense en su cuenta de Truth Social. Irán respondió a Estados Unidos con una propuesta de 14 puntos , según indicó CNN . El objetivo de la misma es por fin a la guerra “en todos los frentes”, lo que incluye también a Líbano . También incluye la liberación de activos iraníes congelados, levantamiento de sanciones y generar un “nuevo mecanismo” para el estrecho de Ormuz . Previamente el país conducido por Donald Trump había acercado un planteo que incluía nueve puntos. BERLÍN.– Alemania y la OTAN apostaron este sábado por reforzar la autonomía en defensa de Europa después de que Estados Unidos anunciara la próxima retirada de 5000 soldados desplegados en ese país europeo. La medida anunciada el viernes por el Pentágono representa un nuevo revés a las relaciones transatlánticas, deterioradas severamente desde el regreso a la Casa Blanca del mandatario republicano Donald Trump. La cifra representa alrededor de un 15% de los 35.000 soldados estadounidenses presentes en el país europeo. Pero el ministro de Defe",
-      "link": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-sabado-2-de-mayo-nid02052026/",
-      "pubDate": "Sun, 03 May 2026 03:24:45 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/FAWBRMHQ55EH3DQEI56MQOF7FU.JPG?auth=9fc8009b048584b9a2fbead05d0baf6ac64a76082d6207d704c85f54d51a5238&smart=true&width=5549&height=3699"
-    },
-    {
-      "id": "a7cfdedd5878081a72c0",
-      "title": "Imágenes satelitales muestran 40 lanchas rápidas de ataque de Irán, aunque Trump afirmara que destruyó su Armada",
-      "summary": "En las fotos se puede ver embarcaciones de la nación persa regresando de patrullar por el estrecho de Ormuz.",
-      "link": "https://actualidad.rt.com/actualidad/602770-imagenes-satelitales-muestran-40-lanchas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 03:18:54 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6b23de9ff7154b70b7711.jpg"
-    },
-    {
-      "id": "2b57b53955995a848ea2",
-      "title": "Leila Guerriero felicita a EL PAÍS: “Es un espacio de defensa del periodismo bien hecho”",
-      "summary": "La felicitación de Leila Guerriero a EL PAÍS",
-      "link": "https://elpais.com/aniversario/2026-05-03/leila-guerriero-felicita-a-el-pais-es-un-espacio-de-defensa-del-periodismo-bien-hecho.html",
-      "pubDate": "Sun, 03 May 2026 03:15:00 GMT",
+      "id": "5e554d610863f4847b87",
+      "title": "A la caza del teletrabajador tramposo: estas son las herramientas que usan las empresas para detectar a los impostores",
+      "summary": "Hay sistemas que permiten supervisar cómo se utiliza el ordenador corporativo. Ilze Kalve (GETTY IMAGES)",
+      "link": "https://elpais.com/economia/negocios/2026-05-03/a-la-caza-del-teletrabajador-tramposo-estas-son-las-herramientas-que-usan-las-empresas-para-detectar-a-los-impostores.html",
+      "pubDate": "Sun, 03 May 2026 03:30:00 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/24DBV77HVFEYVL3FLGITWVQUOM.jpg?auth=849f3ef7bfc87bd7c673f92d17fe645eda83ec0dd54a6886ad9121005c995f2f"
+      "image": "https://imagenes.elpais.com/resizer/v2/GFAYV4SYQZHDVB67XLRNPIT5QM.jpg?auth=85d10a1cee1dbae2c6dfe6cc454aa32465be6cd2a5ca0ce81db4efd057634c27"
     },
     {
-      "id": "ef4dfc26216bd5d99343",
-      "title": "Ministro de Seguridad israelí celebra su cumpleaños con un pastel decorado con una soga (VIDEO)",
-      "summary": "La soga hace referencia a la controvertida ley aprobada a finales de marzo que impone la pena de muerte a palestinos condenados por \"actos terroristas mortales\".",
-      "link": "https://actualidad.rt.com/actualidad/602771-ministro-israeli-celebra-cumpleanos-torta-horca-video?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 03:06:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6b35ee9ff710dd279aa23.jpg"
+      "id": "f906c95338c334737c09",
+      "title": "Ni a mujeres, ni a gais: ¿a quién le gustan exactamente los cuerpos musculados de ‘bro de gimnasio’?",
+      "summary": "Dos mujeres pasan por delante de un anuncio de bañadores en California en 2012. Los anuncios de ropa interior masculina son un gran termómetro de los cuerpos que estaban de moda en cada momento.",
+      "link": "https://elpais.com/icon/2026-05-03/ni-a-mujeres-ni-a-gais-a-quien-le-gustan-exactamente-los-cuerpos-musculados-de-bro-de-gimnasio.html",
+      "pubDate": "Sun, 03 May 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/JYVP2KI7DJCWNF4QPCGO7DPDME.jpg?auth=0bf4001bb9ab3043d176f47b6d0237d0599edceef907ba5a1c268954396e5cd5"
     },
     {
       "id": "491f94408a7538c6bb66",
@@ -1512,16 +1835,6 @@
       "image": "https://static.eldiario.es/clip/f7feb019-ec05-4e40-8d3c-4d8665b1618d_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "bbfde72cf5c5e131f572",
-      "title": "Más de 8.000 cuerpos siguen bajo los escombros en Gaza",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/602776-8000-cuerpos-siguen-escombros-gaza?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 03:02:24 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "b0606f4141465a29fec2",
       "title": "Mortal Kombat 2 presenta la pelea entre Liu Kang y Kung Lao",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Dos guerreros que lo fueron todo en la primera película. Dos amigos que ahora se enfrentan porque uno de ellos ya no es el mismo. La pelea entre Liu Kang y Kung Lao en Mortal Kombat 2 era uno de los momentos más cargados de potencial del filme, y el clip recién publicado confirma que esa promesa no se ha quedado a medias. El enfrentamiento que se intuía desde que se supo que Kung Lao volvía, por fin tiene imágenes. Y lo que muestran merece atención, porque aquí no hablamos de una pelea más de relleno. Hablamos de uno de los combates con más peso emocional de toda la saga. Un reencuentro que no debería ser posible en Mortal Kombat 2 Kung Lao y Liu Kang En la primera entrega, Kung Lao (Max Huang) moría de una de las formas más duras que podías imaginar: Shang Tsung no solo acababa con él, sino que le absorbía el alma mientras Liu Kang llegaba tarde para impedirlo. Era un golpe narrativo bien ejecutado, de los que te dejan con el mal cuerpo durante el resto de la película. Que Kung Lao aparezca ahora en Mortal Kombat 2 no es por tanto una simple vuelta de un personaje popular. Es la consecuencia directa de lo que le hizo Shang Tsung: su alma está corrompida, y eso lo convierte en algo más peligroso que un simple rival. Es un amigo perdido que ahora lucha contra Liu Kang (Ludi Lin) desde ese lado oscuro, con todo el conocimiento que tienen el uno del otro y sin ninguna de las lealtades que los unían. El clip lo refleja muy bien. La pelea empieza con una dinámica de tanteo mutuo, con paradas y esquivas que delatan exactamente eso: dos guerreros que se conocen demasiado bien como para ir a lo bruto desde el primer segundo. Saben cómo piensa el otro, saben cómo se mueve, saben cuándo atacar y cuándo retroceder. Y esa familiaridad es precisamente lo que hace que el combate resulte tan especial visualmente. Here&#8217;s the full Liu Kang vs Kung Lao MK2 clip that dropped today if you still haven&#8217;t seen it ye",
@@ -1530,46 +1843,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/Liu-Kang-y-Kung-Lao.jpg"
-    },
-    {
-      "id": "ac38fc107b65e51fa1c5",
-      "title": "VIDEO POLICIAL: Tensa persecución termina en choque y balacera mortal",
-      "summary": "Un hombre murió abatido por agentes de Policía en Milwaukee, estado de Wisconsin (EE.UU.), después de protagonizar una persecución que terminó en un enfrentamiento armado. El sujeto, que huía a bordo de un vehículo vinculado a una investigación por homicidio, chocó y luego abrió fuego contra los oficiales que lo perseguían. Los hechos ocurrieron el 13 de abril. Días después, se hicieron públicos los videos de las cámaras portátiles de los policías, en los que se observa el momento del tiroteo.",
-      "link": "https://actualidad.rt.com/actualidad/602774-video-policial-tensa-persecucion-termina-choque-balacera-mortal?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 03:01:00 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6ba2a59bf5b39ed0df56c.jpg"
-    },
-    {
-      "id": "09d960fab9824a61dba9",
-      "title": "VIDEO: Una playa se transforma en una 'alfombra roja de muerte' por esta razón",
-      "summary": "Una playa en Omán se tiñe de tonos rojos y rosa debido a grandes cantidades de camarones y krill muertos que llegaron a la orilla. El fenómeno ha sido vinculado a los cambios en las condiciones oceánicas y las corrientes. En el video parece que el agua tiene esta tonalidad rojiza, pero cuando la cámara se acerca al suelo se observa la enorme acumulación de estos crustáceos muertos.",
-      "link": "https://actualidad.rt.com/viral/602775-video-playa-oman-alfombra-roja-muerte-razon?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 03 May 2026 02:57:03 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mfes.b37m.ru/actualidad/public_images/2026.05/thumbnail/69f6b93de9ff71637f6f3859.jpg"
-    },
-    {
-      "id": "f2d5cd9a73bda98c4381",
-      "title": "Cambio de horario en la carrera de F1 por el peligro de tormentas",
-      "summary": "Verstappen, en lluvia, en una imagen de 2025.",
-      "link": "https://www.marca.com/motor/formula1/gp-miami/2026/05/03/carrera-f1-miami-adelanta-tres-horas-peligro-tormentas-oficial.html",
-      "pubDate": "Sun, 03 May 2026 02:04:25 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f68fc66912d.jpeg"
-    },
-    {
-      "id": "d046763868b701b9a87c",
-      "title": "Las portadas del día",
-      "summary": "Así vienen las primeras páginas de este domingo 3 de mayo de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/05/03/portadas-dia-victoria-aliron-liga-punto.html",
-      "pubDate": "Sun, 03 May 2026 01:10:27 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/03/69f681bb5a6e1.jpeg"
     },
     {
       "id": "47ef21054f7c4449b272",
@@ -1592,16 +1865,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/Untitled-design-33.jpg"
     },
     {
-      "id": "b62cf08f815cbd3dac44",
-      "title": "Alonso sufre... y pone una fecha a la reacción: \"No antes de la carrera 14\"",
-      "summary": "Alonso sale de boxes en la clasificación.",
-      "link": "https://www.marca.com/motor/formula1/gp-miami/2026/05/02/alonso-sufre-pone-fecha-reaccion-carrera-14.html",
-      "pubDate": "Sat, 02 May 2026 23:52:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66a595f8f1.jpeg"
-    },
-    {
       "id": "32f67b2385423c16cbde",
       "title": "Top Gun 3 ya tiene lista de posibles directores y hay sorpresas",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Durante la CinemaCon, el CEO de Paramount/Skydance, David Ellison, reveló ante la audiencia que Top Gun 3 está oficialmente en camino. El protagonista indiscutible, Tom Cruise, está listo para retomar su icónico papel como Pete «Maverick» Mitchell, con Jerry Bruckheimer regresando una vez más a las labores de producción. Aunque David Ellison pudo haber sido un poco prematuro al anunciar la película, ya que todavía falta mucho para que entre en fase de producción, ahora tenemos la confirmación formal de que, efectivamente, se está escribiendo un guion. Sin embargo, esto no es exactamente una novedad: el coescritor de Top Gun: Maverick , Ehren Kruger, fue contratado para redactar el libreto hace dos años, y se cree que Christopher McQuarrie también está involucrado, tras haber revelado el año pasado que ya había descifrado la historia de la secuela. Miles Teller en Top Gun: Maverick La búsqueda de un nuevo director para Top Gun 3 Lo que se omitió en ese anuncio reciente fue el nombre de un director para la secuela. Joseph Kosinski dirigió Top Gun: Maverick, pero al estar ocupado con el proyecto de Miami Vice &#8217;85 , se ha confirmado que no regresará para la continuación. Naturalmente, muchos fanáticos asumieron que Cruise recurriría a su colaborador de toda la vida, Christopher McQuarrie, para tomar el mando; sin embargo, un nuevo informe de The InSneider afirma que McQuarrie tampoco está en consideración después de que Mission: Impossible &#8211; Dead Reckoning y Mission: Impossible &#8211; The Final Reckoning no cumplieran con las expectativas de taquilla. En su lugar, McQuarrie se encargará de una secuela de Conan el Bárbaro con Arnold Schwarzenegger y se encuentra en las primeras etapas de desarrollo de una película de Battlefield con Michael B. Jordan. Aunque Top Gun 3 no será la próxima vez que trabajen juntos, Cruise y McQuarrie tienen otros proyectos en marcha, incluyendo un thriller de acción o",
@@ -1612,116 +1875,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/Tom-Cruise-Top-Gun-3.jpg"
     },
     {
-      "id": "458cdbd9824bb274cf52",
-      "title": "El Oporto de Gabri Veiga, Samu Sáinz y Samu recupera el trono del fútbol portugués",
-      "summary": "Bednarek celebra el gol de la victoria del Oporto junto a Gabri Veiga",
-      "link": "https://www.marca.com/futbol/liga-portuguesa/cronica/2026/05/02/oporto-gabri-veiga-samu-sainz-samu-recupera-trono-futbol-portugues.html",
-      "pubDate": "Sat, 02 May 2026 23:39:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66f17cc72b.jpeg"
-    },
-    {
-      "id": "b2645e4853fb10ca7774",
-      "title": "El Barça 'celebra' LaLiga en El Sadar",
-      "summary": "Los jugadores del Barcelona.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/05/02/barca-celebra-laliga-sadar.html",
-      "pubDate": "Sat, 02 May 2026 23:38:24 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66bade739d.jpeg"
-    },
-    {
-      "id": "dfb176ff381a75a43ea7",
-      "title": "Antonelli lo confirma en Miami con la pole",
-      "summary": "Antonelli celebra la pole en Miami su tercera en 2026.",
-      "link": "https://www.marca.com/motor/formula1/gp-miami/2026/05/02/antonelli-confirma-miami-pole-verstappen-decima.html",
-      "pubDate": "Sat, 02 May 2026 23:27:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66b2b98a5e.jpeg"
-    },
-    {
-      "id": "149bd6ee8c0a20fac461",
-      "title": "Osasuna 1-2 Barcelona | Resumen LaLiga",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/2026/05/02/osasuna-1-2-barcelona-resumen-laliga-video.html",
-      "pubDate": "Sat, 02 May 2026 23:19:03 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66a180bc88.jpeg"
-    },
-    {
-      "id": "e97b7938774862bc049e",
-      "title": "Flick: \"¿El partido del Real Madrid? Iré a ver al Mago Pop\"",
-      "summary": "Hansi Flick",
-      "link": "https://www.marca.com/futbol/barcelona/2026/05/02/hansi-flick-ganar-manana-nosotros-hemos-hecho-nuestro-trabajo.html",
-      "pubDate": "Sat, 02 May 2026 23:12:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f61fe7030a3.jpeg"
-    },
-    {
-      "id": "b32531cdad44cffef4b6",
-      "title": "La voltereta hacia atrás con la que Kostyuk celebró su primer Másters 1000",
-      "summary": "La tenista ucraniana lo celebró a lo grande sobre la tierra batida de la Manolo Santana",
-      "link": "https://www.marca.com/tenis/mutua-madrid-open/2026/05/02/voltereta-atras-kostyuk-celebro-primer-masters-1000-video.html",
-      "pubDate": "Sat, 02 May 2026 23:04:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/ar9au1fzc25BdFjMW.jpeg"
-    },
-    {
-      "id": "63c468569dd2ca99f118",
-      "title": "Un inconformista Málaga asalta Ipurua y regresa a la zona noble a costa del Eibar",
-      "summary": "Magunagoitia impone su autoridad en el área ante Arambarri, Jair y Rafa Rodríguez",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/05/02/inconformista-malaga-asalta-ipurua-regresa-zona-noble-costa-eibar.html",
-      "pubDate": "Sat, 02 May 2026 22:59:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66131c1994.jpeg"
-    },
-    {
-      "id": "01df620432f94cc757ff",
-      "title": "Coca-Cola, palomitas y... a disfrutar",
-      "summary": "La contracrónica del Osasuna-Barcelona",
-      "link": "https://www.marca.com/futbol/barcelona/2026/05/02/coca-cola-palomitas-disfrutar.html",
-      "pubDate": "Sat, 02 May 2026 22:58:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f6653d1dfc7.jpeg"
-    },
-    {
-      "id": "94c3854f981c9a70c8e0",
-      "title": "El Barça quiere pasillo en el Clásico",
-      "summary": "Barcelona's Robert Lewandowski celebrates after scoring his side's opening goal during a Spanish La Liga soccer match between Osasuna and Barcelona in Pamplona, Spain, Saturday, May 2, 2026. (AP Photo/Miguel Oses)",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/05/02/barca-quiere-pasillo-clasico.html",
-      "pubDate": "Sat, 02 May 2026 22:55:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f66593a87d8.jpeg"
-    },
-    {
-      "id": "da06398f8bf3b952ff41",
-      "title": "La historia tras los 'calzoncillos de la suerte' que mostró Kostyuk",
-      "summary": ".",
-      "link": "https://www.marca.com/tenis/mutua-madrid-open/2026/05/02/historia-calzoncillos-suerte-mostro-kostyuk.html",
-      "pubDate": "Sat, 02 May 2026 22:51:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f6638a8d642.jpeg"
-    },
-    {
-      "id": "82cb7096e241c381502d",
-      "title": "¡El Schalke vuelve a la Bundesliga!",
-      "summary": "Las gradas del Veltins Arena",
-      "link": "https://www.marca.com/futbol/bundesliga/2026/05/02/schalke-vuelve-bundesliga.html",
-      "pubDate": "Sat, 02 May 2026 22:28:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f65e7e9a95a.jpeg"
-    },
-    {
       "id": "92776342e932855ba523",
       "title": "Marvel lanza Vengadores: Armageddon con Capitán América enfrentándose a Doctor Doom",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Chip Zdarsky tiene en marcha uno de los eventos más ambiciosos que ha vivido la línea Marvel en años. Vengadores: Armageddon no es una crisis más: es la sacudida que va a redefinir quiénes son los Vengadores cuando todo acabe. Y agosto nos da las primeras pistas reales de hacia dónde va todo esto. Marvel ha desvelado los detalles de los dos números clave que llegarán ese mes: Avengers: Armageddon #3 y Captain America #14 . Dos piezas que avanzan la historia en paralelo y que, juntas, dejan claro que esto va en serio. Qué es Vengadores: Armageddon y por qué importa ahora Para entender el alcance de lo que está preparando Zdarsky, hay que situarse. Vengadores: Armageddon es una miniserie de cinco números que arrancó en junio con arte de Delio Diaz y Frank Alpizar. El detonante: Thaddeus «Thunderbolt» Ross, el Hulk Rojo, se apodera de Latveria y amenaza con desatar un conflicto global. Los Vengadores se movilizan para detenerle, pero la situación se les escapa de las manos con rapidez. La comparación que hace Marvel con Vengadores: Disassembled no es un recurso publicitario vacío. Aquel evento de 2004, escrito por Brian Michael Bendis , destrozó al equipo y abrió paso a una era completamente nueva. Aquí se promete un impacto similar: el número 3 ya adelanta que habrá una nueva formación post-Armagedón, lo que confirma que varios de los Vengadores actuales no saldrán de esto igual&#8230; o no saldrán. Capitán América y Doctor Doom contra Mephisto: la alianza más improbable del año Mientras el caos se extiende por el mundo, Steve Rogers tiene sus propios problemas. Atrapado lejos de la Tierra, desesperado por volver y detener el Armagedón, el Capitán América se ve obligado a hacer lo que nunca pensó que haría: asociarse con Victor Von Doom . Marvel Comics Captain America #14 , con arte de Ton Lima y portada de Valerio Schiti, lleva esa alianza a un terreno todavía más retorcido. Los dos están buscando el Antid",
@@ -1730,16 +1883,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/Capitan-America-vs-Doctor-Doom.jpg"
-    },
-    {
-      "id": "1cdb9a85141b96ba94fd",
-      "title": "Nunca jamás viste así a Valverde: así celebró sus 500 partidos como técnico del Athletic",
-      "summary": "La plantilla le regaló una camiseta conmemorativa tras su victoria ante el Alavés",
-      "link": "https://www.marca.com/futbol/athletic/2026/05/02/nunca-jamas-viste-asi-valverde-asi-celebro-500-partidos-tecnico-athletic-video.html",
-      "pubDate": "Sat, 02 May 2026 21:37:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/yxSHQC.jpeg"
     },
     {
       "id": "9a22c35b6352ae0eb5f0",
@@ -1760,76 +1903,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/ZTZENU5E4BAC3GXTNP7XIJBNMI.jpg?auth=c7e17bdeb676ebaf7fa0ceaaa943d3874cc19332a97d54cd5b134d5a2e16faa6"
-    },
-    {
-      "id": "ca7032375f76dd739699",
-      "title": "Ansu Fati resucita al Mónaco",
-      "summary": "Ansu Fati celebra su gol contra el Metz",
-      "link": "https://www.marca.com/futbol/liga-francesa/cronica/2026/05/02/ansu-fati-resucita-monaco.html",
-      "pubDate": "Sat, 02 May 2026 21:12:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f64cb18a7fa.jpeg"
-    },
-    {
-      "id": "fec340988a9ba53843fd",
-      "title": "Pepe Martí: \"Estar en los puntos empieza a ser común... pero siempre quieres más\"",
-      "summary": "Martí ya ha superado en la clasificación general a su compañero, Dan Ticktum",
-      "link": "https://www.marca.com/motor/formula-e/gp-berlin/2026/05/02/pepe-marti-puntos-empieza-comun-siempre-quieres.html",
-      "pubDate": "Sat, 02 May 2026 21:07:10 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f64710328ce.jpeg"
-    },
-    {
-      "id": "446acf13be4e66f4a0eb",
-      "title": "Alavés 2-4 Athletic | Resumen LaLiga",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/2026/05/02/alaves-2-4-athletic-resumen-laliga-video.html",
-      "pubDate": "Sat, 02 May 2026 20:58:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f64908cf200.jpeg"
-    },
-    {
-      "id": "6fdd3759f64f504a3b97",
-      "title": "Michael J. Sandel reclama a la izquierda “poner en el centro la dignidad del trabajo”",
-      "summary": "El filósofo Michael Sandel, este sábado en el Festival de EL PAÍS.",
-      "link": "https://elpais.com/aniversario/2026-05-02/michael-j-sandel-reclama-a-la-izquierda-poner-en-el-centro-la-dignidad-del-trabajo.html",
-      "pubDate": "Sat, 02 May 2026 20:41:15 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VXRDA2TPVRAUDHCUPHZ2XJCXW4.jpg?auth=415204e642a0c5f7597c63efe192ce142f3c6888fdacd9b57e0c61afa467a264"
-    },
-    {
-      "id": "5b6e13e187ef111d1b49",
-      "title": "Valencia 0-2 Atlético de Madrid | Resumen LaLiga",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/2026/05/02/valencia-0-2-atletico-madrid-resumen-laliga-video.html",
-      "pubDate": "Sat, 02 May 2026 20:37:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f6447601764.jpeg"
-    },
-    {
-      "id": "544d4d67c24a2732200c",
-      "title": "Nico provoca la tormenta en Mendizorroza",
-      "summary": "Nico Williams celebra uno de sus goles.",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/05/02/nico-provoca-tormenta-mendizorroza.html",
-      "pubDate": "Sat, 02 May 2026 20:37:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f6445504fd9.jpeg"
-    },
-    {
-      "id": "de1457097dec73906986",
-      "title": "Gyökeres se 'Saka' la máscara",
-      "summary": "Bukayo Saka celebrando el segundo gol del Arsenal contra el Fulham.",
-      "link": "https://www.marca.com/futbol/premier-league/cronica/2026/05/02/gyoekeres-saka-mascara.html",
-      "pubDate": "Sat, 02 May 2026 20:29:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/02/69f63835c8a98.jpeg"
     },
     {
       "id": "e88aad4c3935d6c355cd",
@@ -1862,16 +1935,6 @@
       "image": "https://static.eldiario.es/clip/b5d4485e-ba82-4280-b68f-8e5144acc85c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "a9b316b7e185d7fa18be",
-      "title": "En la sala de máquinas de EL PAÍS: así se decide la primera página",
-      "summary": "Reunión de primera de EL PAÍS, celebrada este sábado en el Festival por el 50 aniversario del diario.",
-      "link": "https://elpais.com/aniversario/2026-05-02/en-la-sala-de-maquinas-de-el-pais-asi-se-decide-la-primera-pagina.html",
-      "pubDate": "Sat, 02 May 2026 18:24:50 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/EMKMVYLIP5CUTANFNCEK6Y2YDM.jpg?auth=f00d9ef3eec986d8cde86e8b0b5cd5b06ca8d1cb5bd87bc0a16e0a1a74214b3b"
-    },
-    {
       "id": "2376952d11e13b47fe81",
       "title": "James Gunn aclara el canon del DCU y revela por qué algunos personajes del DCEU siguen siendo oficiales",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com James Gunn aclara el canon del DCU y revela por qué algunos personajes del DCEU siguen siendo oficiales. El arquitecto del nuevo universo DC reconoce que hay zonas grises y promete abordarlas pronto. Mientras tanto, deja algunas respuestas que importan más de lo que parecen. Cuando se lanzó el DCU como reinicio del universo DC en cine y televisión, quedó claro desde el principio que no iba a ser una tabla rasa total. Algunos elementos del DCEU anterior sobrevivieron al reseteo, y eso generó una pregunta que lleva meses flotando en el ambiente: ¿Qué es oficialmente canon y qué no? James Gunn acaba de reconocer que él mismo se lo está preguntando, y que tiene pensado dar respuestas concretas muy pronto. No es una evasiva ni una forma de ganar tiempo. Es la primera vez que el codirector de DC Studios admite públicamente que está revisando con criterio lo que The Suicide Squad y Blue Beetle aportan al nuevo DCU, y que antes de pronunciarse quiere volver a ver ambas películas sabiendo lo que sabe ahora, con casi tres años de desarrollo del nuevo universo encima de la mesa. El plan de James Gunn : un podcast especial para aclarar el canon La declaración llegó vía Threads, donde Gunn respondió a un usuario que le preguntaba directamente qué consideraba canon de Suicide Squad , The Suicide Squad y Blue Beetle . La respuesta fue más honesta de lo esperado: lleva tiempo pensando en ello, quiere revisarlo con perspectiva y está valorando grabar uno o varios podcasts especiales junto a Jen Walden y Steve Agee para abordarlo con calma. Y para que nadie se quede con las ganas, hasta lanzó la pregunta a sus seguidores: ¿Qué creéis que definitivamente NO es canon de esas películas? James Gunn (cordonpress) Por qué Peacemaker sobrevivió al reinicio Otra de las preguntas que Gunn respondió con una franqueza que se agradece tiene que ver con algo que muchos se han preguntado: ¿por qué se mantuvo el elenco de Peacemaker y no",
@@ -1890,16 +1953,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/pixel-10-0002-1-Airdrop.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "26e6e0d578f827bc851a",
-      "title": "Festival de EL PAÍS, día 2: de la inspiración de los columnistas a la reunión donde los jefes deciden la portada",
-      "summary": "Jan Martínez Ahrens director de El País coordina la reunión de primera página de El País, ante un grupo de lectores en el Festival de Periodismo El País.",
-      "link": "https://elpais.com/aniversario/2026-05-02/festival-de-el-pais-dia-2-de-la-inspiracion-de-los-columnistas-a-la-reunion-donde-los-jefes-deciden-la-portada.html",
-      "pubDate": "Sat, 02 May 2026 17:05:10 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/M3HOSG52HVAB3HXTA2GXLSOAPI.jpg?auth=27a91df2e748852807df3a833102364badcdf3ed9d3bfa28f48154b9f8410459"
     },
     {
       "id": "a0ae61f5b3e0d198be8e",
@@ -2176,16 +2229,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "795cb5f786ede10aff79",
-      "title": "Revelan cómo se siente Viggo Mortensen ante el nuevo Aragorn de El Señor de los Anillos",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Viggo Mortensen no será Aragorn en la nueva película de El Señero de los Anillos de 2027, a pesar de que regresarán algunos miembros del reparto original. Ahora, ha sido Andy Serkis quien ha revelado su postura y parece que apoya a su sustituto. El regreso de El Señor de los Anillos trae un cambio clave en Aragorn como la cara de Viggo Mortensen Con The Lord of the Rings: The Hunt for Gollum prevista para diciembre de 2027, la saga basada en la obra de J. R. R. Tolkien prepara su gran regreso al cine con una historia situada entre El Hobbit y La Comunidad del Anillo. Esta vez, el foco estará en Aragorn cuando aún es conocido como Trancos, en plena misión para encontrar a Gollum antes de que las fuerzas de Sauron lo hagan. Ese planteamiento ya era atractivo por sí solo, pero hay un elemento que lo cambia todo: el nuevo actor que dará vida al personaje. Jamie Dornan (50 sombras de Grey) toma el relevo de Viggo Mortensen , una decisión que inevitablemente ha generado dudas entre los fans. No es solo un cambio de cara, es sustituir una de las interpretaciones más icónicas del cine moderno. Jamie Dornan Andy Serkis revela la reacción de Viggo Mortensen Durante una entrevista en el podcast Happy, Sad, Confused con Josh Horowitz, Andy Serkis dejó caer una información que nadie esperaba tan pronto. Sin entrar en detalles de la película, sí quiso dejar claro cómo se siente Viggo Mortensen ante este cambio. Y su respuesta no deja lugar a dudas: Mortensen aprueba completamente la elección de Dornan. Según Serkis, el actor original está “100%” de acuerdo con el nuevo Aragorn. Este matiz es clave. No estamos ante una reacción ambigua ni diplomática, sino ante un respaldo directo, aunque filtrado a través del director. Y eso cambia completamente la percepción del proyecto. Por qué la opinión de Viggo Mortensen lo cambia todo En franquicias tan queridas como El Señor de los Anillos, el peso de los actores originales es ",
-      "link": "https://www.cinemascomics.com/como-se-siente-viggo-mortensen-nuevo-aragorn/",
-      "pubDate": "Sat, 02 May 2026 03:01:30 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/viggo-mortensen-aragorn-2001.jpg"
-    },
-    {
       "id": "e55215da4fe8a1005751",
       "title": "Maikel Dobarro y el tango disidente: bailar sin género, bailar para fugar",
       "summary": "En un tango todavía marcado por roles de género rígidos, el bailarín y docente Maikel Dobarro impulsa una práctica disidente que recupera una historia borrada: la posibilidad de bailar sin normas de género. Desde La Fuga, un espacio de tango en Almagro, cuenta cómo el cambio de roles, el abrazo y la milonga se volvieron también parte de su transición como persona trans masculina y no binaria. El tango argentino suele presentarse como un baile de roles de g nero r gidos, donde las mujeres con tacones y vestidos ajustados siguen el paso de los hombres con pantalones a medida. Pero a finales del siglo XIX, cuando el tango se estaba popularizando en los barrios pobres de Buenos Aires y Montevideo, era com n que parejas del mismo sexo bailaran juntas. Esa historia qued en gran medida enterrada a medida que el tango se extendi por Europa y ascendi a la respetabilidad de los salones de baile, hasta que un creciente movimiento internacional, conocido como tango queer comenz a recuperar esas ra ces en las ltimas d cadas. Dobarro organiza La Fuga, un espacio de tango disidente creado hace cuatro años que ofrece clases semanales y una milonga mensual en el Batacazo Cultural, un centro cultural queer en Almagro Maikel Dobarro es un bailar n, profesor y autodenominado agitador del tango queer . Organiza La Fuga , un espacio de tango disidente creado hace cuatro a os que ofrece clases semanales y una milonga mensual en el Batacazo Cultural , un centro cultural queer en Almagro. Prefiere el t rmino tango disidente al anglicismo queer tango , en parte porque tiene una carga pol tica m s expl cita. El tango queer o disidente postula que los bailarines pueden bailar el rol que deseen, independientemente de su g nero. Dobarro afirma que habilitar el cambio de roles en el tango no es menor : ampl a lo que los cuerpos pueden hacer y ser en relaci n unos con otros. El propio camino de Dobarro hacia el tango se volvi inseparable de su camino hacia la comprensi n de s mismo como persona tr",
@@ -2264,26 +2307,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/e7d41e99-84da-4d5d-acc1-78f15668855f_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "216f5815a256c0459f8f",
-      "title": "James Gunn confirma nexo de Clayface con inesperada producción del DCU",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Con la serie Peacemaker reincorporada oficialmente a la continuidad del nuevo Universo DC y ciertos elementos de The Suicide Squad considerados canon, no es de extrañar que algunos seguidores se sientan algo confundidos. En última instancia, quizás lo más saludable para el espectador sea no darle demasiadas vueltas a la logística cronológica, pero el personaje de Clayface (Cara de Barro) ha comenzado a generar bastantes quebraderos de cabeza en cuanto a la coherencia de este universo interconectado. La próxima película de terror de DC , que contará con una calificación para mayores de 18 años, no fue anunciada en la lista inicial de proyectos de DC Studios. Esto provocó que la serie animada Creature Commandos presentara a Clayface mucho antes de que el proyecto cinematográfico dirigido por James Watkins comenzara siquiera su fase de producción. Aunque en los cómics han existido múltiples versiones del villano —lo que permitiría explicar cualquier discrepancia como personajes distintos—, James Gunn ha decidido enturbiar un poco más las aguas al confirmar una conexión directa. Clayface de Creature Commandos Matt Hagen: El nexo entre la animación y el cine para Clayface James Gunn ha confirmado recientemente que Matt Hagen es el Clayface que vimos luchando contra Rick Flag Sr. y Frankenstein en la serie animada. A través de su cuenta en Threads , Gunn no solo confirmó que la película forma parte del mismo canon que Creature Commandos, sino que también dio «me gusta» a un comentario de un fan que planteaba que las versiones animada y de acción real del personaje son, de hecho, la misma persona en diferentes momentos de su vida. Sabemos muy poco sobre el pasado de Matt en este universo, por lo que esta unificación no es imposible. Gunn también ha señalado anteriormente que la película Clayface transcurre cronológicamente antes de los eventos de Superman (2025), lo que sugiere que el filme funcionará como una h",
-      "link": "https://www.cinemascomics.com/james-gunn-nexo-clayface-produccion-dcu/",
-      "pubDate": "Sat, 02 May 2026 01:10:29 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/FotoJet-2026-04-22T183930.424.jpg"
-    },
-    {
-      "id": "3dab1fc1361030151bb4",
-      "title": "¿Será Wonder Woman? Actriz latina calienta rumores con post de Instagram",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com El mes pasado, un rumor electrizante comenzó a circular por las redes sociales: la actriz argentina Eva De Dominici ( The Cleaning Lady , Under the Stars ) estaba en conversaciones para unirse al nuevo Universo DC de James Gunn como Wonder Woman. Lo que comenzó como una filtración de pasillo fue cobrando fuerza hasta que diversos medios especializados confirmaron que, efectivamente, De Dominici realizó una prueba de cámara para el papel de Máxima en la esperada secuela Man of Tomorrow . En dicha audición, Eva no estuvo sola; compitió contra talentos de la talla de Adria Arjona ( Andor ), Sydney Chandler ( Alien: Earth ) y Grace Van Patten ( Tell Me Lies ). Si bien recientemente se confirmó que Arjona ha sido la elegida para unirse oficialmente a la producción, el destino de De Dominici en el DCU sigue siendo un tema de intensa especulación y teorías por parte de los fanáticos. ¿Eva De Dominici como la nueva Wonder Woman? La mecha de los rumores se volvió a encender cuando la modelo y actriz compartió un video de su intenso entrenamiento físico en Instagram . Lo que llamó la atención no fue solo su envidiable estado atlético, sino el uso críptico de emojis en el pie de foto: una mujer con los brazos cruzados en forma de «X» y también un par de espadas cruzadas. Eva De Dominici sería Wonder Woman Para los seguidores de los cómics, estos símbolos son referencias directas a la iconografía de Wonder Woman (la Mujer Maravilla ). Esto ha llevado a muchos a especular que, mientras Adria Arjona se quedó con el papel de la guerrera de Almerac, Máxima, De Dominici podría haber dado la sorpresa al ser seleccionada para interpretar a la mismísima Diana de Temiscira . Aunque también cabe la posibilidad de que la actriz simplemente se esté divirtiendo con las teorías de los fans, la especificidad de los emojis resulta, cuanto menos, intrigante. Eva De Dominici ya entrena y la ven como Wonder Woman El sueño de trabajar c",
-      "link": "https://www.cinemascomics.com/sera-wonder-woman-actriz-latina-rumores-post/",
-      "pubDate": "Sat, 02 May 2026 00:00:04 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/Untitled-design-32.jpg"
     },
     {
       "id": "0582b72ce54805f91193",
@@ -2576,17 +2599,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/placas_base_de_gigabyte_2.jpg"
     },
     {
-      "id": "002da60a4bd530aa53f0",
-      "title": "9 maneras distintas de integrar Claude en tu iPhone y en tu Android",
-      "summary": "Claude es ya, junto a ChatGPT y Gemini , un asistente de IA de referencia para millones de personas que buscan respuestas útiles y agilizar o automatizar algunas gestiones en sus ordenadores y en sus teléfonos móviles. Así que, si quieres exprimir el asistente de Anthropic, qué mejor que instalar Claude en tu iPhone y en tu Android . No será una aplicación más, ya que tendrás la posibilidad de integrarla con el resto de apps y en el propio móvil de varias maneras. Con una cuenta gratuita o una suscripción de pago, Claude te permite conversar sobre cualquier tema, hacer preguntas y obtener explicaciones, corregir, reescribir o traducir un texto en más de 100 idiomas , mensaje de WhatsApp o correo electrónico, revisar tu código y depurar errores si eres programador o desarrollador, analizar fotografías y documentos PDF para extraer texto, interpretar gráficos o explicar su contenido e incluso puede interactuar con otras apps. Y por si todo eso no fuera suficiente, tiene un modo voz para hablar con Claude en conversaciones orales. Desde tu propio teléfono. Así que, si quieres tener Claude siempre a mano en tu iPhone o Android , te proponemos las soluciones que nos ofrece Anthropic. Con estos sencillos trucos te será más fácil activar Claude para hacerle alguna pregunta o pedirle alguna tarea. En vez de acudir a la app desde la pantalla principal. Puede que la integración de Claude en tu smartphone sea mejorable, pero con todo lo que puedes hacer ahora mismo, sacarle provecho a este asistente de IA es cuestión de pulsar un simple botón . Claude, siempre a mano, en tu iPhone Antes de ver cómo Claude se integra en iOS, vamos a repasar todos los atajos que tu iPhone te permite configurar para activar Claude con un simple gesto . En ese sentido, Claude es una app más, por lo que puedes añadirla a la pantalla de bloqueo , al centro de control e incluso colocar un widget de Claude en la pantalla de inicio o en la visualización Hoy del iPhone. Claude en la pantalla de bloqueo ",
-      "link": "https://hipertextual.com/guias/integrar-claude-iphone-android/",
-      "pubDate": "Fri, 01 May 2026 09:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Widget-iPhone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "desarrollo"
-    },
-    {
       "id": "4dda336caa94212630a7",
       "title": "Puedes conseguir Windows 11 legalmente por solo 18 euros en GVGmall, pero ¿por qué merece la pena pagar por él?",
       "summary": "Muchos usuarios se han hecho alguna vez la misma pregunta: ¿merece realmente la pena pagar por Windows 11 ? Al fin y al cabo, el sistema operativo puede instalarse y utilizarse incluso sin activar la licencia, y para un buen número de personas eso parece suficiente para el uso cotidiano del PC. Sin embargo, esa situación suele generar dudas con el tiempo, sobre todo cuando aparecen limitaciones o cuando el usuario empieza a preguntarse si está aprovechando realmente todo lo que puede ofrecer el sistema de Microsoft. Pagar por una licencia oficial no solo elimina limitaciones como la marca de agua o las restricciones de personalización. También garantiza el acceso completo a actualizaciones, mayor tranquilidad en materia de seguridad y la certeza de estar utilizando una copia plenamente legítima del sistema operativo. En un entorno donde el PC sigue siendo una herramienta clave tanto para el trabajo como para el ocio, contar con un sistema operativo activado y funcionando sin restricciones es un factor que muchos usuarios terminan valorando más de lo que pensaban inicialmente . La buena noticia es que hoy en día pagar por Windows 11 no tiene por qué significar gastar más de cien euros en la tienda oficial de Microsoft. Aunque ese es el precio que muchos usuarios tienen en mente cuando piensan en una licencia del sistema operativo, existen alternativas mucho más asequibles para activarlo de forma completamente legal. Gracias a las ofertas disponibles en GVGmall es posible conseguir una licencia válida por mucho menos dinero. De hecho, ahora puedes conseguir Windows 11 legalmente desde solo 18 euros utilizando el cupón «GVGMM» antes de completar el proceso de compra. Ofertas en licencias OEM de Windows y Office Clave Windows 11 Pro OEM con validez de por vida por 21, 4 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Enterprise LTSC 2024 con validez de por vida por 14 euros, utilizando el cupón GVGMM antes de completar el proce",
@@ -2595,17 +2607,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/04/Licencias-3.png"
-    },
-    {
-      "id": "cecc8f6306e16699feb9",
-      "title": "NotebookLM: Así puedes crear un podcast en español, paso a paso",
-      "summary": "El podcast se ha convertido en un formato de éxito. Puedes escucharlo en todas partes. Camino del trabajo, en el gimnasio, paseando, mientras haces otras tareas en casa… Y grabarlo también se ha convertido en toda una experiencia que muchos disfrutan, si tenemos en cuenta la gran cantidad de podcasts que hay en la actualidad. A esto hay que sumarle que, gracias a la inteligencia artificial, cualquiera puede poner en marcha su propio podcast. Es más. Puedes hacer un podcast con NotebookLM en unos minutos. O como ellos lo llaman, resumen de audio . En artículos anteriores te he hablado de todo lo que puedes hacer con NotebookLM si necesitas estudiar o preparar un examen . Y que puede ser muy práctico para compartir tus apuntes y resúmenes con tus compañeros. Además de preparar exámenes y pruebas para evaluaros vosotros mismos. Pero NotebookLM es mucho más. Gracias a la IA, es capaz de generar contenidos nuevos para que te sea más fácil y cómodo procesar información y datos . Y esto incluye resúmenes en formato texto, diagramas, vídeos y audios. NotebookLM lo llama resumen de audio . Pero en la práctica, consiste en hacer un podcast con NotebookLM a partir de uno o más documentos, enlaces y contenidos que le facilites a la inteligencia artificial. Es decir, que puedes crear un guion, pasárselo a NotebookLM y obtener un podcast en español para compartir en internet o para ayudarte a estudiar en todas partes. Veamos cómo hacerlo y cómo sacarle el máximo rendimiento a este formato. Hacer un podcast con NotebookLM NotebookLM tiene muchas ventajas . Es gratuito por defecto y no necesitas instalarlo en tu ordenador o teléfono móvil, aunque puedes si lo deseas en iPhone y Android . Y sus limitaciones son muy amplias como para que necesites pagar por usar esta app. La versión gratuita admite hasta 100 cuadernos, 50 fuentes por cuaderno, 50 consultas de chat al día, 3 generaciones de audio y 3 de video al día . Además, es compatible con más de 80 idiomas en sus resúmenes de aud",
-      "link": "https://hipertextual.com/guias/hacer-un-podcast-con-notebooklm/",
-      "pubDate": "Fri, 01 May 2026 07:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/NotebookLM-Podcast-Audio-Documentos.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
     },
     {
       "id": "b467b09a37f9016c8b18",
@@ -2722,8 +2723,8 @@
       {
         "name": "Claude",
         "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "GPT-5",
@@ -2734,5 +2735,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-05-03T06:23:51.683588+00:00"
+  "updated": "2026-05-03T09:17:31.573150+00:00"
 }
