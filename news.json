@@ -32,16 +32,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "1d5b40ffaade621d0844",
-      "title": "Entrevista BBC | Juan Orlando Hernández, expresidente de Honduras indultado por Trump: \"En el juicio a Maduro se va a confirmar que los políticos que negociaron con los narcos fueron otros\"",
-      "summary": "Extraditado a EE.UU. en 2022 y condenado a 45 años de cárcel por cargos relacionados con el tráfico de drogas, fue indultado por el mandatario estadounidense el 1 de diciembre pasado. Habló de todo ello con la BBC.",
-      "link": "https://www.bbc.com/mundo/articles/c4g8m7p0e9jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 20 May 2026 11:35:29 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/251d/live/eec22410-5455-11f1-b682-cf91850925ea.jpg"
-    },
-    {
       "id": "7aa1401d839f3822a43f",
       "title": "La mayor transformación de Google en 25 años: estos son los tres grandes cambios que trae el nuevo buscador",
       "summary": "Sundar Pichai, director general de Google y Alphabet, durante su intervención de ayer en el evento de desarrolladores I/O 2026.",
@@ -430,6 +420,106 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b381/live/79a64bb0-547e-11f1-9e5e-41ceb78553de.jpg"
     },
     {
+      "id": "592b7f82cc8ffb247759",
+      "title": "Los 26 de la afición para el Mundial: 'sorpasso' inesperado en la portería, debutantes... y ningún madridista",
+      "summary": "Más de 100.000 votos en la macroencuesta de la selección",
+      "link": "https://www.marca.com/futbol/seleccion/2026/05/24/26-aficion-mundial-sorpasso-inesperado-porteria-debutantes-madridista.html",
+      "pubDate": "Sun, 24 May 2026 13:05:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12d9d0d9335.jpeg"
+    },
+    {
+      "id": "edfda178730c34b551c6",
+      "title": "El Madrid golea a un Barça con 10 y logra un triplete histórico",
+      "summary": "Carlos Díez",
+      "link": "https://www.marca.com/futbol/cantera/2026/05/24/juvenil-madrid-demuestra-adn-club.html",
+      "pubDate": "Sun, 24 May 2026 12:57:40 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12d73bb3fe7.jpeg"
+    },
+    {
+      "id": "3ae025abc736187c0e9c",
+      "title": "El Bayern se mofa del Barça",
+      "summary": "Harry Kane celebra uno de sus goles contra el Stuttgart",
+      "link": "https://www.marca.com/futbol/barcelona/2026/05/24/bayern-mofa-barca-dinero-fichar-harry-kane.html",
+      "pubDate": "Sun, 24 May 2026 12:56:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/23/6a120459e6391.jpeg"
+    },
+    {
+      "id": "c2c5b67160961dd4c95c",
+      "title": "Los 102 equipos que iniciarán la Copa del Rey 2026-27",
+      "summary": "Faltan por conocer los cuatro semifinalistas de la Copa Federación y los diez equipos de Regional que superen la eliminatoria previa",
+      "link": "https://www.marca.com/futbol/copa-rey/2026/05/24/102-equipos-iniciaran-copa-rey-2026-27.html",
+      "pubDate": "Sun, 24 May 2026 12:40:13 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/13/6a04988a243b6.jpeg"
+    },
+    {
+      "id": "531954b1028089ca1c91",
+      "title": "Oksana Selekmeteva se estrena con derrota bajo bandera española",
+      "summary": "Selekhmeteva, con la mano en la cara.",
+      "link": "https://www.marca.com/tenis/roland-garros/2026/05/24/oksana-selekmeteva-estrena-derrota-bandera-espanola.html",
+      "pubDate": "Sun, 24 May 2026 12:34:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12d344e1cf9.jpeg"
+    },
+    {
+      "id": "4fd333090850fac4144d",
+      "title": "Lo nunca visto en Roland Garros... Arthur Gea para el partido: \"Me he cagado, no puedo moverme más\"",
+      "summary": "Gea habla con el supervisor del torneo.",
+      "link": "https://www.marca.com/tenis/roland-garros/2026/05/24/arthur-gea-partido-me-he-cagado-moverme.html",
+      "pubDate": "Sun, 24 May 2026 12:17:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12cf86a0862.jpeg"
+    },
+    {
+      "id": "5950844ba2eb5f59b0c2",
+      "title": "Lewandowski ya es historia del Barça",
+      "summary": "Lewandowski",
+      "link": "https://www.marca.com/futbol/barcelona/2026/05/24/lewandowski-historia-barca.html",
+      "pubDate": "Sun, 24 May 2026 12:05:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12c31b6906e.jpeg"
+    },
+    {
+      "id": "766e62f47741be3860f9",
+      "title": "Davidovich: \"Si me retirase mañana lo haría tranquilo, estoy dando el 100%\"",
+      "summary": "Davidovich celebra un punto.",
+      "link": "https://www.marca.com/tenis/roland-garros/2026/05/24/alejandro-davidovich-me-retirase-manana-haria-tranquilo-dando-cien-cien.html",
+      "pubDate": "Sun, 24 May 2026 11:56:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12c142a2fc8.jpeg"
+    },
+    {
+      "id": "8fa4d49526f295f62193",
+      "title": "Alonso ve un claro paso adelante por parte de Honda y Aston Martin",
+      "summary": "Alonso, ayer en el GP de Canadá.",
+      "link": "https://www.marca.com/motor/formula1/gp-canada/2026/05/24/alonso-ve-claro-paso-adelante-parte-honda-aston-martin.html",
+      "pubDate": "Sun, 24 May 2026 11:55:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12cadddd60f.jpeg"
+    },
+    {
+      "id": "928e87d02ffd1b3a9d98",
+      "title": "El equipo masculino de recurvo, plata en el Campeonato de Europa",
+      "summary": "Andrés Temiño, Pablo Acha y Diego Conde cayeron en la final ante Alemania, por un 4-5",
+      "link": "https://www.marca.com/otros-deportes/2026/05/24/equipo-masculino-recurvo-plata-campeonato-europa.html",
+      "pubDate": "Sun, 24 May 2026 11:50:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12d6b718048.jpeg"
+    },
+    {
       "id": "6851d9fe0b78e738f171",
       "title": "Irán trasladará su campamento del Mundial 2026 de Estados Unidos a México",
       "summary": "Irán trasladará su campamento del Mundial 2026 de Estados Unidos a México por problemas de visado",
@@ -480,6 +570,137 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12c297b9926.jpeg"
     },
     {
+      "id": "31a02e5a82e3e0c52809",
+      "title": "Boeing gana un juicio por presunto fraude en la venta de aviones 737 MAX",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/606792-boeing-ganar-juicio-presunto-fraude-venta-aviones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 11:10:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "379d57ceb97f6c2dabb8",
+      "title": "Para mayores de 50: 3 fuentes de proteína de alta calidad que son fáciles de sumar a la dieta diaria",
+      "summary": "En un escenario donde los hábitos alimentarios están en plena transformación —y donde los valores nutricionales compiten por atención con las etiquetas de marketing—, las proteínas emergen como protagonistas indiscutidas. Ya no son terreno exclusivo de atletas: hoy se reconocen como nutrientes esenciales para el desarrollo, la reparación y el mantenimiento del organismo en todas las etapas de la vida . Microbiota: el “órgano invisible” que regula el sistema inmune y el estado de ánimo La evidencia es clara. Según la Organización Mundial de la Salud y la FAO, mantener una ingesta adecuada de proteínas de alto valor biológico es crucial para prevenir la pérdida de masa muscular, especialmente en adultos mayores o personas con enfermedades crónicas. El Global Nutrition Report 2021 advierte que más del 10% de la población mundial no alcanza los niveles necesarios de consumo proteico , un dato que enciende alertas y explica el crecimiento de productos fortificados, sellos como “+proteína” y el interés por fuentes alternativas y sostenibles . Consultados por LA NACION, expertos destacaron tres alimentos con alto contenido proteico, completos, accesibles y funcionales. 1. Huevos: calidad proteica en su forma más accesible Para muchos especialistas en nutrición, el huevo es uno de los alimentos con mejor relación entre calidad, precio y valor nutricional. Cada unidad aporta seis gramos de proteína y unas 70 calorías , además de nutrientes esenciales como vitamina B12, riboflavina y vitamina D . Cómo cocinar huevos perfectos: hervidos, poché, revueltos y fritos “Obtenés mucha proteína por pocas calorías”, señaló Bethany Doerfler, nutricionista e investigadora de la Facultad de Medicina Feinberg de la Universidad Northwestern, al ser consultada para un artículo publicado en The New York Times . Por su parte, Sapna Batheja, profesora adjunta en la Universidad George Mason, remarcó una característica clave: su completitud proteica . “Los huevos contienen los nueve aminoácidos e",
+      "link": "https://www.lanacion.com.ar/salud/nutricion/para-mayores-de-50-3-fuentes-de-proteina-de-alta-calidad-que-son-faciles-de-sumar-a-la-dieta-diaria-nid22052026/",
+      "pubDate": "Sun, 24 May 2026 11:06:30 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/6OXBZKJWIBCMPEVZNE3GYRFETU.jpg?auth=5f4a6010aefe92e7791ee7860b167260364c8db15e57220d1752eede853ac585&smart=true&width=5000&height=3328",
+      "subcat": "diseño"
+    },
+    {
+      "id": "93b0efd37d5556697604",
+      "title": "Qué es la caminata del granjero: el ejercicio que arrasa en el mundo ‘fit’, fortalece todo el cuerpo y mejora el equilibrio",
+      "summary": "Dan John es un entrenador estadounidense con más de 30 años de experiencia dictando clases y autor de varios libros sobre fitness . También ha competido en el más alto nivel de levantamiento olímpico y ostenta el récord estadounidense en pentatlón de lanzamiento de peso. Creador de la popular caminata del granjero −consiste en caminar una distancia determinada mientras se sostiene una carga pesada en cada mano− una de sus célebres frases es: “Si todo lo que pudiera hacer fuera un movimiento sería la caminata del granjero . No hay una manifestación de poder tan básica y crucial como esa”. Actualmente imparte talleres por todo el mundo, presenta el podcast The Dan John Podcast y trabaja con clientes particulares de diversos ámbitos, incluyendo atletas profesionales y personal militar. La experta en glucosa Jessie Inchauspé explica por qué el orden de los alimentos que consumimos es fundamental En cuanto al ejercicio que lo catapultó a la fama, este debe su nombre a la acción de cargar objetos pesados −como baldes, herramientas o productos− que realiza un trabajador agrícola mientras recorre largas distancias . Inspirado en esta labor, el movimiento fue incorporado al entrenamiento físico y adaptado a gimnasios y rutinas deportivas donde alcanzó gran popularidad. ¿Qué lo diferencia de otros ejercicios de fuerza ? Julieta Coronado, médica deportóloga de la UBA, señala que su éxito radica en que es un ejercicio simple que involucra la estabilización central, fija la cintura escapular para sostener el peso, el transporte del mismo y el agarre ( grip ). ¿Cómo se hace la caminata de granjero? Seleccionar la carga: Elegir dos pesos iguales que sean desafiantes, pero manejables. Primera posición: Mantenerse parado con los pies separados al ancho de los hombros, colocar los pesos en cada mano, manteniendo la postura erguida, con los hombros hacia atrás y el pecho levantado. Grip : Agarrar firmemente los pesos con una empuñadura neutral (las palmas deben quedar de cara al cuerp",
+      "link": "https://www.lanacion.com.ar/salud/fitness/que-es-la-caminata-del-granjero-el-ejercicio-que-arrasa-en-el-mundo-fit-fortalece-todo-el-cuerpo-y-nid22052026/",
+      "pubDate": "Sun, 24 May 2026 11:06:03 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/D2V4BPB7UZGQ7DV4EGP6JKBLAQ.jpg?auth=f36e16b0dad83c57ac53d5cfd5ef44883182330dc20044ff909a9778dae38d9b&smart=true&width=3960&height=2640"
+    },
+    {
+      "id": "cb40f49ce690527adc62",
+      "title": "Destronan al rey del chip",
+      "summary": "La empresa taiwanesa TSMC empieza a perder protagonismo frente a otros valores de inteligencia artificial.",
+      "link": "https://actualidad.rt.com/actualidad/606782-destronar-rey-chips-inversiones-ia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 11:05:50 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12d10959bf5b78f47b7589.jpg"
+    },
+    {
+      "id": "8460a3cc74b29b6094f3",
+      "title": "Elizabeth Clapés, psicóloga: “Es posible enamorarse de otro, separarse no es un fracaso y las relaciones poliamorosas existen”",
+      "summary": "“Al dolor hay que transitarlo y atravesarlo”, dice Elizabeth Clapés (28) sobre el eje de su nuevo libro Así es como lo verás mañana. Psicóloga, escritora, conferenciante y docente especializada en autoestima y relaciones interpersonales, Clapés aborda en su quinta obra la dificultad que tiene una sociedad acostumbrada a la inmediatez para lidiar con el sufrimiento. Comprendiendo la salud desde una perspectiva integral considera que si el dolor se evita o tapa “en algún momento tendrá necesidad de salir porque es una energía que queda pendiente de ser canalizada”. Fenómeno editorial y online, ha superado los 500.000 lectores con sus libros anteriores Tú no eres el problema , Perderte para encontrarme , Hasta que te caigas bien y Querida yo: tenemos que hablar; y el millón y medio de seguidores en sus redes sociales, el lugar donde su éxito comenzó. ¿Qué la diferencia de otros profesionales con presencia digital? Que en su caso “baja la psicología a tierra” para que sea accesible para todos. Su lenguaje y analogías descontracturantes la mostraron como una profesional confiable, especialmente, para una generación de jóvenes que se acostumbró a escuchar términos clínicos y consejos por parte de pares o de especialistas con un discurso excluyente o lejano. Cuando estaba terminando el colegio se debatía entre estudiar psiquiatría o ser escritora. Criada en el seno de una familia de médicos, le dijeron: “Querés ser escritora, bárbaro, pero primero estudiá algo relacionado a la medicina y después te dedicás a escribir”. Terminó optando por la carrera de psicología y, según reconoce, su principal motor era poder ayudar. Comenzó a tomar pacientes y a divulgar sus conocimientos en redes. Su bandeja de mensajes estalló y las sesiones mano a mano con pacientes se volvieron inmanejables. Hoy es quien dirige esmipsicologa.com , una plataforma de salud integrativa en la que está a cargo de 50 profesionales de la medicina, la psicología y la nutrición . “Ya no tomo pacientes, pero s",
+      "link": "https://www.lanacion.com.ar/salud/mente/elizabeth-clapes-psicologa-es-posible-enamorarse-de-otro-separarse-no-es-un-fracaso-y-las-relaciones-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 11:05:02 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/4KGPQZPZWZCAJBENAVNZWA3X3M.png?auth=d5a2220c0d52cf83452bf7f12140d9ee0bbbe7b450ee628ef0f781d563e6f3f7&smart=true&width=810&height=491"
+    },
+    {
+      "id": "08d702454532209d2c71",
+      "title": "Endurecen pena impuesta a exsubjefe del Estado Mayor ruso",
+      "summary": "Ahora Jalil Arslánov se enfrenta a una pena definitiva de 19 años de prisión en una colonia de régimen estricto.",
+      "link": "https://actualidad.rt.com/actualidad/606779-pena-exsubjefe-estado-mayor-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 11:02:01 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12cddee9ff716cb575e608.jpg"
+    },
+    {
+      "id": "35fe4cbde7163c7f3c50",
+      "title": "El iPhone 18 va a ser una locura: 6 mejoras que lo convertirán en el mejor móvil del año",
+      "summary": "Si bien el protagonista de los próximos móviles de Apple es el iPhone 18 Pro , hay una versión que promete convertirse en uno de los mejores smartphones del año y en el próximo superventas de la compañía. Hablamos, por supuesto, del iPhone 18 . El modelo base de la nueva familia se hará esperar unos meses más y no se anunciará en septiembre, pero las filtraciones ya están revelando algunas novedades. De hecho, ya conocemos muchos de los principales cambios del iPhone 18 . Algunos de ellos son simples mejoras respecto a la generación actual, mientras que otros suponen cambios muy importantes que además llevamos años esperando. Están relacionados con el diseño, la IA, el rendimiento o la cámara, pero vayamos por partes. Una de las principales mejoras que podríamos ver en el iPhone 18 está relacionada con el diseño. Todo apunta a que este nuevo modelo abandonará la línea de diseño de las anteriores versiones y apostará por una estética muy similar a la del iPhone 17 Pro . Es decir, contará con un cuerpo de aluminio, con un módulo fotográfico de este mismo material y una parte posterior con una zona de cristal para admitir la carga inalámbrica. El iPhone 18, eso sí, estaría disponible en una amplia variedad de colores. Otro de los cambios que podría llegar al iPhone 18 está relacionado con su pantall a. Si bien se espera que Apple mantenga el panel OLED de 6,3 pulgadas con tecnología LTPO, el nuevo modelo podría incorporar una Isla Dinámica algo más pequeña , pues Apple ocultaría algunos sensores para el Face ID debajo de la pantalla. Nuevo procesador y nueva cámara Por supuesto, las mejoras en el rendimiento serán otros de los grandes cambios en el iPhone 18. Todo parece indicar que este modelo debutará con el chip A20 estándar, una versión ligeramente inferior en rendimiento al chip A20 Pro que tendrán las versiones Pro y Pro Max. De este SoC no hay muchos detalles, pero los rumores sugieren que además de más potente y más preparado para la IA, será también más eficie",
+      "link": "https://hipertextual.com/apple/el-iphone-18-va-a-ser-una-locura-6-mejoras-que-lo-convertiran-en-el-mejor-movil-del-ano/",
+      "pubDate": "Sun, 24 May 2026 11:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/iphone-18.jpg?fit=1024%2C596&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "ba86472a36227fb61143",
+      "title": "Six Flags estrena una montaña rusa en Texas que batirá seis récords mundiales: con la caída libre más alta y rápida",
+      "summary": "Six Flags Over Texas celebra su 65º aniversario en 2026, año en que inaugurará Tormenta Rampaging Run , una nueva montaña rusa de tipo dive coaster que batirá seis récords mundiales dentro de esa categoría. Este tipo de atracción se caracteriza por una gran caída casi vertical, precedida por una breve pausa en la cima antes del descenso. Tormenta Rampaging Run: cuándo debutará la nueva montaña rusa de Six Flags Over Texas Tormenta Rampaging Run, que podría traducirse como carrera desenfrenada, abrirá sus puertas en 2026 en Six Flags Over Texas y, de acuerdo con el sitio web de la compañía , hará historia por ser la montaña rusa giga dive coaster más alta, rápida y larga del mundo. Aunque Six Flags no informó una fecha exacta de apertura, la compañía anticipó que la atracción debutará durante 2026. El parque dio a conocer que estará en Rancho de la Tormenta, una nueva zona temática inspirada en un pueblo español. Según la página web, la experiencia comenzará cuando los visitantes pasen debajo de un dosel de coloridas pancartas y escuchen música española que les dará la bienvenida a Rancho de la Tormenta . Los seis récords que Six Flags busca romper con Tormenta Rampaging Run en Arlington Una de las características anunciadas por Six Flags con su nueva montaña rusa es que, una vez que los pasajeros estén en la cima, permanecerán unos segundos detenidos en la cima antes de una caída de 95 grados. Ese será solo uno de los seis récords mundiales que batirá : Será la dive coaster más alta del mundo, con 309 pies de altura, equivalentes a unos 94 metros. Tendrá una caída de 282 pies (86 metros) con inclinación de 95 grados. Será la dive coaster más rápida del mundo , con 140 km/h. Tendrá una inversión Immelmann de 66 metros. Es decir, una subida por medio bucle vertical que deja a los pasajeros boca abajo en la cima y luego realiza un medio giro para volver a la posición normal. Tendrá el bucle vertical más alto , con 177 pies (54 metros). Tendrá el recorrido más largo par",
+      "link": "https://www.lanacion.com.ar/estados-unidos/texas/six-flags-estrena-una-montana-rusa-en-texas-que-batira-seis-records-mundiales-con-la-caida-libre-mas-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 11:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/7W5J7BWR7VEHJHN7MQQKFNKSRE.jpg?auth=eabc0775253e8b6438a45572190e958d3ab5bbfbcf52c821b25c1661e3f1ad10&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "8e16252a6b1bc1fa4973",
+      "title": "Una especialista en gastronomía comparte los ingredientes para el locro perfecto del 25 de mayo",
+      "summary": "Cuando se acerca el 25 de mayo miles de argentinos se ponen la escarapela y cuelgan banderas en sus casas. Pero también preparan la mesa para celebrar la fiesta patria con un buen plato de locro , en coincidencia con la llegada del frío y las previsiones de un fin de semana largo con temperaturas que perforarán los 5°C . Un móvil de LN+ conversó con una especialista en gastronomía, quien compartió los ingredientes indispensables para una exquisita preparación. “Esto demora aproximadamente cinco horas, hay que hacerlo a fuego lento, muy tranquilo” , dijo Marcela, la encargada de un bodegón en Recoleta. Cuáles son los ingredientes que todo buen locro debería llevar Según la especialista, la lista incluye: chorizo picado grueso, panceta, solomillo, tapa de asado, cebolla, mondongo, cebolla, batata, zapallo cabutia y plomo, repollo, acelga y condimentos especiales. El toque final se lo da un sofrito, que puede incluir picante y perejil picado . Ante la pregunta sobre si el locro es el plato estrella en esta fecha, la especialista fue contundente: “Sí, definitivamente. De hecho, tuvimos que cambiar el horario de servicio por la alta demanda” . Precios promedio Entre las promociones que ofrece para este fin de semana, se destaca la porción de locro o guiso de lentejas a $17.800, pagando con tarjeta, y a $16.000, con pago en efectivo . “Cuando hace frío, todos mis clientes están acá”, concluyó la especialista.",
+      "link": "https://www.lanacion.com.ar/sociedad/una-especialista-en-gastronomia-comparte-los-ingredientes-para-el-locro-perfecto-del-25-de-mayo-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 11:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/LTQM43SFUVEMXAQTNYNS3N24NE.jpg?auth=096d27c4a0976ef18c684eb55799e5ecdc29f9a08b04047545f06774cccbea20&smart=true&width=3000&height=2124"
+    },
+    {
+      "id": "8001d3aad57d15798233",
+      "title": "Quién era Nasire Best, el hombre abatido tras abrir fuego cerca de la Casa Blanca",
+      "summary": "WASHINGTON.- Un policía informó que se identificó a la persona abatida en la Casa Blanca tras haberse acercado armada a las inmediaciones de la residencia oficial del presidente de Estados Unidos. Su nombre era Nasire Best, tenía 21 años y contaba con antecedentes con el Servicio Secreto. El medio CNN indicó que en junio de 2025 había protagonizado un incidente en el que bloqueó un carril de acceso a la Casa Blanca y terminó detenido. Un mes después de esa situación, en julio, Best fue detenido nuevamente, esa vez por intentar entrar a un complejo de la residencia presidencial. Además, en redes sociales, el hombre afirmaba que era “el verdadero” Osama bin Laden y, en otras ocasiones, decía que era Dios , de acuerdo a un funcionario estadounidense. Tras el ataque, un funcionario detalló que Best fue identificado como una persona con trastornos emocionales y añadió que anteriormente se le ⁠había dictado una “orden de alejamiento”. Según reportó un comunicado preliminar del Servicio Secreto, este sábado, Best sacó un arma de una bolsa y empezó a disparar. Según la versión oficial, ante esa situación los agentes respondieron del mismo modo e hirieron al tirador. El joven murió después de ser trasladado al hospital George Washington. En una publicación en X, la corresponsal de ABC News en la Casa Blanca, Selina Wang, compartió un video del momento en que dijo que escuchó lo que sonó como “docenas de disparos” y se agachó para cubrirse, en medio del pánico. En tanto, el Departamento de Policía Metropolitana dijo en su cuenta de X que el Servicio Secreto estaba trabajando en la escena y advirtió a la gente que evitara el área. En el lugar de los hechos, AP informó que había evidencia del tiroteo en una vereda justo afuera del complejo de la Casa Blanca, donde la cinta amarilla de la escena del crimen se extendía por el pavimento y agentes del Servicio Secreto colocaron decenas de marcadores naranjas de evidencia en el suelo. También se observó material médico, incluyendo l",
+      "link": "https://www.lanacion.com.ar/el-mundo/quien-era-nasire-best-el-hombre-abatido-tras-abrir-fuego-cerca-de-la-casa-blanca-nid23052026/",
+      "pubDate": "Sun, 24 May 2026 10:59:41 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/LV3PFBBI25GSJEI2I5VAP4WSVA.jpg?auth=0e72e85887779e459711d59e98133bc6d771a93d947d1fbb60a04d5206be3834&smart=true&width=805&height=514"
+    },
+    {
+      "id": "eb3471517fe35d9e93e0",
+      "title": "Politico: SoftBank dona 50 millones de dólares a la biblioteca presidencial de Trump",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/606790-softbank-trump-donacion-biblioteca?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:52:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "f35d53eb62de13423d5e",
+      "title": "Fósiles en Canadá reescriben la historia de la vida animal en la Tierra",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/606788-fosiles-canada-reescriben-historia-vida?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:42:48 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "a808e989543846740011",
+      "title": "El pronóstico del tiempo para este domingo 24 de mayo en todo el país",
+      "summary": "En medio de un fin de semana largo marcado por las bajas temperaturas, el Servicio Meteorológico Nacional (SMN) emitió el pronóstico para este domingo 24 de mayo en todo el país e indicó que no rigen alertas por fenómenos meteorológicos adversos en ninguna provincia del territorio nacional. Según el parte publicado por el organismo dependiente del Ministerio de Defensa, el tiempo en el Área Metropolitana de Buenos Aires (AMBA) continuará con condiciones frías, aunque con temperaturas algo más moderadas que las registradas durante los últimos días. De esta forma, este domingo el cielo estará mayormente nublado durante la mañana y parcialmente nublado hacia la tarde y noche. Los vientos serán del sector norte y noreste, con velocidades de entre 7 y 22 kilómetros por hora. La temperatura mínima comenzó en 6°C durante las primeras horas de la mañana y la máxima alcanzará apenas los 13 grados . El lunes , en tanto, continuará el ascenso gradual de la térmica , con una máxima prevista de 18°C y condiciones de nubosidad variable a lo largo de toda la jornada. Con un amanecer de 12ºC, vientos leves desde el norte y cielo parcialmente nublado, la térmica no se elevará mucho a lo largo del día. A pesar de algunos pasajes con cielo cubierto, no hay estimación de lluvias . A lo largo de la semana se prevé que el tiempo continúe estable, aunque con nubosidad en aumento y vientos que oscilarán entre los 7 y los 22 kilómetros por hora. Según indicó el medio especializado Meteored , luego de una semana con características plenamente invernales —marcada por mañanas gélidas y máximas muy bajas para fines de mayo— comenzó un período de transición hacia condiciones más templadas . Durante este fin de semana largo, las temperaturas tendrán un ascenso paulatino tanto en el centro y norte del país como en parte de la Patagonia. El sábado fue el día más frío del período , según reportó el sitio de meteorología, mientras que este lunes feriado se perfila como la jornada más “benévola” en té",
+      "link": "https://www.lanacion.com.ar/sociedad/el-pronostico-del-tiempo-para-este-domingo-24-de-mayo-en-todo-el-pais-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 10:41:55 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZHVMQRQ7GJCITFWOE3F42SJXTM.PNG?auth=247182f584abb72469e2ba0aec22a945c43b210da045402bbd0cca635cd8096f&smart=true&width=1095&height=727"
+    },
+    {
       "id": "01540ce57efdefe024dc",
       "title": "XXIX Torneo Arousa Fútbol 7, en directo",
       "summary": "La sexta edición que se celebra en el municipio de Ribadumia volverá a contar en su exclusivo cartel de participantes, como destacaron los intervinientes, con un atractivo que convertirá al estadio A Senra, el fin de semana del 22 al 24 de mayo, en el epicentro del fútbol base de referencia mundial. 6 campeones de Europa en el cartel: FC Porto (que defiende título), Real Madrid, FC Barcelona, Benfica, Inter de Milán (tricampeón del AF7 que regresa al torneo tras varios años de ausencia) y Manchester United (debutante) dan muestra del calibre de la convocatoria, que reúne a 20 equipos entre los que también destacan el Athletic Club de Bilbao (otro excampeón AF7 que retorna al cartel años después), el debutante Vissel Kobe de Japón (el último equipo de Andrés Iniesta) y los semifinalistas de 2025: Sporting de Lisboa y RCD Espanyol. Suscríbete al canal de Marca para no perderte más vídeos AQUÍ : https://bit.ly/2J0YIm6 ✔️ Visita marca.com: https://www.marca.com/ ✔️ INSTAGRAM: https://www.instagram.com/marca/ ✔️ FACEBOOK: https://www.facebook.com/MARCA/ ✔️ TWITTER: https://twitter.com/marca ✔️ TWITTER: https://twitter.com/radiomarca #MARCA #Actualidad #Noticias",
@@ -488,6 +709,57 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/dv4kTGqBvzo.jpeg"
+    },
+    {
+      "id": "7c6c35817c064ee753ce",
+      "title": "Irán ejecuta a un hombre por \"actividad de inteligencia para Israel y EE.UU.\"",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/606786-iran-ejecutar-hombre-actividad-inteligencia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:38:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "145828ad1bf5fa341c75",
+      "title": "De vacaciones, se cruzó con una perra y quiso ayudarla pero cuando la fue a buscar ya no estaba: “Es fácil ignorar el sufrimiento ajeno”",
+      "summary": "Cuando Luciana y su pareja, Nils, aterrizaron en Tumbes, Perú, estaban ansiosos porque comenzaran sus vacaciones. Una vez que acomodaron el equipaje y se pusieron ropa cómoda, antes de salir a explorar, decidieron conversar sobre su itinerario semanal mientras cenaban en el restaurante del hotel. Sin embargo, jamás imaginaron que una comida en la playa cambiaría el rumbo de todo su viaje. Disfrutaban de la cena cuando, de pronto, notaron que alguien los observaba. Una perra callejera, delgada y jadeante, tenía la mirada fija en la pareja , y el tiempo se detuvo en el instante en que la vieron. “Estaba sentada frente a mí”, contó Luciana a un medio local. “ Había algo en su mirada que me partió el corazón al instante”. Atada a una reja en un baldío, sin agua ni alimento, esperaba su cruel final: “Aprendió a dar la patita” La perra permaneció completamente inmóvil durante unos minutos , observando en silencio a la pareja desde la distancia. Entonces, se dio vuelta y se dirigió hacia el mar para beber agua . De inmediato Luciana supo que algo tendría que hacer por ese animal que parecía pedir ayuda. “Fue entonces cuando surgió la posibilidad de llevármela . Recuerdo preguntarme cómo una criatura tan pequeña podía intentar calmar su sed en el mar”, dijo Luciana. “ Me hizo pensar en lo fácil que es ignorar el sufrimiento ajeno , incluso viviendo en un mundo lleno de posibilidades”. Durante los días siguientes, la perra se convirtió en parte habitual de la rutina de Luciana y Nils. Se quedaba en el hotel día y noche, y la pareja nunca perdían la oportunidad de cuidarla. “La alimentábamos, la acariciábamos, jugábamos con ella, y poco a poco empezó a confiar en nosotros” , dijo Luciana. “Mi pareja y yo nos encariñamos mucho en poco tiempo”. Al final del viaje, la pareja decidió oficialmente llevarla de vuelta a casa, a Trujillo, una ciudad a 10 horas en coche. Pero cuando llegó el momento de prepararla para el viaje, la perrita, a la que habían llamado Marea, desapareció re",
+      "link": "https://www.lanacion.com.ar/lifestyle/de-vacaciones-se-cruzaron-con-una-perra-y-quisieron-ayudarla-pero-cuando-la-fueron-a-buscar-ya-no-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 10:32:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/56WRJLPDIZEBRCHBHBVTVQLSMM.jpeg?auth=e19879dce9d60c8fdee415014d1bfdc5332a8e417436c275617a1bdb26a85513&smart=true&width=2304&height=1728",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "a19b844d03e4ade43816",
+      "title": "Qué es la Tarea de selección de Wason, uno de los problemas de lógica más investigados y desconcertantes de la historia",
+      "summary": "Cuatro tarjetas, una regla y una pregunta... ¿por qué tanta gente se equivoca al responder si el problema es tan sencillo?",
+      "link": "https://www.bbc.com/mundo/articles/c62d08gvjzgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 24 May 2026 10:30:32 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c11c/live/35ee43d0-55f2-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "id": "4e6dc318fb58e0d86c1f",
+      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Irán afirma que el borrador del acuerdo con EE UU incluye el fin de la guerra y el levantamiento de sanciones al petróleo iraní",
+      "summary": "El presidente de Estados Unidos, Donald Trump, en la Casa Blanca el sábado.",
+      "link": "https://elpais.com/internacional/2026-05-24/la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "pubDate": "Sun, 24 May 2026 10:30:01 GMT",
+      "source": "El Pais",
+      "cat": "israel",
+      "image": "https://imagenes.elpais.com/resizer/v2/DGLY37WVQFIEJF6KAMF6X4YRCE.jpg?auth=28724f509a4b582e745e90b111793f1da540bb47c9b2a2bd2fb683cfcc847be2"
+    },
+    {
+      "id": "fe3cfa62ec816605a387",
+      "title": "A qué hora juega hoy River vs. Belgrano y por dónde se puede ver el partido del Torneo Apertura 2026",
+      "summary": "River y Belgrano se enfrentan este domingo en el marco de la gran final del Torneo Apertura 2026. El encuentro definitorio está programado para las 15.30 en el estadio Mario Alberto Kempes de Córdoba, con arbitraje de Yael Falcón Pérez y transmisión televisiva de ESPN Premium y TNT Sports. El minuto a minuto, en tanto, estará disponible en canchallena.com. El Millonario se metió en la definición del primer certamen de la temporada en la máxima categoría del fútbol argentino tras eliminar a Rosario Central en semifinales. El encuentro, que se disputó en el Monumental, finalizó 1 a 0 a favor del local con un gol de penal de Facundo Colidio. Desde la llegada de Eduardo Coudet al banco de suplentes en lugar de Marcelo Gallardo, acumula 11 triunfos, tres empates (uno de ellos, ante San Lorenzo en los octavos de final del Apertura, con posterior triunfo por penales) y apenas dos derrotas. El Pirata, por su parte, dejó en el camino a Argentinos Juniors por penales luego de igualar 1 a 1 en tiempo reglamentario por los tantos de Nicolás Fernández -B- y Facundo Jainikoski -AJ-. Es la primera vez en la historia que el equipo cordobés disputa una definición de Primera División y, además, persigue otro sueño que en años anteriores parecía utópico: disputar el torneo más importante de Sudamérica a nivel de clubes, la Copa Libertadores, boleto al que se accede por ser campeón de este certamen. La última vez que ambos equipos se vieron las caras fue el 5 de abril de este año, por la 13° fecha del Torneo Apertura en curso. En aquella oportunidad, River se quedó con la victoria como local con un contundente 3 a 0 gracias a un doblete de Tomás Galván y un tanto de Colidio. El equipo del barrio porteño de Núñez ganó los últimos tres encuentros frente a Belgrano, que solo festejó en dos de las últimas 10 veces que se cruzaron. River vs. Belgrano: todo lo que hay que saber Final del Torneo Apertura 2026. Día : Domingo 24 de mayo. Hora : 15.30 (horario argentino). Estadio : Mario Alberto",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-river-vs-belgrano-y-por-donde-se-puede-ver-el-partido-del-torneo-apertura-2026-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 10:30:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/6MOWN37ZNNGNZLW6L4F7JYTTGE.jpg?auth=9d3b337472f453cc3dc680d348a5462a597a099149dcd7a63278f74c1ef8b360&smart=true&width=1080&height=720"
     },
     {
       "id": "c22941c794cfe2c54eb9",
@@ -500,14 +772,84 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12b69a4b486.jpeg"
     },
     {
-      "id": "cbcb10b0a0b836cf2db0",
-      "title": "El Barça golpea primero y se adelanta ante el Real Madrid",
-      "summary": "descarga",
-      "link": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/05/24/6a12b0d6cf1a9beb6164be60.html",
-      "pubDate": "Sun, 24 May 2026 10:18:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12b74c59525.jpeg"
+      "id": "6438559c1a511c59a3a7",
+      "title": "El ajuste entra en zona sensible: el gasto no indexado debería caer 6% real para cumplir con el FMI",
+      "summary": "CÓRDOBA.- Con una mejora en los datos de actividad y empleo, en la Casa Rosada creen que en abril se tocó el piso y que los próximos meses serán mejores. Con ese discurso encaran las negociaciones con los diferentes sectores a la vez que el presidente Javier Milei ratifica que no renunciará a sostener el superávit fiscal. Para cumplir la meta del 1,4% del PBI acordada con el Fondo Monetario Internacional (FMI), el gasto primario no indexado (45% del total) debería caer otro 6% real. Un informe del Iaraf dirigido por Nadin Argañaraz advierte que, con ingresos tributarios más débiles de lo previsto, el Gobierno necesitará profundizar el recorte sobre salarios, obra pública, subsidios y programas sociales para cumplir con la meta fijada por el Fondo. Jubilaciones y AUH, en cambio, ya recuperaron casi todo lo perdido frente a 2023 . La motosierra fiscal empieza a mostrar un cambio de etapa. Después de dos años de fuerte licuación del gasto previsional, el ajuste del Gobierno nacional parece concentrarse cada vez más en otra zona del presupuesto: el gasto no indexado . Es decir, salarios públicos, obra pública, transferencias a provincias, subsidios, programas sociales y funcionamiento estatal. El Iaraf analizó el posible cierre fiscal del año y describió un escenario de creciente tensión entre la meta de superávit y la recaudación que lleva diez meses de caída. El trabajo parte de que, mientras el presupuesto 2026 proyecta una suba real de 6,7% en la recaudación tributaria, los ingresos nacionales acumularon en el primer cuatrimestre una caída real interanual de 6,7%. Para que la meta oficial pudiera cumplirse , la recaudación debería crecer 13,2% real interanual en los últimos ocho meses del año , lo que Argañaraz considera “ de imposible cumplimiento ”. Alcanzar la meta presupuestada implicaría que los tres tributos que deberían registrar los mayores aumentos reales en lo que queda del año serían el de combustibles (62%), las retenciones (32%) y los de importación (27",
+      "link": "https://www.lanacion.com.ar/politica/el-ajuste-entra-en-zona-sensible-el-gasto-no-indexado-deberia-caer-6-real-para-cumplir-con-el-fmi-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 10:24:48 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/OBN6EFAVKFAXZGP4JMXU526T6Y.JPG?auth=2956f3dbdabf6bb0c076b2d8f25eb8d335e265568494d97d042176bb96374739&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "b7162985f6b4b11f9248",
+      "title": "Caputo publicará el detalle de cómo la Argentina afrontará los pagos de la deuda hasta las elecciones de 2027",
+      "summary": "El ministro de Economía, Luis Caputo , publicará próximamente los detalles sobre cómo la Argentina afrontará los pagos de la deuda hasta el final del mandato de Javier Milei en 2027 , según anticipó a LA NACION una fuente con conocimiento directo del tema. En el Palacio de Hacienda consideran que el oficialismo llegará a la próxima contienda presidencial con buenas chances de reelección y que eso reducirá las probabilidades de una crisis financiera como la del año pasado. Igual trabajan para llegar a los comicios con mayores “colchones” de reservas y financiamiento. La idea de Caputo, que pidió a su equipo preparar un documento explícito de su hoja de ruta, es mostrar cómo piensa cubrir los vencimientos para despejar una de las principales dudas que hoy aparecen entre inversores, bancos internacionales y el propio Fondo Monetario Internacional (FMI) : cómo hará la Argentina para cumplir sus compromisos y al mismo tiempo atravesar el próximo período electoral sin una nueva crisis cambiaria. En un informe reciente, JP Morgan sostuvo que el gran desafío será construir “antifragilidad” antes de 2027, es decir, llegar al próximo turno presidencial con más reservas, vencimientos cubiertos y distintas fuentes de financiamiento que permitan atravesar el ciclo electoral sin tensiones severas en el dólar. “El desafío central es asegurar fuentes de financiamiento antes de la elección presidencial”, advirtió el banco estadounidense, que estimó que, aun con un rollover del 100% de la deuda en pesos, la Argentina enfrenta una brecha de financiamiento cercana a US$10.000 millones en 2027. Esa cifra podría reducirse a la mitad si el Banco Central logra refinanciar los vencimientos de las operaciones repo que mantiene con bancos internacionales. El resumen que hace Economía es que las colocaciones de Bonares con vencimiento en 2027 y 2028 sumarían unos US$4000 millones, a lo que se agregarían al menos otros US$4000 millones de préstamos de bancos privados internacionales garantizado",
+      "link": "https://www.lanacion.com.ar/economia/caputo-publicara-el-detalle-de-como-la-argentina-afrontara-los-pagos-de-la-deuda-hasta-las-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 10:23:14 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/GXTWFMLS5RAXBJMEMCMBUXJFJU.JPG?auth=6303ea7e7e5f4bf93206f15a9817a44bad51fc1ed7809cd86ea3b1eba6be5002&smart=true&width=883&height=662"
+    },
+    {
+      "id": "48c6d90a150d487358d5",
+      "title": "Jefe militar iraní promete una respuesta \"devastadora\" a cualquier agresión",
+      "summary": "Las Fuerzas Armadas iraníes \"impondrán al enemigo el poderío y la gloria\" del país persa, aseveró el mayor general Ali Abdollahi Aliabadi",
+      "link": "https://actualidad.rt.com/actualidad/606785-jefe-militar-irani-prometer-respuesta?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:21:41 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12d1f8e9ff7120c43cecc5.jpg"
+    },
+    {
+      "id": "aef82524f20aac1d0259",
+      "title": "Qué dijo Putin sobre la incapacidad de los sistemas occidentales para interceptar el Oréshnik",
+      "summary": "La noche pasada Rusia lanzó por tercera vez su novedoso misil contra objetivos militares del régimen de Kiev.",
+      "link": "https://actualidad.rt.com/actualidad/606773-putin-incapacidad-sistemas-occidentales-oreshnik?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:19:12 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12c38759bf5b31182893de.jpg"
+    },
+    {
+      "id": "fbea1d5c8aa14bf11f58",
+      "title": "\"Todo tiene un límite\": Paz no descarta endurecer medidas frente a los bloqueos en rutas estratégicas de Bolivia",
+      "summary": "El mandatario boliviano aseguró que su Gobierno sigue apostando por el diálogo.",
+      "link": "https://actualidad.rt.com/actualidad/606771-tiene-limite-paz-descartar-endurecer-medidas-bloqueos-bolivia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:15:34 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12c4cd59bf5b31182893e1.jpg"
+    },
+    {
+      "id": "ed0a2dcfbbed35f90efd",
+      "title": "Ethereum hoy: cotización y precio del ETH este domingo 24 de mayo de 2026",
+      "summary": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+      "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-domingo-24-de-mayo-de-2026_0_MBHReXsTcp.html",
+      "pubDate": "Sun, 24 May 2026 10:15:14 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/08/25/r8q0CRi-o_1200x630__1.jpg"
+    },
+    {
+      "id": "4988d974bd3fe0012560",
+      "title": "Bitcoin hoy: cotización y precio del BTC este domingo 24 de mayo de 2026",
+      "summary": "El valor actualizado del Bitcoin y la comparación con la jornada previa. Las claves para entender la volatilidad de la principal criptomoneda en el mercado.",
+      "link": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-domingo-24-de-mayo-de-2026_0_iuyVLi3Hze.html",
+      "pubDate": "Sun, 24 May 2026 10:15:10 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/08/25/r8q0CRi-o_1200x630__1.jpg"
+    },
+    {
+      "id": "d040ee32bddd5e09e066",
+      "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 24 de mayo de 2026 en Argentina",
+      "summary": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna sorpresa.",
+      "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-24-de-mayo-de-2026-en-argentina_0_oevqSoXpt0.html",
+      "pubDate": "Sun, 24 May 2026 10:15:05 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2022/08/12/j6gArTZPB_1200x630__1.jpg"
     },
     {
       "id": "4a9f0bfea8c2a3e87c0b",
@@ -520,6 +862,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/b9BQm1g4h5V81ZQRJ.jpeg"
     },
     {
+      "id": "54380026a1e9b2f1e172",
+      "title": "El ánimo del consumidor en EE.UU. cae a mínimo histórico",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/606781-consumidor-eeuu-economia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 24 May 2026 10:14:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
       "id": "9b2c696878d8fe0a181e",
       "title": "La pasarela de Sinner se traslada a la tierra de París",
       "summary": "Sinner atiende a los medios.",
@@ -530,6 +882,97 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/23/6a11a455c7629.jpeg"
     },
     {
+      "id": "11a46759f050be2b867f",
+      "title": "Dólar tarjeta hoy: a cuánto cotiza este domingo 24 de mayo",
+      "summary": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+      "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-domingo-24-mayo_0_5R02ZuLZbI.html",
+      "pubDate": "Sun, 24 May 2026 10:08:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2019/11/29/W92lPof3_1200x630__1.jpg"
+    },
+    {
+      "id": "aa1a32af691f7e6133f2",
+      "title": "Dólar CCL hoy: a cuánto cotiza este domingo 24 de mayo",
+      "summary": "Mirá la cotización para la compra y venta del dólar CCL hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+      "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-domingo-24-mayo_0_t5N1Bu7QGF.html",
+      "pubDate": "Sun, 24 May 2026 10:08:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2016/01/29/rJMAol3t4x_1200x630.jpg"
+    },
+    {
+      "id": "96b06d4741fe58e217de",
+      "title": "Dólar MEP hoy: a cuánto cotiza este domingo 24 de mayo",
+      "summary": "Mirá la cotización para la compra y venta del dólar MEP hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+      "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-domingo-24-mayo_0_3wr5d1D1kq.html",
+      "pubDate": "Sun, 24 May 2026 10:05:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/07/23/bMdb9DlKC_1200x630__1.jpg"
+    },
+    {
+      "id": "ce9dc90b70281054fa7b",
+      "title": "La automotriz que presta hasta $30 millones a dos años con tasa cero",
+      "summary": "Las automotrices vienen desplegando este año estrategias comerciales agresivas luego de que el sector registrara en el primer cuatrimestre una leve caída del 5,7% en las ventas. En ese contexto, y con el objetivo de sostener el ritmo de patentamientos (o incluso superar los niveles de 2025, que había sido un buen año para la actividad), varias marcas decidieron mantener sus precios prácticamente sin cambios y continuar ofreciendo financiación en cuotas, incluso con algunos modelos a tasa 0. Así es el SUV chino que destaca por su bajo consumo y es uno de los más vendidos En ese escenario se ubica Fiat, automotriz que mantiene sus precios congelados (con excepciones que aumentaron en torno al 1%, aún por debajo de la inflación mensual). En paralelo a su política de precios, la marca avanzó con opciones de financiación con distintas líneas de crédito que afectan a toda su gama de vehículos. Allí aparecen planes a 18 meses con montos de hasta $18.000.000 y alternativas a 12 meses con financiación hasta $24.000.000 para todos sus modelos. Además, Fiat reforzó las condiciones para algunos de sus modelos más importantes. Tanto el Cronos como los SUV Pulse y Fastback, junto con la pick up Toro, cuentan con opciones de financiación de hasta $28.000.000 a 18 meses. En el caso del Fiat 600 Hybrid, la marca ofrece dos alternativas: una de hasta $20.000.000 a 24 meses y otra de hasta $30.000.000 a 12 meses. Por su parte, la nueva pick up Titano dispone de una línea especial que permite financiar hasta $35.000.000 a 12 meses. A su vez, Fiat continúa ofreciendo créditos UVA a 36 meses, con posibilidad de financiar hasta $30.000.000, en una estrategia con la que busca sostener el volumen de patentamientos en un mercado cada vez más competitivo en la Argentina. Los precios de lista de Fiat de mayo 2026 Fiat Mobi Trekking 1.0: $27.630.000 Fiat Argo Drive 1.3 MT: $30.230.000 Fiat Argo Drive 1.3 CVT: $32.650.000 Fiat Cronos Like 1.3 GSE: $31.120.000 Fiat Cronos Drive 1.3 GSE Pack Plus:",
+      "link": "https://www.lanacion.com.ar/autos/la-automotriz-que-presta-hasta-30-millones-a-dos-anos-con-tasa-cero-nid17052026/",
+      "pubDate": "Sun, 24 May 2026 10:05:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/2Z2LVNFDKFGGRGUIXCLDXJOWWU.webp?auth=c84041d781d710cfb44b730994608e7920ab5a8ba6c31bd06288d9064ab910fa&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "2e6be5703ed244cc0972",
+      "title": "La ley HB 757 impulsada por DeSantis en Florida que impactará en la seguridad de millones de estudiantes",
+      "summary": "El gobernador de Florida , Ron DeSantis , firmó una nueva legislación que amplía medidas de seguridad y suma nuevos protocolos. La norma, identificada como HB 757 , incorpora nuevas exigencias para universidades y colleges públicos , fortalece sanciones penales vinculadas al uso de armas cerca de establecimientos educativos y amplía programas de prevención ya existentes. Qué cambia con la HB 757 firmada por DeSantis en Florida De acuerdo con un comunicado difundido por la gobernación de Florida , la firma de la ley se realizó durante la quinta edición anual del Commissioner’s Summit, un encuentro centrado en seguridad y protección escolar. “Hoy me enorgulleció continuar estos esfuerzos al firmar HB 757, que mejora los requisitos y las mejores prácticas de seguridad en campus universitarios y colleges de toda Florida”, expresó Ron DeSantis . El mandatario agregó que el Estado debe concentrarse en “mantener el foco en la seguridad de estudiantes y educadores”. La nueva legislación impactará directamente en instituciones públicas de educación superior de todo el estado. En ese sentido, obliga a implementar nuevos protocolos y estructuras de respuesta ante posibles situaciones de violencia o amenazas dentro de los campus . La mayor parte de la norma rige desde el pasado 15 de mayo , aunque la disposición penal sobre disparos cerca de escuelas entra en vigor el 1° de octubre de 2026. HB 757 en Florida: nuevos protocolos, Guardian Program y sanciones por armas Según la información oficial de la gobernación, la ley introduce varias modificaciones vinculadas con prevención, respuesta rápida y protección de estudiantes, docentes y trabajadores educativos. Ron DeSantis Presentó La Nueva Ley Sobre Armas Entre los principales puntos de la normativa aparecen: La ampliación del programa Guardian Program para incluir instituciones públicas de educación superior. La creación de un delito grave de segundo grado por disparar un arma dentro de un radio de 1000 pies (304 metros) de una",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/la-ley-hb-757-impulsada-por-desantis-en-florida-que-impactara-en-la-seguridad-de-millones-de-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 10:02:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/67DG4CRHYJGU7LHQ5IYI54I5HI.png?auth=566799eeb6e856143f9e4aad2da6afdf3d479aab790ab828af50c9171594bda6&smart=true&width=880&height=586"
+    },
+    {
+      "id": "30bbb074666e63b351f1",
+      "title": "El tiburón que vive más de 300 años aunque tiene el corazón enfermo: qué descubrieron los científicos",
+      "summary": "El increíble espécimen desconcierta a la ciencia por su longevidad extrema pese a presentar alteraciones cardíacas. Cómo logra sobrevivir durante siglos y qué revela sobre resistencia biológica.",
+      "link": "https://www.clarin.com/internacional/tiburon-vive-300-anos-corazon-enfermo-descubrieron-cientificos_0_myfFZxujLU.html",
+      "pubDate": "Sun, 24 May 2026 10:00:35 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2016/08/11/H1bMGanY4x_1200x630.jpg"
+    },
+    {
+      "id": "37123aa4d60391d7e6e3",
+      "title": "Brad Pitt frenó una escena y Quentin Tarantino explotó en pleno rodaje: la tensa pelea que casi cambia “Había una vez en Hollywood”",
+      "summary": "A siete años del estreno de la película, salió a la luz el momento en que el director perdió la paciencia con el actor y le lanzó una advertencia brutal delante de todo el set.",
+      "link": "https://www.clarin.com/espectaculos/brad-pitt-freno-escena-quentin-tarantino-exploto-pleno-rodaje-tensa-pelea-cambia-vez-hollywood_0_Ono6COXWOw.html",
+      "pubDate": "Sun, 24 May 2026 10:00:35 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2019/05/08/TnzlDQYbA_1200x630__1.jpg"
+    },
+    {
+      "id": "9fc3e2f7ce81b668bf65",
+      "title": "GP de Japón F1: los pilotos y equipos con más victorias en la historia",
+      "summary": "La carrera norteamericana se disputa en el Circuito Gilles Villeneuve, uno de los trazados más rápidos y técnicos del calendario. Desde su debut en 1967, fue escenario de proezas técnicas y el famoso \"Muro de los Campeones\" que marcó la Fórmula 1.",
+      "link": "https://www.clarin.com/deportes/gp-japon-f1-pilotos-equipos-victorias-historia_0_wnQJhMqEJK.html",
+      "pubDate": "Sun, 24 May 2026 10:00:35 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/04/20/uYfdMiVa1_1200x630__1.jpg"
+    },
+    {
+      "id": "b6458ff73ad1f174029d",
+      "title": "La DGT lo confirma: te pueden multar si usas alguno de estos soportes para el móvil en tu coche",
+      "summary": "Cada cierto tiempo la DGT publica recomendaciones y advertencias sobre hábitos que realizan los conductores y que pueden tener como consecuencia una sanción, y una de las más repetidas es el uso del móvil durante la conducción. La Ley de Tráfico deja claro que utilizar este tipo de dispositivos al volante conlleva una multa de 200 euros y la pérdida de seis puntos del carné. Pero, ¿qué pasa con usar los soportes para el móvil? Los soportes para el móvil en el coche se han convertido en un imprescindible para muchos, sobre todo para aquellos que tienen un coche más antiguo o sin sistema de infoentretenimiento. Sirven para llevar el teléfono de manera fija y visible durante la conducción, lo que a su vez te permite acceder a información importante, como las indicaciones en el mapa, las llamadas que recibes, etc. No obstante, muchos de ellos no cumplen los requisitos según la normativa vigente . La DGT subraya en el artículo 18 del Reglamento General de Circulación que es obligatorio mantener la atención en la carretera en todo momento y que el campo de visión esté completamente despejado. \" El conductor de un vehículo está obligado a mantener su propia libertad de movimientos , el campo necesario de visión y la atención permanente a la conducción, que garanticen su propia seguridad, la del resto de los ocupantes del vehículo y la de los demás usuarios de la vía\", se detalla. El reglamento de la DGT también dice que es obligatoria \" la adecuada colocación de los objetos o animales transportados para que no haya interferencia entre el conductor y cualquiera de ellos\". Aquí es donde entran los soportes para el móvil. Si estos reducen tu campo de visión o pueden suponer un estorbo, y un policía se da cuenta, pueden multarte con hasta 200 euros. ¿Qué soportes están permitidos y cuáles no? La DGT no detalla en ningún momento qué soportes para el móvil están permitidos o no. Por tanto, el conductor es el responsable de escoger un accesorio que se ajuste a la normativa. En cu",
+      "link": "https://hipertextual.com/movilidad/la-dgt-lo-confirma-te-pueden-multar-si-usas-alguno-de-estos-soportes-para-el-movil-en-tu-coche/",
+      "pubDate": "Sun, 24 May 2026 10:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/soporte-coche-movil-01.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "mercado"
+    },
+    {
       "id": "296aa5becfa1212e9bf8",
       "title": "Bronca importante en la F1",
       "summary": "Russell, Antonelli y Norris posan tras la clasificación de Canadá.",
@@ -538,6 +981,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/23/6a121a8197bc1.jpeg"
+    },
+    {
+      "id": "d33be30013db7f062896",
+      "title": "Aplican el mismo sistema de restauración que se uso para Notre Dame y el Coliseo en un monumento de la Argentina",
+      "summary": "Con la mirada puesta en el próximo 20 de junio , uno de los íconos más importantes de la Argentina se encuentra en plena remodelación . Pero esta vez no se trata solo de pintura, limpieza o puesta en valor; la restauración incorpora tecnología utilizada en monumentos internacionales como la Catedral de Notre Dame y el Coliseo Romano . La obra, que integra tecnología de vanguardia y criterios de conservación internacional, busca devolverle al Monumento a la Bandera su esplendor original tras haber alcanzado un 60% de avance antes de su paralización. Ni Puerto Madero ni zona norte: un desarrollador vendió 75 departamentos en menos de dos semanas La intervención no es solo estética, sino estructural . “Aplicamos tecnología especializada para proteger tanto la estructura como el valor simbólico y cultural del patrimonio”, explicaron especialistas de Mapei, la empresa a cargo de la restauración. La misma “patología” que afecta al Coliseo romano El deterioro encontrado en el monumento de Rosario tiene puntos en común con el que sufren monumentos históricos europeos . “La patología común que encontramos tanto en Roma como en Rosario es la degradación por agentes atmosféricos combinada con la carbonatación y la infiltración de humedad”, señaló Verónica Squinzi, CEO de la empresa especializada en recuperación patrimonial. En el caso del Monumento a la Bandera, eso se traduce en desprendimientos, manchas biológicas provocadas por hongos y líquenes, además de corrosión interna en las armaduras de hierro. Un fenómeno similar afecta al travertino del Coliseo Romano debido a la lluvia ácida y los cambios bruscos de temperatura . Entró en default la constructora detrás de la creación de la Rueda de Puerto Madero y la remodelación del Monumental Para combatirlo, se aplicó una combinación de limpieza ultrasónica y química pasiva destinada a eliminar microorganismos sin desgastar el mármol. Además, se utilizaron compuestos que penetran la piedra porosa y reconstruyen desde adentro el",
+      "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/aplican-el-mismo-sistema-de-restauracion-que-se-uso-para-notre-dame-y-el-coliseo-en-un-monumento-de-nid24052026/",
+      "pubDate": "Sun, 24 May 2026 09:59:00 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/JGU3IAUHWVASBGEPFBDLLYISWE.jpg?auth=b606ed0802eb6086e1cc7b8270ae427e78f5c72436eadffc8ec6e02860845c59&smart=true&width=5616&height=3744"
     },
     {
       "id": "e313d819633439d9c994",
@@ -570,16 +1023,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/b9Aaw1g4gZrE_H7Of.jpeg"
     },
     {
-      "id": "220a3937678db0c6e2dc",
-      "title": "Presentador 'tirado a la basura' por Trump regresa a la TV",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606776-presentador-tirado-basura-trump-regresa?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:47:05 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "89c63a3738f2a56f16db",
       "title": "Adiós California y Nueva York: las corporaciones millonarias con miles de trabajos que se mudan a Florida y Texas",
       "summary": "Cada vez más empresas de Estados Unidos evalúan mover sus oficinas centrales , abrir nuevas sedes o expandir operaciones desde estados como California y Nueva York hacia mercados de Texas y Florida . La tendencia quedó reflejada en un informe de la firma inmobiliaria y consultora CBRE, que analizó 725 anuncios públicos de relocalizaciones corporativas registrados entre 2018 y 2025. Texas lidera la llegada de empresas y nuevos empleos Según el reporte, publicado en la página web oficial de la entidad , muchas compañías buscan reducir costos operativos, acceder a impuestos más bajos y reorganizar sus oficinas tras la expansión del trabajo híbrido. Dallas-Fort Worth y Austin aparecen entre las ciudades que más sedes corporativas recibieron durante los últimos años, mientras que California registró las mayores pérdidas netas. El informe de CBRE señaló que Dallas-Fort Worth fue el área metropolitana que más sedes corporativas atrajo desde 2018, con más de 100 reubicaciones . Solo durante 2025 recibió 11 nuevas oficinas centrales provenientes de ciudades de alto costo como Los Ángeles, San Francisco, Nueva York y Chicago . Austin también consolidó su crecimiento como sitio empresarial y tecnológico . El estudio indicó que la ciudad sumó otras 88 relocalizaciones corporativas en los últimos siete años, mientras que Houston agregó 31 . La consultora explicó que muchas empresas decidieron mudarse para reducir gastos vinculados con alquileres, mantenimiento y estructura operativa . Además, el crecimiento del trabajo híbrido llevó a numerosas compañías a buscar oficinas más pequeñas y flexibles. CBRE detalló que las principales razones detrás de las mudanzas fueron: Reducción de costos operativos. Menores impuestos. Acceso a nuevos mercados. Disponibilidad de talento. Mejores condiciones inmobiliarias. Oportunidades de crecimiento empresarial. La organización también señaló que varias compañías optaron por abandonar grandes oficinas tradicionales para instalarse en espacios má",
@@ -598,16 +1041,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12ac3082f1b.jpeg"
-    },
-    {
-      "id": "54eb067d74a42f18ee74",
-      "title": "Importante naviera cancela tarifas ultrabaratas tras un fallo masivo de precios en su sitio web",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606775-carnival-tarifas-fallo-tecnico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:37:59 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "ff799631957057af470c",
@@ -630,14 +1063,25 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12a87a7e5b2.jpeg"
     },
     {
+      "id": "dde8ed70a1942b62e113",
+      "title": "Diego Redolar, experto en neurociencia: \"Es bueno tener pesadillas, cuanto más negativas, mejor, para un envejecimiento cerebral saludable\"",
+      "summary": "El especialista explica la función de las pesadillas en la salud cognitiva de los adultos.",
+      "link": "https://www.clarin.com/estados-unidos/diego-redolar-experto-neurociencia-bueno-tener-pesadillas-negativas-mejor-envejecimiento-cerebral-saludable_0_4RWLtbPFtO.html",
+      "pubDate": "Sun, 24 May 2026 09:30:35 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/30/YNkLeTK0w_1200x630__1.jpg"
+    },
+    {
       "id": "fcb0d9ae98036ea28391",
       "title": "Rusia vuelve a utilizar el misil hipersónico Oréshnik en uno de los mayores ataques sobre Kiev",
-      "summary": "Bomberos trabajan en el lugar donde se encuentra un edificio dañado durante un ataque con misiles y drones rusos, en el marco de la ofensiva de Rusia contra Ucrania, en un lugar identificado como Kiev (Ucrania), en esta captura de pantalla tomada de un vídeo facilitado, el 24 de mayo de 2026.",
+      "summary": "Una residente junto a un edificio en llamas tras un ataque con misiles y drones rusos en Kiev, este domingo.",
       "link": "https://elpais.com/internacional/2026-05-24/rusia-vuelve-a-utilizar-el-misil-hipersonico-oreshnik-en-uno-de-los-mayores-ataques-sobre-kiev.html",
       "pubDate": "Sun, 24 May 2026 09:21:41 GMT",
       "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/PPRKFBGYPJKDJIDQ7NOSPWWSZ4.jpg?auth=7ccfb07349a77f2b305f8a3e392e00b366c768e3d9f98f27697cf84aee98d3fb"
+      "cat": "ia",
+      "image": "https://imagenes.elpais.com/resizer/v2/TKYOW3QZOZDJHKMDZ43RM2LKBI.JPG?auth=fdaccdfd6e15bf8f43001d3a2774a57da920d67d3f7381369869776ea00b18af",
+      "subcat": "herramientas"
     },
     {
       "id": "9cd11b3b0b31d73c4f89",
@@ -650,66 +1094,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a12a64bc1a91.jpeg"
     },
     {
-      "id": "b181f722492f420dc50e",
-      "title": "Tasnim: Falta de acuerdo entre EE.UU. e Irán en puntos clave mantiene paralizado el memorando de entendimiento",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606774-tasnim-falta-acuerdo-eeuu-memorando?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:14:35 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "aebc922ad1f84ccac29a",
-      "title": "Un disparo, un campesino y un codazo: la 'mano de Dios' que salvó al zar libertador",
-      "summary": "La bala disparada por el estudiante Dmitri Karakózov en 1866 habría de multiplicarse después un sinfín de veces hasta llegar al sótano del ingeniero Ipátiev donde fue ejecutada la familia de Nicolás II en 1918.",
-      "link": "https://actualidad.rt.com/a-fondo/606533-mano-dios-salvar-zar-libertador-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:12:26 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a115fa0e9ff7109080e0db8.jpg"
-    },
-    {
-      "id": "5262ce63ab6d344772ad",
-      "title": "Asesor iraní llama a crear una \"OTAN islámica\"",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606769-asesor-irani-llamar-creacion-otan?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:10:00 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "2b3a4c926466cfc43675",
-      "title": "\"Soy un hombre probo\": Rocha Moya responde al citatorio por acusaciones de EE.UU.",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606767-hombre-probo-rocha-moya-responder?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:09:27 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "05f92832ab8d03c819ac",
-      "title": "Bloomberg: Reino Unido afronta semanas o meses de incertidumbre por el futuro de Starmer",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606772-starmer-reino-unido-crisis?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 09:09:06 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "978e78bb9602a50d8cac",
-      "title": "La laguna bonaerense con muelles iluminados y comodidades ideales para pescar en invierno",
-      "summary": "La cercanía con CABA y sus comodidades convierten a esta laguna en un clásico del turismo bonaerense de invierno. Además de pesca, el destino ofrece kayak, avistamiento de aves y hasta jornadas de astroturismo junto al agua.",
-      "link": "https://www.clarin.com/viajes/laguna-bonaerense-muelles-iluminados-comodidades-ideales-pescar-invierno_0_PNmDn6GJzb.html",
-      "pubDate": "Sun, 24 May 2026 09:08:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/21/SOAsljy1m_1200x630__1.jpg"
-    },
-    {
       "id": "4595ed09bc38208a95a1",
       "title": "La gente dejó de mirar el motor y el diseño de un auto para definir qué compra",
       "summary": "El mundo está cada vez conectado. Por eso, ya nos sorprende contar con dispositivos inteligentes en nuestros hogares. En línea con esa tendencia los vehículos suman más tecnología y aplicaciones para ofrecer confort y seguridad a la hora de viajar. Hoy casi todas las automotrices cuentan con asistentes que permiten a los usuarios desde su celular, por ejemplo, abrir o cerrar las puertas de su automóvil, controlar la temperatura del auto, recibir alarmas relacionadas con el manejo y hasta contactar a las autoridades en caso de sufrir un robo o accidente de tránsito. Una automotriz bajó el precio de un auto y una pickup hasta un 26% Es que las fabricantes se dieron cuenta que los usuarios ya no miran solo el motor, las terminaciones interiores, o el diseño del vehículo; hoy prestan mucha atención en el confort y la tecnología, servicios que pueden inclinar la balanza a la hora de definir la elección. Los autos conectados de Toyota y Volkswagen, por ejemplo, permiten configurar alertas de perímetro y límite de velocidad desde el celular. Mientras que FordPass, la aplicación móvil de Ford, fue diseñada para conectar a los usuarios con sus vehículos. La plataforma permite gestionar funciones remotas, monitorear el estado del auto en tiempo real y acceder a servicios de posventa directamente desde el celular. Otro claro ejemplo es OnStar, la plataforma de conectividad de Chevrolet, que acaba de festejar una década desde su llegada al país. Esta compañía reveló que el 93% del portfolio de vehículos Chevrolet que se vende en la Argentina están conectados con Onstar, lo que demuestra que la conectividad se volvió un estándar en la propuesta de valor y calidad de la marca, con más de 160.000 vehículos conectados en el país. OnStar permite, por ejemplo, el diagnóstico remoto de la unidad, seguridad y asistencia 24/7 en caso de colisión, recuperación vehicular, asistencia en ruta y el “acompañamiento seguro”, además de otras funciones para gestión de flotas. “OnStar brinda bene",
@@ -718,16 +1102,6 @@
       "source": "La Nacion",
       "cat": "tech",
       "image": "https://resizer.glanacion.com/resizer/v2/MJTUDF3UEVGCRMMINF5LHAY4XM.jpg?auth=72a4ef25768a9770a2870b256c2919ef96ab780f1be7e8a0657ac826bdc03903&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "f4bdbefba9dff8090ecf",
-      "title": "Quién fue José Luis Torres, el periodista que expuso la corrupción de la \"Década Infame\"",
-      "summary": "Nacido en Tucumán, la obra periodística de Torres expuso las maniobras corruptas de gobiernos y empresas y los abusos del poder. También fue quien bautizó el período 1930-1943 como Década Infame.",
-      "link": "https://www.clarin.com/viva/jose-luis-torres-periodista-expuso-corrupcion-decada-infame_0_rjeuHDK1Tb.html",
-      "pubDate": "Sun, 24 May 2026 09:06:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/19/E6Ei3Y4Da_1200x630__1.jpg"
     },
     {
       "id": "1035880121bb714c6238",
@@ -758,86 +1132,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/PS6-SSD-generada-con-IA.jpg"
-    },
-    {
-      "id": "03e3eccadf5156880115",
-      "title": "La clave del bienestar: qué poder tienen los vínculos sobre la salud",
-      "summary": "Las relaciones humanas, aunque complejas, son esenciales para la salud emocional. Un estudio de Harvard revela que la calidad de los vínculos predice el bienestar.",
-      "link": "https://www.clarin.com/viva/clave-bienestar-poder-vinculos-salud_0_1yfEHiyRmG.html",
-      "pubDate": "Sun, 24 May 2026 09:02:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2024/12/18/tiNLDH-Z-_1200x630__1.jpg"
-    },
-    {
-      "id": "59222ab446d9d78d3faf",
-      "title": "Hackear un Audi en Miami: Ekoparty mostró en sus “villages” el espíritu de la comunidad hacker",
-      "summary": "La conferencia hacker argentina llevó a EE.UU. talleres y demos de car hacking, IA, apertura de cerraduras y competencias. El balance combinó entusiasmo, autogestión y puntos a mejorar, con la mira puesta en la edición 2027.",
-      "link": "https://www.clarin.com/tecnologia/hackear-audi-miami-ekoparty-mostro-villages-espiritu-comunidad-hacker_0_yZqR8aUOsM.html",
-      "pubDate": "Sun, 24 May 2026 09:02:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/23/KDs7rnjSj_1200x630__1.jpg"
-    },
-    {
-      "id": "a4f029fbe3742f6c42b1",
-      "title": "Sale a la luz un informe sobre los efectos adversos graves de la vacuna del Covid en niños que fue ocultado",
-      "summary": "La evaluación de estos efectos se hizo sobre la vacunación con Pfizer y Moderna. La FDA de EE.UU. había asociado las vacunas con las muertes de diez niños. Pero recién ahora revelan cuál es el verdadero vínculo entre ambas cosas.",
-      "link": "https://www.clarin.com/sociedad/sale-luz-informe-efectos-adversos-graves-vacuna-covid-ninos-ocultado_0_Mocg5qc44g.html",
-      "pubDate": "Sun, 24 May 2026 09:00:36 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2021/10/01/j7cLLROci_1200x630__1.jpg"
-    },
-    {
-      "id": "d4ce2424ac13e435c824",
-      "title": "¿Fin de la motosierra?: los subsidios rebotan desde el nivel más bajo en la última década, pero el FMI pide más ajuste",
-      "summary": "Los aportes estatales a la luz y el gas empezaron a crecer a comienzos de este año por el pago de deudas atrasadas, pero son los más bajos en los últimos 10 años. La UBA advierte que ya dejaron de ser un problema fiscal y ahora las tarifas son un inconveniente para los ingresos familiares. El Fondo sigue pidiendo una ayuda más focalizada.",
-      "link": "https://www.clarin.com/economia/fin-motosierra-subsidios-rebotan-nivel-ultima-decada-fmi-pide-ajuste_0_psttZbfoIu.html",
-      "pubDate": "Sun, 24 May 2026 09:00:35 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/17/ZpqxiSO5Q_1200x630__1.jpg"
-    },
-    {
-      "id": "47452271210fbc97b24f",
-      "title": "La historia de Renata: tiene epilepsia y pudo controlar sus ataques dejando de comer un tipo de alimento",
-      "summary": "A los cinco meses, sus padres advirtieron las primeras señales de alarma y comenzaron con las consultas y estudios. Probaron medicamentos que no funcionaron hasta que dieron con un tratamiento que antes se solía aplicar como último recurso. En qué consiste la \"dieta cetogénica\" que actúa como un anticonvulsivo natural.",
-      "link": "https://www.clarin.com/sociedad/historia-renata-epilepsia-pudo-controlar-ataques-dejando-comer-tipo-alimento_0_eBBfrfvyi3.html",
-      "pubDate": "Sun, 24 May 2026 09:00:35 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/21/SXZ5S_dY__1200x630__1.jpg"
-    },
-    {
-      "id": "10d6b652918058515e4a",
-      "title": "Cumplió 100 años y le rinden homenaje como el graduado más longevo de su colegio: \"Las ganas de saber más siempre están\"",
-      "summary": "Juan Arida es periodista y poeta, y se mantiene en plena actividad, escribiendo \"y haciendo palabras cruzadas\". Este domingo será distinguido en el Colegio San Marón, donde cursó el secundario. Trabajó en Clarín entre 1959 y 1971, y se destacó por su pluma creativa.",
-      "link": "https://www.clarin.com/sociedad/cumplio-100-anos-rinden-homenaje-graduado-longevo-colegio-ganas-saber-siempre_0_eUDjzpW5Of.html",
-      "pubDate": "Sun, 24 May 2026 09:00:35 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/22/KzdiU9F4C_1200x630__1.jpg"
-    },
-    {
-      "id": "a1a4fc5c4836b6c48405",
-      "title": "\"¿No sabés qué fiesta vamos a hacer?\": la nueva versión de \"Pequeño J\" sobre el triple crimen de Florencio Varela",
-      "summary": "El joven peruano amplió su declaración indagatoria ante la Justicia desde el penal de Marcos Paz. Detalló lo que hizo en los días previos a los asesinatos Morena Verdi (20), Brenda del Castillo (20) y Lara Gutiérrez (15) y contó como escapó hacia su país. \"No sabía del plan\", afirmó en su descargo, que apuntó a otros imputados como los principales responsables.",
-      "link": "https://www.clarin.com/policiales/sabes-fiesta-vamos-hacer-nueva-version-pequeno-j-triple-crimen-florencio-varela_0_m4lWOorjmW.html",
-      "pubDate": "Sun, 24 May 2026 09:00:35 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/04/30/Al-d3YbvM_1200x630__1.jpg"
-    },
-    {
-      "id": "995ce9534c49a2e9ac45",
-      "title": "F1 GP de Canadá con Franco Colapinto, EN VIVO: horario y cómo ver la carrera de la Fórmula 1 en el Gilles Villeneuve de Montreal",
-      "summary": "En Montreal, la categoría disputa su quinto fin de semana, el tercero en formato Sprint. El argentino fue 9° en la carrera corta y luego avanzó a la Q3 y larga desde el 10° lugar. También habrá Fórmula 2, con Nico Varrone.",
-      "link": "https://www.clarin.com/deportes/f1-gp-canada-franco-colapinto-vivo-horario-ver-carrera-formula-1-gilles-villeneuve-montreal_0_o4yB5O8owb.html",
-      "pubDate": "Sun, 24 May 2026 09:00:35 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/05/22/OdHEwVCY2_1200x630__1.jpg"
     },
     {
       "id": "ceca3b31eeafb80515dc",
@@ -901,16 +1195,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a129f2156616.jpeg"
     },
     {
-      "id": "35074b5b794a7a266393",
-      "title": "Rubio activa el mantra antiiraní cuando le preguntan por ataque mortífero a escuela en Minab",
-      "summary": "El secretario de Estado de EE.UU. instó a la BBC a cubrir las acciones de Irán, en lugar de la tragedia en la que murieron más de 160 personas.",
-      "link": "https://actualidad.rt.com/actualidad/606766-rubio-activa-mantra-antiirani?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 08:57:15 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12b701e9ff714513750f58.jpg"
-    },
-    {
       "id": "ba41f1c33a22a59523d5",
       "title": "“Envidiosa”: la historia detrás de la casa que aparece en la última temporada",
       "summary": "La serie Envidiosa se convirtió rápidamente en una de las más vistas entre los usuarios de plataformas digitales y, como suele pasar con las tiras filmadas en diferentes barrios o ciudades, las locaciones cobran protagonismo . Entre ellas, una casa de Núñez que aparece en los capítulos de la última temporada y que ya genera comentarios entre vecinos y fanáticos. En la producción de Netflix, protagonizada por Griselda Siciliani y Esteban Lamothe , Adrián Lakerman, en su rol como Fermín (el ex marido de Carolina, el personaje de Pilar Gamboa) se muda solo a una vivienda que rompe con la lógica tradicional del barrio . Desde afuera, la fachada despierta intriga inmediata: muros cerrados, líneas rectas y una estética minimalista que contrasta con las clásicas casas residenciales de la zona . En varios capítulos de la última temporada se ve el exterior de la casa, la cocina, el dormitorio principal, la escalera, el living en altura y las terrazas en diferentes escenas que protagonizan Gamboa, Lakerman y Macarena Paz (el personaje de Marcela). Ni Puerto Madero ni zona norte: un desarrollador vendió 75 departamentos en menos de dos semanas La escena de Griselda Siciliani y Pilar Gamboa frente a la casa de Núñez Pero el verdadero impacto aparece al cruzar la puerta. Antes incluso de tocar timbre, un enorme ventanal permite ver un interior completamente abierto y luminoso . La casa fue diseñada por la arquitecta Victoria María Falcón junto al arquitecto Nicolás Pinto da Mota, socios del Estudio Pinto da Mota, y a la que LA NACION tuvo acceso para charlar con ellos. Así es por dentro la casa en la serie Envidiosa Cuánto sale pintar una casa completa de 100 metros cuadrados en mayo 2026 Así es la historia de la casa que aparece en “Envidiosa” En un terreno de 9 x 13 m² , ubicado en la esquina de Juan Pablo Sáenz Valiente y Bavio, en el barrio de Núñez , los arquitectos diseñaron una casa de 280 m² aprovechando cada centímetro con inteligencia, precisión y un diseño impecable. ",
@@ -919,26 +1203,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/WYQIZ5WLAVD43G4GJP6CFORLRA.JPG?auth=a59c635c439a9aa9578db07ff80498c6ff85d2c060cd5c8d43ae229fd357b6e9&smart=true&width=886&height=590"
-    },
-    {
-      "id": "30ecff53e226bdd8f0d3",
-      "title": "Un tiburón mata a un hombre en Australia",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/606770-tiburon-matar-hombre-australia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 08:50:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "8206a7588f1e93af497d",
-      "title": "Todos los casos de uso en combate del Oréshnik (VIDEOS)",
-      "summary": "Se trata del tercer uso en combate de esta novedosa arma.",
-      "link": "https://actualidad.rt.com/actualidad/606681-uso-combate-oreshnik-arma-poderosa?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 24 May 2026 08:40:51 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a12ba34e9ff7128b9391567.jpg"
     },
     {
       "id": "2c7a34c235d5fe2e995e",
@@ -969,16 +1233,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c624/live/f406fe00-4582-11f1-9f8d-a1afc536e137.png"
-    },
-    {
-      "id": "4e6dc318fb58e0d86c1f",
-      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Irán afirma que el borrador del acuerdo con EE UU incluye el fin de la guerra y el levantamiento de sanciones al petróleo iraní",
-      "summary": "El presidente de Estados Unidos, Donald Trump, en la Casa Blanca el sábado.",
-      "link": "https://elpais.com/internacional/2026-05-24/la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "pubDate": "Sun, 24 May 2026 08:23:47 GMT",
-      "source": "El Pais",
-      "cat": "israel",
-      "image": "https://imagenes.elpais.com/resizer/v2/DGLY37WVQFIEJF6KAMF6X4YRCE.jpg?auth=28724f509a4b582e745e90b111793f1da540bb47c9b2a2bd2fb683cfcc847be2"
     },
     {
       "id": "6b1f2d6a59856a97fba3",
@@ -1042,36 +1296,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/PS7PDH3MM5AU7KQ64TRLKHVQYQ.JPG?auth=d6310700147fc5fd5eb3e66bffa09d976607ef4e43da5fb0a0323e1e3b1e5cc4&smart=true&width=2400&height=1601"
     },
     {
-      "id": "951679f62a6705e05cb0",
-      "title": "Los tres mejores onces, el once revelación y el once decepción",
-      "summary": "Los onces de LaLiga 2025/26",
-      "link": "https://www.marca.com/futbol/primera-division/2026/05/24/descubre-tres-mejores-onces-once-revelacion-once-decepcion-laliga-25-26.html",
-      "pubDate": "Sun, 24 May 2026 07:33:25 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/22/6a1072505e609.jpeg"
-    },
-    {
-      "id": "54b73abc3337fab1cc60",
-      "title": "La hora de las notas finales: MVP, jugador revelación y decepción...",
-      "summary": "Macroencuesta LaLiga 25/26",
-      "link": "https://www.marca.com/futbol/primera-division/2026/05/24/macroencuesta-marca-mvp-jugador-revelacion-decepcion-notas-20-equipos-laliga.html",
-      "pubDate": "Sun, 24 May 2026 07:33:12 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/22/6a10784fafab2.jpeg"
-    },
-    {
-      "id": "ac6968bad525f9f70ae2",
-      "title": "La peor racha de la historia del Valencia",
-      "summary": "Carlos Corberán, entrenador; Kiat Lim, presidente, y Ron Gourlay, nuevo CEO de Fútbol del Valencia.",
-      "link": "https://www.marca.com/futbol/valencia/2026/05/24/valencia-encadena-siete-anos-europa-peor-racha-historia.html",
-      "pubDate": "Sun, 24 May 2026 07:22:58 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a122beced047.jpeg"
-    },
-    {
       "id": "c98298a10aa3a31b76b8",
       "title": "Se supo la verdad sobre las entrevistas de ciudadanía del Uscis: qué está pasando realmente en EE.UU.",
       "summary": "Abogados y organizaciones civiles comenzaron a advertir en las últimas semanas sobre demoras y cancelaciones de entrevistas en trámites de ciudadanía gestionados ante el Servicio de Ciudadanía e Inmigración de Estados Unidos ( Uscis , por sus siglas en inglés). Aunque la agencia negó que exista una suspensión general de las evaluaciones, los nuevos controles de seguridad llegan sobre un sistema que ya arrastraba un elevado atraso en la resolución de solicitudes . Qué dijo el Uscis sobre las cancelaciones de entrevistas De acuerdo con un informe de Univision , distintos abogados migratorios reportaron que varios solicitantes del formulario N-400 recibieron notificaciones de cancelación de entrevistas sin una nueva fecha asignada. Informe oficial del Uscis muestra los números detrás de la aprobación de green cards en el último año Los retrasos afectan a residentes legales que esperaban completar el proceso a tiempo para registrarse y votar en las elecciones legislativas del 3 de noviembre. Ante las preguntas sobre una presunta paralización de los trámites hasta después de los comicios, el portavoz de Uscis , Zach Kahler, rechazó esa versión en una declaración escrita enviada a Univision : “ Sencillamente, no es cierto . Las entrevistas de naturalización continúan y se llevan a cabo de manera ininterrumpida. Las elecciones no constituyen un factor a considerar en su programación ”. El vocero explicó que la institución aplica “nuevos controles de seguridad para reforzar la verificación y evaluación de los solicitantes mediante un acceso ampliado a las bases de datos penales federales”. Además, precisó que el procesamiento continúa bajo estas exigencias en coordinación con el Buró Federal de Investigaciones ( FBI , por sus siglas en inglés) y aseguró que cualquier demora debería ser breve . El comunicado de enero del Uscis y la revisión de casos de países de alto riesgo La acumulación de solicitudes coincide con la entrada en vigor, el pasado 1° de enero, de una directiv",
@@ -1082,36 +1306,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/KLASXTICIFG7BPJWKTS7MSS2BU.jpg?auth=810cd59c454450774151c423b008821cea728f662f947f164fe19c5cc0836f54&smart=true&width=2000&height=1333"
     },
     {
-      "id": "b08c3dd0f24624c09caa",
-      "title": "\"Florentino contra Banksy\"",
-      "summary": "Imagen MARCA + IA",
-      "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/05/24/florentino-banksy.html",
-      "pubDate": "Sun, 24 May 2026 07:16:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/20/6a0e2632116cd.png"
-    },
-    {
-      "id": "b32c4ff908f726b6b784",
-      "title": "\"El ridículo de decir que Alcaraz se había borrado\"",
-      "summary": "El borde del área, por José Luis Hurtado",
-      "link": "https://www.marca.com/tenis/opinion/2026/05/24/ridiculo-decir-alcaraz-habia-borrado.html",
-      "pubDate": "Sun, 24 May 2026 07:15:54 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/23/6a118da8e2eae.jpeg"
-    },
-    {
-      "id": "64bf6c05cb371821a8a2",
-      "title": "\"Julián Alvarez, Apollo y el Cholo\"",
-      "summary": "Simeone y Julián Alvarez durante un encuentro de la Liga 2025-26 en el Metropolitano,",
-      "link": "https://www.marca.com/futbol/atletico/opinion/2026/05/24/julian-alvarez-apollo-cholo.html",
-      "pubDate": "Sun, 24 May 2026 07:15:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/23/6a12184a3e49f.jpeg"
-    },
-    {
       "id": "c0c62821970a67420e53",
       "title": "Resident Evil 10: fecha de lanzamiento estimada y primeros rumores",
       "summary": "Capcom ya tiene en marcado en su hoja de ruta el desarrollo de Resident Evil 10, un juego que aprovechará el momento dorado que vive la franquicia tras el enorme éxito de Resident Evil Requiem, un juego que tuvimos la oportunidad de analizar en su versión para PC, y que nos pareció sobresaliente en todos los sentidos. Gracias al insider Dusk Golem tenemos ya algo de información sobre Resident Evil 10, aunque es importante dejar claro que este proyecto todavía se encuentra en una etapa muy temprana, y que faltan varios años para su lanzamiento , lo que significa que Capcom podría cambiar sus planes con respecto a este juego en función de sus necesidades. ¿Cuándo llegará Resident Evil 10? Según las informaciones que tenemos este juego llegará en 2029 en el mejor de los casos , y en el peor de los casos podría retrasarse a 2030 o a 2031. Si miramos los ciclos de desarrollo que han tenido las últimas entregas de la franquicia podemos sacar en claro un patrón muy claro que, en general, define los tiempos de desarrollo con los que suele trabajar Capcom. Resident Evil 6 se lanzó en 2012: fue un juego de transición generacional. Resident Evil 7 se lanzó en 2017: fue un juego para la nueva generación del momento. Resident Evil Village (8) se lanzó en 2021: fue un juego de transición generacional. Resident Evil Requiem (9) se lanzó en 2026: fue un juego para la nueva generación del momento. El patrón que vemos es que Capcom necesita unos cinco años de media para desarrollar un Resident Evil de nueva generación , y unos cuatro años para desarrollar un nuevo Resident Evil de transición generacional. Resident Evil 10 va a ser un juego de transición generacional, es decir, un juego que llegará tanto a las consolas de la generación actual como a las de nueva generación (PS6 y Xbox Project Helix), lo que significa que su tiempo de desarrollo debería durar cuatro años como máximo. Esto significa que el lanzamiento de la próxima entrega de la franquicia debería producirse en 2030 , u",
@@ -1120,16 +1314,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/resident-evil-6.jpg"
-    },
-    {
-      "id": "75b88e079d513daacd45",
-      "title": "Fue campeona del mundo sin saber que era autista: \"Ha sido el mayor alivio de mi vida\"",
-      "summary": "1980 1320 videopodcast",
-      "link": "https://www.marca.com/otros-deportes/2026/05/24/juego-vanessa-almeida-mentalidad-hiperfoco-deporte-limites-cabeza-alto-rendimiento.html",
-      "pubDate": "Sun, 24 May 2026 07:02:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a129b06aceb2.jpeg"
     },
     {
       "id": "4a89c0e833b9eebb0033",
@@ -1163,147 +1347,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "b732045acd2390b5be35",
-      "title": "Egan Bernal: bigote de fuerza, suerte hasta Roma",
-      "summary": "Egan Bernal de Netcompany Ineos saluda antes de una etapa del Giro de Italia.",
-      "link": "https://www.marca.com/ciclismo/giro-italia/2026/05/24/egan-bernal-bigote-fuerza-suerte-roma.html",
-      "pubDate": "Sun, 24 May 2026 06:55:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a1283ebe43bf.jpeg"
-    },
-    {
-      "id": "f4fb24b624d76a89d28b",
-      "title": "Colapinto ahora es el Gasly de antes: las razones de una sonrisa cada vez más grande",
-      "summary": "MONTREAL, Canadá (enviado especial).- Hizo falta un chasis nuevo, con suspensiones más blandas y tener los mismos componentes aerodinámicos que Pierre Gasly para que Franco Colapinto diera vuelta la tortilla. Ahora él es el Gasly de antaño y Gasly es el desorientado Colapinto del pasado . Después del GP de Japón y con el A526 recibiendo beneficiosas modificaciones aerodinámicas, Colapinto es, desde el GP de Miami, hace tres semanas, y de momento, la referencia de velocidad del equipo Alpine, que lo verá partir en la décima posición de largada este domingo en el veloz circuito de esta ciudad, mientras su compañero francés deberá remar desde el puesto 14. Cambia, todo cambia. La jornada había comenzado con tono positivo para Colapinto, que avanzaba desde la 13ª a la novena posición final en la carrera sprint adelantando magistralmente a un agresivo Nico Hülkenberg y al Williams de Carlos Sainz . Colapinto se había perdido una completa sesión de entrenamiento el viernes y, a pesar de dar esa ventaja, se fue afirmando a medida que pasaban las vueltas en lo que iba a ser uno de sus mejores días desde que ingresó a la Fórmula 1. Por la tarde, Franco ingresaba a la Q3 de la clasificación , tercera vez que lo consigue en la F1, mientras Gasly quedaba eliminado en la Q2. El francés parecía perdido al volante de un auto que no parece adaptarse bien a sus características de manejo. La pole para la 55ª edición del Gran Premio de Canadá la consiguió el inglés George Russell (1m 12s 578/1000), ganador también de la carrera sprint por delante del McLaren de Lando Norris. Kimi Antonelli, que tuvo fricciones con su compañero Russell en la sprint, en la que cerró el podio, largará desde la segunda posición al quedar tan solo a 068/1000. La segunda fila será para los dos McLaren con Norris, a 151/1000 del mejor Mercedes, y Oscar Piastri a 203/1000. La resiliencia de Colapinto El argentino era muy consciente de lo que había logrado y no lo disimulaba ante la prensa: “Este fin de semana",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-ahora-es-el-gasly-de-antes-las-razones-de-una-sonrisa-cada-vez-mas-grande-nid23052026/",
-      "pubDate": "Sun, 24 May 2026 06:55:36 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/54BJPLKL7RA6ZBBVS7URHZXIVI.jpg?auth=f20311199338a42d5d16f3efd2f25d5828f266e93f40da32387cc5f39c7f6c2b&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "7482997766a0da93dc24",
-      "title": "El extraño mapa que Milei y un asesor de Caputo compartieron para celebrar el crecimiento en la Argentina",
-      "summary": "Envalentonado por la buena semana económica que atravesó su gobierno, este sábado el presidente Javier Milei compartió en varias oportunidades un mapa para celebrar el crecimiento de la Argentina y, en eso, supuestamente achacarle al gobernador Axel Kicillof que la provincia de Buenos Aires era la única rezagada. Sin embargo, ni Milei ni Felipe Núñez , asesor del ministro de Economía, Luis Caputo , notificaron que el mapa tenía una catarata de errores . No solamente las provincias están desproporcionadas en sus dimensiones, sino que a algunas les faltan partes (por ejemplo a Santa Fe, que no tiene el taco de la bota) y por si eso fuera poco faltan territorios: Tucumán desaparece por completo y tampoco se muestran las Islas Malvinas. El gráfico que el Presidente presentó a sus seguidores se titula Mapa del crecimiento de Argentina , según dice con datos de marzo de 2026, respecto de la variación interanual estimada de la actividad económica por provincia , con una teórica fuente en el Informe Económico Mensual de la IAE Business School. Entonces, intenta plantear que la mayoría de las provincias del país crecieron, con excepción de Buenos Aires, con la aclaración entre paréntesis “conurbano” , pintada de rojo con -0,2%. No obstante, al mapa le faltan Tucumán, las Islas Malvinas y todas las formas de los territorios distan de la cartografía oficial. Núñez, uno de los principales asesores de Caputo, fue uno de los que subió el diseño. Primero escribió: “Y decían que el RIGI no servía para nada. Ahora a aprobar el Súper RIGI, así le devolvemos el lugar de potencia a la Argentina que se merece”. Después sumó: “El gobernador Kicillof tiene que dejarse de joder y empezar a promover inversiones bajando gasto e impuestos. Un año y medio es una eternidad, los bonaerenses no pueden esperar tanto tiempo”. Ese mensaje contra el mandatario peronista le valió un retuit del Presidente en su cuenta de X. Otro de los mensajes que replicó Milei fue de una cuenta propagandista. “Qué yu",
-      "link": "https://www.lanacion.com.ar/politica/el-extrano-mapa-que-milei-y-un-asesor-de-caputo-compartieron-para-celebrar-el-crecimiento-en-la-nid23052026/",
-      "pubDate": "Sun, 24 May 2026 06:53:08 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/CWDVENMCYJFK7AXOSN2JQM4UDM.jpg?auth=c62e565d7f278d9a0cb4c7f01f79a918d29609fdaba15f1fbfeb12543aa40660&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "67b728367e425ec218c1",
-      "title": "Los perros salvajes de Chernobyl están evolucionando: qué descubrieron los científicos 40 años después",
-      "summary": "La nube radiactiva que la central nuclear de Chernobyl generó en abril de 1986 obligó a deshabitar completamente el lugar. Luego de 40 años, los descendientes de los perros que fueron abandonados siguen ahí y lograron adaptarse. Los científicos intentan entender cómo hicieron para sobrevivir. Científicos estudian las mutaciones genéticas de los perros en Chernobyl Aunque la zona cercana a la central de Chernobyl aún es un riesgo para los humanos y permanece deshabitada, animales de todo tipo lograron sobrevivir . Un artículo de Popular Mechanics explicó que lobos, caballos, aves, insectos y perros siguen allí a pesar de décadas de exposición a la radiación. Científicos de la Universidad de Carolina del Sur y del Instituto Nacional de Investigación del Genoma Humano analizaron el ADN de 302 perros salvajes encontrados en la zona para comprender su evolución genética. Según sus resultados, que se publicaron en la revista Science Advances, detectaron cambios en el sistema inmunológico de los animales y diferencias genéticas notables en comparación con otros perros, incluso los que vivían a entre nueve y 28 millas (15 y 45 kilómetros) de distancia. Sin embargo, los expertos aclararon que sus conclusiones son solo un primer paso para comprender mejor la evolución de los caninos , pero que no pueden asegurar que hayan experimentado una mutación rápida. Científicos estudian los efectos de la radiación en los perros de Chernobyl Otro estudio realizado por científicos de la Universidad Estatal de Carolina del Norte y de la Escuela de Salud Pública Mailman de la Universidad de Columbia en Nueva York no encontró diferencias genéticas en los perros salvajes de Chernobyl. Chernobyl y sus perros salvajes: el desafiante hallazgo que los científicos no esperaban encontrar Los científicos compararon el genoma de caninos en la zona de exclusión con animales de Rusia, Polonia y otros países cercanos y no encontraron evidencia de una mutación. Sin embargo, señalaron que pueden ayudar a",
-      "link": "https://www.lanacion.com.ar/ciencia/los-perros-salvajes-de-chernobyl-estan-evolucionando-que-descubrieron-los-cientificos-40-anos-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:49:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/2FM6PNLZLVBCDHHYHQLZC6ADYE.jpg?auth=41e08b7471afb457dd6a6dada11af5be2b0c75a7c943ad8d45bf8088674d4fd4&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "eb1178c1c0c938f39d1a",
-      "title": "Racing echó a Gustavo Costas: los candidatos del presidente Diego Milito para reemplazarlo",
-      "summary": "La noticia cayó como un bombazo: Racing despidió a Gustavo Costas. Este sábado el presidente Diego Milito tomó la decisión y se lo comunicó al técnico , luego de evaluar los últimos resultados, agravados por la dura eliminación de la Academia en la Copa Sudamericana. Costas se despedirá del plantel este domingo y la dirigencia encabezada por el exdelantero comenzará a buscarle un reemplazante. Este sábado, tal como había adelantado LA NACION , se precipitó la reunión en la que iban a llevar adelante “la evaluación del semestre” que tuvo el equipo: en ese cónclave, Diego Milito y Sebastián Saja le comunicaron al entrenador que cortarían su vínculo, cuya fecha de finalización era el 31 de diciembre de 2028. Del “espaldarazo”, tal como habían descripto desde la directiva albiceleste esa extensión contractual hasta el cierre de la gestión Milito, el club decidió cambiar el rumbo tras malos resultados y evidente falta de consenso en la política de incorporaciones y promoción de juveniles. “No era algo que Gustavo se esperara. Ganó dos títulos internacionales, llegó a una final que no la ganó por un minuto (en el Clausura 2025) y puso al equipo en las semifinales de la Copa Libertadores. Este semestre fue muy malo, pero en dos años y medio el balance le daba más que positivo”, defendieron al entrenador desde su entorno, en diálogo con LA NACION. Costas, que se había transformado en el primer entrenador de Racing en iniciar tres años consecutivos una temporada en este siglo, se despedirá del plantel este domingo, en Avellaneda, donde el equipo deberá continuar la preparación para los duelos con Independiente Petrolero, este miércoles por la Sudamericana, y Defensa y Justicia, el domingo 31 de mayo, por la Copa Argentina. Esos encuentros serán dirigidos por Luciano Aued y Sebastián Romero, los conductores de la Reserva. “Diego le ofreció a Gustavo dirigir los últimos dos partidos, a modo de despedida, comunicando antes la decisión de terminar el vínculo”, le explicó una imp",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/racing-echo-a-gustavo-costas-nid23052026/",
-      "pubDate": "Sun, 24 May 2026 06:48:50 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/K6RO6D5T5JDRTAFHD2JCITRB24.jpg?auth=f410d8040cf93ed6494193b18d4417a738f71b2805f3fa3eb52c973f2286dd3d&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "786a4eaa11ab254b46bb",
-      "title": "Una tormenta en China dejó al menos un muerto y 17 personas desaparecidas",
-      "summary": "CHONGQING.- Una persona murió y 17 permanecen desaparecidas tras una intensa tormenta que sacudió al distrito de Chongqing, China , entre la noche del sábado y la madrugada del domingo. El gobierno local puso en marcha tareas de rescate y respuesta ante la emergencia. El gobierno de Chongqing activó una respuesta de emergencia de nivel III cerca de las 7 por desastres geológicos en Yongchuan, mientras que los organismos locales competentes están llevando a cabo labores de rescate. Las precipitaciones continuas generaron un riesgo mayor como causa de desastres geológicos, entre ellos deslizamientos de tierra, derrumbes y flujos de lodo y residuos, de acuerdo con lo señalado por las autoridades meteorológicas. Según el centro de mando instalado en el lugar, el subdistrito de Chashanzhuhai registró una precipitación máxima de 296,6 milímetros entre las 2 y las 4 horas del domingo, con una intensidad máxima de lluvia por hora de 103,6 milímetros . En los videos difundidos en redes sociales se observan inundaciones en distintas zonas afectadas por el temporal. Algunos registros muestran calles completamente cubiertas por el agua , con vehículos que no logran avanzar por el nivel de la corriente. También se puede ver a personas caminando por calles inundadas con el agua por encima de las rodillas y los pantalones levantados para evitar mojarse la ropa. En otro de los videos difundidos, una calle aparece totalmente anegada al punto de que, a simple vista, parece un río. De hecho, la persona que filmó las imágenes se detiene a mostrar la fuerza de la corriente que arrastra el cauce del agua. Otro incidente en China: cinco muertos y un herido por un incendio Cinco personas murieron y otra resultó herida tras un incendio que se registró este domingo en un local de la provincia de Hunan, en el centro de China, según informaron las autoridades locales. El incidente se desató en un negocio del distrito de Qidong a primera hora de la madrugada. La persona herida recibió atención ",
-      "link": "https://www.lanacion.com.ar/el-mundo/una-tormenta-en-china-dejo-al-menos-un-muerto-y-17-personas-desaparecidas-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:48:31 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/ERJ5Q6OQONECLAPOZ7HYB43JNQ.jpg?auth=53258956b79051facd6c49f94c6da121be17887fbc39dd036870dc521032478b&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b9d0d86f3cf404a7c971",
-      "title": "Los obstáculos de Milei para la reelección",
-      "summary": "Dicen que Javier Milei sueña con el día en que se irá a vivir al campo acompañado solo por sus perros. Mientras tanto, nadie puede decir sensatamente que el Presidente carece de vocación de poder . Se convirtió en un político duro y agresivo con cualquiera que lo cuestione y es ya un profesional del bullying , hábito que es más que grave cuando lo practica el jefe del Estado porque sus ofensas tienen amplias repercusiones y siembran en algunos la detestable semilla del temor. Milei es ofensivo cuando las cosas no le van bien o cuando el viento cambia y lo abrigan ciertas buenas noticias. Sucedió en días pasados cuando se conoció la noticia de que la economía había crecido significativamente en marzo, aunque no para todos los sectores económicos y sociales, y al mismo tiempo aumentaron los índices de confianza en el Gobierno. Todavía no hay mediciones que indiquen que esa tendencia se trasladó a la imagen positiva del Presidente. Las sociedades son conservadoras: o aprueban o desaprueban durante largos períodos políticos. Tal vez sea así porque la gente de a pie no tiene tiempo para dedicarse a analizar cada noticia que sucede y, mucho menos, los pormenores de esas noticias. Sea como fuere, no son pocos los políticos ligados al oficialismo que comienzan a reflexionar con una dosis de preocupación las elecciones presidenciales del año próximo. En la semana última, Mauricio Macri fue un protagonista del espectáculo político porque debió señalar de nuevo las diferencias y los parecidos con el gobierno de Milei. Pero hay una novedad entre ellos que ninguno dice: los dos partidos juntos, La Libertad Avanza y Pro , perderían hoy una elección en la monumental provincia de Buenos Aires y ganaría el peronismo. Esa información la confirmaron dirigentes oficialistas y también los que se inscriben en el macrismo. En esa provincia, vasta y áspera, reside el 40 por ciento del electorado nacional y la sorprendente deserción social de políticas sensatas se debe en gran medida a que ",
-      "link": "https://www.lanacion.com.ar/opinion/los-obstaculos-de-milei-para-la-reeleccion-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:45:40 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/YKBFVA5LG5FI5AY3TCUH7WY3EI.JPG?auth=3f82238cfa1d4128d7e9786adaf7b38ff5ca54884179e66fc57802e2a8dd846e&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "fc5bb28248a19d57c536",
-      "title": "Aferrados a la tabla salvadora de la economía",
-      "summary": "Entre todas las excepcionalidades que rodean al experimento libertario de Javier Milei , hay una que empezó a cristalizarse con mayor nitidez en los últimos meses y que podría sintetizarse en una pregunta: ¿puede un gobierno mantener un grado de eficacia en la gestión, y una sintonía con la sociedad, mientras al mismo tiempo evidencia un nivel tóxico de confrontación política interna? Una respuesta clásica indicaría que es inviable porque las tensiones terminan afectando la dinámica de la administración, y esa disfuncionalidad genera descontento entre los votantes. Pero Milei parece haber disociado ambos planos para enunciar que su único y absoluto objetivo es el crecimiento económico, porque al final del día será evaluado por su capacidad para controlar la inflación, estabilizar las variables macro y generar mayor bienestar. No es una decisión estratégica, es simplemente su naturaleza de economista. Eso lo hace manifestarse prescindente de la política, también como un signo de impotencia. Incluso si las disputas domésticas ponen en juego su capital simbólico en materia de transparencia y diferenciación de la casta. Así como puede ser enérgico y rugir indicadores económicos, se muestra incapaz de dar tres gritos para aplacar las rencillas intestinas y motorizar su gabinete . Piensa que puede garantizar lo primero sin resolver lo segundo. “A Javier lo votaron para resolver la economía, para combatir a la casta y cambiar la política. Pero cada vez más todo queda reducido a lo económico. En el resto, nos diferenciamos cada vez menos, y así perdemos capital simbólico. Entonces la única tabla de salvación es la economía”. El razonamiento pertenece a una figura clave del Gobierno y sintetiza una percepción interna generalizada: que el Presidente sólo está dispuesto a jugarse por el rumbo de la economía, por convicción, por conveniencia, por formación. Esto le quedó claro a uno de los ministros que esta semana conversó con Milei, muy lateralmente, sobre los últimos escánda",
-      "link": "https://www.lanacion.com.ar/politica/aferrados-a-la-tabla-salvadora-de-la-economia-nid23052026/",
-      "pubDate": "Sun, 24 May 2026 06:45:29 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/DM24QNC22FFRDPYZDADVD2H25Y.jpg?auth=785d3333a597a0b2ef279aa6754c241a7dc61e43d243361cae6b1d3b213d1d94&smart=true&width=1213&height=910"
-    },
-    {
-      "id": "67b39910a0a5047b4c10",
-      "title": "El Servicio Secreto abatió a una persona que se acercó armada a las inmediaciones de la Casa Blanca",
-      "summary": "WASHINGTON.- Una persona abrió fuego este sábado en las inmediaciones de la Casa Blanca , en Washington D.C., mientras el presidente Donald Trump se encontraba negociando un acuerdo con Irán, y fue abatida por el Servicio Secreto de Estados Unidos. Se reportaron decenas de disparos y hay un transeúnte herido que está en estado crítico. Tras el fuerte sonido de los disparos, periodistas que se encontraban en el establecimiento, y que fueron los primeros en reportar los tiros, fueron desplazados hacia la sala de prensa , la zona fue cerrada y el Servicio Secreto de Estados Unidos accionó. El sospechoso, que había sido detenido, murió horas más tarde, después de ser trasladado al hospital George Washington. El tirador se llamaba Nasire Best, tenía 21 años y afirmaba ser “Dios”. Un funcionario afirmó a Reuters que el agresor fue identificado como una persona con trastornos emocionales y añadió que anteriormente se le ⁠había dictado una “orden de alejamiento”. A través de un comunicado, la Oficina de Comunicaciones del Servicio Secreto de los Estados Unidos informó: “Poco después de las 18 del sábado, un individuo en la zona de la calle 17 y la avenida Pennsylvania sacó un arma de su bolso y comenzó a disparar. La policía del Servicio Secreto respondió al fuego, hiriendo al sospechoso, quien fue trasladado a un hospital de la zona donde fue declarado muerto”. Según indicó, durante el tiroteo, un transeúnte también resultó herido de bala , pero un agente policial dijo que no estaba claro si esa persona fue alcanzada por los disparos del sospechoso o por las de los agentes. “El presidente se encontraba en la Casa Blanca durante el incidente; sin embargo, ni las personas protegidas ni las operaciones se vieron afectadas. Este incidente continúa bajo investigación y se proporcionará información adicional a medida que esté disponible”, remarcó. El director del FBI, Kash Patel , sostuvo que agentes del servicio de seguridad estaban en el lugar y trabajaban junto al Servicio Se",
-      "link": "https://www.lanacion.com.ar/el-mundo/reportan-decenas-de-disparos-cerca-de-la-casa-blanca-nid23052026/",
-      "pubDate": "Sun, 24 May 2026 06:45:20 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/JX6OY57Z4RCS7LAMFNKPAHNSDU.JPG?auth=d7f4a6f6a230fdcedf73f7e75c8eaf19c283af9a180999cba8503727b0fad90a&smart=true&width=5954&height=3969",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "c941efbf9b8721a511bd",
-      "title": "Vingegaard acecha la marca de Pogacar en el Giro de Italia",
-      "summary": "Vingegaard acecha la marca de Pogacar en el Giro de Italia",
-      "link": "https://www.marca.com/ciclismo/giro-italia/2026/05/24/vingegaard-acecha-marca-pogacar-giro-italia.html",
-      "pubDate": "Sun, 24 May 2026 06:45:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/24/6a1281dea1c12.jpeg"
-    },
-    {
-      "id": "a2602ed142029efd5609",
-      "title": "La vertiginosa degradación de la palabra presidencial",
-      "summary": "“Los que tienen poco negocio que atender son buenos charlatanes; los intelectuales y los ocupados hablan menos”. La observación de Montesquieu podría servirnos para entender a un estadista que desprecia las cosas del Estado, que ha cedido la operación total de su gobierno a una hermana sin la mínima experiencia y a un “hermano” ingobernable y ensimismado en feroces internas de palacio, que audita la marcha de la macroeconomía y que se dedica la mayor parte del tiempo a distraerse en Olivos, tejer teorías de genio incomprendido, dictar cátedra enervada y tuitearse de manera incontinente bajo la idea de que la “batalla cultural” se basa en el bullying y el odio; también en la manipulación sistemática de los hechos y en desacreditar a quienes pueden contradecir sus hipérboles o desenmascararlo. Una de las consecuencias de la explosiva guerra de facciones que galvaniza la gestión libertaria consiste en que es ahora la propia guardia pretoriana la que revela los timos del emperador: los capos de las Fuerza de Cielo directamente se le mataron de risa cuando este proclamó la inocencia de José Luis Espert porque su financista, exsocio de una narcotraficante condenada y ya preso en Estados Unidos , se había declarado culpable de fraude y lavado de dinero para aliviar un poco su apurada situación. Para el Dueño de la Verdad el punto demuestra de manera indubitable que todo ha sido inventado, una vez más, por los “ infames periosobres ”: hasta los panelistas del Gordo Dan rompieron a reír por semejante ridiculez; hay que imaginar a la cúpula de La Cámpora lanzando al aire carcajadas frente a los fraseos del “relato” que articulaba la arquitecta egipcia para comprender la dimensión de semejante acontecimiento. Cuando los fanáticos religiosos se burlan del mesías, este corre el riesgo de terminar como charlatán de feria o curandero de carromato. La excusa que esgrimen tampoco lo ayuda mucho: “Es que le mienten al Presidente”. Se supone que aluden a la hermanísima y a los Menem .",
-      "link": "https://www.lanacion.com.ar/opinion/la-vertiginosa-degradacion-de-la-palabra-presidencial-nid23052026/",
-      "pubDate": "Sun, 24 May 2026 06:45:08 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/VOHWSH25IJAXXIZCID4UM3V2NE.jpg?auth=57104b4ef528bbd1aea854d64bf65ec0dfce1c0de8f07d9f229eaaa6753a2668&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "70483e897a78e23acf0e",
-      "title": "Aplaudidos en el exterior y cuestionados en casa: la paradoja de los líderes europeos",
-      "summary": "PARÍS.– Mientras las encuestas confirman la estrepitosa caída de la popularidad de Emmanuel Macron en su país, con un 20-21 % de confianza y un 75 % de opiniones desfavorables , el barómetro europeo de Opinonway colocó este mes al presidente francés como el líder más popular del bloque, con 41% de opiniones favorables en la población de los 27 países encuestados . Esa paradoja se repite con los principales líderes europeos, recibidos con aplausos en el exterior, cuando en sus propios países enfrentan protestas, sondeos en picada y un descontento generalizado. ¿Cómo explicar esa contradicción? “El poder adquisitivo, la inflación y el desempleo son los temas que dominan el debate político en Europa. En 2026, el pesimismo económico es abrumador: el 91% de los franceses considera que la situación del país es mala, y el 69% teme por su propia economía ”, señala el sociólogo Jerôme Fourquet. Pero esas cifras no son exclusivas de Francia. En Italia, España o Alemania, los ciudadanos exigen soluciones inmediatas a problemas que se arrastran desde hace años o que dependen del contexto internacional : precios altos, salarios bajos, servicios públicos en decadencia. “Esa paradoja no es nueva, pero hoy ha alcanzado proporciones inéditas. Entre la crisis económica, la fragmentación política y las expectativas incumplidas, los ciudadanos europeos parecen haber perdido la fe en sus gobernantes. Sin embargo, en Bruselas o durante las cumbres diplomáticas, esos mismos líderes encarnan la Europa unida y representan una esperanza colectiva ”, analiza Fourquet. En mayo de 2026, a un año de las elecciones presidenciales, los franceses ven todo color negro. Esa angustia estructural se traduce en una impopularidad récord: Macron apenas cuenta con un 20 % de confianza, un nivel comparable al de François Hollande en 2016 o al de Nicolas Sarkozy en 2012 al final de su mandato. Las promesas de reactivación económica chocan con la realidad de una inflación persistente, un reducido poder adquis",
-      "link": "https://www.lanacion.com.ar/el-mundo/aplaudidos-en-el-exterior-y-cuestionados-en-casa-la-paradoja-de-los-lideres-europeos-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:44:57 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/HYKLHMKDEFFDFPCKRLI36HTWPI.jpg?auth=fae01b4428565fdae680e42185944ca84e63c72d9a5027526ab4b8fa0893d0dc&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "7c8aa1346d4b6f3a76e0",
-      "title": "Teo López Puccio. El hijo de un histórico luthier que generó un fenómeno inesperado con la divulgación matemática",
-      "summary": "CONVERSACIONES Teo López Puccio \"Para mi papá, la inspiración no existe: hay que sentarse a laburar\"",
-      "link": "https://www.lanacion.com.ar/conversaciones-de-domingo/teo-lopez-puccio-el-hijo-de-un-historico-luthier-que-genero-un-fenomeno-inesperado-con-la-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:44:46 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/JA4UNEJFPJEONNJTHIOG53TRIQ.jpg?auth=51015c30eea7876030a698191d5bc97840c8e57981d59330e9afd65ea8126cdd&smart=true&width=600&height=400"
-    },
-    {
-      "id": "4fdd54d22f9bda7857bc",
-      "title": "Día 86 de la guerra entre Estados Unidos, Israel e Irán: todo lo que hay que saber",
-      "summary": "El conflicto en Medio Oriente entró este domingo 24 de mayo en su 86° día de guerra . Este sábado, Donald Trump anunció que el acuerdo con Irán está “en gran medida negociado”. En tanto, el Servicio Secreto de Estados Unidos abatió a un hombre que abrió fuego en las inmediaciones de la Casa Blanca. Estas son las claves para entender qué está pasando y por qué preocupa al mundo . Cuáles son las principales noticias del conflicto hoy El presidente de Estados Unidos dijo este sábado que un acuerdo con Irán , que incluye la apertura del estrecho de Ormuz, ha sido “en gran medida negociado” . El Servicio Secreto de EE.UU. abatió a una persona que se acercó armada a las inmediaciones de la Casa Blanca . Las Fuerzas de Defensa de Israel (FDI) informaron este sábado que durante la noche atacaron objetivos militares de Hezbollah en dos zonas del Líbano. Un senador republicano criticó algunos posibles puntos del acuerdo entre EE.UU. e Irán. Pese a la guerra, la peregrinación a La Meca atrae a más extranjeros que en 2025. El negociador jefe iraní, Mohamad Baqer Qalibaf, aseguró que Irán aprovechó la tregua para reconstruir sus fuerzas armadas por si Trump comete “otro acto de locura”. Cinco policías y un adolescente palestinos murieron este sábado en un ataque aéreo israelí en el norte de la Franja de Gaza . Líbano confirmó un ataque israelí contra un “centro dedicado a la acción humanitaria y de rescate”. Por qué Estados Unidos e Israel atacaron a Irán Ocho meses después del conflicto de 12 días entre Irán e Israel en junio de 2025, Estados Unidos e Israel lanzaron el sábado 28 de febrero una ofensiva de gran escala contra objetivos en todo Irán , incluidos puntos sensibles en Teherán y áreas vinculadas al líder supremo, el ayatollah Ali Khamenei. Objetivo: “Tomar el control del gobierno”. Trump justificó la ofensiva al afirmar que están en marcha “importantes operaciones de combate en Irán” y exhortó directamente a la población a rebelarse contra el régimen. “Cuando hayamos ",
-      "link": "https://www.lanacion.com.ar/el-mundo/dia-86-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:42:08 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/L5EMS2V375C5TPVH5UMR6DEQNA.jpg?auth=cb28181de562721a7046256c4073994c452e58347e5b04745d4b4e5036e56e10&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "38306f5d75e5102531ff",
       "title": "Agentes del Servicio Secreto abaten a un sospecho de un tiroteo afuera de la Casa Blanca",
       "summary": "Un sospechoso de iniciar un tiroteo contra agentes de la Casa Blanca murió en el intercambio de disparos que generó alarma en la residencia presidencial de EE.UU.",
@@ -1312,26 +1355,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d493/live/c0877780-5711-11f1-b335-9ba571f22a27.jpg"
-    },
-    {
-      "id": "48e5681a6ec2ba41240c",
-      "title": "Avanza el fenómeno de “El Niño”: la advertencia meteorológica que EE.UU. mira de cerca",
-      "summary": "Los organismos meteorológicos norteamericanos consideran cada vez más probable que El Niño se consolide durante los próximos meses y permanezca activo hasta el invierno boreal de 2026-2027 . El foco está puesto en sus posibles efectos sobre las zonas costeras, donde la Oficina Nacional de Administración Oceánica y Atmosférica ( NOAA , por sus siglas en inglés) advirtió sobre un posible incremento de las inundaciones por mareas altas y tormentas . El Niño Watch: la señal de la NOAA que anticipa cambios en el Pacífico De acuerdo con el último informe del Climate Prediction Center del 14 de mayo de 2026, el sistema de alerta ENSO se encuentra bajo la categoría “ El Niño Watch ”. Qué Es El Niño El organismo indicó que existe un 82% de probabilidad de que el fenómeno emerja entre mayo y julio de 2026 y una posibilidad del 96% de que continúe durante el invierno boreal 2026-2027. El reporte explicó que durante el último mes persistieron condiciones neutrales del ENSO , reflejadas en temperaturas superficiales del mar cercanas a los valores promedio en el Pacífico ecuatorial oriental y central. Sin embargo, varios indicadores comenzaron a mostrar señales compatibles con una evolución hacia un escenario de El Niño . Entre los datos más relevantes difundidos por el organismo aparecen: El índice Niño-3.4 alcanzó +0,4°C. El índice Niño-4 se ubicó en +0,5°C. El índice Niño-1+2 llegó a +1,0°C. Las temperaturas subsuperficiales del Pacífico ecuatorial aumentaron durante seis meses consecutivos. Según detalló el Climate Prediction Center , también se observaron anomalías de vientos del oeste sobre el Pacífico ecuatorial occidental y temperaturas por encima del promedio bajo la superficie oceánica en amplias áreas del Pacífico ecuatorial. Qué efectos podría tener El Niño en Estados Unidos durante 2026 El fenómeno conocido como El Niño-Southern Oscillation (ENSO) es un patrón climático natural que alterna entre fases cálidas y frías en el océano Pacífico tropical. La fase cálida rec",
-      "link": "https://www.lanacion.com.ar/estados-unidos/avanza-el-fenomeno-de-el-nino-la-advertencia-meteorologica-que-eeuu-mira-de-cerca-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:30:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/URXW6UKXVJEGLIYKQHZT4ZLLWA.jpg?auth=2ccddc7e66afadc5420c88a57896fee257688ca278ae4293ff8940ff31c0a2a9&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "8177ef3d2cb2be1a6e33",
-      "title": "Trump dijo que el hombre que abrió fuego cerca de la Casa Blanca tenía “antecedentes violentos”",
-      "summary": "WASHINGTON.- El presidente de Estados Unidos , Donald Trump , se refirió al incidente que tuvo lugar este sábado en las inmediaciones de la Casa Blanca , que concluyó con la muerte de un hombre. El mandatario remarcó los antecedentes que tenía el atacante y señaló una “posible obsesión” por la residencia presidencial. “ Tenía antecedentes violentos y una posible obsesión con el edificio más preciado de nuestro país ”, escribió el mandatario sobre Nasire Best , el hombre de 21 años identificado por una fuente policial como la persona que murió tras protagonizar el ataque. Trump sostuvo que el motivo de la muerte de Best fue un “intercambio de disparos” con agentes del Servicio Secreto cerca de las puertas de la Casa Blanca. En ese marco, en el texto que publicó también agradeció a las fuerzas de seguridad por la reacción ante la amenaza. Además, remarcó que este hecho ocurrió a casi un mes después del tiroteo durante la cena anual de corresponsales de la Casa Blanca . En ese caso, un hombre armado embistió un puesto de control de seguridad que se ubicaba en el hotel en el que se estaba llevando a cabo el evento y fue neutralizado por agentes. Los estallidos que se escucharon hicieron que Trump y otros funcionarios sean evacuados del lugar. Tras recordar la cercanía con otro episodio que puso en riesgo su seguridad, el máximo mandatario de Estados Unidos volvió a insistir con las reformas que pretende hacer en su residencia oficial. “ Demuestra la importancia de que todos los futuros presidentes cuenten con el que será el espacio más seguro de su tipo jamás construido en Washington. La seguridad nacional de nuestro país así lo exige“, escribió. Según reportó el Servicio Secreto en un comunicado preliminar, Best sacó un arma de una bolsa y empezó a disparar y, ante esa situación, los agentes respondieron del mismo modo e hirieron al tirador. El joven murió después de ser trasladado al hospital George Washington. En una publicación en X, la corresponsal de ABC News en l",
-      "link": "https://www.lanacion.com.ar/el-mundo/trump-hablo-sobre-el-hombre-que-abrio-fuego-cerca-de-la-casa-blanca-tenia-antecedentes-violentos-nid24052026/",
-      "pubDate": "Sun, 24 May 2026 06:11:14 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/TK27PLJE7BGNPAKEHCD2HZYWRU.jpg?auth=4b7ebd054c586577218eceb17cd771cee18fc5277592f4a39543fea4d4bc4654&smart=true&width=2095&height=1397"
     },
     {
       "id": "2ef8135e9a1fea3f4a90",
@@ -1536,12 +1559,12 @@
     {
       "id": "e516bd53256ef870c596",
       "title": "Candela Peña: “Yo soy el peor atentado contra mí misma”",
-      "summary": "“Tú nunca harás de protagonista”. Son solo cinco palabras, pero Candela Peña (Gavá, Barcelona, 52 años) las tiene grabadas a fuego. Se las dijo Javier Bardem cuando estudiaban interpretación en el estudio de Juan Carlos Corazza. Ella tenía 18 años; él, 22 o 23. Eran unos chavales, dos desconocidos que aspiraban a vivir de la actuación, pero Javier ya era Bardem, el hijo de Pilar , el sobrino de Juan Antonio, el nieto de Rafael, la última promesa de una saga de grandes talentos. Candela, en cambio, solo era María del Pilar (ese es su verdadero nombre), la hija de Antonio y Pepa, los dueños del bar de su pueblo. Seguir leyendo Fotografía: Javier Biosca Estilismo: Beatriz Moreno de la Cova Maquillaje y peluquería: Ricardo Calero (Uno Artists) para Salon 44, Chanel y Oribe Producción: Cristina Serrano Asistente de fotografía: Álvaro Tomé Asistente de estilismo: Diego Serna Asistente maquillaje y peluquería: Roberto Meloni Asistente de producción: Marina Marco",
+      "summary": "Candela Peña lleva albornoz de algodón de Zara Home, zapatos de Prada y joyas de Tiffany & Co.",
       "link": "https://elpais.com/eps/2026-05-24/candela-pena-yo-soy-el-peor-atentado-contra-mi-misma.html",
       "pubDate": "Sun, 24 May 2026 03:30:00 GMT",
       "source": "El Pais",
-      "cat": "sports",
-      "image": ""
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/WINXZ43KO5BDHFQHEFEGYEU6G4.jpg?auth=cb2d1600ec253539d7eadac15afe0cb74d61ada04b927ae9de0105f7f6086d1e"
     },
     {
       "id": "c6f007b7682cc75ff284",
@@ -2029,16 +2052,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2019/09/assassins-creed-fracaso.jpg"
     },
     {
-      "id": "6488c53fddc9b709f7fd",
-      "title": "Estos son los 5 mejores animes del año",
-      "summary": "Luego de un crecimiento sostenido por años , el anime en 2026 se ha consolidado como uno de los formatos más populares en streaming y televisión . Un proceso que, de una u otra forma, ha sido una evolución del formato hacia nuevas direcciones . En la actualidad, ya no se considera un producto de nicho o una subcultura exclusiva de Japón. En lugar de eso, se trata de una industria multimillonaria que lidera las listas de audiencia en las principales plataformas del mundo. Este crecimiento masivo se debe a la diversificación de sus historias, que ahora abarcan desde complejas historias psicológicas hasta dramas cotidianos. Lo que ha atraído a audiencias de todas las edades y trasfondos culturales . Pero mucho más, logrando demostrar que el anime es capaz de cautivar a una audiencia que no necesariamente tiene que ser los tradicionales fanáticos del género. Por lo que el año 2026 ha sido de enorme interés para un género que dejó de enfocarse únicamente en sus fanáticos naturales. Eso, para crecer hacia audiencias distintas y nuevas experiencias narrativas. Algo que es más que evidente en varias de las producciones más celebradas del formato estrenadas durante este año. Si quieres indagar en el tema, esta lista es para ti. Te dejamos los cinco mejores animes de 2026. De una adaptación largamente esperada a lo mejor de la fantasía oscura. Se trata de un recorrido por lo mejor del formato de la actualidad. No solo para fanáticos de hueso rojo, sino para los amantes de las buenas historias en general. El mejor atributo del que el anime puede presumir. Witch Hat Atelier (Crunchyroll) La esperadísima adaptación animada del aclamado manga de Kamome Shirahama es una pequeña obra maestra de la fantasía. En especial, porque de la misma manera que el manga, la trama explora en un universo lírico donde la magia no es un don innato. Al contrario, se trata de un arte refinado e intelectual que se ejecuta minuciosamente dibujando intrincadas runas con tinta mágica especial. Lo que pe",
-      "link": "https://hipertextual.com/cine-television/estos-son-los-5-mejores-animes-del-ano/",
-      "pubDate": "Sat, 23 May 2026 09:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Mejjores-animes-2026.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "e4b38773978fd29f0b0d",
       "title": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365",
       "summary": "Microsoft 365 es la suite ofimática comercial más usada del mundo y lidera los servicios cloud profesionales . La firma de Redmond consiguió normalizar su propio formato de documentos OOXML y desde entonces domina el mercado con su grupo de aplicaciones Office. Posteriormente, consiguió mover a sus clientes desde la instalación en local a un modelo on-line que exige el pago de una suscripción para funcionar. Una suscripción que, por cierto, ha subido de precio este año sustancialmente bajo el argumento del añadido de «nuevas funciones de inteligencia artificial, seguridad y administración» . Además de la problemática derivada del uso de un formato propietario, clave en documentos de oficina y que siguen criticando sus competidores , el modelo de suscripción no convence a todos . Tiene algunas ventajas y bastantes inconvenientes, pero parece inevitable ya que hoy se extiende al consumo de todo tipo de contenido, series y pelis, música, juegos, almacenamiento en nube, creación y edición de gráficos. Lo de comprar una licencia con un solo pago y que te dure para toda la vida cada vez es más complicado, pero sigue siendo posible y muchos usuarios apuestan por ello. Alternativas a Microsoft 365 Si eres del grupo que odias tanta suscripción (el presupuesto mensual para cubrir todo se está poniendo imposible) o eres cliente de la suite de Microsoft, antes de comprometerte con otro ciclo de pago, generalmente en una escalada de subida de precios que se escapa de tu control, conviene detenerse y considerar seriamente las alternativas. Otros gigantes como Google ofrecen suites capaces, pero siguen el mismo modelo, mientras que modelos como ONLYOFFICE son sumamente interesantes. Pero, por qué ceñirse a una sola suite cuando hay aplicaciones gratuitas y de código abierto que, funcionando por separado, son incluso mejores que las comerciales. Su exploración confirma que hay otro mundo más allá de la suscripción en la que nos ha embarcado la industria. Como muestra de lo que pued",
@@ -2068,17 +2081,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/avengers-1.jpg"
-    },
-    {
-      "id": "94c5df0d017e95eb02ce",
-      "title": "Este es el mejor consejo que te puedo dar si tienes un móvil Samsung. Alarga su vida útil sin que te des cuenta",
-      "summary": "Si tu Samsung tiene poco tiempo, todavía estás a tiempo de que este truco empiece a funcionar y consiga alargar su vida útil. En mi caso, siempre que estreno un móvil Samsung, es una de las primeras cosas que configuro. Me lleva solo 30 segundos , me olvido para siempre y activo una de las herramientas más útiles para cuidar la salud de la batería . No vas a notar nada el primer día ni la primera semana, pero cuando lleves varios meses con tu dispositivo, habrás contribuido a que su autonomía sea más extensa de lo que podría haber sido. Antes de entrar en materia, hay una cosa que debes conocer sobre la batería de tu móvil Samsung: cuando está por debajo del 20% o por encima del 80% sufre un estrés extra que acelera la degradación . Es decir, que cuanto más tiempo pase entre esos dos niveles, mejor la estarás tratando, menos se degradará y, por lo tanto, será capaz de almacenar más capacidad con el paso de los años. Seguro que te ha pasado: pasados 1 o 2 años, el móvil se vuelve prácticamente inservible porque la batería le dura solo unas horas. El truco que te voy a contar hoy tiene el objetivo de hacer que esto no ocurra . O, al menos, no en un plazo tan corto. Y lo mejor es que, una vez lo actives, no tienes que hacer nada más. Puedes olvidarte para siempre. Activa la protección de la batería en tu móvil Samsung Si entras en el apartado de 'Batería' de tu móvil Samsung encontrarás una herramienta llamada 'Protección de la batería'. Este es el ajuste protagonista de hoy . Tiene tres modos que van de menor a mayor cuidado de la batería. Dependiendo del que elijas, este ajuste trabajará para que la celda se degrade más o menos con el tiempo. El modo básico. Es el que está activado por defecto, y su función es hacer que, cuando tu móvil Samsung llega al 100% de la carga, desactive la corriente hasta que baje al 95%. Cuando llega a ese límite, vuelve a cargar hasta el 100%, permitiendo que la batería no esté toda la noche al nivel máximo de carga y estrés. Protección ",
-      "link": "https://hipertextual.com/mobile/este-es-el-mejor-consejo-que-te-puedo-dar-si-tienes-un-movil-samsung-alarga-su-vida-util-sin-que-te-des-cuenta/",
-      "pubDate": "Sat, 23 May 2026 08:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/samsung.jpg?fit=1024%2C652&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
     },
     {
       "id": "5c1dfcd9833eac42fa7e",
@@ -2680,6 +2682,16 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c3d/live/dc634240-553b-11f1-a125-a1007a98f90d.jpg"
     },
     {
+      "id": "a214af2ffd135adac0b8",
+      "title": "Recuperado un antiguo videojuego japonés sobre Gaudí",
+      "summary": "Shinyuden actualiza para consolas y ordenadores modenos 'Gaudí: El viento de Barcelona', creado en 1989",
+      "link": "https://www.lavanguardia.com/cultura/20260523/11545890/recuperado-antiguo-videojuego-japones-sobre-gaudi.html",
+      "pubDate": "23 May 2026 16:59:57 +0200",
+      "source": "La Vanguardia Tech",
+      "cat": "tech",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/23/6a11bfe385315.r_d.463-249-0.jpeg"
+    },
+    {
       "id": "b9b887672081a254481c",
       "title": "Que las piezas de LEGO no te engañen, este nuevo juego de Batman es uno de los mejores",
       "summary": "Hoy llega a las tiendas 'LEGO Batman: El Legado del Caballero Oscuro', el retorno de la versión más cómica y familiar del personaje de DC",
@@ -2745,5 +2757,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-05-24T09:49:54.645020+00:00"
+  "updated": "2026-05-24T11:10:51.186646+00:00"
 }
