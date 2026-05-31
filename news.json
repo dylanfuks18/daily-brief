@@ -320,16 +320,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/uso-cpu-windows-11.jpg"
     },
     {
-      "id": "e3a50c0d0b512017238c",
-      "title": "Una Radeon RX 9070 XT muere por el peso de su sistema de refrigeración, así puedes evitar que te ocurra a ti",
-      "summary": "Las tarjetas gráficas de alto rendimiento utilizan sistemas de refrigeración que pueden llegar a ser muy grandes, y muy pesados. Esto puede ser un problema si no utilizamos un buen sistema de sujeción, porque el peso del sistema de refrigeración puede acabar dañando el PCB y los componentes de la tarjeta gráfica, una realidad que ha sufrido la Radeon RX 9070 XT de esta noticia. Una Radeon RX 9070 XT ensamblada por XFX llegó a una tienda de informática brasileña que además ofrece servicio técnico avanzado. La tarjeta había tenido un intento de reparación anterior que había funcionado solo en parte, ya que aunque esta recuperó la alimentación en el carril de 1,8 voltios todavía no daba señal de imagen. La especialista que recibió esta tarjeta gráfica hizo un análisis para buscar la causa del problema, y llegó a la conclusión de que, debido al peso del sistema de refrigeración de esta Radeon RX 9070 XT, que pesaba 1,1 kilogramos, se habían producido daños en el PCB y en la GPU. Esos daños hicieron que la soldadura de la GPU dejase de hacer contacto con el PCB a través de las BGAs (pequeñas esferas de contacto metálico). En este caso la solución era hacer un reballing, un proceso que implica quitar la GPU desoldándola del PCB, limpiar los contactos, sustituir todas sus microesferas de contacto y volver a soldar la GPU al PCB. Es un proceso complicado, así que debe ser realizado por un especialista en soldadura con conocimientos y experiencia. Por desgracia, la especialista no encontró ninguna plantilla de reballing compatible con esta tarjeta gráfica, así que tuvo que hacer el proceso de forma manual, con todo el esfuerzo adicional y el peligro que esto suponía. El resultado fue satisfactorio, la Radeon RX 9070 XT volvió a funcionar , pero presentaba un problema que hacía que estuviera limitada a una interfaz PCIe Gen5 con 8 líneas , y no con 16. Ese problema no afectará a su rendimiento siempre que se utilice con placas base compatibles con PCIe Gen5, porque incluso co",
-      "link": "https://www.muycomputer.com/2026/05/28/una-radeon-rx-9070-xt-muere-por-el-peso-de-su-sistema-de-refrigeracion-asi-puedes-evitar-que-te-ocurra-a-ti/",
-      "pubDate": "Thu, 28 May 2026 12:26:58 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/Radeon-RX-9070-XT-2.jpg"
-    },
-    {
       "id": "b6d1e02bfe4177aa1d02",
       "title": "El Mediterranean Digital Summit 2026 convierte a Alicante en el epicentro del eCommerce mediterráneo",
       "summary": "El arco mediterráneo vive uno de sus momentos de mayor crecimiento dentro del ecosistema digital español. Alicante, Valencia y Murcia llevan años impulsando marcas, operadores logísticos, agencias y proyectos tecnológicos que hoy compiten al máximo nivel nacional e internacional. Esa evolución tendrá uno de sus principales puntos de encuentro en el Mediterranean Digital Summit 2026 , un evento que aspira a consolidarse definitivamente como la gran cita del eCommerce, los marketplaces y la innovación digital del Mediterráneo. La jornada se celebrará el jueves 4 de junio en la Institución Ferial Alicantina (IFA), en Elche , y reunirá a algunos de los perfiles más relevantes del comercio digital actual: CEOs, responsables de eCommerce, marketing, logística, marketplaces y tecnología, en un entorno diseñado para compartir conocimiento práctico, generar negocio y fortalecer las conexiones dentro del ecosistema digital de la “terreta”. Detrás del evento se encuentran tres nombres clave del sector: Webimpacto, Shopify y MarketplacesHoy. Una alianza que refuerza la ambición del proyecto y posiciona el encuentro como una de las grandes apuestas del calendario digital español. Alicante quiere consolidarse como referencia digital del Mediterráneo El origen del Mediterranean Digital Summit se remonta a 2023, cuando WIM Group decidió impulsar un encuentro centrado en poner en valor el talento y las marcas del ecosistema alicantino. Un año después, MarketplacesHoy apostó también por Alicante dentro de su tour Seller Emotion, especializado en marketplaces. Ahora, ambas iniciativas convergen en una edición 2026 que amplía el foco y reúne el potencial empresarial de Alicante, Valencia y Murcia bajo un mismo objetivo: demostrar que desde el arco mediterráneo también se lidera la transformación digital. El evento nace precisamente con esa intención. No solo busca reunir a profesionales del sector, sino reivindicar el papel de la zona mediterránea como uno de los territorios más dinámi",
@@ -442,6 +432,257 @@
       "image": "https://imagenes.elpais.com/resizer/v2/OSGWOVQIGVACBEULFQDNFBVNUM.JPG?auth=0d705d66cb91c5efa048d3b3cc74d725ca6eeb5aaf6879c734ff03b4d1cea307"
     },
     {
+      "id": "58c558b35119950cfc24",
+      "title": "Éxito de la nueva campaña de abonos del Atlético",
+      "summary": "Panorámica del Metropolitano.",
+      "link": "https://www.marca.com/futbol/atletico/2026/05/31/exito-nueva-campana-abonos-atletico-renueva-98.html",
+      "pubDate": "Sun, 31 May 2026 12:01:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1c068b02926.jpeg"
+    },
+    {
+      "id": "0841aec71e607ef17721",
+      "title": "Brian Uriarte se estrena en Moto3: el futuro ya está aquí",
+      "summary": "Brian Uriarte, en Mugello.",
+      "link": "https://www.marca.com/motor/motogp/gp-italia/2026/05/31/brian-uriarte-estrena-moto3-futuro-aqui.html",
+      "pubDate": "Sun, 31 May 2026 11:43:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1c024e90b70.jpeg"
+    },
+    {
+      "id": "928327bd1676e8063e8b",
+      "title": "Tiafoe y Faria casi llegan a las manos en Roland Garros: \"No te hagas el duro tío, no lo eres\"",
+      "summary": "Taifoe y Faria discutiendo cara a cara.",
+      "link": "https://www.marca.com/tenis/roland-garros/2026/05/31/tiafoe-faria-llegan-manos-te-hagas-duro-tio.html",
+      "pubDate": "Sun, 31 May 2026 11:27:07 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bfd3b8b1a9.jpeg"
+    },
+    {
+      "id": "4e8ca48eb2794cc2e834",
+      "title": "La LOI de Ramos para la compra del Sevilla expira hoy",
+      "summary": "Del Nido Carrasco y Sergio Ramos, en la sala de prensa del Sánchez-Pizjuán.",
+      "link": "https://www.marca.com/futbol/sevilla/2026/05/31/loi-ramos-compra-sevilla-vence-domingo.html",
+      "pubDate": "Sun, 31 May 2026 11:19:47 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b57dcd29a2.jpeg"
+    },
+    {
+      "id": "ae967ac7098da77603a4",
+      "title": "Una nueva generación ya está aquí para quedarse: Jódar, Fonseca, Mensik...",
+      "summary": "Jódar y Fonseca se dan la mano en la red.",
+      "link": "https://www.marca.com/tenis/roland-garros/2026/05/31/nueva-generacion-aqui-quedarse-jodar-fonseca-mensik.html",
+      "pubDate": "Sun, 31 May 2026 11:05:53 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bf9735de70.jpeg"
+    },
+    {
+      "id": "0ce926017c876b9423c9",
+      "title": "El contrato de récord que ha firmado Francia para construir centros de datos: 75.000 millones",
+      "summary": "Francia se lleva uno de los mayores contratos para construir centros de datos por 75.000 millones de euros",
+      "link": "https://www.marca.com/tiramillas/economia/2026/05/31/francia-lleva-mayores-contratos-construir-centros-datos-75-000-millones-euros.html",
+      "pubDate": "Sun, 31 May 2026 11:04:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bf97d63f2a.jpeg"
+    },
+    {
+      "id": "e9028872f3833746ae66",
+      "title": "Seis candidatos a unirse al 'club de los 100 millones'",
+      "summary": "Algunos de los candidatos a 'cienmillonarios'",
+      "link": "https://www.marca.com/futbol/2026/05/31/candidatos-unirse-club-cienmillonario-verano.html",
+      "pubDate": "Sun, 31 May 2026 11:04:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/29/6a19691d2da7b.jpeg"
+    },
+    {
+      "id": "7c825d71ee639457f020",
+      "title": "Pedro Porro se incorpora a la concentración de España",
+      "summary": "Pedro Porro llegando a la concentración de la Selección.",
+      "link": "https://www.marca.com/futbol/seleccion/2026/05/31/pedro-porro-incorpora-concentracion-espana.html",
+      "pubDate": "Sun, 31 May 2026 10:58:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bf7fc7234f.jpeg"
+    },
+    {
+      "id": "3c91343e260eab1db9a9",
+      "title": "Las 'vídeo-listas' más originales del Mundial: ¿con cuál te quedas?",
+      "summary": "Las mejores 'vídeo-listas' para el Mundial: de Felipe VI a los Beatles,",
+      "link": "https://www.marca.com/futbol/mundial/2026/05/31/video-listas-originales-mundial-te-quedas.html",
+      "pubDate": "Sun, 31 May 2026 10:50:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/26/6a15f5b386147.jpeg"
+    },
+    {
+      "id": "1cf55f7b504150e716f5",
+      "title": "Los Gallos vuelan en medio del vendaval y dominan en Nueva York",
+      "summary": "Los Gallos, en el Hudson con la Estatua de la Libertad al fondo.",
+      "link": "https://www.marca.com/vela/sailgp/2026/05/31/gallos-vuelan-medio-vendaval-dominan-nueva-york.html",
+      "pubDate": "Sun, 31 May 2026 10:17:41 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/05/31/6a1bed0833cb8.r_d.1319-684-0.jpeg"
+    },
+    {
+      "id": "61eda58bb21dd9d9a775",
+      "title": "La kilométrica cola para ver el entrenamiento abierto de España",
+      "summary": "Cientos de personas esperan en Las Rozas para intentar disfrutar del entrenamiento de la seleccion",
+      "link": "https://www.marca.com/futbol/seleccion/2026/05/31/kilometrica-cola-ver-entrenamiento-abierto-espana-video.html",
+      "pubDate": "Sun, 31 May 2026 10:08:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/mhG9YsvS.jpeg"
+    },
+    {
+      "id": "971d3ad26ac1babcf89e",
+      "title": "Alerta, contribuyentes: un plan implacable para cazar en el zoológico",
+      "summary": "Andrés Vázquez odia las fotos. Algunos sostienen que es una maña heredada de sus épocas en que tenía contacto frecuente con los servicios de inteligencia por su trabajo en la vieja AFIP, pero el titular del organismo recaudador lo explica de forma distinta cada vez que se lo preguntan. Dice, sencillamente, que no le gustan. Quizás por eso está decidido a descolgar los cuadros de sus antecesores que se ubican al lado de su despacho. Otra tradición kirchnerista —la inició Ricardo Echegaray — que morirá a manos de la gestión libertaria. Las cosas cambiaron la semana pasada para Vázquez , muchas veces rodeado por la polémica por propiedades en Miami o el ascenso veloz de personal. Debió sacarse una foto junto a Luis Caputo y un grupo de contadores en una reunión a la que el ministro convocó para conocer la temperatura en la calle con respecto a la ley de inocencia fiscal y el régimen simplificado de ganancias. Es una muestra de su aceptación institucional al frente de uno de los organismos más poderosos del Estado. El organismo recaudador tiene por delante un trabajo difícil. Está obligado a mejorar los ingresos del Estado, que van en caída, en una economía que crece de manera dispar y en un gobierno que debe recaudar impuestos aunque al presidente Javier Milei le fastidie hacerlo. El plan ya se puso en marcha e involucra una implacable cacería en el zoológico de los animales más grandes de ese ecosistema tributario. Aunque suele estar lejos de las polémicas de la política y los ribetes más vistosos del plan libertario, es una paradoja en el corazón del proyecto libertario: para poder bajar impuestos, primero hay que cobrarlos. También es clave para el futuro de la Argentina, a tal punto que se involucró en ella el Fondo Monetario Internacional (FMI) . El organismo difundió en los últimos días un documento que cuenta cómo debería ser la reforma tributaria que aplique el Gobierno. Entre otras cosas, pidió que más trabajadores paguen el impuesto a las ganancias y que se e",
+      "link": "https://www.lanacion.com.ar/economia/alerta-contribuyentes-un-plan-implacable-para-cazar-en-el-zoologico-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 10:05:27 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/IWMM34T57RD2LACPVUJUHAI7RQ.jpg?auth=438956a7812fd087c3f2df937ed9bcb68f07b33f78122068e7a52fb04cc84ea0&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "64bed90c9e516d9f39cb",
+      "title": "La broma más cruel: les apagan el televisor en pleno penal decisivo de la Champions (VIDEO)",
+      "summary": "Este sábado en París, aficionados del PSG se enfurecieron cuando una pantalla callejera se apagó durante los penaltis de la final de la Liga de Campeones contra el Arsenal. En un video difundido en redes se observa a la multitud mirando atenta. Justo en un cobro clave del rival, el televisor queda en negro. La grabación muestra a los seguidores estallando en gritos y protestas por la repentina interrupción.",
+      "link": "https://actualidad.rt.com/viral/608023-broma-cruel-apagan-televisor-penal-decisivo-champions?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 10:02:56 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1c04f6e9ff7138bc7c0b8e.jpg"
+    },
+    {
+      "id": "9aa2ec5642ba9fe23d30",
+      "title": "La carrera del Gran Premio de Italia de Moto2, en directo",
+      "summary": "",
+      "link": "https://www.marca.com/motor/moto2/2026/05/31/05-0503-20260531-7-1.html",
+      "pubDate": "Sun, 31 May 2026 10:02:10 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/17802145189646.jpeg"
+    },
+    {
+      "id": "d19f9f33cab567a0cd5a",
+      "title": "Irán permite el paso de decenas de buques por el estrecho de Ormuz",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/608021-iran-permite-paso-decenas-buques-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 10:00:43 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "9eeadbca057e20386c07",
+      "title": "Bad Bunny conquista Madrid: del perreo de Ester Expósito, a Isi Palazón o Álvaro Carreras",
+      "summary": "Ester Expósito",
+      "link": "https://www.marca.com/tiramillas/musica/2026/05/31/bad-bunny-conquista-madrid-acompanado-famosos-casita-perreo-ester-exposito-isi-palazon-alvaro-carreras.html",
+      "pubDate": "Sun, 31 May 2026 10:00:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bd8d68be52.jpeg"
+    },
+    {
+      "id": "c920191097fe329c0264",
+      "title": "Este aspirador de Xiaomi no tiene nada que envidiarle a la Dyson y cuesta 4 veces menos: se limpia solo y tiene una luz para ver el polvo",
+      "summary": "Tras presentar una gran cantidad de productos para el hogar y su nueva línea Xiaomi 17T , la compañía ha puesto a la venta una de las mejores alternativas a la Dyson. Se trata del Mijia Cordless Vacuum Cleaner 4 Max , el nuevo aspirador de Xiaomi que incluye una base de carga que además es capaz de recoger el polvo aspirado. Todo ello, por un precio de menos de 200 euros. El nuevo aspirador de Xiaomi tiene un diseño muy sencillo, pero a la vez muy práctico. Es completamente portátil y elimina cualquier tipo de cable de carga gracias a una base minimalista. En el interior del aspirador nos encontramos con un motor sin escobillas con una potencia de 120.000 RPM y una succión de 25.000 Pa ; suficiente para la limpieza general de la casa y la succión de polvo, suciedad, pelos de mascotas, etc. De la misma forma que el aspirador más potente de Dyson, la Mijia Cordless Vacuum Cleaner 4 Max de Xiaomi incluye un sistema de detección de polvo a través de una luz de 180 grados . Esta luz está situada en la parte frontal del nuevo cepillo, que incluye un sistema antienredos para evitar que el pelo se acumule en esa superficie. En cuanto a la autonomía, el aspirador de Xiaomi tiene una batería extrapole de 2.600 mAh que ofrece una limpieza continuada de hasta 90 minutos . Así es la base del nuevo aspirador de Xiaomi Uno de los añadidos más llamativos de este nuevo aspirador de Xiaomi es su base. No solo carga, sino que también incluye un depósito de vaciado para extraer el polvo aspirado. Tan solo es necesario colocar el aspirador en la base y activar la función. Es capaz de eliminar el 99 % de la suciedad recolectada y vaciar el depósito del aspirador en solo 11 segundos. La base, además, cuenta con una bolsa que incluye un revestimiento antibacteriano, y que permite almacenar la suciedad hasta 100 días. Por supuesto, el aspirador de Xiaomi es inteligente. Se conecta a través de la app de la compañía para conocer su estado, nivel de batería o incluso la capacidad de la bolsa d",
+      "link": "https://hipertextual.com/tecnologia/este-aspirador-de-xiaomi-no-tiene-nada-que-envidiarle-a-la-dyson-y-cuesta-4-veces-menos-se-limpia-solo-y-tiene-una-luz-para-ver-el-polvo/",
+      "pubDate": "Sun, 31 May 2026 10:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/aspirador-xiaomi-02.jpg?fit=1024%2C677&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "mercado"
+    },
+    {
+      "id": "25bc47d03a79d0bee805",
+      "title": "Informe reservado: un fenómeno que crece debajo de las napas",
+      "summary": "El informe circula a toda velocidad en los sectores más disímiles . No se habla de las importaciones sino de un fenómeno que preocupa a las empresas por debajo de las napas: el contrabando . “Se volvió un problema muy grave en el país con impacto negativo para el Estado, el consumidor y las empresas”, asegura desde la página 2 de las 45 que tiene el relevamiento de MAP , una consultora de negocios que trabaja principalmente para multinacionales y que terminó el estudio a fines de noviembre de 2025. Hasta el momento las conclusiones se guardaban bajo siete llaves. Allí destacan que, si bien la problemática siempre existió, fue creciendo, en coincidencia con la eliminación de algunos mecanismos que servían para atacar al contrabando . Se enumeran entre otros la eliminación de veedores sectoriales en importaciones, la eliminación de verificaciones técnicas y trámites de importación de productos higiénicos y domisanitarios, el registro de exportadores e importadores y algunos controles previos de ANMAT, entre otros. La realidad se refleja en los números de varios negocios y adonde hay cálculos que se encuentran en los despachos de los número uno de las principales compañías de la Argentina que delinean su plan de negocios local. El mercado de celulares es tal vez el ejemplo más representativo de la tendencia. Aclaración importante para los lectores: no se trata de ese celular que una familia trae de un viaje y cuya trazabilidad y regulación está asegurada . En el país hay unos 9,2 millones de celulares si se toma el promedio de los años 2023 a 2025. Dentro de este número, el contrabando pasó del 7% que representaba del mercado al 35% , según otro informe de AFARTE al que tuvo acceso LA NACION . Es decir que uno de cada tres celulares se comercializa fuera del circuito formal. El mercado de contrabando recaudó unos US$ 1858 millones en 2025 mientras que las ventas de celulares de producción nacional generaron unos US$ 2311 millones. Entran fuera del mercado formal 50.000",
+      "link": "https://www.lanacion.com.ar/economia/informe-reservado-un-fenomeno-que-crece-debajo-de-las-napas-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 10:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/PVOYUS7WHZG77GQYVTB7QBHLGU.jpeg?auth=60c006f0cffe8cf5ebe99dbfd90d9357394db6215ace448826be47d045b01a3d&smart=true&width=1600&height=1131"
+    },
+    {
+      "id": "14456cd5ee016672063f",
+      "title": "Salir del piloto automático: 6 señales de alerta para tener en cuenta y la fórmula para retomar el control",
+      "summary": "Vivir en piloto automático nos va apagando y ni cuenta nos damos. Vivir en automático no es solo una sensación de cansancio ; es un estado neurobiológico documentado. El cerebro consume cerca del 20% de la energía corporal y utiliza los automatismos para ahorrar recursos. Sin embargo, cuando este modo se vuelve crónico, afecta nuestra memoria y bienestar. Un estudio colaborativo de las universidades de Surrey, South Carolina y Central Queensland realizado en 2025 analizó más de 3700 momentos de conducta en participantes del Reino Unido y Australia. Los resultados determinaron que el 65% de nuestras actividades cotidianas se inician por hábito y no por una decisión consciente en el momento . Qué es el “Honeymoon Effect”: la ciencia detrás de esa etapa en la que todo parece perfecto Lo interesante es que, aunque sean automáticas, el 46% de estas acciones suelen estar alineadas con nuestras intenciones generales . ¿Un ejemplo de todos los días? Manejar al trabajo: el cerebro es eficiente, pero a costa de la ‘presencia’. Otra investigación de gran impacto publicada a finales de 2025 (difundida por la British Psychological Society y Science Focus) reveló que hasta el 88 o incluso 90% de nuestras acciones diarias se ejecutan sin control consciente. Pero, ¿quién las ejecuta? La red de modo predeterminado o DMN ( default mode network ), una red que se activa cuando no estamos enfocados en una tarea externa . Causalidad o casualidad, el exceso de actividad en la DMN se ha vinculado recientemente con mayores niveles de rumiación (dar vueltas a pensamientos negativos) y una reducción en la memoria autobiográfica, es decir, nos cuesta más recordar detalles específicos de nuestra propia vida porque no estuvimos ahí mentalmente mientras sucedían. “La red neuronal de modo predeterminado es un conjunto de áreas del cerebro que se activa cuando no estamos haciendo una tarea concreta: cuando descansamos, divagamos, recordamos, pensamos en nosotros mismos o procesamos lo que nos pasa.",
+      "link": "https://www.lanacion.com.ar/salud/salir-del-piloto-automatico-6-senales-de-alerta-para-tener-en-cuenta-y-la-formula-para-retomar-el-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 10:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/DYYZPVI7G5EGPAFRSVYABHQS6E.jpg?auth=3bbf95ebb4808b1570e1e0e27eb0622b76383057a64d4615bf39130bdaa5ad8c&smart=true&width=4550&height=3991"
+    },
+    {
+      "id": "38e0d11c8b5761f28347",
+      "title": "Michael Tennant, escritor: “La empatía ordena, ayuda a priorizar y permite tomar decisiones alineadas con lo que necesitamos”",
+      "summary": "El psiquiatra y psicólogo suizo Carl Jung , fundador de la psicología analítica, escribió que “lo que niegas te somete; lo que aceptas te transforma”. Esta frase dialoga con evidencia científica que advierte sobre los efectos de permanecer en entornos adversos. Un estudio publicado en el Journal of Occupational Health Psychology encontró que la exposición sostenida a climas laborales hostiles eleva los niveles de cortisol y aumenta el riesgo de burnout . A su vez, la American Psychological Association señala que sostener vínculos disfuncionales impacta en la salud cardiovascular y la regulación emocional . Persistir no siempre es resiliencia. En muchos casos, es desconexión del propio registro interno. A esa evidencia se suma un estudio de la Universidad de Harvard que encontró que las personas expuestas de forma crónica a relaciones sociales negativas presentan un 29% más de riesgo de desarrollar enfermedades cardiovasculares. En la misma línea, una investigación de la Universidad de Stanford sobre toma de decisiones mostró que los estados de estrés sostenidos reducen la capacidad de evaluar alternativas y aumentan la tendencia a permanecer en situaciones desfavorables, incluso cuando existen opciones de cambio más saludables. En ese cruce entre experiencia personal y comprensión emocional aparece el norteamericano Michael Tennant . Criado en el Brooklyn más duro de los años 80, atravesó violencia y duelos que lo llevaron a transformar la empatía en una práctica concreta. Fundador de Curiosity Lab, desarrolló el modelo five phases of empathy (cinco fases de empatía), una metodología que entrena esa condición como práctica concreta en la vida cotidiana, el liderazgo y los procesos de cambio. Su enfoque propone algo simple y exigente a la vez: permanecer en la incomodidad el tiempo suficiente como para entender qué está pasando. “Cuando perdí a mis hermanos, entendí que evitar el dolor no te protege, te desconecta”, dice el autor de El poder de la empatía . Elizabeth",
+      "link": "https://www.lanacion.com.ar/salud/michael-tennant-escritor-la-empatia-ordena-ayuda-a-priorizar-y-permite-tomar-decisiones-alineadas-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 10:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/AFQBLSKQ3FEKRMTLYVKDO5QLVM.jpg?auth=436e7e9242a0ae15059a90e03e4f6d80c51bf0d823f311af6a5b35df20fbf72e&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "00d980f6bf85b80286bc",
+      "title": "UFC revela nuevo tráiler de su próximo evento en la Casa Blanca (VIDEO)",
+      "summary": "La UFC ha publicado un nuevo tráiler de cara al evento del próximo mes para celebrar los 250 años de la independencia estadounidense, denominado 'UFC Freedom 250'. En el clip se ve a Justin Gaethje e Ilia Topuria, artistas marciales que protagonizarán el combate de peso ligero, hablando sobre sus expectativas del evento. La otra pelea será entre Alex Pereira y Ciryl Gane por el título interino de peso pesado de la UFC. El evento estará encabezado solo por estos dos combates.",
+      "link": "https://actualidad.rt.com/viral/608022-ufc-nuevo-trailer-evento-casa-blanca-video?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 09:53:01 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1c01b859bf5b4a7803f5cd.jpg"
+    },
+    {
+      "id": "857c98c50854d933e4e5",
+      "title": "Mentiras: en Roma, el miedo a ser descubiertos en un engaño puede llegar a tomar una perturbadora forma física",
+      "summary": "Como muchos, crecí sabiendo que existían castigos por no decir la verdad . Venían, por supuesto, en forma de cuento infantil, como Pinocho y su enorme nariz, que no paraba de crecer cuando mentía, en fábulas como la de Pedro y el lobo, en la que el niño ejercitaba tanto la mentira que cuando finalmente decía la verdad, nadie le creía. Confieso que esta me parecía desesperante, porque esa vez en la que el lobo corría babeándose hacia las ovejas con dientes afilados, dispuesto a devorarlas, justamente ese día, nadie iba a creerle. Después el catecismo hizo lo suyo y las mentiras fueron un clásico secreto de confesión. Con el tiempo habremos aprendido de la existencia de las mentiras piadosas, little white lies (pequeñas mentiritas blancas), les decía mi madre, y creí entender que solo se usaban cuando decir la verdad podía generar un daño mayor o cuando su contenido no presentaba la suficiente relevancia como para calificar de mentira hecha y derecha. Qué es el “Honeymoon Effect”: la ciencia detrás de esa etapa en la que todo parece perfecto Eran, sin embargo, herramientas a las que había que recurrir poco, ya que el exceso podía convertirlas en hábito y ya sabemos lo pegajosos que son los hábitos: casi sin darse cuenta, cualquiera podría convertirse en un mentiroso irrecuperable . Todos conocemos alguno. Ese temor infantil a quedar expuesto, a que la falta de honestidad dejara una marca física e indeleble, a ser devorado por un lobo, encontró su forma más perfecta de piedra el día que, ya de grande, visité Roma . Habíamos pasado con mis amigas la mañana en el Trastévere con la intención de llegar al atardecer al Foro Romano, sabiendo que el sol de una tarde pegando sobre las ruinas y los mármoles (los pocos que sobreviven) es una luz inmejorable. Cruzamos el Puente Palatino y mi amiga, residente permanente, nos advierte que con tanto calor no es el mejor día para caminar junto al Circo Máximo, que al final se ve como una eterna extensión de pasto. Insistimos. Nada no",
+      "link": "https://www.lanacion.com.ar/salud/mentiras-en-roma-el-miedo-a-ser-descubiertos-en-un-engano-puede-llegar-a-tomar-una-perturbadora-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 09:34:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/5AYF6Y2YWZAM5MKA7PFX5XFQKY.jpg?auth=be0a0b1897689b8223168b02642d88064829039b014a9e41f87c7f98624aeb17&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "b4c068fbcc1148262253",
+      "title": "VIDEO: Mexicanos ocupan los mejores puestos para observar la espectacular erupción de un volcán",
+      "summary": "Personas en México comenzaron a apartar lugares para observar la actividad del volcán Popocatépetl, luego de que imágenes del coloso generaran gran atención en redes sociales. El Popocatépetl, ubicado en el centro del país y considerado uno de los volcanes más activos de México, mantiene una actividad constante con emisiones de vapor, gases y ceniza que son monitoreadas de forma permanente por las autoridades.",
+      "link": "https://actualidad.rt.com/viral/608005-mexicanos-ocupar-mejores-puestos-ver-volcan?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 09:33:00 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bdd89e9ff7177d14d9d09.jpg"
+    },
+    {
+      "id": "2ad95067a365843d56f0",
+      "title": "Explota un meteoro en el cielo de Estados Unidos: 300 toneladas de TNT",
+      "summary": "Explota un meteoro que se dirigía a la Tierra y acaba convirtiéndose en una ola de fuego que sobrevoló el cielo en Estados Unidos",
+      "link": "https://www.marca.com/tiramillas/ciencia/2026/05/31/explota-meteoro-dirigia-tierra-acaba-convirtiendose-ola-fuego-sobrevolo-cielo-estados-unidos.html",
+      "pubDate": "Sun, 31 May 2026 09:30:49 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1be038a0ede.jpeg"
+    },
+    {
+      "id": "501f994cd8b4a508c7f2",
+      "title": "Ni las bailarinas se salvan: Robot humanoide aprende a hacer estriptis en una barra (VIDEO)",
+      "summary": "Un video de un robot humanoide realizando una rutina de baile sensual como un estriptisero en una barra se ha vuelto viral en redes sociales, generando asombro y polémica. En las imágenes se observa al robot moviéndose al ritmo de la música con tacones y gestos provocativos, imitando coreografías típicas del baile en barra. La grabación ha desatado todo tipo de reacciones, desde humor hasta preocupación, asegurando que ni siquiera el baile en barra está a salvo de la automatización.",
+      "link": "https://actualidad.rt.com/viral/608016-bailarinas-robot-humanoide-aprende-estriptis-barra-video?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 09:28:30 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bfb60e9ff7138bc7c0b7e.jpg"
+    },
+    {
       "id": "5fc048e69512a17a6edc",
       "title": "El ‘mundo del agente’: \"Hablo con gente de otros sectores y les digo: ‘me gustaría verte con 22 años y con un contrato de este tipo\"",
       "summary": "El papel de los agentes con los jugadores.",
@@ -450,6 +691,88 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bd2301150d.jpeg"
+    },
+    {
+      "id": "ad04ede3dc4ea4ae5440",
+      "title": "WSJ: La ONU está en bancarrota",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/608020-wsj-onu-esta-bancarrota?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 09:24:56 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "b9219bad282f211e577a",
+      "title": "“Me daba miedo hasta subir una foto mía a Instagram”: con 18 años, cuenta cómo es vivir con obesidad y busca ayudar a otros jóvenes",
+      "summary": "Tengo obesidad desde que tengo memoria. Por eso la frase me sale natural, porque no recuerdo una etapa de mi vida en la que no haya convivido con esto. Siempre fui “el grandote”, “el gordito”, “el gordo”. En el primario éramos cuatro chicos con sobrepeso en una misma aula y directamente nos llamaban así: “el gordo” y nuestro nombre. Nací y crecí en Córdoba capital, en una familia muy unida donde la obesidad siempre estuvo presente. Desde mis tatarabuelos hubo problemas vinculados al peso, diabetes e hipertensión. Pero cuando uno es chico no piensa en las consecuencias en la salud. Lo que más pesa es otra cosa: la mirada de los demás. Empecé a sufrir bullying a los seis años. Y no pasaba solo en el colegio. También me pasaba en los scouts, en deportes, en distintos espacios. Durante muchos años sentí que ser gordo era algo que los otros notaban antes que cualquier otra cosa de mí . Tengo recuerdos muy marcados de esa época. Uno de los peores fue en segundo grado. Un compañero pasó un recreo entero saltándome arriba de la panza. El colegio no hizo nada. De hecho, muchas veces el que terminaba quedando como culpable era yo. En esa época el bullying no se tomaba con la seriedad con la que se habla hoy. Parecía un “juego de chicos”. Pero no era un juego. Hoy me cuesta incluso imaginar qué pensaban quienes hacían esas cosas. La mayoría eran chicos también. Pero sí creo que hay algo importante: cuando alguien presencia una situación de bullying no debería mirar para otro lado. A veces intervenir directamente puede ser difícil o generar miedo, pero siempre hay que buscar a un adulto que tenga herramientas para actuar. Hay cosas que parecen pequeñas cuando uno las cuenta de grande, pero que a un chico le quedan grabadas para siempre. Me acuerdo, por ejemplo, de cuando íbamos al club a natación. A mis compañeros les salía fácil levantarse del borde de la pileta. A mí me costaba muchísimo. Hacía fuerza, no podía, y escuchaba las risas atrás mío. “Al gordo no le salió”. Esos mo",
+      "link": "https://www.lanacion.com.ar/comunidad/me-daba-miedo-hasta-subir-una-foto-mia-a-instagram-con-18-anos-cuenta-como-es-vivir-con-obesidad-y-nid28052026/",
+      "pubDate": "Sun, 31 May 2026 09:20:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/RQZN4YXRPZGVLFPU3R7JOZXUWY.JPG?auth=052deb40c645d9f574823021f7e9c3a81ad553b5a4e013f44a94845931d3c2ff&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "8797f816131323ba096f",
+      "title": "Combaten la doble fila y les hacen pasar vergüenza a los conductores",
+      "summary": "A veces, trasladarse en la Ciudad puede asemejarse más a un circuito lleno de obstáculos, con vehículos que obstruyen los cruces peatonales, ocupan ochavas, estacionan en doble fila o en los espacios destinados a las paradas de colectivos. Se trata de uno de los principales temas de debate a nivel mundial: la convivencia urbana y cómo mejorarla. Con el objetivo de prevenir o resolver enfrentamientos entre vecinos, ordenar la circulación y recuperar el espacio público, el Gobierno porteño incorporó 500 nuevos agentes de tránsito capacitados para recorrer las calles de la Ciudad, alertando a los infractores que, sin advertirlo, obligan a maniobras riesgosas, frenan colectivos o generan una cadena de bocinazos que se extiende por cuadras. Con una sirena y un altavoz, y apelando a la autorregulación, suelen lograr mejores resultados que con las multas (las que, en última instancia, siguen vigentes). El operativo se despliega todos los días con recorridas permanentes para el control del estacionamiento en doble fila en barrios muy transitados . “Las zonas donde principalmente actuamos son Once, Palermo, Recoleta, Belgrano y Núñez”, detalla Leandro Ricciardi, Director General del Cuerpo de Agentes de Tránsito de la Ciudad. El plan contempla extenderse a Caballito, Flores y Colegiales. El congestiómetro contra la doble fila La iniciativa surgió como una demanda de los vecinos en las reuniones que la gestión porteña realiza regularmente, en tándem con los estudios realizados en el Congestiómetro de la Ciudad , una plataforma de análisis de datos en tiempo real desarrollada para monitorear y gestionar el flujo vehicular: “Identificamos estos corredores que los teníamos en rojo para dar con el tema de los vehículos en doble fila”, afirma Ricciardi. Las obras que avanzan en Buenos Aires, como el paso bajo nivel García Lorca o el del puente Labruna en Núñez van en ese sentido : “Queremos que la gente gane tiempo y pueda moverse de manera más ágil, disminuyendo los niveles de ri",
+      "link": "https://www.lanacion.com.ar/autos/combaten-la-doble-fila-y-les-hacen-pasar-verguenza-a-los-conductores-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 09:17:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/BJ5R3EC7L5AFZOI6SCYTRG2AAI.png?auth=309404833c408b4fee18150abe34cc1ea4daf3bf244fcb115d41a8724d562a6f&smart=true&width=1283&height=810"
+    },
+    {
+      "id": "6aaa95f78fc9c6f34202",
+      "title": "Rusia ataca instalaciones de producción de drones y depósitos de combustible en Ucrania",
+      "summary": "Los ataques también alcanzaron objetivos de infraestructura energética y transporte utilizados por las Fuerzas Armadas de Ucrania.",
+      "link": "https://actualidad.rt.com/actualidad/608019-rusia-ataca-instalaciones-produccion-drones-depositos-combustible-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 09:12:53 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bfd68e9ff7140fd4dbd19.jpg"
+    },
+    {
+      "id": "d181b30cef821df97787",
+      "title": "Cazadores de drones: así entrenan las unidades interceptoras rusas",
+      "summary": "Militares rusos de unidades de drones interceptores de la agrupación de tropas Tsentr ('Centro') perfeccionan sus habilidades en un polígono de entrenamiento, centrando la preparación en la detección, captura y destrucción de objetivos aéreos. El programa incluye pilotaje en condiciones meteorológicas adversas, operaciones nocturnas y trabajo bajo interferencias enemigas, además de entrenamiento para seleccionar posiciones de lanzamiento y reaccionar rápidamente a cambios en la situación aérea.",
+      "link": "https://actualidad.rt.com/actualidad/608014-cazadores-drones-entrenar-unidades-rusas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 09:06:37 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bfbf6e9ff71508f53a2d6.jpg"
+    },
+    {
+      "id": "4825143e7794ad34a171",
+      "title": "Anticipar lo peor: qué es el pesimismo defensivo y por qué puede protegerte",
+      "summary": "La psicología revela que anticipar escenarios negativos puede proteger emocionalmente. Esta estrategia reduce la ansiedad y mejora el rendimiento en situaciones complejas.",
+      "link": "https://www.clarin.com/viva/anticipar-peor-pesimismo-defensivo-puede-protegerte_0_3x9SptH096.html",
+      "pubDate": "Sun, 31 May 2026 09:06:16 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/06/IUdy_f1GF_1200x630__1.jpg"
+    },
+    {
+      "id": "dac214b5091ee1789e23",
+      "title": "Ernesto Sabato: la literatura como una forma de resistencia",
+      "summary": "Estudió Física en La Plata y trabajó en un laboratorio de París, pero se dio cuenta que la mejor manera de explicar la angustia de un hombre frente al vacío era la literatura. Escribió El túnel, Sobre héroes y tumbas y Abaddón el exterminador, y ensayos. Fue presidente de la CONADEP y redactó el informe Nunca Más, transformando la literatura en memoria colectiva.",
+      "link": "https://www.clarin.com/viva/ernesto-sabato-literatura-forma-resistencia_0_vVf0bWR8On.html",
+      "pubDate": "Sun, 31 May 2026 09:04:16 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2022/05/13/D8TJBs0ZN_1200x630__1.jpg"
+    },
+    {
+      "id": "1409de5bdc01930e2fd2",
+      "title": "DuckDuckGo, el éxito de la búsqueda sin IA",
+      "summary": "DuckDuckGo está viviendo una pequeña paradoja tecnológica bastante interesante. Justo cuando parecía que Internet avanzaba sin frenos hacia una era en la que toda búsqueda debía pasar inevitablemente por una capa de inteligencia artificial, resulta que una parte creciente de usuarios parece estar haciendo clic exactamente en la dirección contraria. No hacia más IA, sino hacia menos . O, siendo más precisos, hacia la posibilidad de elegir cuándo quieren usarla y cuándo prefieren prescindir de ella. Eso es precisamente lo que sugieren los últimos datos compartidos por el conocido buscador centrado en privacidad. Según DuckDuckGo, el tráfico hacia su modo “No AI” se ha multiplicado por más de tres desde el pasado 19 de mayo , fecha en la que Google I/O 2026 puso sobre la mesa una profunda reinvención del buscador de Google basada en inteligencia artificial. Desde entonces, las visitas se han mantenido de media un 84% por encima de lo habitual, una cifra lo bastante significativa como para que DuckDuckGo haya empezado incluso a promocionar nuevas extensiones para Chrome y Firefox que convierten esta experiencia sin IA en la predeterminada. ¿La propuesta? Nada de respuestas generadas automáticamente, sin chat integrado y con menos contenido visual producido por IA . Y aquí conviene detenerse un momento en lo que Google anunció hace apenas unos días, porque no fue precisamente menor. Durante Google I/O 2026, la compañía presentó una transformación profunda de su buscador, probablemente la más ambiciosa en muchos años. A las ya habituales respuestas generadas por IA se suman ahora sugerencias inteligentes integradas directamente en la caja de búsqueda, capacidad para encadenar preguntas de seguimiento, agentes capaces de ejecutar tareas y un sistema de inteligencia personal que conecta resultados con información personal procedente de servicios como Gmail o Google Photos. Para algunos usuarios esto representa el futuro lógico de las búsquedas; para otros, empieza a parecer",
+      "link": "https://www.muycomputer.com/2026/05/31/duckduckgo-el-exito-de-la-busqueda-sin-ia/",
+      "pubDate": "Sun, 31 May 2026 09:03:39 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/DuckDuckGo-2.jpg",
+      "subcat": "herramientas"
     },
     {
       "id": "90840adce85b0f69eb53",
@@ -462,6 +785,157 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/28/69f0923289fa7.jpeg"
     },
     {
+      "id": "6d2eedef329f28380cf1",
+      "title": "Crisis en el deporte argentino: hay joyas para seguir creyendo... si se apuesta por ellas",
+      "summary": "El Gobierno cumple lo prometido en campaña y ya no hay fondos. Los atletas evitan quejarse por temor a perder las migajas que reciben. En emergencia, la mejor mediofondista del país junta plata con una rifa.",
+      "link": "https://www.clarin.com/deportes/crisis-deporte-argentino-joyas-seguir-creyendo-apuesta_0_x9alIilyQF.html",
+      "pubDate": "Sun, 31 May 2026 09:00:18 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/30/fRnfRqgy2_1200x630__1.jpg"
+    },
+    {
+      "id": "43fcfb33e05658d348eb",
+      "title": "Ezzequiel y Fede Racchi, los otros argentinos \"convocados\" al Mundial 2026: qué hacen y por qué significa \"el sueño\" de sus vidas",
+      "summary": "Al margen de los 26 convocados por Lionel Scaloni, fueron seleccionados entre 30 personas en todo el mundo para un trabajo específico. Los dos charlaron con Clarín, a días de subirse a un avión rumbo a Norteamérica.",
+      "link": "https://www.clarin.com/deportes/ezzequiel-fede-racchi-argentinos-convocados-mundial-2026-hacen-significa-sueno-vidas_0_YDXuGeZfP8.html",
+      "pubDate": "Sun, 31 May 2026 09:00:18 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/05/31/BPCkxRSBa_1200x630__1.jpg"
+    },
+    {
+      "id": "3217c80c113cbefb0a90",
+      "title": "ACV en jóvenes: el caso de una modelo a sus 31 años y por qué cada vez son más frecuentes",
+      "summary": "Manuela Lori sufrió en 2023 un accidente cerebro vascular que marcó un antes y un después. En Argentina del 10 al 15% de los ACV afectan a gente joven. Cuáles son las causas y los signos de alerta según un experto.",
+      "link": "https://www.clarin.com/sociedad/acv-jovenes-caso-modelo-31-anos-vez-frecuentes_0_lI3Xq9Y8TO.html",
+      "pubDate": "Sun, 31 May 2026 09:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/08/rZVOOIxa9_1200x630__1.jpg"
+    },
+    {
+      "id": "724ab0436e06b86ed14c",
+      "title": "Martín D'Alessandro, politólogo y presidente de Poder Ciudadano: \"La democracia sufre con Milei como sufrió con Cristina\"",
+      "summary": "El experto cree que el principal resultado político del Gobierno ha sido la baja de la inflación y que pese a ese éxito \"Milei se encuentra en una trampa: es un líder populista y parte de su electorado tiene valores republicanos\".",
+      "link": "https://www.clarin.com/economia/martin-dalessandro-politologo-presidente-poder-ciudadano-democracia-sufre-milei-sufrio-cristina_0_B0L2FcEpv6.html",
+      "pubDate": "Sun, 31 May 2026 09:00:17 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/05/30/3eW3Zb2mc_1200x630__1.jpg"
+    },
+    {
+      "id": "d439cafb16ab78ba91b6",
+      "title": "\"Para dejar de jugar online y volver al tablero vivo\": ajedrez y piano, la nueva propuesta familiar",
+      "summary": "En un galpón de Saavedra se realizó la primera jornada de La Variante, una iniciativa gratuita que combina juego, música y gastronomía. La intención es organizar \"la juntada\" una vez por mes luego de un bautismo que ya reunió a unas 700 personas. \"Advertimos que hay necesidad de un espacio como éste\", afirma su impulsor, Martín Grosman.",
+      "link": "https://www.clarin.com/sociedad/dejar-jugar-online-volver-tablero-vivo-ajedrez-piano-nueva-propuesta-familiar_0_qnVMd0VQSS.html",
+      "pubDate": "Sun, 31 May 2026 09:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/28/oPNi_RqFR_1200x630__1.jpg"
+    },
+    {
+      "id": "df20f2d8b08723dab5ea",
+      "title": "El lado B de los decks gastronómicos: la mala costumbre que achica las calles y el impacto en la seguridad vial",
+      "summary": "Aumentaron en la pandemia para sumar espacios abiertos. Los barrios donde hay más y la advertencia para para peatones, ciclistas y automovilistas.",
+      "link": "https://www.clarin.com/ciudades/lado-b-decks-gastronomicos-mala-costumbre-achica-calles-impacto-seguridad-vial_0_oJ4AeUibDs.html",
+      "pubDate": "Sun, 31 May 2026 09:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/29/c2waBiNva_1200x630__1.jpg"
+    },
+    {
+      "id": "9c9a9da8f77fcad6ca43",
+      "title": "Diccionario Z: del \"rage bait\" al \"aura farming\", ¿en qué idioma hablan los jóvenes en las redes?",
+      "summary": "A través de memes y tendencias virales, la Generación Z expresa las inquietudes de una época. Una guía para entender los términos que los nativos digitales nombran en un inglés global, pero a veces incomprensibe.",
+      "link": "https://www.clarin.com/viva/diccionario-z-rage-bait-aura-farming-idioma-hablan-jovenes-redes_0_b18j9OhTFe.html",
+      "pubDate": "Sun, 31 May 2026 09:00:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/29/8aHrZ56XY_1200x630__1.jpg"
+    },
+    {
+      "id": "2e4fdec6672ddf819ac7",
+      "title": "El autor de Una Navidad de Mierda viajó desde Barcelona para ver el fenómeno teatral: \"Al principio me horroricé con el título que le pusieron aquí, pero ahora estoy fascinado\"",
+      "summary": "Markos Goikolea Unzalu nació hace 36 años en el País Vasco, pero lleva más de la mitad de su vida en la ciudad catalana. Escribió esta comedia en plena pandemia, con personajes parecidos a su propia familia y originalmente se llamó \"Nunca he estado en Dublín\". Las claves de este hit de la Calle Corrientes que vive agotando entradas. Las cifras y los testimonios de Verónica Llinás, protagonista y codirectora, y de Gustavo Yankelevich , el hombre que supo poner el ojo en esta joyita.",
+      "link": "https://www.clarin.com/espectaculos/autor-navidad-mierda-viajo-barcelona-ver-fenomeno-teatral-principio-horrorice-titulo-pusieron-ahora-fascinado_0_SqbKcoAbyB.html",
+      "pubDate": "Sun, 31 May 2026 09:00:17 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/05/28/ILXiTC3sJ_1200x630__1.jpg"
+    },
+    {
+      "id": "e5cae8ef4c48ec137008",
+      "title": "El encuentro crucial de un joven Le Parc y su maestro Antonio Berni en París",
+      "summary": "La escena se sitúa en un suburbio de París , el extrarradio o lo que los franceses llaman Banlieu a falta de una palabra tan satanizada como “conurbano” en Buenos Aires. Arcueil-Cachan es el nombre de la estación de tren en la que, luego de dos combinaciones, hay que bajarse de acuerdo a la instrucción, anotada con birome en el teléfono público de la Ciudad Universitaria, que deja Julio Le Parc . El mendocino llevaba para 2003 unos 45 años viviendo en Francia y yo seguía la ruta de Antonio Berni en la ciudad que había hegemonizado la escena del arte hasta que Estados Unidos invirtió fuerte en el expresionismo abstracto y el pop de Nueva York para torcerle el brazo en la guerra fría. La “obra visionaria” de Julio Le Parc: qué se exhibirá en la Tate de Londres Hacia 1962, Berni y un joven Le Parc habían coincidido en alquilar juntos un taller de ebanistería reconvertido en atelier en Cité Prost, un pasaje ya demolido e inexistente en una zona intermedia y de bajo valor inmobiliario entre los barrios Nation y Bastille. Más atrás, recién llegado de Mendoza, Le Parc había sido alumno de Berni en la escuela preparatoria Manuel Belgrano. Mientras cursaba y trabajaba en una fábrica de marroquinería, Le Parc se hacía tiempo para espiar a los cinco fantásticos afines al PC (Spilimbergo, Castagino, Urruchúa, el exiliado español Colmeiro y Berni) que trabajaban en un encargo por demás burgués como era pintar la cúpula de las Galerías Pacífico (antes Bon Marché, uno de los tantos afrancesamientos porteños). A simple vista pareciera difícil ver algo de Berni en la obra de Le Parc. Uno figurativo, con el comentario socio político en la punta del pincel o de la prensa de gofrado o de los materiales de basura transfigurados por el assemblage . El otro, en apariencia, frío, cientificista, pendiente del efecto de la óptica, abstracto al fin. Sin embargo, tanto aquellas clases como la experiencia de ver una pintura mural en proceso fueron determinantes para que Le Parc pensara en el pú",
+      "link": "https://www.lanacion.com.ar/cultura/el-encuentro-crucial-de-un-joven-le-parc-y-su-maestro-antonio-berni-en-paris-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/UZSNIBYY2JC2NJOI3V4LPEZOEI.jpg?auth=62f87fdaf5e659f31de59cf5c1a46e289a55113813a4aaa84352d4e83ea231d6&smart=true&width=4737&height=3169",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "0d9dd02181020243c865",
+      "title": "Anne Applebaum: “La gente está empezando a ver la escala de la corrupción de Trump”",
+      "summary": "Mientras Vladimir Putin apuesta a escalar su ofensiva contra Ucrania y la guerra en Irán amenaza con desestabilizar todavía más a Medio Oriente, Anne Applebaum piensa que la batalla decisiva del año se librará en Washington . Desde hace décadas que la historiadora, periodista y columnista de The Atlantic analiza, desde Rusia a Hungría, como las democracias se erosionan desde adentro , dinámicas que ahora encuentra en el país que debía ser un dique de contención mundial contra los autoritarismo. “En Estados Unidos están ocurriendo cosas que nunca habían sucedido antes, como que el presidente use su cargo para enriquecerse a sí mismo y a su familia” , dice durante una videollamada desde Varsovia, la ciudad donde cubrió para The Economist la transición de Polonia del comunismo al capitalismo tras la caída del bloque soviético y donde todavía pasa parte del año. “La gente está empezando a ver la escala de la corrupción” del gobierno de Trump , agrega. Ganadora del Pulitzer por Gulag, en sus libros El ocaso de la democracia y Autocracy Inc. siguió el ascenso de líderes iliberales, las redes de cooperación entre regímenes autoritarios y el debilitamiento progresivo de las instituciones. Señales que ahora ve con alarma en Washington , la otra ciudad donde pasa el resto del tiempo. De la derrota de Viktor Orban al ascenso de China , en una entrevista con LA NACION, Applebaum hace un profundo análisis sobre el estado del mundo y describe un segundo mandato de Trump mucho más radicalizado que el primero, rodeado de figuras que ya no buscan simplemente administrar el poder sino alterar las reglas del sistema político. Y señala que lo que está en juego en las elecciones de mitad de mandato de noviembre va mucho más allá de la composición del Congreso norteamericano. –Muchos analistas vieron el primer mandato de Trump como disruptivo y este segundo parece más radical e ideológico. ¿Qué cambió? –La principal diferencia es la gente que lo rodea. Después del 6 de enero, la mayoría ",
+      "link": "https://www.lanacion.com.ar/el-mundo/anne-applebaum-la-gente-esta-empezando-a-ver-la-escala-de-la-corrupcion-de-trump-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 09:00:01 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/AZJQ26OCWZEPZGCVXIQ3H7PS2Y.jpg?auth=4be88f48ba7171ecbce7c007838ba62c0f5823ba3591984c05da3755ac1921dd&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f09cae07a73402d19bf8",
+      "title": "La multa de 100 euros que la DGT te puede poner para amargarte el verano: ya van más de 9 millones",
+      "summary": "La ciudad de Nueva York lleva más de 9 millones de dólares recaudados en una multa que, si quiere, la DGT también puede replicar en España durante este verano. Y, aunque es algo rebuscado y más cercano a la recaudación que a la seguridad, no es la primera vez que nuestra Dirección General de Tráfico se pone manos a la obra para implementar un nuevo método de este estilo para llenar un poco más sus arcas. La infracción, además, es de lo más común entre los conductores y se multiplica en verano, cuando más movimiento hay en todo el país. ¿Qué se ha inventado el alcalde de NYC que también podría llegar a España? Una multa por dejar el coche arrancado cuando estás parado o estacionado . La típica acción que todo el mundo hace para no perder tiempo o que el aire acondicionado siga funcionando sin problema. El alcalde de NYC lleva más de 9 millones de dólares recaudados en las últimas semanas. El motivo no es otro que ir a por los repartidores de Amazon y otras empresas de paquetería, quienes suelen dejar los vehículos arrancados mientras entregan paquetes para no perder tiempo. Lo más curioso es que, en España, si la DGT se pone seria y con la toga de la recaudación, podría implementar algo similar con multas que van de los 80 a los 100 euros . Y no con nada que se saque de la manga, simplemente debe ser fiel al Artículo 10 de nuestro código de circulación. Imagen de Luis Wilker WilkerNet en Pixabay ¿Realmente te pueden multar por dejar el coche arrancado mientras estás dentro? Sí. Otra cosa es que la DGT no suela poner esto en práctica. Ahora bien, con el Artículo 10 del código de circulación en la mano, las autoridades tienen la potestad de multarte con 80 o 100 euros si creen que tus acciones pueden provocar \"perjuicios o molestias innecesarias a las personas o daños a los bienes o al medioambiente\" . Y, sabiendo que el motor de un coche arrancado contamina por el simple hecho de estarlo, la DGT tendría en la mano una baza para empezar a poner miles de multas en ciuda",
+      "link": "https://hipertextual.com/movilidad/la-multa-de-100-euros-que-la-dgt-te-puede-poner-para-amargarte-el-verano-ya-van-mas-de-9-millones/",
+      "pubDate": "Sun, 31 May 2026 09:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/10/hipertextual-cataluna-cobrara-impuesto-vehiculos-que-mas-contaminen-2019839846.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "97014d6e29f1184c4b4a",
+      "title": "Efemérides del 31 de mayo: ¿qué pasó un día como hoy?",
+      "summary": "Las efemérides del 31 de mayo reúnen a una serie de eventos que tienen en común haber pasado un día como hoy, domingo en el que se celebra es el Día Sin Tabaco en todo el mundo, incluida la Argentina. Impulsada por la Organización Mundial de la Salud (OMS) , esta fecha busca visibilizar el tabaquismo , una enfermedad crónica causada por la adicción a la nicotina . Nació como una propuesta de la Asamblea Mundial de la Salud en 1987. De acuerdo a la Organización Mundial de la Salud (OMS), el objetivo con el que se gestó esta efeméride fue el de dirigir la atención “hacia la epidemia de tabaquismo y sus efectos letales”. Se considera que esta es la principal causa de muerte prevenible en todo el mundo: se calcula que más de ocho millones de personas fallecen anualmente en todo el mundo a causa del tabaco . Desde el organismo internacional, todos los años ponen el foco en alguna problemática que está relacionada con esta jornada. En 2025, el Día Mundial Sin Tabaco tiene el lema ” Desenmascarando el atractivo ” . De esta forma, la OMS pretende que este día sirva de plataforma para que “los jóvenes de todo el mundo insten a sus gobiernos a protegerlos de las tácticas abusivas de los fabricantes de tabaco, que se dirigen a los jóvenes para convertirlos en adictos y lucrarse de por vida”. En ese sentido, resalta que en todas las regiones del mundo los niños empiezan a consumir cigarrillos electrónicos a un ritmo superior al de los adultos. Según los cálculos, 37 millones de jóvenes de entre 13 y 15 años consumen tabaco . Efemérides del 31 de mayo: ¿qué pasó un día como hoy? 1556 – Muere San Ignacio de Loyola, el religioso católico y militar castellano que fundó la Compañía de Jesús, la orden religiosa a cuyos miembros se conoce como jesuitas 1819 – Nace el poeta estadounidense Walt Whitman 1859 – Se inaugura en Londres el Big Ben 1879 – Se inaugura el Madison Square Garden de la ciudad de Nueva York 1889 – Se produce la inundación de Johnstown, en Estados Unidos. Mueren 99 ",
+      "link": "https://www.lanacion.com.ar/lifestyle/efemerides-del-31-de-mayo-que-paso-un-dia-como-hoy-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/DSNA7BNK4ZDNLAEL7VDM2VX3PY.png?auth=0a3c2da323daf495bc5caeb807092aa02e941a605208abe23f2c9d62d16bbaad&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "42266a2e9bee595f1771",
+      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 31 de mayo",
+      "summary": "Este domingo 31 de mayo no hay actividad en el mercado financiero y, tanto para el dólar oficial como para el dólar blue se toman como referencia los valores de cierre del último día hábil de la semana . A cuánto cotiza el dólar oficial hoy En la última jornada hábil, el dólar oficial , en las pizarras del Banco Nación , cotizó a $1380 para la compra y $1430 para la venta . A cuánto cotiza el dólar blue hoy En tanto, el dólar blue , que se comercializa en el mercado informal de cambios, en el último día hábil operaba a $1410 para la compra y $1430 para la venta. A cuánto cotizan el dólar MEP y el dólar CCL hoy El valor de los dólares financieros , categoría que engloba al dólar MEP (o dólar Bolsa) y al dólar CCL (contado con liquidación), involucra mecanismos bursátiles para hacerse de esta moneda a través de la venta de bonos y acciones. El último día hábil, estos tipos de cambio cerraron al siguiente valor : Dólar MEP: $1431,22 Dólar CCL: $1503,09 Los pasos para comprar dólares por home banking A partir de la salida del cepo cambiario , los bancos permiten hacer esta operación a través de su home banking . En ese sentido, se recomienda hacer la consulta correspondiente a la entidad bancaria. En caso de que esta lo permita, hay que tener en cuenta que cada empresa bancaria tiene horarios definidos para este tipo de operación. Ingresar al home banking del banco y asegurarse de tener los fondos necesarios para hacer la operatoria. Entre las opciones del menú del home banking , buscar la de “Operaciones” (o alguna referencia similar) y seleccionar la que se asocie con la Compra/venta de dólares . Indicar el monto que se desea comprar en pesos. Allí se detallará cuántos dólares se adquirirán según la cotización del día . Revisar los datos de la operación, aceptar los términos y condiciones y hacer clic en “Confirmar”. ¿De cuánto fue la inflación de abril? Luego de diez meses consecutivos sin descender, la inflación fue de 2,6% en abril pasado , un número que trajo algo",
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-31-de-mayo-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 09:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/HFBPAAHW75HW3C54N7H35VC53Y.jpg?auth=eb95fd68ac615cf1146e327a26cfd23073bb06881f91004466b5e7aa2cee1332&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "07b75b61f152380c1148",
+      "title": "Impulsado por el DHS: la regla que aplicaría el ICE con una multa de hasta US$18.000 a migrantes",
+      "summary": "El Departamento de Seguridad Nacional ( DHS , por sus siglas en inglés) publicó recientemente una propuesta que podría llevar al Servicio de Inmigración y Control de Aduanas ( ICE , en inglés) a aplicar multas de 18.000 dólares a migrantes en Estados Unidos. La medida, de aprobarse, afectaría a los extranjeros con órdenes de deportación en ausencia que no abandonen el país y sean detenidos por los agentes. La nueva regla que aplicaría el ICE con multas de hasta US$18.000 a migrantes El 22 de mayo, el DHS publicó la propuesta titulada “Increasing the Fee for Certain Aliens Ordered Removed in Absentia as Established by the HR-1 Reconciliation Bill”. Esta norma, aún pendiente de revisión, tiene el objetivo de actualizar y aumentar significativamente una tarifa establecida originalmente por la Ley H.R.1 . Según el documento oficial, la sanción se impone a los no ciudadanos que son arrestados por el ICE luego de recibir una orden de remoción emitida in absentia. Esto comprende los casos en los que el migrante no se presenta a su audiencia en el tribunal de inmigración. De este modo, no afectaría a todos los extranjeros con estatus irregular, sino que se aplicará a aquellos que reciben una orden de deportación por no acudir al tribunal y, con conocimiento de la situación, deciden quedarse en el país norteamericano. Actualmente, la tarifa designada por el gobierno federal es de US$5130. De aplicarse, la normativa la elevaría a US$18.000 . Además, establece que, una vez realizado el aumento, se efectuará un incremento anual con base en el Índice de Precios al Consumidor (CPI-U). Respecto a los fondos, la ley establece que el 50% de lo recaudado se depositaría en una cuenta del ICE para operaciones de detención y remoción. El 50% restante iría dirigido al Fondo General del Tesoro de EE.UU. Por qué el DHS quiere aplicar multas de US$18.000 a los migrantes El anuncio señala que el monto se basa en la aplicación de la ley de inmigración (IEL , por sus siglas en inglés). Este in",
+      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/impulsado-por-el-dhs-la-regla-que-aplicaria-el-ice-con-una-multa-de-hasta-us18000-a-migrantes-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 08:58:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/42J452PWEZH7LKFRMNZAEFN7LU.jpg?auth=ae5c520c26637832f5d84c9caa97acd765c7b272f071bab56eab0faa2c7822ce&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "a9020ae14ee5e96b6cb9",
+      "title": "\"Creía que mi familia se había resistido a Hitler, hasta que descubrí que mi bisabuelo era nazi\"",
+      "summary": "Millones de documentos del Partido Nazi se hicieron públicos este año en Alemania, obligando a la gente a enfrentarse a la realidad de que sus familias apoyaron el régimen fascista de Adolf Hitler.",
+      "link": "https://www.bbc.com/mundo/articles/c362ykn25jno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 31 May 2026 08:57:56 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36a9/live/63f67cb0-59ef-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
       "id": "44e130721b0a2d1ef151",
       "title": "Misa Rodríguez: \"Me entristece no haber ganado un título con el Real Madrid\"",
       "summary": "La portera canaria, imagen de Skechers, analiza en MARCA su camino en la Casa Blanca",
@@ -470,6 +944,36 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/27/bBayw1g5kgC8KQQE4.jpeg"
+    },
+    {
+      "id": "937dedc81993560dca96",
+      "title": "Trump muestra cómo lucirá el dronopuerto en el techo del salón de baile de la Casa Blanca (FOTO)",
+      "summary": "La azotea del ala residencial también permitiría el despliegue de personal militar.",
+      "link": "https://actualidad.rt.com/actualidad/608009-trump-mostrar-dronopuerto-casa-blanca?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 08:47:57 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bf14359bf5b4ad2726645.png"
+    },
+    {
+      "id": "40e4751fd0503cb10761",
+      "title": "\"Lo único que saben hacer es mentir\": Trump arremete contra la prensa de EE.UU.",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/608012-unico-hacer-mentir-trump-arremete-prensa-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 31 May 2026 08:45:04 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "2d697ce7488c790d7d86",
+      "title": "Pritzker destina US$2 millones para promover el turismo en la histórica Ruta 66: quiénes pueden acceder",
+      "summary": "El gobernador de Illinois , JB Pritzker , y el Departamento de Comercio y Oportunidad Económica del estado ( DCEO , por sus siglas en inglés) anunciaron un paquete de 5 millones de dólares destinado a impulsar el turismo en la región. De ese total, US$2 millones se destinarán al programa de subvenciones de la histórica Ruta 66 . Ruta 66 en Illinois: cómo será el programa de US$2 millones anunciado por Pritzker La inversión se produce por el centenario de la Ruta 66 , que fue incorporada oficialmente a la red de carreteras de Estados Unidos en 1926. Según la oficina del gobernador de Illinois , el programa permitirá otorgar alrededor de ocho subvenciones . Las organizaciones seleccionadas podrán recibir entre US$20.000 y US$500.000 para desarrollar proyectos de promoción, preservación, educación y mejora de atractivos vinculados con esta vía. En el comunicado, Pritzker destacó la importancia de estas inversiones para la economía local. “A medida que nuestro dinámico sector turístico impulsa la creación de empleo y dinamiza las economías locales, estas subvenciones ayudarán a las comunidades a atraer a Illinois a más visitantes ”, indicó. El gobernador también explicó que parte de los fondos servirá para impulsar iniciativas vinculadas con el centenario de la Ruta 66 en Illinois. Turismo en Illinois: los datos de visitantes e ingresos que impulsan las nuevas subvenciones La decisión de invertir en turismo se debe al momento positivo que atraviesa el sector en Illinois. Durante el año fiscal 2025, el estado recaudó US$367 millones en ingresos por hoteles, un 14% más que en el año anterior. Además, en 2024, Illinois recibió la visita de 113 millones de personas , que gastaron alrededor de US$48.500 millones. La vicegobernadora Juliana Stratton destacó la importancia cultural y turística de la Ruta 66. En esa línea, expresó: “Este corredor conecta a numerosas comunidades dinámicas de todo nuestro estado”. Por su parte, Kimberly du Buclet , miembro de la Cámara de Represe",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/pritzker-destina-us2-millones-para-promover-el-turismo-en-la-historica-ruta-66-quienes-pueden-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 08:39:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/3MAWNYAJKZCHTDUO5YWIULJ3I4.jpg?auth=65485d5d8db993235261ec2688423cccebfe08a1946826047c2dc611eba18f9a&smart=true&width=2528&height=1696"
     },
     {
       "id": "2e5ac4e1fbeae9b2d146",
@@ -490,6 +994,47 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1bd0679c430.jpeg"
+    },
+    {
+      "id": "7844c0443f23f3782f25",
+      "title": "Diez cosas que los correctores de la Selectividad aconsejan hacer (o evitar) en los exámenes de la PAU",
+      "summary": "Un joven se concentra durante un examen de la Pruebas de Acceso a la Universidad en la facultad de Químicas de la Universidad Complutense de Madrid, el año pasado.",
+      "link": "https://elpais.com/educacion/2026-05-31/diez-cosas-que-los-correctores-de-la-selectividad-aconsejan-hacer-o-evitar-en-los-examenes-de-la-pau.html",
+      "pubDate": "Sun, 31 May 2026 08:06:24 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/HK72QKDUMFE6HFMVKRNGPLURZU.jpg?auth=0c5f7138173b84698aae3090797dd1c772c85874c94140000a6d0dc14dbaba01"
+    },
+    {
+      "id": "0ac636d78d17cb78c31e",
+      "title": "¿A qué hora se estrena el final de ‘Euphoria’ temporada 3?",
+      "summary": "La temporada 3 de Euphoria está a punto de estrenar su final, que durará hora y media y será el más largo de toda la producción. Y con él, la serie se despedirá definitivamente de todos sus fans. A diferencia de entregas anteriores, esta última tanda de capítulos se ha visto salpicada por un sinfín de polémicas , muchas de ellas relacionadas con el tratamiento del personaje de Sydney Sweeney . Pero, sea como sea, queda un último episodio para tratar de revertir la situación y dejar un buen sabor de boca. En esta entrega, Rue , el personaje de Zendaya , sigue envuelta en asuntos relacionados con el tráfico de drogas y ahora, también, proxenetismo. Por su parte, Cassie se ha abierto OnlyFans y crea contenido para adultos. El polémico personaje de Sydney Sweeney , además, sigue con Nate (Jacob Elordi), que en su búsqueda de una vida mejor se ha metido en un sinfín de problemas. Con su episodio final, es hora de descubrir cómo terminan todas sus historias, así como las de Maddy , Jules y compañía. En cuanto a dónde podrá verse, a diferencia de otros títulos, aquí no depende para nada del territorio. En Estados Unidos, España, Latinoamérica y en el resto del mundo, el final de la temporada 3 de Euphoria estará disponible únicamente en HBO Max . La plataforma alberga los derechos exclusivos de toda la serie. El título vio la luz por primera vez en 2019, aunque su segunda entrega no se estrenó hasta 2022. Y ahora, con el desenlace de la tercera, llega a su fin. Hora de estreno del final de Euphoria, temporada 3 Acerca de la hora de estreno del final de la temporada 3 de Euphoria , en Estados Unidos se emitirá el domingo 31 de mayo a las 9:00 pm E.T. En España y Latinoamérica, llegará a HBO Max en la conversión horaria de cada país: España: 3:00 h am del lunes 1 de junio. México, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica: 19:00 h. Perú, Colombia, Panamá, Ecuador: 20:00 h. Venezuela, Chile, Bolivia, República Dominicana, Puerto Rico: 21:00 h. Paraguay, Argentin",
+      "link": "https://hipertextual.com/cine-television/a-que-hora-se-estrena-el-final-de-euphoria-temporada-3/",
+      "pubDate": "Sun, 31 May 2026 08:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Euphoria-final-temporada-3.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "fca4c2ab0d8604657096",
+      "title": "Joseph Pilates, creador del método de entrenamiento: “Los hábitos incorrectos en el día a día son los responsables de la mayoría de las dolencias”",
+      "summary": "Un móvil de LN+ fue hasta el centro de entrenamiento Toulouse, ubicado en el barrio porteño de Palermo, para dialogar con la instructora de pilates Melani Giommetti , quien reveló qué son las cadenas miofasciales : la serie de ejercicios que revolucionaron esta práctica deportiva que no para de sumar adeptos . Joseph Pilates , el creador del método de entrenamiento, solía recordar: “Los hábitos incorrectos en el día a día son los responsables de la mayoría de las dolencias” . Pilates en LN+ “Acá en nuestro instituto tenemos nuestra propia investigación y promovemos la práctica del pilates a través de las cadenas miofasciales ”, manifestó Giommetti. “Esto consiste en ver el cuerpo de forma integral, y no como grupos musculares aislados ”. Sobre la práctica de la disciplina, la instructora explicó: “La cama, que se llama reformer , es una herramienta clave . Porque no solo nos asiste, sino que también nos potencia para que no sea solo un trabajo pasivo”. Dos mitos Como suele darse en diversas disciplinas deportivas, la instructora despejó dos mitos relativos a la práctica de pilates. “ No es verdadero eso de que, al trabajar en una cama, no se trabaje tanto . En el pilates se trabaja mucho utilizando pesas y nuestro propio peso\", sostuvo Giommetti y agregó: “Otro mito es que sea una práctica solo para mujeres”. En palabras de la especialista, “ cada vez más hombres vienen y practican , porque pilates potencia muchas de otras disciplinas particulares que ellos mismos realizan”. Cómodo y barato Consultada sobre la vestimenta y el costo de hacer pilates, Giommetti detalló que “lo mejor es siempre practicar con ropa cómoda, preferentemente pantalón corto y descalzos ”. Sobre los valores, apuntó: “Practicar pilates no es costoso: las cuatro clases hoy rondan los $80.000, y vale la pena”.",
+      "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-los-habitos-incorrectos-en-el-dia-a-dia-son-los-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/35CUCITKSNCNLKEBOBSQWSUW2Q.png?auth=c49f6585103753f6957540a279f9c04d6136ed6ce7db016ae1fe973eeaa0cb21&smart=true&width=1200&height=800",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "595525f6fc6a41bd2423",
+      "title": "Temporada de huracanes 2026: la advertencia de Illinois para quienes planeen viajar en estas vacaciones de verano",
+      "summary": "La administración del gobernador JB Pritzker pidió a los residentes de Illinois revisar sus planes de viaje ante el comienzo de la temporada de huracanes . Aunque el estado se encuentra lejos de las costas del Atlántico y el golfo de México, las autoridades remarcaron la importancia de anticiparse a posibles cambios climáticos antes de las vacaciones de verano boreal . Qué recomienda Illinois antes de viajar a Florida y zonas costeras La Agencia de Manejo de Emergencias y Seguridad Nacional de Illinois (IEMA-OHS) recomendó analizar con detalle los destinos turísticos y verificar las condiciones de cancelación de hoteles, vuelos y alquileres temporarios antes de concretar reservas en regiones expuestas a tormentas tropicales como Florida . Las autoridades estatales señalaron que los viajeros deben seguir de cerca los informes meteorológicos durante las semanas previas a sus vacaciones. “ La preparación para huracanes comienza en mayo ”, aseguró la administración de Pritzker en un comunicado . Según explicaron, los sistemas de monitoreo permiten detectar posibles huracanes con varios días de anticipación , lo que facilita reorganizar itinerarios si existe riesgo climático. Theodore Berger, director interino de IEMA-OHS, recordó que los efectos de estos fenómenos pueden sentirse también en estados alejados de la costa . “Puede que no tengamos huracanes en el Medio Oeste, pero los residentes suelen viajar a zonas que sí los sufren ”, dijo Berger. “Además, hemos visto fuertes lluvias e inundaciones a causa de los remanentes de huracanes. Los restos de la tormenta Helene provocaron vientos dañinos, fuertes lluvias e inundaciones en algunas zonas de Illinois en 2024 ”, explicó. El organismo también recomendó utilizar la plataforma Ready Illinois , donde se publican guías sobre preparación ante emergencias, evacuaciones y medidas preventivas frente a tormentas, inundaciones y otros desastres naturales. El aviso fue emitido luego de que la Administración Nacional Oceánica y ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/temporada-de-huracanes-2026-la-advertencia-de-illinois-para-quienes-planeen-viajar-en-estas-nid31052026/",
+      "pubDate": "Sun, 31 May 2026 07:56:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/336VYTAJYNBTREULJB5KPFKHGY.jpg?auth=35784cf2a52b38c8d817829fcf2007a5ce4b6b264a6b5ad80cf60cefc96b7648&smart=true&width=2000&height=1333"
     },
     {
       "id": "184dbc138f4cd24ace71",
@@ -582,36 +1127,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/SPHOERZ7GBE3FO46LWKRJP7NZA.jpg?auth=a5f7f0f0856cb84e685a204bad02915de556d579e4f6a769014553d83305e388&smart=true&width=2000&height=1333"
     },
     {
-      "id": "1918c5ef3d22a9186398",
-      "title": "Reportan que EE.UU. planea acelerar la retirada de sus tropas de Europa",
-      "summary": "Su repliegue parcial debilitaría los cimientos militares del compromiso de defensa colectiva de la OTAN.",
-      "link": "https://actualidad.rt.com/actualidad/607999-eeuu-planea-acelerar-retirada-europa?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 07:14:45 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bc661e9ff713887410a56.jpg"
-    },
-    {
-      "id": "3b49e0c641c38d45cf6d",
-      "title": "EE.UU. prueba la manera más barata de derribar drones",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/608006-eeuu-prueba-manera-barata-derribar-drones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 07:09:42 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "76dab877b6ea06d2bad0",
-      "title": "Trump propone auditar el oro de Fort Knox",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/608003-trump-auditar-fort-knox?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 07:07:53 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "42ddca0f585e1d8e573d",
       "title": "Luis Enrique, el DT que puso a París en el único mapa que le faltaba: el de la elite futbolística",
       "summary": "Hace un año, cuando levantó la primera de las dos Champions League con Paris Saint Germain, Luis Enrique emocionó a todos, no solo a los hinchas del club parisino. Y los motivos iban más allá de lo futbolístico. Había que ser de corcho para no conmoverse con la evocación que hizo de su hija Xana, fallecida en 2019 tras una lucha de nueve años contra un cáncer en los huesos. Habló desde la entereza de alguien que aprendió a convivir con el dolor, pero sin dejarse derrotar. Su manera de llevar el drama no deja espacio a la compasión. No pide consuelo, sino acompañamiento porque él es el primero con fuerzas para salir adelante. “Xana está con la familia y con todos sus amigos. Hoy estaría por aquí corriendo, aunque quizás sería más mayor. Cuando uno ama a personas desde el corazón, siempre están contigo\" , dijo el 31 de mayo de 2025, sobre el Allianz Arena de Munich, luego de que PSG arrasara con un 5-0 a Inter. Había llegado al corazón de cualquiera que lo vio y escuchó, sin ser sensiblero ni lacrimógeno. Tiene capacidad de llegada este director técnico asturiano, fanático de recorrer largas distancias en bicicleta, con un físico tan magro en grasas como cuando jugaba en Barcelona y Real Madrid. Lo hace desde un convencimiento absoluto en las ideas y el estilo que le transmite a su plantel. Con el triunfo por penales (4-3) sobre Arsenal, luego del 1-1 en 120 minutos en el Puskas Arena de Budapest, Luis Enrique es el séptimo DT en ser campeón de la Champions con dos equipos diferentes: (Barcelona y PSG). Se une a la lista que integran Carlo Ancelotti, Ernst Happel, Jupp Heynckes, Ottmar Hitzfeld, José Mourinho y Pep Guardiola. Tercera Orejona en su carrera. La primera fue en 2015, con el Barcelona -último título europeo de los catalanes- que llevaba la firma del tridente Messi-Suárez-Neymar. Este Paris Saint Germain lleva su rúbrica, es de su autoría, sobre todo cuando hace dos temporadas afirmó sin dudar que serían “mejores” después de la salida de Kylian Mbappé rumbo",
@@ -671,16 +1186,6 @@
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/QF4Y44R42JFSXLLLWAQTP3PIYM.JPG?auth=4f8252ebf38a1cdf6db76d175d37ace323ff294afd577c259648028d875c00fd&smart=true&width=6112&height=4075",
       "subcat": "diseño"
-    },
-    {
-      "id": "25bc47d03a79d0bee805",
-      "title": "Informe reservado: un fenómeno que crece debajo de las napas",
-      "summary": "El informe circula a toda velocidad en los sectores más disímiles. No se habla de las importaciones sino de un fenómeno que preocupa a las empresas por debajo de las napas: el contrabando . “Se volvió un problema muy grave en el país con impacto negativo para el Estado, el consumidor y las empresas”, asegura desde la página 2 de las 45 que tiene el relevamiento de MAP , una consultora de negocios que trabaja principalmente para multinacionales y que terminó el estudio a fines de noviembre de 2025. Hasta el momento las conclusiones se guardaban bajo siete llaves. Allí destacan que, si bien la problemática siempre existió, fue creciendo, en coincidencia con la eliminación de algunos mecanismos que servían para atacar al contrabando . Se enumeran entre otros la eliminación de veedores sectoriales en importaciones, la eliminación de verificaciones técnicas y trámites de importación de productos higiénicos y domisanitarios, el registro de exportadores e importadores y algunos controles previos de ANMAT, entre otros. La realidad se refleja en los números de varios negocios y adonde hay cálculos que se encuentran en los despachos de los número uno de las principales compañías de la Argentina que delinean su plan de negocios local. El mercado de celulares es tal vez el ejemplo más representativo de la tendencia. Aclaración importante para los lectores: no se trata de ese celular que una familia trae de un viaje y cuya trazabilidad y regulación está asegurada . En el país hay unos 9,2 millones de celulares si se toma el promedio de los años 2023 a 2025. Dentro de este número, el contrabando pasó del 7% que representaba del mercado al 35% , según otro informe de AFARTE al que tuvo acceso LA NACION . Es decir que uno de cada tres celulares se comercializa fuera del circuito formal. El mercado de contrabando recaudó unos US$ 1858 millones en 2025 mientras que las ventas de celulares de producción nacional generaron unos US$ 2311 millones. Entran fuera del mercado formal 50.000 ",
-      "link": "https://www.lanacion.com.ar/economia/informe-reservado-un-fenomeno-que-crece-debajo-de-las-napas-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:59:49 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/SQLWWWUP3RCNXHXU34VZS4AOAY.jpg?auth=11d40d9426e89e80e04235d36e85a2cea0ab4fc65c1dbe47b6c27052e883db62&smart=true&width=2000&height=1333"
     },
     {
       "id": "b70f5d561482a3055829",
@@ -805,86 +1310,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/TVYC72OG4NDX7G7XR2FSOO4WO4.jpeg?auth=c97655340c1c517d24d9b1c5c50f940a9772714f53b57bc1b0a2d71da7e50d91&smart=true&width=1024&height=538"
     },
     {
-      "id": "9be7d481ab9696f1ed9c",
-      "title": "Feminicidios en un popular destino mexicano encienden las alarmas sobre un posible asesino en serie",
-      "summary": "Legisladora denuncia que las autoridades minimizan el caso para no dañar el turismo previo al Mundial.",
-      "link": "https://actualidad.rt.com/actualidad/607997-feminicidios-popular-destino-mexicano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 06:43:05 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bc90f59bf5b2e443d84ee.jpg"
-    },
-    {
-      "id": "f8a603129a6369f7a73d",
-      "title": "Los Spurs vencieron a los Oklahoma Thunder y serán rivales de los Knicks en las finales de la NBA",
-      "summary": "OKLAHOMA CITY.- Los San Antonio Spurs se impusieron este sábado por 111 puntos contra 103 ante Oklahoma City Thunder , en el marco del séptimo juego por la final de la Conferencia Oeste. La final, por el anillo de la NBA , será frente a los New York Knicks . El cuadro tejano logró su séptimo título de conferencia en el Paycom Center (Oklahoma city) y clasificó por primera vez a las finales desde la temporada 2013-14 cuando lograron imponerse 4-1 sobre el Miami Heat. La última vez que los Knicks de Nueva York llegaron a las Finales de la NBA, los Spurs fueron el rival y, casualmente, contaban con un pívot generacional que se encaminaba por primera vez a la serie por el título. En aquel entonces, era Tim Duncan . Esta vez, es Victor Wembanyama . It’s a full-team effort to close out Game 7. And... Stephon Castle, Keldon Johnson, and Dylan Harper DID JUST THAT! In the 4Q alone: JOHNSON: 8 PTS (3-3 FGM), 2 3PM HARPER: 5 PTS, 4 REB (2 huge OREB) CASTLE: 4 PTS (2-2 FGM), 2 REB pic.twitter.com/Dudxi5gjdZ NBA (@NBA) May 31, 2026 El notable jugador francés, de 22 años, finalizó el encuentro con un total de 22 puntos. Además tuvo un 47% de efectividad (7/15), incluidos tres de sus cinco intentos desde la línea de tres. “Parte del sueño se va a convertir en realidad, es un sentimiento que no puedo explicar” , dijo Wembanyama a NBC después de ser nombrado como el Jugador Más Valioso (MVP) de las finales del Oeste. El año pasado, los Spurs se ubicaron en el puesto 13 de la Conferencia Oeste, antes de convertirse en el segundo mejor equipo de la temporada regular en un solo año, solo por detrás del Thunder, lo que preparó un enfrentamiento caliente en las Finales de la Conferencia Oeste. En ese marco, el equipo de San Antonio aspira a iniciar una nueva dinastía con un electrizante movimiento juvenil alrededor de su estrella, con el explosivo Stephon Castle (21 años, 16 puntos) y Dylan Harper (20 años, 12 puntos). Julian Champagnie (20 PTS, 6-10 3PM) played a HUGE part in the @spur",
-      "link": "https://www.lanacion.com.ar/deportes/los-spurs-vencieron-a-los-oklahoma-thunder-y-seran-rivales-de-los-knicks-en-las-finales-de-la-nba-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:41:10 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZKQCG73PVNEK3GSSALCHD4XCPQ.jpg?auth=622b6a70b4ef1622177f3e9f890e983254bba7da3e524c784e6cbf21156eec78&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "9f46e972396b74c3b0c5",
-      "title": "Trump nombra 2 condiciones para la paz con Irán",
-      "summary": "\"Y si no lo conseguimos, lo terminaremos de otra manera\", comentó, en referencia al conflicto armado en curso.",
-      "link": "https://actualidad.rt.com/actualidad/608002-trump-nombra-condiciones-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 06:39:12 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.05/thumbnail/6a1bd00ae9ff71388602fb35.jpg"
-    },
-    {
-      "id": "d4b292558fbb1641775a",
-      "title": "El clan O'Sullivan se juntó en Irlanda y se transformó en un nuevo récord Guinness: asistieron casi 2.000 personas con el nombre familiar",
-      "summary": "Es la mayor congregación de personas con el mismo nombre de familia, según certificó un veedor de Guinness World Records. Ocurrió en el pintoresco pueblo Sudoccidental de Castletownbere, este sábado.",
-      "link": "https://www.clarin.com/internacional/clan-osullivan-junto-irlanda-transformo-nuevo-record-guinness-asistieron-2000-personas-nombre-familiar_0_AXDLtGuoll.html",
-      "pubDate": "Sun, 31 May 2026 06:31:56 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/31/LsEYytlwJ_1200x630__1.jpg"
-    },
-    {
-      "id": "a598164df011090fd4c3",
-      "title": "Los tres nudos que el peronismo no logra desatar y le complican su armado para regresar al poder en 2027",
-      "summary": "“El peronismo se está reordenando. Cristina (Kirchner) ya no es hegemónica, Axel (Kicillof) arrancó para comerse a los chicos crudos y ahora mirá. Y Sergio (Massa) se guardó, pero con él nunca se sabe hasta último momento”. La frase pertenece a un dirigente muy informado de la rosca interna en el principal partido de oposición , que debe sortear un cúmulo de enfrentamientos y desconfianzas para desandar el camino de regreso al poder en 2027. En el diagnóstico que hacen en el PJ y sus fuerzas aliadas, como el Frente Renovador, se identifican tres nudos centrales que el peronismo debe desatar para ser una alternativa de poder real a los libertarios del presidente Javier Milei . El primero de ellos salta a la vista: el maltrecho vínculo personal y político entre la expresidenta Cristina Kirchner y el gobernador Axel Kicillof. No hay, hasta el momento, ninguna señal de distensión entre ambos. El segundo nudo está vinculado al futuro político de Massa . A diferencia del estilo protagónico que signó toda su carrera pública, el exministro de Economía cultivó tras la derrota con Milei en las presidenciales de 2023 un perfil bajo, discreto y componedor con casi todos los sectores de la oposición. “Hablo con todos, soy una especie de cura párroco del peronismo” , lo escucharon decir. Pero nadie sabe con certeza qué papel asumirá a la hora de las definiciones. Más allá de los personalismos, relevantes en la historia y las formas de conducción peronistas, se verifica un tercer nudo que sería determinante para una fuerza política que atraviesa un momento de debilidad no comparable desde el retorno de la democracia en 1983. Se trata de las dudas procedimentales que tienen los intendentes bonaerenses para avanzar con la restauración de la reelección indefinida en el distrito que es el corazón del PJ . Cristina y Kicillof, un disgusto en el espejo Cristina Kirchner está embarcada, por estos días, de lleno en su campaña “Cristina libre” . Tiene previsto salir al balcón de su departa",
-      "link": "https://www.lanacion.com.ar/politica/los-tres-nudos-que-el-peronismo-no-logra-desatar-y-le-complican-su-armado-para-regresar-al-poder-en-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:23:37 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/YYNRZEBSZRHENO4GQP43IQGZVE.jpg?auth=afd18cc7408e501ab4590f5e566df91fe953588f0caadf60275db4706bc33a04&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "caa2033e79dd9b9a1210",
-      "title": "Israel toma castillo estratégico en su incursión más profunda en el Líbano en más de 25 años",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/608004-israel-tomar-castillo-estrategico-libano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 06:17:22 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "d1c410d7aadcfae63067",
-      "title": "Una automotriz le bajó el precio a uno de sus SUV y ahora vale $3 millones menos",
-      "summary": "En un contexto de mayor competitividad producto de la apertura económica y teniendo en cuenta el crecimiento que registró el mercado de 0km durante el primer cuatrimestre de este año respecto del mismo período de 2025, la tendencia de los precios es a mantenerse estable, aunque algunos modelos registran bajas puntuales. Se resolvió el problema que afectaba a cuatro líneas de colectivos en un municipio clave En ese escenario se inscribe Chevrolet, que hacia fines de mayo actualizó su lista de precios en la Argentina con algunos cambios específicos. Entre ellos, se destacó la baja del Chevrolet Spark, un SUV 100% eléctrico, que pasó de $40.402.900 a $36.600.300, lo que representa una reducción de $3.802.600 (es decir, una reducción del 9,4%). Además, en este nuevo listado de precios de mayo, General Motors dio a conocer el inicio de la comercialización de la Silverado versión 2026, su pickup full-size . Estas nuevas versiones (MY2026) muestran un aumento del 1,2% respecto de las correspondientes al modelo 2025. Cómo es el Chevrolet Spark Se trata de un SUV compacto completamente eléctrico que llegó en 2025 al mercado local y que ofrece hasta 360 kilómetros de autonomía. Este vehículo está impulsado por un motor eléctrico de 75 kW (102 CV) y 180 Nm de torque instantáneo. Su batería de 42 kWh asegura una autonomía de hasta 360 kilómetros bajo el ciclo NEDC y puede recargarse del 30% al 80% en media hora mediante cargadores rápidos de corriente continua. En el interior, ofrece capacidad para cuatro pasajeros y un baúl de 355 litros, ampliable hasta 916 litros. El equipamiento incluye un sistema multimedia con pantalla táctil de 10,1 pulgadas, compatibilidad con Apple CarPlay y Android Auto, cámara de visión 360°, tapizados de eco-cuero y un sistema de audio con seis parlantes. En términos de seguridad, el modelo incorpora seis airbags, frenos a disco en las cuatro ruedas con ABS y EBD, control de presión de neumáticos, freno de estacionamiento eléctrico, dirección con as",
-      "link": "https://www.lanacion.com.ar/autos/una-automotriz-le-bajo-el-precio-a-uno-de-sus-suv-y-ahora-vale-3-millones-menos-nid26052026/",
-      "pubDate": "Sun, 31 May 2026 06:16:00 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/525AUUMLMBADTIO3YDO5WXHX6E.jpg?auth=86bf773a0198e4d5a8329e3121834ce31f6a7da3987ea604980cefc9087e26d5&smart=true&width=1201&height=675"
-    },
-    {
-      "id": "13ee34e0375c19ca1a63",
-      "title": "Steve Jobs, sobre el sentido de la vida: “Aportar algo de vuelta al pozo de la experiencia humana es gratificante”",
-      "summary": "En junio de 1983, Steve Jobs participó de la Conferencia Internacional de Diseño en Aspen, un encuentro centrado en el futuro de la tecnología y el diseño . El empresario, quien falleció el 5 de octubre de 2011 , expuso una visión sobre las computadoras personales, el rol de los creadores y el impacto de la innovación en la vida cotidiana. La visión de Steve Jobs sobre el aporte colectivo Durante su intervención , Jobs sostuvo que las computadoras se convertirían en una herramienta de uso masivo y en un nuevo sistema de comunicación . También señaló que la industria enfrentaba una decisión importante: desarrollar productos útiles y bien diseñados o avanzar con tecnología sin una propuesta integral. “En sus vidas, la computadora se convertirá en el medio de comunicación predominante , tal como la televisión tomó el relevo de la radio o incluso del libro\", anticipó el entonces joven visionario de 28 años. El cofundador de Apple planteaba que gran parte de la vida cotidiana depende de aportes realizados por otros a lo largo del tiempo . Desde el idioma hasta las matemáticas o los objetos de uso diario, consideraba que la experiencia humana se construye de manera acumulativa . “Sentimos que, por alguna extraña razón, estamos en el lugar correcto en el momento adecuado para devolver algo “, señaló en su discurso. “Estamos constantemente tomando, y la capacidad de aportar algo de vuelta al pozo de la experiencia humana es gratificante “, agregó. Jobs relacionó esa idea con el desarrollo de la computadora personal. Creía que el avance tecnológico debía facilitar nuevas formas de aprender, trabajar y comunicarse , además de ofrecer herramientas accesibles para millones de personas. Qué significaban las “capas sedimentarias” de innovación En la conferencia de Aspen, Jobs comparó el progreso tecnológico con capas sedimentarias que se acumulan con el paso del tiempo. La metáfora apuntaba a mostrar cómo cada etapa de innovación se apoya sobre descubrimientos anteriores . Según ",
-      "link": "https://www.lanacion.com.ar/estados-unidos/steve-jobs-sobre-el-sentido-de-la-vida-aportar-algo-de-vuelta-al-pozo-de-la-experiencia-humana-es-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:15:00 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/WA4RTM2SWRCPTHUHHMJSUEP2JM.png?auth=3d5234b18acd059a9876c24cd734441483ac71ced9cff72c0a520caae0eb6fac&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "0de59dafed99309630da",
       "title": "ChatGPT Translate: la función secreta de OpenAI que ofrece traducciones rápidas y naturales con IA en más de 40 idiomas",
       "summary": "La IA generativa es una caja de sorpresas. Aunque muchos ya estamos acostumbrados a sus funciones básicas, en su momento sorprendió a todos la capacidad de herramientas como ChatGPT de reescribir un texto , proponer ideas, describir una receta de cocina, corregir la ortografía de un documento o redactar un email en distintos tonos. Además, ChatGPT es un buen traductor de bolsillo . Y ahora, además, lo tendrás más fácil para traducir con esta IA gracias a su traductor oficial, de nombre ChatGPT Translate . En castellano, Traducir con ChatGPT . OpenAI quiere convertir ChatGPT en una aplicación para todo. Y esto significa que, de vez en cuando, nos sorprende con propuestas como Traducir con ChatGPT . Una herramienta para hacerle competencia directa al Traductor de Google , como ya hace ChatGPT con el buscador de Google. Disponible vía web , su aspecto es muy similar a la herramienta de Google, pero con las particularidades que han convertido a ChatGPT en una de las apps más descargadas de iOS y Android . Así que mientras OpenAI y Google pugnan por tener el asistente de IA más descargado , en otros terrenos de juego se enfrentan con aplicaciones como ChatGPT Translate. Un rediseño del ChatGPT habitual pensado para que cualquiera pueda traducir lo que quieras : una palabra, una frase, un texto entero o un documento. Gratis, con ayuda de la IA y en más de 40 idiomas . Veamos qué es capaz de hacer y cómo funciona. Qué es ChatGPT Translate ChatGPT Translate , en castellano Traducir con ChatGPT , no necesita presentaciones. Solo tienes que entrar en este enlace y, de un solo vistazo, sabrás para qué sirve esta herramienta o aplicación. Gratuita y funcional con o sin registro, su aspecto recuerda al de cualquier traductor online que puedas encontrar en internet. Y sus funciones son también las habituales: detecta el idioma de entrada, ofrece más de 40 idiomas de salida, puedes cambiar el idioma de entrada por el de salida pulsando un solo botón y, cómo no, puedes copiar y peg",
@@ -894,237 +1319,6 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Traducir-ChatGPT-Banderas-Idiomas.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "herramientas"
-    },
-    {
-      "id": "da4e7dee31bf175647f2",
-      "title": "Conrado Estol, neurólogo: “La educación temprana reduce un porcentaje importante del riesgo de llegar a tener demencia”",
-      "summary": "El médico neurólogo Conrado Estol sostuvo en una entrevista exclusiva para LA NACION que la sociedad se enfrenta a una realidad donde la expectativa de vida se duplicó en el último siglo, pero la calidad de esos años adicionales sigue siendo una asignatura pendiente. Durante la charla, el especialista advirtió que es necesario abandonar la noción tradicional de la tercera edad , ya que la biología humana está experimentando una transición sin precedentes. “La educación temprana reduce un porcentaje importante del riesgo de llegar a tener demencia” , señaló Estol en referencia a las publicaciones de la revista científica The Lancet , que vinculan el desarrollo cognitivo inicial con una mejor salud cerebral en el futuro. LN+ CERCA Mayo Los siete pilares para una longevidad saludable El neurólogo resaltó que la clave para una longevidad plena no reside en soluciones mágicas, sino en la adopción sistemática de siete pilares de hábitos saludables: “En los últimos 10 años empieza a cambiar este concepto de expectativa de vida y expectativa de salud” , dijo. La clave radica en entender que la biología humana permite llegar a los 80 o 90 años en un estado impecable, si se cumplen los pilares fundamentales del bienestar diario. Y siguió: “Los siete pilares [para una vejez saludable] son: controlar el estrés, mantener tus vínculos sociales, dormir de forma correcta, cero cigarrillo, moderar el alcohol, nutrición sana y ejercicio ”. Más allá de estos hábitos, el profesional de la salud subraya la importancia del propósito de vida y asegura que “mantener optimismo o una visión positiva” es crucial y no debe considerarse un cliché. En esta línea, advirtió contra el estigma de la jubilación temprana y la pasividad y señaló que, contrario a la creencia popular, la mayor parte de los negocios exitosos son iniciados por personas mayores de 60 años: “ No tenés que decir, tengo 75, a ver qué hago, me pongo a ver telenovelas toda la tarde. No. Tenés que mantenerte activo” , enfatizó. “",
-      "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-la-educacion-temprana-reduce-un-porcentaje-importante-del-riesgo-de-llegar-a-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/YDOHXNUKQ5CSFC3MT7RYVC7NGI.jpg?auth=2daa04796944198e6bc020fc28227ab7e6a1858c09f0d06363a108feff168bf2&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "f83999eee46d70d09b15",
-      "title": "Ya coordina 1000 hectáreas: la ingeniera agrónoma detrás de un sueño para revolucionar la producción hortícola",
-      "summary": "A los 13 años, Marina Lambertini descubrió que el campo iba a marcar su vida . Aunque su familia no provenía del agro , la compra de un pequeño establecimiento ganadero por parte de su padre, Gustavo Lambertini, despertó en ella una gran fascinación, no tanto por los animales sino por la figura del agrónomo que asesoraba el campo. Pasaba horas observándolo trabajar y escuchando sus explicaciones técnicas, una curiosidad que con el tiempo se transformó en vocación y que terminó de consolidarse en 1992 , cuando se recibió de ingeniera agrónoma en la Universidad de Buenos Aires (UBA). No fueron los animales los que capturaron la atención de Lambertini, sino la horticultura, materia que estudió en el último tramo de la facultad, cuya cátedra impartió un profesor que venía de familia italiana . Ahora, desde su lugar acompaña a productores de hojas verdes y hortalizas que abastecen a una empresa de vegetales frescos , procesamiento y comercialización. Buenas noticias para la campaña de granos finos: baja el precio de la urea y sube el del trigo “No me olvido de aquel momento cuando mi papá compró su primer campito y yo tenía 13; ahí ya me picó el bichito; sabía que mi sueño iba por el campo ”, recordó. En el establecimiento familiar, ubicado en General Madariaga, conectó con su futura pasión: “El asesor agarraba una espiga de trigo o de maíz y explicaba que con eso ya podía calcular el rendimiento. Se convirtió en mi ídolo total ”. No obstante, los invernaderos comenzaban por aquellos años a expandirse y permitían producir verduras durante gran parte del año, algo novedoso para la época que la atrapó . “Antes nuestras abuelas nos contaban que solo había tomates en verano, pero con la aparición de los invernaderos podía haber tomates casi todo el año. Ahí dije: ‘Quiero cultivar tomates, quiero cultivar choclos”, narró. Esa experiencia fue suficiente para entender que su camino estaba en ese sector. Los primeros pasos profesionales los dio entre 1993 y 2000 en el campo fami",
-      "link": "https://www.lanacion.com.ar/economia/campo/ya-coordina-1000-hectareas-la-ingeniera-agronoma-detras-de-un-sueno-para-revolucionar-la-produccion-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/QTUCYNBCIFAXLDG7RDURLGGYBQ.jpeg?auth=8fd32081e8d3518b0d3968222ca1a6f3ed8b9cc9c7590987990f67f25b11e829&smart=true&width=1600&height=1200",
-      "subcat": "diseño"
-    },
-    {
-      "id": "0c70fe6d0a89eef51e6f",
-      "title": "Los Trump en Bahamas. En fotos, la previa y los looks de la boda de Donald Trump Jr., marcada por una gran ausencia",
-      "summary": "El fin de semana del 22 de mayo estuvo marcado por los festejos para la familia Trump, con la esperada boda del empresario e hijo mayor del presidente de los Estados Unidos, Donald Trump Jr. , y la modelo e influencer Bettina Anderson , tras haberse comprometido en diciembre. Aunque ya habían formalizado su unión días antes en West Palm Beach, Florida, decidieron continuar las celebraciones en una isla privada en Bahamas acompañados por cuarenta invitados. Entre los presentes estuvieron los hermanos del novio: Ivanka, Eric y Tiffany Trump, y sus respectivas parejas; así como los cinco hijos de Trump Jr., acompañados por su ex mujer, Vanessa Trump. También asistió la familia de la novia y algunos amigos cercanos, pero la ausencia más notoria fue la del presidente, que el día anterior anunció que no podría viajar a Bahamas para unirse a la celebración con el resto de la familia. “Si bien deseaba mucho estar con mi hijo, Don Jr., y con la nueva integrante de la familia Trump, su futura esposa, Bettina, las circunstancias relacionadas con el gobierno y mi amor por los Estados Unidos de América no me lo permiten. ¡Felicitaciones a Don y Bettina!”, escribió el mandatario estadounidense vía Truth Social. “Don y Bettina son maravillosos juntos. Realmente se iluminan cuando están cerca el uno del otro”, fueron las palabras que le dedicó Eric Trump a los novios. Fueron tres días de celebraciones, actividades al aire libre y looks espectaculares.",
-      "link": "https://www.lanacion.com.ar/revista-hola/los-trump-en-bahamas-en-fotos-la-previa-y-los-looks-de-la-boda-de-donald-trump-jr-marcada-por-una-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "israel",
-      "image": "https://resizer.glanacion.com/resizer/v2/OELHCPMHFZGTPEX3R4AUCJBTSQ.jpg?auth=f113c79b60c1f9d8bd230c8c555d09e7ce694137ed332afe0f04c4290fc21fe0&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "c7b6bcd2c8603c9958da",
-      "title": "A doce días del Mundial, tres fiscales ya investigan a Tapia y Toviggino por sus operaciones en EE.UU.",
-      "summary": "A sólo doce días del inicio del Mundial de Fútbol en Estados Unidos, la maquinaria estadounidense proyecta su sombra sobre la Asociación del Fútbol Argentino. Fiscales federales del Departamento de Justicia investigan la operatoria de la entidad que preside Claudio “Chiqui” Tapia en distintos puntos del territorio norteamericano, los movimientos de cientos de millones de dólares y la eventual comisión de delitos bajo su jurisdicción. Las tareas iniciales quedaron a cargo de al menos tres fiscales, dos en Washington DC y otro en el estado de Florida, según reconstruyó LA NACION. Juntos, dieron los primeros pasos para recolectar información alrededor de TourProdEnter LLC, la empresa del productor teatral Javier Faroni que, según la documentación que analizó LA NACION, se convirtió en la recaudadora de fondos de la AFA en el exterior durante la gestión de Tapia y Pablo Toviggino. Los fiscales Patrick Gushue y Christopher Ting se desempeñan en la capital estadounidense. El primero integra la Unidad de Integridad Bancaria y dirige el Programa Piloto de Premios para Denunciantes Corporativos del Departamento de Justicia, donde trabaja desde 2012 y fue uno de los hombres de confianza del entonces fiscal general de Estados Unidos, Eric Holder. Por su parte, Ting se incorporó al Departamento de Justicia durante los últimos años, tras el regreso de Donald Trump al Salón Oval. Proveniente del sector privado, trabajó antes en Latham Watkins LLP. Ya como fiscal, obtuvo condenas notables, incluidas las de lavadores de activos a través de bancos. Desde Florida, también el fiscal Michael Berger participa en las pesquisas iniciales sobre la operatoria bajo sospecha de la gerenciadora TourProdEnter LLC con cientos de millones de dólares de la AFA. Desde la Fiscalía Federal para el distrito Sur de Florida, Berger se desempeña como abogado litigante senior, con casos resonantes. Entre ellos, el del ex contralor general de Ecuador, Carlos Ramón Polit Faggioni, condenado a 10 años de pri",
-      "link": "https://www.lanacion.com.ar/politica/a-doce-dias-del-mundial-tres-fiscales-investigan-a-tapia-y-toviggino-por-sus-operaciones-en-eeuu-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 05:53:11 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/4U4EIH3WOJBBJEYHBQOF5QDFDU.JPG?auth=3300c0befa14ee480fbf4022969f23fc53fff92c96a7ec15162f3693c481e5d8&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "8ba2803cdc31b4771738",
-      "title": "Trump se jacta de su \"inteligencia extrema\"",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/608000-trump-jactar-resultados-examen-medico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 05:34:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "03012045b0f3130a319a",
-      "title": "Mundial 2026, en vivo: la partida de la selección argentina a Estados Unidos y la preparación para los amistosos",
-      "summary": "El plantel de la selección argentina ya viaja a Estados Unidos. Circula en redes un video en el que se ve a los jugadoras subiendo a un avión de Aerolíneas Argentinas que está decorado con el 10 de Lionel Messi en la cola de la nave y que en la turbina tiene la cinta de cápitan, también en alusión al astro rosarino. 🇦🇷🛫🇺🇲 ¡LA ILUSIÓN DE TODO UN PAÍS YA EMPRENDIÓ SU CAMINO! Argentina ya está embarcando para viajar rumbo a Estados Unidos a jugar la Copa del Mundo. 📹 /ricky_gortari pic.twitter.com/kQ5jrV5lCA SportsCenter (@SC_ESPN) May 31, 2026 El divertido video que publicó la esposa de Tim Payne para agradecerle a los argentinos ¡La casa de la Selección está lista y así luce a la espera de la llegada de la delegación! 😍🇦🇷 En cada detalle, en cada rincón…la argentinidad al palo en el Origin Hotel Kansas City, donde se hospedará la Albiceleste durante el Mundial. Gran trabajo. ¡VAMOS ARGENTINA! 💪🏻💪🏻 pic.twitter.com/m2Aaw979p6 Chiqui Tapia (@tapiachiqui) May 31, 2026 En un amistoso preparatorio, Ecuador enfrenta a Arabia Saudita, en la víspera del inicio del Mundial 2026. Para el encuentro, el entrenador argentino Sebastián Beccacece puso muchos suplentes. El seleccionado dirigido por Lionel Scaloni se enfrentará a Honduras el sábado 6 de junio y a Islandia el martes 9. Luego, el 16, hará su debut en el Mundial ante Argelia. Gran espectáculo deportivo el que nos regaló la Final de la @ChampionsLeague en el Puskás Arena. Felicitaciones al presidente Nasser Al-Khelaïfi, al plantel, a Luis Enrique y a toda la gente del PSG por una nueva conquista del torneo más prestigioso a nivel clubes de Europa. pic.twitter.com/ekUEgrNdJq Chiqui Tapia (@tapiachiqui) May 30, 2026 🇪🇨 Willian Pacho: esta historia continuará... ✍️ #CopaMundialFIFA pic.twitter.com/ifbKFFKezP Copa Mundial FIFA 🏆 (@fifaworldcup_es) May 30, 2026 Los futbolistas ecuatorianos se fundieron en un abrazo tras la victoria del PSG ante el Arsenal. Viajarán juntos al Mundial con su selección en los próximos días. Somos",
-      "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-la-partida-de-la-seleccion-argentina-a-estados-unidos-y-la-preparacion-para-los-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 05:31:46 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/R6DBHGGCOZEGFIZNUX4J35RJZI.jpg?auth=eb5424f13415105c38bf5be596061e64a3f1ce3c79bf6bd3ca83a86a4ed36568&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ed1389e61a3102f9d120",
-      "title": "El shopping más grande de California queda a menos de una hora de Los Ángeles y es ideal para escapar del calor en verano",
-      "summary": "El centro comercial South Coast Plaza es el shopping más grande de California y de toda la costa oeste de Estados Unidos. El complejo ubicado en Costa Mesa , a 40 minutos de Los Ángeles, reúne más de 250 boutiques, restaurantes y espacios culturales dentro de una infraestructura cerrada y climatizada de 2,8 millones de pies cuadrados (aproximadamente 260.000 metros cuadrados). Qué tiendas y marcas hay en el South Coast Plaza El centro comercial reúne locales de moda, joyería y relojería distribuidos en los distintos niveles del predio. Además, cuenta con tiendas emblemáticas de varias marcas internacionales de lujo. Entre las marcas internacionales mencionadas en el sitio web del establecimiento aparecen: Gucci Prada Dior Cartier Rolex Tiffany Co. Chanel Hermès Louis Vuitton El South Coast Plaza además informó nuevas aperturas y locales dentro del complejo, entre ellos Harry Winston, Bottega Veneta, Manolo Blahnik, Skims, Zara Man y Pura Vida Miami. El establecimiento, ubicado en 3333 Bristol Street , ofrece estacionamiento gratuito en distintas áreas y servicio de valet parking pago en accesos específicos. Funciona con los siguientes horarios: Lunes a jueves: de 10 hs a 20 hs Viernes y sábados: de 10 hs a 21 hs Domingos: de 11 hs a 19 hs Según detalló Secret Los Angeles , el complejo se presenta como una opción ideal para el verano porque está completamente bajo techo y se encuentra climatizado, lo que permite recorrer tiendas, restaurantes y espacios culturales sin exponerse a las altas temperaturas. La historia detrás del shopping más grande de California El terreno donde actualmente funciona el complejo pertenecía originalmente a una plantación de habas. El desarrollo del proyecto comenzó con la familia Segerstrom, inmigrantes suecos que llegaron al condado de Orange en 1898. South Coast Plaza abrió sus puertas el 15 de marzo de 1967 con un diseño de la firma Gruen Associates. En sus primeros años, el centro comercial tuvo como tiendas principales a Sears y May ",
-      "link": "https://www.lanacion.com.ar/estados-unidos/california/el-shopping-mas-grande-de-california-queda-a-menos-de-una-hora-de-los-angeles-y-es-ideal-para-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 05:22:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/5WM7LKZYJNF2HHYFEODEK4HVV4.jpg?auth=62286b24b94fe98fcfb1f7d0980b27091dc383622fc38dcfa3c2597f9aa8efbf&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "2271e8ee5c0cd90e9f56",
-      "title": "Rusia intercepta y destruye más de 200 drones ucranianos",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/607998-rusia-intercepta-destruye-200-drones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 05:11:48 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "9b0f633e896e23e4a913",
-      "title": "IMPACTANTE MOMENTO: Lanza una silla de más de 13 kilos desde el último piso de un centro comercial",
-      "summary": "Nuevas imágenes de seguridad muestran el instante en que un adolescente arroja una silla de unos 15 kilos desde la planta superior de un concurrido centro comercial en Stratford, al este de Londres. El objeto cayó a escasa distancia de varios peatones que caminaban por el nivel inferior. El incidente ocurrió el año pasado, pero las grabaciones fueron difundidas tras el procesamiento judicial de los jóvenes implicados.",
-      "link": "https://actualidad.rt.com/actualidad/607995-impactante-momento-lanza-silla-13?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 05:11:34 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "022fd8da9adeb43e8421",
-      "title": "Aficionados del PSG queman un auto frente a sus dueños (VIDEO)",
-      "summary": "Aficionados del Paris Saint-Germain prendieron fuego a un automóvil delante de sus dueños este fin de semana en la capital francesa, durante las celebraciones de la victoria de su equipo frente al Arsenal en la Liga de Campeones de la UEFA. \"Nos ganamos la vida con el sudor de nuestra frente, y ustedes, solo porque ganaron, van y queman los coches de la gente\", dice una mujer en la grabación. 416 personas han sido detenidas en Francia tras los disturbios registrados durante las celebraciones.",
-      "link": "https://actualidad.rt.com/actualidad/607994-aficionados-psg-quemar-auto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 31 May 2026 05:04:09 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "3857ac03db0e9e77234a",
-      "title": "El tren que une Dallas con Chicago en 21 horas: qué ofrece el Texas Eagle de Amtrak",
-      "summary": "Para viajar desde Dallas hacia Chicago , una de las opciones disponibles es el Texas Eagle de Amtrak , la empresa pública de ferrocarriles de Estados Unidos. El recorrido dura unas 21 horas, ofrece vistas panorámicas y permite elegir entre asientos en clase económica o compartimentos con cama . La ruta completa conecta Chicago con San Antonio en 32 horas y continúa hacia Los Ángeles en ciertos servicios. El recorrido de 21 horas a bordo de Amtrak para viajar en el Texas Eagle hacia Chicago El Texas Eagle corre diariamente entre San Antonio y Chicago, pero el trayecto completo dura más de 32 horas. El viaje de aproximadamente 21 horas corresponde al tramo Dallas-Chicago , según Axios . Los pasajeros también pueden abordar el Texas Eagle en otras ciudades de Texas y del trayecto , como San Antonio o Austin. Este recorrido puede representar una alternativa más económica que algunos vuelos, según la fecha y la clase elegida. Para su viaje, los pasajeros pueden elegir entre un asiento en clase turista o un compartimento con literas . Este incluye un pequeño camarote o una habitación privada. En general, el tren suele salir de Dallas Union Station, en el centro de la ciudad, por la tarde. Luego, realiza una breve parada nocturna en Little Rock, en Arkansas, y una escala de más de una hora en St. Louis, Missouri, por la mañana. Según describió Axios , una de las principales ventajas corresponde a que no hay que hacer largas filas de seguridad ni acudir a aeropuertos abarrotados. Las vistas panorámicas que ofrece el Texas Eagle de Amtrak hacia Chicago Al margen de que los pasajeros pueden evitar toparse con demoras y el ajetreado ritmo de los aeropuertos, las vistas panorámicas son uno de los aspectos más destacados del trayecto. El Sightseer Lounge , la plataforma de vistas panorámicas, permite disfrutar el recorrido y observar las rutas desde cerca. El sector cuenta con ventanas que llegan desde la base hasta el techo , lo que proporciona mucha luz natural y una sensación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/el-tren-que-une-dallas-con-chicago-en-21-horas-que-ofrece-el-texas-eagle-de-amtrak-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 05:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/A5OI5RGEQRBLLOFSCBHLOA5NDE.jpg?auth=446fdcaf7fc5b5d2a79112ec18faf8f5310f3293fcbf5beeb250243c6aa3fdba&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "900b6f15224a1d551853",
-      "title": "Gabriel Rolón, psicólogo: “No nos bajemos de la vida antes de tiempo”",
-      "summary": "El psicólogo y escritor Gabriel Rolón reflexionó sobre la felicidad, el peso de los recuerdos y la dificultad de vivir el presente en una entrevista con LA NACION . En un contexto donde proliferan los discursos de resultados inmediatos y fórmulas rápidas para alcanzar el bienestar, el especialista planteó una mirada más profunda sobre los recuerdos, el deseo y la construcción de la identidad. Durante la charla, remarcó que es válido reconocer momentos felices del pasado, pero recordó que “lo que fue ya está perdido” . Según afirmó, esos recuerdos continúan teniendo valor porque dan sentido a la vida y permiten comprender el camino recorrido, los esfuerzos y los vínculos construidos. Aun así, planteó que no deberían impedir la búsqueda de bienestar actual. “No nos bajemos de la vida antes de tiempo” , afirmó. El especialista sostuvo que muchas veces las personas viven enfocadas en alcanzar una felicidad futura o en añorar una felicidad pasada, pero dejan de experimentar el presente. “Intentemos algo aquí, ahora” , resumió. El recuerdo como un “tesoro” que editamos En este sentido, Rolón explicó que la memoria ocupa un lugar “particular y enigmático” , porque allí las personas guardan aquello que perdieron “para que no se lo lleve la muerte para siempre”. Sin embargo, señaló que esos recuerdos no siempre permanecen intactos. “Hacemos como una edición, un photoshopeo de los recuerdos” , describió. Según indicó, con el paso del tiempo las personas tienden a idealizar ciertos momentos, vínculos o etapas de la vida. “Nuestros padres que ya no están se transforman en personas por ahí más nobles de lo que fueron, más sensibles . Nuestra infancia también se puede transformar en lugares más bellos”, explicó. Para el psicólogo, el problema aparece cuando alguien queda demasiado aferrado a esa reconstrucción del pasado y deja de trabajar en la posibilidad de construir felicidad en el presente. La felicidad presente y los proyectos futuros Finalmente, Rolón destacó que los proye",
-      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-no-nos-bajemos-de-la-vida-antes-de-tiempo-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 05:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/M3YZJBNNZ5GQ7MN3LWTNIYUAIU.jpg?auth=b8c8c3ca8f5b2dd856292f11d5900a6f86901c4852b5788437f138b2697e1829&smart=true&width=800&height=600"
-    },
-    {
-      "id": "0b53f02543c7874f6f8e",
-      "title": "En el Reino Unido estudian la posibilidad del uso de armas autónomas para disparar sin intervención humana",
-      "summary": "Lo anticipó el secretario de Estado para las Fuerzas Armadas, Al Carns. \"A nuestros adversarios no les va a importar tener a un humano ahí\", dijo en un foro que se desarrolla en Letonia.",
-      "link": "https://www.clarin.com/internacional/reino-unido-estudian-posibilidad-uso-armas-autonomas-disparar-intervencion-humana_0_j6ugespHlk.html",
-      "pubDate": "Sun, 31 May 2026 04:51:46 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2018/08/23/rkTa6u6LX_1200x630__1.jpg"
-    },
-    {
-      "id": "71ab8897a5b89019f731",
-      "title": "Revancha de 1999: Spurs vs. Knicks por el título NBA tras verse en la final de la Copa NBA",
-      "summary": "Los Spurs y los Knicks se enfrentan en las Finales de 2026, reviviendo un duelo histórico. San Antonio busca su sexto título, mientras Nueva York anhela romper una sequía de 53 años. El enfrentamiento promete ser emocionante, con los Spurs como favoritos. La serie destaca por la paridad reciente en la NBA, con ocho campeones diferentes en ocho años.",
-      "link": "https://www.clarin.com/estados-unidos/revancha-de-1999-spurs-vs-knicks-por-el-titulo-nba-tras-verse-en-la-final-de-la-copa-nba_0_PAId0k24Da.html",
-      "pubDate": "Sun, 31 May 2026 04:50:03 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
-    },
-    {
-      "id": "4e1c87c7b23db81226fa",
-      "title": "Hay alerta amarilla por lluvias y advertencia por niebla para este domingo 31 de mayo: las provincias afectadas",
-      "summary": "El Servicio Meteorológico Naciona l (SMN) emitió una alerta amarilla por lluvias y una advertencia por niebla para este domingo 31 de mayo. El organismo dependiente del Ministerio de Defensa indicó que hay 12 provincias afectadas por estos fenómenos. Según se precisó, el nivel de alerta que rige en esta jornada implica la presencia “fenómenos meteorológicos con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas”. La alerta amarilla por lluvias rige en el noreste de Chubut . En esa zona, el organismo nacional advirtió que se esperan lluvias persistentes y valores de precipitación acumulada de entre 10 y 15 milímetros, que podrían ser superados de forma local. Frente a la alerta amarilla por lluvias , el organismo recomienda evitar salir de los hogares, no sacar la basura, limpiar desagües y sumideros, mantenerse alejado de zonas inundables y cortar el suministro eléctrico en caso de que ingrese agua a las viviendas. A su vez, la advertencia por niebla alcanza a la ciudad de Buenos Aires , la provincia de Buenos Aires , el norte de Río Negro , La Pampa , el sur y este de Córdoba , Santa Fe , Entre Ríos , Corrientes , Misiones , Chaco y Formosa . En este marco, el SMN indicó que se podrán registrar fenómenos que pueden generar “dificultades en el normal desenvolvimiento de la vida social”. Por otra parte, ante la presencia de niebla, el SMN aconseja evitar circular. En caso de conducir, recomienda mantener una distancia prudente entre vehículos, no realizar sobrepasos, utilizar luces bajas y antiniebla, reducir la velocidad y, cuando sea posible, detenerse en un lugar seguro fuera de banquinas y calzadas. Además, sugiere mantenerse informado a través de los canales oficiales. El tiempo en el AMBA Para el cierre del fin de semana, el SMN informó que la temperatura en la ciudad de Buenos Aires oscilará entre una mínima de 9°C y una máxima de 18°C . Se prevé la presencia de neblina durante la mañana y el mediodía, mientras que por la tarde y l",
-      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-lluvias-y-advertencia-por-niebla-para-este-domingo-31-de-mayo-las-provincias-nid31052026/",
-      "pubDate": "Sun, 31 May 2026 04:43:54 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/6Y6DMAKIVRAVNHOGEOKBBFX5AQ.png?auth=24e37d2069acc9e5f939919972040c831ba5b57e0be1c666aa8e636585278684&smart=true&width=406&height=230"
-    },
-    {
-      "id": "3015c8d05fc474b4cc2a",
-      "title": "Cuánto cuesta repintar una casa en mayo 2026",
-      "summary": "Después de varios años sin renovar la pintura , nuestra casa puede lucir descuidada, por eso repintarla siempre es una buena opción para renovarla. “Lo conveniente es renovar la pintura del hogar cada cinco o siete años, aproximadamente”, aseguran especialistas en decoración . El gran problema detrás de esta remodelación tiene que ver con los costos, porque pintar una casa completa no es nada barato. A la hora de considerar el presupuesto que va a llevar el proyecto, Guillermo Ortega, gerente de la red Sui Color, explica que en la Argentina no existe un precio único para pintar una casa completa ya que el valor depende de la mano de obra, el tipo de pintura, la preparación de superficies y la ubicación. Sin embargo, agrega que el precio de la pintura está aumentando entre un 7% y un 8% cada dos meses, desde septiembre de 2025 aproximadamente. Mateo Salvatto, fundador de Grondplek: “En 48 horas se construyen casas de hormigón de 120 m²” Los precios para pintar Por otro lado, Alejandro Sembinelli, dueño de Wolfcolors, empresa que se dedica a pintar y refaccionar, asegura que el costo promedio de los materiales de primera marca para pintar una vivienda de 100 m² , incluyendo interiores y exteriores (solo frente), se ubica entre $1.500.000 y $2.300.000 . Por otro lado, la mano de obra se encuentra entre $5.000.000 y $7.000.000, y se suele considerar un equipo de entre tres y cuatro personas. Los valores pueden incrementarse si se requieren arreglos importantes, trabajos de enduido, tratamiento de humedades o revestimientos texturados , advierten los profesionales. Los tiempos que demanda Para pintar una casa de 100 m² , Ortega estima una duración aproximada de ocho días . En cuanto al secado al tacto de la pintura, el gerente de la red Sui Color explica que suele ser de una a dos horas, mientras que el secado completo puede demorar alrededor de 24 horas en interiores y entre 24 y 48 horas en exteriores , dependiendo de la humedad y las condiciones climáticas. Para aplic",
-      "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-repintar-una-casa-en-mayo-2026-nid27052026/",
-      "pubDate": "Sun, 31 May 2026 04:07:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/Y4G3RL2NEBEIJG2NU5TKQRDAHM.jpg?auth=e07d0dd6cfe0ef58574804b40166e01f6663e0b1bdf2bcaf993e4aae0102ee20&smart=true&width=2000&height=760"
-    },
-    {
-      "id": "e3a83a439e261fd6002d",
-      "title": "Revista Ñ celebra a Borges a 40 años de su muerte con una edición especial y 40 voces fundamentales",
-      "summary": "La obra de Borges sigue impactando con fuerza en el siglo XXI, inspirando a escritores y artistas que reflexionan sobre su legado en una edición especial de Revista Ñ. Lo homenajean Ariana Harwicz, Betina González, Alejandro Tantanian, Esther Cross, Jorge Fernández Díaz, Héctor Abad Faciolince, Mauricio Wainrot, Matilde Marín, Paula Marull, Ana María Shua, Nora Catelli, María Marull, Fabio Kacero, Horacio Lavandera, Ricardo Halac, entre muchos otros.",
-      "link": "https://www.clarin.com/cultura/revista-n-celebra-borges-40-anos-muerte-edicion-especial-40-voces-fundamentales_0_N5vOEzHc0o.html",
-      "pubDate": "Sun, 31 May 2026 04:01:10 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/12/2_ThVclKt_1200x630__1.jpg"
-    },
-    {
-      "id": "a62a49e03ac3472b2691",
-      "title": "San Antonio Spurs destronó a los Thunder en el Oeste, Wembanyama fue MVP de las finales y van por el título de la NBA contra los Knicks",
-      "summary": "El equipo tejano se quedó con el séptimo partido por 111-103 y la serie. El astro francés volvió a brillar con 22 puntos, 7 rebotes y 2 asistencias. Vuelven a definir el campeonato tras 12 años, en tiempos de Manu Ginóbili.",
-      "link": "https://www.clarin.com/deportes/san-antonio-spurs-destrono-thunder-oeste-wembanyama-mvp-finales-van-titulo-nba-knicks_0_m51747CJ0A.html",
-      "pubDate": "Sun, 31 May 2026 03:42:52 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/05/31/GJiD68uGy_1200x630__1.jpg"
-    },
-    {
-      "id": "1b0ad0dcaae9eebc595f",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este domingo 31 mayo de 2026",
-      "summary": "El SMN anticipa para este domingo temperaturas entre 4°C y 15°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-domingo-31-mayo-2026_0_mtTO5AIBJ7.html",
-      "pubDate": "Sun, 31 May 2026 03:41:37 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/owb6L8N_q_1200x630__1.jpg"
-    },
-    {
-      "id": "07288724f6b285494fa7",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este domingo 31 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-domingo-31-mayo-2026_0_Ky5NNbqYYH.html",
-      "pubDate": "Sun, 31 May 2026 03:41:14 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg"
-    },
-    {
-      "id": "0e42b442b80edc383c62",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este domingo 31 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-domingo-31-mayo-2026_0_mBQrEBAbCA.html",
-      "pubDate": "Sun, 31 May 2026 03:41:14 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/acrMfVc6R_1200x630__1.jpg"
-    },
-    {
-      "id": "2d711885375380cd8703",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este domingo 31 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-domingo-31-mayo-2026_0_BYkOoTPmS3.html",
-      "pubDate": "Sun, 31 May 2026 03:41:13 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/NTddMGN8q_1200x630__1.jpg"
-    },
-    {
-      "id": "217000e09b6a589fe1de",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este domingo 31 mayo de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-domingo-31-mayo-2026_0_80qojboQN7.html",
-      "pubDate": "Sun, 31 May 2026 03:40:49 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/wFSwBMgoO_1200x630__1.jpg"
     },
     {
       "id": "bdc210b8fade1be37122",
@@ -1139,12 +1333,12 @@
     {
       "id": "04a707524e70e55796c0",
       "title": "Sánchez se defiende al contraataque para ganar tiempo y llegar al verano",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, en el centro, junto a los ministros de Cultura, Ernest Urtasun, y de Asuntos Exteriores, José Manuel Albares, a la derecha, y el director del Instituto Cervantes, Luis García Montero, a la izquierda, este viernes en Madrid.",
+      "summary": "l presidente del Gobierno, Pedro Sánchez, en el centro, junto a los ministros de Cultura, Ernest Urtasun, y de Asuntos Exteriores, José Manuel Albares, a la derecha, y el director del Instituto Cervantes, Luis García Montero, a la izquierda, este viernes en Madrid.",
       "link": "https://elpais.com/espana/2026-05-31/sanchez-se-defiende-al-contraataque-para-ganar-tiempo-y-llegar-al-verano.html",
       "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/7IMUYCKJMNJGHMGLZY5DPV5LWM.jpg?auth=63c68d6d5e7cdd0380c2c9902e56a8b813293aea6e2196554a1faa599789e05c"
+      "image": "https://imagenes.elpais.com/resizer/v2/4X4HAKYLL5CWRDZYJBH2TZJ634.jpg?auth=1c672c85cb41b2713b20fbca67fed7ba15b00e576e429a256f885adf841fa3e6"
     },
     {
       "id": "fd78d7f3e6965a845e3e",
@@ -1159,7 +1353,7 @@
     {
       "id": "ce7da35323484f86501a",
       "title": "La ‘fontanera’ judoka y su llave fallida",
-      "summary": "La exmilitante socialista Leire Díez durante una rueda de prensa, el 4 de junio de 2025, en Madrid (España).",
+      "summary": "La exmilitante socialista Leire Díez durante una rueda de prensa, el 4 de junio de 2025, en Madrid.",
       "link": "https://elpais.com/espana/2026-05-31/la-fontanera-judoka-y-su-llave-fallida.html",
       "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
       "source": "El Pais",
@@ -1169,7 +1363,7 @@
     {
       "id": "4b45d7f7ddd5d674ad90",
       "title": "Zapatero, una década al límite en Venezuela",
-      "summary": "Zapatero con Delcy Rodríguez en 2016.",
+      "summary": "Zapatero y Delcy Rodríguez en una foto de la Organización de los Estados Americanos (OEA) en 2016.",
       "link": "https://elpais.com/espana/2026-05-31/zapatero-una-decada-al-limite-en-venezuela.html",
       "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
       "source": "El Pais",
@@ -1197,6 +1391,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/SJUXBFS3HZEKNER43KJ6MLZQZQ.jpg?auth=81ec4d067b78e211e8ea11a366691a6ef296d5f34d2a7e6193dcacc88d612c7c"
     },
     {
+      "id": "2135856cc51186a59afe",
+      "title": "El infierno en la tierra de las afganas: de la prohibición de estudiar a la violación legal de niñas",
+      "summary": "Mujeres afganas esperan para recibir comida de una ONG ante un militante talibán en Kabul el 23 de mayo de 2023.",
+      "link": "https://elpais.com/internacional/2026-05-31/el-infierno-en-la-tierra-de-las-afganas-de-la-prohibicion-de-estudiar-a-la-violacion-legal-de-ninas.html",
+      "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/GL77T5HYU5GXPISNNGVQ5IUDLY.jpg?auth=bce1300f2173eb8e6c97b76d78d2078d8a489fbb276ee7ac2146c6c73b0b78d3"
+    },
+    {
       "id": "e5d7fcbbaef4f4b54fbf",
       "title": "Florentino Pérez: “De mí no puede dudar nadie. No necesito el dinero”",
       "summary": "Florentino Pérez, este viernes, en la sala de juntas de ACS.",
@@ -1209,12 +1413,12 @@
     {
       "id": "f3be9a62c54df152d483",
       "title": "El mito de Rocío Jurado cruza el umbral de la inmortalidad",
-      "summary": "Rocío Jurado conceptualizó y diseñó su estética y vestuario para destacar en el escenario.",
+      "summary": "Rocío Jurado conceptualizó y diseñó su estética y vestuario para destacar en el escenario. La cantante posa para una entrevista para El País Semanal en 1987.",
       "link": "https://elpais.com/cultura/2026-05-31/el-mito-de-rocio-jurado-cruza-el-umbral-de-la-inmortalidad.html",
       "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZVUOBB5AI5NQ7K4NCB3ATYEWGY.jpg?auth=15c1a0802b012b9e93807cc718378cda3000151abb7571168cdcc8acee82e7c2"
+      "image": "https://imagenes.elpais.com/resizer/v2/N4M2BMT6ABG3XGTZ2OYJ6XMWCI.jpg?auth=46124cb94d482589bd47094b07bb1f3023640a17190927685d117524db77e873"
     },
     {
       "id": "6e48150a86d435cfb297",
@@ -1230,7 +1434,7 @@
     {
       "id": "9fe4e5e69ab5d4536566",
       "title": "Quieto todo el mundo",
-      "summary": "Ignatius Farray, fotografiado en el barrio de Malasaña de MAdrid",
+      "summary": "Ignatius Farray, fotografiado en el barrio de Malasaña de Madrid, en 2022.",
       "link": "https://elpais.com/opinion/2026-05-31/quieto-todo-el-mundo.html",
       "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
       "source": "El Pais",
@@ -1258,16 +1462,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QO6OHC2RBVA3ZP2NWLEKWWYO2E.jpg?auth=80423df7e6f0f607cebc7c16e334f1fbd245c46ebafb259f7238b8449f632081"
     },
     {
-      "id": "2135856cc51186a59afe",
-      "title": "El infierno en la tierra de las afganas: de la prohibición de estudiar a la violación legal de niñas",
-      "summary": "Mujeres afganas esperan para recibir comida de una ONG ante un militante talibán en Kabul el 23 de mayo de 2023.",
-      "link": "https://elpais.com/internacional/2026-05-31/el-infierno-en-la-tierra-de-las-afganas-de-la-prohibicion-de-estudiar-a-la-violacion-legal-de-ninas.html",
-      "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/GL77T5HYU5GXPISNNGVQ5IUDLY.jpg?auth=bce1300f2173eb8e6c97b76d78d2078d8a489fbb276ee7ac2146c6c73b0b78d3"
-    },
-    {
       "id": "412a97b436f4bf27d9f0",
       "title": "El divulgador de la economía K: “Los ricos están viviendo una edad de oro con Trump”",
       "summary": "Peter Atwater, profesor de Económicas en la Universidad William & Mary de Delaware, fotografiado esta semana en Washington.",
@@ -1285,7 +1479,7 @@
       "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/6ZMM2VHBRZPYPID47P5HL673CA.jpg?auth=521733637b5b790bdae67fd3373c57eccf309e7a5106da92e2e58968d722de79"
+      "image": "https://imagenes.elpais.com/resizer/v2/4ZA5ZR6S7BF2DJE2FIUTJL73BI.jpg?auth=ebac1138b97f52bbda4b4f87c7c1fa36acc3fef7c111df1116cbf64d7d5d70a3"
     },
     {
       "id": "05984187659bf84ff690",
@@ -1298,16 +1492,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/46NWW4KNCJA4FBCHBBZZYWJVAA.jpg?auth=bf966d3cba41014925b808d55c895d05366c123194ccddd1f04e9c773a56d41f"
     },
     {
-      "id": "7844c0443f23f3782f25",
-      "title": "Diez cosas que los correctores de la Selectividad aconsejan hacer (o evitar) en los exámenes de la PAU",
-      "summary": "Un joven se concentra durante un examen de la Pruebas de Acceso a la Universidad en la facultad de Químicas de la Universidad Complutense de Madrid, el año pasado.",
-      "link": "https://elpais.com/educacion/2026-05-31/diez-cosas-que-los-correctores-de-la-selectividad-aconsejan-hacer-o-evitar-en-los-examenes-de-la-pau.html",
-      "pubDate": "Sun, 31 May 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/HK72QKDUMFE6HFMVKRNGPLURZU.jpg?auth=0c5f7138173b84698aae3090797dd1c772c85874c94140000a6d0dc14dbaba01"
-    },
-    {
       "id": "638d955524d5b65727d1",
       "title": "La paradoja de los cruceros: otro verano de récord en plena crisis de imagen",
       "summary": "Turistas tomando el sol en un crucero amarrado en el Puerto de Barcelona.",
@@ -1316,16 +1500,6 @@
       "source": "El Pais",
       "cat": "sports",
       "image": "https://imagenes.elpais.com/resizer/v2/MJD7EA4YTNBLXBC5I5NC4TBCYY.jpg?auth=73dedce3b8ac0f5d32fc785154834cb527ad4bfc5a37e766fb34cb0595fe1211"
-    },
-    {
-      "id": "7ce42ae66d5f8a987176",
-      "title": "Los anticonceptivos bloqueados por Trump que nunca llegaron a Kenia: “No estoy preparada para tener otro bebé”",
-      "summary": "La oficina de Planificación Familiar en el centro de salud de Njiru, en Nairobi, el 8 de mayo de 2026.",
-      "link": "https://elpais.com/planeta-futuro/2026-05-31/los-anticonceptivos-bloqueados-por-trump-que-nunca-llegaron-a-kenia-no-estoy-preparada-para-tener-otro-bebe.html",
-      "pubDate": "Sun, 31 May 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/H5JM6HQSNZCYLKAXR5AZBP5JYI.jpg?auth=e900374e80f1549f3c56d6141ddf76072df770a28652b4827b0acae64b0c2af0"
     },
     {
       "id": "5de0626bf618e1081025",
@@ -1376,6 +1550,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/CFLEHCCIL5FZZPB6OK3ANCRSQQ.jpg?auth=0fdc5a9f1a06dae5d264ae3d431e548c2cfcdeef6e3cfd539e16f963944f37ac"
+    },
+    {
+      "id": "7ce42ae66d5f8a987176",
+      "title": "Los anticonceptivos bloqueados por Trump que nunca llegaron a Kenia: “No estoy preparada para tener otro bebé”",
+      "summary": "La oficina de Planificación Familiar en el centro de salud de Njiru, en Nairobi, el 8 de mayo de 2026.",
+      "link": "https://elpais.com/planeta-futuro/2026-05-31/los-anticonceptivos-bloqueados-por-trump-que-nunca-llegaron-a-kenia-no-estoy-preparada-para-tener-otro-bebe.html",
+      "pubDate": "Sun, 31 May 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/H5JM6HQSNZCYLKAXR5AZBP5JYI.jpg?auth=e900374e80f1549f3c56d6141ddf76072df770a28652b4827b0acae64b0c2af0"
     },
     {
       "id": "9ea851c75f62e2dd3f24",
@@ -1478,16 +1662,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1b68179fe30.jpeg"
     },
     {
-      "id": "d59d54d5fc14358c69ff",
-      "title": "Incidentes \"absolutamente inaceptables\" durante las celebraciones en Francia",
-      "summary": "Disturbios en París",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/31/disturbios-paris-segunda-champions-psg.html",
-      "pubDate": "Sun, 31 May 2026 00:29:51 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/31/6a1b64794a0f7.jpeg"
-    },
-    {
       "id": "6faf1cd79fe7cfa0ec01",
       "title": "Estados Unidos ataca un barco que trataba de atravesar el estrecho de Ormuz rumbo a Irán",
       "summary": "Un helicóptero MH-60R Sea Hawk se acerca al USS Delbert D. Black (DDG 119) después de patrullar el mar Arábigo en apoyo al bloqueo de Estados Unidos contra Irán.",
@@ -1518,26 +1692,6 @@
       "image": "https://static.eldiario.es/clip/01e9a822-d7b7-4559-adb3-aff591c443ec_16-9-discover-aspect-ratio_default_1143686.jpg"
     },
     {
-      "id": "b6ec420ca72f38d42bc4",
-      "title": "Mike Yanguas y Franco Stupaczuk cumplen con su cartel de favoritos en Albania",
-      "summary": "Mike Yanguas y Franco Stupaczuk en el FIP Platinum de Albania.",
-      "link": "https://www.marca.com/padel/2026/05/30/mike-yanguas-franco-stupaczuk-cumplen-cartel-favoritos-albania.html",
-      "pubDate": "Sat, 30 May 2026 23:29:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b5559c4ec0.jpeg"
-    },
-    {
-      "id": "281301d927a57e2a2b78",
-      "title": "El Madrileño aguanta con diez más de una hora",
-      "summary": "Iker Luque vio la roja por agresión justo antes del descanso de un partido muy igualado",
-      "link": "https://www.marca.com/futbol/primera-rfef/2026/05/30/atletico-madrileno-resiste-diez-sale-vivo-ponferrada.html",
-      "pubDate": "Sat, 30 May 2026 23:03:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b4747112c1.jpeg"
-    },
-    {
       "id": "7c1f9f4a650e862b4863",
       "title": "¿Son los chequeos médicos de los presidentes de EE.UU. un mero ejercicio de relaciones públicas?",
       "summary": "Todos los presidentes de la historia moderna de Estados Unidos, incluido Donald Trump esta semana, se someten a un reconocimiento médico anual que tiene tanto que ver con su salud como con su imagen pública.",
@@ -1558,56 +1712,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/34CZ7VM6O5EUHD7VPPYPZY3JU4.jpg?auth=a6d4a225b329d8aeb2ca3e9aa8eb2f5cc231fd9cb735b36d81c2178f2ef21148"
     },
     {
-      "id": "2dfd67e44d960551036f",
-      "title": "¡Amigos ante todo!: El emotivo abrazo entre Hincapié y Pacho tras la final de Champions",
-      "summary": "Los ecuatorianos se fundieron en un abrazo emocionante dos semanas antes del Mundial",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/amigos-emotivo-abrazo-hincapie-pacho-final-champions-video.html",
-      "pubDate": "Sat, 30 May 2026 22:16:39 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/bFY141g6qCTI6Nv8m.jpeg"
-    },
-    {
-      "id": "1504a1df5f5f72a4a3ee",
-      "title": "\"He visto todos los penaltis del año... y el de Madueke sí lo es\"",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/arteta-ganar-necesitas-poco-suerte-hemos-tenido.html",
-      "pubDate": "Sat, 30 May 2026 22:04:04 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b485b1dc05.jpeg"
-    },
-    {
-      "id": "07db8db0dc30acda6b83",
-      "title": "La parada de Raya no fue suficiente para el Arsenal en la tanda de penaltis",
-      "summary": "Eze y Gabriel fallaron sus lanzamientos y la Champions viajará a París pese a la buena atajada del meta catalán al disparo de Nuno Mendes.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/parada-raya-suficiente-arsenal-tanda-penaltis-video.html",
-      "pubDate": "Sat, 30 May 2026 22:03:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/bFYxO1g6q9Md7xDbq.jpeg"
-    },
-    {
-      "id": "fd9b1048807b66584fcc",
-      "title": "\"La segunda es la mejor\"",
-      "summary": "Al-Khelaifi celebra la victoria en Budapest.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/nasser-khelaifi-hemos-trabajado-durante-anos-champions.html",
-      "pubDate": "Sat, 30 May 2026 21:59:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b409cedc0a.jpeg"
-    },
-    {
-      "id": "ed730ad5d9ff4315562b",
-      "title": "\"Perdí la de Marruecos con España y me mataron por eso\"",
-      "summary": "Luis Enrique, con la Champions en sus manos.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/luis-enrique-desvela-truco-jugadores-son-diferentes-pararles-siguen-entrenando.html",
-      "pubDate": "Sat, 30 May 2026 21:52:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b3ffa64968.jpeg"
-    },
-    {
       "id": "aac415da6559d1225254",
       "title": "Bad Bunny en Madrid: el alucinante jolgorio del perreo y el amor",
       "summary": "Bad Bunny, durante su concierto en el estadio Metropolitano de Madrid.",
@@ -1615,57 +1719,7 @@
       "pubDate": "Sat, 30 May 2026 21:51:38 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/HK4PTWUPBVCEFA4Q63WITMV4HE.jpg?auth=67a2b432ed9b1221ce6a0e41536ff6053b238a3ab9ca486ce0bf89143ae337d0"
-    },
-    {
-      "id": "dd2608540d13964e1ac5",
-      "title": "PSG 1-1 (4-3) Arsenal | Resumen Champions League",
-      "summary": "El PSG repite título y gana su segunda Champions League en los lanzamientos de penalti.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/psg-1-1-4-3-arsenal-resumen-champions-leagu-video.html",
-      "pubDate": "Sat, 30 May 2026 21:50:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/bFXmG1g6pz1u1rOnH.jpeg"
-    },
-    {
-      "id": "c8f74416546a4f616e34",
-      "title": "\"Los que esperaran a las 21.00 y encendieron la tele salieron ganando\"",
-      "summary": "El PSG celebra su segunda Champions.",
-      "link": "https://www.marca.com/futbol/champions-league/opinion/2026/05/30/anorando-psg-bayern.html",
-      "pubDate": "Sat, 30 May 2026 21:46:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b3dbe291d0.jpeg"
-    },
-    {
-      "id": "f9978fa451bfd6fc30c5",
-      "title": "Luis Enrique se desata: así celebró su segunda Champions consecutiva",
-      "summary": "El entrenador asturiano festejó desatado junto a sus jugadores y los aficionados del PSG desplazados a Budapest.",
-      "link": "https://www.marca.com/futbol/champions-league/2026/05/30/extasis-luis-enrique-segunda-champions-consecutiva-locura-gen-video.html",
-      "pubDate": "Sat, 30 May 2026 21:30:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/bFVqQ1g6pf4iMPL4S.jpeg"
-    },
-    {
-      "id": "c81ad02393d51dd12606",
-      "title": "El PSG de Luis Enrique sigue siendo el Rey",
-      "summary": "El PSG levanta la Champions.",
-      "link": "https://www.marca.com/futbol/champions-league/cronica/2026/05/30/luis-enrique-eleva-olimpo-champions-psg.html",
-      "pubDate": "Sat, 30 May 2026 21:04:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b46c028977.jpeg"
-    },
-    {
-      "id": "e2fb816ad569f3194ff0",
-      "title": "¡Insólito! El Elche se burla del Atlético en redes sociales tras las pullas al Barcelona",
-      "summary": "Los ilicitanos publicaron este meme en contra de los atléticos",
-      "link": "https://www.marca.com/futbol/barcelona/2026/05/30/insolito-elche-burla-atletico-redes-sociales-pullas-barcelona-video.html",
-      "pubDate": "Sat, 30 May 2026 20:50:51 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/bFNH41g6olEIB7bWc.jpeg"
+      "image": "https://imagenes.elpais.com/resizer/v2/OKAMIIGISVFNDCHXW3ZXZCYF7Q.jpg?auth=bc14b2bae77d13cf2ec1a7dcfbed603c8c153dff1a0ee5c06a3d79f05afb5b24"
     },
     {
       "id": "819439cdec125fd5561d",
@@ -1678,24 +1732,14 @@
       "image": "https://static.eldiario.es/clip/f39d214a-0472-467b-b74e-fdb148fb6408_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "7196237509de789d44d9",
-      "title": "\"Si yo soy presidente, un jugador como Rodri jugará en el Madrid\"",
-      "summary": "Enrique Riquelme, en un acto.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/05/30/enrique-riquelme-miercoles-dare-conocer-primer-nombre-estrella-mundial.html",
-      "pubDate": "Sat, 30 May 2026 20:34:24 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b2d9fb6215.jpeg"
-    },
-    {
       "id": "ddad5f176240452731f2",
-      "title": "Mbappé, Ester Expósito, Ana de Armas, Martiño Rivas y Chiara Ferragni, en La Casita de Bad Bunny en el primer concierto en Madrid",
+      "title": "Ester Expósito, Ana de Armas, Martiño Rivas y Chiara Ferragni, en La Casita de Bad Bunny en el primer concierto en Madrid",
       "summary": "Las actrices María León (primera por la izquierda) y Ester Expósito, en el centro, en La Casita en el concierto de Bad Bunny, este sábado en el estadio Metropolitano, en Madrid.",
       "link": "https://elpais.com/cultura/2026-05-30/las-actrices-ester-exposito-y-martino-rivas-y-los-futbolistas-alvaro-carreras-e-isi-palazon-en-la-casita-de-bad-bunny-en-el-primer-concierto-en-madrid.html",
       "pubDate": "Sat, 30 May 2026 19:54:03 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/JKCGHEWTHNFX3HEF5ZA7HW6E2I.jpg?auth=c460c9a0e708513aeec081a2d942e41bb965ab0ea1efdcd90868279ca2e72c97"
+      "image": "https://imagenes.elpais.com/resizer/v2/XNILQ6UBVJEIXLPAUSKJUOGPPQ.jpg?auth=342241219fa341e9f739edbb709aa6c770556528d3b68e061ca91cae0c1620f3"
     },
     {
       "id": "e6e4c8f254013596ab9a",
@@ -1921,17 +1965,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/x-men-97-1.jpg"
     },
     {
-      "id": "44a423bee5acc5e0fbba",
-      "title": "¿Creas imágenes con Gemini pero no salen como quieres? Este es mi truco para sacarle partido a Nano Banana, y es gratis",
-      "summary": "Que Gemini tiene uno de los mejores modelos de IA para crear imágenes, no es novedad. Nano Banana y su versión Pro se han convertido en una de las referencias más importantes del segmento. Sin embargo, es posible que no siempre obtengas los resultados que buscas, o que en más de una ocasión no se parezca en nada a lo que esperas. Es cierto que los modelos como los que usa Gemini han evolucionado lo suficiente para crear imágenes bastante buenas aunque la descripción de texto sea un tanto vaga. No obstante, la calidad del prompt que le das sigue jugando un papel crucial en esta historia. Desafortunadamente, si tu instrucción no es buena o no tiene tanto detalle , las imágenes que va a crear Gemini serán creativamente limitadas. La buena noticia es que ya no tienes que quemarte las pestañas probando y mejorando tus prompts una y otra vez hasta lograr el resultado ideal o que más se asemeje a tu idea original. Allí es donde entra en escena bananaprompts.xyz , una de las mejoras web gratis con instrucciones para crear las mejores imágenes en Gemini . Una solución práctica que te ahorrará tiempo y dolores de cabeza. Los mejores prompts para crear imágenes con Gemini y Nano Banana Ya no es necesario ser un cryptobro para tener tu propio jet y superdeportivo (?). Al ingresar a la citada web te vas a topar con una gran cantidad de instrucciones para crear imágenes con Gemini, valiéndote de la tecnología de Nano Banana. Cada prompt incluye una imagen de muestra de cuál es el resultado final ideal al usarlo. Ten en cuenta que tu experiencia puede diferir ligeramente del ejemplo, pero por lo general son bastante acertados. Lo interesante de bananaprompts.xyz es que te evita de tener que pensar en instrucciones muy extensas o extremadamente detalladas. En muchos casos, son creadas por personas que conocen de fotografía o diseño, y eso también facilita la composición de la escena o la aplicación de detalles más técnicos. Así las cosas, lo único que tienes que hacer es copiar un ",
-      "link": "https://hipertextual.com/inteligencia-artificial/prompts-gratis-crear-imagenes-gemini/",
-      "pubDate": "Sat, 30 May 2026 09:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Gemini-2-scaled.jpg?fit=1024%2C572&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
-    },
-    {
       "id": "c7ada777458e426e2cd7",
       "title": "Un golpe de suerte: cómo un desconocido farmacéutico británico inventó por casualidad los fósforos de madera hace 200 años",
       "summary": "Aunque el invento se popularizaría en todo el mundo, John Walker nunca patentó su idea y sigue siendo una figura poco conocida.",
@@ -1952,16 +1985,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/Spider-Man-Brand-New-Day-vuelve-a-los-origenes.jpg"
     },
     {
-      "id": "2ba17e42b9849b89afe1",
-      "title": "¿Cuánto cuesta cambiar la batería de un coche eléctrico en 2026? BYD acaba de destrozar a los cuñados",
-      "summary": "Seguro que lo has oído: \"Ya verás cuando tengas que cambiar la batería el palo que te van a dar\" . Y, si bien es uno de los componentes más caros de un coche eléctrico, BYD acaba de cerrarle la boca a muchos de los detractores de esta tecnología acabando con un mito histórico. Todo nace después de que el propietario de un Denza Z9 GT sufriera un accidente bastante grave que le obligó a cambiar la batería del vehículo. Él mismo compartió que el monto a pagar le sorprendió muchísimo. Eso sí, para bien. El conductor tuvo que montar en su Denza Z9 GT, un coche con más de 1.100 CV de potencia, una batería LFP Blade 2.0 de 122,5 kWh , la más potente y grande de la compañía. No la hay más cara ni más avanzada. ¿El precio? 78.700 yuanes, que al cambio son unos 9.970 euros . Y no, no es de segunda mano ni comprada en ningún lugar extraño: es el precio que marca el distribuidor oficial y que debe pagar cualquier usuario de a pie por el componente. Y, si bien 10.000 euros no es una cifra modesta, está lejos de esos dramáticos precios que muchos advierten cuando se habla de movilidad y coches eléctricos. Además, es necesario recalcar que la batería tuvo que ser reemplazada por un grave accidente y no por su degradación o un problema de fabricación. La cifra sorprende, pero también deja claro hacia dónde va la industria del coche eléctrico y de dónde viene. Hace unos años, el coste de las baterías suponía entre un 50 y un 60% del coste del vehículo, y en el caso del Denza Z9 GT, un coche considerado de alta gama en China, a día de hoy supone en torno al 20% . La cifra podría ser mucho menor en coches eléctricos más modestos, donde su batería se queda lejos de esos 122,5 kWh que necesita el Z9 GT. Ahora bien, hay un pequeño truco en todo este tema: la ubicación . Europa todavía no está al nivel de china cuando se habla de precios para baterías de coches eléctricos Hay una cosa clara: esta batería de 122,5 kWh no se puede comprar en Europa por 9.970 euros . El usuario hizo el camb",
-      "link": "https://hipertextual.com/movilidad/cuanto-cuesta-cambiar-la-bateria-de-un-coche-electrico-en-2026-byd-acaba-de-destrozar-a-los-cunados/",
-      "pubDate": "Sat, 30 May 2026 08:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Bateria-coche-electrico-.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "e469d2ba45ff7de96fbc",
       "title": "¿Qué están preparando NVIDIA y Microsoft?",
       "summary": "NVIDIA y Microsoft han decidido jugar al misterio , y lo han hecho de una forma especialmente calculada. En las últimas horas, las cuentas oficiales de Windows han publicado un mensaje tan breve como intrigante: “ A new era of PC ”. Hasta ahí, nada especialmente raro. Pero justo debajo aparecía algo mucho más desconcertante: 25.0528, 121.5990. Sin contexto. Sin explicación. Sin más pistas. Poco después, NVIDIA replicaba exactamente el mismo mensaje. Y, para añadir todavía más leña al fuego, también lo hacía Arm . Tres gigantes tecnológicos, una frase idéntica y una secuencia de números que ya ha disparado todo tipo de especulaciones. La primera pista no tardó demasiado en descifrarse. Esos números son coordenadas geográficas, y conducen directamente a Taipéi , más concretamente al Taipei Music Center, uno de los escenarios clave de Computex 2026 y el lugar donde Jensen Huang, CEO de NVIDIA, celebrará una keynote especialmente esperada . De repente, lo que parecía un teaser críptico empezó a tomar forma: no estamos ante un anuncio cualquiera, sino posiblemente ante algo que Microsoft, NVIDIA y Arm consideran lo bastante importante como para coordinar un mensaje global. A new era of PC. 25.0528, 121.5990 — NVIDIA (@nvidia) May 29, 2026 A new era of PC. 25.0528, 121.5990 — Windows (@Windows) May 29, 2026 A new era of PC. 25.0528, 121.5990 — Arm (@Arm) May 29, 2026 Y aquí entra la teoría que, ahora mismo, parece más sólida. Todo apunta a los esperados procesadores NVIDIA N1 y N1X , chips basados en arquitectura Arm diseñados específicamente para ordenadores con Windows . Llevamos años escuchando rumores sobre la intención de NVIDIA de entrar de lleno en el mercado del PC, pero durante los últimos meses las filtraciones han ganado fuerza: nombres de fabricantes, supuestos equipos en desarrollo y una creciente sensación de que Computex podría ser el momento elegido para mover ficha. Conviene insistir en ello: no hay confirmación oficial. Pero cuesta ignorar cómo empiezan ",
@@ -1970,17 +1993,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/05/NVIDIA-2-2.jpg"
-    },
-    {
-      "id": "69001976e8d18d0ee032",
-      "title": "Qué es Claude Mythos y por qué está metiendo miedo a toda Europa",
-      "summary": "La inteligencia artificial se ha convertido en una tecnología tan versátil que se está colando en prácticamente cualquier rincón de nuestra vida. La IA generativa empezó imitando nuestra manera de escribir. Pero hoy es una herramienta que millones de personas utilizan para generar imágenes y videos, redactar informes, mensajes y correos electrónicos, escribir código o corregirlo, etcétera. Precisamente, la búsqueda de errores en el código de un programa o aplicación convierte la inteligencia artificial en una poderosa herramienta de ciberseguridad . Y como suele ocurrir en este ámbito tan delicado, un mal uso puede convertir la IA en una amenaza en potencia . Como Claude Mythos , uno de los proyectos más ambiciosos de Anthropic . Anthropic es una de las principales rivales de OpenAI, Google, Meta o Microsoft . Un rival serio si tenemos en cuenta que su asistente de IA, Claude , ha logrado desbancar a ChatGPT y Gemini en las tiendas de aplicaciones. Y no solo eso. Su avance parece imparable con proyectos como Claude Mythos . Presentado el pasado mes de abril, sus creadores hablan de él como “un nuevo modelo de lenguaje de uso general”. Sin embargo, su campo de acción va a ser la ciberseguridad. O dicho de otra forma, “ayudar a proteger el software más crítico del mundo y preparar al sector para las prácticas que todos tendremos que adoptar a fin de adelantarnos a los ciberatacantes \". La idea es encomiable. Pero ante una tecnología capaz de hacer lo que promete Anthropic, no han tardado en surgir los temores. En un mundo hiperconectado, ¿hasta qué punto podemos fiarnos de Claude Mythos? ¿Y si se convirtiera en una herramienta para atacar empresas e infraestructuras críticas y financieras ? Y siendo una empresa estadounidense, ¿podría Claude Mythos convertirse en una herramienta para que Estados Unidos ataque a sus rivales políticos y geoestratégicos ? Qué es Claude Mythos Claude Mythos es un nuevo modelo de lenguaje. El más avanzado de Anthropic. Y aunque es un model",
-      "link": "https://hipertextual.com/tecnologia/que-es-claude-mythos-ciberseguridad/",
-      "pubDate": "Sat, 30 May 2026 07:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Claude-Mythos-Ciberseguridad-Internet.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "modelos"
     },
     {
       "id": "ad31f70253e9216631e5",
@@ -2356,16 +2368,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d244/live/5ce6db10-5b5f-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
-      "id": "2114b0095328a4d14af0",
-      "title": "\"¿Y si hacemos protagonista del Mundial al futbolista menos conocido?\": la campaña viral argentina que convirtió en estrella al jugador de Nueva Zelanda Tim Payne",
-      "summary": "El defensor neozelandés Tim Payne se volvió famoso de la noche a la mañana en las redes sociales sin quererlo, gracias a la iniciativa de un influencer argentino.",
-      "link": "https://www.bbc.com/mundo/articles/cgmpkz9vl8ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 29 May 2026 14:19:01 GMT",
-      "source": "BBC Mundo",
-      "cat": "sports",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4184/live/cd2f9a00-5b56-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
       "id": "6f18841de734fd221abc",
       "title": "\"Nos estamos quedando sin oxígeno y hay pacientes que pueden morir\": la crítica situación de los hospitales en Bolivia por las protestas y bloqueos de carreteras",
       "summary": "La crisis que se ha generado en los hospitales en Bolivia por el desabastecimiento a causa de las protestas pone en riesgo a los pacientes.",
@@ -2718,8 +2720,8 @@
       {
         "name": "Gemini",
         "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "Claude",
@@ -2736,5 +2738,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-05-31T07:39:48.612453+00:00"
+  "updated": "2026-05-31T10:09:33.261312+00:00"
 }
