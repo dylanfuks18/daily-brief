@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "bc13846fd50a545988a3",
+      "title": "Otro gol de una de las sensaciones del mundial, Manzambi",
+      "summary": "Pelota al área para Embolo, que la caza, la mima, espera que llegue alguien de atrás... y el que llega siempre es Manzambi, que chuta abajo y cuenta con la colaboración de Crépeau para hacer el segundo de Suiza",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/24/gol-manzambi-2-0-suiza-2-1-canada-video.html",
+      "pubDate": "Wed, 24 Jun 2026 23:45:54 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/1gF4t_VfTIaO.jpeg"
+    },
+    {
+      "id": "5dda754e257d68258cd3",
+      "title": "Así están los grupos y así estarían los cruces: ¿qué terceros se clasifican?",
+      "summary": "La calculadora del Mundial 2026",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/24/cuentas-ultima-jornada-fase-grupos-clasificacion-mejores-terceros.html",
+      "pubDate": "Wed, 24 Jun 2026 23:42:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/mundial.jpg.jpeg"
+    },
+    {
+      "id": "4d3e55e3d8ca55ff22e5",
+      "title": "Suiza 2-1 Canadá | Resumen Mundial 2026",
+      "summary": "Manzambi sigue en modo estrella y mete a Suiza primera de grupo",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/24/suiza-2-1-canada-resumen-mundial-2026-video.html",
+      "pubDate": "Wed, 24 Jun 2026 23:37:53 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/buuNw1gF4uSi0CQZt.jpeg"
+    },
+    {
+      "id": "68322730d6a886905df7",
+      "title": "El gol encajado de carambola con el que se despidió la Qatar de Lopetegui",
+      "summary": "Aprovechó una serie de rebotes y errores para mandar el balón al fondo de las mallas",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/24/gol-mahmic-3-1-bosnia-3-1-qatar-video.html",
+      "pubDate": "Wed, 24 Jun 2026 23:34:51 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/butk61gF4rWrc3V3k.jpeg"
+    },
+    {
+      "id": "cfd61384a6288364b037",
+      "title": "Bosnia 3-1 Qatar | Resumen Mundial 2026",
+      "summary": "Lopetegui se despide del Mundial con una contundente derrota ante Bosnia",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/24/bosnia-3-1-qatar-resumen-mundial-2026-video.html",
+      "pubDate": "Wed, 24 Jun 2026 23:32:10 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/buuCY1gF4o3HvJHUX.jpeg"
+    },
+    {
+      "id": "10849053192c11a616b1",
+      "title": "Rajadón de Satoransky",
+      "summary": "Tomas Satoransky, actual capitán del Barça, posa con el trofeo de subcampeón de la ACB.",
+      "link": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/24/rajadon-satoransky-pensaba-ibamos-proyecto-anos.html",
+      "pubDate": "Wed, 24 Jun 2026 23:08:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c44bdb86f2.jpeg"
+    },
+    {
       "id": "0dcf82d8b5cc4f659442",
       "title": "Bosnia escribe su propia historia",
       "summary": "Los jugadores de Bosnia celebran un gol ante Qatar",
@@ -22,23 +82,13 @@
     },
     {
       "id": "c594bac42b642e66c385",
-      "title": "\"Me cuesta más gestionar el Valencia ...¡que Mercadona!\"",
+      "title": "\"Me cuesta más gestionar el Valencia que Mercadona\"",
       "summary": "Juan Roig, con el trofeo de campeón de Liga cuando la ganó el Valencia en 2017.",
       "link": "https://www.marca.com/baloncesto/acb/2026/06/24/juan-roig-mecenas-campeon-me-cuesta-gestionar-valencia-basket-mercadona.html",
       "pubDate": "Wed, 24 Jun 2026 22:55:39 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/23/6a3ae6c779f99.jpeg"
-    },
-    {
-      "id": "24f458cbbb55cb65ea71",
-      "title": "Montero, el MVP que ha dominado la final de la Liga Endesa",
-      "summary": "Montero, con el premio MVP, junto a Badio, Sako y Puerto.",
-      "link": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/24/montero-mvp-dominado-final-liga-endesa.html",
-      "pubDate": "Wed, 24 Jun 2026 22:53:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c4340c097b.jpeg"
     },
     {
       "id": "1596162af1d8ab9da2d6",
@@ -51,6 +101,67 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3b826c6ce7e.jpeg"
     },
     {
+      "id": "66a24a3375cefad207bd",
+      "title": "VIDEOS: Reportan daños en edificios tras el fuerte terremoto en Venezuela",
+      "summary": "El sismo tuvo una magnitud de 7,1.",
+      "link": "https://actualidad.rt.com/actualidad/612894-videos-reportar-danos-edificios-fuerte-terremoto-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 22:49:45 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "c6e3e9fb423f14ae0129",
+      "title": "Un terremoto de 7,1 sacude varias regiones de Venezuela",
+      "summary": "Monitoreo del epicentro del terremoto de magnitud 7,1 en Venezuela, este miércoles.",
+      "link": "https://elpais.com/america/2026-06-24/un-terremoto-de-71-sacude-la-costa-norte-de-venezuela.html",
+      "pubDate": "Wed, 24 Jun 2026 22:47:40 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/FBDIKZNNCFHOROV3M3HMTFBVA4.png?auth=67f0c55f4aa0b1002424826dee796c20c95cee0111c9c50b2f6326dccc1587ce"
+    },
+    {
+      "id": "f6cfedd0b65b4a7df9cb",
+      "title": "Un fuerte terremoto de magnitud 7,1 sacude Venezuela y se siente con intensidad en Caracas",
+      "summary": "Por el momento no se conoce la magnitud de los daños causado por el temblor, que se sintió con fuerza en la capital, Caracas.",
+      "link": "https://www.bbc.com/mundo/articles/cly7qe4542xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 24 Jun 2026 22:47:33 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3de6/live/cbb7bc00-701b-11f1-b1db-af71d47507d6.png"
+    },
+    {
+      "id": "fa8076289a77cb448128",
+      "title": "Alertan de posibles \"olas peligrosas de tsunami\" tras el terremoto en Venezuela",
+      "summary": "Podrían producirse frente a las costas situadas hasta 300 kilómetros del epicentro del sismo, afectando a la isla de Bonaire, Venezuela, Curazao y Aruba.",
+      "link": "https://actualidad.rt.com/actualidad/612893-alerta-olas-tsunami-terremoto-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 22:45:29 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c611c59bf5b0c4057715d.jpg"
+    },
+    {
+      "id": "2472d7ddf933c501d575",
+      "title": "La última actualización de Windows 11 corrige una de sus funciones más intrusivas (ya era hora)",
+      "summary": "Si le preguntas a un usuario de Windows 11 cuál es la función que cambiarían o eliminarían de tajo, seguro que muchos elegirían los widgets . Estas tarjetas interactivas prometían un acceso rápido a ciertas funciones, pero en poco tiempo se convirtieron en una colección de basura que consume recursos del sistema . Aunque los widgets están lejos de desaparecer, Microsoft ha escuchado las críticas y está por cambiar su funcionamiento. De acuerdo con Windows Latest , Microsoft añadió varias mejoras al sistema operativo a través de la actualización opcional de junio. Entre ellas se encuentra un ajuste que corrige el comportamiento por defecto de los widgets en la barra de tareas. Una vez que lo instalas, estos dejarán de abrirse al pasar el cursor por el botón , reduciendo las interrupciones en el escritorio al mínimo. Junto a eso, Microsoft también reducirá el protagonismo visual de las insignias del panel. Los contadores de notificaciones aparecerán minimizados por defecto y los colores de las insignias se ajustarán al color que tengas configurado en Windows 11. El resultado es una barra de tareas más limpia y con menos elementos que compiten por llamar tu atención. Imagen: Windows Latest Otro cambio efectivo se aplicará cuando abres el panel por primera vez. Con la actualización, la vista inicial será directamente el panel de widgets, sin el ruido del feed de MSN, que regularmente está plagado de noticias falsas y publicidad invasiva. Esta reducción también se aplicará a la pantalla de bloqueo , que elimina el exceso de tarjetas con noticias o resultados deportivos y solo deja el widget con el estado del tiempo . ¿Qué más cambia en los widgets de Windows 11? Además de las modificaciones en el funcionamiento y cantidad de widgets, Microsoft también ajustó los íconos del panel. Tras la actualización, estos mostrarán número de alertas no leídas de un vistazo, y las insignias se borrarán automáticamente cuando sales del panel. Los cambios vendrán activados por defecto , ",
+      "link": "https://hipertextual.com/software/windows-11-widgets-menos-intrusivos-actualizacion/",
+      "pubDate": "Wed, 24 Jun 2026 22:45:01 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Windows-11.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "41af89c13feba14a9190",
+      "title": "Tras blindar a Adorni, el Gobierno se prepara para aprobar el Super RIGI",
+      "summary": "El proyecto está orientado a inversiones por más de mil millones de dólares en infraestructura digital e inteligencia artificial y tendrá una estabilidad jurídica por 30 años. La defensa ideológica del oficialsimo. Luego de casi cuatro meses de atajar los esc ndalos generados por los gastos patrimoniales de Manuel Adorni , el Gobierno logr ordenar la tropa y avanzar con su agenda en el Congreso. Negoci con los aliados, acord con los gobernadores y consigui , as , blindar al jefe de Gabinete y avanzar con el tratamiento de uno de los proyectos con los que se propone relanzar la imagen de la gesti n: el Super RIGI . El debate todav a se estaba llevando a cabo en el recinto, pero en el Gobierno se mostraban confiados: superado el affaire Adorni, a quien hab an logrado proteger el d a anterior volteando la sesi n opositora, los votos para avanzar con el nuevo R gimen de Incentivo a las Grandes Inversiones ser an cuesti n de tiempo. El secretario de Asuntos Estrat gicos, Ignacio Devitt , paseaba por los pasillos de la C mara de Diputados, atento a las negociaciones de ltimo momento, pero no se lo ve a nervioso. Los votos est n justos, pero est n , deslizaban en el oficialismo. El proyecto del Ejecutivo, una versi n 2.0 del RIGI sancionado hace dos a os, est orientado a inversiones destinadas a infraestructura digital e inteligencia artificial por m s de mil millones de d lares. Un r gimen que, seg n denunciaron numerosas organizaciones y fundaciones de desarrollo, estar destinado a la instalaci n de data centers en zonas puntuales de la Patagonia, donde hay acceso a recursos naturales, energ a y bajas temperaturas. Incluye enormes beneficios impositivos, fiscales y cambiarios con garant a de estabilidad por 30 a os. El oficialismo, sin embargo, se tom el debate en la C mara de Diputados como una disputa ideol gica sobre el modelo econ mico de Javier Milei . Hay que salir de cavernicolandia . Hemos ahuyentado a las inversiones con el cantito de combatir el capital . El ca",
+      "link": "https://www.eldiarioar.com/politica/blindar-adorni-gobierno-prepara-aprobar-super-rigi_1_13331169.html",
+      "pubDate": "Wed, 24 Jun 2026 22:42:08 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/b62f2b23-5dc5-47ae-9424-1dab491bb377_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    {
       "id": "957be819086622ca6e93",
       "title": "Susto para Paula Blasi: al suelo a más de 50 por hora… y de vuelta a la bici tras siete horas en el hospital",
       "summary": "Blasi, en el hospital.",
@@ -61,14 +172,24 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c407cf11d0.jpeg"
     },
     {
+      "id": "99a3e44d32b728f1b470",
+      "title": "VIDEOS en medio del fuerte sismo en Venezuela",
+      "summary": "El movimiento habría tenido una magnitud de 7,1.",
+      "link": "https://actualidad.rt.com/actualidad/612731-videos-fuerte-sismo-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 22:27:01 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c60ff59bf5b08e02fa422.jpg"
+    },
+    {
       "id": "376888a03b0223cfeaef",
-      "title": "Vini y diez más para asaltar el liderato",
-      "summary": "La canción del Mundial 'Follow Me' que ya cantan estrellas del fútbol: Brahim, Ronaldo, Fede Valverde, Vini, Fabián Ruiz...",
+      "title": "Doblete de un Vinicius pletórico",
+      "summary": "1",
       "link": "https://www.marca.com/futbol/mundial/2026/06/24/01-0117-20260624-115-614.html",
       "pubDate": "Wed, 24 Jun 2026 22:25:15 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3be03b4950e.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3c601945b28.jpeg"
     },
     {
       "id": "729cba4bf91debdf99fb",
@@ -81,6 +202,136 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c3a02cc19b.jpeg"
     },
     {
+      "id": "230e5dcd5077e378dc41",
+      "title": "Se registra un potente sismo en Venezuela",
+      "summary": "Habría tenido una magnitud de 7,1.",
+      "link": "https://actualidad.rt.com/actualidad/612890-registra-potente-sismo-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 22:19:45 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "1c12aea942d8dc6105fc",
+      "title": "Laurita Fernández, de vacaciones en París: todas las fotos",
+      "summary": "La actriz, conductora y bailarina disfruta de unos días de descanso en la capital francesa. \"Bonjour (buen día), macarrons y 39 grados a la sombra\", resumió en las redes, donde compartió numerosas imágenes de sus paseos.",
+      "link": "https://www.clarin.com/fama/laurita-fernandez-vacaciones-paris-todas-fotos_0_EE9IfaVLgt.html",
+      "pubDate": "Wed, 24 Jun 2026 22:18:16 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/06/24/BY5PJMfUh_1200x630__1.jpg"
+    },
+    {
+      "id": "44c31e63b86b3bc42677",
+      "title": "Suiza vence a Canadá, termina primera del Grupo B y crea una estrella: Johan Manzanbi",
+      "summary": "El suizo Johan Manzambi marca el segundo tanto de su selección ante Canadá.",
+      "link": "https://elpais.com/deportes/mundial-futbol/2026-06-24/suiza-vence-a-canada-termina-primera-del-grupo-b-y-crea-una-estrella-johan-manzanbi.html",
+      "pubDate": "Wed, 24 Jun 2026 22:16:33 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/WW7QAYGKHVOTDBIPERS7KGGY5E.jpg?auth=8d82bee8125fad0dece419fab3714931e96d40399333d715fa479cb8bcea1343"
+    },
+    {
+      "id": "8aaaac215c93c42d54fc",
+      "title": "El Consejo Nacional Electoral termina el escrutinio y confirma la victoria de Abelardo de la Espriella",
+      "summary": "Abelardo de la Espriella en el monumento Ventana al Mundo, en Barranquilla, el 21 de junio.",
+      "link": "https://elpais.com/america-colombia/elecciones-presidenciales/2026-06-24/el-consejo-nacional-electoral-termina-el-escrutinio-y-confirma-la-victoria-de-abelardo-de-la-espriella.html",
+      "pubDate": "Wed, 24 Jun 2026 22:14:18 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/QM3QUTC2OJEYNLJVYRWQSM5OQU.jpg?auth=db477bfc9fcfc1b77bb7297bfd08bcdb7e844357fb3036253401880c8c496e9c"
+    },
+    {
+      "id": "68dbc70116608b3c96c5",
+      "title": "Jesús G. Maestro, académico español: \"El problema de nuestra época es que hablamos de felicidad y olvidamos la libertad\"",
+      "summary": "Son dos conceptos que están íntimamente ligados. Hay una crítica a la sociedad y al consumo en su pensamiento.",
+      "link": "https://www.clarin.com/internacional/jesus-g-maestro-academico-espanol-problema-epoca-hablamos-felicidad-olvidamos-libertad_0_3ww8u9F5yh.html",
+      "pubDate": "Wed, 24 Jun 2026 22:14:01 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2024/04/26/W9gFgIxy0_1200x630__1.jpg"
+    },
+    {
+      "id": "db88259aa27bb2893552",
+      "title": "Quiniela Nacional: resultado del sorteo de la Vespertina de hoy, miércoles 24 de junio",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-vespertina-hoy-miercoles-24-junio_0_GoHegoeeH8.html",
+      "pubDate": "Wed, 24 Jun 2026 22:08:57 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2022/06/08/RxxH5cbSo1_1200x630__1.jpg"
+    },
+    {
+      "id": "ebedfb530f7d081a6735",
+      "title": "\"Nos disparan a los pies para que corramos\": Un prisionero de guerra ucraniano habla sobre la movilización forzosa",
+      "summary": "Dmitri Meleshko describió cómo los reclutadores lo captuaron camino al trabajo, lo maltrataron y cómo terminó en manos de las tropas rusas.",
+      "link": "https://actualidad.rt.com/actualidad/612859-disparan-pies-corramos-prisionero-guerra-movilizacion-forzosa?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 22:04:12 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c36c7e9ff715c4355b923.jpg"
+    },
+    {
+      "id": "570c767ff5c3ed0759ff",
+      "title": "La clave para recuperar estos órganos dañados por una enfermedad grave podría estar más cerca",
+      "summary": "Investigadores descubrieron que un fármaco bloquea una proteína que se activa en estos órganos lesionados e impide su regeneración.",
+      "link": "https://actualidad.rt.com/actualidad/612843-clave-recuperar-organos-danados-enfermedad-cerca?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 22:03:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c1f7459bf5b5b0c7fff34.jpg"
+    },
+    {
+      "id": "825f25128b730863fcfd",
+      "title": "Imputaron al ex senador Edgardo Kueider por presunto lavado de dinero mediante la compra de departamentos en Paraguay",
+      "summary": "El dinero, según la Fiscalía paraguaya, es de origen presuntamente ilícito derivado de casos de corrupción. El es legislador habría comprado seis departamentos y seis cocheras en un edificio de Asunción por un monto de 480.000 dólares.",
+      "link": "https://www.clarin.com/politica/imputaron-ex-senador-edgardo-kueider-presunto-lavado-dinero-mediante-compra-departamentos-paraguay_0_3WAnlVnEqo.html",
+      "pubDate": "Wed, 24 Jun 2026 22:02:56 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2025/07/30/Xk3nIJ962_1200x630__1.jpg"
+    },
+    {
+      "id": "428c4e3675c10e13969d",
+      "title": "Nueva película de ciencia ficción junta a Glen Powell y Craig Gillespie",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La nueva película de ciencia ficción Homewreckers acaba de dar un paso importante. Glen Powell ya estaba vinculado al proyecto desde hace tiempo, pero ahora todo apunta a que Craig Gillespie , director de Supergirl, será el encargado de ponerse detrás de las cámaras. La combinación resulta especialmente llamativa porque une a una de las estrellas más cotizadas de Hollywood con un cineasta capaz de moverse entre géneros muy distintos. Y, curiosamente, esta colaboración llega incluso antes de que se estrene la esperada aventura de la heroína de DC. Glen Powell sigue construyendo una carrera imparable con esta película de ciencia ficción Hay actores que parecen aparecer de la nada y convertirse en imprescindibles. Glen Powell lleva unos años demostrando que pertenece a esa categoría. Después de llamar la atención en Top Gun: Maverick, terminó de consolidarse gracias a éxitos tan diferentes como Twisters o la comedia romántica Anyone But You. Glen Powell Lo interesante de su trayectoria es que no se ha conformado con repetir fórmula. Durante 2026 lo hemos visto explorar registros distintos, participando en proyectos que van desde el thriller hasta la animación. Incluso ha puesto voz a Fox McCloud en Super Mario Galaxy, una elección que pocos habrían imaginado hace apenas unos años. Mientras se prepara para liderar The Great Beyond, la nueva producción de J.J. Abrams, Powell también mantiene otro proyecto especialmente intrigante en su agenda. Ese proyecto es precisamente Homewreckers, una película de ciencia ficción que lleva tiempo despertando curiosidad dentro de la industria. Craig Gillespie negocia dirigir Homewreckers Según las últimas informaciones, Craig Gillespie se encuentra en negociaciones para dirigir Homewreckers para Legendary Pictures. El cineasta australiano ya tiene experiencia demostrando que puede convertir propuestas arriesgadas en películas con personalidad propia. Su filmografía es cualq",
+      "link": "https://www.cinemascomics.com/pelicula-de-ciencia-ficcion-powell-gillespie/",
+      "pubDate": "Wed, 24 Jun 2026 22:01:48 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/06/Glen-Powell.jpg"
+    },
+    {
+      "id": "1169bdcb6a955725e60d",
+      "title": "El caso de Natalia Villalba, la modelo colombiana hallada muerta en una valija: su últimas conversaciones con su madre y una amiga",
+      "summary": "La modelo fue hallada muerta de una valija en un apartamento de Bogotá y el crimen causó conmoción.",
+      "link": "https://www.clarin.com/internacional/caso-natalia-villalba-modelo-colombiana-hallada-muerta-valija-ultimas-conversaciones-madre-amiga_0_2eC1uRXHA8.html",
+      "pubDate": "Wed, 24 Jun 2026 22:01:23 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/06/24/f1flU_mFL_1200x630__1.jpg"
+    },
+    {
+      "id": "3fec1198dba152ccfe2e",
+      "title": "Donó sus tierras para crear un parque público, pero la ciudad las vendió por US$15 millones para construir un centro de datos",
+      "summary": "Un agricultor cedió 35 hectáreas con la condición de que se destinaran a un espacio recreativo para niños, pero décadas después terminaron en manos de un desarrollador privado. Cómo fue posible que un terreno donado para uso comunitario acabara destinado a un centro de datos.",
+      "link": "https://www.clarin.com/internacional/dono-tierras-crear-parque-publico-ciudad-vendio-us15-millones-construir-centro-datos_0_P61oCLuqwY.html",
+      "pubDate": "Wed, 24 Jun 2026 22:00:58 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/06/22/fa_GsuPM0_1200x630__1.jpg"
+    },
+    {
+      "id": "ae9ce31c27819ef4aee2",
+      "title": "Otra polémica para Tesla: una mujer murió cuando un auto que utilizaba asistencia a la conducción se estrelló contra su casa en Texas",
+      "summary": "La víctima, de 76 años, estaba en la sala de su vivienda cuando recibió el impacto. El conductor aseguró que el vehículo se desvió mientras utilizaba un sistema automatizado de asistencia al manejo.",
+      "link": "https://www.clarin.com/estados-unidos/polemica-tesla-mujer-murio-auto-utilizaba-asistencia-conduccion-estrello-casa-texas_0_nYpUHAgwuA.html",
+      "pubDate": "Wed, 24 Jun 2026 22:00:58 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/06/24/ZwErSKYz-_1200x630__1.jpg"
+    },
+    {
       "id": "e59c883f9b3bb8acad7e",
       "title": "Lamine Yamal apunta al cielo",
       "summary": "Lamine Yamal celebra su gol ante Arabia Saudí.",
@@ -91,8 +342,38 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/22/6a3963615e2cd.jpeg"
     },
     {
+      "id": "f280152126de5f9961aa",
+      "title": "Adiós a Miguel Ángel Muñoz, el gran divulgador de la historia del arte en la Argentina",
+      "summary": "La Asociación Amigos del Museo Nacional de Bellas Artes rindió homenaje a Miguel Ángel Muñoz, uno de los docentes más queridos y respetados. Durante casi tres décadas compartió sus conocimientos en cursos que se volvieron una referencia para quienes buscaban formarse en historia del arte. Su legado continuará a través de una nueva beca destinada a ampliar el acceso a la educación artística.",
+      "link": "https://www.clarin.com/cultura/adios-miguel-angel-munoz-gran-divulgador-historia-arte-argentina_0_woEX7XbeQ7.html",
+      "pubDate": "Wed, 24 Jun 2026 22:00:19 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/06/24/n4OJW2jzF_1200x630__1.jpg"
+    },
+    {
+      "id": "37deaa07b043269bd1f3",
+      "title": "Bosnia-Herzegovina vence 3-1 a Catar y lo elimina del Mundial",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/612881-bosnia-herzegovina-eliminar-catar-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 21:58:04 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "fb9d36686b9a2a91bb6c",
+      "title": "Marruecos no puede con un Haití increíble",
+      "summary": "Sigue el minuto a minuto del Marruecos - Haití en directo",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/24/01-0117-20260624-1057-1327.html",
+      "pubDate": "Wed, 24 Jun 2026 21:53:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/17823307461918.jpeg"
+    },
+    {
       "id": "0e5b8bfa0c60f86f1b04",
-      "title": "¡Colosal Valencia!",
+      "title": "¡Colosal Valencia campeón!",
       "summary": "Los jugadores del Valencia Basket celebrando el título de Liga.",
       "link": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/24/colosal-valencia-aplasta-barca-conquista-segunda-liga-historia.html",
       "pubDate": "Wed, 24 Jun 2026 21:49:16 +0200",
@@ -101,8 +382,48 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c3d55dff8b.jpeg"
     },
     {
+      "id": "f2ee306aedc323a30d0e",
+      "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, miércoles 24 de junio",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-miercoles-24-junio_0_EKsWmxYHnW.html",
+      "pubDate": "Wed, 24 Jun 2026 21:48:32 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/09/07/7CL7ed_nH_1200x630__1.jpg"
+    },
+    {
+      "id": "4595bdba0042b6b82387",
+      "title": "Trump pide 672 millones de dólares para frenar el programa nuclear iraní",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/612880-trump-pedir-millones-dolares-frenar-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 21:47:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "9f6c466f42767e4b4d77",
+      "title": "Según un informe, el gasoducto Néstor Kirchner permitió un ahorro de más de US$ 9.000 millones en tres años",
+      "summary": "Ese monto equivale a tres veces lo que se invirtió en la obra. Fue pensado para reducir la dependencia energética.",
+      "link": "https://www.clarin.com/economia/informe-gasoducto-nestor-kirchner-permitio-ahorro-us-9000-millones-anos_0_VJqxg8Rbc7.html",
+      "pubDate": "Wed, 24 Jun 2026 21:45:12 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2023/06/20/-VxCrttQ__1200x630__1.jpg"
+    },
+    {
+      "id": "224f55670b48de7b0cb0",
+      "title": "VIDEO: Jefe de la OTAN llena a Trump de elogios y hasta lleva infografías de sus logros a la Casa Blanca",
+      "summary": "El secretario general de la OTAN, Mark Rutte, destacó este miércoles el aumento en defensa que dedican ahora los europeos y los canadienses producto de la \"presión\" del presidente de EE.UU., Donald Trump. En plena conferencia de prensa se levantó para mostrar los gráficos que lo prueban, al tiempo que lo elogió en otros ámbitos, como en creación de empleos. \"Desde [Dwight] Eisenhower no se lograba que los europeos igualaran su presupuesto en defensa con los EE.UU.\", aseguró.",
+      "link": "https://actualidad.rt.com/actualidad/612875-video-jefe-otan-banar-trump-elogios?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 21:33:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c4d3259bf5b3517155fc6.jpg"
+    },
+    {
       "id": "c9a084cd85967a8782a9",
-      "title": "La cuenta atrás para el regreso de Conor McGregor",
+      "title": "La cuenta atrás para el regreso de McGregor",
       "summary": "Conor McGregor, en una imagen de archivo.",
       "link": "https://www.marca.com/combates-ufc/2026/06/24/cuenta-atras-regreso-conor-mcgregor.html",
       "pubDate": "Wed, 24 Jun 2026 21:32:21 +0200",
@@ -111,11 +432,21 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/09/69ff212cc77ac.jpeg"
     },
     {
+      "id": "e1bb058c0ec6de789bf3",
+      "title": "Trump dice qué sería \"inaceptable\" en un acuerdo con Irán",
+      "summary": "De acuerdo con el mandatario, nunca permitiría que Teherán imponga esa condición.",
+      "link": "https://actualidad.rt.com/actualidad/612877-trump-dice-le-seria-inaceptable?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 24 Jun 2026 21:30:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c46eae9ff71580d50b906.jpg"
+    },
+    {
       "id": "ca1823b45400f45a646b",
       "title": "Así está el clima en Miami, a solo una hora del duelo entre Escocia y Brasil: ¿se juega?",
-      "summary": "El encuentro más importante y atractivo de este miércoles 24 de junio en el Mundial 2026 es el de Escocia vs. Brasil por la tercera fecha del Grupo C . Sin embargo, hay un factor que entra en juego, a solo una hora del inicio del partido. En Miami, donde se disputará el duelo, hay un diluvio y una tormenta eléctrica que podría afectar el horario de inicio. Atención: a horas del duelo entre Escocia y Brasil en Miami, así está el clima. ¡Diluvio y tormenta eléctrica! 🎬 #ESPNMundial 📺 Mirá los mejores partidos de la #FIFAWorldCup por ESPN, en el Plan Premium de #DisneyPlus pic.twitter.com/rRZPZEVRj0 SportsCenter (@SC_ESPN) June 24, 2026 El partido tendrá lugar en el Hard Rock Stadium , un multideportivo ubicado en la ciudad de Miami Gardens, al norte de Miami. La gran novedad del encuentro es el regreso de Neymar, tras la lesión con la que llegó a la Copa del Mundo . El crack se perdió los dos primeros partidos del conjunto nacional y hoy sí estará disponible para sumar sus primeros minutos y empezar su cuarto Mundial. El Diez empezará el partido desde el banco de suplentes , según confirmó Ancelotti en la previa al duel oante Escocia. En caso de que el duelo entre Brasil y Escocia se atrase, también se atrasaría el partido entre Marruecos y Haití, ya que al ser la última fecha de la Fase de Grupos, deben jugar todos en simultáneo.",
+      "summary": "El encuentro más importante y atractivo de este miércoles 24 de junio en el Mundial 2026 es el de Escocia vs. Brasil por la tercera fecha del Grupo C . Sin embargo, hay un factor que entra en juego, a solo una hora del inicio del partido. En Miami, donde se disputará el duelo, hay un diluvio y una tormenta eléctrica que podría afectar el horario de inicio. Atención: a horas del duelo entre Escocia y Brasil en Miami, así está el clima. ¡Diluvio y tormenta eléctrica! 🎬 #ESPNMundial 📺 Mirá los mejores partidos de la #FIFAWorldCup por ESPN, en el Plan Premium de #DisneyPlus pic.twitter.com/rRZPZEVRj0 SportsCenter (@SC_ESPN) June 24, 2026 El partido tendrá lugar en el Hard Rock Stadium , un multideportivo ubicado en la ciudad de Miami Gardens , al norte de Miami. La gran novedad del encuentro es el regreso de Neymar, tras la lesión con la que llegó a la Copa del Mundo . El crack se perdió los dos primeros partidos del conjunto nacional y hoy sí estará disponible para sumar sus primeros minutos y empezar su cuarto Mundial. El Diez empezará el partido desde el banco de suplentes y podría ingresar en el segundo tiempo si el equipo lo necesita. En caso de que el duelo entre Brasil y Escocia se atrase por el mal clima, también se atrasaría el partido entre Marruecos y Haití , ya que al ser la última fecha del Grupo C, deben jugar todos en simultáneo. Según muestran los servicios meteorológicos, en este momento en Miami está parcialmente nuboso y hay una posibilidad de 70% de precipitaciones. Brasil y Escocia se enfrentaron en 10 ocasiones, Brasil ganó 8 partidos y empataron 2 . El conjunto escocés buscará hacer historia y lograr su primer triunfo que lo ponga también en la siguiente etapa del Mundial.",
       "link": "https://www.lanacion.com.ar/deportes/asi-esta-el-clima-en-miami-a-solo-una-hora-del-duelo-entre-escocia-y-brasil-se-juega-nid24062026/",
-      "pubDate": "Wed, 24 Jun 2026 21:13:52 +0000",
+      "pubDate": "Wed, 24 Jun 2026 21:18:26 +0000",
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/MCDI2ZCGTNFO5FKL4GYHELJPEI.jpg?auth=ed930c8863c4a9eff416f84b5f68214af14bded831d36435153f59bbd9b01f0f&smart=true&width=2000&height=1333"
@@ -123,12 +454,42 @@
     {
       "id": "d9bf914ad3fe6301cb35",
       "title": "Mundial 2026, en vivo: los cambios en la formación a la espera de Jordania y el cumpleaños 39 de Lionel Messi",
-      "summary": "La figura de la selección de Cabo Verde acaba de quedarse sin club y busca una nueva oportunidad. Josimar “Vozinha” Dias , el arquero protagonista de las atajadas que le dieron a su equipo un histórico empate frente a España en la fase de grupos del Mundial, terminó su contrato en la segunda división de Portugal. Así lo anunció en una entrevista, donde también admitió que le gustaría jugar en Brasil. “Estoy abierto a cualquier cosa” , sostuvo. El arquero fue consultado por el periodista Daniel Braune en su canal de YouTube Braune Esportes sobre la posibilidad de visitar el país latinoamericano . “Ahora Brasil quiere saber. ¿Tienes planes de ir después del Mundial ? ¿De visitar el país? La gente está ansiosa por saber si pasarás por allí “, preguntó Braune. “Mis compañeros -Stopíra, Kevin [Pina], Diney, Ryan [Mendes]-, casi todos hablaron de que deberíamos ir todos a Brasil unos días . Pero ya saben, independientemente de eso, somos futbolistas profesionales. Nuestro enfoque...siempre será el fútbol”, señaló. Luego, dio la noticia del fin de su contrato. “No sé cuántos días libres tendremos, sobre todo porque acabo de terminar mi contrato con mi anterior equipo , el Desportivo de Chaves, y ahora mismo no tengo nada planeado. Estoy abierto a cualquier cosa y a ver qué surge por aquí”, expresó. El arquero se encontraba hace dos años en el equipo de la segunda división portuguesa . Leé la nota completa acá La promesa, la estrella, el capitán, el salvador, el campeón, la leyenda . Lionel Messi fue todo eso y mucho más a lo largo de sus seis Mundiales. Fue, también, distintas versiones de sí mismo. El hijo que viajaba acompañado por sus padres, el joven que escuchaba a los referentes, el líder que cargó con todas las responsabilidades y el veterano que aprendió a compartirlas. Lo que nunca dejó de ser fue el futbolista alrededor del cual giró la historia reciente de la selección. El que convirtió en realidad el sueño de generaciones. El que siempre cumple con la camiseta ",
+      "summary": "Suiza derrotó a Canadá por 2-1 en Vancouver y lo desplazó del primer puesto en el grupo B. Así, el equipo helvético se quedará en esa ciudad canadiense y tendrá ocho días de descanso. Los de América del Norte, en tanto, perderán el factor campo, tan importante en un Mundial. Y jugarán desde ahora sin el aliento de sus hinchas. Bosnia, que venció a Qatar, terminó tercero en la zona y deberá esperar al fin de semana para saber si le alcanza para estar en dieciseisavos de final. El sprint final de los canadienses no les alcanzó para remontar un déficit de dos goles. La siesta que se durmieron al comienzo de la segunda parte terminó siendo letal. Coincidió con la mejor versión de los suizos, que encontraron los goles en dos jugadas sin demasiada elaboración. De un centro al segundo palo de Manzambi apareció Vargas para definir. Y, tras un pelotazo frontal, Embolo soportó la marca de dos defensores, habilitó a Manzambi y este convirtió. Jesse March, el DT canadiense, movió el banco y su equipo creció. Encontró el gol con Promise David, y acorraló a Suiza con más voluntad que fútbol. Nunca tuvo demasiada elaboración. Lo suyo fueron los centros y la carga aérea. Incluso vía saques laterales que incomodaran a la segura defensa suiza. Al final, no hubo premio mayor para los canadienses, que pasaron como segundos. Un resultado que hasta sus hinchas más optimistas hubieran festejado antes del Mundial. Leé la nota completa acá La figura de la selección de Cabo Verde acaba de quedarse sin club y busca una nueva oportunidad. Josimar “Vozinha” Dias , el arquero protagonista de las atajadas que le dieron a su equipo un histórico empate frente a España en la fase de grupos del Mundial, terminó su contrato en la segunda división de Portugal. Así lo anunció en una entrevista, donde también admitió que le gustaría jugar en Brasil. “Estoy abierto a cualquier cosa” , sostuvo. El arquero fue consultado por el periodista Daniel Braune en su canal de YouTube Braune Esportes sobre la posibil",
       "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-los-cambios-en-la-formacion-a-la-espera-de-jordania-y-el-cumpleanos-39-de-nid24062026/",
-      "pubDate": "Wed, 24 Jun 2026 21:12:10 +0000",
+      "pubDate": "Wed, 24 Jun 2026 21:18:02 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/Y3VMLWV4TBEDZN347K7WU5G77A.JPG?auth=1ae150ef802a6761f601a36c9f4b72f5f774936a7c469f1bce88997bf3347205&smart=true&width=1721&height=1291"
+    },
+    {
+      "id": "e0f4e6a64ade0a83c36d",
+      "title": "Es pediatra y creó el primer restaurante atendido por jóvenes neurodivergentes para ayudar a su hija a insertarse laboralmente",
+      "summary": "¿Qué va a hacer tu hijo cuando cumpla 18 años? Esa pregunta atraviesa como telón de fondo la paternidad de quienes tienen hijos neurodivergentes, profundizándose a medida que los chicos crecen. En el caso de Fernando Polack, médico pediatra infectólogo que lideró la evaluación de la vacuna contra el COVID de Pfizer a nivel global, esta preocupación comenzó a hacerse incluso más palpable tres años antes de que Julia, su hija que hoy tiene 27 años, termine la secundaria. Y su respuesta -creativa y a la medida de las necesidades de Julia- fue Alamesa, el primer restaurante de la Argentina completamente gestionado por jóvenes neurodivergenes. Un modelo que hoy se replica en otras comunidades. “Yo tenía la preocupación que tenemos todos los padres de chicos con neurodivergencias, que es qué va a hacer tu hija o hijo en el momento en que se caiga esa estructura simbólica que brinda la sociedad (muchas veces vía el estado, otras veces vía privado), que le permite a los chicos coexistir con el sistema formal de educación hasta que llegan a los 18 años. En ese momento se baja el telón y la gente se tiene que arreglar por sí sola”, cuenta Fernando, de 59 años, papá de Julia y de Leandro, tres años mayor. “Sabía que ese momento era muy difícil porque lo había anticipado con las celebraciones en torno a las fiestas de fin de secundaria de Leandro. Esas situaciones en el contexto de chicos neurodivergentes son de mucha angustia y mucha incertidumbre”, agrega Fernando, profesional estrechamente vinculado a la medicina -profesor de pediatría en las universidades Johns Hopkins y Vanderbilt (Estados Unidos) y fundador y director de la Fundación Infant, dedicada al estudio de las enfermedades pediátricas vinculadas a la pobreza-, que construyó un camino para acompañar a Julia desde su rol de padre, estando atento a sus necesidades. “Entendí que una manera en que podía ayudar a Julia en su inserción social era siendo yo parte activa de esa construcción, tratando de pensar lo que ella ",
+      "link": "https://www.lanacion.com.ar/sabado/es-pediatra-y-creo-el-primer-restaurante-atendido-por-jovenes-neurodivergentes-para-ayudar-a-su-hija-nid20062026/",
+      "pubDate": "Wed, 24 Jun 2026 21:16:59 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/WRNBXW5BVNASXE4X5NZCYXRVN4.jpg?auth=d6682bdc45e67b9905ad7fba16709d38fdb9a3550d01ce7959a31f869b0a0e33&smart=true&width=2000&height=1334"
+    },
+    {
+      "id": "6d2422e8ac33fa72373d",
+      "title": "Brasil vs. Escocia, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+      "summary": "Estos son los jugadores confirmados por el DT Steve Clarke para enfrentarse a Brasil: Angus Gunn; Nathan Patterson, Scott McKenna, Jack Hendry y Andrew Robertson; Ben Gannon Doak, Kenny McLean, Lewis Ferguson y John McGinn; Scott McTominay y Lawrence Shankland. 🔢 Your Scotland team 🏴󠁧󠁢󠁳󠁣󠁴󠁿 #SCOBRA | #FIFAWorldCup pic.twitter.com/Pvjd0m9c8x Scotland National Team (@ScotlandNT) June 24, 2026 Carlo Ancelotti definió estos once jugadores para el encuentro de cierre del grupo C contra Escocia: Alisson; Danilo, Marquinhos, Gabriel Magalhaes y Douglas Santos; Casemiro, Lucas Paquetá y Bruno Guimaraes - Rayan, Matheus Cunha y Vinicius. Neymar aparece en el banco de suplentes. BRASIL DEFINIDO! 🇧🇷 Confira os 11 nomes escalados pelo Mister para enfrentar a Escócia nesta quarta-feira (24), às 19h (Brasília), pela última rodada da fase de grupos da Copa do Mundo FIFA 2026. 📺 TV Globo / GE TV / SPORTV / Cazé TV / SBT / NSports 🏟️ Miami Gardens… pic.twitter.com/Vj9rsoqybj brasil (@CBF_Futebol) June 24, 2026 El encuentro entre Brasil y Escocia podría sufrir demoras, a causa de las intensas lluvias y una previsión de tormentas eléctricas en las cercanías del Hard Rock Stadium de Miami Gardens. La FIFA , el máximo rector del fútbol mundial, analiza por estas horas cambiar la definición por penales en pleno desarrollo del Mundial 2026 . La propuesta consiste en reducir el procedimiento previo a la definición de los equipos y sortear con la moneda una única vez . Actualmente, se realizan dos lanzamientos del metal redondo: uno para elegir el arco, que generalmente se relaciona con la mejor ubicación de cada hinchada, y un segundo para determinar quién patea primero. El objetivo central de la idea es evitar que un mismo equipo gane en las dos instancias de sorteo y así acumule ventajas antes de patear . El cambio altera así la histórica dinámica de los dos lanzamientos de moneda al eliminar la posibilidad de que la suerte beneficie por partida doble al capitán del mismo equipo. “Ahora v",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/brasil-vs-escocia-en-vivo-por-el-mundial-2026-nid24062026/",
+      "pubDate": "Wed, 24 Jun 2026 21:15:40 +0000",
       "source": "La Nacion",
       "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/Y3VMLWV4TBEDZN347K7WU5G77A.JPG?auth=1ae150ef802a6761f601a36c9f4b72f5f774936a7c469f1bce88997bf3347205&smart=true&width=1721&height=1291"
+      "image": "https://resizer.glanacion.com/resizer/v2/XXNBKUXUP5CSRJZHCVLAPUK6EQ.jpg?auth=9d477973511ec7c654e0b0537deba254b8ecf5b050db96d18ef85afc9dc2b585&smart=true&width=4899&height=3266"
+    },
+    {
+      "id": "96e404ad727f638150b7",
+      "title": "Así está la tabla de posiciones del grupo de Brasil, Marruecos y Escocia del Mundial 2026",
+      "summary": "El Grupo C del Mundial Estados Unidos-México-Canadá 2026 se define este miércoles con tres seleccionados en puja por los dos boletos a 16avos de final -Brasil, Marruecos y Escocia- y otro que ya no quedó afuera de la pelea -Haití-, pero quiere despedirse a lo grande en su vuelta a las copas del Mundo. Todos los partidos se pueden seguir en vivo por canchallena.com con estadísticas actualizadas al instante. Además, se puede consultar las tablas de posiciones y cómo está el cuadro minuto a minuto. Hay dos partidos en simultáneo a las 19 (hora argentina): los brasileños enfrentan a los escoceses en el Hard Rock Stadium de Miami mientras que los marroquíes hacen lo propio con los haitianos en Atlanta. El combinado dirigido por Carlo Ancelotti, con Neymar Jr. disponible por primera vez, va por su segunda victoria en el juego que arbitra el mexicano César Ramos y se transmite en vivo por TV a través de Telefé y DSports, canales que se pueden sintonizar online en Mi Telefé, DGO, Flow y Telecentro Play; y en las plataformas digitales Disney+ Premium y Paramount+. La última vez que ambos seleccionados se vieron las caras fue el 27 de marzo de 2011, en el marco de un amistoso internacional. En aquella oportunidad, en un encuentro disputado en el Emirates Stadium de Londres, Inglaterra, Brasil se quedó con la victoria por 2 a 0 con un doblete de Neymar Jr. A lo largo de la historia de los Mundiales se cruzaron cuatro veces y en tres ganaron los sudamericanos (4 a 1 en España 1982, 1 a 0 en Italia 1990 y 2 a 1 en Francia 1998), mientras que en la restante, en Alemania 1974, igualaron 0 a 0. La tabla de posiciones la lideran la Canarinha y los africanos con cuatro puntos cada uno producto de un triunfo y un empate en el partido entre sí. La salvedad entre ellos es que los sudamericanos se ubican primeros por tener mejor diferencia de goles (+3 contra +1). Ambos se están quedando con los dos boletos a la próxima etapa. Los europeos, por su parte, marchan terceros con tres unidade",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-la-tabla-de-posiciones-del-grupo-de-brasil-marruecos-y-escocia-del-mundial-2026-nid24062026/",
+      "pubDate": "Wed, 24 Jun 2026 21:15:21 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/L2GISCYHF5GERCE6MPL6XSLRZM.jpg?auth=4a271d6ca1063976c5b94db73c42efbf02f161492f87763074c206f95caa708b&smart=true&width=2000&height=1334"
     },
     {
       "id": "66638385f6d03bf61425",
@@ -141,14 +502,14 @@
       "image": "https://resizer.glanacion.com/resizer/v2/SVD5NPXUBREBNJRHUNXF53YIAU.jpg?auth=09180694f65845c4264b4c0f1b3f6ab51facdb0cf0a00a280a334c09382d8869&smart=true&width=1200&height=800"
     },
     {
-      "id": "96e404ad727f638150b7",
-      "title": "Así está la tabla de posiciones del grupo de Brasil, Marruecos y Escocia del Mundial 2026",
-      "summary": "El Grupo C del Mundial Estados Unidos-México-Canadá 2026 se define este miércoles con tres seleccionados en puja por los dos boletos a 16avos de final -Brasil, Marruecos y Escocia- y otro que ya no quedó afuera de la pelea -Haití-, pero quiere despedirse a lo grande en su vuelta a las copas del Mundo. Todos los partidos se pueden seguir en vivo por canchallena.com con estadísticas actualizadas al instante. Además, se puede consultar las tablas de posiciones y cómo está el cuadro minuto a minuto. Hay dos partidos en simultáneo a las 19 (hora argentina): los brasileños enfrentan a los escoceses en el Hard Rock Stadium de Miami mientras que los marroquíes hacen lo propio con los haitianos en Atlanta. La tabla de posiciones la lideran la Canarinha y los africanos con cuatro puntos cada uno producto de un triunfo y un empate en el partido entre sí. La salvedad entre ellos es que los sudamericanos se ubican primeros por tener mejor diferencia de goles (+3 contra +1). Ambos se están quedando con los dos boletos a la próxima etapa. Los europeos, por su parte, marchan terceros con tres unidades y están accediendo como uno de los mejores terceros a 16avos de final. Los centroamericanos cedieron ante Marruecos y Brasil y ya no tienen chance alguna de avanzar porque aunque alcancen a Escocia porque perdieron el duelo entre sí y el sistema de desempate olímpico los ubicaría por debajo. El equipo que obtenga el primer puesto en el Grupo C, enfrentará en 16avos al segundo del F -Países Bajos, Japón o Suecia) el lunes 29 de junio en el NRG Stadium de Houston. El que lo haga como escolta, chocará con el líder de esa misma zona también el 29 de junio pero en Monterrey. Si el que termina tercero se clasifica como uno de los ocho mejores de esa posición, las opciones de rivales son varias y dependen de cómo se ubique en la tabla. Las alternativas son alguno de los líderes de los grupos E (Alemania); I (Francia o Noruega); y A (México). Las llaves del Mundial, en vivo",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-la-tabla-de-posiciones-del-grupo-de-brasil-marruecos-y-escocia-del-mundial-2026-nid24062026/",
-      "pubDate": "Wed, 24 Jun 2026 21:10:18 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/L2GISCYHF5GERCE6MPL6XSLRZM.jpg?auth=4a271d6ca1063976c5b94db73c42efbf02f161492f87763074c206f95caa708b&smart=true&width=2000&height=1334"
+      "id": "72e1bb23cd71f9696f11",
+      "title": "Trump vuelve a arremeter contra España: “es un desastre” como socio de la OTAN",
+      "summary": "El secretario general de la OTAN, Mark Rutte, a mediados de mayo en Helsingborg (Suecia).",
+      "link": "https://elpais.com/internacional/2026-06-24/rutte-irrita-a-meloni-al-dar-la-razon-a-trump-en-su-disputa-por-el-uso-de-las-bases-militares.html",
+      "pubDate": "Wed, 24 Jun 2026 21:11:10 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4V4JQ5C4DBNWRIAR6QF42MVQOI.jpg?auth=18b95c76c0dc8c6c422bb637fc7a01c3ddd75178640a4ef3039dd7ce2584b023"
     },
     {
       "id": "840dac795dc44e5b9063",
@@ -173,7 +534,7 @@
     {
       "id": "df24327cd66b3de01c06",
       "title": "El dólar oficial llegó a $1500 en algunos bancos y el blue alcanzó su valor más alto del año",
-      "summary": "Este miércoles el dólar oficial mantuvo la tendencia alcista de las últimas ruedas y en algunos bancos se llegó a vender por encima de los $1500. En tanto, el blue trepó $25 y se ubicó en el valor más alto del año. El dólar oficial minorista se ubicó en los $1495 para la venta en el Banco Nación , tras presentar una suba de $5 (+0,3%). El precio promedio de los bancos rondó $1498,04, de acuerdo con el relevamiento diario de entidades financieras que realiza el Banco Central (BCRA). De todos modos, al observar a cuánto cotizó la moneda extranjera en distintos bancos, en algunos casos se ofreció a $1500. En el Supervielle cerró a $1507,50 para la venta y fue el valor más alto de la jornada. La cotización mayorista sumó $7,96 (0,54%) y llegó a $1478,75. En lo que va de junio, también acumula una suba de 5%. No presentaba valores similares desde hace seis meses: el 2 de enero había tocado los $1475. Así se comprime la brecha con el techo de la banda cambiaria, establecido hoy en $1797,67, hasta el 17%. El dólar blue fue uno de los tipos de cambio que más aumentó en el día. En la City Porteña se pudo encontrar a $1530 para la venta, $25 más que el cierre del día anterior (+1,66%). Con estos valores, alcanzó su valor más alto del año , dado que la última vez que se encontró en estos niveles fue a fines de 2025. El dólar contado con liquidación (CCL) saltó $27,09 (1,7%) hasta los $1580,44, lo que lo convirtió en la cotización más cara del mercado cambiario. Por su parte, el dólar MEP se mantuvo estable y apareció en las pantallas a $1505,75. Martín Polo, jefe de estrategia en Cohen Aliados Financieros, observó que la presión que viene teniendo el dólar a nivel local es porque “ se está reactivando la demanda y el flujo de dólares financieros estaría menguando ”. Y agregó: “A nivel internacional, el dólar se está fortaleciendo , empujado por la expectativa de que la Fed suba la tasa de interés”. Andrés Reschini, titular de F2 Soluciones Financieras, hizo hincapié en el fort",
+      "summary": "E l dólar oficial mantuvo este miércoles la tendencia alcista de las últimas ruedas y en algunos bancos se llegó a vender por encima de los $1500. En tanto, el blue trepó $25 y se ubicó en el valor más alto del año. El dólar oficial minorista se ubicó en los $1495 para la venta en el Banco Nación , luego de presentar una suba de $5 (+0,3%). El precio promedio de los bancos rondó $1498,04, de acuerdo con el relevamiento diario de entidades financieras que realiza el Banco Central (BCRA). De todos modos, al observar a cuánto cotizó la moneda extranjera en distintos bancos, en algunos casos se ofreció a $1500. En el Supervielle cerró a $1507,50 para la venta y fue el valor más alto de la jornada. La cotización mayorista sumó $7,96 (0,54%) y llegó a $1478,75. En lo que va de junio, también acumuló una suba de 5%. No presentaba valores similares desde hace seis meses: el 2 de enero había tocado los $1475. Así se comprime la brecha con el techo de la banda cambiaria, establecido hoy en $1797,67, hasta 17%. El dólar blue fue uno de los tipos de cambio que más aumentó en el día. En la City porteña se pudo encontrar a $1530 para la venta, $25 más que el cierre del día anterior (+1,66%). Así, alcanzó su valor más alto del año , dado que la última vez que se encontró en estos niveles fue a fines de 2025. El dólar contado con liquidación (CCL) saltó $27,09 (1,7%) hasta los $1580,44, lo que lo convirtió en la cotización más cara del mercado cambiario. El dólar MEP se mantuvo estable y cerró a $1505,75. Martín Polo, jefe de estrategia en Cohen Aliados Financieros, observó que la presión que viene teniendo el dólar a nivel local es porque “ se está reactivando la demanda y el flujo de dólares financieros estaría menguando ”. Y agregó: “A nivel internacional, el dólar se está fortaleciendo , empujado por la expectativa de que la Fed suba la tasa de interés”. Andrés Reschini, titular de F2 Soluciones Financieras, hizo hincapié en el fortalecimiento del dólar en el mundo . “Desde pri",
       "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-ya-se-vende-a-1500-en-algunos-bancos-nid24062026/",
       "pubDate": "Wed, 24 Jun 2026 21:09:24 +0000",
       "source": "La Nacion",
@@ -189,26 +550,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/IEU6HDZIMRGVHLTNNW2PMHSSDI.jpeg?auth=04d66e5d777575af1e8f4e8394e62f5db69e7ed1904c2b45d4e73cbf3099d75d&smart=true&width=1536&height=1024"
-    },
-    {
-      "id": "5ee4de7098ffc5424dc6",
-      "title": "Regla de expulsión por taparse la boca tiene primera polémica en el Mundial",
-      "summary": "Jude Bellingham terminó el partido, pese a haber protagonizado una escena similar a la de Miguel Almirón.",
-      "link": "https://actualidad.rt.com/actualidad/612866-regla-expulsion-taparse-boca-polemica-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 21:07:55 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c448359bf5b1ce248c9ba.jpg"
-    },
-    {
-      "id": "72e1bb23cd71f9696f11",
-      "title": "Trump vuelve a arremeter contra España: “es un desastre” como socio de la OTAN",
-      "summary": "El secretario general de la OTAN, Mark Rutte, a mediados de mayo en Helsingborg (Suecia).",
-      "link": "https://elpais.com/internacional/2026-06-24/rutte-irrita-a-meloni-al-dar-la-razon-a-trump-en-su-disputa-por-el-uso-de-las-bases-militares.html",
-      "pubDate": "Wed, 24 Jun 2026 21:07:51 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/4V4JQ5C4DBNWRIAR6QF42MVQOI.jpg?auth=18b95c76c0dc8c6c422bb637fc7a01c3ddd75178640a4ef3039dd7ce2584b023"
     },
     {
       "id": "58f8e2d55173d372945c",
@@ -322,26 +663,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/I65C2PVC35DYHAH2KGKXAHJ4MQ.jpeg?auth=aeade3e2594d7c7fea9a471b6a59d4289063acbc9bad889def864ae2910d27ce&smart=true&width=1536&height=1024"
     },
     {
-      "id": "6d2422e8ac33fa72373d",
-      "title": "Brasil vs. Escocia, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
-      "summary": "Estos son los jugadores confirmados por el DT Steve Clarke para enfrentarse a Brasil: Angus Gunn; Nathan Patterson, Scott McKenna, Jack Hendry y Andrew Robertson; Ben Gannon Doak, Kenny McLean, Lewis Ferguson y John McGinn; Scott McTominay y Lawrence Shankland. 🔢 Your Scotland team 🏴󠁧󠁢󠁳󠁣󠁴󠁿 #SCOBRA | #FIFAWorldCup pic.twitter.com/Pvjd0m9c8x Scotland National Team (@ScotlandNT) June 24, 2026 Carlo Ancelotti definió estos once jugadores para el encuentro de cierre del grupo C contra Escocia: Alisson; Danilo, Marquinhos, Gabriel Magalhaes y Douglas Santos; Casemiro, Lucas Paquetá y Bruno Guimaraes - Rayan, Matheus Cunha y Vinicius. Neymar aparece en el banco de suplentes. BRASIL DEFINIDO! 🇧🇷 Confira os 11 nomes escalados pelo Mister para enfrentar a Escócia nesta quarta-feira (24), às 19h (Brasília), pela última rodada da fase de grupos da Copa do Mundo FIFA 2026. 📺 TV Globo / GE TV / SPORTV / Cazé TV / SBT / NSports 🏟️ Miami Gardens… pic.twitter.com/Vj9rsoqybj brasil (@CBF_Futebol) June 24, 2026 El encuentro entre Brasil y Escocia podría sufrir demoras, a causa de las intensas lluvias y una previsión de tormentas eléctricas en las cercanías del Hard Rock Stadium de Miami Gardens. La FIFA , el máximo rector del fútbol mundial, analiza por estas horas cambiar la definición por penales en pleno desarrollo del Mundial 2026 . La propuesta consiste en reducir el procedimiento previo a la definición de los equipos y sortear con la moneda una única vez . Actualmente, se realizan dos lanzamientos del metal redondo: uno para elegir el arco, que generalmente se relaciona con la mejor ubicación de cada hinchada, y un segundo para determinar quién patea primero. El objetivo central de la idea es evitar que un mismo equipo gane en las dos instancias de sorteo y así acumule ventajas antes de patear . El cambio altera así la histórica dinámica de los dos lanzamientos de moneda al eliminar la posibilidad de que la suerte beneficie por partida doble al capitán del mismo equipo. “Ahora v",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/brasil-vs-escocia-en-vivo-por-el-mundial-2026-nid24062026/",
-      "pubDate": "Wed, 24 Jun 2026 20:59:22 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/EQEDQ7DLE5B33GQZTKWYWUT6TQ.jpg?auth=2eb5baa2585b85c0e8b73b797bc27d0606ee7a4e62093c2de0626e6eb38d77a6&smart=true&width=2048&height=1406"
-    },
-    {
-      "id": "9daa8c7dedad948e64db",
-      "title": "Embajada de Israel denuncia consignas y saludos nazis en un mitin en Kiev",
-      "summary": "Condenó expresiones de exaltación en pleno centro de la capital ucraniana.",
-      "link": "https://actualidad.rt.com/actualidad/612863-embajada-israel-denuncia-consignas-nazis-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:59:11 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c372f59bf5b1cfa495bc6.jpg"
-    },
-    {
       "id": "4f0817a2db10399bfa49",
       "title": "Juicio Sueños Compartidos: un testigo declaró que vio “con una caja llena de plata” a Emilio Pérsico, que negó la acusación",
       "summary": "El nombre del dirigente social Emilio Pérsico irrumpió de manera sorpresiva en el juicio oral de la causa Sueños Compartidos , este miércoles, en boca de un indignado vendedor de materiales que tuvo como cliente al programa de viviendas que dirigió la Fundación Madres de Plaza de Mayo . Alfredo Antonio García , dueño de un corralón, declaró como testigo y relató ante el Tribunal Oral Federal 7 que la fundación le postergaba los cobros una y otra vez, y que en ocasiones ni siquiera le giraba el dinero. “Para todos había efectivo. Lo vi a un tal Pérsico ahí, que llevó una caja llena de plata , y a mí me dieron cheques a 30, 60, 90 y 120 días. Y ahí me enojé”, recordó García , molesto todavía por las demoras en los pagos de aquellos años. “Les dije: ‘Esos sueños yo no los comparto con nadie’ , porque mis gastos nadie los comparte . Y menos con estos hijos de puta que no hace una mierda y se llevan el efectivo’. No entregué más nada”, siguió el comerciante. Sin embargo, contó que al tiempo fue contactado una vez más por Pablo Schoklender , quien lo convenció, según dijo, de reanudar el vínculo comercial con el programa. Le dijo que su hermano, Sergio, ya no estaba al frente del proyecto, que las cosas habían cambiado y que ahora sí recibiría los pagos. “Eran las obras finales de Tecnópolis −recordó García−, estaban haciendo los asfaltos de las calles dentro de Tecnópolis. Le mandé dos equipos de cemento de 600 bolsas cada uno; no las cobré nunca más ”, dijo. El hombre era dueño de un corralón de materiales entre Avellaneda y Lanús, a pocas cuadras de un mercado de frutas que se había montado desde el programa. La relación comercial con Sueños Compartidos nació allí, pero comenzó con el pie izquierdo. Cuando ya habían concretado algunas pocas compras, como codos y perfiles para el mercado, el secretario de Schoklender lo fue a buscar para decirle que “el doctor” −por Sergio− lo quería conocer. “Estaba de pantalón negro, remera negra, chaleco negro, botines negros, anteoj",
@@ -360,16 +681,6 @@
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/WHDFUQQXJJEOTAUVNBB6ZFUUIE.jpg?auth=57b5f384d034f5390782812a10ef0a8d5b7b738cdc7d024d6b0f4849e74eee22&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "113ae3e4461d43e121c0",
-      "title": "Messi rompe un récord que ningún futbolista quería tener en los Mundiales",
-      "summary": "El capitán de la 'Albiceleste' alcanzó una marca inédita en la historia de las Copas, aunque esta vez no se trata de un dato positivo.",
-      "link": "https://actualidad.rt.com/actualidad/612869-messi-rompe-record-ningun-futbolista?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:55:06 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c4147e9ff7153dc189976.jpg"
     },
     {
       "id": "4ae30898f83e2ff190b4",
@@ -464,27 +775,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/FQX2JENVUZEAJJZSKCASXPKWDE.jpeg?auth=56fedbd3f7e8bca2bc127d3e206903d4271791207fcf450c73237fb5350d5a6a&smart=true&width=2000&height=1333"
     },
     {
-      "id": "0276fbd3999ce57083c6",
-      "title": "Gisela Gilges, life coach, sobre la resiliencia: “No es que no te duela, es no quedarte viviendo donde la vida te golpeó”",
-      "summary": "La resiliencia no implica no sentir dolor ni atravesar una dificultad sin consecuencias. Según explicó la life coach Gisela Gilges , se trata de contar con recursos internos y externos para poder sobreponerse a una crisis y no quedar instalado en el lugar donde ocurrió el golpe. “No es que no te duela, es tener recursos para no quedarte viviendo en el lugar donde la vida te golpeó” , sostuvo Gilges, al explicar por qué, frente a una misma situación adversa, algunas personas logran volver a ponerse de pie y otras quedan paralizadas. Ver esta publicación en Instagram Una publicación compartida por GISELA GILGES (@giselagilges) Los cinco recursos para atravesar una crisis Para graficarlo, la especialista comparó en un video que publicó en su cuenta de Instagram la vida con una montaña de nieve: no es lo mismo bajarla con esquíes, bastones, antiparras, casco, ropa térmica y un profesor que hacerlo “en malla, sola, con dos tablas atadas a los pies y rezando para no caerte”. “ La montaña es la misma, la nieve es la misma y la pendiente también. Pero una persona tiene recursos para atravesarla, la otra solo tiene voluntad ”, señaló. A partir de esa idea, Gilges desarrolló lo que definió como la teoría de los cinco recursos , que —según explicó— marca la diferencia entre vencer una crisis o dejar que la crisis venza a la persona. El primero es el recurso social , que no consiste en tener muchos amigos, sino “aunque sea una persona real” a la que se pueda llamar cuando la vida duele. El segundo es el recurso emocional , es decir, la capacidad de sentir sin quedar tomado por lo que se siente. “ Mucha gente no se destruye por lo que siente, se destruye porque no sabe qué hacer con lo que siente ”, advirtió. El tercero es el recurso intelectual , vinculado a poder pensar con claridad en momentos difíciles y reconocer que “la cabeza en crisis no siempre es el mejor lugar para decidir”. Por qué la autonomía y el futuro también importan Gilges también incluyó el recurso económico ",
-      "link": "https://www.lanacion.com.ar/lifestyle/gisela-gilges-life-coach-sobre-la-resiliencia-no-es-que-no-te-duela-es-no-quedarte-viviendo-donde-la-nid22062026/",
-      "pubDate": "Wed, 24 Jun 2026 20:52:24 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/PETHDLHJNRCVVL4EJAAPWZYWCE.png?auth=2291b5c4c9b33db70be60bc44d7464be67e0dfbfd62d05bd42c64dbea9389f2d&smart=true&width=1200&height=800",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "f674608b608aeb687263",
-      "title": "Detuvieron a un hombre acusado de amenazar a Patricia Bullrich en redes sociales",
-      "summary": "El sospechoso fue detenido en Jujuy por Policía Federal. \"Renunciá ya, sino te vamos a mandar a matar\", había escrito en una red social de mensajería para amedrentar a la senadora.",
-      "link": "https://www.clarin.com/politica/detuvieron-hombre-acusado-amenazar-patricia-bullrich-redes-sociales_0_pJEaL4MAmc.html",
-      "pubDate": "Wed, 24 Jun 2026 20:50:21 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/06/24/S61ltnHR8_1200x630__1.jpg"
-    },
-    {
       "id": "827c5a45e0958f84c312",
       "title": "Francia sufre cortes de luz en el día más caluroso desde que existen registros",
       "summary": "Francia registró este miércoles su día más caluroso desde que comenzaron las mediciones en 1947, informó el servicio meteorológico nacional, superando el récord establecido apenas un día antes.",
@@ -492,17 +782,7 @@
       "pubDate": "Wed, 24 Jun 2026 20:48:02 GMT",
       "source": "BBC Mundo",
       "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b9a/live/accf0450-700d-11f1-91b6-e97e8b379747.jpg"
-    },
-    {
-      "id": "2047a675352389dfb754",
-      "title": "Escándalo en Reino Unido: más de 150 bebés y 6 madres murieron por fallos de atención \"evitables\" en maternidades",
-      "summary": "Luego de años de investigación, se reveló el aturdidor informe sobre las deficiencias en los dos principales hospitales de Nottingham. Se trata de la mayor revisión de maternidad en la historia del Servicio Nacional de Salud británico.",
-      "link": "https://www.clarin.com/internacional/escandalo-reino-unido-150-bebes-6-madres-murieron-fallos-atencion-evitables-maternidades_0_tYoDOWbohj.html",
-      "pubDate": "Wed, 24 Jun 2026 20:47:16 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/06/24/J54ZxCFTD_1200x630__1.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f07/live/22f0cc70-7010-11f1-879e-557d52a02968.jpg"
     },
     {
       "id": "03afbdae59ee74b13fed",
@@ -514,116 +794,6 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/gemini-3.5-flash.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "modelos"
-    },
-    {
-      "id": "fd88f891c85a659004fc",
-      "title": "Piden que el empresario Marcelo Porcel vaya a juicio por 10 casos de abuso sexual a menores",
-      "summary": "Las víctimas tenían menos de 13 años al momento de los hechos y eran compañeros de colegio de su hijo. El pedido fue presentado primero por la querella y se sumó el fiscal Pablo Turano. La querella anticipó que pedirá una condena de 15 años de prisión.",
-      "link": "https://www.clarin.com/policiales/piden-empresario-marcelo-porcel-vaya-juicio-10-casos-abuso-sexual-menores_0_ddmB6xHMYC.html",
-      "pubDate": "Wed, 24 Jun 2026 20:40:38 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/01/23/r3LmsQQgH_1200x630__1.jpg"
-    },
-    {
-      "id": "ebbdced69bb5792c79d1",
-      "title": "Trump: \"Reino Unido se está muriendo\"",
-      "summary": "El mandatario comentó la reciente renuncia del primer ministro británico, Keir Starmer.",
-      "link": "https://actualidad.rt.com/actualidad/612873-trump-reino-unido-estar-muriendo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:40:36 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c3f9359bf5b44c61be017.jpg"
-    },
-    {
-      "id": "58d730a82ea557730cca",
-      "title": "Lakers vuelven a firmar a Austin Reaves por 4 años, según fuente de AP",
-      "summary": "El escolta consolida su futuro con un contrato millonario, reafirmando su papel clave en el conjunto angelino. Su desempeño lo ha posicionado como uno de los jugadores no drafteados más destacados de la liga. La franquicia también asegura el talento joven al adquirir a Cameron Carr, quien se une al equipo tras un intercambio con los Knicks, fortaleciendo la plantilla de cara a la próxima temporada.",
-      "link": "https://www.clarin.com/estados-unidos/lakers-vuelven-a-firmar-a-austin-reaves-por-4-anos-segun-fuente-de-ap_0_uoVvv5FZLA.html",
-      "pubDate": "Wed, 24 Jun 2026 20:40:04 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
-    },
-    {
-      "id": "22eaf5a93b084b0f7928",
-      "title": "Copa Davis: se confirmó que Argentina jugará por primera vez una serie en la Patagonia",
-      "summary": "Jugará el 19 y 20 de septiembre en el Estadio Ruca Che de Neuquén ante Turquía. La serie corresponderá al Grupo Mundial I, en la que el equipo argentino intentará mantener la categoría. Por primera vez en 18 años, el combinado nacional jugará como local sobre superficie dura.",
-      "link": "https://www.clarin.com/deportes/copa-davis-confirmo-argentina-jugara-primera-vez-serie-patagonia_0_qKxtyALWA7.html",
-      "pubDate": "Wed, 24 Jun 2026 20:39:04 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/06/24/RASblSiFu_1200x630__1.jpg"
-    },
-    {
-      "id": "5eb2008711bd8c85a1ae",
-      "title": "Trump explota contra España: \"Es un desastre. Creen que les va a salir gratis\"",
-      "summary": "El mandatario ha criticado con dureza la actuación de Madrid en el marco de la OTAN.",
-      "link": "https://actualidad.rt.com/actualidad/612872-trump-explota-espana-desastre-gratis?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:30:47 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c43bde9ff717155508892.jpg"
-    },
-    {
-      "id": "8a3e9ac0c7b5d6f390b7",
-      "title": "Cómo funcionará el sistema de mejores terceros que debutará en el Mundial 2026",
-      "summary": "La expansión a 48 selecciones conlleva que avancen los mejores ocho terceros. Este cálculo premia el rendimiento y el Fair Play . Ya hay antecedentes en la historia de los Mundiales en los que pasaron los mejores terceros.",
-      "link": "https://www.clarin.com/deportes/funcionara-sistema-mejores-terceros-debutara-mundial-2026_0_rAEEZjQKu0.html",
-      "pubDate": "Wed, 24 Jun 2026 20:30:46 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/06/02/HMMUBTEVM_1200x630__1.jpg"
-    },
-    {
-      "id": "c3604384a6fac4f7cea5",
-      "title": "Rulo financiero: dos nuevas pruebas complican la situación judicial de Elías Piccirillo, el ex esposo de Jesica Cirio",
-      "summary": "Un peritaje informático de la Gendarmería vincula a familiares del financista con la agencia de cambios Marvic, investigada por maniobras con el dólar blue en el gobierno de Alberto Fernández. Y un empleado confirmó que trasladaba dólares cash del financista a Martín Migueles, el novio de Wanda Nara.",
-      "link": "https://www.clarin.com/politica/rulo-financiero-nuevas-pruebas-complican-situacion-judicial-elias-piccirillo-ex-esposo-jesica-cirio_0_60tdrBbVDa.html",
-      "pubDate": "Wed, 24 Jun 2026 20:26:51 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/03/24/phdrMWUcu_1200x630__1.jpg"
-    },
-    {
-      "id": "73b93589d9488a0dfa7b",
-      "title": "Consejo Electoral de Colombia confirma victoria de De la Espriella",
-      "summary": "Más temprano, Iván Cepeda reconoció el triunfo del ultraconservador.",
-      "link": "https://actualidad.rt.com/actualidad/612868-cne-colombia-confirmar-victoria-espriella?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:23:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3c3d8f59bf5b241a44d660.jpg"
-    },
-    {
-      "id": "86ff0de98c011f070b69",
-      "title": "Pulseada por el RIGI minero: mientras la Nación exige un compre local del 20%, las provincias piden cuatro veces más",
-      "summary": "La industria pide \"armonización\" de las normas. Los proveedores reclaman un régimen \"que permita la competencia\".",
-      "link": "https://www.clarin.com/economia/pulseada-rigi-minero-nacion-exige-compre-local-20-provincias-piden-veces_0_zwgB7P1d5v.html",
-      "pubDate": "Wed, 24 Jun 2026 20:22:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/05/06/_iE_67aw6_1200x630__1.jpg"
-    },
-    {
-      "id": "a7dd45daa701993148a0",
-      "title": "La confesión de Pampita: \"Jamás probé ningún tipo de alcohol\"",
-      "summary": "La modelo y conductora sorprendió con su revelación. \"Solo he probado cervezas sin alcohol\", aseguró la modelo y conductora.",
-      "link": "https://www.clarin.com/fama/confesion-pampita-jamas-probe-tipo-alcohol_0_mCIc8CYR4Z.html",
-      "pubDate": "Wed, 24 Jun 2026 20:17:08 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/06/16/qGOsbKolS_1200x630__1.jpg"
-    },
-    {
-      "id": "6092039763d61b922778",
-      "title": "Fin de ciclo en River: Paulo Díaz rescinde su contrato y seguirá su carrera en la MLS",
-      "summary": "El defensor chileno acordó su salida de común acuerdo y pondrá fin a una etapa de siete años en Núñez. Atlanta United, dirigido por el Tata Martino, será su nuevo destino tras una temporada marcada por las lesiones. River libera uno de los contratos más altos del plantel y acelera la búsqueda de un nuevo marcador central.",
-      "link": "https://www.clarin.com/deportes/fin-ciclo-river-paulo-diaz-rescinde-contrato-seguira-carrera-mls_0_IewLqdKomb.html",
-      "pubDate": "Wed, 24 Jun 2026 20:15:17 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2025/04/02/FNkixIYfw_1200x630__1.jpg"
     },
     {
       "id": "d16166bc31f5924c2f22",
@@ -646,26 +816,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/DF5ZMPRLTFJTNAHV3NV5NERAOI.jpg?auth=afe6411317cbbd2df4bc97d3222948639150c08f9d73e32f77b8eed7637bf88a"
     },
     {
-      "id": "c09f9e49c340f812adc3",
-      "title": "Enviado de Tel Aviv acusa a una representante de la ONU de \"intentar silenciar a Israel\"",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/612865-enviado-tel-aviv-acusar-representante-onu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:09:59 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "8ac2208334d6d1c33851",
-      "title": "Disparan en la cabeza a la directora de una escuela a las puertas de la institución",
-      "summary": "Las autoridades sostienen diferentes hipótesis: asesinato encargo, viejas rencillas o disputas de propiedad.",
-      "link": "https://actualidad.rt.com/actualidad/612862-disparan-cabeza-directora-escuela-india?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 20:02:46 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "e5eb1d8dface55f20788",
       "title": "La película de Robin tendrá un villano inesperado",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La nueva película animada de Robin acaba de revelar quién será su principal antagonista, y no es precisamente el personaje que la mayoría esperaba. Dynamic Duo apostará por una historia mucho más oscura de lo habitual, enfrentando a Dick Grayson y Jason Todd en una reinterpretación sorprendente de los primeros años del legado del Chico Maravilla. Robin convertirá a Jason Todd en el gran rival de Dick Grayson Durante los últimos dos años, Dynamic Duo había sido uno de esos proyectos de DC Studios rodeados de misterio. Sabíamos que contaría con Dick Grayson y Jason Todd, los dos primeros Robin de la historia de Batman, y que utilizaría una llamativa combinación de marionetas, stop-motion y CGI desarrollada por el estudio Swaybox. Lo que nadie tenía demasiado claro era cómo encajaban dos Robin en la misma película. Ahora ya tenemos la respuesta. Las novedades presentadas durante el Festival Internacional de Cine de Animación de Annecy 2026 revelan que la historia seguirá a Dick y Jason cuando ambos son adolescentes que sobreviven en las calles de Gotham. Amigos inseparables, se autoproclaman el «Dúo Dinámico» mucho antes de que Batman entre en sus vidas. Todo parece apuntar a una clásica historia de amistad juvenil&#8230; hasta que sus caminos comienzan a separarse. Dynamic Duo poster Robin Dick acaba convirtiéndose en el Robin de Batman. Jason, en cambio, termina cayendo bajo la influencia de la banda Red Hood , una organización criminal que lo arrastra hacia una versión mucho más oscura de sí mismo. Y ahí está el gran giro: Jason Todd será el antagonista principal de la película. La banda Red Hood tiene una conexión histórica con el Joker La elección resulta especialmente interesante porque la banda Red Hood no es un elemento cualquiera dentro del lore de Gotham. Los lectores veteranos de DC saben que el nombre tiene un peso enorme dentro de la mitología de Batman. Mucho antes de que Jason Todd utilizara l",
@@ -686,16 +836,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/LB4VPY22XRCC7OXKXYESWM3NCQ.jpg?auth=92fbf236596453ab9d3d9da87159e0638718026cb2feb5aa990a459a69b2bcd2"
     },
     {
-      "id": "f92a56e4a95435da0c99",
-      "title": "Este extraño trastorno muscular podría estar afectándole por pasar mucho tiempo sentado",
-      "summary": "Los empleados de oficina y los conductores se encuentran entre los trabajadores más propensos a desarrollar esta condición.",
-      "link": "https://actualidad.rt.com/a-fondo/612810-extrano-trastorno-muscular-podria-afectandole-tiempo-sentado?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 19:56:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3becb7e9ff710fee236a12.jpg"
-    },
-    {
       "id": "0d0fc7465bee85d098aa",
       "title": "Los activistas argentinos detenidos en Libia fueron liberados y están “seguros”",
       "summary": "Son oriundos de Mendoza. Habían sido detenidos en mayo y ahora están en Turquía. Los dos activistas mendocinos detenidos en Libia hace un mes, cuando se encontraban en la flotilla humanitaria Global Sumud Maghreb, fueron liberados este martes, confirm el canciller, Pablo Quirno. Se trata de los directores de investigaci n del portal de noticias de Am rica Latina y el Caribe Nodal, Mar a Paula Gim nez y Lucas Ezequiel Aguilera , inform la Canciller a argentina, quienes estaban privados de su libertad desde el pasado 24 de mayo en Bengasi, momento en el cual las autoridades cerraron el paso de la delegaci n terrestre. La misma hab a iniciado el viaje desde Mauritania hacia Gaza, a principios de mayo, con el objetivo de llevar alimentos, medicamentos y ambulancias. C mo y d nde est n los activistas argentinos? Respecto del estado y ubicaci n actual de los activistas Gim nez y Aguilera, el canciller llev tranquilidad, enfatizando que se encuentran seguros en Estambul (Turqu a), luego de haber sido expulsados con otros extranjeros. Ambos recibieron asistencia de parte de funcionarios del Consulado General de dicha ciudad. Ver esta publicación en Instagram Una publicación compartida de NODAL (@infonodal) La liberaci n A su vez, el diplom tico se al que desde el 24 de mayo, fecha en la que Gim nez y Aguilera fueron detenidos, la Canciller a argentina, a trav s de la Direcci n General de Asuntos Consulares y la Embajada Argentina en T nez, llev adelante de manera permanente distintas gestiones consulares y pol ticas, incluyendo el desplazamiento del C nsul argentino en T nez a Bengasi y las arduas gestiones junto a pa ses amigos . Y la liberaci n de las dos personas argentinas estuvo bajo la coordinaci n de la Misi n de Apoyo de las Naciones Unidas en Libia, junto al Comit Internacional de la Cruz Roja. En este contexto, desde Nodal afirmaron que la recuperaci n de la libertad constituye una victoria de la solidaridad internacional, de la presi n de las familias, de las org",
@@ -706,18 +846,8 @@
       "image": "https://static.eldiario.es/clip/c3c5fd25-030c-48da-a074-5e718d6da61a_16-9-discover-aspect-ratio_default_1144142.jpg"
     },
     {
-      "id": "391606f4221f0e4fcaaa",
-      "title": "Medvédev: Empresas tecnológicas de Occidente a menudo actúan por encargo de sus servicios de inteligencia",
-      "summary": "Las compañías occidentales eliminan los productos digitales extranjeros, señaló el expresidente ruso.",
-      "link": "https://actualidad.rt.com/actualidad/612807-medvedev-empresas-tecnologicas-occidente-obedecer?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 24 Jun 2026 19:44:02 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.06/thumbnail/6a3be923e9ff71757c332024.jpg"
-    },
-    {
       "id": "da4e0493f7275f6b54e5",
-      "title": "Víctor Fernández JR ficha por el Valencia tras su paso fallido por el Levante: “Ese año para mí fue cero”",
+      "title": "Víctor Fernández JR ficha por el Valencia tras su paso fallido por el Levante",
       "summary": "Víctor JR con la equipación del Valencia y, en miniatura, con la camiseta del Levante.",
       "link": "https://www.marca.com/futbol/valencia/2026/06/24/victor-fernandez-jr-ficha-valencia-paso-fallido-levante-ese-ano-mi-cero.html",
       "pubDate": "Wed, 24 Jun 2026 19:40:28 +0200",
@@ -749,7 +879,7 @@
     {
       "id": "41c657036cf2b3e5b6a9",
       "title": "Organizaciones civiles aseguran que el Súper RIGI será \"un cheque en blanco para las Big Tech\"",
-      "summary": "Un documento elaborado entre distintas organizaciones como Amnistía, Greenpeace y el Cels cuestiona el régimen de incentivos que impulsa el Gobierno para inversiones superiores a los US$ 1.000 millones. Señala que el proyecto profundiza los beneficios del RIGI sin demostrar que atraerá nuevas inversiones y pone el foco en los centros de datos para inteligencia artificial. Surgió un opositor inesperado al Súper RIGI: la Fundación Mediterránea, que reúne a grandes empresarios Mientras el Gobierno defiende el Super RIGI como una herramienta para atraer inversiones de frontera tecnol gica, distintas organizaciones desde Amnist a Internacional hasta Greenpeace y el CELS sumaron m s cuestionamientos al alcance y los efectos del proyecto y denuncian que la iniciativa implica un un cheque en blanco para las Big Tech . En un documento afirman que la iniciativa que permitir beneficios extraordinarios para grandes empresas tendr escasas exigencias en materia de empleo, transferencia tecnol gica o desarrollo local, lo que implica 30 a os de garant as, sin exigencias . Amnist a Internacional, el Cels, la Asociaci n Argentina de Abogados/as Ambientalistas, Greenpeace y la Fundaci n Ambiente y Recursos Naturales (FARN), son algunas de las 21 organizaciones de la sociedad civil que firman el documento. All , sostienen que el Gobierno no present evidencia que permita demostrar la denominada adicionalidad de las inversiones, es decir, que los proyectos efectivamente dependan de estos incentivos para concretarse. Los autores citan datos de Fundar seg n los cuales, pese a que el Ejecutivo anunci inversiones por unos US$ 124.000 millones vinculadas al RIGI, hasta el momento s lo se habr an materializado desembolsos por US$ 762 millones. D as atr s, la Fundaci n Mediterr nea tambi n hab a expresado sus cr ticas al proyecto. S per RIGI: otra isla en el oc ano de distorsiones , se titula el documento de la Mediterr nea, que redactaron en su Instituto de Estudios sobre la Realidad Argentina",
+      "summary": "Un documento elaborado entre distintas organizaciones como Amnistía y Greenpeace cuestiona el régimen de incentivos que impulsa el Gobierno para inversiones superiores a los US$ 1.000 millones. Señala que el proyecto profundiza los beneficios del RIGI sin demostrar que atraerá nuevas inversiones y pone el foco en los centros de datos para inteligencia artificial. Surgió un opositor inesperado al Súper RIGI: la Fundación Mediterránea, que reúne a grandes empresarios Mientras el Gobierno defiende el Super RIGI como una herramienta para atraer inversiones de frontera tecnol gica, distintas organizaciones desde Amnist a Internacional hasta Greenpeace sumaron m s cuestionamientos al alcance y los efectos del proyecto y denuncian que la iniciativa implica un un cheque en blanco para las Big Tech . En un documento afirman que la iniciativa que permitir beneficios extraordinarios para grandes empresas tendr escasas exigencias en materia de empleo, transferencia tecnol gica o desarrollo local, lo que implica 30 a os de garant as, sin exigencias . Amnist a Internacional, la Asociaci n Argentina de Abogados/as Ambientalistas, Greenpeace y la Fundaci n Ambiente y Recursos Naturales (FARN), son algunas de las 21 organizaciones de la sociedad civil que firman el documento. All , sostienen que el Gobierno no present evidencia que permita demostrar la denominada adicionalidad de las inversiones, es decir, que los proyectos efectivamente dependan de estos incentivos para concretarse. Los autores citan datos de Fundar seg n los cuales, pese a que el Ejecutivo anunci inversiones por unos US$ 124.000 millones vinculadas al RIGI, hasta el momento s lo se habr an materializado desembolsos por US$ 762 millones. D as atr s, la Fundaci n Mediterr nea tambi n hab a expresado sus cr ticas al proyecto. S per RIGI: otra isla en el oc ano de distorsiones , se titula el documento de la Mediterr nea, que redactaron en su Instituto de Estudios sobre la Realidad Argentina y Latinoamericana (Ieral), ",
       "link": "https://www.eldiarioar.com/economia/organizaciones-civiles-aseguran-super-rigi-sera-cheque-blanco-big-tech_1_13326976.html",
       "pubDate": "Wed, 24 Jun 2026 19:16:37 +0000",
       "source": "El Diario AR",
@@ -758,7 +888,7 @@
     },
     {
       "id": "0ed10394b9f70ee62574",
-      "title": "Marc Cucurella en Radio MARCA: \"Vinicius que no baje, él que esté fresquito que yo me como el trabajo sucio \"",
+      "title": "Cucurella: \"Vinicius que no baje, que esté fresquito... que yo me como el trabajo sucio\"",
       "summary": "El nuevo jugador del Real Madrid habló en Radio MARCA para repasar su fichaje, sus primeros días de blanco y los retos que afronta en esta nueva etapa",
       "link": "https://www.marca.com/radio/2026/06/24/marc-cucurella-radio-marca-vinicius-baje-fresquito-me-trabajo-sucio.html",
       "pubDate": "Wed, 24 Jun 2026 19:02:40 +0200",
@@ -775,16 +905,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/368c/live/9aef57a0-6f11-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "id": "19ffb21976554f06e06d",
-      "title": "Una corriente interna de Más Madrid se presenta a las primarias contra Mónica García y Rita Maestre",
-      "summary": "A la izquierda, Mariajosé (Joe) Boeta Pardo, candidata a las primarias del Ayuntamiento; a la derecha, Letizia Bisignano, que concurrirá por la Comunidad de Madrid.",
-      "link": "https://elpais.com/espana/madrid/2026-06-24/una-corriente-interna-de-mas-madrid-se-presenta-a-las-primarias-contra-monica-garcia-y-rita-maestre.html",
-      "pubDate": "Wed, 24 Jun 2026 18:52:29 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TJC6AYER4JHRRHDVKCHTFV2HGI.jpg?auth=f9303a9b54a4936a6523e9e6624ce6628f807d22765926ef5774f7d0e53c299a"
     },
     {
       "id": "f92b533b45ae3e3671fe",
@@ -807,16 +927,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c09841ed44.jpeg"
     },
     {
-      "id": "426355ae3f458d29d58a",
-      "title": "Bosnia y Herzegovina - Qatar : Mundial 2026, en directo | Victoria de los balcánicos que los mete de lleno en la pelea por los dieciseisavos",
-      "summary": "Jugadores de Bosnia y Herzegovina y Qatar saltan al terreno juego",
-      "link": "https://elpais.com/deportes/mundial-futbol/2026-06-24/mundial-de-2026-en-directo-bosnia-y-herzegoviana-qatar-en-vivo.html",
-      "pubDate": "Wed, 24 Jun 2026 18:28:57 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/UFHZ4MMK7RLZFHYQZWMJJGWN7U.jpg?auth=0bb7aa1c196982569a2026559a4712bf5259cd5a6f2453f55c0a9dac3dfef1f0"
-    },
-    {
       "id": "b3634268762666fa0626",
       "title": "Convivencia, “empatía” y conocimiento del deseo de morir: el Supremo fija los requisitos para recurrir la eutanasia",
       "summary": "Francesc Augé, en Barcelon, el pasado mes de abril.",
@@ -825,16 +935,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/PSP46PQTMBB57GQ6VFM6SBCWWA.jpg?auth=8e9d458ca22a758d6b296df2be7f2e25d45c91f822e4a71208689067a3b17bd5"
-    },
-    {
-      "id": "6f671c04b0d1f8208fcf",
-      "title": "Suiza - Canadá : Mundial 2026, en directo | Los helvéticos sellan el pase como primera de grupo en un disputado partido",
-      "summary": "El jugador de Canadá Maxime Crepeau durante el calentamiento previo al partido",
-      "link": "https://elpais.com/deportes/mundial-futbol/2026-06-24/suiza-canada-en-directo-partido-del-grupo-b-del-mundial-2026-en-vivo.html",
-      "pubDate": "Wed, 24 Jun 2026 18:19:29 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/EA3JHE2K65IKJE7PXF4T6AQFLY.jpg?auth=f5431033a9137789e7883185cd59129d1fcca59b19d676942dbb5c52ac9f7217"
     },
     {
       "id": "78ee74c95e4c4bbbfd70",
@@ -888,16 +988,6 @@
       "subcat": "mercado"
     },
     {
-      "id": "40f2df0d52d358af93f2",
-      "title": "Lamine se divierte con su hermanito en el golf",
-      "summary": "Mientras hay descanso con la selección española, Lamine pasa tiempo con su familia jugando golf. Las miradas se las llevó su hermanito Keyne y quedó exhibido en el golf.",
-      "link": "https://www.marca.com/futbol/2026/06/24/lamine-divierte-hermanito-golf-video.html",
-      "pubDate": "Wed, 24 Jun 2026 17:46:13 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/buVsA1gE_j59k6xqk.jpeg"
-    },
-    {
       "id": "0c74e1709dfd5088db23",
       "title": "Argentina, Honduras y ahora Colombia: Trump interfiere en las elecciones en América Latina con total impunidad y le sale bien",
       "summary": "El presidente de EE.UU. ejerce una injerencia basada en amenazas y zanahorias sobre países muy dependientes cuya población termina votando con una poderosa influencia externa. Habr a ganado las elecciones legislativas Javier Milei sin el apoyo pol tico y econ mico de Donald Trump en la campa a electoral? Habr a ganado el mismo Milei que hab a sufrido poco antes una sonora derrota en la provincia de Buenos Aires? Y Nasry Asfura? Habr a ganado en Honduras el candidato de la extrema derecha sin el apoyo expl cito de Trump, incluso con el indulto de un miembro de su partido, Juan Orlando Hern ndez, expresidente del pa s condenado en un tribunal de EE.UU. por introducir 500 kilos de coca na en el pa s? El presidente de EE.UU. no tuvo empacho en indultar a Hern ndez antes de las elecciones y apostar por Asfura, quien se impuso por poco en unas re idas elecciones al liberal Salvador Nasralla, quien se ve a vencedor hasta las injerencias de Trump. Y Abelardo de la Espriella? Qu habr a sido del ultra colombiano sin el acoso de Trump al presidente colombiano, Gustavo Petro, y sin la repetida apuesta en campa a contra el rival de Iv n Cepeda? Qu habr a sido sin esos palos a la Colombia de Petro y esas promesas a una futura Colombia presidida por De la Espriella? La proximidad y las relaciones de dependencia en Am rica Latina con respecto a Washington son fundamentales para entender el impacto del intervencionismo de Trump. Del mismo modo, ya no funciona igual en la distancia europea. Por ejemplo, por mucho que se alineara con Viktor Orb n, el ultra h ngaro termin derrotado en las urnas. Igual que AfD, los ultras alemanes apoyados por JD Vance y Elon Musk: no lograron el sorpasso en las ltimas elecciones generales alemanas. Y es que de la misma manera que en Am rica Latina Trump juega con su poder de coerci n para moldear los Gobiernos a su imagen y semejanza, en Europa el trumpismo resta ya en muchos pa ses. Por ejemplo, en Italia, donde Giorgia Meloni fue una persona cercana ",
@@ -938,16 +1028,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3bf86391bad.jpeg"
     },
     {
-      "id": "1f479c6775d9313f9801",
-      "title": "El calor sobre Londres 'funde' el sistema de arbitraje electrónico de Wimbledon",
-      "summary": "Habitantes de Londres se resguardan del calor",
-      "link": "https://www.marca.com/tenis/wimbledon/2026/06/24/calor-sobre-londres-funde-sistema-arbitraje-electronico-wimbledon.html",
-      "pubDate": "Wed, 24 Jun 2026 17:31:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3bf7c417e2a.jpeg"
-    },
-    {
       "id": "928d73c8c8bdb8a80cc6",
       "title": "Síguelo en directo aquí",
       "summary": "Consulta los partidos, los marcadores y las tablas en tiempo real y en el horario de tu país",
@@ -956,26 +1036,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898d/live/fadbd8a0-60f2-11f1-89a3-d1f559421220.png"
-    },
-    {
-      "id": "cd64bc3cb03494605765",
-      "title": "Hugo González consigue el premio a Mejor jugador nacional en competición internacional gracias a su buen debut en la NBA",
-      "summary": "Hugo González entra a canasta durante un partido de esta temporada.",
-      "link": "https://www.marca.com/baloncesto/basketfeb/2026/06/24/hugo-gonzalez-consigue-premio-mejor-jugador-nacional-competicion-internacional-gracias-buen-debut-nba.html",
-      "pubDate": "Wed, 24 Jun 2026 17:16:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/16/6a31a030f2d7f.jpeg"
-    },
-    {
-      "id": "7dc630972a2503ee7bf8",
-      "title": "Los relojes del Mundial: Cristiano y Vini compiten por la corona con medio millón en la muñeca",
-      "summary": ".",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/24/relojes-mundial-cristiano-vini-compiten-corona-medio-millon-muneca-video.html",
-      "pubDate": "Wed, 24 Jun 2026 17:13:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3bf2dc7d0a4.png"
     },
     {
       "id": "0c2bd0b4debe689063cf",
@@ -1018,16 +1078,6 @@
       "image": "https://static.eldiario.es/clip/8f6a391c-86b8-4c5d-b4ec-342ea0664d4c_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "88ac7cb259f88fe1202d",
-      "title": "España y Cabo Verde podrían acudir al fair-play para desempatar por la primera plaza",
-      "summary": "Pedri vio la tarjeta amarilla en el partido ante Cabo Verde",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/24/espana-cabo-verde-podrian-acudir-fair-play-desempatar-primera-plaza.html",
-      "pubDate": "Wed, 24 Jun 2026 16:37:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3beb631daf3.jpeg"
-    },
-    {
       "id": "c3f08a7dfcda3c26170e",
       "title": "Lumumba Vea, el hincha de la RD del Congo que ve los partidos como una estatua",
       "summary": "Permanece de pie e inmóvil durante los 90 minutos de juego como homenaje al héroe nacional Patrice Lumumba, que logró la independencia del país en 1960. Mientras las gradas animan, celebran y maldicen, un hombre permanece de pie, completamente inm vil durante todo el partido entre la RD Congo y Colombia. Es Michel Kuka Mboladinga, conocido como Lumumba Vea (se podr a traducir como Lumumba vive), y se convirti posiblemente en el hincha m s famoso de este Mundial 2026. Lleva realizando este gesto desde 2013, pero fue en la pasada Copa frica cuando se hizo viral. En cada partido aparece con traje, corbata, el brazo derecho alzado y la palma de la mano abierta a modo de saludo. De esta forma homenajea a Patrice Lumumba , l der del movimiento que logr la independencia del Congo de B lgica en 1960 y que se convirti en el primer mandatario de la Rep blica Democr tica del Congo. Estatua de Patrice Lumumba en Kinshasa, la capital de República Democrática del Congo. Defend a que fueran los propios congole os quienes controlaran las inmensas riquezas del pa s, que cuenta con algunas de las mayores reservas del mundo de oro, diamantes y minerales como el colt n, el cobalto o el cobre, imprescindibles para la fabricaci n de tel fonos m viles, ordenadores o bater as de coches el ctricos. Patrice Lumumba firmando tras pronunciar un discurso en Leopoldville (Congo) el 30 de junio de 1960. Su proyecto soberanista chocaba con los intereses del gobierno belga, que aspiraba a una descolonizaci n gradual para mantener su influencia econ mica en el pa s, y alimentaba los temores de Estados Unidos por si el nuevo Estado se alineaba con el bloque sovi tico en plena Guerra Fr a. Tan solo unos meses despu s de llegar al poder, Lumumba fue secuestrado, torturado y ejecutado con la complicidad del gobierno belga y -supuestamente- de la CIA estadounidense. En 1965, Mobutu Sese Seko tom el poder y rebautiz al pa s como Zaire para romper con el pasado colonial. Y bajo esa identidad, la selecci n ",
@@ -1036,16 +1086,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/6b75b7f2-5119-4dbf-ba33-a1f9ddb2f498_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "be24f77b80f3d3823c82",
-      "title": "La Comunidad de Madrid plantea una remodelación integral del estadio de Vallecas",
-      "summary": ".",
-      "link": "https://www.marca.com/futbol/rayo/2026/06/24/comunidad-madrid-plantea-remodelacion-integral-estadio-vallecas.html",
-      "pubDate": "Wed, 24 Jun 2026 16:18:38 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3be7224537c.png"
     },
     {
       "id": "55df77e066937d02b5d5",
@@ -1079,14 +1119,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YSAEYBE3RJH5PNVGWDXXJ7ZDKM.jpg?auth=e41b18154bd66c827f1c79d2d5f7906f37ad8bec6cedc50f1ecc16c249edc77e"
     },
     {
-      "id": "c46a05f23e6f5a8e0673",
-      "title": "Enzo se enreda... y prioridad a las salidas",
-      "summary": "Florentino Pérez, tras ganar las elecciones a la presidencia del Real Madrid el pasado día 7",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/06/24/cinco-fichajes-hechos-enzo-enreda-prioridad-salidas-ceballos-fran-asencio.html",
-      "pubDate": "Wed, 24 Jun 2026 16:02:08 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/18/6a33da88e2565.jpeg"
+      "id": "de5b965cf6a826897525",
+      "title": "El mayor estudio de ADN de neandertales tardíos refuerza la sospecha sobre el papel humano en su extinción",
+      "summary": "Cueva de Goyet, en Bélgica, donde se ha recuperado el quinto genoma de neandertal completo de alta calidad que existe.",
+      "link": "https://elpais.com/ciencia/2026-06-24/el-mayor-estudio-de-adn-de-neandertales-tardios-refuerza-la-sospecha-sobre-el-papel-humano-en-su-extincion.html",
+      "pubDate": "Wed, 24 Jun 2026 16:03:26 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/APAVOZJ7S5E3FKZQDKMM3XOLRM.jpg?auth=cf3184abfeea4fde911e2b373c7e993193b27278419fc3927db7b48da3393254"
     },
     {
       "id": "0db68588d6a95c1da21a",
@@ -1160,16 +1200,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "eea40a5cdc37981834ce",
-      "title": "La DGT cambia las normas con los patinetes eléctricos: restringe más su uso e impone nuevas multas de hasta 200 euros",
-      "summary": "La DGT ha aprobado nuevas normas para los patinetes eléctricos en España",
-      "link": "https://www.marca.com/coches-y-motos/trafico/2026/06/24/dgt-cambia-normas-patinetes-electricos-restringe-e-impone-nuevas-multas-200-euros.html",
-      "pubDate": "Wed, 24 Jun 2026 15:12:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3bd2a964931.jpeg"
-    },
-    {
       "id": "0f889e45c898bda58cba",
       "title": "Sánchez se defiende ante el Parlamento español de los casos de corrupción que sacuden a su gobierno “Usted es el regreso de la corrupción”",
       "summary": "El presidente del Gobierno español desvincula la investigación a José Luis Zapatero de su gestión y defiende a su familia: \"Le pido a la Justicia que sea justa\", en relación a la causa contra Begoña Gómez. Además, arremetió contra el lider del PP, Alberto Núñez Feijóo: “Usted es el regreso de la corrupción”. Condena a la corrupci n del ex ministro balos, distancias con el 'caso Zapatero, defensa de su pareja y su hermano y ofensiva contra el PP y Vox. El presidente espa ol, Pedro S nchez, dedic su asistencia de este mi rcoles en el Congreso para repasar los temas judiciales que afectan a su partido y a su Gobierno, que diferenci en tres categor as, y para pasar al ataque con la oposici n, a la que acus de estar intr nsecamente ligada a la corrupci n. Todos los diputados de esta C mara sabemos que un gobierno suyo con Vox no servir a para limpiar Espa a de corruptos, servir a para que Espa a se llene de ellos y que nuestras instituciones volviesen 50 a os atr s en el tiempo , le dijo a Alberto N ez Feij o, l der del Partido Popular. El presidente del Gobierno defendi que no debe haber ning n espacio para la impunidad de personas corruptas. Sean quienes sean . E insisti en que el PSOE no se financi ilegalmente y que l no conoc a ni uno solo de los comportamientos investigados o ya sentenciados, como el caso del ex ministro de Transportes Jos Luis balos condenado a 24 a os de prisi n , o las causas abiertas contra el exmandatario socialista Jos Luis Zapatero o su propia esposa, Bego a G mez . Es razonable suponer que, en los pr ximos meses, el goteo de noticias y avances judiciales contin e. Habr nuevos hallazgos. Nuevas acciones judiciales. Las derechas medi tica y pol tica vender n como una nueva muestra m s de eso que llaman ahora degradaci n pol tica. Pero no nos equivoquemos. Desgraciadamente, la degradaci n ya ocurri . Lo que vamos a presenciar en los pr ximos meses es su persecuci n y su purga , sostuvo. El l der del Ejecutivo diferenci la cascada de causas judi",
@@ -1178,26 +1208,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/9d9fc3c9-9b26-41c0-bf18-3cae49ef164c_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "8c4923e788ee0de6585e",
-      "title": "Butragueño estará en Guadalajara apoyando a la selección",
-      "summary": "Butragueño celebra su segundo gol a Dinamarca.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/06/24/butragueno-estara-guadalajara-apoyando-seleccion.html",
-      "pubDate": "Wed, 24 Jun 2026 14:59:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3bd42c495a2.jpeg"
-    },
-    {
-      "id": "10e6514c37b4836f75df",
-      "title": "Cepeda acepta la derrota en la segunda vuelta: “De la Espriella es el nuevo presidente”",
-      "summary": "Iván Cepeda durante una conferencia en Bogotá, Colombia, este miércoles.",
-      "link": "https://elpais.com/america-colombia/elecciones-presidenciales/2026-06-24/ivan-cepeda-concede-la-derrota-en-la-segunda-vuelta-abelardo-de-la-espriella-es-el-nuevo-presidente.html",
-      "pubDate": "Wed, 24 Jun 2026 14:48:14 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/7FRJISTJ2NCS7IBAU3ZVDO6JAQ.jpg?auth=2267deaa6c1843e5a0e49087cb1f42283b9ad20de62ac0a1784af570f66967c5"
     },
     {
       "id": "8a79162de319cf7ef410",
@@ -1361,16 +1371,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/GEELY.jpg?fit=1024%2C663&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "3480a2d6ea00201d71e9",
-      "title": "Cómo impacta al cuerpo el calor extremo como el que se está registrando en Europa (y cómo protegerte)",
-      "summary": "Te contamos cómo reacciona tu cuerpo cuando se ve sometido a temperaturas calurosas extremas y qué puedes hacer para minimizar su impacto.",
-      "link": "https://www.bbc.com/mundo/articles/cy6yq4l9gdvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 24 Jun 2026 12:36:31 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ed1/live/0a0651d0-7010-11f1-879e-557d52a02968.jpg"
-    },
-    {
       "id": "027366d453a3f20659a6",
       "title": "La Organización Meteorológica Mundial prevé que el episodio de calor continúe en gran parte de Europa dos semanas más",
       "summary": "Una persona con un abanico contra el sol en Sevilla.",
@@ -1530,16 +1530,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/MacBook-Neo-7.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "2b5ba375deab93907f44",
-      "title": "¿A qué hora se estrena ‘Avatar: La Leyenda de Aang’ temporada 2 en Netflix?",
-      "summary": "Por fin llega a el estreno de Avatar: La Leyenda de Aang temporada 2 . El título, remake live-action de la querida serie de animación de Nickelodeon , sorprendió al mundo hace un par de años cuando se estrenó y, contra todo pronóstico , trasladó bastante bien a imagen real el material de partida. Aunque con cosas a mejorar, supuso una versión mucho más aceptable que la bochornosa película de M. Night Shyamalan del año 2010. Pero, ¿a qué hora se estrena la temporada 2 de Avatar: La Leyenda de Aang ? Tras una victoria agridulce en la que salvaron a la Tribu del Agua del Norte de la invasión de la Nación del Fuego, el Avatar Aang , Katara y Sokka se reagrupan y emprenden una misión para convencer al esquivo Rey de la Tierra de que les ayude en su batalla contra el temible Señor del Fuego Ozai . Su viaje a la impenetrable ciudad de Ba Sing Se, residencia del Rey de la Tierra, es traicionero, pero también fructífero: Aang deberá encontrar a un maestro de la Tierra que le ayude a añadir el control de este elemento a sus poderes de control del aire y del agua. Pero ni siquiera las poderosas murallas de la ciudad pueden mantener a raya a las fuerzas de la Nación del Fuego. El príncipe Zuko continúa su búsqueda para capturar al Avatar, una misión que se ve aún más dificultada por su condición de traidor fugitivo de la Nación del Fuego y por una conciencia que le remuerde y le hace cuestionarse si va por el camino correcto. Y lo que es peor para nuestros héroes, su formidable hermana, la princesa Azula , se une ahora a la contienda. En cuanto a dónde podrá verse, a diferencia de otros títulos, aquí no depende para nada del territorio. En Estados Unidos, España, Latinoamérica y otros lugares la temporada 2 de Avatar: La Leyenda de Aang estará disponibles únicamente en Netflix . La plataforma alberga los derechos de toda la serie y, de nuevo, servirá de hogar para los nuevos capítulos. Hora de estreno de Avatar: La Leyenda de Aang temporada 2 Acerca de la hora de estreno de la ",
-      "link": "https://hipertextual.com/cine-television/a-que-hora-se-estrena-avatar-la-leyenda-de-aang-temporada-2-en-netflix/",
-      "pubDate": "Wed, 24 Jun 2026 09:41:57 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Avatar-La-Leyenda-de-Aang-estreno-temporada-2.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "id": "c2456f9bc76a6a59c6a5",
@@ -1974,16 +1964,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/06/pelicula-Toy-Story-5.jpg"
     },
     {
-      "id": "14919576b3087815ef2f",
-      "title": "Disney Lorcana prepara su batalla más ambiciosa hasta la fecha con Attack of the Vine!, nuevos personajes de Pixar y una amenaza que lleva un año creciendo",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Cinemascomics asistió a la presentación internacional de Attack of the Vine! , la nueva colección de Disney Lorcana TCG que incorpora personajes de Monstruos S.A., Up y Red , introduce nuevas mecánicas y culmina la mayor historia que ha contado el juego hasta ahora. Disney Lorcana ha entrado en una nueva fase. Después de varios sets sembrando pistas, pequeñas referencias visuales y una amenaza que parecía avanzar lentamente desde las sombras, Ravensburger ha decidido que ha llegado el momento de mostrar todas sus cartas. Y nunca mejor dicho. Durante una presentación internacional a la que asistió Cinemascomics, el equipo creativo de Disney Lorcana desveló los principales detalles de Attack of the Vine! , la próxima expansión del exitoso juego de cartas coleccionables, una colección que no solo añade nuevas películas de Pixar al universo de Lorcana, sino que además supone el desenlace de una trama que lleva desarrollándose durante más de un año. La sensación que dejó la presentación fue muy clara: Ravensburger ya no está construyendo únicamente un juego de cartas. Está construyendo un universo narrativo propio donde cada expansión conecta con la siguiente y donde los personajes de Disney y Pixar forman parte de una historia común cada vez más ambiciosa. La Enredadera deja de ser una amenaza lejana y se convierte en el gran enemigo de Lorcana Quienes hayan seguido la evolución de Lorcana durante los últimos sets recordarán las primeras referencias a la misteriosa Enredadera. Lo que comenzó como un detalle aparentemente secundario en Whispers in the Well fue creciendo poco a poco durante Winterspell y Wilds Unknown , hasta convertirse en el principal peligro para todo el reino. Nicole Smith, Senior Narrative Designer de Ravensburger, explicó durante la presentación cuál es el punto de partida de esta nueva colección: «Ahora que la Enredadera ha absorbido toda la tinta mágica procedente de la inundación que l",
-      "link": "https://www.cinemascomics.com/disney-lorcana-attack-of-the-vine/",
-      "pubDate": "Tue, 23 Jun 2026 18:00:59 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/06/Lorcana-Attack-of-the-Vine.jpg"
-    },
-    {
       "id": "95c577f37a6238e9baff",
       "title": "El Gobierno logró voltear la sesión contra Adorni con la ayuda del PRO, la UCR y los gobernadores",
       "summary": "Con solo 117 diputados presentes, fracasó la sesión en la Cámara de Diputados para avanzar con la moción de censura contra el jefe de Gabinete. Menem logró blindar al jefe de Gabinete con la ayuda de los mismos diputados que, la semana anterior, habían pedido su destitución. Menem negoció con el PRO y la UCR para blindar a Adorni y aprobar el Super RIGI Ya estamos, nos sentamos , exclam , resignada, la secretaria parlamentaria del peronismo, Paula Penacca , mientras hac a una ltima barrida por el recinto de la C mara de Diputados. Todav a faltaban 10 minutos para que finalizara el per odo de espera hasta la ca da de la sesi n por falta de qu rum, pero la oposici n sab an que ya eran los que eran: 117 diputados del peronismo, la izquierda y algunos d scolos del radicalismo que quer an avanzar con la moci n de censura contra Manuel Adorni . El PRO y la UCR hab an acordado una tregua con Mart n Menem y, sin ellos, la sesi n estaba destinada al fracaso. El Gobierno consigui blindar a su jefe de Gabinete con la ayuda de Cristian Ritondo , jefe del bloque PRO, y Pamela Verasay , jefa del bloque radical que responde a Alfredo Cornejo , y algunos gobernadores. El cordob s Mart n Llaryora y el santafesino Maximiliano Pullaro definieron, a ltimo momento, hacer faltar a los diputados que le responden directamente, como Gisela Scaglia , que es la jefa de Provincias Unidas y, sin embargo, fue casi la nica de la bancada que no dio qu rum. Pullaro hab a recibido, ese mismo , un anticipo financiero por $400.000.000, as como Rogelio Frigerio (Entre R os) y Carlos Sadir (Jujuy). El gobernador de Jujuy, sin embargo, s mand a sus diputados a dar qu rum, a diferencia de Frigerio, Pullaro y Llaryora. Solo los cordobeses que no le responden, como Juan Schiaretti y Carlos Guti rrez, se sentaron a dar qu rum, tal como hab an anticipado. El MID, que integran Oscar Zago y Eduardo Falcone , hab a prometido en p blico que dar an qu rum y acompa ar an la expulsi n de Adorni porque es un yunque d",
@@ -2217,6 +2197,36 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac1e/live/4849c230-6e92-11f1-a28c-017abe2f9b67.jpg"
     },
     {
+      "id": "8dcac07dc39873f8842d",
+      "title": "Vinicius, los mismos goles que Mbappé y Haaland... y una queja: \"Vergüenza\"",
+      "summary": "Vini Jr celebra su gol ante Escocia.",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/25/24-minutos-locura-vini-jr-miami-gol-anulado.html",
+      "pubDate": "Thu, 25 Jun 2026 00:33:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3c59f465387.jpeg"
+    },
+    {
+      "id": "2680ebcc395b043a877b",
+      "title": "Una felicitación que pone la piel de gallina: \"Leo, que seas más feliz de lo que nos hacés a nosotros\"",
+      "summary": "\"Que seas muy feliz, Leo. Más feliz de lo que nos hacés a nosotros.\"",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/25/felicitacion-seleccion-argentina-cumpleanos-messi-seas-feliz-leo-feliz-haces-nosotros-video.html",
+      "pubDate": "Thu, 25 Jun 2026 00:14:23 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/1gF5O63s9mzW.jpeg"
+    },
+    {
+      "id": "3ff7e4ff1aeac09546db",
+      "title": "Ronaldinho-Vinicius, un abrazo muy especial",
+      "summary": "Vinicius y Ronaldinho se saludan antes del Escocia - Brasil.",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/25/ronaldinho-vinicius-abrazo-primera-final-brasil.html",
+      "pubDate": "Thu, 25 Jun 2026 00:03:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c52ce72f0f.jpeg"
+    },
+    {
       "id": "ef768b34446400863223",
       "title": "Los momentos de gloria del Málaga y el Almería en la élite",
       "summary": "El centrocampista del Málaga CF, David Larrubia, autor del segundo gol de la final de los PLAYOFFS DE ASCENSO.",
@@ -2357,16 +2367,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6933/live/d4135040-6a66-11f1-b7aa-49f3a4d630f8.jpg"
-    },
-    {
-      "id": "3dc41d45a92ff8470d35",
-      "title": "Argentina movilizada: en la calle, codo a codo",
-      "summary": "Las multitudinarias convocatorias de los últimos meses –el funeral del Indio Solari, la defensa de la universidad o la marcha de Ni Una Menos– reabren una vieja historia nacional: la de las masas que ocupan el espacio público para disputar sentido, celebrar, protestar o llorar, y desafían los intentos de limitar esa tradición. El histórico funeral del Indio Solari: La dicha no es una cosa alegre Once años después, una multitud volvió a las calles para decir “basta de matarnos” Ser a muy f cil y muy inexacto afirmar que la historia de la movilizaci n callejera en la Argentina comienza el 25 de mayo de 1810. La cantidad de convocados frente al Cabildo ese d a no era demasiado importante, y la salida de Cisneros no la decidi la multitud, sino las negociaciones entre los notables y la amenaza militar de Saavedra. Es mucho m s adecuado afirmar que la historia moderna argentina cambia bruscamente el 17 de octubre de 1945, cuando por primera vez la movilizaci n de las masas obreras produce un efecto pol tico. Un efecto doble, como ya es bien sabido: la liberaci n de Per n, por un lado, y la comprobaci n de que las masas en movimiento se constitu an en un actor insoslayable, de all en m s. Tambi n es sabido que al impulso de sublevaci n le sigue el disciplinamiento: el peronismo ritualiza esa movilizaci n inicial, para transformar en celebraci n lo que hab a sido impugnaci n. Fuera de ese cors figura el acto del 22 de agosto de 1951, que rompe la ritualizaci n: el di logo de Eva Per n con las masas es un ejemplo nico de que esa conversaci n pod a existir, de que no era una ficci n la de Per n escuchando al pueblo y que incluso intent torcer una decisi n que ya estaba tomada el renunciamiento . De todas maneras, en homenaje a la historia escolar, ese acto dio en llamarse Cabildo Abierto . Las masas tambi n fueron buenos estudiantes de la escuela patria. El 17 de octubre de 1945 marcó la comprobación de que las masas en movimiento se constituían en un actor insoslayable, de a",
-      "link": "https://www.eldiarioar.com/politica/argentina-movilizada-calle-codo-codo_1_13318813.html",
-      "pubDate": "Sat, 20 Jun 2026 09:11:00 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/5eacc031-8135-4575-9be6-9add607c7c81_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
       "id": "e5647ccc4d7223707735",
@@ -2717,5 +2717,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-06-24T21:18:30.053053+00:00"
+  "updated": "2026-06-24T23:00:39.792669+00:00"
 }
