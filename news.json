@@ -63,14 +63,416 @@
       "image": "https://imagenes.elpais.com/resizer/v2/P4DIIFAGIFFXPHOLLCLZVVOEZ4.jpg?auth=008bc7d0f24526a1152198e73be74fe6feff45eb70f7484875abda48486bbe75"
     },
     {
-      "id": "612225531a21a3d4fce3",
-      "title": "Real Madrid-Leganés, en directo",
-      "summary": "Los blancos cierran un partido de entrenamiento con el Leganés en Valdebebas para este martes 28 de julio a las 17.30 Sigue el entreno en directo en marca.com Suscríbete al canal de Marca para no perderte más vídeos AQUÍ : https://bit.ly/2J0YIm6 ✔️ Visita marca.com: https://www.marca.com/ ✔️ INSTAGRAM: https://www.instagram.com/marca/ ✔️ FACEBOOK: https://www.facebook.com/MARCA/ ✔️ TWITTER: https://twitter.com/marca ✔️ TWITTER: https://twitter.com/radiomarca #MARCA #realmadridfc",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/directo-real-madrid-mourinho-continua-pretemporada-segundo-partido-leganes-video.html",
-      "pubDate": "Tue, 28 Jul 2026 17:29:05 +0200",
+      "id": "c6d6610b9baee0eb46e1",
+      "title": "¡Golazo de Gonzalo! Trent vuelve a asistir y el canterano lo hace de cine",
+      "summary": "1",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/golazo-gonzalo-trent-vuelve-asistir-canterano-perdona-video.html",
+      "pubDate": "Tue, 28 Jul 2026 19:02:22 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/WiY6wFzX2Sg.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68e5c4db6e7.jpeg"
+    },
+    {
+      "id": "8f6a5724d18c77986b27",
+      "title": "Laporta supera una arritmia",
+      "summary": "Laporta.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/07/28/laporta-me-han-revertido-arritmia.html",
+      "pubDate": "Tue, 28 Jul 2026 18:52:48 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68de43567a0.jpeg"
+    },
+    {
+      "id": "ac57a2d8fcb9817422dc",
+      "title": "Hjulmand 'empieza' su mili",
+      "summary": "Hjulmand abraza a Simeone en un entrenamiento del Atlético.",
+      "link": "https://www.marca.com/futbol/atletico/2026/07/28/hjulmand-empieza-mili.html",
+      "pubDate": "Tue, 28 Jul 2026 18:44:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68caee2804a.jpeg"
+    },
+    {
+      "id": "1f3646d79692663eb29b",
+      "title": "Pinheiro explica la polémica expulsión a Embolo y su cruce con Messi en el Mundial",
+      "summary": "Messi y Joao Pinheiro en el Argentina - Suiza del Mundial",
+      "link": "https://www.marca.com/futbol/mundial/2026/07/28/joao-pinheiro-explica-polemica-expulsion-embolo-cruce-messi-mundial.html",
+      "pubDate": "Tue, 28 Jul 2026 18:29:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68d7e485d84.jpeg"
+    },
+    {
+      "id": "a69b096537659f4e8280",
+      "title": "El detallazo de Mourinho con la prensa antes del amistoso ante el Leganés",
+      "summary": "El portugués ofreció agua a los periodistas presentes en el partido de pretemporada.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/detallazo-mourinho-prensa-amistoso-leganes-video.html",
+      "pubDate": "Tue, 28 Jul 2026 18:29:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/cy9WU1gQDYWxLBbYf.jpeg"
+    },
+    {
+      "id": "d16601d8d4557ba7c6e7",
+      "title": "¡Disfrutan como nunca! El Bayer Leverkusen se divierte en la pretemporada",
+      "summary": "El conjunto alemán continua entrenando durante la pretemporada y los jugadores gozan de las dinámicas de cara a la próxima campaña. Así fue el ejercicio que causa humor en el equipo.",
+      "link": "https://www.marca.com/futbol/bundesliga/2026/07/28/disfrutan-nunca-bayer-leverkusen-divierte-pretemporada-video.html",
+      "pubDate": "Tue, 28 Jul 2026 18:02:15 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/cy5Ks1gQD8jv6OPB4.jpeg"
+    },
+    {
+      "id": "0259e3511e37ca471a38",
+      "title": "Dibu Martinez fue rescatado al quedar estancado con su camioneta",
+      "summary": "El Dibu Martínez sufrió un incidente con su carro en la comunidad rural de Sierra de los Padres y vecinos le brindaron su ayuda para rescatarlo. Como agradecimiento, les dejó la camiseta del 10. Así fue el momento.",
+      "link": "https://www.marca.com/futbol/2026/07/28/dibu-martinez-rescatado-quedar-estancado-camioneta-video.html",
+      "pubDate": "Tue, 28 Jul 2026 17:51:32 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/cy4mA1gQC_3W05jwt.jpeg"
+    },
+    {
+      "id": "0e116234d1c80f197cf7",
+      "title": "El regreso de Valverde llega con golazo",
+      "summary": "Los goles del uruguayo y Gonzalo dieron el triunfo a los blancos en el primer tiempo 'en abierto' ante el Leganés, que acortó distancias con un gran tanto de Naim",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/mou-estrena-nino-nuevo-once-regreso-valverde.html",
+      "pubDate": "Tue, 28 Jul 2026 17:42:51 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68dd9e564db.jpeg"
+    },
+    {
+      "id": "4019d4535b6e8eb839bd",
+      "title": "¡Una obra de arte! Este fue el regalo a Moisés Caicedo",
+      "summary": "Una aficionada ecuatoriana le obsequió un regalo a Moisés Caicedo. Jugador de la selección de Ecuador y del Chelsea. La chica le dió un lienzo vistiendo 'La Tricolor'. Como gesto de agradecimiento, este le regaló una camiseta de la selección.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/07/28/obra-arte-regalo-moises-caic-video.html",
+      "pubDate": "Tue, 28 Jul 2026 17:39:34 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/cy4JU1gQCqMUpbfa3.jpeg"
+    },
+    {
+      "id": "cf8f785f1a604f9ea93a",
+      "title": "Dos detenidos por agredir a un seguidor de España en Bilbao el día de la final del Mundial",
+      "summary": "La Policía Nacional",
+      "link": "https://www.marca.com/futbol/seleccion/2026/07/28/dos-detenidos-agredir-seguidor-espana-bilbao-dia-final-mundial.html",
+      "pubDate": "Tue, 28 Jul 2026 17:38:23 +0200",
+      "source": "Marca",
+      "cat": "poleco",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68cc33843ce.jpeg"
+    },
+    {
+      "id": "b3a6a29ed1c2336e290a",
+      "title": "Las acciones de Micron se hunden hacia su peor caída mensual en 11 años mientras crecen los temores por China",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/619399-acciones-micron-hunden-peor-caida?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:37:11 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "036f47a040e43f8a6503",
+      "title": "A un conductor le hicieron un test de alcoholemia y superó el máximo de medición posible",
+      "summary": "Un conductor superó el valor máximo del test de alcoholemia durante un control de tránsito del sábado último en la autopista Panamericana . El hombre aseguró que el resultado le iba a “dar bien” , pero el dispositivo registró un nivel superior a los tres gramos por litro de sangre. El hecho ocurrió a la altura del peaje “Tigre” durante un operativo desplegado entre la noche del sábado y la madrugada del domingo en ambos sentidos de circulación. El conductor viajaba hacia la localidad de Carapachay en un Toyota Etios blanco cuando agentes de la Agencia Nacional de Seguridad Vial (ANSV) lo frenaron para la inspección de rutina. El momento en que el conductor se somete al control vehicular Instantes antes de soplar, el hombre afirmó estar en condiciones de manejar. “ No, igual va a dar, va a dar bien ”, dijo en la previa de la prueba. Pero la pantalla del instrumento no devolvió un valor numérico sino tres flechas con orientación ascendente , una indicación que señala que se superó la capacidad de lectura del equipo . Según las especificaciones del alcoholímetro Dräger Alcotest, homologado por el Instituto Nacional de Tecnología Industrial (INTI), estos dispositivos registran marcas de hasta tres gramos por litro de alcohol en sangre . Ante el resultado, los agentes retuvieron el auto y la licencia de conducir del hombre . Además, en el marco del operativo realizado en la autopista, se inspeccionaron 3.627 autos. En total, las autoridades sancionaron a 102 conductores, de los cuales 85 dieron positivo en la prueba . La ley de Alcohol Cero en la provincia de Buenos Aires La Ley 15.402 de la provincia de Buenos Aires establece la tolerancia cero de alcohol al volante para cualquier persona. La norma dispone la retención de la licencia e inhabilitaciones para manejar que van de los tres a los 18 meses, de acuerdo con la escala del nivel de alcohol detectado en sangre. Además, la legislación declara obligatorios los controles de alcoholemia, penaliza la negativa a realizar",
+      "link": "https://www.lanacion.com.ar/sociedad/va-a-dar-bien-le-hicieron-un-test-de-alcoholemia-y-supero-el-maximo-de-medicion-posible-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:35:52 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/MYGQHONZBJBC3LJJSXEC4A7OYI.jpg?auth=ff699d81081c147b32045bf8408b569713e9ec3467fb8111bc458a9db151daf9&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "6cb3effd2e9e27600125",
+      "title": "Qué se sabe del caso Isabella, la niña de dos años que murió en Villa Gesell, y la detención de su madre",
+      "summary": "La muerte de Isabella, una niña de dos años que llegó sin signos vitales al Hospital Municipal Arturo Illia, conmocionó a Villa Gesell y derivó en la detención de su madre, Lucía Sosa, de 43 años . La mujer está acusada de abandono de persona seguido de muerte, agravado por el vínculo, mientras la Justicia intenta reconstruir las circunstancias que rodearon el fallecimiento. La autopsia estableció que la víctima murió como consecuencia de una hipoxemia —la disminución de oxígeno en la sangre— provocada por una asfixia obstructiva . Aunque el estudio no detectó lesiones compatibles con violencia infantil ni concluyó que se hubiera tratado de una muerte traumática, los investigadores solicitaron análisis complementarios para determinar si existió intervención de terceros. Sosa había declarado que su hija sufrió una crisis respiratoria mientras tomaba la mamadera. Sin embargo, los primeros informes periciales pusieron en duda esa explicación. La causa se encuentra a cargo del fiscal Juan Pablo Calderón , titular de la UFI N°4 de Pinamar. Horrar en Villa Gesell La muerte de Isabella y el resultado de la autopsia El episodio ocurrió cuando Isabella se encontraba en la casa junto con su madre. Según la versión inicial brindada por Sosa, la niña habría sufrido una presunta broncoaspiración mientras era alimentada con una mamadera. Héctor Aguirre , padre de la menor , contó que ese día salió de trabajar cerca de las 14 y llegó a la vivienda aproximadamente media hora después. Al entrar, encontró a su hija acostada e inconsciente. “La nena estaba tirada en la cama. Entonces la tomé en mis brazos y salí corriendo hacia la vereda, hasta el taller, donde había una camioneta. Le pedí por favor que me llevara a la nena” , relató en diálogo con LN+ . Antes de trasladarla al hospital, Aguirre intentó comprobar si todavía tenía signos vitales. “Le tomé el pulso y sinceramente sentí que ya no tenía latido” , sostuvo. Una vez en el centro de salud, los médicos realizaron maniobras de ",
+      "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-del-caso-de-isabella-la-nina-de-dos-anos-que-murio-en-villa-gesell-y-la-detencion-de-su-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:35:16 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/57NYF27AWNDIVKMF4LU3IHMY3U.webp?auth=832b9133afe3b584648b6a45e6c2d5005094bcb6833ef065021c174873221b3b&smart=true&width=655&height=368"
+    },
+    {
+      "id": "07965f514a6ec05561bd",
+      "title": "Avanza un fenómeno de varios días que provocará inestabilidad, tormentas fuertes, granizo y valores de hasta 50 mm de lluvia: las zonas afectadas",
+      "summary": "Los últimos días de julio estarán marcados por un escenario meteorológico cambiante en Buenos Aires . Después de un comienzo de semana dominado por la humedad, las bajas temperaturas y la abundante nubosidad, se espera una mejora temporaria durante el jueves y un desmejoramiento significativo a partir del viernes . El momento de mayor inestabilidad se produciría entre la noche del viernes 31 de julio y la madrugada del sábado 1° de agosto. Durante ese período podrían desarrollarse lluvias y tormentas fuertes, precipitaciones abundantes en pocas horas y episodios aislados de granizo . Los distintos modelos meteorológicos anticipan acumulados cercanos a los 50 milímetros, con la posibilidad de que ese valor sea superado de manera puntual en sectores próximos al Río de la Plata. Debido a la distancia temporal, la intensidad y los horarios precisos del fenómeno todavía podrían sufrir modificaciones. El pronostico del tiempo Cuándo comenzarán las lluvias y cuáles serán las zonas afectadas Según informó Meteored , el episodio estará asociado con un intenso ingreso de aire templado y húmedo proveniente del norte , que incrementará la inestabilidad sobre el centro-este de la Argentina. Las principales zonas bajo observación son la ciudad de Buenos Aires , el conurbano bonaerense y otros sectores del Área Metropolitana de Buenos Aires (AMBA). El área de influencia del Río de la Plata podría registrar los mayores acumulados. Allí, algunos modelos mantienen la posibilidad de que las precipitaciones alcancen o incluso superen puntualmente los 50 milímetros en un período reducido. Durante el viernes aumentará rápidamente la nubosidad. A partir de la tarde comenzarían a registrarse lluvias y tormentas en Buenos Aires , que adquirirían una mayor extensión e intensidad hacia la noche. El período más adverso se concentraría entre las últimas horas del viernes y las primeras del sábado. La combinación de aire húmedo, temperaturas más templadas y una atmósfera inestable favorecería la",
+      "link": "https://www.lanacion.com.ar/sociedad/avanza-un-fenomeno-de-varios-dias-que-provocara-inestabilidad-tormentas-fuertes-granizo-y-valores-de-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:35:13 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/NZL22PG66REJHDRNA3L33BELHA.png?auth=4c11474d6383f72e30fbd48c311f9e0bfae8f9a607495ae71132658dd5892199&smart=true&width=686&height=514"
+    },
+    {
+      "id": "0c242a8708cc22a87fe6",
+      "title": "Daniel López Rosetti, médico cardiólogo: “El movimiento no es sólo salud física, también es tratamiento”",
+      "summary": "El médico cardiólogo Daniel López Rosetti detalló el valor del ejercicio corporal como una herramienta terapéutica fundamental para el abordaje de la salud mental y analizó el impacto del deporte en pacientes con cuadros de angustia y tristeza frente al incremento de casos por el estrés actual. Según el profesional de la salud los beneficios del movimiento sobre el cerebro presentan tiempos específicos para su consolidación e indicó que la mejoría no ocurre de forma inmediata, sino que requiere un proceso de adaptación biológica. “Entre un mes y dos meses. Los trabajos publicados, el beneficio no es inmediato pero es casi inmediato para alguien que tiene depresión entre las cuatro y las ocho semanas se notan los beneficios”, expresó. Ejercicios aeróbicos y de musculación como terapia El especialista comparó las diversas modalidades de ejercicio y su eficacia en el tratamiento de trastornos anímicos y tanto las actividades de resistencia cardiovascular como el fortalecimiento muscular aportan ventajas equivalentes para la psiquis. El médico aclaró al respecto: “Los trabajos publicados hablan de actividad física aeróbica esto es caminata, caminata rápida, jogging y pesas es decir ejercicio de resistencia es decir el ejercicio de musculación tiene el mismo efecto que el ejercicio físico aeróbico en términos de tratamiento de depresión ”. Frecuencia y dosis semanal recomendada La efectividad de la actividad motriz depende de la regularidad y el volumen de tiempo dedicado. En este marco, el cardiólogo citó los estándares internacionales para definir la cantidad de ejercicio necesaria para obtener resultados médicos. “La dosis es la indicada habitualmente por la Organización Mundial de la Salud en el caso del ejercicio físico aeróbico que es llegar a 150 minutos semanales de caminata rápida. Si uno camina rápidamente, sin parar, 30 minutos, bueno, 3 por 5, 15, 30 minutos, 5 veces por semana, es dosis suficiente”. Además, el especialista remarcó la importancia de mantener ",
+      "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-cardiologo-el-movimiento-no-es-solo-salud-fisica-tambien-es-tratamiento-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:35:10 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/X2D3AJUS75C7JM56DKABYWQBDA.jpg?auth=1361ab725143a579d5ad5b1e42b673a8d5fa9aba3e983981a131e21f3428af5c&smart=true&width=4000&height=2667"
+    },
+    {
+      "id": "3aa33b112d7a20266f54",
+      "title": "Jorge Tartaglione, médico, sobre el cáncer de mama: “Esto es importantísimo: 9 de cada 10 mujeres, que tienen entre 30 y 40 años, se pueden curar”",
+      "summary": "El médico Jorge Tartaglione abordó en LN+ la importancia de la prevención y el diagnóstico temprano del cáncer de mama , a partir del caso de la influencer Carolina Trippar , quien contó públicamente que atraviesa una enfermedad metastásica. Trippar, que reúne más de dos millones de seguidores en YouTube y más de medio millón en Instagram , compartió su diagnóstico después de varios meses de estudios, tratamiento psicológico y procesamiento personal. “Tengo cáncer de mama. HER2 negativo, hormonal positivo con metástasis. Ese es mi diagnóstico” , expresó al relatar el difícil proceso que atravesó. Tras presentar su testimonio, Tartaglione valoró la decisión de la influencer de hacer pública su situación y utilizó el caso para resaltar la relevancia de los controles médicos. “Le admiro su valentía, porque esto me permite contarles a ustedes” , señaló. El dato que destacó Tartaglione Durante su columna, Tartaglione puso el foco en las mujeres jóvenes y aseguró que existen altas probabilidades de curación cuando la enfermedad puede abordarse de manera temprana. “El dato muy positivo es que 9 de cada 10 se pueden curar. Y esto es importantísimo: 9 de cada 10 se pueden curar” , remarcó. El médico señaló, al mismo tiempo, que cada año se diagnostican unos 22.000 casos de cáncer de mama, lo que equivale a aproximadamente 60 nuevos diagnósticos diarios. Según explicó, la enfermedad es poco frecuente antes de los 30 años . Cuando aparece en edades tempranas, indicó, puede existir una carga genética relevante. También advirtió que el cáncer de mama puede presentarse después de los 70 años . Entre los factores de riesgo mencionó los antecedentes genéticos , el tabaquismo , la obesidad y la hipertensión . Sin embargo, concentró su mensaje en la necesidad de cumplir con las consultas ginecológicas y los estudios indicados para cada paciente. Cancer de mama: cuidados y pasos a seguir - Tartaglione Cuándo debe realizarse la primera mamografía Tartaglione explicó que, como pauta gen",
+      "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-cancer-de-mama-esto-es-importantisimo-9-de-cada-10-mujeres-que-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:35:07 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/PEE2QJLDIRE57FQNPSQWZXYTPA.jpg?auth=348ef46c744c81705adeb5efe6d0ed921d5eaa1c3b667dc1b1874fb5d681e68d&smart=true&width=800&height=345"
+    },
+    {
+      "id": "ea426902812546142322",
+      "title": "Russell disfrutando de sus vacaciones en moto acuática",
+      "summary": "El piloto de Mercedes subió a sus redes un vídeo disfrutando de sus vacaciones en una moto acuática con una vista especular desde su yate.",
+      "link": "https://www.marca.com/motor/formula1/2026/07/28/russell-disfrutando-vacaciones-moto-acuatica-video.html",
+      "pubDate": "Tue, 28 Jul 2026 17:34:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/cy41k1gQCm30H2MxG.jpeg"
+    },
+    {
+      "id": "0c53a940582078e4bb22",
+      "title": "Stefano Marconi Sgroi, el niño de 9 años que es fan de Colapinto y tiene el coeficiente intelectual más alto del país",
+      "summary": "Es fan de los autos, acaba de pasar a cuarto grado, vive en Tolosa, La Plata y tiene el coeficiente intelectual más alto del país . Esa podría ser una breve reseña de la vida de Stefano Marconi Sgroi , el niño de nueve años que visitó LN+ para compartir su singular historia. “Ser piloto de fórmula 1 sería un gran sueño para mí” , explicó a LA NACION , al tiempo que contó que le está diseñando una bicicleta a Franco Colapinto , quien corrió este fin de semana en el Gran Premio de Hungría . Stefano Marconi Sgroi en LN+ “ Comencé a hablar a los siete meses y a los dos años ya leía ”, se presentó Sgroi, el niño superdotado que, en su visita a LN+ aseguró que “ siempre tuve la idea de hacer un auto propio ”. Un fanatismo sobre ruedas “Desde hace un tiempo estoy trabajando en la maqueta de un auto propio, basado en el modelo Escarabajo de Volkswagen ”, señaló el niño prodigio. Al momento de describir su creación, indicó: “ Va a estar diseñado íntegramente con materiales de fibra de carbono y va a tener el motor trasero, para nivelar el peso del auto”. Según sus estimaciones, “ va a estar terminado en diez meses ”. Consultado sobre sus preferencias sobre las cuatro ruedas, Sgroi dijo: “Yo soy muy de las marcas alemanas. Pero si tengo que elegir entre Ford y Chevrolet, me quedo con Ford, por confiabilidad ”. El niño también tomó partida en la discusión entre autos eléctricos o a combustión . “El eléctrico contamina más, porque para sacar el litio rompen todas las minas de litio, es decir, rompen la mitad del mundo . Además, si chocas un eléctrico, explota”, subrayó. En referencia a la durabilidad de estos vehículos, sostuvo: “Si tomamos como ejemplo la batería, en un auto eléctrico te pueden durar entre cinco y diez años. En cambio, en los autos de combustión, la tenés para toda la vida “. Su relación con la escuela Si bien Sgroi indicó que le gusta ir a la escuela “porque ahí charlo con mis amigos”, hizo una aclaración: “ El colegio, en general, me aburre ”. “ Las materias",
+      "link": "https://www.lanacion.com.ar/sociedad/stefano-marconi-sgroi-el-nino-de-9-anos-que-es-fan-de-colapinto-y-tiene-el-coeficiente-intelectual-nid26072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:39 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/LSKVFAHAYVGL5LJPSZ6EHXXYRQ.jpeg?auth=067fec43e01578d98fcdf09e1635c1e61c49c1e36b2548bf511d13f46e71b73a&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "08041dd5d41539dafc5e",
+      "title": "La reflexión de Aristóteles sobre la verdad: “Decir de lo que es, que no es, y de lo que no es, que es, es falso”",
+      "summary": "En una entrevista para LA NACION , el filósofo Darío Sztajnszrajber abordó la tensión histórica entre la utilidad del conocimiento y la búsqueda ontológica, profundizando en la definición clásica de verdad y destacó la importancia de la perspectiva aristotélica. Sztajnszrajber explicó que, según Aristóteles, la verdad se instituye mediante una relación de correspondencia: “ Decir de lo que es, que es, y de lo que no es, que no es, es verdadero. Ahora, decir de lo que es, que no es, y de lo que no es, que es, es falso” . Lo disruptivo de este planteo, según el autor, radica en que Aristóteles prioriza el verbo “decir”, estableciendo una conexión directa entre el lenguaje, el pensamiento y la realidad objetiva: “Tiene que haber correspondencia entre lo que digo, lo que pienso y lo que hay. Lo interesante de esta relación de correspondencia es que Aristóteles la primera palabra que usa es decir, porque en definitiva la verdad tiene que ver con esa conexión entre el lenguaje o el pensamiento ”, resaltó. Entrevista a Dario Sztajnszrajber Este enfoque tradicional enfrenta hoy un escenario de posverdad, donde la validación de sesgos personales suele prevalecer sobre la comprobación empírica. Al respecto, Sztajnszrajber advirtió que la definición aristotélica choca con las dinámicas contemporáneas de la información. “¿Quién puede salir a la realidad, o sea, salirse de uno mismo para comprobar objetivamente que algo es como es?” , cuestionó, planteando que las grandes verdades históricas han sido siempre relativas a sus respectivos paradigmas culturales y sociales. El filósofo también diferenció las verdades cotidianas, vinculadas a la utilidad mecánica, de aquellas verdades filosóficas que buscan un sentido existencial: “Las verdades cotidianas son verdades que implican una utilidad directa. Tipo, prendo la canilla, sale el agua. Ahí hay una verdad a partir de una ejecución mecánica, de una manualidad. Yo qué sé, prendes la canilla, sale el agua, prendes la luz, la luz se p",
+      "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-aristoteles-sobre-la-verdad-decir-de-lo-que-es-que-no-es-y-de-lo-que-no-es-que-es-es-nid26072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:35 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/2G5IN6WBSBC2LF2L5MDO2HCHYY.JPG?auth=4c834fe5020ec8316b30eede199fb28063b93addd54a69f125a3eb8675a8b22d&smart=true&width=2000&height=1310"
+    },
+    {
+      "id": "c1a69169f997cca6a5dd",
+      "title": "Tony Robbins, experto en crecimiento personal: “La mente busca lo que está mal”",
+      "summary": "El experto en crecimiento personal Tony Robbins planteó que el sufrimiento tiene una raíz concreta: el foco excesivo en uno mismo . Según explicó en una de sus charlas motivacionales, la mente humana tiende a identificar lo que está mal, lo que refuerza estados emocionales negativos cuando la atención queda atrapada en el propio ego. “Solo hay una razón por la que sufrís. Estás enfocado en vos mismo. El enfoque en uno mismo crea sufrimiento”, afirmó. En esa línea, sostuvo que, si bien el ego es una característica presente en todas las personas, permanecer en esa lógica profundiza el malestar. “La naturaleza de la mente humana define lo que está mal. Y todos somos egoístas a veces, pero si te quedás en el egoísmo, sufrís” , agregó. Tony Robbins, experto en crecimiento personal Gratitud como punto de inflexión Para el especialista, la salida más rápida a ese círculo es la gratitud. “No hay manera mejor. No podés sufrir y ser agradecido. No podés ser agradecido y sufrir al mismo tiempo” , aseguró, al describirla como una herramienta inmediata y accesible. Desde su perspectiva, el cambio no depende de factores externos, sino de una decisión consciente de modificar el enfoque. “La única manera de sentir gratitud es salir de vos mismo y notar la gracia en tu vida y en los demás” , explicó. Cambiar expectativas para transformar la vida Robbins propuso, además, un ejercicio concreto para generar un cambio emocional inmediato: reemplazar las expectativas por gratitud. “¿Querés una vida diferente ahora mismo? ¿Querés transformar tu alegría ahora mismo? Cambiá tus expectativas por gratitud y tendrás una vida completamente nueva” , concluyó.",
+      "link": "https://www.lanacion.com.ar/lifestyle/tony-robbins-experto-en-crecimiento-personal-la-mente-busca-lo-que-esta-mal-nid24072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:32 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZSD6ZJLJWRFSJD5EEV5H2BJGDE.png?auth=30dd67e63a95ff9ead25b936b7e38f9bdb8e4289d367bbe72c9df2f2f511dbbe&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "16b15fba32b054d96966",
+      "title": "Gabriel Rolón, psicólogo: “Amar a alguien es otorgarle un poder sobre vos, y el amor sano es el que nunca usa ese poder para dañarte”",
+      "summary": "El escritor y psicoanalista Gabriel Rolón en diálogo con LN+ , describió los mecanismos de la psiquis frente a los afectos y la gestión de la vulnerabilidad compartida. El encuentro permitió desglosar la importancia de la protección mutua en la pareja y la búsqueda de un bienestar posible en un entorno marcado por las carencias y los mandatos externos. “Amar a alguien es otorgarle un poder sobre vos” y explicó que este proceso ocurre mediante el intercambio de vivencias que el individuo reserva para su círculo más íntimo . Según el escritor, el vínculo se nutre de confesiones sobre dolores, miedos y situaciones que causan vergüenza: “Te cuento cosas que no le conté a nadie, sabés de mis dolores, sabés de algunas cosas que me avergüenzan” , detalló sobre las emociones que las personas comparten en una relación. En este marco, sostuvo: “Cuando vos amás a alguien, le otorgás un montón de cosas que le dan un gran poder sobre vos. Y lo que yo creo es que la persona que te ama con sanidad es la que renuncia a usar ese poder . Nunca usa el poder que tiene sobre vos para dañarte, para ganar una discusión, porque está enojado\". El uso de la información privada como arma de ataque marca un límite definitivo en la pareja. Rolón resultó tajante respecto a esta conducta en el ámbito de los afectos: “Usar los dolores que alguien te confió para dañarlos es una actitud imperdonable” , sentenció el analista y enseguida agregó: “Si en algún momento decidí usar esto, es que hay algo que se rompió”. En su libro La felicidad , el profesional propone el neologismo “faltacidad” para definir un bienestar que no ignora el dolor, ya que rechaza la idea de una plenitud absoluta y prefiere el concepto de una dicha imperfecta y afirma que la vida es un lugar incómodo e injusto donde el ser humano convive con sus marcas del ayer. “La mezcla de la falta y la felicidad. Que es una felicidad en falta. Es una felicidad en un ser humano al que ya le faltan cosas” , subrayó. Para el analista, la estab",
+      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-amar-a-alguien-es-otorgarle-un-poder-sobre-vos-y-el-amor-sano-es-el-que-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:29 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/24XO7QCTKBDYXFGG4WENNIDOV4.png?auth=2edc3da6bd2cfb9435d8b20bd9a31ae1eec25a55f8b51af139853e1dd9839483&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "6174f201f65d63c7928f",
+      "title": "Los psicólogos coinciden en que Scaloni es el modelo de líder ideal: “Cercano, pero firme”",
+      "summary": "Tras la derrota de la Argentina ante España por la final del Mundial 2026 , el psicólogo deportivo Adriel Levy analizó en diálogo con LN+ cómo los deportistas y el cuerpo técnico procesan el desgaste acumulado tras años de preparación. Según el especialista, el equipo sufrió una combinación de agotamiento físico y una carga excesiva en cuestiones extrafutbolísticas, especialmente tras el encuentro frente a Inglaterra, lo que dificultó mantener el foco necesario para el tramo final del torneo. En este marco, al ser consultado sobre el rol del entrenador, el experto no dudó en señalar a Lionel Scaloni como una figura clave en la gestión de este grupo. “ Creo que es el modelo , lo que mostró hasta acá, el modelo ideal de liderazgo, cercano al jugador, una persona que escucha, pero firme para tomar decisiones, que conduce bien”. El impacto de la derrota en los jugadores El especialista resaltó que, aunque desde afuera pueda parecer frío al no celebrar eufóricamente, esta postura responde a la necesidad de mantener la conexión con el rendimiento inmediato. “Él tiene que tomar decisiones en base a lo que va a venir en el juego. Y no quiere decir que no lo sienta, porque siempre hubo sensibilidad” , destacó. La capacidad de Scaloni para manejar las derrotas también fue valorada como un pilar fundamental de su gestión. En la conferencia de prensa posterior al partido, el director técnico manifestó: “Sabiendo que hemos dejado todo, tengo un montón de cosas para decir de cómo hemos llegado acá pero no vale la pena. Agradecimiento eterno a estos chicos que nos han dado otra final del mundo y han competido hasta el final ”. Además, el entrenador subrayó una enseñanza clave sobre el espíritu competitivo: “ Somos grandes en la victoria y tenemos que ser grandes en la derrota. Estamos demostrando hoy que sabemos perder . El partido lo perdimos y asumimos las cosas, pero no por eso vamos a dejar de acordarnos de todo lo que hicimos para llegar acá”. De hecho, una semana después de ",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/los-psicologos-coinciden-en-que-scaloni-es-el-modelo-de-lider-ideal-cercano-pero-firme-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:24 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/JTGW2FJT2ZC5FIJAA7TQ2MULLE.jpg?auth=3537e7da5adcf4ab0cc99553af009fabb661806ad0f8afa9dbcdfa3a0f3ef97c&smart=true&width=3564&height=2376"
+    },
+    {
+      "id": "9f11a5542d87b6cd6953",
+      "title": "La carta de Gianni Infantino a la selección argentina tras perder la final del Mundial 2026 ante España",
+      "summary": "Gianni Infantino le envió una carta a Claudio “Chiqui” Tapia después de la derrota de la selección argentina ante España en la final del Mundial 2026. El presidente de la FIFA felicitó al plantel por la obtención de la medalla de plata y puso en valor el camino recorrido durante la competencia. El documento está fechado el 20 de julio en Nueva York , apenas un día después del partido decisivo, y fue dirigido a Tapia en su carácter de presidente de la Asociación del Fútbol Argentino (AFA) y miembro del Consejo de la FIFA. Infantino calificó el subcampeonato como “un nuevo resultado importante para el fútbol argentino” y rogó que sus felicitaciones fueran transmitidas a los jugadores, al entrenador Lionel Scaloni, a los integrantes de los cuerpos técnico y médico, y a los hinchas que acompañaron al seleccionado durante todo el torneo. Las felicitaciones de Infantino por la medalla de plata “Ayer, el domingo 19 de julio de 2026, en el magnífico Estadio de Nueva York Nueva Jersey, Argentina conquistó la medalla de plata de la Copa Mundial de la FIFA 2026, tras una emocionante final contra España” , comenzó el dirigente. A continuación, Infantino se dirigió directamente a Tapia: “Quisiera reiterarle mis más sinceras felicitaciones por este nuevo resultado importante para el fútbol argentino” . La Argentina llegó a la definición con la posibilidad de conquistar su segundo título mundial consecutivo, pero España se impuso por 1-0 durante el tiempo suplementario . Pese al dolor por la caída, el presidente de la FIFA eligió destacar que el equipo volvió a ubicarse entre los dos mejores seleccionados del mundo. La seleccion argentina fue recibida por miles de hinchas El reconocimiento a la actuación de la albiceleste En otro tramo de la carta, Infantino realizó un balance general de la competencia y aseguró que la edición de 2026 será recordada por los partidos, las nuevas figuras y el acompañamiento de los hinchas en los estadios. “La Copa Mundial de la FIFA 2026 permanecerá",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-carta-de-gianni-infantino-a-la-seleccion-argentina-tras-perder-la-final-del-mundial-2026-ante-nid24072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:21 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/VXQNBSDBWBDQFMB2R2FHF2TRLI.jpg?auth=c07510920aa0cb6fad6804107ebd73e54eb56ca1ec41c620cfdbd4c45fca72da&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "66ebc8e8e769022c7ead",
+      "title": "La reflexión de Epicuro que actúa como un mantra diario: “Ser feliz es que no duela”",
+      "summary": "El filósofo Darío Sztajnszrajber , en un diálogo con LA NACION , sostuvo que la filosofía posee una utilidad terapéutica al permitir que el ser humano se distancie de las exigencias cotidianas y del imperativo de la productividad . Asimismo, el docente reflexionó sobre cómo esta disciplina ofrece una alternativa ante la presión de convertir cada acción en una fuente de ganancia o rendimiento. “Hay algo en ese rendimiento, rendimiento como rentabilidad, donde cada paso que damos tenemos que aprovecharlo , generar una ganancia, que nos produzca algún tipo de acumulación. Y me parece que esa es una manera de pensar la vida , tampoco la juzgo, digo, a mí es una manera que no me, no me interpela, me interpela mucho más”, remarcó Entrevista a Dario Sztajnszrajber Según el especialista, el ejercicio intelectual invita a cuestionar los lugares comunes y a buscar perspectivas más sensibles y críticas frente a una realidad previsible: “La utilidad, la planificación, un determinado tipo de ser humano más asociado al mundo de lo productivo, cuando pensamos la felicidad o el amor en esos términos, hay algo que se pierde ”. Asimismo, Sztajnszrajber recuperó conceptos de diversos pensadores para explicar su visión sobre la existencia y menciona a Epicuro al referirse a la búsqueda de la felicidad, quien definía este estado como la imperturbabilidad del alma. “ Epicuro decía que la felicidad, la ataraxia epicúrea es la imperturbabilidad del alma . Muy ligado a esta idea de poder encontrar que nada de algún modo nos saque de cierto eje , de cierta paz interior, de cierta tranquilidad”, relató el especialista y enseguida agregó: “ Para Epicuro lo que más nos perturban son las dependencias , y esas dependencias se estructuran a partir de lo que él llama los falsos infinitos, que es pensar que las cosas duran para siempre”. Para ejemplificar, el docente sostuvo que cuando una persona se encuentra en una relación amorosa, esta pendiente o dependiente, y lo mismo sucede con las popiedade",
+      "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-epicuro-que-actua-como-un-mantra-diario-ser-feliz-es-que-no-duela-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:18 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/4XVM6SGZUFGBFNF7GT4FCTA4I4.JPG?auth=e7325f1f164041e0ebbe747cccca63d8a78371b68b1f1010d4e205e9c6b9a98c&smart=true&width=1943&height=1333",
+      "subcat": "mercado"
+    },
+    {
+      "id": "6c77dd854899ac858152",
+      "title": "Jorge Tartaglione, médico, sobre el uso del microondas: “Hay que tratar de no meter cosas de plástico porque tienen microplásticos que impactan en nuestro organismo”",
+      "summary": "En una nueva edición de su columna sobre las malas costumbres cotidianas, el médico Jorge Tartaglione advirtió sobre el uso de recipientes de plástico dentro del microondas y recomendó reemplazarlos por envases de vidrio aptos para soportar altas temperaturas. El especialista explicó en LN+ que muchas personas guardan su comida en recipientes plásticos y luego los colocan directamente en el electrodoméstico para calentarla. Según señaló, se trata de una práctica que convendría evitar para reducir la exposición a los microplásticos . Durante el intercambio, Tartaglione también se refirió a los envases que llevan la indicación de que pueden utilizarse en el microondas. Ante la consulta sobre esos productos, sostuvo que su recomendación se mantiene y que la alternativa preferible es el vidrio. Malas costumbres: calentar comida en el microondas La advertencia de Tartaglione sobre los recipientes de plástico El tema surgió durante una conversación sobre aquellas acciones que se repiten todos los días sin prestar demasiada atención. “Te voy a traer algo que hacemos cotidianamente los seres humanos y no nos damos cuenta. Vos tenés el microondas, ¿cómo calentás?” , preguntó Tartaglione. Luego de que uno de los conductores indicara que utilizaba un recipiente de vidrio, el médico aprobó la elección: “Excelente” . “El mensaje para ustedes en casa, para terminar con un mensaje saludable, es tratar de no meter en el microondas cosas de plástico, porque tienen microplásticos y sabemos hoy muy claramente que cada uno de nosotros en nuestro organismo tenemos gran cantidad que impactan en la salud”, afirmó. Qué pasa con los recipientes aptos para microondas Tras la advertencia, Tartaglione fue consultado específicamente por aquellos envases que se comercializan con una identificación que autoriza su uso dentro del microondas. “¿Aun los que dicen que son aptos para microondas?” , le preguntaron. El médico respondió: “Aun los que son aptos se sugiere no usarlos” . Como reemplazo, rec",
+      "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-uso-del-microondas-hay-que-tratar-de-no-meter-cosas-de-plastico-nid25072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:14 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/O4PZ3OJXQBBF7CU3BY2J4BF3NU.png?auth=4e9fcf4d81b60d11d017bfa29b5fc244267cdd94afaefe8cad1cf87d42e43a7a&smart=true&width=1536&height=1024"
+    },
+    {
+      "id": "57f51829caea329455ee",
+      "title": "Se avecinan 24 horas inestables, con tormentas fuertes, ráfagas intensas e importante actividad eléctrica: las zonas afectadas",
+      "summary": "El comienzo de la última semana de julio estará marcado por la inestabilidad en distintas regiones del país. El Servicio Meteorológico Nacional (SMN) emitió una alerta amarilla por tormentas para este lunes ante la posibilidad de fenómenos localmente fuertes, ráfagas intensas y abundante actividad eléctrica. La advertencia alcanza sectores de Buenos Aires, Entre Ríos, Santa Fe y Corrientes , donde también podría registrarse ocasional caída de granizo. Según el organismo, se esperan valores de precipitación acumulada de entre 20 y 50 milímetros, aunque esas cifras podrían superarse de manera puntual. En el Área Metropolitana de Buenos Aires (AMBA), en tanto, el tiempo permanecerá mayormente nublado y se prevé un período de inestabilidad durante la segunda mitad de la jornada. Para la ciudad de Buenos Aires se pronosticaron tormentas aisladas por la tarde y chaparrones hacia la noche, con una temperatura máxima cercana a los 19°C. Pronostico del tiempo Se avecinan 24 horas inestables: cuáles son las zonas afectadas De acuerdo con Meteored , la segunda semana de las vacaciones de invierno comenzará en Buenos Aires con abundante nubosidad, temperaturas superiores a las habituales para esta época del año y algunos períodos con precipitaciones. El panorama se mantendría dinámico durante los próximos días, aunque sin eventos destacados de lluvias abundantes en el ámbito metropolitano. Por su parte, el SMN mantiene una alerta amarilla por tormentas para sectores del sur de la provincia de Buenos Aires, Entre Ríos, Santa Fe y Corrientes. “El área será afectada por tormentas aisladas de variada intensidad, algunas localmente fuertes” , indicó el organismo. Estos fenómenos podrán estar acompañados por precipitaciones intensas en cortos períodos, ocasional caída de granizo, ráfagas de viento e importante actividad eléctrica . Además, se estiman acumulados de entre 20 y 50 milímetros, con la posibilidad de que esos registros sean superados de manera localizada. 27 JUL I ⚠️ #Aler",
+      "link": "https://www.lanacion.com.ar/sociedad/se-avecinan-24-horas-inestables-con-tormentas-fuertes-rafagas-intensas-e-importante-actividad-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:11 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/U2WEFKX5KZHX3BRAQW3TFQGBEA.png?auth=3117a975805c8bb1c6a21498ee510f5d5a22fd0800d7401df3e90ddd3c5c3324&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "1f6252fccba1452c99ed",
+      "title": "El escándalo de prostitución y drogas que involucró a Slavko Vinčić, el árbitro de la final Argentina vs. España que se acaba de retirar",
+      "summary": "Slavko Vincic estuvo en el centro de la escena durante la final del Mundial 2026, en la que España derrotó por 1-0 a la selección argentina en el alargue y se quedó con el título. El árbitro esloveno, de 46 años, anunció este lunes su retiro de la actividad profesional . “Como primer árbitro esloveno, el oriundo de Maribor dirigió la gran final del Mundial de 2026 entre España y Argentina en East Rutherford, confirmando su estatus como uno de los mejores árbitros de la historia”, escribió la NZS , y siguió: “Como broche de oro a su temporada de despedida, la Federación Internacional de Historia y Estadística del Fútbol (IFFHS) lo declaró mejor árbitro del Mundial, y en Italia recibió el prestigioso Premio Giulio Campanati”. La expulsión de Enzo Fernández En 2020, Vincic fue detenido durante un operativo policial realizado en una cabaña de Bijeljina, en Bosnia y Herzegovina . En el lugar se encontraban otras 25 personas y nueve mujeres, mientras que los investigadores avanzaban sobre una presunta red vinculada con la prostitución, el tráfico de armas y las drogas . El árbitro aseguró desde el primer momento que no tenía ninguna relación con los delitos investigados. Después de prestar declaración, quedó en libertad y fue desligado de la causa, por lo que pudo continuar con su actividad profesional hasta ser elegido para dirigir el partido más importante del Mundial 2026. La explicación de Slavko Vincic tras su detención Una vez liberado, Vincic sostuvo que había llegado hasta el lugar por una invitación y que desconocía lo que ocurría allí. “No tengo nada que ver con eso. Acepté una invitación para almorzar, que resultó ser mi mayor error. Me arrepiento” , afirmó. En aquella oportunidad, también reconstruyó el momento en el que irrumpieron los agentes: “Estaba sentado en una mesa con mi compañía, de repente llegó la policía y sucedió lo que sucedió” . La Federación de Fútbol de Eslovenia respaldó su versión y resumió el episodio al señalar que el árbitro había estado",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/el-escandalo-de-prostitucion-y-drogas-que-involucro-a-slavko-vincic-el-arbitro-de-la-final-argentina-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:07 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/RHEPJP42BJCXXIKNX4JF7IIATQ.JPG?auth=a683b0c3a003aea9219052c0b7d43316df536e499ca0625c28a605c75f14f870&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "dda96bd5d5f619e3b848",
+      "title": "Mel Robbins, experta en desarrollo personal: “Tenés que aprender a amar a tus padres por quienes son, no por quienes deseás que sean”",
+      "summary": "En una reciente intervención en su popular podcast, la especialista en desarrollo personal Mel Robbins abordó una de las problemáticas más recurrentes en las dinámicas familiares adultas: la tensión derivada de intentar corregir o transformar la esencia de los padres . Bajo una perspectiva enfocada en la gestión emocional, Robbins enfatizó que la clave para mejorar estas relaciones no radica en una modificación externa, sino en una transformación interna del individuo : “La gente es quien es y tenés que aprender a amarlas por quienes son, no por quienes deseas que sean” . View this post on Instagram El análisis de Robbins sostiene que, con el paso del tiempo, las personas tienden a consolidar sus personalidades: “La mayor cantidad de gente, más vieja, se vuelve más rígida” , sostuvo la experta. Esta observación resulta crucial para quienes mantienen expectativas de cambio sobre sus padres , ignorando que el deseo de mejora suele chocar con una falta de voluntad o necesidad de transformación en la generación anterior. En este sentido, afirmó: “ Tus padres probablemente no han ido a la terapia, ni quieren . Los problemas que ves, que deseás que cambien o mejoren, han estado ahí para siempre. No están cambiando ”. Ante este escenario, la especialista propone un ejercicio útil , que consiste en adoptar una perspectiva más compasiva al observar el pasado de los padres: “Y algo que me ha ayudado a desarrollar un nivel de aceptación y amor con mis amigos: es decirme que me dieron todo lo que pudieron basado en su experiencia de vida ”. Si bien el cambio directo del otro no está garantizado, la experta advierte que la dinámica relacional posee una plasticidad oculta, la cual depende exclusivamente del comportamiento de uno mismo. Esto -según Robbins, ocurre “cuando operás sabiendo que la persona no va a cambiar”. En su experiencia personal y profesional, el resultado suele ser positivo cuando se decide alterar el modo de vinculación: “Y lo que he encontrado, de vez en cuand",
+      "link": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-desarrollo-personal-tenes-que-aprender-a-amar-a-tus-padres-por-quienes-son-no-nid25072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:03 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/FQX2JENVUZEAJJZSKCASXPKWDE.jpeg?auth=56fedbd3f7e8bca2bc127d3e206903d4271791207fcf450c73237fb5350d5a6a&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "5e1532f14c33b172f90f",
+      "title": "Arthur Brooks, catedrático de Harvard: “Las personas más felices son las que nunca dejan de aprender”",
+      "summary": "La búsqueda de la felicidad suele asociarse con factores como el éxito profesional, las relaciones personales o la estabilidad económica. Sin embargo, para Arthur Brooks , profesor de Harvard y uno de los especialistas más reconocidos en el estudio de la felicidad, existe un hábito mucho más simple que puede marcar una diferencia significativa en el bienestar cotidiano . A través de un video publicado en su cuenta de Instagram , el académico sostuvo que las personas más felices tienen una característica en común: nunca dejan de aprender . Pero no lo hacen por obligación o necesidad, sino impulsadas por una curiosidad genuina por comprender mejor el mundo que las rodea. View this post on Instagram Por qué aprender está vinculado con la felicidad Brooks explicó que el aprendizaje y la felicidad mantienen una relación mucho más estrecha de lo que muchas personas imaginan. “Las personas más felices son las que nunca dejan de aprender. Lo hacen no por obligación, sino por curiosidad” , afirmó. Según el experto, cuando alguien alimenta esa curiosidad a través de la lectura, la exploración o el descubrimiento de nuevas ideas, activa una emoción fundamental: el interés . Lejos de ser un sentimiento menor, considera que el interés constituye uno de los estados emocionales positivos más básicos y relevantes para el bienestar humano. La curiosidad como motor del bienestar Para Brooks, la curiosidad funciona como una puerta de entrada hacia experiencias emocionales más satisfactorias. Cuando una persona mantiene el deseo de aprender algo nuevo, comprender un tema desconocido o descubrir perspectivas diferentes, genera una sensación de entusiasmo que ayuda a combatir la rutina y la apatía. De acuerdo con su explicación, de ese interés surgen niveles más altos de alegría, una mayor sensación de satisfacción y, finalmente, una percepción más profunda de felicidad . Leer, explorar y descubrir El profesor de Harvard destacó que no se trata necesariamente de realizar estudios formale",
+      "link": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:32:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/3X3EXR3M6NBBTF56NO2IYNTKXY.jpeg?auth=ee883e8a274d73424bfa336e49130ef88eabedb39e6c78cde01c1163cd36646b&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "8238835d1fc45015c2de",
+      "title": "Cuántos años va a tener cada jugador de la selección argentina en el próximo Mundial 2030",
+      "summary": "Después de la derrota frente a España en la final del Mundial 2026 , la selección argentina comenzó a transitar una nueva etapa. Aunque todavía faltan cuatro años para la próxima Copa del Mundo, que se disputará en 2030 , la edad que tendrán entonces algunos referentes abre interrogantes sobre la renovación del plantel. Lionel Scaloni deberá afrontar un proceso en el que convivirán distintas generaciones. Mientras históricos como Lionel Messi, Nicolás Otamendi, Emiliano “Dibu” Martínez, Nicolás Tagliafico y Rodrigo De Paul llegarán con más de 35 años, otros campeones del mundo estarán cerca de los 30 y los más jóvenes atravesarán, en principio, uno de los mejores momentos de sus carreras. Las edades son orientativas, dado que pueden variar de acuerdo con las fechas definitivas del torneo y los cumpleaños de cada futbolista. El caso más significativo es el de Messi: llegará a 2030 con 42 años y cumplirá 43 el 24 de junio . La seleccion argentina fue recibida por miles de hinchas Qué edad tendrán los referentes de la Selección en 2030 Messi y Otamendi serían los jugadores de mayor edad del actual grupo. Ambos llegarán a la próxima cita mundialista con 42 años , aunque el capitán cumplirá 43 durante ese año. El interrogante principal estará puesto sobre la continuidad del rosarino, quien todavía no confirmó hasta cuándo vestirá la camiseta argentina. Su presencia en una séptima Copa del Mundo dependerá de su situación personal y futbolística durante los próximos años. Otamendi , por su parte, también tendrá 42 . El defensor ya era uno de los futbolistas más experimentados del plantel en 2026 y su eventual participación en 2030 supondría una longevidad excepcional para un jugador de campo. Más atrás aparecen los arqueros. Gerónimo Rulli tendrá 38 años; Dibu Martínez, 37; y Juan Musso, 36 . Por las características del puesto, sus edades no necesariamente impedirían que continuaran dentro del seleccionado. Tagliafico también tendrá 37 años , mientras que De Paul alcanzará",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/cuantos-anos-va-a-tener-cada-jugador-de-la-seleccion-argentina-en-el-proximo-mundial-2030-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:57 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/Q4NYO7OTM5H3DNXO23GZ4KICZI.jpg?auth=bb772a160d8baaec5b706300f681090cca50540ed10c0cc85c0c38ab5a81b682&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "efa5857c7b76e2971096",
+      "title": "La reflexión de Platón sobre el propósito de la existencia: “Vamos en busca de un saber que no vamos a alcanzar”",
+      "summary": "En diálogo con LA NACION , el filósofo argentino Darío Sztajnszrajber , abordó la definición de la filosofía y el concepto de la felicidad en relación a la realizacion de las personas. Ante la consulta de la búsqueda de la felicidad, sostuvo: “Encuentro algo de la felicidad cuando puedo como realizarme en eso ahora. Nunca creo que estoy 100% realizado” . “Parece que la realización, mirá, lo pienso en términos vocacionales, es más como una pregunta interna. Que uno es como que, digamos, echa mano cada vez que uno está demasiado seguro de algo. Entonces estás ahí, y uno dice, ¿estoy de verdad realizado? Porque de repente me la creí“, reflexionó el especialista. Entrevista a Dario Sztajnszrajber Asimismo, Sztajnszrajber remarcó que la dificultad de “hacer filosofía cuando todo se derrumba es fácil. Lo difícil es hacer filosofía cuando todo funciona bien”, y negó que el propósito de la existencia sea únicamente el buen funcionamiento. En este sentido, subrayó: Es como esa definición hermosa que da Platón en el banquete sobre la filosofía: “Vamos en busca de un saber que sabemos que nunca vamos a alcanzar, pero vamos igual” . Hay algo que nos motiva. La búsqueda de la felicidad “Para mí la felicidad tiene que ver con poder plasmar en mi vida mi deseo, pero como hago filosofía, mi deseo es un deseo, filosofía, es deseo por el saber, es esa especie de asombro, de recuperación del asombro, a mí me interesa mucho, estar todo el tiempo elucubrando aspectos que hacen a la realidad. Me hace mucho ruido como consumir la realidad tal como me la venden “, sostuvo el especialista. “Hay algo de lo que en filosofía se llama la escuela de la sospecha, que une a pensadores como Freud, Marx, Nietzsche, esta idea de que en el fondo hay un espíritu crítico que te puede abrir otro escorzo de las cosas . Me interesa mucho eso, desplegar escorzos ”, sumó. “Uno viene a este mundo a encontrar la verdad, la encontré, a ser feliz, lo encontré, a encontrar a tu otra mitad, la encontré”, y ensegui",
+      "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-platon-sobre-el-proposito-de-la-existencia-vamos-en-busca-de-un-saber-que-no-vamos-a-nid25072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:54 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/2G5IN6WBSBC2LF2L5MDO2HCHYY.JPG?auth=4c834fe5020ec8316b30eede199fb28063b93addd54a69f125a3eb8675a8b22d&smart=true&width=2000&height=1310",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "dc268579f088df978bb9",
+      "title": "Marcelo “Daddy” D’Andrea, histórico masajista de la Selección: “Son todos ordenaditos, pero Lautaro Martínez es el extremo”",
+      "summary": "Detrás de cada partido de la selección argentina existe un grupo de colaboradores que conoce como pocos lo que sucede en la intimidad del plantel. Dos de ellos son Mario “Marito” Di Stéfano , histórico utilero del combinado nacional, y Marcelo “Daddy” D’Andrea , masajista del equipo desde hace más de dos décadas. Lejos de las teorías conspirativas y el presunto mal clima entre algunos jugadores, ambos participaron de un divertido ping-pong en el que revelaron algunos secretos del vestuario: quiénes son los jugadores más bromistas, cuál es el más ordenado, quién pide cinco minutos más para levantarse y qué futbolista puede reclamar un masaje incluso cuando no lo necesita. También recordaron pedidos insólitos realizados antes de salir a la cancha, olvidos que obligaron al personal a correr contra el reloj y los momentos más dolorosos que atravesaron junto con el seleccionado. Durante la charla, los dos protagonistas evitaron revelar algunos nombres, pero no dudaron en señalar a otros . 🐐🗣️ PENSEMOS EN JUGAR NOMÁS La ARENGA de Lionel Messi en la previa a la final del Mundial. pic.twitter.com/SrbwDNKyil TyC Sports (@TyCSports) July 19, 2026 De Paul y Dibu Martínez, los más “jodones” Consultados por TNT Sports sobre el jugador más “jodón” del plantel, Di Stéfano y D’Andrea no coincidieron en un único nombre. Para uno de ellos, el lugar pertenece a Rodrigo De Paul ; para el otro, a Emiliano Dibu Martínez . A la hora de identificar al más callado también aparecieron dos respuestas diferentes: Lionel Messi y Nicolás Otamendi . En cambio, hubo unanimidad cuando debieron elegir al futbolista más ordenado del vestuario. “ Lautaro Martínez ” , respondieron. Tras la elección, aclararon entre risas que eso no significaba que el resto fuera desordenado. “Los demás pibes son todos ordenaditos, pero él es el extremo” , explicaron sobre el delantero. La pregunta por el más desordenado generó una reacción diferente. Ninguno quiso revelar identidades, aunque admitieron que había varios",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/marcelo-daddy-dandrea-historico-masajista-de-la-seleccion-son-todos-ordenaditos-pero-lautaro-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:51 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/PV24W63FI5AMNEVA476WWH3ZMY.jpg?auth=1e9160f2d0c30c8dafe8f8087dd676946d7f3350a688bc7a234e061329fcb89b&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "b0536845f45dd4f0095e",
+      "title": "Mario Alonso Puig, médico: “El miedo casi nunca aparece donde no hay nada que valga la pena”",
+      "summary": "En una época marcada por la búsqueda constante de resultados, reconocimiento y éxito, Mario Alonso Puig propone una mirada diferente sobre uno de los anhelos más universales: la felicidad . Médico cirujano, escritor y referente internacional en desarrollo personal, asegura que el bienestar profundo no depende de lo que sucede afuera , sino de la manera en que cada persona se relaciona consigo misma y con los demás. Durante una entrevista con LA NACION , el especialista compartió su visión sobre el amor, la aceptación y el crecimiento personal, y explicó por qué considera que la felicidad auténtica no puede estar atada a factores externos . “El miedo casi nunca aparece donde no hay nada que valga la pena” , expresó. Mario Alonso Puig - Corte 1 La felicidad como un estado interior Para Puig, uno de los errores más frecuentes es creer que la felicidad llegará cuando se alcance una determinada meta o se obtenga aquello que se desea. Según explicó, esa idea conduce a una satisfacción pasajera, porque las circunstancias cambian constantemente. “La verdadera felicidad no está condicionada por factores externos o circunstancias cambiantes, sino que es un estado interno de paz y serenidad” , afirmó. Desde su perspectiva, la capacidad de amar ocupa un lugar central en ese proceso. No se trata únicamente del amor romántico, sino de una disposición más amplia hacia los demás y hacia la propia vida. “Cuanto mayor sea tu capacidad de amar, más feliz vas a ser” , señaló. En ese sentido, remarcó que la calidad de los vínculos y la forma en que las personas se conectan emocionalmente tienen un impacto directo en el bienestar psicológico y emocional. Las heridas que pueden transformarse en fortaleza Uno de los conceptos que más llamó la atención durante la conversación fue la metáfora que utilizó para explicar cómo atravesar las experiencias dolorosas. Puig comparó las fracturas emocionales con las tradicionales piezas de cerámica japonesas reparadas con oro. Según explicó, las herid",
+      "link": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-el-miedo-casi-nunca-aparece-donde-no-hay-nada-que-valga-la-pena-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:48 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/22KHVBHYLNEVLF6Z6SZ5SXSX2A.jpg?auth=1148895241217a924b0f9d4d3e0a8a38d1b0d4838e514099e8527aa1f97c90e4&smart=true&width=3636&height=2727"
+    },
+    {
+      "id": "c3b5a06b6d38b77235f9",
+      "title": "Estos son los cuatro efectos negativos y biológicos que provoca el estrés crónico, según un cardiólogo",
+      "summary": "En el marco de un creciente debate sobre la salud mental, el cardiólogo Mario Boskis alertó sobre las consecuencias del estrés crónico y su impacto directo en el organismo. “Todo lo que empieza en la mente baja al cuerpo” , afirmó, al explicar cómo los procesos emocionales terminan generando efectos físicos concretos. Durante una entrevista en LN+ , el especialista sostuvo que el estrés dejó de ser un problema exclusivamente psicológico para convertirse en un factor de riesgo cardiovascular de primer orden. Según indicó, estudios recientes muestran que puede casi duplicar la probabilidad de sufrir un infarto . Dr. Mario Boskis, cardiologo Cómo el estrés afecta al cuerpo El médico explicó que el estrés activa mecanismos biológicos concretos. En situaciones agudas, el organismo responde con la liberación de adrenalina y noradrenalina , lo que acelera la frecuencia cardíaca y prepara al cuerpo para reaccionar ante una amenaza. Pero el problema aparece cuando ese estado se vuelve sostenido en el tiempo. “El estrés crónico activa la liberación de cortisol” , detalló. Ese proceso tiene múltiples efectos negativos: eleva la presión arterial, aumenta el azúcar en sangre, favorece el aumento de peso y daña los vasos sanguíneos . “Ataca el endotelio, la parte interna de las arterias, genera inflamación y puede llevar a obstrucciones”, explicó. Síntomas y señales de alerta Según Boskis, el estrés crónico puede manifestarse de distintas formas, incluso en personas jóvenes. Entre los síntomas más frecuentes mencionó las palpitaciones, alteraciones del sueño, dolores de cabeza persistentes y cambios en los hábitos cotidianos . También advirtió sobre la dificultad para detectarlo: “La autopercepción es muy difícil. Muchas veces lo identifica antes un familiar o el médico” . En algunos casos, incluso, puede confundirse con cuadros más agudos como los ataques de pánico. “El paciente siente dolor en el pecho, cree que se está muriendo . Por eso siempre hay que consultar para descarta",
+      "link": "https://www.lanacion.com.ar/sociedad/estos-son-los-cuatro-efectos-negativos-y-biologicos-que-provoca-el-estres-cronico-segun-un-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:46 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/LRFSVLVEKBCPHDE4CDYVZWPEH4.jpg?auth=a88e0ce0316dd19bf1f64b0199fc56f031cbc6f811536b643920b6daae965500&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "8bd8a9bd3aeaff3d0cad",
+      "title": "Hígado graso: cuál es la dieta más eficaz para tratarlo y el endulzante que hay que evitar",
+      "summary": "La dieta mediterránea se ofrece como la más eficaz para el tratamiento del hígado graso porque cuenta con antioxidantes , fibra (que aporta el consumo de frutas, verduras, legumbres, semillas), cereales integrales, omega 3 y es baja en azúcares. Es importante evitar el consumo de alcohol y de bebidas azucaradas. No se trata de abandonar la ingesta de grasa sino de controlar la cantidad de energía que se ingiere y a través de qué alimentos proviene. Consumir aceite de oliva a diario. Lo mejor es usarlo crudo en ensaladas para que no pierda su composición al calentarse. No es necesario cocinar todo con oliva , podés mezclar otros aceites para cocinar. Aumentar el consumo de pescado semanal. Si comes pescado una vez cada quince días empezar a incorporarlo todas las semanas en el menú; si lo comes una vez a la semana, aumentarlo a dos . De esta manera se irá disminuyendo paulatinamente las carnes rojas, siempre combinándolas con verduras o cereales, para que no sean el alimento principal o único del plato. Aumentar el consumo de frutas y verduras. Si no comes ni una sola fruta empezar por incluir todos los días al menos una unidad y lo mismo para las verduras. Estos son los alimentos que más vitaminas, minerales y fibra aportan . Intentar subir la cantidad hasta incluir cinco porciones al día. Empezar a consumir legumbres como las lentejas, garbanzos y porotos. Tenemos arraigado el concepto que si no comemos carne no estamos consumiendo proteínas pero las legumbres también las aportan y más si las mezclamos con cereales . Si consumimos lácteos y derivados, optar por los descremados y bajos en grasa . Sumar frutos secos, son una fuente inagotable de grasas saludables cardioprotectoras. “No da síntomas” Alrededor de 1 de cada 3 argentinos sufre la afección de hígado graso , a menudo asintomático y asociado a factores como el sobrepeso, la mala alimentación, la diabetes y el sedentarismo. Existen dos tipos principales: no alcohólico y alcohólico . Higado graso “El hígado g",
+      "link": "https://www.lanacion.com.ar/sociedad/higado-graso-cual-es-la-dieta-mas-eficaz-para-tratarlo-y-el-endulzante-que-hay-que-evitar-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:43 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/7MRQFY2AWNAI5EBRRF5V73EAPE.png?auth=6e299500a0787a0d2cc5c39078b1ca5776d5f631552bd32bf76b33f9d0c15d64&smart=true&width=610&height=428"
+    },
+    {
+      "id": "282653f1bab2157c9d8f",
+      "title": "Parkinson: un especialista explicó en detalle cuál es el primer síntoma detectable",
+      "summary": "El Parkinson se presenta hoy como un desafío complejo para la medicina moderna . No solo por la ausencia de una cura definitiva, sino por las barreras sociales y los diagnósticos tardíos que enfrentan quienes conviven con la enfermedad. Juan Ferrario , doctor en Ciencias Biológicas e investigador especializado en esta patología, explicó en LN+ que, “ si bien el 90% de los casos se manifiestan entre los 50 y 60 años , existe un componente genético que puede adelantar la aparición de los síntomas de manera drástica”. Hablo Juan Ferrario, investigador del tema “ El primer síntoma detectable es la rigidez muscular ”, planteó Ferrario. “Inicialmente es muy difícil de detectar”, señaló y agregó que “ solo el 10% de los casos detectados tienen un origen hereditario ”. Según el análisis del experto, “en estas situaciones particulares, la enfermedad puede manifestarse mucho antes de lo previsto. Incluso a partir de los 10 años o en la franja de los 30 a 40 años ”. Una referencia hollywoodense Un ejemplo emblemático de esta variante genética es el del actor Michael J. Fox , quien lidió con la enfermedad desde su juventud y se ha convertido en un referente global de la lucha contra el Parkinson. Recientemente, la visibilidad de su condición volvió a ser noticia tras un emotivo episodio en el set de la serie “Terapia sin filtro”, donde un gesto de Harrison Ford conmovió profundamente a Fox, evidenciando la importancia del apoyo y la empatía en el entorno profesional para quienes atraviesan este proceso . “ Las personas con Parkinson tienen problemas motores, pero no cognitivos , salvo en casos puntuales. Mentalmente están en perfectas condiciones”, afirmó Ferrario. Al momento de ser consultado sobre los estigmas de la enfermedad, el especialista dijo que “ la mayoría de los pacientes sufre discriminación en el ámbito laboral ”. En consonancia, el investigador fue enfático al desmitificar la idea de que el Parkinson anula las capacidades de una persona. En palabras del doctor en",
+      "link": "https://www.lanacion.com.ar/sociedad/parkinson-un-especialista-explico-en-detalle-cual-es-el-primer-sintoma-detectable-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:39 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/KQV544UFFNGT5BC7XPHV6TO6SU.JPG?auth=a7f19417bed8af72284d08f23a9c9fdd52830213930464f2e9484d07ef8a0f11&smart=true&width=2000&height=1334"
+    },
+    {
+      "id": "767ec9eee46ed99a3f35",
+      "title": "Marcelo “Daddy” D’Andrea, histórico masajista de la Selección: “Por más que no los necesite, él pide; Otamendi es terrible”",
+      "summary": "Detrás de cada partido de la selección argentina existe un grupo de colaboradores que conoce como pocos lo que sucede en la intimidad del plantel. Dos de ellos son Mario “Marito” Di Stéfano , histórico utilero del combinado nacional, y Marcelo “Daddy” D’Andrea , masajista del equipo desde hace más de dos décadas. Lejos de las teorías conspirativas y el presunto mal clima entre algunos jugadores, ambos participaron de un divertido ping-pong en el que revelaron algunos secretos del vestuario: quiénes son los jugadores más bromistas, cuál es el más ordenado, quién pide cinco minutos más para levantarse y qué futbolista puede reclamar un masaje, incluso cuando no lo necesita. También recordaron pedidos insólitos realizados antes de salir a la cancha, olvidos que obligaron al personal a correr contra el reloj y los momentos más dolorosos que atravesaron junto con el seleccionado. Durante la charla, los dos protagonistas evitaron revelar algunos nombres, pero no dudaron en señalar a otros . 🐐🗣️ PENSEMOS EN JUGAR NOMÁS La ARENGA de Lionel Messi en la previa a la final del Mundial. pic.twitter.com/SrbwDNKyil TyC Sports (@TyCSports) July 19, 2026 De Paul y Dibu Martínez, los más “jodones” Consultados por TNT Sports sobre el jugador más “jodón” del plantel, Di Stéfano y D’Andrea no coincidieron en un único nombre. Para uno de ellos, el lugar pertenece a Rodrigo De Paul ; para el otro, a Emiliano Dibu Martínez . A la hora de identificar al más callado también aparecieron dos respuestas diferentes: Lionel Messi y Nicolás Otamendi . En cambio, hubo unanimidad cuando debieron elegir al futbolista más ordenado del vestuario. “ Lautaro Martínez ” , respondieron. Tras la elección, aclararon entre risas que eso no significaba que el resto fuera desordenado. “Los demás pibes son todos ordenaditos, pero él es el extremo” , explicaron sobre el delantero. La pregunta por el más desordenado generó una reacción diferente. Ninguno quiso revelar identidades, aunque admitieron que había vario",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/marcelo-daddy-dandrea-historico-masajista-de-la-seleccion-por-mas-que-no-los-necesite-el-pide-nid27072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:36 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/BB3DYMKYRZASNM5W2KYRNTXBPA.JPG?auth=45273f6fa44d572ccfe3488928a0078faa40edc03b3cba6b5fcaa45895b56428&smart=true&width=2500&height=1666"
+    },
+    {
+      "id": "4d22d7131ee7522760ce",
+      "title": "Los especialistas coinciden: “La nueva longevidad viene de entender que envejecer no es necesariamente deteriorarse y podemos trabajar sobre lo que depende de nosotros”",
+      "summary": "La forma de atravesar el paso del tiempo cambió y la edad ya no necesariamente determina la energía, la autonomía o los proyectos de una persona. Así lo planteó Daniel Tangona, entrenador físico y coach profesional , en una publicación que compartió en su cuenta de Instagram . El especialista habló de una “ nueva longevidad ” , un concepto que no se limita a extender la cantidad de años vividos, sino que propone llegar a edades avanzadas con fuerza, capacidad y deseos de continuar disfrutando. En ese sentido, Tangona sostuvo que existen factores que no pueden controlarse, como las enfermedades, la genética, los accidentes y otras circunstancias inesperadas. Sin embargo, remarcó que cada persona puede trabajar diariamente sobre los aspectos que sí dependen de ella . View this post on Instagram Qué es la “nueva longevidad” para Daniel Tangona “Estamos viviendo una nueva etapa de la humanidad. Los 70 de hoy no son los 70 de antes. Los 70 de hoy pueden parecerse a los 60 de ayer, y los 60 a los 50” , comenzó el entrenador en su publicación. A partir de esa idea, explicó que la longevidad no debería evaluarse solamente por la cantidad de tiempo que vive una persona. Para Tangona, también debe considerarse de qué manera llega a esos años y con qué herramientas cuenta para transitarlos. “La nueva longevidad no significa simplemente vivir más años. Significa llegar a esos años con más autonomía, más fuerza, más energía, más capacidad y, sobre todo, con ganas de seguir viviendo” , afirmó. Jorge Tartaglione sobre la longevidad Según desarrolló, una persona mayor puede construir una vida plena si incorpora distintas prácticas a su rutina. Entre ellas mencionó el entrenamiento , una buena alimentación , el descanso , el cuidado de los vínculos , el mantenimiento de una mente activa y la búsqueda de un propósito . “Hoy, una persona mayor que entrena, que come bien, que descansa, que cuida sus vínculos, que mantiene su mente activa y que encuentra un propósito, puede construir un",
+      "link": "https://www.lanacion.com.ar/sociedad/los-especialistas-coinciden-la-nueva-longevidad-viene-de-entender-que-envejecer-no-es-necesariamente-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:31:33 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/CFUTOVFTERHUFHOWHJ37MJDONI.png?auth=d25cbe3e84d3a3bd2cd4851e03973ec945794effe10c83dd566466bd55647d48&smart=true&width=1672&height=941"
+    },
+    {
+      "id": "e99b3cc6b36339ef27c1",
+      "title": "Las primeras imágenes de Dakota Johnson como Marilyn Monroe que sorprendieron a Hollywood",
+      "summary": "El 1° de junio de 2026, Marilyn Monroe hubiera cumplido 100 años, y si bien su vida y su trágico final funcionaron como fuente de inspiración para una gran cantidad de películas y documentales, su magnetismo sigue vigente. Ahora, la figura de la inolvidable diva vuelve a la pantalla de la mano de Maggie Gyllenhaal , quien escribió y dirigió Flesh Impact , un cortometraje que imagina cómo habría sido la vida de la estrella si hubiera tenido la oportunidad de escribir un destino diferente. De cara a su estreno, Vanity Fair reveló las primeras imágenes de la producción y una de ellas acaparó toda la atención: Dakota Johnson como Monroe durante el apogeo de su carrera. Con una peluca rubia corta, el inconfundible lunar y un vestuario inspirado en la actriz, la protagonista de Cincuenta sombras de Grey sorprendió por su transformación. La producción también presenta a la ganadora del Oscar Ellen Burstyn como una versión imaginaria de una Marilyn en su vejez que el mundo nunca llegó a conocer. El nuevo homenaje a Marilyn Monroe Flesh Impact es un cortometraje de 17 minutos que se estrenará en el Festival Internacional de Cine de Venecia en septiembre de este año. Escrita y dirigida por Gyllenhaal, el proyecto propone una mirada diferente sobre Marilyn Monroe: imagina cómo habría sido su vida si no hubiera tenido el trágico final que la convirtió en leyenda. Lejos de una biografía convencional, el film construye una realidad alternativa en la que la actriz tiene la oportunidad de envejecer y reinventarse. View this post on Instagram Según la sinopsis oficial difundida por el festival italiano, la historia sigue a una misteriosa anciana que se presenta a una audición para una obra en un pequeño teatro de Nueva York. Mientras repasa su trayectoria como actriz y expone los motivos por los que considera que merece el papel, comienzan a salir a la luz secretos sobre su verdadera identidad y los conceptos erróneos que durante décadas marcaron su vida. Además de Dakota Johnson y ",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/las-primeras-imagenes-de-dakota-johnson-como-marilyn-monroe-que-sorprendieron-a-hollywood-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:30:13 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/2C37LSBSSJDB3CP2H4WJYGZGL4.JPG?auth=139043b176f12da6a1561d838864f53336ae3be2fc01439646344278caa4940f&smart=true&width=4960&height=3242"
+    },
+    {
+      "id": "589a7a72a773432a74fd",
+      "title": "Red Bull ofrece un año más a un Verstappen... que sigue sin despejar la gran incógnita",
+      "summary": "Max Verstappen, en Hungaroring.",
+      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/2026/07/28/red-bull-ofrece-ano-verstappen-sigue-despejar-gran-incognita.html",
+      "pubDate": "Tue, 28 Jul 2026 17:30:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68b7e65a4ce.jpeg"
+    },
+    {
+      "id": "1cf733697b1126c8c62c",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 28 de julio, minuto a minuto",
+      "summary": "El dólar minorista se comercializa a $1520 para la venta . Por su parte, el dólar blue se ubica en los $1570 para la misma operación. Cómo se comportan los dólares financieros y a cuánto llega el riesgo país. La moneda europea se vende ahora en el mercado paralelo a $1877,75 . El dólar cripto , que funciona las 24 horas y los 365 días del año, sirve de referencia cuando no hay cotizaciones oficiales. Hoy el dólar cripto o stablecoin (considerado de esa forma por su paridad con el dólar) cotiza de la siguiente manera: DAI: $1607,24 USDC: $1619,52 USDT: $1615,58 La cotización del dólar oficial, que es controlado por el Banco Central (BCRA), cierra los días hábiles a las 15, dado que funciona en horario bancario. Por su parte, el dólar blue al pertenecer al mercado ilegal, no tiene apertura y cierre definidos de forma oficial. Sin embargo, esta cotización paralela suele terminar la ronda cambiaria entre las 15 y las 16. Ingresar al home banking del banco y asegurarse de tener los fondos necesarios para hacer la operatoria. Entre las opciones del menú del home banking , buscar la de “Operaciones” (o alguna referencia similar) y seleccionar la que se asocie con la Compra/venta de dólares . Indicar el monto que se desea comprar en pesos. Allí se detallará cuántos dólares se adquirirán según la cotización del día. Revisar los datos de la operación, aceptar los términos y condiciones y hacer clic en “Confirmar”. La divisa paralela opera a $1522,90 para la compra y a $1570 para la venta. Bitcoin (BTC) cotiza hoy a US$63.260,58. Es la criptomoneda más importante de la actualidad, y cada vez es más aceptada en todo el mundo para comprar productos y servicios. La cotización del dólar este martes se mantiene estable. El valor del dólar hoy , martes 28 de julio, en BNA (Banco Nación Argentina) es de $1470 para la compra y $1520 para la venta. Dólar MEP: $1536,34 Dólar CCL: $1605,42 El dólar tarjeta sirve para el pago de compras hechas en moneda extranjera en el exterior o de serv",
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:30:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333"
     },
     {
       "id": "d40eb59dc084b69a6d8d",
@@ -83,14 +485,105 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/cwADg1gPx9em5y6yG.jpeg"
     },
     {
+      "id": "44261b0d75a3448aa8da",
+      "title": "El Gobierno destacó la apertura de 292 mercados en el primer semestre y aseguró que ya habilitó un total de 580 destinos",
+      "summary": "El vocero presidencial, Adrián Ravier , anunció que la gestión del gobierno de Javier Milei ya alcanza 580 mercados internacionales habilitados para los productos agroindustriales. En una conferencia de prensa brindada este martes, el funcionario puso el foco en la estrategia gubernamental para ampliar el acceso de los productos argentinos en el exterior y destacó que durante el primer semestre de 2026 se concretaron 292 aperturas y reaperturas de mercados para las exportaciones nacionales. El funcionario mencionó que esta apertura se trata de un trabajo coordinado entre la Secretaría de Agricultura, el Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) y la Cancillería . Según precisó, en ese período se lograron 24 nuevas aperturas y 268 reaperturas , lo que, de acuerdo con el funcionario, eleva a 580 los mercados abiertos para las exportaciones argentinas desde el inicio de la actual gestión . Remate: pagaron $81 millones por el 50% de un ternero colorado Angus de la Patagonia “La Argentina sigue fortaleciendo su presencia en los mercados internacionales “, afirmó Ravier, quien sostuvo que estas medidas apuntan a generar “situaciones beneficiosas para el interior del país” y favorecer el desarrollo de la actividad productiva mediante nuevas oportunidades comerciales. Para explicar la importancia de estas gestiones, el vocero utilizó una comparación: \" Abrir un mercado es como habilitar una autopista: crea el camino para que las empresas del sector privado puedan llegar con sus productos a nuevos destinos y ampliar sus oportunidades de exportación “. Entre las habilitaciones más relevantes mencionó la apertura del mercado de embriones bovinos para Filipinas , la autorización para exportar carne bovina enfriada con hueso a Paraguay , el acceso para cítricos a El Salvador y el ingreso de preparaciones de carne a Perú , además de otros mercados que no detalló. Según explicó, estas acciones forman parte del objetivo central de la gestión de “aumentar las e",
+      "link": "https://www.lanacion.com.ar/economia/campo/el-gobierno-destaco-la-apertura-de-292-mercados-en-el-primer-semestre-y-aseguro-que-ya-habilito-un-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:25:44 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/2GVBJE4TCRDNHAZT5JDKAAQTOI.png?auth=58877263401fd954b1a9d1d39aff530e6dd40d90848b0a922c19fa412a281d7b&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "55ce6e096de3dba483dc",
+      "title": "El diagnóstico de su hija la llevó a dejar su carrera del mundo corporativo y comenzar una nueva vida",
+      "summary": "Cuando Joaquina tenía apenas cuatro meses, Cecilia Fornieles y su marido se encontraron con dos palabras que cambiarían para siempre la vida de la familia: hipotonía generalizada . Tenían poco más de treinta años, eran padres primerizos y, hasta ese momento, imaginaban una maternidad y una paternidad parecidas a las de cualquier otra familia. “Cuando el médico nos derivó al primer centro de rehabilitación, mi preocupación era saber cuántas sesiones iba a necesitar, cuánto tiempo duraría el tratamiento y cuándo iba a volver todo a la normalidad. Pensaba que había una solución concreta, una especie de punto de llegada. Con el tiempo entendí que lo que comenzaba era otra forma de vivir ”, cuenta Cecilia. A partir de ese momento llegaron los estudios, nuevos diagnósticos, palabras desconocidas y una rutina atravesada por consultas médicas, terapias y una enorme incertidumbre . Joaquina comenzó con sesiones de kinesiología, luego se sumaron terapia ocupacional , fonoaudiología y distintos tratamientos que implicaban recorrer varios centros cada semana. Al mismo tiempo, la familia debía reorganizar su vida cotidiana mientras trabajaban y criaban a Damasia, su segunda hija, dos años menor. “Había días en los que pasábamos más tiempo viajando de una terapia a otra que en casa. Muchos padres conocen esa sensación de estar llevando a sus hijos de consultorio en consultorio o trasladándolos de un centro a otro. Todo estaba pensado para el paciente, pero muy poco para quienes sosteníamos ese recorrido ”. Cecilia hace una pausa y vuelve a una imagen que, aún hoy, conserva con nitidez. “Cuando llevaba a Joaquina a kinesiología , me llamaba mucho la atención que todos los autos estacionados en la puerta del centro estaban ocupados por madres con los hermanos, haciendo la tarea sobre la guantera mientras esperaban que terminara la sesión. Esa escena me hizo entender que el tratamiento también impactaba en la dinámica familiar . Pasar de una terapia a otra, con los hermanos a cuesta",
+      "link": "https://www.lanacion.com.ar/salud/el-diagnostico-de-su-hija-la-llevo-a-dejar-su-carrera-del-mundo-corporativo-y-comenzar-una-nueva-nid28072026/",
+      "pubDate": "Tue, 28 Jul 2026 17:23:17 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/426W3DDRQFGENGVZFYSUMAN254.jpeg?auth=22de1decd713091d767104f41b194c3ccba89234bcbb747b26669f25b695e3b0&smart=true&width=1280&height=683",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "efe5d8bc4b58033e2494",
+      "title": "Zelenski y Trump reafirman en la Casa Blanca su nueva sintonía en torno a la guerra de Ucrania",
+      "summary": "Los presidentes de Ucrania, Volodimir Zelenski, y de EEUU, Donald Trump.",
+      "link": "https://elpais.com/internacional/2026-07-28/zelenski-y-trump-reafirman-en-la-casa-blanca-su-nueva-sintonia-en-torno-a-la-guerra-de-ucrania.html",
+      "pubDate": "Tue, 28 Jul 2026 17:22:59 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/GXK3DHJWUFNPBJVTQUNGCW35TM.jpg?auth=58eb31293b22aa80be532f88deb91de2b001be6b5673ce22fb10af7b4a930a09"
+    },
+    {
       "id": "da6ee191ae26c7812e12",
-      "title": "Palo de la UEFA a la FIFA por una posible privatización del Mundial: \"Nadie es dueño del fútbol\"",
+      "title": "Infantino planea privatizar el Mundial",
       "summary": "Infantino y Ceferin, en el 50 Congreso de la UEFA celebrado este año en Bruselas.",
       "link": "https://www.marca.com/futbol/2026/07/28/nuevo-palo-uefa-fifa-raiz-articulo-the-times.html",
       "pubDate": "Tue, 28 Jul 2026 17:22:54 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68c8f4d8ddd.jpeg"
+    },
+    {
+      "id": "7c9dced98253060c6ac5",
+      "title": "Samsung redobla sus esfuerzos para fabricar más RAM y no perder los millones de Apple",
+      "summary": "Con la crisis de RAM en permanente ebullición , la industria de la electrónica de consumo transita uno de los escenarios más complejos de los últimos años. Situación que está llevando a tomar medidas drásticas para evitar que las marcas más importantes del mundo cambien de proveedores. Samsung , por ejemplo, va a redoblar sus esfuerzos para fabricar más módulos DRAM y evitar que Apple comience a usar memorias chinas. Según el portal coreano SEDaily , Samsung va a expandir la capacidad de producción de DRAM en su fábrica de Hwaseong. La idea es incrementarla en un 15 % antes de finales de año, con el fin de ampliar la oferta de componentes para dispositivos móviles y contentar a Apple, que está moviendo los hilos para obtener el preciado hardware de cuanto rincón sea posible. Recientemente, Apple supuestamente le solicitó una excepción a la Casa Blanca para que le permita comprar memoria RAM de CXMT , un fabricante chino que se encuentra en la lista negra del Pentágono por sus presuntos vínculo con el Ejército Popular de Liberación. Según una reciente publicación de Financial Times , hoy en día no existen medidas legales que impidan a los de Cupertino adquirir los componentes en cuestión. Sin embargo, la firma que aún dirige Tim Cook sí se afrontaría a un problema de reputación y se ganaría el enfado de Donald Trump y compañía, con todo lo que ello conllevaría. Viendo que Apple podría comenzar a surtirse de DRAM china en grandes cantidades, y potencialmente a precios bastante más bajos, Samsung estaría tomando cartas en el asunto para tratar de impedirlo . Samsung produciría más RAM para no perder a Apple como cliente Para ser más específicos, el reporte menciona que Samsung construiría una nueva planta dedicada a la etapa final de producción y ensamblado de obleas de semiconductores . El objetivo de la compañía sería establecer un circuito más consolidado que ayude a incrementar la producción de memoria RAM y hacerla más eficiente. Según se reporta, Samsung actualme",
+      "link": "https://hipertextual.com/tecnologia/samsung-fabricaria-mas-ram-no-perder-apple-cliente/",
+      "pubDate": "Tue, 28 Jul 2026 17:21:23 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/jonathan-kemper-poSms2EzfNY-unsplash-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "9a3b579ee940261c71b2",
+      "title": "La Armada de Rusia revela sus sistemas de defensa aérea más eficaces contra todo tipo de amenazas",
+      "summary": "La marina de guerra rusa se centra en medios para repeler ataques masivos de drones.",
+      "link": "https://actualidad.rt.com/actualidad/619338-armada-rusa-defensa-aerea?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:18:36 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68b080e9ff7118437360f5.jpg"
+    },
+    {
+      "id": "2c1be32eecf93d814ab9",
+      "title": "\"Dejen de mentir, operar y generar conflictos inexistentes\", Pettovello salió al cruce de versiones que la mencionan como posible compañera de fórmula de Milei en 2027",
+      "summary": "La ministra aseguró que su único objetivo es cumplir su mandato al frente de Capital Humano.",
+      "link": "https://www.clarin.com/politica/dejen-mentir-operar-generar-conflictos-inexistentes-pettovello-salio-cruce-versiones-mencionan-posible-companera-formula-milei-2027_0_vTQkJVXqM1.html",
+      "pubDate": "Tue, 28 Jul 2026 17:13:40 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/07/28/2hVvRLT3U_1200x630__1.jpg"
+    },
+    {
+      "id": "57d104fd25c272df889f",
+      "title": "Hutíes afirman haber atacado con misiles balísticos un petrolero saudí",
+      "summary": "Los lanzamientos obligaron al buque a retroceder, asevera el portavoz militar del grupo.",
+      "link": "https://actualidad.rt.com/actualidad/619396-huties-atacar-misiles-petrolero-saudi?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:12:56 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68e5c0e9ff7164bb2c4407.jpg"
+    },
+    {
+      "id": "6611c758c6e97d172ef3",
+      "title": "Carrera contra el fuego en Ávila y Madrid: los vecinos de 13 municipios vuelven a sus casas horas antes de la ola de calor",
+      "summary": "Vecinos de Valdeiglesias trabajan abriendo cortafuegos y retirando maleza próxima al incendio para impedir la reactivación que quemó el contorno del pueblo.",
+      "link": "https://elpais.com/espana/2026-07-28/carrera-contra-el-fuego-en-avila-y-madrid-24-horas-criticas-antes-de-la-ola-de-calor.html",
+      "pubDate": "Tue, 28 Jul 2026 17:12:02 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ROTWO2TS5FEQZMASDAOV274FQY.JPG?auth=e64aab8a663cbcdba04fcae0f2eba5c1ad58d54e7297450f1bca0be97068b2ab"
+    },
+    {
+      "id": "b5a0e88061ea54d3a13d",
+      "title": "Apagón obliga a médicos a realizar cirugías con la luz de sus teléfonos (VIDEO)",
+      "summary": "Una intensa nevada causó una falla eléctrica en la provincia argentina de Chubut, en la Patagonia.",
+      "link": "https://actualidad.rt.com/actualidad/619383-apagon-obligar-medicos-realizar-cirugias-telefono?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:11:12 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68d004e9ff71077d1f992d.jpg"
     },
     {
       "id": "48e62829af72c67401d6",
@@ -103,14 +596,204 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68c62b824b3.jpeg"
     },
     {
-      "id": "3c5f512d9ea83dfc5cb9",
-      "title": "Caja Rural ficha al colombiano Santiago Umba para reforzar su bloque de escaladores",
-      "summary": "Santiago Umba",
-      "link": "https://www.marca.com/juegos-olimpicos/ciclismo/2026/07/28/caja-rural-ficha-colombiano-santiago-umba-reforzar-bloque-escaladores.html",
-      "pubDate": "Tue, 28 Jul 2026 16:36:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68bd801a793.jpeg"
+      "id": "fe0b53d2517a0647a611",
+      "title": "VIDEO: Tormenta extrema causa destrozos en un hotel de México",
+      "summary": "Una tormenta extrema azotó el lunes a Hermosillo, en el estado mexicano de Sonora, con vientos de hasta 150 kilómetros por hora. El fenómeno afectó al Hotel San Ángel. En un video, grabado por el recepcionista, Eddel Cadena, se puede apreciar cuando una ráfaga de viento irrumpió en el lugar, causando destrozos en cuestión de segundos. Afortunadamente, nadie salió lesionado. \"Todos estamos bien\", relató.",
+      "link": "https://actualidad.rt.com/viral/619375-tormenta-extrema-causa-destrozos-hotel-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:08:42 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68d070e9ff7116c110babd.jpg"
+    },
+    {
+      "id": "2245b84239ec4d8773e5",
+      "title": "La reactivación en algunas zonas del incendio del suroeste de Francia obliga a evacuar a 4.000 turistas",
+      "summary": "Terreno calcinado en Lanton por un incendio de categoría XXL en la región de la Gironda, al suroeste de Francia, este martes.",
+      "link": "https://elpais.com/internacional/2026-07-28/la-reactivacion-en-algunas-zonas-del-incendio-del-suroeste-de-francia-obliga-a-evacuar-a-4000-turistas.html",
+      "pubDate": "Tue, 28 Jul 2026 17:06:50 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4XMATIGLXFMNZKOJ6NSFJN73GY.jpg?auth=8bb91c72872bad64c7a993ac4fd21c6155183af32df5c77dee91cc69c63b0f48"
+    },
+    {
+      "id": "5e888615268010aaf10e",
+      "title": "Ya rige en California la nueva ley sobre etiquetas de alimentos: qué cambia para los consumidores sobre la fecha de vencimiento",
+      "summary": "El estado eliminó una de las fechas más confusas de los envases para reducir el desperdicio de comida. Expertos explican cuándo un alimento sigue siendo seguro para consumir.",
+      "link": "https://www.clarin.com/estados-unidos/rige-california-nueva-ley-etiquetas-alimentos-cambia-consumidores-fecha-vencimiento_0_2plsHCyTyU.html",
+      "pubDate": "Tue, 28 Jul 2026 17:04:22 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2018/04/03/Hy5a6XfsG_1200x630.jpg"
+    },
+    {
+      "id": "f25d768e82dfa73dbe64",
+      "title": "Las románticas vacaciones de Caro Calvagni y Nicolás Tagliafico tras la final del Mundial: playa, besos y mates bajo el sol",
+      "summary": "El matrimonio compartió postales de su descanso en redes sociales. La respuesta de la empresaria a las teorías conspirativas sobre la derrota de la Selección Argentina ante España.",
+      "link": "https://www.clarin.com/fama/romanticas-vacaciones-caro-calvagni-nicolas-tagliafico-final-mundial-playa-besos-mates-sol_0_QzBgkfzMrF.html",
+      "pubDate": "Tue, 28 Jul 2026 17:04:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/28/osYV2Wt9t_1200x630__1.jpg"
+    },
+    {
+      "id": "ee1ab98c04f3c84b382c",
+      "title": "Tere, la última habitante de un pueblo abandonado: \"Sola no me siento para nada, porque tendría la opción de estar en otro lugar. Aquí siempre hay paz y yo siempre digo que la felicidad son momentos puntuales y hay veces que sí estoy contenta\"",
+      "summary": "La historia de la mujer que vive sola en un pueblo español abandonado y se resiste a irse.",
+      "link": "https://www.clarin.com/estados-unidos/tere-ultima-habitante-pueblo-abandonado-sola-siento-opcion-lugar-siempre-paz-siempre-digo-felicidad-momentos-puntuales-veces-contenta_0_8mDg8No040.html",
+      "pubDate": "Tue, 28 Jul 2026 17:03:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/28/jS9a9Dpkl_1200x630__1.jpg"
+    },
+    {
+      "id": "e41abf4b6e961e0327ee",
+      "title": "Los abuelos que no ven a sus nietos con frecuencia no se alejan por motivos de distanciamiento, sino que se han ido excluyendo poco a poco: los comentarios sobre cada decisión, las reglas que los acompañaban, las visitas que debían ganarse de nuevo",
+      "summary": "No siempre el alejamiento entre abuelos y nietos ocurre por un conflicto puntual. Especialistas señalan que pequeñas tensiones cotidianas pueden deteriorar el vínculo con el tiempo.",
+      "link": "https://www.clarin.com/estados-unidos/abuelos-ven-nietos-frecuencia-alejan-motivos-distanciamiento-ido-excluyendo-comentarios-decision-reglas-acompanaban-visitas-debian-ganarse-nuevo_0_8kaMSH1YZW.html",
+      "pubDate": "Tue, 28 Jul 2026 17:03:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2019/12/11/znS9BQFY_1200x630__1.jpg"
+    },
+    {
+      "id": "bafcf3c79df2477368a8",
+      "title": "VIDEO: Moscú recibe a delegación sudafricana encabezada por jefe militar",
+      "summary": "Una delegación de Sudáfrica encabezada por el comandante de las Fuerzas Terrestres, el teniente general Lawrence Mbatha, llegó a la capital rusa para discutir temas de cooperación militar. La visita comenzó con una ceremonia de ofrenda floral en la Tumba del Soldado Desconocido.",
+      "link": "https://actualidad.rt.com/actualidad/619393-video-moscu-delegacion-sudafricana?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:03:41 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68df8be9ff71188c42c495.jpg"
+    },
+    {
+      "id": "ad2b0d5fb93fad867bb7",
+      "title": "EN VIDEO | El momento en el que un terremoto de magnitud 7,1 sacude Japón",
+      "summary": "Las autoridades intentan encontrar a al menos 20 personas de las que no se sabe nada aún.",
+      "link": "https://www.bbc.com/mundo/articles/c36d5377d18o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 28 Jul 2026 17:03:18 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3795/live/03bd6710-8aa4-11f1-951f-a70d41b77a63.jpg"
+    },
+    {
+      "id": "46aaee7ad76a71f76f20",
+      "title": "¿Quién viajaba en este barco? Resuelven el misterio de un antiguo naufragio (FOTOS)",
+      "summary": "En el barco de la época bizantina se hallaron varias joyas que \"sin duda no las llevaría cualquiera\", afirmaron los investigadores.",
+      "link": "https://actualidad.rt.com/actualidad/619374-barco-naufragio-bizantino?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 17:02:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68dfee59bf5b10b259feed.jpg"
+    },
+    {
+      "id": "b249b174328333a6d41a",
+      "title": "Donald Trump creará su propia aerolínea para deportar a inmigrantes: tendrá Boeing 737 y aviones ejecutivos",
+      "summary": "El gobierno contrata vuelos chárter para realizar los traslados a sus países de origen. La flota reduciría los costos y aumentaría la disponibilidad de aeronaves.",
+      "link": "https://www.clarin.com/estados-unidos/donald-trump-creara-propia-aerolinea-deportar-inmigrantes-boeing-737-aviones-ejecutivos_0_NFUX2Jvh6G.html",
+      "pubDate": "Tue, 28 Jul 2026 17:01:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/20/77QYfYWxg_1200x630__1.jpg"
+    },
+    {
+      "id": "bd7348aae2a4897c7532",
+      "title": "Un dentista puso en marcha una ingeniosa idea de construcción de viviendas para reducir costos, simplificar los procedimientos y proteger el medio ambiente: sustituyó ladrillos por botellas de plástico rellenas de arena",
+      "summary": "Empleó un material diferente y construyó una casa de forma rápida y económica.",
+      "link": "https://www.clarin.com/estados-unidos/dentista-puso-marcha-ingeniosa-idea-construccion-viviendas-reducir-costos-simplificar-procedimientos-proteger-medio-ambiente-sustituyo-ladrillos-botellas-plastico-rellenas-arena_0_htuutTrzBC.html",
+      "pubDate": "Tue, 28 Jul 2026 17:01:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/28/7QdDTKLrC_1200x630__1.jpg"
+    },
+    {
+      "id": "f3c8670fa9ea364f9031",
+      "title": "Paula, colombiana en España: “En mi país era contadora y aquí he tenido que aprender a limpiar pisos para sobrevivir”",
+      "summary": "Una joven de 24 años cuenta las dificultades de construir una nueva vida lejos de su familia. A su vez, asegura que su trabajo actual es solo el primer paso hacia nuevas metas.",
+      "link": "https://www.clarin.com/internacional/paula-colombiana-espana-pais-contadora-aprender-limpiar-pisos-sobrevivir_0_Jm6CNkmjst.html",
+      "pubDate": "Tue, 28 Jul 2026 17:01:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/21/jY9uwkLET_1200x630__1.jpg"
+    },
+    {
+      "id": "7c1935540e985f936b72",
+      "title": "\"A los 40 años me di cuenta de que la versión ideal de mí misma que he estado persiguiendo en realidad no existe, y la versión de mí que está aquí ahora mismo —cansada, imperfecta y real— es la única que realmente me ha correspondido el amor\"",
+      "summary": "Una mujer cuenta cómo pasó décadas intentando convertirse en una versión perfecta de sí misma hasta descubrir que esa meta era inalcanzable.",
+      "link": "https://www.clarin.com/estados-unidos/40-anos-di-cuenta-version-ideal-misma-estado-persiguiendo-realidad-existe-version-ahora-mismo-cansada-imperfecta-real-unica-realmente-correspondido-amor_0_39cMFeI7U5.html",
+      "pubDate": "Tue, 28 Jul 2026 17:01:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/05/nC7WnPDNw_1200x630__1.jpg"
+    },
+    {
+      "id": "f906ba2ad348733c475f",
+      "title": "Taylor Sheridan regresa al cine con dos nuevas películas tras su etapa en Yellowstone",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El creador de Yellowstone ya prepara dos largometrajes originales, Visalia y Capture the Flag, que marcarán una nueva etapa en su carrera lejos de Paramount Pictures. Durante los últimos años, Taylor Sheridan se ha convertido en uno de los nombres más influyentes de la televisión gracias al enorme universo que ha construido alrededor de Yellowstone . Series como 1923 , 1883 , Tulsa King , Lioness , Landman o Mayor of Kingstown han consolidado su dominio en Paramount+, hasta el punto de que parecía haber dejado completamente atrás el cine. Sin embargo, eso acaba de cambiar. Sheridan volverá a escribir para la gran pantalla con dos películas originales , Visalia y Capture the Flag , cuyos derechos han sido adquiridos por Bosque Ranch Productions y 101 Studios . Se trata de los primeros proyectos cinematográficos anunciados desde que el guionista firmó su nuevo acuerdo con NBCUniversal para desarrollar futuros largometrajes fuera de Paramount. Dos historias muy diferentes que muestran el regreso de Sheridan al cine Aunque Sheridan es conocido por su habilidad para construir intensos dramas criminales como Sicario , Comanchería (Hell or High Water) o Wind River , sus nuevos proyectos explorarán escenarios muy distintos. Visalia seguirá la historia de una joven cubana que escapa de su país en busca de libertad en Estados Unidos. Sin embargo, un importante cambio político la obligará a regresar a Cuba, donde tendrá que enfrentarse a un país muy diferente del que dejó atrás y cuestionarse si todo el sacrificio realizado realmente mereció la pena. Por su parte, Capture the Flag apostará por un thriller con tintes de ciencia ficción y exploración espacial. La película girará en torno a un ingeniero de la NASA que entra en una carrera por construir la primera nave reutilizable capaz de viajar a la Luna y regresar. Su participación en el proyecto lo llevará a enfrentarse a difíciles dilemas éticos cuando un poderoso",
+      "link": "https://www.cinemascomics.com/taylor-sheridan-regresa-al-cine/",
+      "pubDate": "Tue, 28 Jul 2026 17:00:47 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/taylor-sheridan.jpg"
+    },
+    {
+      "id": "687b27c76a51df3a10dd",
+      "title": "Sánchez enfría el apoyo a Zapatero: “Yo no soy su portavoz”",
+      "summary": "Pedro Sánchez, rodeado de varios de sus ministros, tras comparecer este martes en La Moncloa.",
+      "link": "https://elpais.com/espana/2026-07-28/sanchez-enfria-el-apoyo-a-zapatero-yo-no-soy-su-portavoz.html",
+      "pubDate": "Tue, 28 Jul 2026 16:59:47 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/2PPW5XBFZZDBVMQEWEZRSR7JPY.jpg?auth=fd3d706b17878bf8ee318ec3bd7a2a2b3bb3b5f2bfbc476d9f64f18858882754"
+    },
+    {
+      "id": "a8968384eb74a9ef84f0",
+      "title": "¿El perro vive o muere? Qué pasa al final de las películas de Netflix protagonizadas por mascotas",
+      "summary": "Todo lo que tenés que saber sobre los 12 títulos disponibles en la plataforma que tienen a los canes en roles centrales. Este artículo contiene spoilers.",
+      "link": "https://www.clarin.com/internacional/perro-vive-muere-pasa-final-peliculas-netflix-protagonizadas-mascotas_0_WR0fQ64GXh.html",
+      "pubDate": "Tue, 28 Jul 2026 16:58:04 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/07/28/_NeRHS3sk_1200x630__1.jpg"
+    },
+    {
+      "id": "81066b16b5b37d638046",
+      "title": "Un 'Elon Musk' estafa a una japonesa de 65 años por una suma millonaria",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/619392-elon-musk-estafa-japonesa-suma-millonaria?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 16:50:22 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "922678a72ca48b2c47ef",
+      "title": "Última hora de los incendios forestales, en directo | Los incendios dan una tregua horas antes de la ola de calor: los vecinos de 13 municipios de Madrid y Ávila vuelven a sus casas",
+      "summary": "Un hombre observa uno de los pinares arrasados por el incendio de Burgohondo (Ávila) en el Parque Natural del Valle de Iruelas, este martes.",
+      "link": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html",
+      "pubDate": "Tue, 28 Jul 2026 16:50:06 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/KTRTHPL7DFA2JJPI5YFERPHBH4.jpg?auth=6440a545ef48800d6a47f870582d93c2752268852f725da22fa35619d1a3bb2f"
+    },
+    {
+      "id": "cd527dd5be1b0be73952",
+      "title": "El Galaxy Z TriFold regresará con más ambición",
+      "summary": "Cuando Samsung presentó el Galaxy Z TriFold a finales de 2025, lo hizo como uno de los dispositivos más ambiciosos y experimentales de su catálogo. Su doble sistema de plegado, una pantalla interior cercana a las 10 pulgadas, una producción muy limitada y un precio próximo a los 3.000 dólares dejaban bastante claro que no estábamos ante un producto pensado para venderse por millones. Sin embargo, todo apunta a que aquel modelo no fue una aventura de una sola generación, y Samsung ya estaría trabajando en su sucesor . Según informa ETNews , la compañía ha iniciado las primeras fases de desarrollo de una segunda generación y ya habría compartido información del proyecto con algunos de sus socios y proveedores . Todavía no existen especificaciones cerradas, aunque las fuentes apuntan a que mantendría unas dimensiones de pantalla similares a las del Galaxy Z TriFold original. Tampoco deberíamos dar por definitivo el nombre Galaxy Z TriFold 2, empleado de momento para identificar el proyecto, pero sí parece cada vez más probable que Samsung quiera dar continuidad a esta peculiar familia. El primer modelo fue, en buena medida, una demostración tecnológica y una forma de medir la respuesta del mercado. Samsung habría producido únicamente unas 30.000 unidades , una cantidad diminuta para los estándares de la compañía y coherente con un dispositivo tan caro y especializado. Tampoco fue el primero de su clase: Huawei abrió comercialmente el camino con el Mate XT Ultimate Design en 2024 y presentó posteriormente el Mate XTs, de modo que Samsung entró en una categoría en la que su rival chino ya llevaba cierta ventaja. El Galaxy Z TriFold sirvió, eso sí, para demostrar hasta dónde podía llevar Samsung su enorme experiencia acumulada en dispositivos plegables. La diferencia es que una segunda generación podría tener unas ambiciones algo mayores. ETNews asegura que Samsung se plantea aumentar la producción después de haber utilizado el primer modelo para comprobar el interés real",
+      "link": "https://www.muycomputer.com/2026/07/28/el-galaxy-z-trifold-regresara-con-mas-ambicion/",
+      "pubDate": "Tue, 28 Jul 2026 16:48:39 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/07/TriFold-2.jpg"
+    },
+    {
+      "id": "d7a6a04b98f37c3158e2",
+      "title": "¿Qué pasó en la Mancha? Francia dispara 17 veces cerca de barco con alto cargo británico",
+      "summary": "\"No se había avisado de nada ni se estaba llevando a cabo ningún ejercicio de entrenamiento. Parecían disparos de advertencia o un intento de intimidación\", afirmó Chris Philp, ministro del Interior en la sombra británico.",
+      "link": "https://actualidad.rt.com/actualidad/619384-paso-canal-francia-dispara-ministro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 16:45:16 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68d06559bf5b07bc1d8f62.jpg"
     },
     {
       "id": "9975763198da36142937",
@@ -123,14 +806,24 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68b4ce9e49e.jpeg"
     },
     {
-      "id": "cbf6c2d0fa60880fad80",
-      "title": "Dumfries, tras su primer día como madridista: \"Tenemos un gran equipo y un gran entrenador\"",
-      "summary": "Dumfries, ejercitándose en Valdebebas bajo la atenta mirada de Mourinho.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/dumfries-completa-primer-entrenamiento-madridista.html",
-      "pubDate": "Tue, 28 Jul 2026 16:26:38 +0200",
-      "source": "Marca",
+      "id": "82ffa0161d7933e09b01",
+      "title": "Sheinbaum responde a asesor de Trump que dijo que \"organizaciones terroristas\" controlan a México",
+      "summary": "La presidenta volvió a exigir que EE.UU. asuma su responsabilidad en el problema del narcotráfico.",
+      "link": "https://actualidad.rt.com/actualidad/619364-sheinbaum-asesor-trump-terroristas-controlan-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 28 Jul 2026 16:34:46 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68c98359bf5b73f128231d.jpg"
+    },
+    {
+      "id": "a1be4aa2004aae54feaf",
+      "title": "Infantino proyecta convertir el Mundial en una compañía privada y vender las acciones",
+      "summary": "Gianni Infantino y Donald Trump entregan la Copa del Mundo a Rodri, tras la final del Mundial en Nueva Jersey.",
+      "link": "https://elpais.com/deportes/futbol/2026-07-28/infantino-proyecta-convertir-el-mundial-en-una-compania-privada-y-vender-las-acciones.html",
+      "pubDate": "Tue, 28 Jul 2026 16:31:45 GMT",
+      "source": "El Pais",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68ba2bc4c6b.jpeg"
+      "image": "https://imagenes.elpais.com/resizer/v2/K2LMEJXSMNOQ5NEYWW3H44KVD4.jpg?auth=79f48a85de9462d6d2bc598144daee6fcceb48b26d46edf6a785f29381ca210b"
     },
     {
       "id": "89bed2c78d612bec326a",
@@ -153,6 +846,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68b63fd2d0e.jpeg"
     },
     {
+      "id": "247c380293d84f9cd1c9",
+      "title": "Predator se enfrenta a Punisher en el duelo más sangriento de Marvel",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Marvel por fin hace realidad uno de esos enfrentamientos que los lectores llevan décadas imaginando. Predator y Punisher chocarán en una nueva miniserie de cuatro números que promete violencia desatada, giros inesperados y un combate entre dos de los asesinos más letales de la cultura popular. Predator llega a Nueva York para encontrar a su presa definitiva Hay cruces que parecen inevitables. Después de enfrentarse a Lobezno, Spider-Man, Black Panther y otros héroes de Marvel, Predator ya ha demostrado que ningún rincón del Universo Marvel está fuera de su alcance. El siguiente paso era buscar a alguien que no necesitara superpoderes para convertirse en una leyenda. Y ahí entra Frank Castle . Durante el panel Marvel Comics: Next Big Thing celebrado en la San Diego Comic-Con se presentó oficialmente Predator vs. Punisher, una miniserie de cuatro entregas escrita por Frank Tieri, conocido por Alien vs. Captain America, con dibujo de Jesús Saíz (Eddie Brock: Carnage). El primer número llegará a las tiendas en noviembre y, viendo lo que Marvel ha adelantado, todo apunta a que será uno de los cómics más salvajes del año. La propia editorial define este enfrentamiento como un sueño para los aficionados desde hace décadas. No es difícil entender por qué. Ambos personajes son cazadores implacables, expertos en convertir cualquier escenario en un campo de batalla y con una capacidad casi sobrenatural para sobrevivir a lo imposible. Un baño de sangre en las calles de Nueva York La historia arranca con la llegada de un Predator a Nueva York en busca de presas dignas de su reputación. Lo que comienza como una cacería acaba convirtiéndose en una auténtica guerra urbana cuando el extraterrestre pone sus ojos sobre Frank Castle. Marvel adelanta que los grandes jefes del crimen organizado empezarán a caer uno tras otro mientras las calles se tiñen de rojo. Esa escalada de violencia desembocará en el choque entre dos máqu",
+      "link": "https://www.cinemascomics.com/predator-vs-punisher-duelo-sangriento-marvel/",
+      "pubDate": "Tue, 28 Jul 2026 16:01:12 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/predator-vs-punisher.jpg"
+    },
+    {
       "id": "e38e91ac088ad621dbd0",
       "title": "El Gobierno aprueba un nuevo modelo de financiación para las federaciones deportivas",
       "summary": "Reparto a las Federaciones olímpicas y paralímpicas.",
@@ -173,26 +876,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/1gQBIe9CVGpg.jpeg"
     },
     {
-      "id": "e57ab2b0069fa70df741",
-      "title": "Reportan que Zelenski y Netanyahu negocian un encuentro para hablar sobre Irán",
-      "summary": "No se han reunido desde 2023 y sus relaciones siguen siendo tensas, apunta The Times of Israel.",
-      "link": "https://actualidad.rt.com/actualidad/619367-reportar-zelenski-netanyahu-negocian-encuentro?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:52:03 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68c30c59bf5b5fa10f6c8e.jpg"
-    },
-    {
-      "id": "262e2f90fc8e007fbf09",
-      "title": "Cae estafador que mostraba a turistas uno de los anfiteatros \"más viejos del mundo\" de unos 20 años",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/619379-cae-estafador-turistas-anfiteatros-viejo-mundo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:50:22 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "7cd7b50e7e9c9f6762aa",
       "title": "El Almería pone en marcha la gran transformación del UD Almería Stadium: adiós a la pista y 8.000 asientos más",
       "summary": "El club inicia la segunda fase de remodelación del estadio con una inversión superior a los 15 millones de euros y unas obras que se prolongarán hasta septiembre de 2027",
@@ -201,16 +884,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68b22e5c30f.jpeg"
-    },
-    {
-      "id": "922678a72ca48b2c47ef",
-      "title": "Última hora de los incendios forestales, en directo | Los incendios dan una tregua horas antes de la ola de calor: los vecinos de 13 municipios de Madrid y Ávila vuelven a sus casas",
-      "summary": "Un hombre observa uno de los pinares arrasados por el incendio de Burgohondo (Ávila) en el Parque Natural del Valle de Iruelas, este martes.",
-      "link": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html",
-      "pubDate": "Tue, 28 Jul 2026 15:45:16 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/KTRTHPL7DFA2JJPI5YFERPHBH4.jpg?auth=6440a545ef48800d6a47f870582d93c2752268852f725da22fa35619d1a3bb2f"
     },
     {
       "id": "5f0753b03cac6f19d0c4",
@@ -223,26 +896,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68c7f5123da.jpeg"
     },
     {
-      "id": "6cf71ac1cef1ee82105a",
-      "title": "Medios: La CIA y el Mossad llevan a cabo operaciones secretas para localizar al líder supremo de Irán",
-      "summary": "Los medios de ciberinteligencia resultan insuficientes, razón por la que EE.UU. e Israel están desarrollando nuevos métodos.",
-      "link": "https://actualidad.rt.com/actualidad/619359-reportes-cia-mossad-llevar-cabo-operacion-mojtaba?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:40:45 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68bc01e9ff71077d1f9910.jpg"
-    },
-    {
-      "id": "c1a253987110a4fb3342",
-      "title": "Reconocen un error arbitral que pudo cambiar el destino del Argentina-Suiza en el Mundial",
-      "summary": "El árbitro recurrió al VAR para anular una tarjeta amarilla a un jugador albiceleste y sacar la segunda amonestación a uno suizo, en contra del reglamento.",
-      "link": "https://actualidad.rt.com/actualidad/619361-reconocer-error-arbitral-argentina-suiza-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:38:02 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68bf8459bf5b7e0f3f656d.jpg"
-    },
-    {
       "id": "dfac916d357181347691",
       "title": "«Es inaceptable»: Xbox se pronuncia tras el caos por su caída mundial",
       "summary": "Xbox fue noticia durante el lunes por una extensa caída a nivel global . Los problemas técnicas se extendieron por más de 13 horas hasta su resolución y tuvieron un alcance bastante amplio. El fallo no solo impidió acceder a la Xbox Store, sino que también provocó fallos en las cuentas y al momento de tratar de acceder a juegos. Lo peor de todo es que lo último no solamente impactó en las descargas digitales, pues también se registraron incidentes al momento de ejecutar juegos en disco. Tras resolver el problema, Scott Van Vliet , jefe de tecnología de Xbox, se pronunció sobre el tema en redes sociales con un fuerte mensaje. En una extensa publicación en X (Twitter), el ejecutivo explicó que el fallo se originó a partir de problemas en un servicio de licencias externo del que Xbox depende. Pese a no profundizar de más en las causas de ese problema, sí prometió que habrá un reporte más detallado y transparente que se divulgará próximamente. Van Vliet no puso excusas sobre la situación y calificó la situación como \"inaceptable\" . Además, reconoció que Xbox tiene que hacer más para que sus jugadores no vuelvan a quedar tirados. El responsable del apartado tecnológico hizo especial hincapié en que no puede pasar algo así otra vez, en especial cuando un único fallo deja a millones de usuarios en todo el mundo sin la posibilidad de acceder siquiera a sus videojuegos en formato físico. Earlier today, many players began experiencing issues with sign in, enumerating their game libraries and playing games. The team has worked hard throughout the day to fix the issue, and we've restored service as of 2:30 PM PDT. Nonetheless, this is an unacceptable situation, and… https://t.co/3y9TjxzKls Scott Van Vliet (@scottvanvliet) July 28, 2026 \"Me interesan menos las respuestas breves sobre la causa raíz y más las preguntas clave: ¿Por qué un fallo en un servicio pudo afectar tanto a todo el sistema?, ¿Por qué la recuperación tardó tanto?, y ¿Qué cambios implementaremos para que un úni",
@@ -251,67 +904,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/Microsoft-Xbox-Cloud-Gaming.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "569d9465fb464bd096bf",
-      "title": "¿Para qué Zelenski 'abre un nuevo frente' contra Irán?",
-      "summary": "El ataque de Kiev contra Irán no solo abre un nuevo frente del conflicto, sino que busca ganar el favor de Washington, aun a riesgo de provocar una peligrosa escalada en Oriente Medio.",
-      "link": "https://actualidad.rt.com/actualidad/619322-nuevo-frente-zelenski-iran-tiene-unico-destinatario?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:26:56 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68c250e9ff71563b429841.jpeg"
-    },
-    {
-      "id": "c954e05b4f5f30a21122",
-      "title": "La IA entra en una nueva alianza militar entre EE.UU. y Emiratos Árabes Unidos",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/619370-ia-entra-nueva-alianza-militar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:24:10 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "e8f73377ed6005afc76c",
-      "title": "Rosario Central vs Racing, por el Torneo Clausura, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-      "summary": "El Canalla intentará reaccionar luego de perder 2-1 ante Belgrano, Por su parte, la Academia buscará su segunda victoria después de superar a Gimnasia de La Plata en la primera fecha.",
-      "link": "https://www.clarin.com/deportes/rosario-central-vs-racing-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_ve8FPYOnev.html",
-      "pubDate": "Tue, 28 Jul 2026 15:23:44 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/07/24/BAOtNlI-g_1200x630__1.jpg"
-    },
-    {
-      "id": "7c21edae8ad458438a60",
-      "title": "Diego Martí, albañil desde los 15 años: “El mejor albañil no es el que lo deja todo perfecto o el que menos mentiras hace. El mejor es aquel al que no se le notan las mentiras”",
-      "summary": "El albañil valenciano explica cómo fueron sus primeros años en la construcción. Además, defiende el aprendizaje sobre el terreno y alerta sobre la falta de relevo generacional en el sector.",
-      "link": "https://www.clarin.com/internacional/diego-marti-albanil-15-anos-mejor-albanil-deja-perfecto-mentiras-hace-mejor-albanil-notan-mentiras_0_sgMe9iSveF.html",
-      "pubDate": "Tue, 28 Jul 2026 15:22:37 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/28/YZ7m-_3sU_1200x630__1.jpg"
-    },
-    {
-      "id": "766e9f1df7a1bb349575",
-      "title": "Supremo ordena reinicio de operaciones de Halliburton en Venezuela",
-      "summary": "Las actividades y operaciones de la multinacional energética en el país suramericano cesaron en 2020, como consecuencia del bloqueo impuesto por Washington.",
-      "link": "https://actualidad.rt.com/actualidad/619336-supremo-reinicio-operaciones-halliburton-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:21:32 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68a88459bf5b08fa228122.jpg"
-    },
-    {
-      "id": "4e8a1328553019615b3d",
-      "title": "El fuego vuelve con más violencia a Francia mientras las temperaturas marcan hasta 42 grados",
-      "summary": "La zona más afectada por los incendios sigue siendo la Gironda, un área turística al sudoeste del país. Hay miles de evacuados y surgió un fuerte movimiento de solidaridad para ayudar a los bomberos que luchan contra las llamas.",
-      "link": "https://www.clarin.com/mundo/fuego-vuelve-violencia-francia-temperaturas-marcan-42-grados_0_GRRQR45hMe.html",
-      "pubDate": "Tue, 28 Jul 2026 15:18:10 +0000",
-      "source": "Clarin",
-      "cat": "ia",
-      "image": "https://www.clarin.com/img/2026/07/28/-51lrkXzE_1200x630__1.jpg",
-      "subcat": "herramientas"
     },
     {
       "id": "6c138479f296f914905d",
@@ -324,16 +916,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b02f/live/ba8cefe0-8a88-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "9e777e98c416c5a76686",
-      "title": "San Lorenzo vs Gimnasia de Mendoza, por el Torneo Clausura, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-      "summary": "El Ciclón buscará recuperarse después de caer 1-0 ante Lanús. El conjunto mendocino intentará prolongar su buen comienzo tras vencer por la mínima a Central Córdoba.",
-      "link": "https://www.clarin.com/deportes/san-lorenzo-vs-gimnasia-mendoza-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_LZ6obDlfv8.html",
-      "pubDate": "Tue, 28 Jul 2026 15:15:22 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/07/27/yoJk3PnGO_1200x630__1.jpg"
-    },
-    {
       "id": "51af9dd26d7327245f92",
       "title": "\"Son todos campeones\": La Kings World Cup Clubes de 2026, la más igualada de la historia",
       "summary": "Javi Espinosa dispara en su partido contra Aniquiladores",
@@ -342,16 +924,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68aa6c508fe.png"
-    },
-    {
-      "id": "b22e932afd89168623d4",
-      "title": "Científicos rusos y chinos descubren cómo tratar un cáncer considerado 'incurable'",
-      "summary": "El estudio se centró en el adenocarcinoma de pulmón, el tumor pulmonar maligno más común a nivel mundial.",
-      "link": "https://actualidad.rt.com/actualidad/619187-descubren-tratar-cancer-pulmon?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:12:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a688ab059bf5b3ffc5ce859.png"
     },
     {
       "id": "aec419a306e34e3e62ed",
@@ -374,36 +946,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a6895c6d92d0.jpeg"
     },
     {
-      "id": "320905b4026fce99a387",
-      "title": "Hito histórico: Apple rompe barrera de los 5 billones de dólares en plena caída de Nvidia",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/619373-hito-historico-apple-rompe-barrera?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:09:32 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "03f131c0205555ed565e",
-      "title": "Banfield vs Sarmiento, por el Torneo Clausura, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-      "summary": "El Taladro y el Verde llegan necesitados de recuperación. El equipo del Sur perdió 1-0 ante Huracán y el conjunto de Junín cayó 3-2 frente a Argentinos Juniors.",
-      "link": "https://www.clarin.com/deportes/banfield-vs-sarmiento-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_UbBrLSuoy7.html",
-      "pubDate": "Tue, 28 Jul 2026 15:08:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/08/FiVYjoagA_1200x630__1.jpg"
-    },
-    {
-      "id": "690a0ffccd12b5faa033",
-      "title": "Trump recibe a Netanyahu en la Casa Blanca",
-      "summary": "Se trata de su primer encuentro en persona desde febrero, cuando comenzó la agresión contra Irán.",
-      "link": "https://actualidad.rt.com/actualidad/619279-trump-reunirse-netanyahu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 28 Jul 2026 15:07:34 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a68c7f759bf5b01cf35186e.jpg"
-    },
-    {
       "id": "7873a32fdf193080a4c6",
       "title": "Netanyahu se reúne con Trump en medio de los esfuerzos por volver a la negociación con Irán",
       "summary": "El primer ministro, Benjamín Netanyahu, llega a la Casa Blanca, este martes.",
@@ -412,26 +954,6 @@
       "source": "El Pais",
       "cat": "israel",
       "image": "https://imagenes.elpais.com/resizer/v2/B57TJIICRJBP5NWKXNUDEJCIHA.JPG?auth=e0bdb4ff99c82feabc3ad02c668994783b3f2ad37d87ec0a364ee460a3b8e84f"
-    },
-    {
-      "id": "b0353d91402283adf3df",
-      "title": "Papelón en pleno discurso: un político leyó por error un fragmento copiado de IA y quedó grabado",
-      "summary": "El funcionario cometió un error al pronunciarse frente a sus pares. El video. Llamó aún más la atención por la compostura que mantuvo luego del equívoco.",
-      "link": "https://www.clarin.com/internacional/papelon-pleno-discurso-politico-leyo-error-fragmento-copiado-ia-quedo-grabado_0_uYJqsmlcaU.html",
-      "pubDate": "Tue, 28 Jul 2026 15:03:40 +0000",
-      "source": "Clarin",
-      "cat": "tech",
-      "image": "https://www.clarin.com/img/2026/07/28/arjk70Bch_1200x630__1.jpg"
-    },
-    {
-      "id": "c93246323744ef1f5948",
-      "title": "Terremotos en Venezuela: Unicef reveló que casi 700 mil chicos fueron afectados",
-      "summary": "Alrededor de 4 millones viven en las áreas impactadas. La agencia de la ONU despliega ayuda humanitaria urgente para asistirlos. Para saber cómo ayudar, llega Un Sol para los Chicos, el sábado 8 de agosto a las 17 h por eltrece.",
-      "link": "https://www.clarin.com/sociedad/terremotos-venezuela-unicef-revelo-700-mil-chicos-afectados_0_32fJO7hLzJ.html",
-      "pubDate": "Tue, 28 Jul 2026 15:01:53 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/22/H8CF1Fozp_1200x630__1.jpg"
     },
     {
       "id": "ab7b719369808edfea8c",
@@ -467,7 +989,7 @@
     {
       "id": "2682769ca5dc19fc45eb",
       "title": "Ravier descarta que los insultos a Lula impacten en el comercio y admitió \"ruido político\" por hablar del dólar a $1.800",
-      "summary": "El portavoz buscó que las críticas de Milei al presidente brasileño no alcancen a la relación bilateral. Dijo que fue \"sacado de contexto\" por vaticinar una suba de la divisa norteramericana. No respondió sobre las restricciones de los acreditados en la Casa Rosada. El vocero presidencial, Adri n Ravier, tuvo que dedicar buena parte de su conferencia de prensa de este martes a desactivar dos frentes que se le abrieron al Gobierno en las ltimas horas: la crisis diplom tica con Brasil y la controversia generada por sus propias declaraciones sobre la evoluci n del d lar. En relaci n con el conflicto bilateral, Ravier busc bajar el tono luego de que el gobierno de Luiz In cio Lula da Silva llamara a consulta a su embajador en Buenos Aires tras los insultos de Javier Milei, quien el s bado en San Pablo calific al mandatario brasile o de presidiario y ladr n . El vocero reconoci que ha habido siempre insultos de ambos lados , pero insisti en que esos cruces responden a diferencias ideol gicas y pol ticas entre ambos presidentes y no deben trasladarse al v nculo entre los dos pa ses. La Argentina nunca ha llevado estas diferencias al plano diplom tico , sostuvo. En esa l nea, asegur que la Casa Rosada no prev consecuencias institucionales derivadas del episodio. No creemos que esto vaya a impactar en la parte diplom tica. No es la intenci n que esto afecte las relaciones comerciales entre dos pueblos hermanos , afirm . Para Ravier, Milei y los Bolsonaro representan un mismo espacio pol tico que impulsa ideas pro-mercado , mientras que Lula encarna un proyecto ideol gico opuesto. Sin embargo, remarc que esas diferencias no deber an alterar la relaci n bilateral y record que Argentina y Brasil contin an siendo sus principales socios comerciales dentro del Mercosur. El vocero presidencial, Adrián Ravier. El otro eje de la conferencia estuvo atravesado por la necesidad de aclarar sus propias declaraciones sobre el d lar , luego de que el viernes una entrevista fuera interpreta",
+      "summary": "El portavoz buscó que las críticas de Milei al presidente brasileño no alcancen a la relación bilateral. Dijo que fue \"sacado de contexto\" por vaticinar una suba de la divisa norteramericana. No respondió sobre las restricciones de los acreditados en la Casa Rosada. El vocero presidencial, Adri n Ravier, tuvo que dedicar buena parte de su conferencia de prensa de este martes a desactivar dos frentes que se le abrieron al Gobierno en las ltimas horas: la crisis diplom tica con Brasil y la controversia generada por sus propias declaraciones sobre la evoluci n del d lar. Tambi n confirm que Milei encabezar una cadena nacional para presentar los principales lineamientos de la reforma de la Carta Org nica del Banco Central. En relaci n con el conflicto bilateral, Ravier busc bajar el tono luego de que el gobierno de Luiz In cio Lula da Silva llamara a consulta a su embajador en Buenos Aires tras los insultos de Javier Milei, quien el s bado en San Pablo calific al mandatario brasile o de presidiario y ladr n . El vocero reconoci que ha habido siempre insultos de ambos lados , pero insisti en que esos cruces responden a diferencias ideol gicas y pol ticas entre ambos presidentes y no deben trasladarse al v nculo entre los dos pa ses. La Argentina nunca ha llevado estas diferencias al plano diplom tico , sostuvo. En esa l nea, asegur que la Casa Rosada no prev consecuencias institucionales derivadas del episodio. No creemos que esto vaya a impactar en la parte diplom tica. No es la intenci n que esto afecte las relaciones comerciales entre dos pueblos hermanos , afirm . Para Ravier, Milei y los Bolsonaro representan un mismo espacio pol tico que impulsa ideas pro-mercado , mientras que Lula encarna un proyecto ideol gico opuesto. Sin embargo, remarc que esas diferencias no deber an alterar la relaci n bilateral y record que Argentina y Brasil contin an siendo sus principales socios comerciales dentro del Mercosur. El vocero presidencial, Adrián Ravier. El otro eje de la co",
       "link": "https://www.eldiarioar.com/politica/ravier-descarta-insultos-lula-impacten-comercio-admitio-ruido-politico-hablar-dolar-1-800_1_13412845.html",
       "pubDate": "Tue, 28 Jul 2026 14:59:22 +0000",
       "source": "El Diario AR",
@@ -485,16 +1007,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68a76f86643.jpeg"
     },
     {
-      "id": "f51045c32f8515d0eb6d",
-      "title": "Lila Bendersky: “Sentía una necesidad, diría, vital de recuperar la historia de mi hermana”",
-      "summary": "Después de años de silencios, la periodista decidió recuperar la historia de su hermana y convertirla en una obra de no ficción. En esta entrevista explica cómo habló con sus padres, sus hermanos y los amigos de la familia para reconstruir ese pasado. El resultado es un libro que explora la memoria, los vínculos familiares y la posibilidad de nombrar el dolor.",
-      "link": "https://www.clarin.com/cultura/lila-bendersky-sentia-necesidad-diria-vital-recuperar-historia-hermana_0_q0wUD0HBU1.html",
-      "pubDate": "Tue, 28 Jul 2026 14:57:53 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/06/25/O_WX3xzyI_1200x630__1.jpg"
-    },
-    {
       "id": "31bf500dd714c3b531b2",
       "title": "Quién es el \"Diablo\", el criminal \"más buscado\" de Costa Rica capturado tras una compleja operación policial",
       "summary": "El capo, quien comenzó trabajando en una compañía bananera, es señalado como presunto involucrado en al menos 150 muertes en el país centroamericano.",
@@ -505,54 +1017,14 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5a8/live/56c40120-8a87-11f1-83c5-cf36fe4b083e.png"
     },
     {
-      "id": "df580cc4da7e4e216a8b",
-      "title": "Wanda Nara publicó las imágenes del robo en Italia: así reaccionaron sus hijos al descubrir a los ladrones",
-      "summary": "La conductora difundió los registros de las cámaras de seguridad en su casa de Galliate. Además, volvió a cargar contra Mauro Icardi por negarse a firmar los pasaportes para que los niños puedan regresar al país.",
-      "link": "https://www.clarin.com/fama/wanda-nara-publico-imagenes-robo-italia-reaccionaron-hijos-descubrir-ladrones_0_MmUJL9JkoC.html",
-      "pubDate": "Tue, 28 Jul 2026 14:53:36 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/28/tD6BN6K9J_1200x630__1.jpg"
-    },
-    {
-      "id": "52890d2ad53058da1a0b",
-      "title": "Un nuevo análisis dice que las baterías de los autos eléctricos duran más de lo esperado: qué revelan los datos",
-      "summary": "Los fabricantes aseguran que su vida útil es cada vez mayor. El costo de su reemplazo suele ser una razón para alejar a los compradores.",
-      "link": "https://www.clarin.com/estados-unidos/nuevo-analisis-dice-baterias-autos-electricos-duran-esperado-revelan-datos_0_uWbGMgSUPo.html",
-      "pubDate": "Tue, 28 Jul 2026 14:47:53 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/12/KJ17XB1px_1200x630__1.jpg"
-    },
-    {
-      "id": "7a3f016ea1107a8c03ec",
-      "title": "Tebas: \"No venís aquí porque os hayamos invitado, os lo habéis ganado\"",
-      "summary": "Acto institucional de bienvenida con los clubes ascendidos en primera y segunda",
-      "link": "https://www.marca.com/futbol/2026/07/28/javier-tebas-venis-aqui-hayamos-invitado-habeis-ganado.html",
-      "pubDate": "Tue, 28 Jul 2026 14:42:55 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68a28d50ac6.jpeg"
-    },
-    {
-      "id": "4bd80feec0aec84ec625",
-      "title": "El fallecimiento de una mujer hospitalizada en el Virgen del Rocío eleva a 14 los fallecidos por el incendio de Los Gallardos",
-      "summary": "Terrenos calcinados por el incendio de Bédar y Los Gallardos (Almería).",
-      "link": "https://elpais.com/espana/2026-07-28/el-fallecimiento-de-una-mujer-hospitalizada-en-el-virgen-del-rocio-eleva-a-14-los-fallecidos-por-el-incendio-de-los-gallardos.html",
-      "pubDate": "Tue, 28 Jul 2026 14:41:08 GMT",
+      "id": "26696f5baca79d162d5e",
+      "title": "El Partido Popular carga contra el “insultante triunfalismo” de Pedro Sánchez",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, con la presidenta electa de Perú, Keiko Fujimori, en Lima, este lunes.",
+      "link": "https://elpais.com/espana/2026-07-28/el-partido-popular-carga-contra-el-insultante-triunfalismo-de-pedro-sanchez.html",
+      "pubDate": "Tue, 28 Jul 2026 14:39:25 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/7FR66KHQ5JPZHLUAOFE6QHIYXM.jpg?auth=dda3f5ff3a3d319f246a5cc8e3b1b39c015cba5e61c6c9c19b7ff5bcd7d58969"
-    },
-    {
-      "id": "6611c758c6e97d172ef3",
-      "title": "Carrera contra el fuego en Ávila y Madrid: los vecinos de 13 municipios vuelven a sus casas horas antes de la ola de calor",
-      "summary": "Vecinos de Valdeiglesias trabajan abriendo cortafuegos y retirando maleza próxima al incendio para impedir la reactivación que quemó el contorno del pueblo.",
-      "link": "https://elpais.com/espana/2026-07-28/carrera-contra-el-fuego-en-avila-y-madrid-24-horas-criticas-antes-de-la-ola-de-calor.html",
-      "pubDate": "Tue, 28 Jul 2026 14:32:57 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/ROTWO2TS5FEQZMASDAOV274FQY.JPG?auth=e64aab8a663cbcdba04fcae0f2eba5c1ad58d54e7297450f1bca0be97068b2ab"
+      "image": "https://imagenes.elpais.com/resizer/v2/DTRES5UJCNK4FIRFII4OD2ATTY.jpg?auth=3a51cdf331da0b1313a17b26ebb23efc751c38cfd367157cbe51a2c4a0c85c33"
     },
     {
       "id": "6a1b389840541549d7d6",
@@ -573,16 +1045,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/66db133f-8ce6-4737-8489-a1412347f51e_16-9-discover-aspect-ratio_default_0_x436y115.jpg"
-    },
-    {
-      "id": "197d392c614772d46619",
-      "title": "La archidiócesis de Madrid decreta la supresión de una asociación religiosa denunciada por presuntos exorcismos, agresiones sexuales",
-      "summary": "Las Hijas del Amor Misericordioso (HAM), comunidad religiosa ubicada en la sierra de Guadarrama.",
-      "link": "https://elpais.com/espana/madrid/2026-07-28/la-archidiocesis-de-madrid-decreta-la-supresion-de-la-asociacion-publica-de-fieles-hijas-del-amor-misericordioso.html",
-      "pubDate": "Tue, 28 Jul 2026 14:10:27 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/W2F6DHEG3BEMBF2Q4PHFB65KSU.jpg?auth=8e021f1ac5e118523557b5973bb4dbcab4ba2409b9e92a547b39280f19a0506b"
     },
     {
       "id": "af1e8dcd1862283b8b46",
@@ -613,26 +1075,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a689009f1732.jpeg"
-    },
-    {
-      "id": "2245b84239ec4d8773e5",
-      "title": "La reactivación en algunas zonas del incendio del suroeste de Francia obliga a evacuar a 4.000 turistas",
-      "summary": "Terreno calcinado en Lanton por un incendio de categoría XXL en la región de la Gironda, al suroeste de Francia, este martes.",
-      "link": "https://elpais.com/internacional/2026-07-28/la-reactivacion-en-algunas-zonas-del-incendio-del-suroeste-de-francia-obliga-a-evacuar-a-4000-turistas.html",
-      "pubDate": "Tue, 28 Jul 2026 13:59:19 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/4XMATIGLXFMNZKOJ6NSFJN73GY.jpg?auth=8bb91c72872bad64c7a993ac4fd21c6155183af32df5c77dee91cc69c63b0f48"
-    },
-    {
-      "id": "1be40893ab88ab65833d",
-      "title": "El Bayern da por zanjado el tema Olise con el Real Madrid",
-      "summary": "130,00 millones de euros / +30,00 millones de euros (30%)",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/bayern-da-zanjado-tema-olise-real-madrid-dijo.html",
-      "pubDate": "Tue, 28 Jul 2026 13:51:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/09/69ae9abd7c19f.jpeg"
     },
     {
       "id": "8416f061d82582fd9212",
@@ -676,29 +1118,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/53PCB6EUTNHD3PLCPROQ2BP4YU.jpg?auth=ec597ab53d7bca0bc82d36d76613b703e795b71601033cabe32cb33c0911b6a9"
     },
     {
-      "id": "644ec9534e8d42d42dc2",
-      "title": "El descenso no desanima a la afición del Zaragoza",
-      "summary": "La afición del Zaragoza no lo abandona ni en Primera RFEF: ya roza los 20.000 socios",
-      "link": "https://www.marca.com/futbol/zaragoza/2026/07/28/aficion-zaragoza-abandona-primera-rfef-roza-20-000-socios.html",
-      "pubDate": "Tue, 28 Jul 2026 13:43:09 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a6895a562e7b.jpeg"
-    },
-    {
-      "id": "5bbf669f323c6e6f0e3d",
-      "title": "Hamilton se desespera: \"Cada oportunidad que le doy a estos comisarios...\"",
-      "summary": "Lewis Hamilton, en Hungaroring.",
-      "link": "https://www.marca.com/motor/formula1/gp-hungria/2026/07/28/hamilton-desespera-oportunidad-le-doy-comisarios.html",
-      "pubDate": "Tue, 28 Jul 2026 13:36:59 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a688adf361a9.jpeg"
-    },
-    {
       "id": "d6581fe2c1b7881c1f7c",
-      "title": "Un fuerte terremoto de magnitud 7,1 sacude el sur de Japón y provoca una alerta de tsunami",
-      "summary": "El epicentro del sismo se ubicó a unos 10 kilómetros de profundidad bajo la prefectura de Kumamoto, en la isla japonesa de Kyushu, detalla la agencia meteorológica japonesa (JMA). Un fuerte terremoto de magnitud 7,1 sacudi este martes la zona de Kumamoto, en el sur de Jap n, provocando adem s una alerta por tsunami, seg n datos de la agencia meteorol gica japonesa (JMA). Hasta el momento, se report al menos un muerto, unas 80 resultaron heridas y se teme que hasta otras 30 se encuentren atrapadas en el derrumbe de un centro comercial. El sismo tuvo lugar a las 16.27 hora local, y su epicentro fue a unos 10 kil metros de profundidad bajo la prefectura de Kumamoto, ubicada en la isla japonesa de Kyushu, detalla la agencia. Algunas zonas de la regi n registraron el nivel m ximo en la escala japonesa de siete niveles, centrada en medir la agitaci n sobre la superficie y el potencial destructivo de los temblores. Tras el terremoto, la JMA emiti una alerta por tsunami para varias zonas de la costa, y dijo que se esperan olas de hasta un metro de alto. Todav a no hay informaci n precisa sobre m s da os o v ctimas, aunque la cadena p blica de televisi n NHK muestra im genes de algunos incendios activos y da o en carreteras. Varias personas quedaron atrapadas dentro de un centro comercial tras el fuerte terremoto. Seg n algunas informaciones, se produjo una explosi n en el centro comercial Aeon Mall de Kumamoto, donde, de momento, se report un muerto y decenas de heridos. Seg n NHK, los servicios de emergencias recibieron numerosas llamadas tras el temblor. Las centrales nucleares de la zona, sin embargo, no registraron incidentes. En una rueda de prensa, la primera ministra japonesa, Sanae Takaichi, advirti que pueden producirse sismos de la misma magnitud en la zona, y pidi a la poblaci n estar alerta. Jap n se asienta sobre el llamado Anillo de Fuego, una de las zonas s smicas m s activas del mundo, y sufre terremotos con relativa frecuencia, por lo que sus infraestructur",
+      "title": "Varias personas atrapadas en un centro comercial derrumbado tras un terremoto de 7,1 en Japón",
+      "summary": "Al menos una persona murió, unas 80 resultaron heridas y se teme que hasta otras 30 se encuentren atrapadas en el derrumbe de un centro comercial en el sur del país, después de que un terremoto de magnitud 7,1 golpeara la prefectura de Kumamoto. Al menos una persona muri , unas 80 resultaron heridas y se teme que hasta otras 30 se encuentren atrapadas en el derrumbe de un centro comercial en el sur de Jap n, despu s de que un terremoto de magnitud 7,1 golpeara la prefectura de Kumamoto, en el sur de Jap n. Una persona fue hallada en una casa derrumbada en la ciudad de Yatsushiro y fue trasladada a un hospital, donde falleci posteriormente, afirma la agencia de noticias japonesa Kyodo citando a la Polic a de Kumamoto. La cadena de televisi n nipona NHK informa por su parte de que unas 80 personas est n recibiendo informaci n m dica en la localidad de Hikawa, situada en el distrito de Yatsushiro. La Polic a de la prefectura dice que est tratando de contactar con nueve personas cuya ubicaci n se desconoce. Adem s, un centro comercial de la zona sufri una explosi n durante la tarde, y las autoridades temen que un gran n mero de personas permanezcan atrapadas en su interior, como recoge la agencia japonesa de noticias Kyodo. El operador del centro comercial, Aeon Mall, declar que la explosi n se produjo despu s de que los empleados y los clientes hubieran evacuado el edificio, pero la Agencia de Gesti n de Incendios y Desastres japonesa explica que muchos podr an estar atrapados adentro, y algunos de ellos heridos. Seg n NHK, se perdi el contacto con entre 20 y 30 empleados del centro, y las autoridades tratan de confirmar si se encuentran atrapados en el interior del edificio. En im genes publicadas por NHK puede verse el centro comercial, ubicado en la localidad de Kashima, en la prefectura de Kumamoto, con parte de la pared desprendida y el tejado colapsado. Aunque las autoridades japonesas no confirmaron por el momento v ctimas mortales, la primera ministra, Sanae Ta",
       "link": "https://www.eldiarioar.com/mundo/fuerte-terremoto-magnitud-7-1-sacude-sur-japon-provoca-alerta-tsunami_1_13412584.html",
       "pubDate": "Tue, 28 Jul 2026 13:35:57 +0000",
       "source": "El Diario AR",
@@ -717,16 +1139,6 @@
       "subcat": "mercado"
     },
     {
-      "id": "16729e1b9798755b0a08",
-      "title": "Muere a los 44 años Borja Ferrer, ex del Castilla",
-      "summary": "Borja Ferrer, en su etapa en el Xerez.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/comunicado-real-madrid-lamenta-fallecimiento-borja-ferrer.html",
-      "pubDate": "Tue, 28 Jul 2026 13:35:05 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a6892842eead.jpeg"
-    },
-    {
       "id": "90ce268a6cd11667cb8c",
       "title": "Las claves del balance de Sánchez: de la defensa de su esposa y su hermano a los tuits de Puente y el “intachable” rescate a Plus Ultra",
       "summary": "El presidente del Gobierno, Pedro Sánchez, comparece ante los medios para efectuar un balance del curso político.",
@@ -735,26 +1147,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/GF6FFWXLSFEDDNZTZQFR6IPYEI.jpg?auth=678867fcb4d8df09f3b130f758941dfb75a4115d651ba764daf09fe4c97d5b78"
-    },
-    {
-      "id": "823172b0d65e4d3830cc",
-      "title": "Rodri, operado con éxito",
-      "summary": "Rodri, ayer en Madrid.",
-      "link": "https://www.marca.com/futbol/premier-league/2026/07/28/rodri-operado-exito-espalda.html",
-      "pubDate": "Tue, 28 Jul 2026 13:27:59 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68934c3b31f.jpeg"
-    },
-    {
-      "id": "54d6632a142edb7920d6",
-      "title": "Calendario Pirelli: el 'making of' del almanaque más famoso del mundo",
-      "summary": "Pirelli ya ha realizado las fotos de su famosísimo calendario, que en 2027 tiene como protagonista La India y es obra de los fotógrafos Sølve Sundsbø y Raghu Rai. Este es el 'making of' del famoso almanaque.",
-      "link": "https://www.marca.com/coches-y-motos/coches/album/2026/07/28/calendario-pirelli-2027-making-of-almanaque-famoso-mundo.html",
-      "pubDate": "Tue, 28 Jul 2026 13:26:49 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68918f056ca.jpeg"
     },
     {
       "id": "90cb4471f77e2a017f5c",
@@ -767,16 +1159,6 @@
       "image": "https://static.eldiario.es/clip/77ecca1f-619b-4fcd-bb0a-e104aee977b8_16-9-discover-aspect-ratio_default_0_x382y98.jpg"
     },
     {
-      "id": "19db0747f101ca6e084c",
-      "title": "El marido de Susanna Griso responde a las críticas por su look de boda: \"Me jode\"",
-      "summary": "Susanna Griso y Luis Enríquez",
-      "link": "https://www.marca.com/tiramillas/television/2026/07/28/marido-susanna-griso-responde-criticas-look-boda-me-jode-haber-dado-impresion-contraria-sentia.html",
-      "pubDate": "Tue, 28 Jul 2026 13:14:21 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a688e07e56ff.jpeg"
-    },
-    {
       "id": "61c749c54b712788fa28",
       "title": "Máximo Kirchner dijo no comprender la pelea con Kicillof: \"No estamos en veredas opuestas\"",
       "summary": "El diputado habló de la disputa interna con el gobernador y reveló que existe discusión político. El gobernador de La Rioja busca que se encuentren en un homenaje el fin de semana próximo. En medio de los preparativos para la cumbre peronista que organiza el gobernador de La Rioja, Ricardo Quintela, para el pr ximo s bado en homenaje al obispo Enrique Angelelli , M ximo Kirchner relativiz anoche la pelea con Axel Kicillof . El diputado nacional asegur que no estamos en veredas opuestas con el gobernador de la provincia de Buenos Aires y calific como ajena a su comprensi n la disputa que, seg n dijo, adelant un sector de la pol tica. Estoy convencido que no estamos en veredas opuestas con Kicillof. Nosotros compartimos el peronismo en la provincia de Buenos Aires; l es presidente del PJ y gobernador, despu s hay debates y discusiones l gicas de adentro de la pol tica, que no interesan , plante Kirchner en C5N. Y agreg , en un tono que combin extra eza y cierta autocr tica sobre la escalada de los ltimos meses: No sabr a explicarte, me gustar a saber. No hay una pelea en el conurbano, puede haber cruce de declaraciones, pero despu s todos los intendentes trabajan para mejorarle la calidad de vida a la gente. Pero hubo gente que adelant una pelea que yo nunca entend mucho. Es algo que me vengo preguntando con mucho tiempo . M s adelante en la nota, sum otra frase en la misma l nea: Salimos en conjunto de la defensa de los bonaerenses . Aunque no lo dijo de manera expl cita, la referencia de Kirchner a la gente que adelant una pelea remite al desdoblamiento de las elecciones legislativas bonaerenses que Kicillof anunci el 7 de abril de 2025, cuando fij los comicios provinciales para el 7 de septiembre, por afuera de las elecciones nacionales de octubre. Esa decisi n, tomada tras semanas de negociaciones fallidas con Cristina y M ximo Kirchner, fue le da en ese momento como el quiebre definitivo entre el gobernador y el cristinismo, y La C mpora hab a advertido antes del",
@@ -785,16 +1167,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/96a07074-4bb4-4359-8640-7bf2daa4d26b_16-9-discover-aspect-ratio_default_0_x1104y437.jpg"
-    },
-    {
-      "id": "35bd5bc3d7fac8871e95",
-      "title": "Las primeras imágenes de Dumfries en Madrid",
-      "summary": "El internacional neerlandés pasará el reconocimiento médico en las próximas horas antes de firmar su contrato, culminando así una de las incorporaciones más esperadas del verano para reforzar el lateral derecho del conjunto blanco.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/07/28/primeras-imagenes-dumfries-madr-video.html",
-      "pubDate": "Tue, 28 Jul 2026 13:03:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/cxlqM1gQ8nhu9AEGd.jpeg"
     },
     {
       "id": "4ca0d6f52dbb32458634",
@@ -834,7 +1206,7 @@
       "pubDate": "Tue, 28 Jul 2026 12:42:50 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/EXFQTL7O35F4ZHAW7ALBDQBNIQ.JPG?auth=ac6de5b4d3a682f842f21dacfdd7729415cc1956cfb6894d8247391f18f1a56b"
+      "image": "https://imagenes.elpais.com/resizer/v2/IUXN4FILLJHA7HUH6LU4VLC3PQ.JPG?auth=6ae7502ec9beaa9c11f6c0d7468d25cabb9ff88a9bbb5302d3c89b671fdc5806"
     },
     {
       "id": "c0ad0e8c718ceb7d58c3",
@@ -907,6 +1279,16 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/Adria-Arjona-en-Onslaught-1.jpg"
     },
     {
+      "id": "509342fb83ff8afe54a7",
+      "title": "Dos empleadas del PSOE señalan a Cerdán como la persona que autorizó los gastos y la entrada de Leire Díez en la sede del partido",
+      "summary": "Santos Cerdá en el Senado en diciembre del año pasado.",
+      "link": "https://elpais.com/espana/2026-07-28/dos-empleadas-del-psoe-senalan-a-cerdan-como-la-persona-que-autorizo-los-gastos-y-la-entrada-de-leire-diez-en-la-sede-del-partido.html",
+      "pubDate": "Tue, 28 Jul 2026 12:00:23 GMT",
+      "source": "El Pais",
+      "cat": "ar_pol",
+      "image": "https://imagenes.elpais.com/resizer/v2/SX6SISEC7JHELGLEC3IOKG76CE.jpg?auth=927f6ff1bd70e1d17d1e91a3203a47e8b674a98db96bfb48dc6487ea41404171"
+    },
+    {
       "id": "aeb09d61fc4e91e6369c",
       "title": "Las apps de Temu, Shein y AliExpress se desploman en los rankings de descargas. Justo cuando entra en vigor la tasa europea",
       "summary": "A pesar de que cada vez más usuarios utilizan el verano para desconectar del mundo digital, también es un momento que muchos eligen para probar nuevas aplicaciones que incorporar a su rutina habitual. Más allá de las aplicaciones ideales para las vacaciones que te recomendamos en su momento, la Play Store y la App Store están llenas de opciones que revisar. Y según los datos que hemos consultado de Data.ai para lo que llevamos de mes de julio, estáis descargando alguna bastante poco habitual. Action, sorprendente inclusión entre las apps de compras más descargadas Si repasas nuestros rankings mensuales anteriores, verás que Temu y Shein llevan meses repartiéndose el dominio de la clasificación de las apps de compras más descargadas de España. No en vano, ambas ocuparon las dos primeras posiciones en el global de 2025 . En el mes de julio, sin embargo, esto ha cambiado, y es Shop, la app de Shopify, la que ocupa el primer lugar. Y lo que es más sorprendente: tanto Temu como Shein bajan muchas, muchas posiciones. Tantas, que Shein se queda a punto de caerse del top 10 por primera vez en más de un año. Shop Wallapop Lidl Plus Amazon Mercadona Vinted MediaMarkt Spain Action Temu Shein Vale, y ahora un poco de especulación no solicitada 😉 ¿Tendrá algo que ver la entrada en vigor de la nueva tasa de la Unión Europea ? Recordemos que desde el pasado 1 de julio la UE comenzó a aplicar una tasa fija de tres euros por producto a los envíos de valor inferior a 150 euros procedentes de fuera de la Unión. Esta tasa fue vista como una medida defensiva de Bruselas ante el creciente protagonismo que Shein, Temu o Aliexpress estaban ganando en nuestro mercado, y que generaban la entrada de millones de paquetes en nuestras fronteras cada año. Productos de escaso valor que solo son competitivos por su bajísimo precio, y que serían muy-muy sensibles a la incorporación de una tasa de tres euros. De hecho, hay otro dato que podría apoyar esta teoría: Aliexpress , el otro marketplace en e",
@@ -955,16 +1337,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/CRL3AC3J5NC7ZEOPS3423LPLNI.jpg?auth=9911ce8a344da7073830fa7f33a25df7483e2554b1e1339ad7c22e8f211d50e8"
-    },
-    {
-      "id": "4170673da78bc3a82ea6",
-      "title": "La Comunidad de Madrid extingue la concesión al Rayo del Estadio de Vallecas para acometer obras “urgentes” durante dos a seis meses",
-      "summary": "Varios aficionados ven la final de la UEFA Conference League entre el Rayo Vallecano y el Crystal Palace, en una pantalla instalada en el estadio de fútbol de Vallecas, el pasado mayo.",
-      "link": "https://elpais.com/deportes/futbol/2026-07-28/la-comunidad-de-madrid-extingue-la-concesion-al-rayo-del-estadio-de-vallecas-para-acometer-obras-urgentes.html",
-      "pubDate": "Tue, 28 Jul 2026 11:40:40 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/RK2DN2R2KRHHNOFDQ5D4WOMUJQ.jpg?auth=0855533c079089c9f2f1843d5687c009a9a5ecaf7cd50b5c1b45ee8f4f6d90bb"
     },
     {
       "id": "115c1ecc934a30d39f44",
@@ -1148,6 +1520,16 @@
       "image": "https://static.eldiario.es/clip/0da8affc-ca7a-44ca-9f1b-dd26f13e00f8_16-9-discover-aspect-ratio_default_0_x853y504.jpg"
     },
     {
+      "id": "efa4513f38e4e1192ad9",
+      "title": "Por qué aparece el “marxismo gótico”: Frankenstein contra el capitalismo",
+      "summary": "La lógica depredadora de nuestro sistema económico deja en bandeja el uso del terror para explicarnos el mundo; seguiendo la estela de Jacques Derrida, Mark Fisher, ahondan en esta idea Jon Greenaway y David McNally Desde la publicaci n de Frankenstein en 1818, ning n otro monstruo suscit tantas interpretaciones filos ficas, pol ticas y culturales como la criatura hecha con pedazos de cad veres que imagin Mary Shelley. Durante dos siglos fue considerada un s mbolo de la arrogancia cient fica, una advertencia contra los excesos de la t cnica, una alegor a de la exclusi n e incluso una figura anticipatoria de la inteligencia artificial. Pero, para el marxismo g tico, el quid de la cuesti n no radica en qu es el monstruo, sino en por qu el monstruo es, la raz n misma de su existencia. Dicho de otro modo, qu condiciones de vida llevan a alguien a concebir semejante abominaci n. La respuesta, claro, es el capitalismo. El capitalismo es una historia de terror , sentencia Jon Greenaway . Tras l se esconde una masa de violencia intr nseca a su l gica depredadora, escribe el doctor en Estudios G ticos brit nico. Una violencia, no obstante, que pese a sufrirla a diario en nuestras propias carnes muchas veces no sabemos reconocer. Para David McNally , la perversidad del engendro capitalista se halla en su invisibilidad : al erigirse en la nica forma que tenemos de entender el mundo -lo que Mark Fisher llam realismo capitalista -, la excepcional brutalidad del sistema no nos parece tal, sino algo propio del orden natural de las cosas. Y, por tanto, inevitable. &#039;Licántropo&#039; (2027) es la próxima película de Robert Eggers, director de &#039;Nosferatu&#039; (2024) Qu tiene esto que ver con el monstruo de Frankenstein? Para Greenaway, McNally y el resto de pensadores alineados con el marxismo g tico, absolutamente todo. La criatura, como tantas otras entidades que pueblan los relatos de miedo desde finales del XVIII (vampiros, fantasmas, muertos vivientes, lic ntropos, cas",
+      "link": "https://www.eldiarioar.com/cultura/aparece-marxismo-gotico-frankenstein-capitalismo_1_13410930.html",
+      "pubDate": "Tue, 28 Jul 2026 09:35:48 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/b1030174-b195-4fde-9c0e-51eb51cdb455_16-9-discover-aspect-ratio_default_1148275.jpg"
+    },
+    {
       "id": "32dd2fcd65a28c2945fa",
       "title": "Ya hay veredicto: las primeras reacciones a ‘Spider-Man: Brand New Day’ confirman si la película merece o no la pena",
       "summary": "El estreno de Spider-Man: Brand New Day y, por fin, han salido a la luz las primeras reacciones de los afortunados que ya la han visto. La película celebró su premiere mundial el pasado lunes en Los Ángeles. Allí, cientos de personas se convirtieron en las primeras en disfrutar de la nueva entrega del hombre araña de Tom Holland , que ha levantado mucha expectación . No en vano apunta a un estreno descomunal cercano a los 800 millones de dólares. Así las cosas, al acabar la película muchos críticos y personalidades de renombre dejaron sus primeras reacciones a Spider-Man: Brand New Day . Y por lo visto, no cabe duda. Marvel y Sony Pictures tienen entre manos otro gran triunfo para el arácnido . La opinión general es muy positiva, celebrándola como un muy necesario soplo de aire fresco para Marvel en medio de tanta sobrecarga multiversal. La mejor película de Spider-Man de Tom Holland “Puede que sea la película más Marvel que jamás haya visto. Destin Daniel Cretton rinde homenaje a las queridas obras de Spider-Man , especialmente a las de Sam Raimi , para crear algo conmovedor y emocionante. Hulk y Punisher cumplen. La gran revelación está a la altura. La mejor de la saga de Spider-Man de Tom Holland ”, se pronuncia el periodista Brandon Pope . “Marvel reduce el tedio del multiverso para ofrecer una historia de Spider-Man más realista que regresa a las raíces urbanas y crudas del héroe de cómic que conocíamos y amábamos. Tom Holland finalmente capta a la perfección el sarcasmo, la angustia y los problemas amorosos de Spidey/Peter Parker , tal como Stan Lee lo concibió originalmente”, promete el crítico Peter Howell . El único fallo que le achaca es “ su excesiva duración de 145 minutos, que incluye una escena post-créditos innecesaria”. “ Spider-Man: Brand New Day , de Destin Daniel Cretton , inyecta una energía feroz a la última aventura de Spidey, ofreciendo toda la emoción que esperarías de una película de Spider-Man protagonizada por Tom Holland , pero con una ma",
@@ -1328,16 +1710,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/022c/live/5238ff60-8a06-11f1-b5ab-637dbd8ea6e3.jpg"
-    },
-    {
-      "id": "f5d32140a0d5f8100a6f",
-      "title": "Los insultos de Milei a Lula llevan a Argentina y Brasil al peor choque diplomático en años",
-      "summary": "Luiz Inácio Lula da Silva y Javier Milei en Buenos Aires, en julio de 2025.",
-      "link": "https://elpais.com/argentina/2026-07-28/los-insultos-de-milei-a-lula-llevan-a-argentina-y-brasil-al-peor-choque-diplomatico-en-anos.html",
-      "pubDate": "Tue, 28 Jul 2026 04:00:00 GMT",
-      "source": "El Pais",
-      "cat": "ar_pol",
-      "image": "https://imagenes.elpais.com/resizer/v2/PKODL4KOKZEALBJXZ3AUZCCKCQ.jpg?auth=6c4506d6319435d49aadd3f399977748f57d9a8370d26dd0e3cd14be8c6037db"
     },
     {
       "id": "57dedbbaa0101fd6a145",
@@ -1617,16 +1989,6 @@
       "image": "https://static.eldiario.es/clip/81f288fe-ecde-42e2-9232-669dca57d05b_16-9-discover-aspect-ratio_default_1148154.jpg"
     },
     {
-      "id": "e7c10078a0bef469acec",
-      "title": "Mientras Argentina desarma su sistema científico, ¿qué hacen otros países?",
-      "summary": "Seis jóvenes investigadores de Canadá, Perú, Taiwán, Noruega, Bélgica y Tailandia cuentan cómo las decisiones políticas moldean sus carreras y qué estrategias ayudan a sostener la investigación en un mundo cada vez más hostil a la ciencia. “Es volver a la edad de Piedra”: cómo el desfinanciamiento científico empieza a impactar en la vida cotidiana Steven Chu, Nobel de Física: “Estamos subsidiando los combustibles fósiles y desmantelando la ciencia” Cuando un sistema cient fico entra en crisis, el da o no se ve enseguida. Tampoco arranca cuando se cancela una beca o despiden gente de un organismo. Empieza mucho antes: cuando un investigador abandona la academia porque no llega a fin de mes , un estudiante decide que no vale la pena seguir un doctorado, o un pa s deja de ser atractivo para producir saberes. Argentina est sufriendo ese proceso de forma acelerada. En otros pa ses, donde el financiamiento todav a existe, algunos cient ficos j venes creen estar viendo las primeras se ales de esa misma historia. Otros investigadores, en cambio, muestran todo lo que puede hacerse cuando una naci n sostiene su inversi n en ciencia, protege a sus investigadores y entiende que el conocimiento no es gasto sino estrategia. Desde el 75 Lindau Nobel Laureate Meeting en Alemania, que convoc a 69 premios Nobel y otros 600 cient ficos, elDiarioAR convers con seis j venes investigadores de Noruega, Per , Tailandia, Canad , Taiw n y B lgica. Qu pol ticas creen que ayudan a la ciencia? C mo cambiaron sus vidas las decisiones que tomaron los gobiernos de los pa ses que habitan? Qu lecciones pueden darnos a los argentinos en el momento m s hostil para nuestro sistema cient fico? Cada caso es muy distinto pero, en todos, hay un desaf o que se repite: arrancar una carrera cient fica en un mundo cada vez m s incierto, con m s lugar para las pseudociencias y las teor as conspirativas, y menos para la evidencia y el pensamiento cr tico. Para un cient fico, lo m s incierto es su propia vida Vin",
-      "link": "https://www.eldiarioar.com/sociedad/argentina-desarma-sistema-cientifico-paises_1_13407181.html",
-      "pubDate": "Sun, 26 Jul 2026 13:47:05 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/6ce4cefb-6b88-4271-8d04-359306c50c1f_16-9-discover-aspect-ratio_default_1148175.jpg"
-    },
-    {
       "id": "a6ec24b28c323149d921",
       "title": "Colonos israelíes incendian mezquitas, vehículos y tierras de cultivo durante una serie de ataques en Cisjordania, denuncian autoridades palestinas",
       "summary": "Los últimos incidentes violentos se producen dos días después de un enfrentamiento entre colonos y palestinos cerca de la aldea de Tal, que dejó cuatro palestinos y dos israelíes muertos.",
@@ -1645,16 +2007,6 @@
       "source": "BBC Mundo",
       "cat": "tech",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de15/live/c38e1f40-65a0-11f1-b1db-af71d47507d6.png"
-    },
-    {
-      "id": "132249567986ee554613",
-      "title": "Incendios forestales: las mejores herramientas para estar informado",
-      "summary": "España se quema. Como cada verano, estamos viviendo la tragedia de los incendios forestales , y ya sea que cualquier de ellos amenace o haya amenazado lo nuestro, o simplemente por empatía y un poco de conciencia social, la inmensa mayoría vivimos con una mezcla de tristeza infinita y pavor, las actualizaciones sobre la cantidad de personas desplazadas, hectáreas quemadas, efectivos movilizados, frentes por encima de la capacidad de extinción y la seguridad de los héroes que se están jugando la vida para frenar al fuego, nos tienen con el corazón en un puño. En una situación como esta, estar bien informados también es importante . Saber dónde se encuentran los incendios activos, cómo están evolucionando, si existe riesgo en nuestra zona o si alguna carretera se ha visto afectada puede resultar especialmente útil, y para ello contamos con distintas herramientas, mapas y sistemas de alerta accesibles desde el ordenador o el móvil. A continuación vamos a repasar cuáles son las fuentes más fiables, qué información ofrece cada una y cómo utilizarlas para seguir la evolución de los incendios sin perdernos entre datos desactualizados, mapas mal interpretados o mensajes que circulan por redes sociales. Mapas oficiales para conocer el riesgo y seguir los incendios Uno de los primeros recursos que podemos consultar es el mapa de avisos de la Red de Alerta Nacional (RAN) de Protección Civil, que se actualiza cada cinco minutos y reúne información de distintos tipos de riesgos. En el caso que nos ocupa, muestra el peligro meteorológico de incendios forestales proporcionado por AEMET, con seis niveles que van desde muy bajo hasta extremo. AEMET, además, estrenó este año su nuevo Índice de Peligro de Incendios Forestales (IPIF) , que combina variables meteorológicas con información sobre el estado de la vegetación, la humedad del suelo y los tipos de superficie para ofrecer una imagen más precisa del peligro existente. Y hay una distinción que debemos tener muy presente: un nivel",
-      "link": "https://www.muycomputer.com/2026/07/26/incendios-forestales-las-mejores-herramientas-para-estar-informado/",
-      "pubDate": "Sun, 26 Jul 2026 10:03:32 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/07/Incendios-2.jpg"
     },
     {
       "id": "e49d5821dafd28b26423",
@@ -1726,16 +2078,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/74cd5067-d11f-4405-92ec-59f2e6dad0af_16-9-discover-aspect-ratio_default_0_x957y303.jpg"
-    },
-    {
-      "id": "a5cd694764aa2c077a00",
-      "title": "Qué es la montaña Pickaxe, la instalación secreta y fuertemente protegida de Irán que Trump ha prometido atacar \"con dureza\"",
-      "summary": "Preguntado sobre los informes que indican que Teherán podría haber trasladado centrifugadoras nucleares a la montaña Pickaxe, el presidente Donald Trump prometió que Estados Unidos atacaría el complejo subterráneo \"con mucha fuerza... probablemente muy pronto\".",
-      "link": "https://www.bbc.com/mundo/articles/cq89yqezpjyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 25 Jul 2026 02:48:53 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39ff/live/b4f32e80-879c-11f1-838a-ddd3555e63a1.jpg"
     },
     {
       "id": "f7acd5b14e5c8aa15bcf",
@@ -1890,27 +2232,6 @@
       "image": "https://static.eldiario.es/clip/c194c990-b91d-44b3-880b-05ee8854704c_16-9-discover-aspect-ratio_default_0_x991y249.jpg"
     },
     {
-      "id": "8841b439d14421bbba7a",
-      "title": "NVIDIA, Microsoft y SpaceX se unen para frenar los ciberataques de la inteligencia artificial",
-      "summary": "NVIDIA, Microsoft, SpaceX y un grupo importante de empresas tecnológicas han formado una coalición que busca frenar los ciberataques vinculados a la IA . A unos días de que ocurriera el hackeo a Hugging Face por parte de los modelos de OpenAI, las empresas abrieron un frente de defensa que apostará por herramientas de código abierto. De acuerdo con el comunicado de prensa de NVIDIA , el objetivo de la Open Secure AI Alliance es desarrollar y compartir tecnologías, técnicas y herramientas abiertas para proteger software y agentes de IA. La alianza reúne a más de 30 compañías, entre las que se encuentran Adobe, Cisco, IBM, Salesforce, Cloudflare, Dell y otras, quienes se apoyarán en el trabajo previo de iniciativas como Akrites y OpenSSF. El detonante de esta alianza fue un hackeo a Hugging Face cometido por modelos de OpenAI que actuaron de forma descontrolada . Más allá del hecho de que una IA se salga de su entorno seguro para cometer ciberataques, el verdadero problema ocurrió durante la respuesta a la intrusión. El equipo de seguridad no pudo usar los modelos comerciales más avanzados para el análisis forense, puesto que no lograban diferenciar entre atacantes y defensores. Hugging Face terminó recurriendo a GLM 5.2 , un modelo chino que iguala a Claude Mythos en cuestión de ciberseguridad . Los ingenieros aprovecharon que es de código abierto y lo ejecutaron en su propia infraestructura para contener la brecha. El hackeo a Hugging Face dejó al descubierto que no se puede confiar en modelos cerrados como Claude Sonnet, Mythos o Gemini 3.1 Pro . NVIDIA dijo que esto no ocurre con los modelos abiertos, los cuales permiten llevar a cabo una defensa controlada sin depender de un único proveedor. La Open Secure AI Alliance quiere evitar otro hackeo como el de Hugging Face La Open Secure AI Alliance plantea que la seguridad no debe depender de mantener los sistemas en secreto , sino de construir infraestructura capaz de resistir el escrutinio público y de mejorar media",
-      "link": "https://hipertextual.com/seguridad/open-secure-ai-alliance-nvidia-microsoft-spacex/",
-      "pubDate": "Mon, 27 Jul 2026 17:45:56 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/hackeo-ia.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "desarrollo"
-    },
-    {
-      "id": "aba1b6a8cf6749cbe941",
-      "title": "Una prueba de ADN confirma que Bernarda Vera, considerada desaparecida de la dictadura de Pinochet, ha sido hallada con vida en Argentina",
-      "summary": "Bernarda Vera en una imagen sin datar.",
-      "link": "https://elpais.com/chile/2026-07-27/una-prueba-de-adn-confirma-que-bernarda-vera-hallada-con-vida-en-argentina-no-es-una-desaparecida-de-la-dictadura-de-pinochet.html",
-      "pubDate": "Mon, 27 Jul 2026 17:22:48 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/LX3NYIEDLRBTHHTZZBB5LMRCGM.jpeg?auth=321d0376d5a29f1d225b05e3d7179a1d2a68555bc84d82cd882254d1947c399a"
-    },
-    {
       "id": "9e9ffe66265ebaee3534",
       "title": "GitHub adopta una gran medida contra el malware",
       "summary": "Siempre hemos asociado las actualizaciones con la seguridad y, en términos generales, es una relación perfectamente válida: cuanto antes corregimos una vulnerabilidad, menos tiempo dejamos abierta la puerta a posibles ataques. Sin embargo, existe un escenario en el que correr demasiado puede jugar precisamente en nuestra contra. GitHub acaba de introducir un cambio en Dependabot que parte de esta idea y que, pese a su aparente sencillez, puede resultar muy efectivo para contener determinados ataques contra la cadena de suministro de software. A partir de ahora, Dependabot esperará de manera predeterminada al menos tres días desde la publicación de una nueva versión de una dependencia antes de abrir una pull request para actualizarla. Este periodo de enfriamiento, o cooldown, se aplica únicamente a las actualizaciones normales de versión y busca evitar que los proyectos adopten inmediatamente paquetes recién publicados que puedan haber sido comprometidos . Los responsables de cada repositorio pueden modificar este comportamiento desde el archivo dependabot.yml, pero quienes no hagan ningún cambio se beneficiarán automáticamente de esta espera. La razón tiene bastante sentido. Uno de los ataques más peligrosos contra la cadena de suministro consiste en comprometer las credenciales, la cuenta o el proceso de publicación de un paquete legítimo y muy utilizado para distribuir una versión modificada con código malicioso. Aunque estas versiones suelen ser detectadas y retiradas relativamente rápido, incluso unas pocas horas pueden bastar para que multitud de sistemas automatizados las incorporen. GitHub recuerda, por ejemplo, el ataque que afectó en septiembre de 2025 a populares paquetes de npm como chalk y debug: las versiones maliciosas permanecieron disponibles durante alrededor de dos horas , pero hablamos de dependencias utilizadas conjuntamente miles de millones de veces cada semana. Aquí hay una diferencia fundamental que conviene dejar muy clara: las actualizacion",
@@ -1919,16 +2240,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/07/GitHub-2.jpg"
-    },
-    {
-      "id": "9adaf03e20951b4cf7d7",
-      "title": "Una posible canción principal de GTA 6 aparece en Internet antes del esperado tercer tráiler",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Un artista asegura haber colaborado con Rockstar Games y afirma que su versión de un clásico de Motown será uno de los temas principales del juego A solo unos meses del lanzamiento de Grand Theft Auto VI , cualquier pequeño detalle relacionado con el juego se convierte automáticamente en noticia. Mientras los jugadores siguen esperando el tercer tráiler de GTA 6 , una nueva pista sobre la banda sonora ha empezado a llamar la atención de la comunidad. Todo comenzó cuando varios aficionados investigaban posibles actores relacionados con el juego. En lugar de encontrar nuevas incorporaciones al reparto, descubrieron el perfil profesional de un cantante que asegura haber trabajado directamente con Rockstar Games en uno de los temas principales de GTA 6 . Eso sí, conviene tomar esta información con cautela, ya que Rockstar no ha confirmado oficialmente este dato . Un clásico de Motown podría ser uno de los temas principales de GTA 6 La información fue descubierta por el portal especializado iGrandTheftAuto.com , que localizó el perfil del artista Trace Austin en varias plataformas profesionales. En ellas, el cantante afirma haber colaborado con Rockstar Games y asegura que su versión de «Papa Was a Rollin&#8217; Stone» será una de las canciones principales de Grand Theft Auto VI . El dato aparece tanto en su perfil de Project Casting como en LinkedIn , aunque por el momento no existe ninguna confirmación oficial por parte del estudio. La elección tampoco sería extraña. Rockstar siempre ha concedido una enorme importancia a la música en la saga y cada entrega ha utilizado canciones muy reconocibles para definir su identidad. 🎵 Possible GTA 6 Soundtrack Song: «Papa Was a Rolling Stone» by Trace Austin NEW FIND: While continuing the search for possible GTA 6 cast members, I recently came across a profile for Trace Austin, a recording artist and actor, which claims his rendition of «Papa Was a Rolling… pic.twitter",
-      "link": "https://www.cinemascomics.com/gta-6-posible-cancion-principal-trailer-3/",
-      "pubDate": "Mon, 27 Jul 2026 17:00:24 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/GTA-VI.jpg"
     },
     {
       "id": "0f3d4febd4ce85b2b8ba",
@@ -1960,16 +2271,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/28d83ff0-89b6-11f1-ba35-adcc7c70146e.jpg"
-    },
-    {
-      "id": "ea6648f4e9642c1f4a19",
-      "title": "Christopher Nolan confiesa cuál es el único tipo de película que jamás se atrevería a dirigir",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Christopher Nolan ha demostrado una y otra vez que no tiene miedo a asumir desafíos gigantescos, pero el director de Oppenheimer y La Odisea acaba de reconocer que hay un género con el que nunca se sentiría cómodo. Y, curiosamente, no tiene nada que ver con la ciencia ficción ni con el cine de acción. Christopher Nolan sorprende al admitir qué género jamás se atrevería a dirigir Si alguien parecía capaz de rodar cualquier tipo de película, ese era Christopher Nolan. Su nueva superproducción, La Odisea, vuelve a demostrar hasta dónde está dispuesto a llegar para ofrecer una experiencia cinematográfica única: cámaras IMAX durante todo el rodaje, un cíclope animatrónico de más de 18 metros de altura y una puesta en escena que busca impresionar incluso a un público acostumbrado a los grandes espectáculos. Por eso ha sorprendido tanto escucharle reconocer que existe un tipo de película que le produciría auténtico pánico dirigir. No se trata del terror, ni del musical, ni de la animación. El género que más respeto le impone es, precisamente, uno de los más populares de Hollywood: la comedia romántica. Durante una entrevista en The Tonight Show Starring Jimmy Fallon , el cineasta habló con total sinceridad sobre los límites que él mismo se marca como director. Una confesión inesperada tratándose de alguien que lleva décadas rompiendo las reglas del cine comercial. La confesión completa de Christopher Nolan «Creo que hacer una comedia romántica sería increíblemente difícil. Me encanta ver ese tipo de películas. Pero no, creo que las personas que dirigen comedias, quienes hacen comedia, realizan uno de los trabajos más difíciles del mundo: conseguir que la gente se ría de esa manera. Especialmente por el riesgo que asumen. Cuando haces una película, si se la enseño al público y hay partes a las que quizá no reaccionan, puedo pensar: &#8216;Ah, no lo han entendido. Da igual&#8217;. Pero cuando haces comedia no pued",
-      "link": "https://www.cinemascomics.com/christopher-nolan-tipo-pelicula-no-dirigir/",
-      "pubDate": "Mon, 27 Jul 2026 16:01:02 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/Christopher-Nolan-cordonpress-1.jpg"
     },
     {
       "id": "015ff186aa3ea4c99aec",
@@ -2060,16 +2361,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/f3611a73-8a0d-4b7b-b19c-62710fc049c5_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "ed1af2aabdc6fa1db825",
-      "title": "Los miles de evacuados que duermen en centros deportivos y hasta plazas de toros por los voraces incendios en España y Francia",
-      "summary": "España declaró el estado de emergencia nacional y Francia celebra un gabinete de crisis para evaluar la situación.",
-      "link": "https://www.bbc.com/mundo/articles/cjejw5y43x8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 12:56:38 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b0c/live/9871f1d0-89bb-11f1-965a-d70ca8fc6275.jpg"
     },
     {
       "id": "c8f2bfa737474dd2e3a9",
@@ -2417,6 +2708,16 @@
       "source": "La Vanguardia Tech",
       "cat": "tech",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5fcbff8180e.r_d.1275-765-0.jpeg"
+    },
+    {
+      "id": "cfe5ccc673a54b886dbf",
+      "title": "Keiko asume la presidencia de Perú y marca el regreso de un Fujimori al poder",
+      "summary": "La política de 51 años es la primera mujer que llega al cargo por voto popular y, como hija del fallecido expresidente Alberto Fujimori, representa el regreso de una dinastía política influyente y polarizadora.",
+      "link": "https://www.bbc.co.uk/mundo/live/c20j1klne37t?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T17:39:36.199807+00:00",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b73/live/f3ddb1c0-8aa7-11f1-a7ab-8b30adf0800a.jpg"
     }
   ],
   "radar": {
@@ -2434,13 +2735,13 @@
         "cls": "rb-green"
       },
       {
-        "name": "Claude",
+        "name": "ChatGPT",
         "type": "Modelo",
         "badge": "En foco",
         "cls": "rb-accent"
       },
       {
-        "name": "ChatGPT",
+        "name": "Claude",
         "type": "Modelo",
         "badge": "En foco",
         "cls": "rb-accent"
@@ -2454,5 +2755,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-07-28T16:00:39.328582+00:00"
+  "updated": "2026-07-28T17:40:09.520880+00:00"
 }
