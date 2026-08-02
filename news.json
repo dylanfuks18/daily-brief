@@ -104,16 +104,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4fc/live/ab956170-8c1d-11f1-94b2-05bc97107049.jpg"
     },
     {
-      "id": "17d92deb14a8d30b8a36",
-      "title": "PS6 y trazado de rayos: qué rendimiento podemos esperar",
-      "summary": "Los últimos rumores sobre PS6, cortesía de Moore´s Law is Dead , dicen que esta consola podría ofrecer un rendimiento en trazado de rayos al nivel de una GeForce RTX 4090. Anteriormente, esta misma fuente dijo que iba a estar al nivel de una GeForce RTX 5090, dos referencias que son contradictorias pero que al final no son nada creíbles porque resultan terriblemente exageradas. Hay un problema muy grande con las expectativas que se generan a través de rumores cuando nos encontramos en la etapa previa del lanzamiento de una consola, y ya hemos vivido estas situaciones anteriormente con PS4 y con PS5. Sobre PS5, que es la consola más actual, se dijo que iba a ser capaz de ofrecer un rendimiento en trazado de rayos comparable al de una GeForce RTX 2080 Ti, y todavía hay gente que de verdad lo cree, como la propia Moore´s Law is Dead, que lo dice abiertamente en el vídeo. La realidad es totalmente distinta . PS5 tiene un rendimiento en trazado de rayos que es inferior incluso a una GeForce RTX 2060 , como pudimos ver en este artículo basándonos en pruebas reales. No debería sorprendernos, al fin y al cabo esa consola utiliza una GPU basada en la arquitectura RDNA 1.5, un híbrido entre RDNA 1 y RDNA 2, y ya sabemos que los núcleos RT que utilizaba AMD en RDNA 2 rendían peor que los núcleos RT de las GeForce RTX 20. El caso es que ahora, con PS6, se ha vuelto a exagerar el rendimiento de esta consola en trazado de rayos . Decir que va a rendir como una GeForce RTX 5090 en trazado de rayos es una locura, pero es que recular y compararla con una GeForce RTX 4090 tampoco arregla mucho las cosas, porque esta es más potente que la GeForce RTX 5080, y porque estamos hablando de una tarjeta gráfica que todavía hoy se vende por más de 2.000 euros. Sé lo que estáis pensando, que PS6 va a utilizar una arquitectura más avanzada, RDNA 5, y sí, esto es verdad, pero al final estamos hablando de una GPU integrada compartiendo encapsulado con la CPU que tendrá importantes limitaciones de",
-      "link": "https://www.muycomputer.com/2026/07/30/ps6-y-trazado-de-rayos-que-rendimiento-podemos-esperar/",
-      "pubDate": "Thu, 30 Jul 2026 14:02:15 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/07/trazado-de-trayectorias-frente-a-trazado-de-rayos.jpg"
-    },
-    {
       "id": "2319e1d47805182800a4",
       "title": "Por qué el gobierno de Trump acusa ahora a Cuba de liderar una campaña para desestabilizar a EE.UU. desde adentro",
       "summary": "Un nuevo informe del Departamento de Estado señala a Cuba como una amenaza para la seguridad nacional de EE.UU. ¿Por qué se publica este documento en este momento?",
@@ -184,6 +174,187 @@
       "image": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c"
     },
     {
+      "id": "3a4f50d6336ab7b66209",
+      "title": "Homenaje del AZ a Cruyff",
+      "summary": "Ro-Zangelo Daal marca de penalti contra el PSV.",
+      "link": "https://www.marca.com/futbol/2026/08/02/homenaje-az-cruyff-golea-psv-lleva-supercopa.html",
+      "pubDate": "Sun, 02 Aug 2026 20:31:54 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f8cf9597c6.jpeg"
+    },
+    {
+      "id": "8c4d9458f01773d1e6e3",
+      "title": "Las peñas acuden al rescate del Rayo",
+      "summary": "w",
+      "link": "https://www.marca.com/futbol/rayo/2026/08/02/agrupacion-penas-acude-rescate-rayo-vallecano.html",
+      "pubDate": "Sun, 02 Aug 2026 20:29:20 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f8b9810e10.jpeg"
+    },
+    {
+      "id": "5ee532d7e0d5175c20dc",
+      "title": "Riquelme pide a Florentino que tome ejemplo de Infantino y rectifique en su idea de privatizar el Madrid",
+      "summary": "Enrique Riquelme, el día de las elecciones",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/02/riquelme-pide-florentino-tome-ejemplo-infantino-rectifique-idea-privatizar-madrid.html",
+      "pubDate": "Sun, 02 Aug 2026 20:16:44 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f8977d90ec.jpeg"
+    },
+    {
+      "id": "91da9c78fe7486a7879c",
+      "title": "Todos los estadios que el Rayo pidió antes de acabar en El Plantío de Burgos",
+      "summary": "Una imagen del estadio El Plantío",
+      "link": "https://www.marca.com/futbol/rayo/2026/08/02/todos-estadios-rayo-pidio-acabar-plantio-burgos.html",
+      "pubDate": "Sun, 02 Aug 2026 20:11:55 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f7b430c716.jpeg"
+    },
+    {
+      "id": "a5e6ce818bb87dda66fc",
+      "title": "Giuliano acorta los plazos",
+      "summary": "GIULIANO PROTEGE EL BALÓN ANTE PEDRI.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/02/giuliano-acorta-plazos.html",
+      "pubDate": "Sun, 02 Aug 2026 19:49:45 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f821644fce.jpeg"
+    },
+    {
+      "id": "84b3bd36246944b4eca3",
+      "title": "El día que Valverde bromeó con Vini en Dubai",
+      "summary": "El futbolista uruguayo subió a sus historias un video donde está con su compañero del Real Madrid; Vinícius Junior. Se le ve bromeando que están en Dubai.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/02/retratado-fede-valverde-bromea-vini-jr-encuentra-duba-video.html",
+      "pubDate": "Sun, 02 Aug 2026 19:37:33 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d4W6c1gRu0UD_dDQW.jpeg"
+    },
+    {
+      "id": "c07c087121b45098eb93",
+      "title": "Xabi habla por primera vez de su paso por el Madrid: \"Tengo una cicatriz...\"",
+      "summary": "Xabi Alonso",
+      "link": "https://www.marca.com/futbol/2026/08/02/xabi-alonso-cicatriz-real-madrid-curada.html",
+      "pubDate": "Sun, 02 Aug 2026 19:35:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f7f33216d5.jpeg"
+    },
+    {
+      "id": "bd1a2de3e96cc4282b76",
+      "title": "Todos se suben al Barco del Chelsea: ¡ya van 388 millones gastados!",
+      "summary": "Valentín Barco celebra un gol con Argentina.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/02/chelsea-xabi-alonso-anuncia-colo-barco-lleva-gastados-388-millones-fichajes.html",
+      "pubDate": "Sun, 02 Aug 2026 19:30:39 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f7e7bc7fac.jpeg"
+    },
+    {
+      "id": "1a6a5e92b0ef63deaa97",
+      "title": "¡La escultura de Neymar! Santos FC rinde homenaje al brasileño e inaugura una escultura en su honor",
+      "summary": "El club brasileño le esculpió a Neymar una escultura en homenaje a su trayectoria dentro de la institución y de su exitosa carrera. Así quedó la obra.",
+      "link": "https://www.marca.com/futbol/2026/08/02/escultura-neymar-santos-fc-rinde-homenaje-brasileno-e-inaugura-escultura-honor-video.html",
+      "pubDate": "Sun, 02 Aug 2026 19:28:13 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d4Um61gRtuKrc2xXm.jpeg"
+    },
+    {
+      "id": "b7bd684664f1eb0e1256",
+      "title": "Los esenciales de Russell para unas vacaciones de verano",
+      "summary": "George Russell, el piloto británico de la escudería Mercedes, participó en una dinámica sobre las cosas esenciales para unas vacaciones de verano. Así fue su versión más personal",
+      "link": "https://www.marca.com/motor/formula1/2026/08/02/esenciales-russell-vacaciones-veran-video.html",
+      "pubDate": "Sun, 02 Aug 2026 19:08:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d4Tdo1gRtbaLFVbHm.jpeg"
+    },
+    {
+      "id": "45dda8af0d73d7a5b7e9",
+      "title": "Galán y Chingotto despiertan del sueño de Leal y Guerrero en una final épica",
+      "summary": "Los campeones del P1 de Pretoria, a pesar de \"no tener la mejor semana\".",
+      "link": "https://www.marca.com/padel/2026/08/02/galan-chingotto-despiertan-sueno-leal-guerrero-final-epica.html",
+      "pubDate": "Sun, 02 Aug 2026 19:03:47 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f76b4bdc84.jpeg"
+    },
+    {
+      "id": "96f3115e445b5c599fa0",
+      "title": "El truco con el que un profesor detectó a más de 30 estudiantes que usaron IA: todos cometieron el mismo error",
+      "summary": "Un profesor llamado Jason Gibson utilizó un patrón inusual durante la corrección de los exámenes parciales de historia en la Universidad Estatal de Alcorn, Mississippi. Allí, implementó una referencia oculta en las consignas para descubrir si sus estudiantes usaban la inteligencia artificial al resolverlas. En qué consiste el truco que usó el profesor para descubrir a los alumnos que usan IA El docente diseñó una trampa dentro de las instrucciones escritas del examen para el ensayo sobre la Revolución Industrial y la era digital. Según contó en un video que publicó en TikTok , Gibson insertó la palabra “Madagascar” en una fuente de color blanco que era invisible sobre el fondo claro del documento. El profesor explicó cómo implementó su truco para descubrir el uso de la IA en los exámenes Cuando los estudiantes copiaron el texto completo para pegarlo en un chatbot, el sistema leyó el término oculto e intentó integrarlo en la respuesta generada. El software produjo frases inconexas como “Madagascar flota de lado a través de la tarde” . De esta manera, el profesor se dio cuenta de que los alumnos no revisaron sus trabajos antes de realizar la entrega final. La coincidencia en el error se dio en dos clases distintas. Además, muchos de los textos contaban con una redacción pulida y gramaticalmente correcta que no demostraba un esfuerzo intelectual real. A partir de la publicación del hallazgo en la red social, rápidamente se generó repercusión. “No lo revisaron”: las palabras del profesor tras descubrir a sus estudiantes El docente detalló cómo fue el proceso de evaluación y sus hallazgos. Su testimonio resaltó el asombro por la falta de revisión de los exámenes. “ 32 de mis 35 estudiantes entre dos clases reprobaron una parte de su examen parcial porque todos usaron IA para generar su respuesta completa”, contó Gibson. Asimismo, enfatizó que los alumnos ni siquiera leyeron los textos que ellos mismos enviaron para su calificación. “Primero y ante todo, Madagascar no tie",
+      "link": "https://www.lanacion.com.ar/estados-unidos/el-truco-con-el-que-un-profesor-detecto-a-mas-de-30-estudiantes-que-usaron-ia-todos-cometieron-el-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:39:11 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/QEY3G2MS6RGXVHB6Z6DDX4D6GM.jpg?auth=b654d7af50aec5addf0130220b6726b6579011c36d3f01ffc1667fb498b2f250&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "0456db1831ea90ff667a",
+      "title": "Kicillof acusó a Milei de extorsionar a las provincias: \"Para él, gobernar es exclusivamente lograr su propia reelección\"",
+      "summary": "El gobernador de Buenos Aires escribió una columna en la que planteó que el Presidente chantajea a los gobernadores para mover su agenda en el Congreso y buscar un segundo mandato en 2027.",
+      "link": "https://www.clarin.com/politica/kicillof-acuso-milei-extorsionar-provincias-gobernar-exclusivamente-lograr-propia-reeleccion_0_pp9c0LxEbs.html",
+      "pubDate": "Sun, 02 Aug 2026 18:34:41 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2025/10/24/VF-EqNdTX_1200x630__1.jpg"
+    },
+    {
+      "id": "458a9c37caa360eb3dff",
+      "title": "¡De caída libre! Jaylen Brown se tiró de paracaídas en Egipto para vencer su miedo a las alturas",
+      "summary": "El nuevo jugador del Philadelphia 76ers disfruta de sus vacaciones en Egipto y aprovechó para vencer uno de sus miedos, se aventó de paracaídas y la reacción fue épica.",
+      "link": "https://www.marca.com/baloncesto/nba/2026/08/02/caida-libre-jaylen-brown-tiro-paracaidas-egipto-vencer-miedo-alturas-video.html",
+      "pubDate": "Sun, 02 Aug 2026 18:33:20 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d4R6s1gRt3qeLrHcy.jpeg"
+    },
+    {
+      "id": "f356967a7b84f19b6db2",
+      "title": "Milei dice que ya definió a su compañero de fórmula pero se guarda el nombre “por el momento”",
+      "summary": "El presidente Javier Milei confirmó que ya tiene definido a su compañero de fórmula para ir por la reelección en los próximos comicios , aunque prefirió mantener en reserva la identidad de su elegido “por el momento”. En una entrevista al Diario de Río Negro , el mandatario insistió en la necesidad de eliminar las Elecciones Primarias, Abiertas, Simultáneas y Obligatorias (PASO) debido al gasto público que representan para el Estado. “Tengo definido mi compañero de fórmula para el año que viene, pero prefiero reservarme el nombre por el momento”, reveló. La aseveración sobre su posible vice va en sintonía con su proyecto reeleccionista, pero también la pronuncia en medio de una creciente tensión con su actual compañera de fórmula, Victoria Villarruel . La segunda en la línea de sucesión recibió críticas y un pedido de renuncia por parte del jefe de Gabinete Diego Santilli luego de manifestar su “genuina preocupación” por el “estado” del presidente. En un posteo, escribió que Milei repite cosas insensatas e imagina otras. Pero en la entrevista con el medio rionegrino, Milei solo se refirió a un eventual compañero para 2027 y delimitó cuáles serían sus objetivos si gana un segundo mandato: “ De aquí en adelante, nuestro único mandato es seguir acelerando en este sendero, tan rápido como la realidad nos lo permita” . Respecto de las PASO, Milei insistió: “Desde incluso antes de ser presidente, estoy en contra de las PASO. No cumplen ninguna función real más que gastar la plata del contribuyente en internas privadas de los partidos que deberían resolver puertas adentro, y como si esto fuera poco, le cuestan al pagador de impuestos 250 millones de dólares al año. Nuestra vocación es eliminarlas y esperamos que el Congreso acompañe”. Para el titular del Poder Ejecutivo, la reforma de la Carta Orgánica del Banco Central (BCRA) , que fue presentada días atrás por cadena nacional, se trata de la principal prioridad legislativa del Gobierno para este semestre , “la más import",
+      "link": "https://www.lanacion.com.ar/politica/milei-dice-que-ya-definio-a-su-companero-de-formula-pero-se-guarda-el-nombre-por-el-momento-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:30:41 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/DITLMSNT4NABLKZXNF3ZXTS4VE.png?auth=9ae07378001c5046d4bf067995a205fa3e126ad0d8e87348103cf0a0faf1d8f7&smart=true&width=1360&height=910"
+    },
+    {
+      "id": "9a9df4fa796c63b3ce13",
+      "title": "Escalaron el árbol más famoso de Yosemite, de 2900 años, y encontraron una familia de ardillas viviendo adentro",
+      "summary": "Como parte de una reciente expedición para estudiar la salud de las secuoyas gigantes , investigadores acudieron al Parque Nacional Yosemite , en California, y escalaron el emblemático Grizzly Giant, un árbol de 2900 años de antigüedad. Cuando llegaron a las copas más altas, se llevaron una sorpresa: encontraron una familia de ardillas . Qué encontraron dentro del Grizzly Giant, el árbol gigante de Yosemite Grizzly Giant es una secuoya gigante de alrededor de 25,4 pies (7,74 metros) de diámetro. Se trata del más antiguo y grande de los 500 árboles que se encuentran en el Bosque de Mariposas del Parque Nacional Yosemite . Según SFGATE , durante una investigación, en junio, un grupo de científicos tuvo la oportunidad de escalar a una altura de 208 pies (63,5 metros) hasta las copas más altas del árbol y asomarse a su interior. En la expedición participó Anthony Ambrose, director ejecutivo y cofundador de Ancient Forest Society , una organización sin fines de lucro dedicada a la protección de árboles milenarios. En ese sentido, la expedición en el Parque Nacional Yosemite formó parte de un esfuerzo por evaluar la salud del Grizzly Giant. Ambrose compartió que durante su exploración buscaban signos de insectos dañinos y otros posibles problemas. Sin embargo, se llevaron una sorpresa al encontrar una familia de ardillas Douglas que vive activamente en las cavidades del árbol , lo que según Ambrose demuestra que este monumento natural aún hoy es un ecosistema vibrante y protector . Así fue la exploración del Grizzly Giant en el Yosemite de California Para explorar un árbol de importancia histórica como el Grizzly Giant, los investigadores necesitaron apoyo del parque para cerrar el área alrededor. En ese contexto, prepararon el equipo para apuntar una ballesta de alta potencia hacia la copa más alta, lanzar una cuerda alrededor de las ramas y asegurar la escalada a través del tronco . Aunque la tarea requirió de paciencia y precisión, Ambrose aseguró a SFGATE que fue senc",
+      "link": "https://www.lanacion.com.ar/estados-unidos/california/escalaron-el-arbol-mas-famoso-de-yosemite-de-2900-anos-y-encontraron-una-familia-de-ardillas-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:28:53 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/TQ2Y4VU6JNDO5OSXWOJCPZWUWQ.jpg?auth=76aea617dea9b28c41973356268da7b03489d25abbf00bd71a3e18994d129b37&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "272e04671821f55106b9",
+      "title": "Relámpagos bajo el mar: el fenómeno que orientó a los polinesios y que la ciencia no termina de explicar",
+      "summary": "En las profundidades del Cinturón de Fuego del Pacífico aparecen líneas de luz similares a relámpagos bajo el mar , con destellos que atraviesan el agua y desaparecen en segundos, incluso sin tormentas . El fenómeno se conoce como “te lapa” y habría orientado a los antiguos navegantes polinesios , aunque su origen todavía desconcierta a los científicos. El fenómeno de “te lapa” que guiaba a los navegantes polinesios De acuerdo con un artículo publicado en Popular Mechanics , el nombre te lapa significa “el destello” . Los antiguos navegantes polinesios habrían utilizado las señales para encontrar tierra durante sus travesías nocturnas . Los destellos parecían proceder de zonas sumergidas próximas a las islas , por lo que servían como referencia cuando la oscuridad o las nubes impedían observar el cielo. Los viajeros también examinaban las olas generadas por tormentas lejanas . Estas podían chocar contra las costas, encontrarse entre sí, formar ondulaciones mayores o desaparecer y la interferencia solía indicar la presencia de tierra cercana. Te Aliki Koloso Kahia Kaveia , antiguo jefe del pueblo de Taumako , consideraba que esos cruces entre las olas podían concentrar la luz como una lente de gran tamaño. Su descripción vinculaba el fenómeno luminoso con las señales que los navegantes reconocían en el movimiento del agua. Kaveia y el conocimiento sobre el te lapa La investigación publicada en Popular Mechanics presenta a Kaveia , descendiente del navegante legendario Lata que vivía en la isla de Taumako , en las Islas Salomón . Luego de aprender las técnicas de orientación de su padre y de los ancianos desde una edad temprana, transmitió esos conocimientos mediante el Proyecto Vaka Taumako . La antropóloga cultural Marianne George lo conoció en 1993 y se convirtió en una de las pocas personas ajenas al Cinturón de Fuego que observaron el te lapa. La luz no se parecía a un rayo que descendía desde una nube, sino que Kaveia la comparó con “ una antorcha que se encendí",
+      "link": "https://www.lanacion.com.ar/ciencia/relampagos-bajo-el-mar-el-fenomeno-que-oriento-a-los-polinesios-y-que-la-ciencia-no-termina-de-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:28:45 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/DD77QLJL2RHYNPRSMQNOKYN2NE.png?auth=0c3abdc1b09c566edd843db46f6dfeea7b2e67487bb43f873d1c72d7de8abfab&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "11c7be51c08a492d3e0e",
+      "title": "‘Spider-Man: Brand New Day’ arrasa en taquilla y se convierte en el segundo mejor estreno de la historia",
+      "summary": "El estreno en cines de Spider-Man: Brand New Day no ha defraudado en absoluto. La nueva película protagonizada por Tom Holland llegaba a las salas cinco años después del éxito colosal que fue No Way Home . La misión era muy difícil: igualar semejante gesta. Pero no es solo que la nueva película haya gustado tanto como aquella o incluso más . Es que en taquilla sus números han pasado totalmente por encima de los conseguidos en 2021. Tal y como han reportado los medios estadounidenses , Spider-Man: Brand New Day ha recaudado un total de 927 millones de dólares en todo el mundo, convirtiéndose en el segundo mejor estreno de la historia solo por detrás de Avengers: Endgame (1.200 millones). Se trata de una cifra que ha reventado por competo cualquier estimación previa. Su presupuesto era de unos 225 millones, a lo que habría que sumar gastos de marketing. Pero, en todo caso, ya ha roto holgadamente la barrera de ser rentable. La mayoría de expertos apuntaban a un estreno de entre 500 y 650 millones de dólares para la película. Los más optimistas sugerían incluso que Spider-Man: Brand New Day podría alcanzar los 800 millones en su primer fin de semana, aunque no sería fácil. Pero la hora de la verdad ha llegado y la cinta de Marvel y Sony ha roto todas esas previsiones de manera rotunda. Un estreno abrumador que certifica que la compañía han vuelto a dar con la tecla. Spider-Man: Brand New Day hace historia en taquilla Que el estreno de Spider-Man: Brand New Day iba a ser histórico ya se veía venir desde que la película vio la luz en España un par de días antes que en el resto del mundo. En nuestro país, la cinta logró el mejor día de estreno de la historia el miércoles 29 de julio. Un triunfo que se ha replicado en el resto del planeta. A partir de ahora, solo queda por ver cuál será el techo de la cinta, que ya mira a la barrera de los 2.000 millones. De hecho, salvo sorpresa o que Avengers: Doomsday lo evite en diciembre, todo apunta a que la nueva entrega del arácnid",
+      "link": "https://hipertextual.com/cine-television/spider-man-brand-new-day-arrasa-en-taquilla-segundo-mejor-estreno-de-la-historia/",
+      "pubDate": "Sun, 02 Aug 2026 18:27:01 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-esreno-taquilla.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
       "id": "a533b6a23dbd87cbca63",
       "title": "Las Malvinas y Messi, presentes en la nueva camiseta de homenaje de Almirante Brown",
       "summary": "Camiseta de Almirante Brown.",
@@ -195,13 +366,123 @@
     },
     {
       "id": "87a5dec92e04de027dcb",
-      "title": "...y Tebas responde Florentino",
+      "title": "... Y Tebas responde a Florentino",
       "summary": "Florentino y Tebas",
       "link": "https://www.marca.com/futbol/2026/08/02/tebas-responde-florentino-poca-credibilidad-dar-lecciones-sobre-futuro-futbol.html",
       "pubDate": "Sun, 02 Aug 2026 18:24:11 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f6cadc2a3f.jpeg"
+    },
+    {
+      "id": "9af783451b1b93136b95",
+      "title": "Tobías Martínez, a pura emoción, fue profeta en su tierra y ganó por primera vez en San Juan en el Turismo Carretera",
+      "summary": "En una accidentada carrera en el autódromo El Villicum, se impuso con el Chevrolet Camaro. Lo escoltaron Gianini y Todino en el podio de la novena fecha del campeonato 2026.",
+      "link": "https://www.clarin.com/deportes/tobias-martinez-pura-emocion-profeta-tierra-gano-primera-vez-turismo-carretera_0_UqRxbNrqYd.html",
+      "pubDate": "Sun, 02 Aug 2026 18:17:40 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/02/qol6CyCZe_1200x630__1.jpg"
+    },
+    {
+      "id": "f09ceccc9fc6ccae04bb",
+      "title": "Formulario G-325R del Uscis: qué es, cómo tramitarlo en agosto 2026 y qué documentos sirven ante un control del ICE",
+      "summary": "Una normativa migratoria en Estados Unidos exige un registro formal para determinados ciudadanos extranjeros que estén en el país norteamericano en agosto de 2026. Se trata del formulario G-325R , que permite cumplir con esa obligación y se puede mostrar al Servicio de Inmigración y Control de Aduanas ( ICE , por sus siglas en inglés) en un control de rutina. Quiénes deben tramitar el formulario G-325R del Uscis El formulario G-325R es un documento electrónico oficial del Servicio de Ciudadanía e Inmigración ( Uscis , por sus siglas en inglés) utilizado para cumplir la obligación de registro ante el gobierno de EE.UU. Es una exigencia legal que aplica a todos los extranjeros de 14 años o más que permanecen en el país norteamericano por un período de 30 días o más sin haberse registrado previamente. Según el sitio web del Uscis, el trámite permite recopilar información biográfica y datos biométricos de los inmigrantes alcanzados por la regulación federal. Asimismo, los padres y tutores legales de menores de 14 años deben asegurar el cumplimiento de esta disposición para sus hijos. Una vez que el extranjero completa el registro y se presenta para la toma de huellas dactilares, el Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) emite una evidencia digital que sirve como prueba para demostrar el registro . Por ello, los extranjeros mayores de 18 años tienen la obligación de llevar y mantener esta constancia consigo en todo momento. Cómo solicitar en línea el formulario G-325R del Uscis Para iniciar el trámite correspondiente, los usuarios interesados deben crear una cuenta personal exclusiva en la plataforma digital myUSCIS . Dentro del sistema en línea, es necesario completar todos los campos requeridos con la información personal solicitada por el organismo. Una vez finalizado el envío digital del formulario, el sistema del Uscis programa una cita para la recolección de datos biométricos . Este procedimiento incluye la captura de huellas dactilares,",
+      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/formulario-g-325r-del-uscis-que-es-como-tramitarlo-en-agosto-2026-y-que-documentos-sirven-ante-un-nid01082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:16:20 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/XUHD2XKK6BAX5PGYO7LXKFBNPQ.jpg?auth=ad5eb3114f13e0297fa051f2c6c1e2a6966ceac4c641c476946ac4f6fe7291b0&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "743c262985bd6af0d788",
+      "title": "KONKR Pocket Advance reimagina Game Boy Advance",
+      "summary": "La KONKR Pocket Advance es, sin demasiados rodeos, una Game Boy Advance adaptada a 2026 . AYANEO ha recuperado la reconocible forma horizontal de la portátil de Nintendo, su pantalla central con relación de aspecto 3:2 y hasta una combinación de colores que remite directamente a aquella generación. Sobre esa base ha añadido Android, cuatro botones frontales, controles superiores adicionales y conectividad moderna, creando una consola que no oculta en ningún momento el modelo al que rinde homenaje. El dispositivo pertenece a KONKR, la submarca con la que AYANEO pretende ofrecer consolas portátiles con una relación más ajustada entre prestaciones y precio . Para este modelo emplea el concepto «REMAKE», entendido como una reinterpretación del producto original y no como una simple reproducción de su carcasa. La silueta curvada, la cruceta situada a la izquierda y la disposición general son inequívocamente las de Game Boy Advance , pero el cuerpo presenta bordes más redondeados, una textura antideslizante y una curvatura interior pensada para mejorar el agarre con ambas manos. La KONKR Pocket Advance mide 151,3 × 82,4 × 22 milímetros y pesa aproximadamente 224 gramos . Estamos, por tanto, ante una consola realmente compacta, aunque algo más densa de lo que podría sugerir su tamaño. AYANEO la ofrecerá inicialmente en azul Navy y naranja Coral , ambos combinados con botones, gatillos y piezas laterales de color blanco . El primero recuerda inmediatamente al característico tono índigo de Game Boy Advance, mientras que el segundo recupera uno de los colores más asociados al hardware de Nintendo de comienzos de siglo. La pantalla es probablemente el componente que mejor define su orientación. Utiliza un panel LCD de 3,5 pulgadas con relación 3:2 y resolución de 960 × 640 píxeles , unas proporciones especialmente apropiadas para rememorar la Game Boy Advance. AYANEO destaca un sistema de representación punto por punto 4x, pensado para escalar los gráficos clásicos de manera l",
+      "link": "https://www.muycomputer.com/2026/08/02/konkr-pocket-advance-reimagina-game-boy-advance/",
+      "pubDate": "Sun, 02 Aug 2026 18:12:50 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Ayaneo-2.jpg"
+    },
+    {
+      "id": "c0711da7284bae42e539",
+      "title": "A qué hora juega River vs. Rosario Central hoy",
+      "summary": "River y Rosario Central se enfrentan este domingo en el marco de la fecha 3 del Grupo B del Torneo Clausura 2026. El encuentro está programado para las 19.15 en el estadio Monumental, con arbitraje de Nicolás Ramírez y televisación de ESPN Premium (se requiere tener contratado el “Pack Fútbol” para poder acceder al contenido). Además, existe la posibilidad de seguir el minuto a minuto con estadísticas actualizadas en tiempo real en canchallena.com. El Millonario perdió los dos partidos que disputó en el certamen local, por lo que está último en su zona. En la primera jornada cayó por la mínima diferencia con Barracas Central por un gol de Gonzalo Morales, quien días después fue apartado del plantel por una denuncia por violencia de género. Luego, en la segunda, perdió por el mismo resultado con Gimnasia de La Plata en el estadio Monumental con un tanto de Alexis Steimbach. El Canalla, por su parte, se mantiene undécimo con un punto conseguido en el reciente empate 0 a 0 con Racing. Afronta este Clausura en simultáneo con la Copa Libertadores, en la que se enfrentará a Corinthians en octavos de final. El objetivo es clasificarse para la edición 2027 del torneo más importante de Sudamérica a nivel de clubes, algo que se consigue ganando un título local o siendo el mejor de la Tabla Anual, motivo por el cual el equipo capitaneado por Ángel Di María se metió en la edición de este año. La última vez que ambos equipos se vieron las caras fue el 16 de mayo de este año, por las semifinales del Torneo Apertura. En aquella oportunidad, River se quedó con la victoria por 1 a 0 con un gol de Facundo Colidio. En el primer torneo de la temporada también se cruzaron el 1° de febrero en el marco de la tercera jornada, en un compromiso que se disputó en el Gigante de Arroyito y que finalizó 0 a 0. River vs. Rosario Central: todo lo que hay que saber Fecha 3 del Grupo B del Torneo Clausura 2026. Día : Domingo 2 de agosto. Hora : 19.15 (horario argentino). Estadio : Monumental. Árbitr",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-vs-rosario-central-hoy-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:12:37 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/7USFYKO4RNFE3NYXC3Z7ZMJHQQ.jpg?auth=ed75e3fe42af48afd33f16ea27a9974b46610535b2f26c732c9e1cba26e736c2&smart=true&width=2860&height=1907"
+    },
+    {
+      "id": "a08899fc6fec92039012",
+      "title": "Expertos en climatización coinciden: \"Poner un ventilador de techo tiene un consumo medio de 0,10 € por noche\"",
+      "summary": "Mantener el dormitorio fresco durante las noches de calor puede tener un impacto muy diferente en la factura eléctrica según el sistema elegido.",
+      "link": "https://www.clarin.com/estados-unidos/expertos-climatizacion-coinciden-poner-ventilador-techo-consumo-medio-010-noche_0_UKGXW7LpAS.html",
+      "pubDate": "Sun, 02 Aug 2026 18:11:23 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/20/5EVe13_zm_1200x630__1.jpg"
+    },
+    {
+      "id": "a16052364ea02c201d4a",
+      "title": "La Joaqui confesó que necesita \"un tiempo de celibato\", tras su separación de Luck Ra: \"Nunca más le creo nada a un hombre\"",
+      "summary": "La cantante explicó que hoy no tiene intenciones de iniciar otra relación y habló de cómo atraviesa el duelo. Además, reveló cuál es el mayor temor que le dejó esta experiencia.",
+      "link": "https://www.clarin.com/fama/joaqui-confeso-necesita-tiempo-celibato-separacion-luck-ra-creo-hombre_0_OYSjU5mdgs.html",
+      "pubDate": "Sun, 02 Aug 2026 18:11:23 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/02/7tcreR-Pd_1200x630__1.jpg"
+    },
+    {
+      "id": "1596e9229e473ae5d323",
+      "title": "Cómo la crisis migratoria en Ceuta desató una tormenta política, avivada por las redes sociales",
+      "summary": "Los cruces de multitudes desde Marruecos hacia Ceuta pusieron de manifiesto las divisiones existentes en Europa en torno al delicado tema de la migración, escribe Sarah Rainsford de la BBC.",
+      "link": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 02 Aug 2026 18:10:52 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg"
+    },
+    {
+      "id": "a8297840c1eed60e9267",
+      "title": "Ariana Grande vuelve a preocupar a sus fans por extrema delgadez, a días de inaugurar un fondo para contribuir a la salud mental de los músicos",
+      "summary": "El lanzamiento del videoclip \"Petal\" despertó elogios por su mensaje, pero también una fuerte conversación en redes que terminó eclipsando la obra. En paralelo, la cantante presentó una propuesta para ampliar el acceso a asistencia psicológica en la industria musical.",
+      "link": "https://www.clarin.com/espectaculos/ariana-grande-vuelve-preocupar-fans-extrema-delgadez-dias-inaugurar-fondo-contribuir-salud-mental-musicos_0_vAa3tIfR6L.html",
+      "pubDate": "Sun, 02 Aug 2026 18:10:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/02/Ya5h0v-YA_1200x630__1.jpg"
+    },
+    {
+      "id": "24d1c43c81149afb5d3c",
+      "title": "Pruebas Aprender: evaluación basada en evidencia",
+      "summary": "Resulta muy esperanzador observar los primeros resultados de algunos programas que marcan cambios estructurales para estos temas críticos.",
+      "link": "https://www.clarin.com/opinion/pruebas-aprender-evaluacion-basada-evidencia_0_16OdfAmmjl.html",
+      "pubDate": "Sun, 02 Aug 2026 18:09:03 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/06/19/H0jZbuNut_1200x630__1.jpg"
+    },
+    {
+      "id": "74a6497bec8203411f64",
+      "title": "Cristina Polo, psicóloga: “Antes, un buen trabajador era el que “echaba muchas horas”, y eso es algo que las nuevas generaciones no siempre ven así”",
+      "summary": "La psicóloga analiza por qué las nuevas generaciones no relacionan el compromiso laboral con permanecer toda la vida en una misma empresa.",
+      "link": "https://www.clarin.com/internacional/cristina-polo-psicologa-buen-trabajador-echaba-muchas-horas-nuevas-generaciones-siempre-ven_0_nTv3npZhKf.html",
+      "pubDate": "Sun, 02 Aug 2026 18:07:23 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/02/C-YQwcOHc_1200x630__1.jpg"
+    },
+    {
+      "id": "be2bef67d95296104ab9",
+      "title": "Comenzó la construcción de una red masiva de autopistas que arranca en Texas y se extiende a más estados en USA",
+      "summary": "Cinco estados iniciaron una serie de inversiones destinadas a mejorar la seguridad, movilidad y modernización de infraestructura a largo plazo . Los proyectos más avanzados se concentran en Texas y abarcan desde iniciativas en grandes ciudades hasta mejoras críticas en zonas rurales. En qué consisten los programas de construcción en Texas El Departamento de Transporte de Texas ( TxDOT , por sus siglas en inglés) anunció diferentes proyectos en cinco de las principales ciudades del estado. Entre ellos destaca el Proyecto I-35 Capital Express Central en Austin. Con una inversión de US$4.5 mil millones , el proyecto contempla la reconstrucción de los puentes sobre el lago Lady Bird como parte de una transformación de un corredor de 79 millas. La iniciativa busca reducir la congestión y facilitar el acceso a peatones, ciclistas y usuarios de transporte público. “El proyecto añadirá dos carriles de gestión de tráfico para vehículos de alta ocupación en ambos sentidos, reconstruirá el puente de Lady Bird Lake y construirá un intercambiador urbano de un solo punto en Riverside Drive\", explicó el TxDOT en un comunicado . “Mejorará la seguridad y la conectividad con un puente peatonal exclusivo en Woodland Avenue, carriles bici y senderos peatonales a lo largo del corredor y permitirá la futura implementación del tren ligero de la ciudad”, agregó. El proyecto inició a principios de 2025 y prevé finalizar para 2033. En ese contexto, Kenwood Avenue y East Avenue estarán cerradas hasta mediados de 2026. El acceso a la vía lateral norte de la I-35 cerca de Riverside Drive permanecerá cerrado hasta 2029 . Ampliación de carriles y semáforos: los nuevos proyectos en Texas El Estado de la Estrella Solitaria cuenta con otros proyectos más allá de Austin que incluyen la ampliación de carriles y la instalación de nuevos semáforos. En Houston , se busca ampliar de cuatro a seis carriles entre la I-10 y la autopista 290 para mitigar el tráfico por el crecimiento residencial. La iniciativ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/texas/comenzo-la-construccion-de-una-red-masiva-de-autopistas-que-arranca-en-texas-y-se-extiende-a-mas-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:05:46 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/MVRPP7UQIBCYJFKOENOEWNYMNI.jpg?auth=8c41afdc1358c44a318b015d2b0c4c05e06a1c86a6ba16cded1e224a5ede139f&smart=true&width=1366&height=768"
     },
     {
       "id": "80c090cc68d26f03e794",
@@ -214,6 +495,56 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d4Owk1gRsg9SwmqLU.jpeg"
     },
     {
+      "id": "1b42c8c89753003438ad",
+      "title": "Una crisis diplomática autoinfligida con Brasil",
+      "summary": "En la región falta la convicción tanto a las derechas como a las izquierdas y al centro de que somos partes de un todo, de que nuestras diferencias ideológicas no deberían impedirnos construir proyectos comunes.",
+      "link": "https://www.clarin.com/opinion/crisis-diplomatica-autoinfligida-brasil_0_I1g6eOCUam.html",
+      "pubDate": "Sun, 02 Aug 2026 18:04:30 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/07/03/HJzWBoCbW_1200x630__1.jpg"
+    },
+    {
+      "id": "3a39ed8bd090d3c0b19c",
+      "title": "Bernardo Stamateas, sobre las madres narcisistas: “Tu vida es tuya, es muy valiosa, y no deberías vivirla con el peso de la culpa”",
+      "summary": "Hoy te invito a conocer los principales rasgos de una madre narcisista . Y comencemos mencionando sus dos armas principales: el papel de víctima y el uso de la culpa . Es por eso que es muy común que les diga a sus hijos: “Con todo lo que yo hice por vos ¿y así me pagás?”. O: “A mí nadie me regaló nada en la vida; todo lo hice con sacrificio”. Su forma de criar a sus hijos está basada principalmente en la “construcción de deudas” . Por esa razón, ellos viven con la sensación constante de que están en deuda con esa mamá, y que tienen que devolverle algo (o todo) de lo que ella les dio, incluso si no se los ha pedido. En cuanto al lenguaje corporal, este puede incluir algunas de las siguientes acciones: entrecerrar sus ojos en una actitud de juicio, hacer muecas faciales para expresar malestar cuando sus hijos se dirigen a ella, reírse de manera burlona, cruzar sus brazos y sus pies, tensionar su mandíbula y aplaudir lentamente para humillarlos. Tal vez esta descripción te resulte conocida… En la niñez la manipulación de la madre narcisista sobre sus hijos suele ser explícita. Pero, con el paso de los años, cuando ellos ya son mayores, ella ya no puede seguir ejerciendo el control de modo externo. ¿Qué sucederá entonces? Procurará controlarlos a través de las emociones . Un tema de manipulación muy frecuente es su salud. Entonces, expresará frases como: “¡Vos me vas a matar a mí!”, “¡A mí me va a dar algo!”. Se trata de una especie de chantaje afectivo. Esta madre, entonces, se convierte en la “víctima inocente” de sus hijos. De esta manera, les transmite la creencia de que ella lo dio todo, pero jamás recibió nada a cambio . Y será en la última etapa de su vida, cuando pretenda intercambiar roles. ¿Qué significa esto? Que ella piensa que, ahora que los hijos son grandes, tienen que apoyarla tanto económica como emocionalmente, y estar siempre disponibles para ella. Para una mamá narcisista mayor, es “obligación” de sus hijos ayudarla en todo; en realidad es como un p",
+      "link": "https://www.lanacion.com.ar/lifestyle/bernardo-stamateas-sobre-las-madres-narcisistas-tu-vida-es-tuya-es-muy-valiosa-y-no-deberias-vivirla-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:00:17 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/MDVV23N4FZCRJMJGQ7GCJYXATQ.jpg?auth=4306fc57b019bb8c9d220ee566ef073cd2d40f8e3ed40c3640dc15bf11228c8b&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "592fdb5429d8f54d9129",
+      "title": "5 películas de terror que seguro no conoces y que puedes ver ahora mismo en streaming",
+      "summary": "El género de terror atraviesa una de sus épocas más lucrativas y creativas . Lo que le ha convertido en un pilar fundamental del cine en la actualidad . Con experimentos como Weapons , dirigida por Zach Cregger, y Los pecadores de Ryan Coogler, las historias espeluznantes han logrado una nueva importancia . Eso, mientras éxitos de sagas queridas como Expediente Warren: El último rito dejaban claro que el terror era algo más que solo accidentes afortunados. Sin olvidar cine independiente del género como Devuélvemela y Obsesión. Esta combinación demuestra que el horror actual no solo confía en la nostalgia de sagas recurrentes como Scream o Insidious. A la vez, se sostiene sobre la frescura de nuevos realizadores que conectan con los miedos de las audiencias modernas. Pero sobre todo, que el cine de terror contemporáneo es mucho más que solo historias creadas para provocar sobresaltos y aterrorizar por medios sencillos. Lo que hace de los más curiosos estrenos, una combinación entre temática, apartado visual y una elegante visión de lo terrorífico. Todo un festín para fanáticos que además, deja a su paso una buena cantidad de cintas ideales para satisfacer incluso el gusto cinematográfico más raro. Si ese es tu caso, esta lista es para ti. Te dejamos cinco películas raras de terror que seguramente no conoces y que puedes ver ahora mismo en streaming. De una pieza de arte visual a lo más novedoso del horror folk. Todo para los fanáticos de terror de hueso rojo que disfrutan de un tipo de cinta sorprendente y que los servicios por suscripción hacen mucho más accesible. Gaua (Prime Video) Este recorrido mitológico por el País Vasco del siglo XVII es una de las grandes películas de terror que puedes encontrar en streaming . Escrita y dirigida por el aclamado cineasta Paul Urkijo Alijo, la producción sigue los pasos de Kattalin (Yune Nogueiras). Esta, una joven que huye de su violento esposo y que termina perdida en la densa penumbra del bosque. Para después, enfrentar a l",
+      "link": "https://hipertextual.com/cine-television/5-peliculas-de-terror-que-seguro-no-conoces-y-que-puedes-ver-ahora-mismo-en-streaming/",
+      "pubDate": "Sun, 02 Aug 2026 18:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/peliculas-de-terror-2.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "b0a7b419905cca1c90c7",
+      "title": "Nueva regla del Uscis sobre firmas: por qué se rechazan trámites migratorios ya aceptados antes",
+      "summary": "El Servicio de Ciudadanía e Inmigración de Estados Unidos ( Uscis , por sus siglas en inglés) aplica desde el 10 de julio una norma procesal que amplía la revisión de las firmas incluidas en las solicitudes de beneficios migratorios . El cambio permite a la agencia intervenir si detecta irregularidades en cualquier etapa del análisis del expediente. El Uscis puede rechazar un trámite ya aceptado por un error en la firma Hasta antes de esta modificación, las firmas eran verificadas principalmente durante la recepción inicial de los formularios. Si existía un error, el expediente era rechazado y devuelto al solicitante junto con el pago correspondiente. Con la nueva disposición , la aceptación inicial de una solicitud ya no significa que la marca personal haya sido validada de forma definitiva. Si la anomalía aparece durante la revisión posterior, el trámite puede terminar con una decisión desfavorable. La normativa otorga a los funcionarios del Uscis la facultad de decidir cómo actuar cuando descubren que una rúbrica no cumple con los requisitos establecidos. Según el momento en que se detecte el problema y las circunstancias del caso, el expediente puede ser rechazado o denegado . La agencia también establece que una firma incorrecta no puede corregirse mediante el envío de una nueva hoja firmada . Los funcionarios no están autorizados a solicitar una página de reemplazo para subsanar ese defecto una vez que el formulario fue presentado. El objetivo de esta política es reforzar los mecanismos de verificación de identidad . Además, se busca confirmar que el solicitante certificó personalmente, bajo pena de perjurio, la información incluida en la solicitud. Cuál es la diferencia entre rechazo y denegación en un trámite del Uscis Si el problema con la firma se identifica durante la revisión inicial, el Uscis normalmente emite un rechazo administrativo . En ese escenario, el formulario y la tarifa suelen ser devueltos para que el interesado presente nuevamente la docume",
+      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/nueva-regla-del-uscis-sobre-firmas-por-que-me-pueden-rechazar-un-tramite-migratorio-ya-aceptado-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 18:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/UHYQFB6T7ZELBCYEEVPYHLON3E.jpg?auth=5b68b6f95bd679c0c64fb7b95674ea1396e734f519d1fdd555bef21966d04e56&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "4df9e47f3f938b4cd4dc",
+      "title": "Argentina discute el problema equivocado",
+      "summary": "El verdadero problema no reside en lo que el Congreso discutirá, sino en aquello que volverá a quedar fuera del debate.",
+      "link": "https://www.clarin.com/opinion/argentina-discute-problema-equivocado_0_d6qkD683qM.html",
+      "pubDate": "Sun, 02 Aug 2026 17:59:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/04/08/hhU9ZNDeI_1200x630__1.jpg"
+    },
+    {
       "id": "6336a636f60727a50622",
       "title": "Jordi Cáceres y Carla Lorenzo se quedan a las puertas del podio en la final del dúo mixto técnico",
       "summary": "Jordi Cáceres y Carla Lorenzo durante la final del dúo mixto técnico.",
@@ -224,6 +555,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f68564a3de.jpeg"
     },
     {
+      "id": "db6e4da914b0e58c227d",
+      "title": "Irán dice estar cerca de alcanzar un acuerdo con Omán sobre nueva ruta de tránsito en Ormuz",
+      "summary": "\"La ruta acordada no será ni la ruta norte ni la actual ruta sur, sino un nuevo recorrido sobre el que ambas partes llegarán a un entendimiento\", sostuvo un portavoz de la cancillería iraní. Indicó que el posible acuerdo sobre la nueva ruta \"no tiene relación con la reapertura del estrecho ni con la continuación de su cierre\".",
+      "link": "https://www.clarin.com/mundo/iran-dice-cerca-alcanzar-acuerdo-oman-nueva-ruta-transito-ormuz_0_aSFlkxwgm0.html",
+      "pubDate": "Sun, 02 Aug 2026 17:54:53 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/01/V9shQSxaq_1200x630__1.jpg"
+    },
+    {
+      "id": "c4517414cc4279f214f4",
+      "title": "Alejandro Galán y Federico Chingotto se quedaron con la mejor final de la temporada en el P1 de Pretoria",
+      "summary": "Una final de colección en una cita muy particular. En la primera visita del Premier Padel a Sudáfrica , Alejandro Galán y Federico Chingotto derrotaron a Javier Leal y Francisco Guerrero en el partido decisivo más caliente y vibrante de toda la temporada . Una batalla de más de dos horas que se definió el el tie-break y con puntos espectaculares, que quedó en poder de la segunda mejor pareja del mundo por 6-2, 5-7 y 7-6, para conseguir el P1 de Pretoria, equivalente a su sexto título de la temporada . Galán y Chingotto demostraron toda su categoría y experiencia contra la pareja revelación en la ciudad sudafricana, que luchó hasta el último segundo del cotejo definitorio. Antes, habían dejado en el camino a la tercera mejor pareja del circuito en los cuartos de final ( Juan Lebrón y Leonardo Augsburger ) y también habían dejado en el camino a los N° 1 en las semifinales ( Agustín Tapia y Arturo Coello ). View this post on Instagram Con esta victoria de Chingotto y Galán en Pretoria (acumulan 18 títulos como pareja) lograron acortan 640 puntos a los número uno, ya que sumaron 1000 contra los 360 de Coello y Tapia . Tras esta competencia, la distancia de la Race pasó de ser 1530 a 890: Tapia - Coello suman 9.440, mientras que Galán - Chingotto tienen 8.550 . La definición en Sudáfrica resultó uno de los máximos atractivos del circuito, ya que se dio la particularidad de la altitud en Pretoria, una ciudad a 1339 metros sobre el nivel del mar , una condición que generó un juego más veloz y favoreció a las parejas más agresivas del circuito, por ejemplo, a Javier Leal y Francisco Guerrero. View this post on Instagram Hasta esta definición, Galán y Chingotto acumulaban una racha negativa de finales perdidas en Roma, Valladolid, Burdeos y Valencia, además del reciente tropiezo en las semifinales del torneo en Málaga. Incluso, no lograban quedarse con un torneo desde los primeros días de mayo, cuando se disputó el Premier Padel Buenos Aires P1 . Tras el encuentro, Alejandro",
+      "link": "https://www.lanacion.com.ar/deportes/padel/alejandro-galan-y-federico-chingotto-se-quedaron-con-la-mejor-final-de-la-temporada-en-el-p1-de-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:54:51 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/VKSFWENUGRETDNC5BUNMW4NMCE.jpg?auth=8e3db8213d1513227101b712161808598da3a2898d71113ed454f74d52283b95&smart=true&width=787&height=525"
+    },
+    {
       "id": "5423e61658d1d7b9df95",
       "title": "La crónica de una muerte anunciada se hace realidad: El Tarazona desaparece",
       "summary": "S.D. Taranzona",
@@ -232,6 +583,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f63399ecea.jpeg"
+    },
+    {
+      "id": "47458437dde30c5907ed",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Las autoridades ceutíes cifran en 88 los fallecidos que están en la morgue",
+      "summary": "Entrada del hospital militar de Ceuta este domingo.",
+      "link": "https://elpais.com/espana/2026-08-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "pubDate": "Sun, 02 Aug 2026 17:51:30 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/XRV6F7RDZNDQNDVXEDVB23DUTE.JPG?auth=d73837088bb728eee1c6ad35c212eff4a396b6dfcd144d1b3125fdd34524b363"
     },
     {
       "id": "c0b4179c5908d78a8f4d",
@@ -245,7 +606,7 @@
     },
     {
       "id": "bde8b6b80bdf567b4872",
-      "title": "Sorteo Conference: el Getafe es el coco para los cabezas de serie",
+      "title": "El Getafe, el coco para los cabezas de serie en el sorteo de la Conference",
       "summary": "Una imagen del vestuario del Getafe tras clasificarse para Europa",
       "link": "https://www.marca.com/futbol/getafe/2026/08/02/sorteo-conference-getafe-coco-cabezas-serie.html",
       "pubDate": "Sun, 02 Aug 2026 17:50:17 +0200",
@@ -265,7 +626,7 @@
     },
     {
       "id": "4fc917f66f45f56e7627",
-      "title": "Donald Trump gana su torneo de club número 40 en el escenario del LIV",
+      "title": "Trump gana su torneo de club número 40 en el escenario del LIV",
       "summary": "Donald Trump juega un golpe",
       "link": "https://www.marca.com/golf/2026/08/02/donald-trump-gana-torneo-club-numero-40-escenario-liv.html",
       "pubDate": "Sun, 02 Aug 2026 17:43:40 +0200",
@@ -274,8 +635,28 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f658ea6a49.jpeg"
     },
     {
+      "id": "d33ff428071cfe93c404",
+      "title": "Una niña muerta y dos heridas tras ataque de Kiev cerca de un parque infantil en Rusia",
+      "summary": "\"Comparto con sus familiares el dolor de esta pérdida. Por supuesto, no hay palabras que puedan expresar el dolor que supone perder a una hija\", comentó el gobernador de la provincia de Bélgorod, Alexánder Shuvaev.",
+      "link": "https://actualidad.rt.com/actualidad/620287-nina-muerta-menores-heridas-ataque?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 02 Aug 2026 17:42:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a6f85a459bf5b512521311f.jpg"
+    },
+    {
+      "id": "5398c6939a21e0a1ce6a",
+      "title": "Quién se va de Gran Hermano este lunes, según las encuestas",
+      "summary": "La casa de Gran Hermano Generación Dorada (Telefe) vivirá una nueva eliminación el próximo lunes 3 de agosto tras la conformación de una placa polémica. Esta semana, con la continuidad del voto negativo del público, ya hay apuntados como favoritos para abandonar la competencia en las encuestas que circulan en redes sociales. Tras la eliminación de Sebastián Cola en placa negativa, además del abandono de Cinzia Francischiello tras su fuerte caída, la jornada del jueves dejó un total de seis nominados: Steffany “ Campanita ” Pereira, Matías Hanssen , Juani “ Juanicar ” Caruso, Luana Fernández, Alejandra Majluf y Solange “Sol” Abraham. De igual manera, es importante remarcar que se salvaron Yanina Zilli y Mariela Prieto. Mariela Prieto fue la segunda y última salvada de la noche A raíz de eso, la audiencia evidenció que está dividida para votar a quién quiere que abandone la casa, por lo que hay muchas dudas. La encuesta realizada por “Fefe” Bongiorno, en la que enfrentó a Campanita, Hanssen y Sol, reveló que sus seguidores están mayormente en contra de Steffany Pereira, quien sumó el 50,3% . Por detrás apareció Sol con el 36,4% de los votos, por lo que los fanáticos del reality están divididos para elegir a quién quieren eliminar. Luego, Matías acumuló el 10,3% de los 21.202 votos totales , donde apenas el 3% del total optó por elegir a los otros nominados. A su vez, Diego Poggi utilizó su canal de difusión en Instagram para realizar su propia encuesta y los resultados parecen despejar todas las dudas con respecto al mano a mano. En este caso, Sol fue la más votada con más de 7500 votos , mientras que Campanita acumuló 2000 . En este caso, Hanssen volvió a ser el tercero más votado y apareció con 1500 . Si estos resultados se repitieran el lunes, Gran Hermano Generación Dorada volvería a tener una definición mano a mano entre dos mujeres . Tras cinco salidas consecutivas de varones, lo que provocó que de los 12 participantes queden apenas dos del género masculino , ah",
+      "link": "https://www.lanacion.com.ar/espectaculos/quien-se-va-de-gran-hermano-este-lunes-segun-las-encuestas-nid01082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:40:53 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZQGKTLPJ3ZDX7HMC4LJXZL7EDI.jpg?auth=97850517747da2978d57c35135ba5b644f2ebfc556ecb30c2bb50b491b3600fe&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "4184287cd5e1e8c69275",
-      "title": "Porro, de ganar el Mundial a 'realizar' un fichaje millonario en la Premier: \"Le dije que te trajera\"",
+      "title": "Porro, de ganar el Mundial a hacer un fichaje millonario: \"Le dije que te trajera\"",
       "summary": "Montaje de Pedro Porro y Mateus Fernandes.",
       "link": "https://www.marca.com/futbol/premier-league/2026/08/02/pedro-porro-ganar-mundial-realizar-fichaje-millonario-le-dijo-entrenador-te-trajera.html",
       "pubDate": "Sun, 02 Aug 2026 17:39:44 +0200",
@@ -292,6 +673,128 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d4Muw1gRsGNZ3R2_h.jpeg"
+    },
+    {
+      "id": "33134c531aa284a1680b",
+      "title": "El nuevo 'Spider-Man' hace historia a días de su estreno",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/620285-nuevo-spider-man-hace-historia-dias-estreno?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 02 Aug 2026 17:34:50 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "099588a9d1eeac2a6748",
+      "title": "Dos helicópteros chocaron en Grecia mientras combatían un incendio forestal: murieron dos tripulantes",
+      "summary": "ATENAS (AFP).- Dos helicópteros colisionaron este domingo mientras combatían un incendio forestal en la zona costera de Psatha , en Grecia. De las cuatro personas que iban a bordo, dos resultaron heridas y dos murieron . Según informaron las autoridades, las aeronaves militares Bell, contratadas por el Departamento de Bomberos para combatir los incendios cerca de Atenas, habían despegado desde la base aérea de Elefsina y operaban en condiciones de visibilidad y navegación extremadamente adversas. Tras el impacto de las aeronaves se puso en marcha una operación de búsqueda y rescate, y luego se logró ubicar a la tripulación. Las cuatro personas a bordo fueron rescatadas por el servicio de emergencia EKAB y trasladadas de urgencia al 251.º Hospital de Aviación General. Dos de los tripulantes, un griego y un británico, sufrieron heridas leves , mientras que los otros dos, un griego y un danés, perdieron la vida luego de ingresar inconscientes como consecuencia de la colisión, según informó el diario griego Kathimeriní . El primer ministro griego Kyriakos Mitsotakis lamentó “profundamente” el siniestro y manifestó su profundo pesar a través de su cuenta de X. “Expreso mi más profunda tristeza por el trágico accidente con los dos helicópteros contra incendios arrendados que costó la vida a dos combatientes de primera línea en la guerra contra los incendios, bajo condiciones meteorológicas extremadamente adversas , especialmente para nuestros medios aéreos”, escribió. Y agregó: “La pérdida del coordinador griego y del piloto danés en el momento en que operaban en el gran incendio de Porto Germanou nos llena a todos de dolor . Mis más sinceras condolencias a sus familias”. Grecia azotada por el fuego forestal El siniestro ocurre en medio de incendios forestales activos en todo el país, intensificados por condiciones meteorológicas adversas y ráfagas de viento que alcanzaron los 100 km/h . En las últimas 24 horas se registró un foco inextinguible en una zona boscosa de la i",
+      "link": "https://www.lanacion.com.ar/el-mundo/dos-helicopteros-chocaron-en-grecia-mientras-combatian-un-incendio-forestal-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:20:15 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/47M4MJSXGNFA3IFDWSZ46HNR6Y.jpg?auth=a2cf1115efa4b956dba005e2efc08de29736ef4e019ef5d703abfbd673c0ed78&smart=true&width=1024&height=768"
+    },
+    {
+      "id": "2abddf54507e87a6f323",
+      "title": "Oficial, si se aprueba: la ley de revocación de licencias que aplicaría el DMV en California",
+      "summary": "Acumular tres condenas por determinados delitos de conducción bajo los efectos del alcohol o las drogas podría dejar a una persona sin permiso para manejar en California por ocho años . La ley de revocación de licencias, conocida como Ley de Irene , facultaría al Departamento de Vehículos Motorizados ( DMV , por sus siglas en inglés) a imponer esta medida para apartar de las carreteras a conductores reincidentes . ¿Qué establece la AB 1687 sobre la revocación de licencias? De acuerdo con el texto oficial de la Legislatura de California, la AB 1687 fue presentada por el asambleísta Tom Lackey . La propuesta permitiría que el DMV revoque el privilegio de conducir a una persona con tres o más condenas específicas dentro de un período de diez años . La medida no sería automática, ya que el texto concede al organismo la facultad de decidir si la aplica. Si el DMV impone la sanción, el permiso permanecerá revocado durante ocho años. Además, el conductor deberá presentar una prueba de responsabilidad financiera antes de recuperarlo. Las condiciones para recuperar el permiso después de cuatro años La AB 1687 contempla una excepción al período de ocho años. El conductor podrá solicitar la restitución cuatro años después de la última condena , aunque deberá cumplir una serie de condiciones. La persona tendrá que presentar el formulario de verificación de instalación y aceptar el uso de un dispositivo de bloqueo de encendido (IID, por sus siglas en inglés). El aparato deberá permanecer en el vehículo durante los dos años posteriores a la recuperación del permiso. El DMV deberá aprobar la solicitud si el interesado: No recibió nuevas condenas estatales relacionadas con drogas o alcohol durante la revocación. Completó un programa autorizado para infractores por conducir bajo los efectos del alcohol, cuando corresponda. No fue condenado por manejar con la licencia suspendida o revocada durante ese período. El organismo cancelará de inmediato la autorización si la persona intenta ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/california/oficial-si-se-aprueba-la-ley-de-revocacion-de-licencias-que-aplicaria-el-dmv-en-california-nid01082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:16:58 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/Y3R3UL7BPVHOVFWUHAA4MLF3JE.png?auth=f1596854e1a309a49b5b95ae4034ca8675866e870331558a6de877d6c633542d&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "71b92e6921735f82a026",
+      "title": "Oficial y confirmado en Texas: todos los candidatos de Greg Abbott para las elecciones de medio término",
+      "summary": "Texas inicia su campaña para las elecciones de medio término el 3 de noviembre con los aspirantes de cada partido. Greg Abbott , gobernador del estado, ya se reunió con todos los candidatos republicanos, entre los que se encuentran Ken Paxton y Dan Patrick. Quienes son los candidatos republicanos para las elecciones de medio término en Texas Ken Paxton (candidato para el Senado) Paxton es un abogado que se desempeña en la actualidad como el 51º fiscal general de Texas, cargo que ocupa desde enero de 2015 , según consignó en su biografía oficial. Comenzó su carrera política en 2002 , cuando fue elegido para representar al Distrito 70 , que abarca partes del sur del condado de Collin y ciudades como Allen, Plano, Richardson y Dallas. Desde 2003 hasta 2013 sirvió en la Cámara de Representantes. En 2012, fue elegido para el Senado estatal , donde representó al Distrito 8 en los condados de Collin y Dallas. El 4 de noviembre de 2014 fue votado para ser el 51.º fiscal general de Texas y ha sido reelegido para este rol en dos oportunidades. En abril de 2025 , anunció su candidatura por el Senado bajo la premisa de “hacer un cambio” a través de una seguridad fronteriza extrema y leyes de identificación de votantes. Dan Patrick (candidato para vicegobernador) Patrick es el actual vicegobernador de Texas , considerado el segundo ejecutivo de más alto rango en el estado. Fue elegido para este cargo por primera vez en 2014 y reelegido en 2018 y 2022 , según consignó su sitio web . Previo a su rol como vicegobernador, trabajó durante ocho años en el Senado de Texas , donde presidió el Comité de Educación Pública. El republicano es conocido por liderar propuestas legislativas vinculadas con la base conservadora. En 2023, impulsó medidas para colocar los Diez Mandamientos y tiempos de oración en las escuelas públicas, además de añadir la frase “In God We Trust” en el Senado de Texas. Mayes Middleton (candidato para fiscal general) Middleton es el actual senador estatal por el Dist",
+      "link": "https://www.lanacion.com.ar/estados-unidos/texas/oficial-y-confirmado-en-texas-todos-los-candidatos-de-greg-abbott-para-las-elecciones-de-medio-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:12:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/XCJ4OPEGIVHLXBQUCEFEZBIJCE.png?auth=27f920bd638656f15356db1de1ecae44433e5604a1e9f991dc52b78ea2f30d9c&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "7f73182e7a8f1e4a88c7",
+      "title": "Hallan dos 'pajaritos' de 40.000 años (FOTO)",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/620282-hallan-pajaritos-40000-anos-foto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 02 Aug 2026 17:05:01 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "dd7321b37954b95b43b3",
+      "title": "Abogados de inmigración coinciden: las opciones legales que tienen los migrantes que perdieron el TPS en EE.UU.",
+      "summary": "La pérdida del Estatus de Protección Temporal ( TPS , por sus siglas en inglés) no implica automáticamente que una persona deba abandonar Estados Unidos , aunque obliga a evaluar con rapidez si existe otra vía migratoria disponible. Diversos estudios jurídicos especializados coinciden en que existen alternativas para quienes dejan de contar con este beneficio, pero advierten que cada caso depende del historial, la forma de ingreso al país norteamericano y la situación familiar de cada solicitante. Qué pasa con el estatus migratorio y el permiso de trabajo cuando termina el TPS El fin de una designación del TPS significa que el beneficiario vuelve al estatus migratorio que tenía antes de recibir esa protección. En términos generales, también vence el permiso de trabajo asociado al TPS, salvo que exista una prórroga automática, una orden judicial u otra autorización laboral vigente. A partir de ese momento, la permanencia en Estados Unidos dependerá de que exista otra base legal que le permita continuar en el país norteamericano. De acuerdo con el estudio Paniotto Law , perder el TPS no significa necesariamente que la única salida sea abandonar el territorio estadounidense. La firma explica que algunos beneficiarios podrían solicitar un cambio hacia determinados estatus de no inmigrante , como visas de estudio o de trabajo , siempre que la persona reúna los requisitos exigidos y presente la documentación correspondiente a tiempo. El portal especializado Nolo agrega que el Gobierno estadounidense establece una fecha de vencimiento para cada designación del TPS y que las renovaciones no están garantizadas . Además, recuerda que quienes poseen simultáneamente otro estatus migratorio legal pueden conservar ese beneficio aun cuando termine la protección temporal, siempre que hayan cumplido las condiciones de ambos programas. Green card, visas y cambio de estatus: alternativas después del TPS Los especialistas consultados coinciden en que una de las principales alternativas",
+      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/que-opciones-legales-tienen-los-migrantes-que-perdieron-el-tps-en-eeuu-segun-recomiendan-abogados-nid01082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:01:40 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/6VX6G3HRXBGX7CSY73QBXQYVXQ.png?auth=15f23959d3ef99c1b6391936008f4337d7ed875d2370cbd672677650a0e8cfcc&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "c54673b09393205bdb53",
+      "title": "Vin Diesel rompe su silencio sobre Fast Forever y emociona a los fans de Fast & Furious",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Después de más de dos décadas pisando el acelerador, Fast Furious se prepara para despedirse de Dominic Toretto y compañía. Aunque todavía quedan casi dos años para el estreno de Fast Forever , Vin Diesel ha vuelto a alimentar la expectación con unas declaraciones que no han pasado desapercibidas entre los seguidores de la saga. El actor ha asegurado que ya ha leído el guion definitivo de la película y no ha escatimado en elogios, llegando incluso a afirmar que es el mejor libreto que ha leído en décadas. Unas palabras que llegan justo cuando la franquicia celebra el 25.º aniversario del estreno de The Fast and the Furious (2001), la película que inició uno de los mayores fenómenos del cine de acción moderno. Vin Diesel asegura que el guion de Fast Forever es el mejor que ha leído en décadas A través de su cuenta de Instagram, Vin Diesel compartió un vídeo recordando la primera entrega de la saga y animó a los fans a volver a verla en cines cuando regrese a la gran pantalla el próximo 21 de agosto con motivo de su aniversario. Sin embargo, el mensaje terminó centrando toda la atención en la esperadísima despedida de la franquicia: «No tenéis ni idea&#8230; Cuando llegue el 17 de marzo de 2028 daréis gracias por haber visto la primera película en los cines este verano.» Después reveló que ya había terminado de leer el nuevo guion escrito por Mike Leslie , responsable también del libreto de The Hunger Games: The Ballad of Songbirds Snakes , dejando una valoración de lo más entusiasta. «Acabo de leer el guion de Fast Forever . Es el mejor guion que he leído en décadas. Todavía estoy llorando.» Aunque este tipo de declaraciones forman parte de la promoción habitual de una gran superproducción, no dejan de aumentar las expectativas alrededor del desenlace de una saga que ha recaudado más de 7.000 millones de dólares en todo el mundo. Ver esta publicación en Instagram Una publicación compartida de Vin Diesel (@",
+      "link": "https://www.cinemascomics.com/vin-diesel-reaccion-guion-fast-forever/",
+      "pubDate": "Sun, 02 Aug 2026 17:00:42 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/vin-diesel.jpg"
+    },
+    {
+      "id": "da4f34a5824199b26189",
+      "title": "Las mejores películas del año 2026 hasta ahora (Y una de ellas, no te la esperas)",
+      "summary": "2026 es uno de los años más exitosos para el cine en la última década y nadie lo duda. Algo que quedó demostrado después del éxito simultáneo de La Odisea , seguido del taquillazo y la aclamación crítica de Spider-Man: Brand New Day . Lo cierto es que los últimos meses han sorprendido por el hecho de demostrar que la taquilla mundial alcanza nuevos récords. Pero también, que la industria del cine está más viva y saludable que nunca. Todas buenas noticias después de años de incertidumbre y en especial, de preocupaciones sobre la permanencia del mundo cinematográfico en una época de streaming. Pero 2026 ha permitido demostrar que el hábito de disfrutar del cine a la manera tradicional sigue más vigente que nunca. En particular, porque los grandes éxitos de cartelera en los meses más recientes demuestran algo fundamental. El público acudirá a las salas siempre que la oferta sea de la suficiente calidad como para ameritar el esfuerzo. Ya sea por grandes historias de ciencia ficción, drama o terror. El cine reconfiguró su fórmula para ser cada vez más interesante , amplia y, en especial, dedicada a una gran variedad de opciones . Un punto que ha resultado ser el elemento más atractivo para una audiencia cada vez más exigente. Por lo que la lista de las mejores películas del año hasta ahora es una curiosa combinación de temas, puntos de vista y premisas. Una, además, que demuestra de manera fidedigna que el cine actual ha dejado atrás una etapa profundamente complicada entre diversos conflictos y situaciones extremas. Todo para alcanzar una nueva relevancia para diversos mercados. Y, en especial, como una forma de arte que, sin importar las nuevas tendencias o formatos, sigue siendo importante. Algo que detalla de manera muy clara la lista de los éxitos de 2026 hasta ahora, que te dejamos a continuación: Proyecto Salvacion Proyecto Salvación se convirtió desde su estreno en una de las grandes películas del año y razones no faltan. De su extraordinaria capacidad para devol",
+      "link": "https://hipertextual.com/cine-television/las-mejores-peliculas-del-ano-2026-hasta-ahora-y-una-de-ellas-no-te-la-esperas/",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Mejores-peliculas-2026-2.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "849068096eb7eac763b4",
+      "title": "“Con efecto inmediato”: La orden firmada por Brandon Johnson en Chicago que cambia las reglas de seguridad",
+      "summary": "El alcalde de Chicago, Brandon Johnson , puso en marcha una nueva política relacionada con las adquisiciones de armamento realizadas por la administración municipal. La orden ejecutiva 2026-04 fue firmada el 29 de julio y comenzó a aplicarse desde el mismo momento de su publicación. Qué cambia con la orden ejecutiva en Chicago Al anunciar la medida, Johnson señaló en su cuenta de X que el 5% de los distribuidores concentra el 90% de los dispositivos ilegales vinculados con hechos delictivos . El lcalde también indicó que la reforma fue desarrollada en conjunto con la organización Brady, impulsora de “Unidos contra la violencia armada”. “ Hay más traficantes de armas en EE.UU. que McDonald’s, Starbucks y Walmarts combinados ”, indicó el alcalde. “La orden ejecutiva que firmé fortalecerá los estándares de adquisición de la ciudad, para que podamos identificar mejor y evitar destinar ningún dólar de los contribuyentes a vendedores que trafican con artefactos ilegales”, señaló. La administración municipal explicó que la iniciativa busca utilizar el poder de compra de la ciudad para impulsar estándares más exigentes dentro del mercado . El propósito es que los contratos públicos contemplen no solo aspectos económicos, sino también antecedentes de cumplimiento de la legislación vigente . Según la orden , el Departamento de Servicios de Adquisiciones ( DPS , por sus siglas en inglés) deberá elaborar, en un plazo de 90 días , un conjunto de normas que serán aplicables a todas las futuras compras de armas, municiones y accesorios realizadas por dependencias municipales. En ese proceso participarán también el Departamento de Policía de Chicago ( CDP , por sus siglas en inglés), la Oficina de Administración de Seguridad Pública ( PSA , por sus siglas en inglés) y el Departamento Jurídico. Las compañías interesadas en contratar con la ciudad deberán presentar información relacionada con: Licencias federales, estatales y locales. Antecedentes regulatorios. Inspecciones efectuada",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/con-efecto-inmediato-la-orden-firmada-por-brandon-johnson-en-chicago-que-cambia-las-reglas-de-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/2PCL36R3CVEZ3EAB42U6GL4HTE.jpg?auth=1afb6eb284f6fd045efa887c9f72e30bee8428ac3ded3bdd5b7add49f793e479&smart=true&width=2000&height=1333",
+      "subcat": "diseño"
+    },
+    {
+      "id": "528ebf47809715d9fcc5",
+      "title": "Masones en este país 'rejuvenecen' para sobrevivir",
+      "summary": "La organización cuenta actualmente con unos 175.000 integrantes, muy por debajo del máximo cercano a los 500.000 alcanzado a mediados del siglo pasado.",
+      "link": "https://actualidad.rt.com/actualidad/620279-masones-atraer-jovenes-frenar-problema-organizacion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 02 Aug 2026 16:58:05 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a6f7ea259bf5b60cd4a845c.jpg"
+    },
+    {
+      "id": "3e167520602894df5808",
+      "title": "Buenas noticias en Texas: se viene un nuevo parque acuático tras una inversión de US$54,5 millones",
+      "summary": "Un nuevo parque acuático se va a inaugurar en el condado de Reeves, Texas , a fines de 2027. El proyecto forma parte de una inversión de US$54,5 millones y se prevé que las obras inicien en septiembre de este año Qué se sabe del nuevo parque acuático en Texas Según el documento presentado por el Departamento de Licencias y Regulaciones de Texas ( TDLR , por sus siglas en inglés), el proyecto está a cargo de la firma de diseño Parkhill , con sede en Frisco, y el condado de Reeves figura como propietario del proyecto. El parque contaría con una extensión de 67.675 pies cuadrados que incluirá atracciones acuáticas (entre ellas una máquina de surf ), áreas de ocio y recreación , vestidores, áreas de concesiones, oficinas y salas de máquinas. La inversión para el nuevo parque acuático es de US$54.5 millones. El proyecto comenzó en 2022 con una estimación de US$16 millones en 2022 para una versión al aire libre. En mayo de 2024 se presentó una propuesta de US$47 millones , y luego Hotel Leisure Advisors estimó que el costo alcanzaría los $50 millones. Cuál será el cronograma para la construcción del parque de atracciones Se estima que la construcción empiece en septiembre de este año y concluya el 1.° de diciembre de 2027. Se va a localizar en el 70 CR 118, Pecos, TX 79772 , en el condado de Reeves, situado calle abajo del complejo deportivo Cyclone Ballparks. Se prevé que el parque sea una instalación cubierta que incluya un hotel de 120 habitaciones con restaurante y un centro de convenciones de entre 10.000 y 20.000 pies cuadrados. “El nuevo complejo de 67,675 pies cuadrados se convertirá en un importante destino para el entretenimiento familiar y la recreación comunitaria . La construcción de este proyecto público comenzará este otoño\", destacó el condado de Reeves en un breve comunicado en sus redes sociales. Preguntas y respuestas sobre el nuevo parque acuático en Texas ¿Dónde se construirá el nuevo parque acuático? el parque acuático se construirá en el condado de ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/texas/buenas-noticias-en-texas-se-viene-un-nuevo-parque-acuatico-tras-una-inversion-de-us545-millones-nid01082026/",
+      "pubDate": "Sun, 02 Aug 2026 16:53:04 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/6JXQGGKMGJEVXASMDHZT7N7IAY.jpg?auth=6053149b4b00430d310f713aab7f9e7dd7b765388510d3cbe53f0df7e8b509e3&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "08e4eaf9702581b155a7",
+      "title": "Asesinaron a una mujer en un balneario de la zona sur de Mar del Plata",
+      "summary": "MAR DEL PLATA.- Una joven de 24 años fue asesinada en una playa de la zona sur de Mar del Plata, adonde había acudido tras ser convocada para una supuesta entrevista laboral que había conseguido a través de una publicación en redes sociales. Por el crimen fueron detenidos dos hombres de 26 y 27 años, sorprendidos por la policía cuando intentaban quemar la ropa de la víctima a pocos metros del lugar donde fue hallado el cuerpo. Fuentes judiciales identificaron a la víctima como Johana Antonich , madre de dos hijos. Los sospechosos, que se desempeñarían como serenos o cuidadores del balneario Punta Cantera —inmediato al complejo Punta Mogotes— , quedaron imputados por el delito de femicidio y a disposición del fiscal Carlos Russo , quien en las próximas horas les tomará declaración indagatoria. Según los primeros datos de la investigación, Antonich había contactado a una persona a partir de un supuesto aviso de trabajo publicado en redes sociales y había acordado un encuentro en el parador Punta Cantera, en la zona de Punta Mogotes. Hasta allí llegó en un remís. El chofer declaró que la dejó en el lugar y que permaneció algunos minutos esperándola porque ella le había insinuado que regresaría enseguida. Como nunca volvió, finalmente se retiró. Al no poder comunicarse con ella, sus familiares comenzaron a reconstruir sus últimos movimientos . Fue así como supieron de la entrevista laboral y se dirigieron hasta la zona para intentar localizarla. Sin resultados, dieron aviso a la policía. Con intervención de efectivos de la jurisdicción s e desplegó un operativo de búsqueda en el sector comprendido entre el balneario 1 de Punta Mogotes y la zona de Waikiki . Era de noche cuando vieron fuego en un tambor y dos hombres que, al ver personal policial, intentaron alejarse del lugar. Pudieron ser aprehendidos y, según trascendió, tenían manchas de sangre entre sus prendas. De la primera inspección ocular surgió que en el interior de ese tanque en llamas había ropa que coincidi",
+      "link": "https://www.lanacion.com.ar/seguridad/asesinaron-a-una-mujer-en-un-balneario-de-la-zona-sur-de-mar-del-plata-nid02082026/",
+      "pubDate": "Sun, 02 Aug 2026 16:52:58 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/2PIEP3U7IBEMZDOWTDM3JGRNN4.png?auth=5e46df6f67d25f5fb3ff74f5128ac9fc7c2cfd2841982e81ddbaaf642eaf22bd&smart=true&width=526&height=373",
+      "subcat": "herramientas"
     },
     {
       "id": "a0e557a163e703998575",
@@ -477,25 +980,14 @@
       "subcat": "mercado"
     },
     {
-      "id": "47458437dde30c5907ed",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Las autoridades ceutíes cifran en 88 los fallecidos que están en la morgue",
-      "summary": "Miembros de la Guardia Civil española detienen a un migrante en Ceuta, este sábado.",
-      "link": "https://elpais.com/espana/2026-08-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "pubDate": "Sun, 02 Aug 2026 15:59:48 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/6OQCNXSNNFGHPPTAHPLQXD3KS4.JPG?auth=9ea447998605228006261e97ba51eb5d90ec821ed86e8ebfe10ae50a7c99a6bc"
-    },
-    {
       "id": "ac3a52564596821a6324",
-      "title": "Dos pilotos mueren al chocar dos helicópteros que participaban en la extinción de un incendio en Grecia",
-      "summary": "Un helicóptero lucha contra las llamas, este domingo al noroeste de Atenas.",
+      "title": "Dos helicópteros chocan mientras extinguían un incendio en Grecia",
+      "summary": "El momento en el que dos helicópteros chocan mientras combatían un incendio en Atenas, Grecia, 2 de agosto de 2026.",
       "link": "https://elpais.com/internacional/2026-08-02/dos-pilotos-mueren-al-chocar-dos-helicopteros-que-participaban-en-la-extincion-de-un-incendio-en-grecia.html",
       "pubDate": "Sun, 02 Aug 2026 15:56:50 GMT",
       "source": "El Pais",
-      "cat": "ia",
-      "image": "https://imagenes.elpais.com/resizer/v2/LBG3FQAIC5AY5BZLDKGYETDQYI.jpg?auth=683680a75c1667a8ae24a8d4bf565fc883b614897ab26f5deb03f6692d918a05",
-      "subcat": "herramientas"
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/IB62NOAKKZFFPOXDKJNOAJ72SI.jpg?auth=2c5a967fb9c0fdb152b931633e80490be2a07ca908b02324e73c4b706c8b9ba3"
     },
     {
       "id": "1cad27f9e7c7d9ef2ce3",
@@ -518,16 +1010,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/30/6a6b63298cb4b.jpeg"
     },
     {
-      "id": "5398c6939a21e0a1ce6a",
-      "title": "Quién se va de Gran Hermano este lunes, según las encuestas",
-      "summary": "La casa de Gran Hermano Generación Dorada (Telefe) vivirá una nueva eliminación el próximo lunes 3 de agosto tras la conformación de una placa polémica. Esta semana, con la continuidad del voto negativo del público, ya hay apuntados como favoritos para abandonar la competencia en las encuestas que circulan en redes sociales. Tras la eliminación de Sebastián Cola en placa negativa, además del abandono de Cinzia Francischiello tras su fuerte caída, la jornada del jueves dejó un total de seis nominados: Steffany “ Campanita ” Pereira, Matías Hanssen , Juani “ Juanicar ” Caruso, Luana Fernández, Alejandra Majluf y Solange “Sol” Abraham. De igual manera, es importante remarcar que se salvaron Yanina Zilli y Mariela Prieto. Mariela Prieto fue la segunda y última salvada de la noche A raíz de eso, la audiencia evidenció que está dividida para votar a quién quiere que abandone la casa, por lo que hay muchas dudas. La encuesta realizada por “Fefe” Bongiorno, en la que enfrentó a Campanita, Hanssen y Sol, reveló que sus seguidores están mayormente en contra de Steffany Pereira, quien sumó el 50,3% . Por detrás apareció Sol con el 36,4% de los votos, por lo que los fanáticos del reality están divididos para elegir a quién quieren eliminar. Luego, Matías acumuló el 10,3% de los 21.202 votos totales , donde apenas el 3% del total optó por elegir a los otros nominados. A su vez, Diego Poggi utilizó su canal de difusión en Instagram para realizar su propia encuesta y los resultados parecen despejar todas las dudas con respecto al mano a mano. En este caso, Sol fue la más votada con más de 7500 votos , mientras que Campanita acumuló 2000 . En este caso, Hanssen volvió a ser el tercero más votado y apareció con 1500 . Si estos resultados se repitieran el lunes, Gran Hermano Generación Dorada volvería a tener una definición mano a mano entre dos mujeres . Tras cinco salidas consecutivas de varones, lo que provocó que de los 12 participantes queden apenas dos del género masculino , ah",
-      "link": "https://www.lanacion.com.ar/espectaculos/quien-se-va-de-gran-hermano-este-lunes-segun-las-encuestas-nid01082026/",
-      "pubDate": "Sun, 02 Aug 2026 15:53:11 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZQGKTLPJ3ZDX7HMC4LJXZL7EDI.jpg?auth=97850517747da2978d57c35135ba5b644f2ebfc556ecb30c2bb50b491b3600fe&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "ec08138ee9b83d279120",
       "title": "“Vacaciones y sueldo fijo”: una ciudad argentina logró reconvertir a limpiavidrios callejeros en empleados de una empresa",
       "summary": "Hasta hace unas semanas, Ángel Caro pasaba sus días en la esquina de Sarmiento y Guzmán, en el centro de la ciudad de Córdoba. Esperaba que el semáforo se pusiera en rojo y ofrecía limpiar los parabrisas. Había empezado a hacerlo a los 15 años, después de dejar la escuela para salir a trabajar y ayudar en su casa, donde eran 13 hermanos. Pero, en apenas unos meses, su vida dio un vuelco. Hoy, a los 26 años, su rutina es completamente distinta : se levanta a las seis de la mañana, toma un colectivo y cumple una jornada de ocho horas como empleado de una empresa de mantenimiento de espacios verdes. Cobra un sueldo fijo, tiene obra social y, por primera vez en su vida, sabe que tendrá vacaciones pagas y aguinaldo. —En la calle había días en los que se hacía plata y días en los que no. Trabajábamos con frío, con lluvia, con lo que fuera para poder llevar un plato de comida a casa a la noche —recuerda. Ángel no imaginaba que un día dos trabajadoras de la Municipalidad se acercarían a aquella esquina para ofrecerle participar de un curso de jardinería y mantenimiento de espacios verdes. Mucho menos, que esa capacitación terminaría abriéndole una puerta que hasta entonces parecía fuera de su alcance: acceder por primera vez a un empleo registrado. —Todavía no lo puedo creer. Estoy muy feliz. El joven nació y creció en Renacimiento, un barrio popular de la capital cordobesa. Su mamá murió cuando él tenía cinco años y se crió junto a una hermana mayor, mientras su papá trabajaba como albañil. Llegó hasta sexto grado de la primaria y comenzó el primer año de la secundaria, pero abandonó poco después para ayudar económicamente a su familia. Desde entonces, la calle se convirtió en su lugar de trabajo . Una oportunidad concreta La iniciativa que cambió la vida de Ángel surgió de la Universidad Tecnológica Nacional (UTN) Regional Córdoba , que impulsó una alianza con la Municipalidad de Córdoba , la Fundación Universitaria de Oficios (FUO) y la empresa Kazaró . Comenzó a gestars",
@@ -546,17 +1028,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/OQAF2OZPQJBVDD2TEFFXECWCDE.jpg?auth=9ca876c281b86c277f669a0c996214091ede2b9548c64115634889ac2fca8bea&smart=true&width=7360&height=4912"
-    },
-    {
-      "id": "099588a9d1eeac2a6748",
-      "title": "Dos helicópteros chocaron en Grecia mientras combatían un incendio forestal",
-      "summary": "ATENAS (AFP).- Dos helicópteros colisionaron este domingo mientras combatían un incendio forestal en la zona costera de Psatha , en Grecia. Las cuatro personas que iban a bordo fueron rescatadas y trasladadas a un hospital, dos de ellas en estado grave. Según informaron las autoridades, las aeronaves militares Bell, contratadas por el Departamento de Bomberos para combatir los incendios cerca de Atenas, habían despegado desde la base aérea de Elefsina y operaban en condiciones de visibilidad y navegación extremadamente adversas. Tras el impacto de las aeronaves se puso en marcha una operación de búsqueda y rescate, y luego se logró ubicar a la tripulación. Las cuatro personas a bordo fueron rescatadas por el servicio de emergencia EKAB y trasladadas de urgencia al 251.º Hospital de Aviación General. Dos de los tripulantes sufrieron heridas leves, mientras que los otros dos ingresaron inconscientes como consecuencia de la colisión, según informó el diario griego Kathimeriní . De acuerdo con los primeros reportes, dos de los ocupantes son rumanos y los otros dos, griegos. Grecia azotada por el fuego forestal El siniestro ocurre en medio de incendios forestales activos en todo el país, intensificados por condiciones meteorológicas adversas y ráfagas de viento que alcanzaron los 100 km/h . En las últimas 24 horas se registró un foco inextinguible en una zona boscosa de la isla de Cefalonia y una masiva evacuación en los hoteles y los alojamientos turísticos en el pequeño puerto pesquero turístico de Katelios ante el avance de las llamas. Además, tres bomberos murieron , dos en Creta y uno en el Peloponeso durante complejas operaciones. Los incendios en las islas de Creta y Paros ya afectaron 6.000 hectáreas . El primer ministro griego, Kyriakos Mitsotakis , declaró que los próximos días serán “extremadamente difíciles” . “Cuando los vientos soplan con tal fuerza, ni siquiera las decenas de aeronaves de las que disponemos pueden operar con seguridad ”, escribió en un pos",
-      "link": "https://www.lanacion.com.ar/el-mundo/dos-helicopteros-chocaron-en-grecia-mientras-combatian-un-incendio-forestal-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 15:46:34 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/47M4MJSXGNFA3IFDWSZ46HNR6Y.jpg?auth=a2cf1115efa4b956dba005e2efc08de29736ef4e019ef5d703abfbd673c0ed78&smart=true&width=1024&height=768",
-      "subcat": "herramientas"
     },
     {
       "id": "9b96e13bc4cfd83e131d",
@@ -620,144 +1091,14 @@
       "image": "https://resizer.glanacion.com/resizer/v2/JEBQL5CKDFBBHA4E4AP4SJ3QYI.png?auth=5787e768d5b98ffa2432187ad0a1a96491f7dab1f3c2b8547cf2473721424f8a&smart=true&width=1064&height=768"
     },
     {
-      "id": "02f0b49105d9112a8549",
-      "title": "Cuál es la explicación detrás del “superpoder” que posee solo el 2% de la población",
-      "summary": "Cuando somos chicos, la idea de tener un superpoder nos fascina. Volar, hacernos invisibles o mover cosas con la mente suenan como el escenario ideal, sobre todo para los que crecieron viendo Matilda (1996). Pero, aunque esto no existe, sí hay un grupo reducido de la población que tiene una característica biológica tan única que la ciencia la considera una verdadera ventaja evolutiva. Se trata de los pelirrojos, quienes representan apenas alrededor del 2% de los habitantes del planeta. Durante años, esta característica fue motivo de curiosidad y mitos. Sin embargo, la realidad es que esconder este supuesto “superpoder” en el ADN tiene una explicación biológica fascinante y, al mismo tiempo, un lado B que exige bastantes cuidados. Para entender qué hace tan especiales a las personas con el pelo rojo, primero hay que mirar debajo de la piel, específicamente a cómo el cuerpo interactúa con el sol. La clave de todo esto radica en la melanina, el pigmento natural responsable de darle color a nuestra tez, nuestro cabello y nuestros ojos. La función principal de la melanina no es estética; en realidad, actúa como un escudo protector, ya que su trabajo es absorber la energía de la radiación ultravioleta y evitar que esta dañe las células cuando nos exponemos a la luz solar. La gran mayoría de los seres humanos produce un tipo de melanina oscura que funciona como un excelente bloqueador solar natural. Sin embargo, en los pelirrojos ocurre algo distinto debido a una pequeña variación en un gen conocido como MC1R. En lugar de producir ese pigmento oscuro y protector, su cuerpo genera otro tipo de melanina que tiene un tono más rojizo o amarillento. Esta es la razón por la cual este suele venir acompañado de pieles muy pálidas y pecas. Esas pecas son, básicamente, pequeñas “islas” de melanina en un mar de piel que carece de una barrera protectora uniforme. Pero, ¿por qué la naturaleza crearía una piel sin protección solar? Hace miles de años, las poblaciones humanas comenzaron ",
-      "link": "https://www.lanacion.com.ar/ciencia/cual-es-la-explicacion-detras-del-superpoder-que-posee-solo-el-2-de-la-poblacion-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 15:31:20 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/A7OP34YS6RAA5NUOXXP7IB7UKM.jpg?auth=0a23c1fd57348feb9e0758c56cbeb53fc4ac2b158b3d3e40b1277a6644c3eea8&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "924d5a1cf5128c734991",
-      "title": "Audi F1 no usará su segundo crédito para el motor este año, ¿lo hará Honda?",
-      "summary": "Hulkenberg. con el Audi R26, en el GP de Hungría.",
-      "link": "https://www.marca.com/motor/formula1/2026/08/02/audi-f1-usara-segundo-credito-motor-ano-hara-honda.html",
-      "pubDate": "Sun, 02 Aug 2026 15:26:50 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f43a0c296a.jpeg"
-    },
-    {
-      "id": "c7f9e8bbb4f1e7cc1e58",
-      "title": "Pelea masiva por un lugar en la fila deja a 11 pasajeros sin poder abordar un vuelo",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/620274-pelea-masiva-fila-deja-pasajeros-sin-poder-abordar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 02 Aug 2026 15:17:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "00312f5f6902945f8306",
-      "title": "Marruecos impone la ley del silencio sobre el “drama” de las decenas de muertos en la frontera",
+      "title": "Marruecos impone la ley del silencio sobre el drama de las decenas de muertos en la frontera",
       "summary": "Agentes de la Guardia Civil recuperan un cadáver del mar, este sábado en Ceuta.",
       "link": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html",
       "pubDate": "Sun, 02 Aug 2026 15:16:45 GMT",
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/H2KDQ2F7IJDEFC4GTRDC53PJMM.jpg?auth=a6775152b25668c44f14421e9ad160663f987f7750f7e2593b4f06bf01d1b6ea"
-    },
-    {
-      "id": "0160ffed3bb7792380ab",
-      "title": "Soledad Silveyra reveló que ataviesa un duro problema de salud: \"No hay cura\"",
-      "summary": "La actriz contó que arrastra fuertes dolores desde una caída sufrida hace seis meses. Por ese motivo, permanece alejada del teatro mientras continúa con su recuperación.",
-      "link": "https://www.clarin.com/fama/soledad-silveyra-revelo-ataviesa-duro-problema-salud-cura_0_um7tqxTaTA.html",
-      "pubDate": "Sun, 02 Aug 2026 15:15:21 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/08/02/WnnqKP_9m_1200x630__1.jpg"
-    },
-    {
-      "id": "47aa9252714fa3db0a04",
-      "title": "La engañaron con una falsa entrevista de trabajo y apareció asesinada en una playa: el brutal femicidio que conmueve a Mar del Plata",
-      "summary": "El cuerpo de Johana Antonich (24) fue hallado por su hermano cerca de Punta Mogotes. Tenía golpes, heridas de arma blanca y estaba envuelto en una sábana bajo un contenedor. Detuvieron a dos hombres que estaban quemando su ropa.",
-      "link": "https://www.clarin.com/sociedad/enganaron-falsa-entrevista-trabajo-aparecio-asesinada-playa-brutal-femicidio-conmueve-mar-plata_0_v1XibyGse9.html",
-      "pubDate": "Sun, 02 Aug 2026 15:14:40 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/08/02/e5WYjCAGc_1200x630__1.jpg"
-    },
-    {
-      "id": "124f43f8c95437b3bc18",
-      "title": "“Una buena capacidad aeróbica predice mejor la esperanza de vida que algunos análisis de sangre”: el ATHX se abre camino en el entrenamiento híbrido",
-      "summary": "La nueva disciplina de fitness híbrido divide sus 150 minutos en bloques de fuerza, resistencia y trabajo metabólico, con periodos de recuperación. Busca atraer a deportistas menos especializados que CrossFit o Hyrox.",
-      "link": "https://www.clarin.com/internacional/buena-capacidad-aerobica-predice-mejor-esperanza-vida-analisis-sangre-athx-abre-camino-entrenamiento-hibrido_0_U5DBh2gWjO.html",
-      "pubDate": "Sun, 02 Aug 2026 15:13:39 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/02/M8soK7Jan_1200x630__1.jpg"
-    },
-    {
-      "id": "7b6fe69ef46ec64514a3",
-      "title": "Cita de Marco Aurelio, emperador romano y filósofo: \"Cuando te levantes por la mañana, piensa en el privilegio de vivir: respirar, pensar, disfrutar, amar\"",
-      "summary": "La frase resume una de las ideas centrales del estoicismo: valorar la vida cotidiana y concentrarse en aquello que depende de cada persona.",
-      "link": "https://www.clarin.com/estados-unidos/cita-marco-aurelio-emperador-romano-filosofo-levantes-manana-piensa-privilegio-vivir-respirar-pensar-disfrutar-amar_0_oNuvo2nwGd.html",
-      "pubDate": "Sun, 02 Aug 2026 15:13:21 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/14/4OEFaudCM_1200x630__1.jpg"
-    },
-    {
-      "id": "124b633eceb07fb81883",
-      "title": "El Sevilla entra en la puja por Enes Ünal",
-      "summary": "Enes Unal, con el Bournemouth en imagen de archivo.",
-      "link": "https://www.marca.com/futbol/sevilla/2026/08/02/sevilla-entra-puja-enes-uenal.html",
-      "pubDate": "Sun, 02 Aug 2026 15:11:09 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/10/27/68ff3928105ab.jpeg"
-    },
-    {
-      "id": "20937e803bbd07973a7a",
-      "title": "Ministro israelí: \"No existe un pueblo palestino y nunca hubo tal cosa\"",
-      "summary": "\"Presupuestos gigantescos se invierten en difamar al Estado de Israel\", señala Bezalel Smotrich.",
-      "link": "https://actualidad.rt.com/actualidad/620265-ministro-israeli-existir-pueblo-palestino?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 02 Aug 2026 15:09:54 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a6f558759bf5b511f3dcea8.jpg"
-    },
-    {
-      "id": "05bfd8ba5e92b3dd12e8",
-      "title": "VIDEO: Cuando el cielo te lanza una rueda de camión mientras esperas en un semáforo",
-      "summary": "Un video que se ha viralizado en redes sociales muestra el momento en que una rueda de camión sale volando y se estrella contra un automóvil que este miércoles estaba detenido en un semáforo bajo un paso elevado cerca de la localidad de Kepong Indah, en Malasia. Según la grabación de una cámara de tablero, la rueda se desprendió de un camión que circulaba por la autopista Selayang-Kepong y voló directamente hacia el vehículo, causando daños considerables en la parte delantera.",
-      "link": "https://actualidad.rt.com/actualidad/620260-rueda-camion-volando-estrellarse-coche?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 02 Aug 2026 15:09:48 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a6f49ece9ff7151000c22c4.jpg"
-    },
-    {
-      "id": "d197f8534b2b082bd2a7",
-      "title": "Dos helicópteros chocaron en pleno vuelo mientras combatían los incendios forestales en Grecia",
-      "summary": "Ocurrió este domingo en el pequeño pueblo costero de Psathas, en el golfo de Corinto, una zona arrasada por el fuego. Cuatro personas fueron rescatadas con heridas, dos de ellas inconscientes. Hay varios focos activos y se activó el estado de máximas alerta.",
-      "link": "https://www.clarin.com/mundo/helicopteros-chocaron-pleno-vuelo-combatian-incendios-forestales-grecia_0_NpbvH6sj6U.html",
-      "pubDate": "Sun, 02 Aug 2026 15:04:16 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/08/02/yDkhuIGE__1200x630__1.jpg"
-    },
-    {
-      "id": "ae44e384024ae1332ea4",
-      "title": "Confirmado en Texas: cuándo inician las clases y el ciclo escolar 2026 en Houston y San Antonio",
-      "summary": "Las autoridades escolares de las ciudades de Texas confirmaron los cronogramas para el periodo lectivo 2026-2027 . Los distritos de Houston y San Antonio publicaron las fechas oficiales para el retorno de los estudiantes a las clases. Cuándo comienzan las clases en Houston El Distrito Escolar Independiente de Houston (HISD, por sus siglas en inglés) fijó el lunes 10 de agosto como el primer día de clases para el ciclo 2025-2027. Los miembros de la junta escolar ratificaron esta decisión en enero. HISD es el sistema de educación pública de mayor tamaño en el estado y atiende a miles de alumnos cada año. El distrito publicó una versión completa e imprimible del calendario en su portal web para consulta pública. El cronograma académico incluye varios períodos de descanso obligatorios: Acción de Gracias: abarca del 23 al 27 de noviembre. Vacaciones de invierno: comienzan el 21 de diciembre y terminan el 31 de diciembre. Los estudiantes regresan a los salones el martes 5 de enero después de una jornada de capacitación docente el día anterior. Receso de primavera: el calendario reserva la semana del 8 al 12 de marzo. Finalmente, el último día de actividades para los alumnos será el viernes 28 de mayo . En qué fecha arrancan las clases en San Antonio San Antonio cuenta con más de una docena de distritos y cada uno tiene autonomía para fijar su propio calendario escolar. Esta independencia provoca que los niños de un mismo vecindario puedan retomar sus estudios en fechas diferentes. Según San Antonio Moms Network , las fechas de apertura para los principales distritos de la zona son: Northside ISD: 10 de agosto. South San Antonio ISD: 10 de agosto. East Central ISD: 10 de agosto. San Antonio ISD: 12 de agosto. Harlandale ISD: 12 de agosto. Southside ISD: 12 de agosto. Judson ISD: 12 de agosto. Boerne ISD: 12 de agosto. Fort Sam Houston ISD: 12 de agosto. Randolph Field ISD: 13 de agosto. Schertz-Cibolo-Universal City ISD: 13 de agosto. North East ISD: 17 de agosto. New Brau",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/confirmado-en-texas-cuando-inician-las-clases-y-el-ciclo-escolar-2026-en-houston-y-san-antonio-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 15:04:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/6TPOXLUSXBG4FKQHGRSVX5EYJY.jpg?auth=ed03d5d6587adfa2e78ea7a4f3ecdbb7ab45073b9742fba0a00915a5f021d6b6&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "be3514f6a911bdaaf7ea",
-      "title": "Ataques rusos envuelven en llamas buque con carga militar e infraestructura portuaria de Ucrania",
-      "summary": "Los ataques con drones tuvieron lugar en el mar Negro y en el puerto de Nikoláyev.",
-      "link": "https://actualidad.rt.com/actualidad/620273-rusia-golpea-logistica-naval-ucraniana?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 02 Aug 2026 15:02:35 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a6f5d28e9ff7139163a47d4.jpg"
     },
     {
       "id": "c279a32b2418540b51fc",
@@ -781,158 +1122,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "dadcbce8ee50913b2771",
-      "title": "El enunciado del Uscis para reemplazar la green card: “Rechazaremos cualquier formulario que no esté firmado”",
-      "summary": "El Servicio de Ciudadanía e Inmigración de Estados Unidos ( Uscis , por sus siglas en inglés) reiteró un requisito que puede determinar el resultado de una solicitud para reemplazar la green card . La agencia informó que cualquier formulario I-90 presentado sin una firma válida será rechazado y no ingresará al proceso de evaluación. El requisito clave al solicitar un reemplazo de green card ante el Uscis El I-90 es el trámite utilizado por los residentes permanentes para solicitar una nueva tarjeta cuando el documento fue extraviado, robado, sufrió daños o está próximo a vencer. El Uscis permite completar este procedimiento por internet o mediante envío postal . La agencia señaló que el formulario debe contener toda la información obligatoria para que pueda ser procesado. También recordó que los solicitantes deben conservar los documentos originales firmados , ya que podrían ser requeridos durante la revisión del caso. Además, a través de su sitio web , el Uscis indicó como requisito clave la rúbrica del solicitante; si no se cumple con esto, el trámite podría ser denegado: “ Rechazaremos cualquier formulario que no esté firmado ”. El Uscis actualizó las reglas sobre las firmas válidas Desde el 10 de julio entraron en vigor nuevos criterios para determinar qué tipos de firmas serán aceptadas en solicitudes, peticiones y otros documentos migratorios presentados ante el Uscis. La agencia explicó que, como regla general, la rúbrica debe realizarse de forma manuscrita . Entre las opciones admitidas figuran: Firma tradicional El nombre escrito a mano Una marca en forma de “X” Una huella dactilar u otra señal personal, siempre que refleje la intención del solicitante de validar el documento Las modalidades electrónicas únicamente serán aceptadas en aquellos procedimientos en línea donde el Uscis autorice expresamente esa opción . Errores que pueden provocar el rechazo del formulario I-90 del Uscis La agencia indicó que la falta de firma genera el rechazo automático de la ",
-      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-enunciado-del-uscis-para-reemplazar-la-green-card-rechazaremos-cualquier-formulario-que-no-este-nid30072026/",
-      "pubDate": "Sun, 02 Aug 2026 14:58:01 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/WEQNNGW77REVHAEFBUCFCYB3V4.png?auth=e63a18276f701de1fd95ecee8179f78e9c9f9ee0b90ea043898fd45993af69a5&smart=true&width=1376&height=768"
-    },
-    {
-      "id": "273d509e9a5c87952003",
-      "title": "Un piloto de aerolínea explicó qué pasa si los celulares no se ponen en modo avión durante un vuelo: \"Existe la posibilidad de que las ondas causen interferencias\"",
-      "summary": "El peligro no es tan grande como se cree, pero sí obstruyen la comunicación entre las autoridades de la aeronave. En algunas fases del viaje, esto puede resultar muy molesto.",
-      "link": "https://www.clarin.com/internacional/piloto-aerolinea-explico-pasa-celulares-ponen-modo-avion-vuelo-existe-posibilidad-ondas-causen-interferencias_0_nXWXacrt67.html",
-      "pubDate": "Sun, 02 Aug 2026 14:57:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/02/RH16sftWh_1200x630__1.jpg"
-    },
-    {
-      "id": "10312df40b28deabdffd",
-      "title": "Es oficial: en agosto hay un feriado que forma un fin de semana largo en la Argentina",
-      "summary": "Según marca el calendario oficial de feriados de la Argentina 2026 , el próximo lunes 17 de agosto es feriado nacional . Esto se da a raíz de la conmemoración del Paso a la Inmortalidad del General José de San Martín. A raíz de este evento, muchos ciudadanos podrán disfrutar de un fin de semana largo que abarca el sábado 15, domingo 16 y el lunes 17 . Al ser una jornada inamovible en el calendario, los tres días servirán para planificar alguna escapada o armar algún plan para poder disfrutar de un descanso extendido. Quién fue José de San Martín La figura de San Martín resulta central en la historia argentina . El militar y político falleció el 17 de agosto de 1850 . Su trayectoria destaca por liderar la gesta emancipadora que permitió la independencia nacional frente a las milicias españolas. Entre sus hazañas más recordadas figura el cruce de la Cordillera de los Andes, un hito que resultó determinante en la batalla de Maipú. El legado del prócer trasciende las fronteras, pues sus valores de libertad y valentía impactaron de manera directa en los procesos de independencia de Chile y Perú. La trayectoria militar del Libertador incluye logros significativos, como la creación del Regimiento de Granaderos a Caballo y el triunfo estratégico en la batalla de San Lorenzo . Durante su gestión, San Martín ocupó el cargo de gobernador de Cuyo y organizó el Ejército de los Andes. En 1817, este cuerpo militar realizó el histórico cruce hacia Chile, donde obtuvo la victoria en la batalla de Chacabuco. Posteriormente, en 1818 y 1821, el estratega lideró las campañas que terminaron con la presencia colonial española en Chile y Perú, bajo la convicción de que la libertad regional resultaba fundamental para consolidar la soberanía de las Provincias Unidas del Río de la Plata. La vida personal del general también contiene episodios de gran carga dramática. Su esposa murió a edad temprana mientras él cumplía funciones lejos de Buenos Aires , situación que impidió un último encuentro",
-      "link": "https://www.lanacion.com.ar/feriados/2026/es-oficial-en-agosto-hay-un-feriado-que-forma-un-fin-de-semana-largo-en-la-argentina-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:53:34 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/RAAOBS2T6BGJTC5QO4WPHKUKR4.jpg?auth=643af6852f91d5c7b1dc7e0e2077df45a32a18cfe71e09ffd998174aa735f851&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "550eb609a3ccd15b1c61",
-      "title": "Nació en Illinois, se convirtió en presidenta de SpaceX y tiene una fortuna que se acerca a la de JB Pritzker",
-      "summary": "Mientras el gobernador de Illinois, J.B. Pritzker , figura entre los políticos más ricos de Estados Unidos, otra personalidad nacida en el estado también integra el ranking de multimillonarios de Forbes. Se trata de Gwynne Shotwell , presidenta y directora de operaciones ( COO, por sus siglas en inglés ) de SpaceX , cuyo patrimonio aumentó de la mano del crecimiento de la compañía aeroespacial fundada por Elon Musk . Cómo Gwynne Shotwell construyó su fortuna en SpaceX Según el ranking en tiempo real de Forbes , Shotwell posee una fortuna estimada en US$1500 millones , mientras que J.B. Pritzker alcanza los US$4300 millones . Ambos figuran entre las mayores fortunas de EE.UU. , aunque llegaron a ese lugar por caminos muy distintos. La ejecutiva nació en Evanston, Illinois, en 1963. Obtuvo una licenciatura en Ingeniería Mecánica y una maestría en Matemáticas Aplicadas en la Universidad Northwestern. Antes de incorporarse a SpaceX , desarrolló su carrera en la industria aeroespacial y fue directora de sistemas espaciales en Microcosm . Ingresó a SpaceX en 2002 , cuando la empresa daba sus primeros pasos. Fue una de las primeras empleadas y quedó al frente del desarrollo comercial y de la relación con clientes públicos y privados. Con el tiempo asumió la presidencia y la dirección de operaciones de la compañía. Forbes estima que Shotwell posee alrededor del 0,3% de SpaceX, participación que explica la mayor parte de su patrimonio. La ejecutiva no confirmó públicamente ese cálculo. Cómo SpaceX impulsó la fortuna de Gwynne Shotwell La fortuna de Shotwell aumentó con la valuación de SpaceX y con su posterior salida a bolsa. En febrero de 2026, la compañía adquirió xAI mediante una operación que valoró el negocio combinado en aproximadamente US$1,25 billones . Tras la cotización pública, la capitalización de SpaceX rondaba los US$1,5 billones al 27 de julio, aunque esa cifra cambia con el precio de las acciones. La operación buscó combinar las capacidades espaciales y de co",
-      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/nacio-en-illinois-se-convirtio-en-presidenta-de-spacex-y-tiene-una-fortuna-que-se-acerca-a-la-de-jb-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:47:59 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/MG2FWSIORNGVRO2HUBHDBEHXNQ.jpg?auth=4dc32b4594cb2e88691f7d2c9649a97205d3d92dc799d1a1379100c30d0ba13b&smart=true&width=2000&height=1333",
-      "subcat": "empresas"
-    },
-    {
-      "id": "e2d45bd5abf6d91c0935",
-      "title": "El loco plan de LeBron: vivir en Nueva York e ir a los partidos de los Sixers en helicóptero",
-      "summary": "LeBron James, vestido de calle durante un encuentro.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/08/02/loco-plan-lebron-vivir-nueva-york-e-partidos-sixers-helicoptero.html",
-      "pubDate": "Sun, 02 Aug 2026 14:46:40 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f3c03d7c6c.jpeg"
-    },
-    {
-      "id": "b21d23671fbeacd2e281",
-      "title": "Lanzan una moto off-road que cuesta menos de 14 millones de pesos",
-      "summary": "El mercado de las motos atraviesa un año de fuerte crecimiento en la Argentina y las marcas continúan ampliando su oferta. En ese contexto, Triumph presentó la nueva Scrambler 400 XC, una versión con mayores aptitudes para el manejo fuera del asfalto que se suma a la familia Scrambler de la marca británica. Cómo se decidió la apertura de la primera planta de camiones en la Argentina tras 15 años de abstinencia Representada en el país por Grupo Corven, Triumph realizó la presentación oficial del modelo durante el Travel Fest, un evento orientado al mundo de los viajes y la aventura. Con este lanzamiento, la marca busca reforzar su presencia dentro del segmento con una moto concebida para ofrecer un mejor desempeño en caminos de tierra sin resignar la versatilidad para el uso cotidiano. La nueva Scrambler 400 XC toma como base a la Scrambler 400 X, aunque incorpora una serie de componentes específicos para mejorar su rendimiento fuera del asfalto, manteniendo el diseño característico de la línea. En lo que refiere a la motorización, está impulsada por un monocilíndrico de 398 cc, DOHC, refrigerado por líquido, que entrega 40 CV a 8000 rpm y un torque de 37,5 Nm a 6500 rpm; todo asociado a una caja de seis velocidades con embrague asistido y anti-rebote. En el apartado ciclístico incorpora una horquilla invertida de 43 mm con 150 mm de recorrido y un monoamortiguador trasero con depósito externo y regulación de precarga. También ofrece frenos con ABS en ambas ruedas, control de tracción y llantas de rayos de 19 pulgadas adelante y 17 pulgadas atrás. Por su parte, la posición de manejo es erguida, mientras que el asiento se ubica a 835 mm del suelo. El tanque de combustible tiene una capacidad de 13 litros y el peso en orden de marcha es de 186 kg. Entre los elementos desarrollados para potenciar su uso fuera del asfalto se destacan el cubre cárter de aluminio, cubre faro, guardabarros delantero elevado, deflector frontal del color de la carrocería, cubremanos, defensas",
-      "link": "https://www.lanacion.com.ar/autos/lanzan-una-moto-off-road-que-cuesta-menos-de-14-millones-de-pesos-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:36:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/5IGXNMFSHNHKLBVR6EN2S6MUCI.jpg?auth=62295db9a0c2875e8f12b370a6c1ab55f90c539b1ea7a929de5d3102ac9e4ec4&smart=true&width=5472&height=3648"
-    },
-    {
-      "id": "3601ac89c0e53193b560",
-      "title": "Miguel Ángel Pichetto aseguró que Victoria Villarruel será candidata a presidente en 2027 y dijo que Bullrich no tiene lugar en La Libertad Avanza",
-      "summary": "El diputado nacional también habló de la necesidad de armar un \"frente nacional\" con eje en el peronismo.",
-      "link": "https://www.clarin.com/politica/miguel-angel-pichetto-aseguro-victoria-villarruel-candidata-2027-dijo-bullrich-lugar-armado-libertad-avanza_0_87hxXwBSS0.html",
-      "pubDate": "Sun, 02 Aug 2026 14:34:04 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/02/676ydvKd-_1200x630__1.jpg"
-    },
-    {
-      "id": "10375cbb9bb954b3f322",
-      "title": "River vs Rosario Central, por el Torneo Clausura, EN VIVO: a qué hora es, formaciones y cómo ver el partido",
-      "summary": "El Millonario, que suma dos derrotas en el arranque del campeonato, vuelve a presentarse ante sus hinchas en el Monumental. Seguí el minuto a minuto en Clarín.",
-      "link": "https://www.clarin.com/deportes/river-vs-rosario-central-torneo-clausura-vivo-hora-formaciones-ver-partido_0_ahjuyBAdUO.html",
-      "pubDate": "Sun, 02 Aug 2026 14:33:32 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/07/31/_l7HuuyC-_1200x630__1.jpg"
-    },
-    {
-      "id": "2aca1a9ae1c78e95b506",
-      "title": "Mendoza: evacuaron a 200 turistas de Puente del Inca tras un inesperado temporal de nieve",
-      "summary": "Las autoridades activaron el protocolo de emergencia para evitar que quedaran varados. Fueron evacuados hasta la localidad de Penitentes. Algunos requirieron asistencia médica.",
-      "link": "https://www.clarin.com/sociedad/mendoza-evacuaron-200-turistas-puente-inca-inesperado-temporal-nieve_0_tByUCiTwsN.html",
-      "pubDate": "Sun, 02 Aug 2026 14:30:19 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/02/uTc0uWD-D_1200x630__1.jpg"
-    },
-    {
-      "id": "2095c012be9e09430e35",
-      "title": "Rosalía en una de las cafeterías más prestigiosas de Palermo: almorzó ojo de bife con papas a caballo y tres postres insignia de la casa",
-      "summary": "La cantante española pasó varias horas en Oli, el restaurante y cafetería de Olivia Saal. Su visita sorprendió tanto al personal como a los clientes que estaban en el lugar.",
-      "link": "https://www.clarin.com/gourmet/rosalia-cafeterias-prestigiosas-palermo-almorzo-ojo-bife-papas-caballo-postres-insignia-casa_0_tMyPIz5uJh.html",
-      "pubDate": "Sun, 02 Aug 2026 14:25:47 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/02/qIGkPQyoS_1200x630__1.jpg"
-    },
-    {
-      "id": "594024fa38476a392ed3",
-      "title": "Pajari logra una victoria soñada en casa",
-      "summary": "Pajari y Salminen, tras ganar el Rally de Finlandia.",
-      "link": "https://www.marca.com/motor/rallies/2026/08/02/pajari-logra-victoria-sonada-casa.html",
-      "pubDate": "Sun, 02 Aug 2026 14:22:23 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f332b02cc1.jpeg"
-    },
-    {
-      "id": "c4c6a3dc54bd077c23d7",
-      "title": "Rosalía, la única: del “Madre mía, qué lío el otro día” al concierto que nunca olvidaremos",
-      "summary": "Bailarina, monja, pecadora, hábil declarante, melancólica, cantora y cantaora, triste, feliz, estrella pop, reina del tigueraje y por sobre todas las cosas alma sensible y antena que sabe sintonizar mejor que nadie lo que piden estos tiempos. Rosalía es todo eso y mucho más, una cebolla de mil capas, una mamushka a la que siempre le queda una figura por develar. Conocimos a la Rosalía de El mal querer , aquella que actualizaba la tradición flamenca; conocimos a la Rosalía de Motomami , la que se convirtió en estrella pop global delante de nuestras narices. Y ahora nos pusimos al día con la Rosalía de Lux , la que aborda, juega, coquetea con la iconografía religiosa pero de un modo distinto al utilizado por Madonna en el siglo pasado. Aquí la catalana no busca horrorizar ni provocar para que “hablen las redes”. Lo que busca es construir una catedral, un edificio imponente para habitarlo a su antojo. Por momento la veremos pequeña, una miniatura en escena que buscará escurrirse entre nuestros ojos. Por otros la veremos gigante, una figura no solo aumentada por el poder del zoom sino principalmente por su portento vocal, por esa voz de hielo y fuego, como la han definido con poética exactitud en su patria. La “Overture” primero y la exquisita “Sexo, violencia y llantas” después dan inicio al primer concierto de Lux en Buenos Aires. En total serán cuatro hasta el 6 de este agosto que acaba de empezar. Antes de la música, la gran protagonista de la noche emerge de una caja de madera etiquetada como “frágil”. Canta aquello de “Quién pudiera vivir entre los dos. Primero amaré el mundo. Y luego amaré a Dios” (“Sexo, violencia y llantas”) y sin pausas continúa con “Reliquia” mientras a sus espaldas se arma una escenografía en tiempo real. La gente quiere gritar pero lo que prima es el asombro. Si la idea es presentar Lux como obra y sumarle piezas de sus discos anteriores, entonces que mande el material a mostrar. Acompañada por la Heritage Orchestra, Rosalía siguió el plan ",
-      "link": "https://www.lanacion.com.ar/espectaculos/musica/rosalia-la-unica-del-madre-mia-que-lio-el-otro-dia-al-concierto-que-nunca-olvidaremos-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:14:34 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/J3U73DX3JZGOXM3VTQCWWCAOB4.jpg?auth=e838f51493d091d0c9f8cde92adc20db796b8769f4d891dea9318f585a8894f5&smart=true&width=979&height=653"
-    },
-    {
-      "id": "ef04c5d3d5b1de37d1ea",
-      "title": "Crearon una reserva natural privada en una isla abandonada del Delta",
-      "summary": "A tan solo 30 minutos de lancha desde Tigre, Isla Chaná ofrece una experiencia poco habitual en el Delta. Concebida como una reserva natural privada, la isla combina conservación, hospitalidad y propuestas de bienestar en un entorno donde el silencio y la biodiversidad son protagonistas. La historia comenzó hace casi dos décadas, cuando sus propietarios buscaban un lugar donde desembarcar y vivir el Delta de una manera más profunda. Acostumbrados a recorrer la zona en lancha, encontraron una isla abandonada que antiguamente era conocida como “la playa”. El nombre no era casual: el lugar posee un raro banco de arena natural, formado por la influencia del río Uruguay, algo poco frecuente en el Delta, donde la mayoría de las playas fueron generadas artificialmente. Lo que terminó de enamorarlos fue la amplitud del paisaje . A diferencia del típico arroyo angosto y sombreado, Isla Chaná se abre hacia un gran frente de agua, con vistas despejadas. La reserva incluye un cañaveral, especie naturalizada, además de otras exóticas que son típicas del paisaje del Delta. Durante el recorrido aparecen puentes artesanales realizados en madera, material que se mimetiza con el entorno. La historia del lugar está atravesada por relatos que forman parte del imaginario isleño. Muy cerca de la isla se encuentran los llamados “Bajos del Temor”, una zona de bancos de arena donde antiguamente encallaban embarcaciones que navegaban entre Colonia del Sacramento, Montevideo y Buenos Aires. Según la tradición oral, estos accidentes eran aprovechados por piratas que saqueaban los barcos varados. La figura de Mariquita sobresale en las leyendas: una mujer que habría sido la más temida de la región. Cuentan que, tras ser capturada junto a su banda, fue condenada a morir en estas aguas. Algunos isleños aseguran que, en noches de luna llena, todavía pueden escucharse los ecos de aquellos gritos . Nueva vida Desde su adquisición, Isla Chaná fue pensada como un espacio de conservación . No se permit",
-      "link": "https://www.lanacion.com.ar/revista-jardin/encontraron-una-isla-abandonada-y-crearon-una-reserva-natural-privada-donde-el-paisaje-del-delta-se-nid31072026/",
-      "pubDate": "Sun, 02 Aug 2026 14:11:40 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/5KASR6LXDZDGTP6R27BNC7RD5A.jpg?auth=cbefe8a095f396b462cb94a153479be2b74ff652c2693d2d8ec87bc3d1b53dfb&smart=true&width=2002&height=1333",
-      "subcat": "mercado"
-    },
-    {
-      "id": "dbf28efaeddde034feb7",
-      "title": "Se conoció el fixture desde la 4a hasta la 7a fecha de la Liga Profesional de Fútbol",
-      "summary": "La Liga Profesional de Fútbol de la AFA confirmó este fin de semana cómo será la la programación de las fechas 4 a la 7 del Torneo Clausura con varios cruces muy calientes entre los que se destacan el duelo entre Boca y Vélez , por la cuarta jornada, el clásico entre San Lorenzo y Huracán y Argentinos Juniors con Racing . Además, en la quinta fecha se concentrarán las miradas en La Plata, ya que Estudiantes recibirá a Gimnasia , en Núñez, River jugará ante Argentinos y en el Sur, Lanús se va a enfrentar con Independiente . En la sexta jornada (Interzonal) la acción estará enfocada en el clásico que se va a disputar en Avellaneda entre Racing y Boca , mientras que en el Monumental, el conjunto millonario recibirá a Vélez . Y por la séptima jornada, en la Bombonera, el equipo de Rodolfo Arruabarrena se enfrentará con Lanús , mientras que en el Sur, Banfield abrirá la jornada del 30 de agosto con el cruce con River . Fecha 4 Viernes 7 de agosto A las 19.30, Rosario Central vs. Aldosivi (Zona B) A las 21.45, Independiente Rivadavia vs. Estudiantes (Río Cuarto) (Zona B) Sábado 8 de agosto A las 14.45, Deportivo Riestra vs. Estudiantes (Zona A) A las 14.45, Atlético Tucumán vs. Sarmiento (Zona B) A las 17, Tigre vs. River (Zona B) A las 19.15, Boca vs. Vélez (Zona A) A las 21.30, Independiente vs. Platense (Zona A) A las 21.30, Instituto vs. Gimnasia (Mza.) (Zona A) Domingo 9 de agosto A las 15, San Lorenzo vs. Huracán (Interzonal) A las 17.45, Defensa y Justicia vs. Newell’s (Zona A) A las 17.45, Gimnasia vs. Barracas Central (Zona B) A las 20.15, Argentinos vs. Racing (Zona B) Lunes 10 de agosto A las 19, Banfield vs. Belgrano (Zona B) A las 21.15, Unión vs. Central Córdoba (Zona A) Martes 11 de agosto A las 21, Talleres vs. Lanús (Zona A) Fecha 5 Viernes 14 de agosto A las 20.30, Racing vs. Banfield (Zona B) Sábado 15 de agosto A las 14.30, Aldosivi vs. Tigre (Zona B) A las 14.30, San Lorenzo vs. Unión (Zona A) A las 16.45, Estudiantes vs. Gimnasia (Interzonal) A las 1",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/se-conocio-la-programacion-desde-la-4a-a-las-7a-fecha-de-la-liga-profesional-del-futbol-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:06:28 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/O6TXUJRIZJAJVIAXKF7Q4UBHWY.JPG?auth=d400f45c5f57eea75a6fa1e9df41d1261589ff6f0639234c0951a3e4b9bfafe7&smart=true&width=2500&height=1644"
-    },
-    {
-      "id": "a1d46056cb43a2ea068d",
-      "title": "El climatólogo que alerta de la epidemia de eventos extremos: “El planeta en el que nosotros nacimos ya no existe”",
-      "summary": "“No vamos a recuperar, al menos en ningún futuro predecible, el clima y la atmósfera ya perdidos”, dijo a BBC Mundo el climatólogo ecuatoriano Raúl Cordero . “Pero eso no significa que uno tenga que dejarse estar. No, porque todavía podemos perder más ”, agregó. Cordero, quien trabajó durante años en Chile y realiza numerosas investigaciones en la Antártica, es actualmente profesor de la Universidad de Groningen en Países Bajos. Desde incendios a olas de calor e inundaciones, “hay una epidemia de eventos extremos alrededor del mundo , que están volviéndose cada vez más intensos y cada vez más frecuentes”, señaló. Los 11 años comprendidos entre 2015 y 2025 fueron los más cálidos jamás registrados, según un informe de marzo de la Organización Meteorológica Mundial. Cordero explicó por qué el hemisferio norte se está calentando casi al doble de rápido que el hemisferio sur , qué esperar del efecto combinado del cambio climático y El Niño, y cómo, a pesar de todo, encuentra motivos de esperanza. Al presentar su informe de este año del estado del clima en el Reino Unido, el Servicio Meteorológico británico dijo que “el clima del siglo XX ya no existe”. ¿Está de acuerdo con esto? Sí, estoy plenamente de acuerdo. El clima en último término depende de la atmósfera, y la atmósfera con la que nacimos usted y yo ya no existe . El planeta en el que nosotros nacimos ya no existe. Cambiamos la composición atmosférica del planeta con las emisiones de gases de efecto invernadero . Y no lo cambiamos solo un poco: la concentración de CO2 , el principal gas de efecto invernadero, es hoy un 50% superior a la que existía hace poco más de un siglo. Si uno cambia en esos tremendos valores la composición atmosférica del planeta, el clima va a cambiar. Y nunca va a volver a ser el que era hasta que ese 50% extra de CO2 disminuya. Entonces no solamente el clima que tenemos hoy es diferente. La atmósfera es diferente y hay algo todavía peor: no vamos a recuperarlos, al menos en ningún futuro ",
-      "link": "https://www.lanacion.com.ar/sociedad/el-climatologo-que-alerta-de-la-epidemia-de-eventos-extremos-el-planeta-en-el-que-nosotros-nacimos-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:06:08 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/DEVVRUY4SVDI5D2WGQOTGOTLYQ.jpg?auth=76634d55fcbab9acc990b202a08e96c9a19e0daec3566d85dfea109c7e2b974a&smart=true&width=800&height=450"
-    },
-    {
       "id": "eab0e67db64706c5bfc0",
       "title": "Europa obliga desde hoy a etiquetar los deepfakes",
       "summary": "Desde hoy, 2 de agosto de 2026, los deepfakes que puedan pasar por imágenes, vídeos o grabaciones auténticas deberán identificarse claramente cuando se publiquen en la Unión Europea . Empiezan a aplicarse las obligaciones de transparencia del artículo 50 de la Ley de Inteligencia Artificial , concebidas para que sepamos cuándo estamos viendo o escuchando algo creado o manipulado mediante IA antes de aceptarlo como real. La medida responde al aumento de fraudes, suplantaciones, campañas de desinformación y contenidos capaces de atribuir a una persona palabras o acciones que nunca pronunció ni realizó. Conviene aclarar desde el principio que la UE no obliga a colocar una advertencia visible sobre cualquier creación realizada con inteligencia artificial . La definición legal de deepfake comprende imágenes, audios o vídeos generados o manipulados mediante IA que se asemejan a personas, objetos, lugares, entidades o acontecimientos y que podrían parecer auténticos o veraces . Por tanto, el contexto resulta fundamental: una grabación falsa de un político anunciando una decisión inexistente encaja claramente dentro de la categoría, mientras que una escena fantástica que nadie interpretaría razonablemente como real no queda sometida automáticamente a las mismas exigencias. La regulación establece dos responsabilidades diferentes que no debemos confundir. Por un lado, los proveedores de sistemas capaces de generar o manipular texto, imágenes, audio y vídeo deberán incorporar señales legibles por máquinas que permitan detectar su origen artificial. Pueden recurrir a metadatos, marcas de agua digitales u otros métodos técnicamente eficaces, interoperables y suficientemente robustos. Esta obligación afecta a la propia herramienta y busca que plataformas, verificadores y otros sistemas puedan reconocer automáticamente el contenido sintético, aunque la señal no resulte visible para una persona. Los sistemas introducidos en el mercado antes del 2 de agosto disponen, únicamente par",
@@ -944,16 +1133,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "9ce628b5235a32fb8b68",
-      "title": "Ya pasó en 1998: el recuerdo de El Niño que vuelve a encender las alarmas",
-      "summary": "La mayoría de los pronósticos climáticos apuntan al desarrollo de un evento El Niño fuerte durante la primavera y verano próximos . Si se diera un fenómeno similar al de 1998, se desencadenarían graves problemas en los campos y en los pueblos, sobre todo de la cuenca que arranca en el sur de Córdoba, pasa por La Picasa y afecta al oeste y centro de Buenos Aires. Ese Niño aniquiló los caminos durante 18 meses y provocó la migración de mucha gente que trabajaba en los campos hacia las ciudades . Ante esa posibilidad, en los campos habría que tomar medidas externas e internas. “ El primer paso sería que los productores aguijoneen a los municipios para que realicen todos los trabajos pendientes en los caminos -alteos, colocación de alcantarillas, etc.- ahora, que es el momento en que se pueden hacer evitando tener que trabajar en el barro, cuando todo se complica”, propone Juan Balbín, productor de General Villegas, ex presidente de CREA y del INTA . En todas las zonas los productores saben dónde se generan los problemas de caminos ante lluvias fuertes y habría que comenzar los trabajos ya para evitar que esos fenómenos se repitan. Se puso en venta por US$1: la histórica fábrica Vassalli ya está bajo el control de un nuevo grupo Dentro de los campos se pueden desarrollar estrategias para enfrentar lluvias extraordinarias. Balbín está asegurando el tránsito en los caminos internos y no descarta crear playones para almacenamiento de granos si no se tienen vías para salir con ellos. En los años con evento El Niño, en la zona de este empresario, la cosecha fina no dio buenos resultados porque se entregó grano de baja calidad por lavado y la soja de segunda también fue muy afectada por los excesos de humedad. “Las reglas tienen que ser idénticas para todos”, dijo el CEO de Nestlé Por esa razón, en los lotes de mediana fertilidad, Balbín está pensando en sustituir la oleaginosa por sorgo, un cultivo que puede soportar en mejores condiciones lluvias repetidas a fines de marzo-",
-      "link": "https://www.lanacion.com.ar/economia/campo/ya-paso-en-1998-el-recuerdo-de-el-nino-que-vuelve-a-encender-las-alarmas-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:01:51 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/AOFE2ISJ55B4XPACPTWBS2PZLI.gif?auth=6384fa47dbfb8efac31055864957aa064ed422b6ece139547cbc5fe356d98984&smart=true&width=1280&height=720"
-    },
-    {
       "id": "8012efdfdf02746ad383",
       "title": "‘Mother Mary’, crítica: Anne Hathaway encarna la estrella pop definitiva y falla al hacerlo",
       "summary": "Mother Mary evita ser un drama musical convencional . Y lo hace, planteando desde sus primeras escenas que su protagonista ( una misteriosa Anne Hathaway ) es mucho más que una estrella. En realidad, el director y guionista David Lowery enfoca la idea desde la posibilidad de que esta cantante seductora sea algo más que una mujer. Por lo que el guion, intenta mostrar que la protagonista, una combinación de Madonna y Sia, es tanto una artista talentosa como algo más tenebroso. De hecho, las mejores partes de Mother Mary ocurren cuando el director plantea directamente una posible doble lectura para su misterioso personaje. A mitad de camino entre una diva y una especie de sacerdotisa, el personaje de Hathaway es inquietante. Pero además, un símbolo para ideas más complejas. Para eso, analiza la posibilidad de que la celebridad en la actualidad sea una especie de devoción cercana a un culto. Uno, además, que consume a los fanáticos desde una experiencia casi religiosa. Por lo que Mother Mary muestra la cultura de la celebridad desde una perspectiva casi ritual. Un escenario en que el éxito deja de ser un objetivo profesional para convertirse en una fuerza capaz de alterar la percepción de la realidad. Para eso, en lugar de explicar de inmediato quién es Mother Mary, la cinta permite que el personaje exista como una presencia que domina cada espacio antes incluso de pronunciar una palabra. Esa decisión cambia por completo la experiencia del espectador. No importa tanto la biografía de la cantante como el efecto que produce sobre el mundo. Un concepto que la película intentará explorar varias veces, no siempre con buenos resultados. Una mirada a la fama desde un ángulo perverso en ‘Mother Mary’ David Lowery utiliza esa idea para plantear una pregunta incómoda. ¿Qué ocurre cuando una sociedad deposita toda su necesidad de creer en una persona de carne y hueso? La propuesta funciona porque jamás presenta la admiración como un fenómeno superficial. El director sugiere que ex",
@@ -962,58 +1141,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Mother-Mary.jpg?fit=1024%2C637&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "62e8ceff32c42b62996f",
-      "title": "Qué conviene más comprar un departamento nuevo o un usado: lo que hay que saber antes de tomar la decisión",
-      "summary": "Una propiedad usada en la Ciudad de Buenos Aires es, en promedio, un 32,6% más barata que una a estrenar , según el informe de Zonaprop de junio. Mientras el metro cuadrado de una unidad nueva se ubica en US$2945, el de una usada cotiza en US$2221. La diferencia de valor entre ambas tipologías es amplia. Pero, lo que realmente llama la atención surge al analizar barrio por barrio : en algunos casos la diferencia de valores incluso supera el 100%. Lionel Scaloni, director técnico de la selección argentina: así es su casa en España, su refugio sin lujos “La brecha se amplió y hoy se encuentra entre los niveles más elevados de los últimos años ”, explica Candelaria Robaina, de D´Aria Propiedades. Hace un año, un departamento a estrenar costaba 28,4% más que uno usado: el metro cuadrado nuevo se ubicaba en US$2846 y el usado en US$2216, una diferencia 4,2 puntos porcentuales menor que la actual. Si la comparación se extiende a cinco años atrás, el contraste es todavía más marcado: la brecha era de apenas 10,8%, casi tres veces inferior a la de hoy. ¿La explicación? Mientras el aumento del costo de construcción impactó de forma directa en el metro a estrenar, las propiedades usadas ajustaron sus precios al alza con mayor lentitud , explica Alan Flexer, Gerente Sucursal San Isidro de Inmobiliaria Narvaez. “La recuperación de la demanda y el renovado interés por los desarrollos también contribuyeron a sostener valores más altos en las unidades nuevas”, agrega. Pero el diferencial no responde únicamente a la antigüedad. “No estamos comparando solamente años: estamos comparando dos productos distintos ”, explica Sebastián Suárez, CEO y fundador de FILABE Desarrollos. Según detalla, en una unidad nueva también se pagan el costo actual de construcción, el valor de la tierra, los honorarios, los impuestos y la financiación del desarrollo, además de mejores distribuciones, eficiencia energética, instalaciones nuevas y menores costos de mantenimiento. En otras palabras, la brecha",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/que-conviene-mas-comprar-un-departamento-nuevo-o-un-usado-lo-que-hay-que-saber-antes-de-tomar-la-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/6SNSSGX2ANEI7AMM2OLVUYXRCI.jpg?auth=0602df61e6e0513c8ea169351148aa7a8c38d46086ad5f2a0233c58105da494b&smart=true&width=2000&height=1331",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "a1b86165b0a88c4bd35a",
-      "title": "Alquileres en Chicago: cuándo los propietarios tendrían que pagar hasta US$5000 por no renovar un contrato",
-      "summary": "El alcalde de Chicago, Brandon Johnson , presentó una propuesta para reformar la ordenanza que regula los derechos y las obligaciones de propietarios e inquilinos desde hace cuatro décadas. Entre sus disposiciones, el plan podría exigir pagos de reubicación de entre 3000 y 5000 dólares cuando determinados arrendadores decidan no renovar un contrato sin que exista una falta del ocupante. En qué consiste la propuesta de Johnson en Chicago y por qué impactaría en propietarios Johnson presentó el plan “Protecting Renters Ordinance” (PRO) ante el Concejo Municipal. Actualmente, los propietarios no están obligados a explicar por qué deciden no renovar un contrato. Bajo la propuesta PRO, deberían informar una causa válida y pagar asistencia de reubicación cuando el inquilino no sea responsable de la terminación. Según el Chicago Sun-Times , el pago rondaría entre US$3000 y US$5000 para la mayoría de los propietarios alcanzados, aunque el monto dependería de las condiciones previstas en la ordenanza. La asistencia podría corresponder cuando el propietario decida no renovar para demoler el edificio, convertirlo en condominios o realizar una rehabilitación importante, siempre que el inquilino no haya provocado la terminación del contrato. Los defensores del plan afirman que estas sumas mitigan el impacto del desplazamiento forzado . Según esta postura, el dinero ayuda a las familias a costear los depósitos y mudanzas en un mercado costoso. A qué propietarios afecta la propuesta del alcalde Johnson en Chicago El plan de Johnson mantiene la exención vigente para los propietarios que viven en edificios de seis unidades o menos. Esas propiedades quedarían fuera de la mayoría de las obligaciones contempladas por la ordenanza. La mayoría de los propietarios que no entren en esa exención quedarían alcanzados por las nuevas obligaciones. Concejales y representantes del sector inmobiliario advierten que los costos adicionales podrían trasladarse a los alquileres , mientras que organiz",
-      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/alquileres-en-chicago-cuando-los-propietarios-tendrian-que-pagar-hasta-us5000-por-no-renovar-un-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 14:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/PCQK4LAFY5BDNFKI5C5LAG4CSQ.jpg?auth=9cefc11acc98059ba6723bd4588b5f501a97e09f001db47588c18fd9701f2881&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "bfca6347ef6e95b3f0fa",
-      "title": "Quién es Néstor Godoy, el hombre que confesó haber asesinado a su hijo en Rafael Calzada",
-      "summary": "El hallazgo del cuerpo de un niño de 12 años en la localidad bonaerense de Rafael Calzada dio un nuevo giro luego de que el padre del menor se entregara a la policía y confesara haber cometido el crimen . Néstor Godoy , de 41 años, quedó detenido y deberá declarar en la causa en la que es sospechoso por homicidio agravado por el vínculo . En sus redes sociales, el principal acusado se mostraba como un gran aficionado al rock y era bajista en varias bandas, incluida una tributo al conjunto argentino Virus. Además de imágenes y videos de sus presentaciones y shows, Godoy también compartía numerosas fotos de su hijo Nahuel , a quien este domingo por la madrugada confesó haber asesinado. “Hoy hace 10 años que viniste a nuestras vidas, la peleaste para estar hoy con nosotros. Te miro y no puedo creer las similitudes que nos identifican como padre e hijo”, escribió en un posteo para el cumpleaños del niño. En otro, junto a una foto de ambos, publicó: \" Amor que no se puede reemplazar “. Godoy estaba separado de la madre del menor , Cristina Mónica R., quien vivía en el partido de Lanús con el niño. A partir de lo acordado en el régimen de visitas, el hombre retiraba a su hijo todos los viernes para pasar el fin de semana juntos y luego debía regresarlo los domingos. La mujer declaró que, 48 horas antes del presunto filicidio, se presentó en la Comisaría de la Mujer y la Familia de Lanús para solicitar medidas de protección para ella y su hijo. Según afirmó, Godoy la amenazaba con matar al niño para “vengarse de ella” . Aseguró que no le tomaron la denuncia y que le pidieron que se retirara del lugar. El crimen Godoy vivía en una casa ubicada en el fondo del terreno que compartía con su madre, Ofelia Leiva, en donde los efectivos hallaron el cuerpo del niño. La mujer de 80 años fue quien autorizó el ingreso de la policía luego de un llamado a la línea de emergencias 911. De acuerdo con el parte policial, cuando los agentes llegaron la mujer estaba sola y Godoy ya no se enc",
-      "link": "https://www.lanacion.com.ar/seguridad/quien-es-nestor-godoy-el-hombre-que-confeso-haber-asesinado-a-su-hijo-en-rafael-calzada-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 13:58:27 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/VHP7CTWPNFG6NJCRXTS2AG33YA.jpg?auth=9f4c87fbf480b9f972de80ceed4b78e444a64fe7b7aa2eed0dd624234e1e8647&smart=true&width=834&height=556",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "4de3f9e7a66a2a7ee49a",
-      "title": "Aumentan los boletos de colectivos, subte y trenes en AMBA: cuánto costará viajar desde el 1° de agosto",
-      "summary": "A partir del 1° de agosto , viajar en el Área Metropolitana de Buenos Aires (AMBA) será más caro. Los boletos de colectivos, subtes y trenes volverán a incrementarse como parte de los esquemas de actualización tarifaria que aplican tanto el Gobierno nacional como las administraciones de la Ciudad y la provincia de Buenos Aires. Las subas impactarán en millones de pasajeros que utilizan diariamente el transporte público para trasladarse dentro de todo el AMBA y se suman a los ajustes que vienen registrándose durante los últimos meses. ¿Cuánto costará el tren en agosto? Las tarifas de los trenes metropolitanos tendrán un incremento aproximado del 11,63% . Para quienes cuenten con la tarjeta SUBE registrada , los valores quedarán de la siguiente manera: Primera sección: $480 . Segunda sección: $624 . Tercera sección: $768 . En tanto, quienes abonen el viaje sin una SUBE nominada deberán pagar una tarifa considerablemente más alta. El boleto en efectivo pasará a costar $1600 . ¿Cuánto costará el colectivo en agosto? Los colectivos que circulan en el Área Metropolitana también tendrán una actualización tarifaria del 3,9% desde el comienzo de agosto. El incremento surge de la fórmula de actualización vigente, que contempla el último dato del Índice de Precios al Consumidor (IPC) informado por el Indec —que en junio fue del 1,9% — más un adicional del 2% destinado a cubrir los costos operativos del sistema. De esta manera, quienes viajen en las líneas que dependen de la provincia de Buenos Aires y utilicen una SUBE registrada pagarán un boleto mínimo de $1105,48 . En el caso de las líneas administradas por la Ciudad de Buenos Aires , la tarifa mínima ascenderá a $853,01 . ¿Cuánto costará el subte en agosto? La red de subterráneos porteña también aplicará un nuevo ajuste desde el 1° de agosto . El valor del pasaje pasará de los actuales $1621 a $1685,26 , manteniendo el sistema de descuentos para los usuarios frecuentes. Como ocurre actualmente, quienes realicen más de 20, ",
-      "link": "https://www.lanacion.com.ar/sociedad/aumentan-los-boletos-de-colectivos-subte-y-trenes-en-amba-cuanto-costara-viajar-desde-el-1-de-agosto-nid29072026/",
-      "pubDate": "Sun, 02 Aug 2026 13:52:02 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/GOC7EMVOGFHJ5CR5F3TFKGPJ34.JPG?auth=34176f4630930cb116df4e9cb1e584f62c0042c6d603be5ff6d58cc1de8ea617&smart=true&width=3000&height=1999"
-    },
-    {
-      "id": "058c068137c37c01c143",
-      "title": "Hernán Crespo debutó como técnico de Atlas y cayó ante el Monterrey de su amigo Matías Almeyda",
-      "summary": "Hernán Crespo tiene 51 años; nació en Florida, provincia de Buenos Aires. Matías Almeyda tiene 52 y se crio en Azul. Se conocen desde adolescentes, del Mundo River, donde se formaron, fueron campeones (con mucho protagonismo en la Copa Libertadores 1996, por ejemplo) y llegaron a la selección. Hoy, tras exitosas carreras como futbolistas, siguen siendo apasionados y cercanos, son entrenadores y sus caminos se cruzaron, pero en la liga de México . Este sábado, Crespo tuvo un desafortunado debut en el fútbol mexicano como entrenador de Atlas al perder 2-0 como local, en el estadio Jalisco, ante Monterrey , dirigido por Almeyda, por la tercera fecha del torneo Apertura. Antes del partido se dieron un afectuoso abrazo , intercambiando algunas bromas (después del final volvieron a hacerlo). El afectuoso saludo entre ambos 🤝⚽ Dos grandes amigos que se vuelven a ver, ahora como rivales. 🔥 Así fue el saludo entre Matías Almeyda y Hernán Crespo previo al inicio del partido entre Atlas y Rayados. 📹 Víctor Wario / El Occidental pic.twitter.com/1qkurRJLSW EL OCCIDENTAL (@ELOCCIDENTAL) August 2, 2026 Valdanito y el Pelado encuentran en México sus nuevos desafíos profesionales. Mientras Almeyda dirige a Monterrey desde mayo, Crespo condujo su primera práctica el último jueves y ya le tocó debutar: el equipo está séptimo, con seis puntos (esa misma cantidad de unidades tiene Monterrey, aunque por diferencia de gol se coloca tercero). “Somos amigos. Hemos crecido juntos. Desde los 15 años que salimos de River y pasamos por muchos lugares juntos, en diferentes circunstancias. Encontrarnos después de tanto tiempo y como adversario, me pareció extraño, porque siempre defendimos lo mismo. Sí hemos jugado en contra, pero esta vez fue diferente. Le deseo lo mejor: van a tener un gran entrenador y una persona sana del fútbol. Es una buena incorporación. Me dio mucho gusto verlo. Estaba bien vestido, je ”, expresó Almeyda tras el partido. Ambos, por ejemplo, integraron la selección que gan",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/hernan-crespo-debuto-como-tecnico-de-atlas-y-cayo-ante-el-monterrey-de-su-amigo-matias-almeyda-nid02082026/",
-      "pubDate": "Sun, 02 Aug 2026 13:49:29 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/F5YT2V4DMBDGBLP3UMDRY5OOTY.JPG?auth=94cf93ddff9d1bc65d1dd96d60f9b997398a9bedcf3bfb859989d33b26a04f12&smart=true&width=7505&height=5004"
     },
     {
       "id": "32ee00a9af1cf3509949",
@@ -1096,26 +1223,6 @@
       "image": "https://static.eldiario.es/clip/d4a4f513-eec4-4d43-8c25-aae477f94e8b_16-9-discover-aspect-ratio_default_0_x333y124.jpg"
     },
     {
-      "id": "4e1dcb6a2cf1e570123a",
-      "title": "Histórica venta del Rayo al Chelsea de Xabi Alonso",
-      "summary": "Pep Chavarría, durante un partido.",
-      "link": "https://www.marca.com/futbol/rayo/2026/08/02/pep-chavarria-chelsea-25-millones-euros.html",
-      "pubDate": "Sun, 02 Aug 2026 13:09:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/01/6a44f8208f073.jpeg"
-    },
-    {
-      "id": "7459f86afea4773b28f5",
-      "title": "El Real Madrid se lanza a por Armoni Brooks",
-      "summary": "Armoni Brooks celebra una victoria del Armani Milán.",
-      "link": "https://www.marca.com/baloncesto/acb/2026/08/02/real-madrid-pone-cabeza-carrera-armoni-brooks.html",
-      "pubDate": "Sun, 02 Aug 2026 13:08:27 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f243395e42.jpeg"
-    },
-    {
       "id": "3c3d281233849b23f0a1",
       "title": "Villarruel, la calle y los votos: la oposición busca voltear la ley de extranjerización de tierras",
       "summary": "Patricia Bullrich trabaja para tranquilizar a los radicales díscolos y los provinciales incómodos con la iniciativa, pero la movilización convocada para el jueves pesa en las negociaciones. La oposición está a dos votos de voltear el capítulo de Tierras. Misiones como el ejemplo más extremo de extranjerización de la tierra. Sebastián Lacunza - Un doble movimiento de Cristina y Máximo recentra la dinámica del peronismo Federal y por redes sociales: un armado autoconvocado busca frenar en las calles la venta de tierras a extranjeros El pr ximo jueves, el Gobierno intentar aprobar, por quinta vez, la ley que elimina los l mites a la venta de tierras nacionales al capital extranjero . No le sobran los votos : Patricia Bullrich trabaja para tranquilizar a los radicales d scolos y a los provinciales inc modos con la iniciativa, pero la masiva movilizaci n convocada para el 6 de agosto empieza a pesar sobre las negociaciones. La oposici n est a dos votos de voltear el cap tulo de tierras de la Ley de Inviolabilidad de la Propiedad Privada , y juega a su favor una aliada inesperada: Victoria Villarruel. La vicepresidenta viene manifestando su rechazo a la Ley de Inviolabilidad de la Propiedad Privada hace tiempo. En la previa de la ltima sesi n en el Senado, luego de la victoria de Argentina contra Inglaterra, Villarruel se trenz a los insultos con Bullrich por Whatsapp para evitar que se tratara la iniciativa al d a siguiente. Quieren vender el pa s. Como se nota que la integridad territorial no les importa nada , le espet la vice, que aspira a reciclarse como una nacionalista de derecha con algunos sectores del peronismo. José Mayans, Martín Lousteau, Eduardo Vischi, Luis Juez y Ezequiel Atauche junto a Victoria Villarruel La discusi n que termin con Bullrich pidi ndole la renuncia por chat continu al d a siguiente, c uando la jefa del oficialismo tuvo que suspender la sesi n y convocar a un cuarto intermedio porque no ten a los votos para aprobar el proyecto. Uno de los ",
@@ -1144,66 +1251,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Spider-Man-Miles-Morales-Tom-Holland.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "1f616caba26b166ba8ea",
-      "title": "Arteta alimenta los rumores sobre Vinicius y avisa: \"No nos vamos a quedar de brazos cruzados\"",
-      "summary": "Mikel Arteta evitó pronunciarse directamente sobre Vinicius Jr cuando fue preguntado por el brasileño, pero sí dejó claro que el Arsenal seguirá siendo uno de los grandes protagonistas del mercado. El técnico 'gunner' aseguró que el club trabaja intensamente para reforzar la plantilla y adelantó que espera novedades en las próximas semanas. \"Estamos muy activos, intentando mejorar y hacer evolucionar al equipo. No nos vamos a quedar de brazos cruzados y somos muy ambiciosos con lo que queremos conseguir\", afirmó, dejando abierta la puerta a nuevos fichajes antes del inicio de la temporada.",
-      "link": "https://www.marca.com/futbol/premier-league/2026/08/02/arteta-alimenta-rumores-sobre-vinicius-avisa-quedar-brazos-cruzados-video.html",
-      "pubDate": "Sun, 02 Aug 2026 12:58:12 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d46_Y1gRoAVFhzzCV.jpeg"
-    },
-    {
-      "id": "d01c0d061bf715cd25d0",
-      "title": "Aston Martin y unos \"datos exclusivos\" del ingeniero que dijo \"Fernando is faster than you\"",
-      "summary": "Fernando Alonso, con el AMR26 B, en el GP de Hungría.",
-      "link": "https://www.marca.com/motor/formula1/2026/08/02/aston-martin-datos-exclusivos-sobre-mejora-introdujo-hungria.html",
-      "pubDate": "Sun, 02 Aug 2026 12:46:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f1e27de5c7.jpeg"
-    },
-    {
-      "id": "42fc361eca0a01ec6655",
-      "title": "Rosalía vuelve a pedir perdón por su controvertida publicación después del Mundial: \"Tremenda cagada\"",
-      "summary": "Rosalía.",
-      "link": "https://www.marca.com/tiramillas/musica/2026/08/02/rosalia-vuelve-pedir-perdon-argentina-polemica-publicacion-mundial-tremenda-cagada.html",
-      "pubDate": "Sun, 02 Aug 2026 12:46:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d452108176.jpeg"
-    },
-    {
-      "id": "f0631c0119ade9c3dd78",
-      "title": "Hallado el cuerpo de Nirmal Purja tras la avalancha en Pakistán",
-      "summary": "Nirmal Purja en una imagen de archivo.",
-      "link": "https://www.marca.com/deportes-aventura/2026/08/02/hallado-cuerpo-famoso-montanista-nepali-nirmal-purja-avalancha-pakistan.html",
-      "pubDate": "Sun, 02 Aug 2026 12:42:21 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f1e71f1bfe.jpeg"
-    },
-    {
-      "id": "a64a3a25e5ab5f9d11d8",
-      "title": "España acaba segunda tras Rusia en los preliminares de la rutina libre por equipos en el Europeo",
-      "summary": "El equipo español durante su actuación en la rutina libre.",
-      "link": "https://www.marca.com/natacion/2026/08/02/espana-acaba-segunda-rusia-preliminares-rutina-libre-equipos-europeo.html",
-      "pubDate": "Sun, 02 Aug 2026 12:17:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/6a6f1913659f8.jpeg"
-    },
-    {
-      "id": "d3c3cee72b378e1b78c0",
-      "title": "Lamine Yamal saca pecho en TikTok: \"Solo 19 años y campeón del mundo\"",
-      "summary": "El joven futbolista compartió un vídeo en TikTok en el que aparece bailando mientras sostiene la Copa del Mundo, acompañado de un mensaje tan breve como contundente: \"\"Solo 19 años, pero campeón del mundo\". Con apenas 19 años, el extremo español presume del mayor logro posible a nivel de selecciones.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/08/02/lamine-yamal-saca-pecho-tiktok-19-anos-campeon-mun-video.html",
-      "pubDate": "Sun, 02 Aug 2026 12:14:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/02/d44hM1gRnXoqm68qn.jpeg"
     },
     {
       "id": "f3d4fbfffec8f34e610f",
@@ -1294,6 +1341,16 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5458/live/2b0bb890-8783-11f1-9428-e17279226993.jpg"
+    },
+    {
+      "id": "d62c9dad89e212ef826b",
+      "title": "Detenido un menor del grupo ultraviolento 764 acusado de amenazar de muerte a Irene Montero",
+      "summary": "Irene Montero, en una imagen de archivo en un coloquio en el Club Siglo XXI, de Madrid.",
+      "link": "https://elpais.com/espana/2026-08-02/detenido-un-menor-del-grupo-ultraviolento-764-acusado-de-amenazar-de-muerte-a-irene-montero.html",
+      "pubDate": "Sun, 02 Aug 2026 10:15:11 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/VR4FFA4HQFDMLJOC3HXOLDYJ6Y.jpg?auth=e520beeeb8c6fb7ebb5eb4957945b4f982e02794538023cca04e2704b1f072fd"
     },
     {
       "id": "505954b15e4df0d853e9",
@@ -1428,16 +1485,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/windows-11-26h2.jpg?fit=1024%2C585&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "1596e9229e473ae5d323",
-      "title": "La tormenta política en Europa que desató la llegada de miles de migrantes africanos a Ceuta",
-      "summary": "Los cruces de multitudes desde Marruecos hacia Ceuta pusieron de manifiesto las divisiones existentes en Europa en torno al delicado tema de la migración, escribe Sarah Rainsford de la BBC.",
-      "link": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 04:43:48 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg"
-    },
-    {
       "id": "aa23dad1c64dee5914a4",
       "title": "Speed Racer: Análisis del 4K Ultra HD",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com En Cinemascomics hemos analizado la reedición doméstica en 4K Ultra HD + Blu-Ray de Speed Racer, película producida por Warner Bros. Pictures, que está escrita y dirigida por las hermanas Wachowski y protagonizada por Emile Hirsch y Christina Ricci . Esta reinterpretación de la serie de animación japonesa de los años 60, Mahha GoGoGo, conocida en España como Meteoro; se ha convertido en una obra de culto, redescubriéndola miles de cinéfilos después de su fracaso en taquilla cuando se estrenó en el año 2008. Esta cinta de acción y ciencia ficción de los creadores de Matrix está distribuida por Warner Bros. Pictures, que ya se encuentra disponible en DVD, Blu-Ray y 4K UHD + Blu-Ray, de la mano de Arvi Licensing. También se puede adquirir en una edición coleccionista, hasta fin de existencias. Sinopsis: Adaptación de la serie de anime en la que un joven llamado Speed Racer es la gran promesa del mundo de las carreras, debiendo superar no solo la traumática muerte de su hermano mayor durante una carrera cuando él era un niño, sino también la dura competencia de las grandes escuderías que quieren comprar o sino destruir a Speed Racer y a su familia, que compiten con un coche creado de manera artesanal. Speed Racer (2008) Speed Racer está escrita y dirigida por las hermanas Wachowski, basándose libremente en la obra de Tatsuo Yoshida. Cuenta con un reparto encabezado por Emile Hirsch (Érase Una Vez En&#8230; Hollywood), Christina Ricci (Sleepy Hollow), Matthew Fox (Perdidos), Susan Sarandon (Blue Beetle), John Goodman (El Gran Lebowski), Roger Allam (V de Vendetta), Ariel Winter (Modern Family), Hiroyuki Sanada (Mortal Kombat II), Kick Gurry (Al Filo del Mañana) y Scott Porter (God of War Ragnarök), entre otros. De la banda sonora original se encarga Michael Giacchino (Los 4 Fantásticos: Primeros Pasos); mientras que David Tattersall (The Walking Dead) es el director de fotografía. El filme está producido por J",
@@ -1528,16 +1575,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/EH6J3QTC3JI6BJQPXAOIIQAFR4.jpg?auth=db5892300d2a49a7a6089b52adbbc7bebfb2b0db2538159173c2720db428dd7e"
     },
     {
-      "id": "36be535db36871a84bd4",
-      "title": "Yakarta, la ciudad más poblada del mundo, se hunde en el mar de Java",
-      "summary": "Varias motos y otros vehículos circulan por una calle de Yakarta Central, a 10 de julio.",
-      "link": "https://elpais.com/internacional/2026-08-02/yakarta-la-ciudad-mas-poblada-del-mundo-se-hunde-en-el-mar-de-java.html",
-      "pubDate": "Sun, 02 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TXW5CCRG35BNBCEIELO7J7XFCU.jpg?auth=0fc8eddfd7342c5740bb04d02be461c0d49d75652b479fdae7997adcf90093c0"
-    },
-    {
       "id": "f4fe76663c3916f18ba4",
       "title": "El verano en que el toples volvió a dar que hablar: “La mirada no se queda en la playa”",
       "summary": "Cuatro personas toman el sol en Playa de les Barques de Montgat, en Barcelona, el 31 de julio de 2026. De ellas, una hace toples.",
@@ -1598,14 +1635,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/OFPMDZYCKFBXNFZE2DE36FVHL4.jpg?auth=b90d1fdfdd69c95e1be4decd6fa1de8b741f51457fc2e2c115b9b17da866558b"
     },
     {
-      "id": "5a0531089b31f132784a",
-      "title": "Rafael Rivera, héroe urbano",
-      "summary": "El arquitecto Rafael Rivera, en el Parque Gulliver de Valencia, el pasado miércoles.",
-      "link": "https://elpais.com/opinion/2026-08-02/rafael-ribera-heroe-urbano.html",
+      "id": "36be535db36871a84bd4",
+      "title": "Yakarta, la ciudad más poblada del mundo, se hunde en el mar de Java",
+      "summary": "Varias motos y otros vehículos circulan por una calle de Yakarta Central, a 10 de julio.",
+      "link": "https://elpais.com/internacional/2026-08-02/yakarta-la-ciudad-mas-poblada-del-mundo-se-hunde-en-el-mar-de-java.html",
       "pubDate": "Sun, 02 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/I3V6T63CHJHLXCEQNEVDMVGIYU.jpg?auth=73840551700d79328899eca6fd739eb4275e27e68adca99131898843b004032b"
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/TXW5CCRG35BNBCEIELO7J7XFCU.jpg?auth=0fc8eddfd7342c5740bb04d02be461c0d49d75652b479fdae7997adcf90093c0"
     },
     {
       "id": "f953607e551c19966c6a",
@@ -1869,16 +1906,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/barbie-2-se-complica.jpg"
     },
     {
-      "id": "0ec072c938e11eb30002",
-      "title": "Los 10 directores más poderosos de Hollywood según ‘New York Magazine’",
-      "summary": "New York Magazine ya tiene claro quiénes son los grandes directores de nuestra época . Un veredicto que muestra un punto clave del séptimo arte actual. A diferencia de otras décadas, el cine contemporáneo brinda una especial importancia a los directores . En especial, porque el trabajo detrás de cámara, se ha revalorizado con el correr de los años. Por lo que, si el Hollywood clásico celebraba y enaltecía a sus estrellas, en la actualidad los realizadores tienen su propia importancia. También, su específico significado dentro del mundo del cine, tal y como se concibe en la actualidad. Un reconocimiento que brinda importancia al cine como una obra de arte compleja que debe analizarse desde puntos de vista estéticos y conceptuales. Lo anterior queda demostrado en la ya famosa lista de los 100 directores más poderosos de Hollywood publicada por New York Magazine . La investigación de su sección cultural Vulture, ha dedicado tiempo y esfuerzo en profundizar en el mundo del cine a través de los cineastas. También, de la influencia que estos tienen sobre el lenguaje del séptimo arte actual. Al mismo tiempo, sus aportes al futuro del cine y la manera en que las innovaciones de los diferentes directores han dejado huella para la posteridad. Una combinación que ha convertido la lista en un recurso importante para entender la evolución del mundo del entretenimiento de los últimos años. Pero el punto más interesante son los diez nombres que encabezan la selección, considerados por la publicación como una reflexión sobre la meca del cine. A la vez, la forma en que las obras cinematográficas exploran en la realidad la cultura y la sociedad del siglo. Para profundizar en eso, te dejamos un recorrido por los 10 directores más poderosos de Hollywood según New York Magazine . De un consagrado por el público y la crítica a un visionario experimental. Una colección para los que desean comprender el séptimo arte en toda su riqueza. Christopher Nolan Probablemente, ya lo sospechabas. El",
-      "link": "https://hipertextual.com/cine-television/los-10-directores-mas-poderosos-de-hollywood-segun-new-york-magazine/",
-      "pubDate": "Sat, 01 Aug 2026 17:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Directores-mas-ionfluyentes.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "1f298fe62cff3f843e2a",
       "title": "La próxima película de Batman revela su espectacular póster",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La nueva película animada de Batman ya tiene su primer póster oficial y deja muy claro el tono que tendrá esta adaptación de Knightfall . Warner Bros. ha mostrado una ilustración con un marcado estilo noventero que anticipa el enfrentamiento más salvaje entre el Caballero Oscuro y Bane antes de su estreno este mismo verano. Batman: Knightfall Part 1 ya presume de un póster que homenajea al cómic clásico Batman: Knightfall Part 1 Hay historias de Batman que cambian al personaje para siempre. Knightfall es una de ellas. Fue el arco argumental publicado por DC Comics en 1993 el que convirtió a Bane en mucho más que un villano musculoso al demostrar que era capaz de derrotar física y mentalmente al Caballero Oscuro. Ahora, más de tres décadas después, Warner Bros. prepara una adaptación animada dividida en tres películas y el primer póster de Batman: Knightfall Part 1 deja claro que piensa respetar el espíritu de aquella obra. La compañía ha compartido el cartel oficial a través de su cuenta de X, una ilustración animada que no solo sirve como material promocional, sino que también marca la identidad visual de la película. El resultado recuerda a una auténtica portada de cómic en movimiento y, si nada cambia, todo apunta a que también será la imagen elegida para la futura edición física en Blu-ray y 4K UHD. No es un simple póster bonito. Está diseñado para transmitir exactamente lo que representa esta historia: la caída de un héroe que parecía invencible. Un enfrentamiento entre Batman y Bane cargado de tensión El nuevo arte promocional coloca frente a frente a Batman y Bane sobre el cielo oscuro de Gotham. Mientras la capa del Caballero Oscuro ondea con fuerza, los tubos que alimentan el Veneno recorren el cuerpo del villano con un intenso color verde que destaca sobre el resto de la composición. La imagen captura justo el instante previo al choque entre ambos personajes, anticipando el combate que acabará c",
@@ -1887,37 +1914,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/logo-Batman-gris.jpg"
-    },
-    {
-      "id": "f8348a427f210ee480aa",
-      "title": "Cómo extraer las ideas clave de un libro en formato ePub con Gemini Notebook (NotebookLM)",
-      "summary": "NotebookLM , ahora rebautizada como Gemini Notebook , es una de esas aplicaciones que te permiten aprovechar mejor el tiempo, sacarle más partido a tus notas y documentos y, en definitiva, darle utilidad a eso que llamamos inteligencia artificial . En vez de pedirle a Gemini que busque algo en internet, a través de Gemini Notebook puedes hacer búsquedas en tus anotaciones y archivos, ordenarlos, procesarlos y utilizarlos en tu día a día. Precisamente, una de las muchas ventajas de Gemini Notebook es que es compatible con varios formatos . Es decir, que puedes procesar videos de YouTube y enlaces a artículos, imágenes en varios formatos, documentos de texto, presentaciones, hojas de cálculo y un largo etcétera. Esto facilita mucho las cosas si tienes varios contenidos desperdigados y necesitas darles forma para estudiar o aprender . Gracias a esta app puedes convertir textos, videos e imágenes en resúmenes, preguntas y respuestas, pódcasts, vídeos y otros formatos más cómodos de digerir. En este artículo vamos a centrarnos en un formato de texto muy popular. No tanto como el PDF que abunda en todas partes, pero casi. Se trata del formato ePub , utilizado en libros electrónicos . Así que si tienes en tus manos, o en tu dispositivo de lectura, un libro de lectura, manual, libro de texto o un farragoso documento en ePub, puedes pedirle ayuda a Gemini Notebook para que extraiga aquello que necesites. Aunque, claro está, el libro o documento deberá estar libre de DRM o protecciones de lectura para que Gemini pueda leerlo. Los límites de Gemini Notebook Antes de empezar, conviene recordar que NotebookLM , ahora Gemini Notebook, tiene ciertos límites en su versión gratuita. Esto significa que si, como la mayoría, tienes una cuenta básica de Google para trastear con esta app, te interesará saber hasta dónde puedes llegar. En el caso que nos ocupa, es decir, trabajar con documentos ePub , te interesa saber esto. Gemini Notebook permite: Subir fuentes, como un ePub, de hasta 5",
-      "link": "https://hipertextual.com/guias/extraer-contenido-libro-documento-epub-gemini-notebook-notebooklm/",
-      "pubDate": "Sat, 01 Aug 2026 16:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Gemini-Notebook-NotebookLM-Robot-Lector-Libros.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "e2e43e57ef75de3eef53",
-      "title": "Lioness temporada 3 confirma que Taylor Sheridan todavía sabe cómo mantenerte pegado al sofá",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Después de dos temporadas en las que la serie fue ampliando poco a poco su escala, Lioness da un giro importante sin perder aquello que la hacía especial. Taylor Sheridan cambia las reglas del juego, apuesta por una historia mucho más ambiciosa y entrega un arranque que deja claro que Joe McNamara nunca lo ha tenido tan difícil. Hubo un momento, mientras veía los dos primeros episodios de esta tercera temporada, en el que pensé que Taylor Sheridan estaba a punto de cometer uno de esos errores que tantas series acaban pagando caros. Después de todo, Lioness parecía haber encontrado una fórmula que funcionaba bastante bien: una nueva agente infiltrada, una misión imposible, mucha tensión política y Joe McNamara intentando mantener el equilibrio entre salvar el mundo y no perder a su familia por el camino. Lo lógico habría sido repetir esa estructura cambiando únicamente el escenario. Al fin y al cabo, la segunda temporada ya demostró que todavía había margen para seguir explotando esa idea. Sin embargo, Sheridan decide hacer justo lo contrario. Y, sorprendentemente, funciona. Porque Lioness temporada 3 no intenta ser una copia de lo anterior. Desde los primeros minutos queda claro que la serie quiere evolucionar y convertirse en algo distinto. Sigue siendo un thriller de espionaje, por supuesto, pero ahora juega con un tablero mucho más grande y unas consecuencias que afectan directamente a sus personajes principales. La serie abandona su fórmula&#8230; y era exactamente lo que necesitaba Si las dos primeras temporadas giraban alrededor del programa Lioness y de una nueva infiltración, aquí el foco cambia casi por completo. No hay una nueva recluta a la que seguir durante media temporada mientras aprende cómo funciona este peligroso mundo . Sheridan entiende que ya conocemos perfectamente las reglas del juego y decide utilizarlas para contar una historia mucho más amplia. El resultado es una temporada que s",
-      "link": "https://www.cinemascomics.com/critica-lioness-temporada-3/",
-      "pubDate": "Sat, 01 Aug 2026 15:00:09 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/lioness-temporada-3.jpg"
-    },
-    {
-      "id": "3df0e8f008a4056b390a",
-      "title": "Xiaomi lanza la máquina de helados perfecta: los hace en 70 minutos y el precio es de risa",
-      "summary": "La nueva máquina de helados de Xiaomi llega para solucionar los dos problemas más repetidos de su competencia. La marca china se ha sacado de la manga un sistema bastante ingenioso para que puedas comerte un helado casero con los ingredientes que quieras sin tener que pasar por dos aros que todas las máquinas del mercado te exigen. Hablamos, cómo no, del tiempo; la mayoría de opciones necesitan 24 horas para hacer un buen helado; y del precio: todas son carísimas . Xiaomi ha utilizado una técnica diferente a la mayoría de máquinas de helado comerciales: la suya no utiliza cuchillas para cortar un gran bloque de hielo congelado. Lo que hace es congelar dos paletas de buen tamaño que se sitúan en la parte superior. Este método, aunque no permite hace grandes cantidades de helado, sí que da la posibilidad de tener uno listo en poco más de una hora . De hecho, Xiaomi presume de tiempo: su máquina de helado puede producir dos paletas en unos 70 minutos . Y no, no es necesario enfriar o congelar la mezcla previamente. Desde que piensas en el helado hasta que te lo comes, pasa poco más de una hora. Y, por supuesto, eres libre de incluir los ingredientes que quieras en los compartimentos: frutas, nata, proteína en polvo, gominolas, todo tipo de saborizantes, etc. Tiene varios modos de enfriamiento para conseguir diferentes texturas, aunque no es nada difícil de utilizar: metes los ingredientes, las paletas de plástico y le das a un botón. Y, para quien no sepa por dónde empezar, esta máquina de helados de Xiaomi incluye compatibilidad con la app Mi Home, donde hay cientos de recetas disponibles para hacer helados de todo tipo. Pero ojo, porque no solo hace helados. También tiene un accesorio que permite fabricar cubitos de hielo de sabores. Basta con introducir el gadget, mezclar agua con el ingrediente que quieras y esperar 50 minutos para conseguir varios cubitos con el sabor que más te guste. Pueden ser de café, frutas o cualquier ingrediente. Una máquina de helados incr",
-      "link": "https://hipertextual.com/tecnologia/xiaomi-lanza-la-maquina-de-helados-perfecta-los-hace-en-70-minutos-y-el-precio-es-de-risa/",
-      "pubDate": "Sat, 01 Aug 2026 15:00:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/xiaomi-1.jpg?fit=1024%2C653&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "id": "d2a4d2c1a0517d395982",
@@ -2081,16 +2077,6 @@
       "image": "https://static.eldiario.es/clip/3b40b820-c889-451c-b439-6c4432949552_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "4c0130f9215be63c5df6",
-      "title": "3 asuntos que históricamente han tensado las relaciones entre España y Marruecos",
-      "summary": "La entrada masiva de migrantes en Ceuta reaviva las dudas sobre la cooperación de Marruecos con España en materia de migración y saca a la luz las disputas geopolíticas que persisten entre ambos vecinos.",
-      "link": "https://www.bbc.com/mundo/articles/cp3rexne911o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 02:53:34 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8537/live/a3b46050-8d30-11f1-b3b6-29b7cb5033ec.jpg"
-    },
-    {
       "id": "00c846dba53185e54ff6",
       "title": "Infantino da marcha atrás y retira el plan de la FIFA para abrir los Mundiales a la inversión privada",
       "summary": "La FIFA abandona sus planes debido a una amplia oposición a la propuesta presentada por su presidente.",
@@ -2119,6 +2105,16 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/BK5YXPGNVBDRPPIJAC77WASZI4.jpg?auth=96998ca0aa5d38e8380d542ab8714513963c5fbc67a8930c4d87c24cba779159"
+    },
+    {
+      "id": "cbfc43b57213020f10b3",
+      "title": "Análisis BBC: Hamás nunca había accedido a desarmarse, por lo que el acuerdo ofrece una inusual esperanza para Gaza",
+      "summary": "La realidad política, la guerra, la falta total de confianza, la muerte de miles de personas y la destrucción de Gaza harán que cualquier acuerdo sea muy complicado de mantener.",
+      "link": "https://www.bbc.com/mundo/articles/cp9e404ky7do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 21:16:39 GMT",
+      "source": "BBC Mundo",
+      "cat": "israel",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c60/live/673952d0-8d0c-11f1-bbc4-4d8950e3863d.jpg"
     },
     {
       "id": "f7480c57dd305cfe51ac",
@@ -2449,17 +2445,23 @@
       {
         "name": "Llama",
         "type": "Modelo",
-        "badge": "Muy mencionado",
-        "cls": "rb-blue"
-      },
-      {
-        "name": "Gemini",
-        "type": "Modelo",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Trending",
+        "cls": "rb-green"
       },
       {
         "name": "ChatGPT",
+        "type": "Modelo",
+        "badge": "Alta atención",
+        "cls": "rb-orange"
+      },
+      {
+        "name": "Sora",
+        "type": "Video AI",
+        "badge": "Alta atención",
+        "cls": "rb-orange"
+      },
+      {
+        "name": "Gemini",
         "type": "Modelo",
         "badge": "Alta atención",
         "cls": "rb-orange"
@@ -2469,15 +2471,9 @@
         "type": "Coding AI",
         "badge": "Alta atención",
         "cls": "rb-orange"
-      },
-      {
-        "name": "Sora",
-        "type": "Video AI",
-        "badge": "Alta atención",
-        "cls": "rb-orange"
       }
     ],
     "rising": []
   },
-  "updated": "2026-08-02T16:53:37.229616+00:00"
+  "updated": "2026-08-02T18:59:55.975349+00:00"
 }
