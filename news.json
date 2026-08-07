@@ -21,17 +21,6 @@
       "image": "https://static.eldiario.es/clip/1d8c9cd3-56df-4cac-88ef-062026156e7a_16-9-discover-aspect-ratio_default_0_x628y166.jpg"
     },
     {
-      "id": "36656573362ab57843da",
-      "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
-      "summary": "Si algo ha quedado claro en las últimas semanas es que la IA puede salirse de control en el momento menos indicado . La prueba más evidente es el hackeo de Hugging Face provocado por dos agentes que escaparon de su entorno de pruebas sin ayuda humana. Microsoft quiere que esto no vuelva a ocurrir y para ello ha publicado una guía de contención para sistemas. De acuerdo con una publicación en la web de Tech Community , el caso que más ruido genera en el sector involucra a GPT-5.6, el modelo de OpenAI . Hace unos días, dos agentes intentaron manipular un benchmark y terminaron vulnerando la infraestructura de producción de Hugging Face. Esto no solo prendió las alertas en todos los círculos de ciberseguridad, sino que obligó a replantear el uso de modelos de código abierto para responder a este tipo de amenazas. Este no ha sido el único caso, ya que los investigadores llevan meses documentando casos donde sistemas autónomos logran moverse entre distintos entornos. Lo que preocupa a Microsoft no es que los fallos existan, sino que ocurren a tal velocidad que las empresas o usuarios no están listos para repelerlos. Un agente de IA puede identificar y explotar una vulnerabilidad en cuestión de segundos , algo que a un equipo humano le tomaría horas o días detectar. Microsoft propone vigilar en todo momento lo que hace la IA Para plantar cara a este problema, el gigante tecnológico publicó una serie de lineamientos para que las organizaciones puedan usar agentes de IA sin temor a perder el control. La guía, disponible en su documentación del portal Secure Now, establece límites estrictos sobre qué acciones puede ejecutar un agente . Entre estos se encuentran restringir la conexión a internet y construir un botón de apagado de emergencia en caso de que escape de su entorno. Secure Now reúne orientación y acciones recomendadas en seis áreas clave para la preparación ante la IA: Estrategias de contención para agentes de IA que garanticen su funcionamiento dentro de los límit",
-      "link": "https://hipertextual.com/inteligencia-artificial/microsoft-hackeos-ia-autonoma-guia-contencion/",
-      "pubDate": "Wed, 05 Aug 2026 21:35:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/12/terminator.jpg?fit=1024%2C651&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "modelos"
-    },
-    {
       "id": "02b7059bc946c241fc73",
       "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros que el gobierno de Milei se vio obligado a retirar",
       "summary": "En medio de una ardua batalla política en el Congreso, el gobierno de Javier Milei anunció la retirada, al menos de forma temporal, de su reforma de la norma que regula la venta de tierras en Argentina a extranjeros.",
@@ -42,16 +31,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5ef/live/6aceebd0-9121-11f1-88e7-f30bb3b81eb9.jpg"
     },
     {
-      "id": "e488dc8d24a370be1e66",
-      "title": "‘Spider-Man: Brand New Day’ sigue imparable y ya es la película más taquillera de 2026",
-      "summary": "Apenas 7 días ha necesitado Spider-Man: Brand New Day para convertirse en la película más taquillera de 2026 . Lo nuevo de Marvel Studios lleva solo una semana en la cartelera, pero ya ha recaudado unos impactantes 1.155 millones de dólares a nivel global. Esto la ubica en lo más alto del ranking de recaudación del año, cuando todavía le queda mucho recorrido en los cines de todo el mundo. De esta manera, Spider-Man: Brand New Day continúa sacando provecho de su fuerte estreno con más de 900 millones de dólares solo durante su fin de semana de estreno. La noticia es una muy grata noticia para Marvel y Disney, pues implica que el UCM ha recapturado el interés del fandom global, lo cual seguramente se va a trasladar a Avengers: Doomsday cuando se estrene a fin de año. Según reporta Variety , Spider-Man: Brand New Day lleva recaudados 449 millones de dólares en Estados Unidos y 706,3 millones de dólares en mercados internacionales. Cifras que van a seguir creciendo mientras dure la presencia del filme en la cartelera, que se va a extender por varias semanas. Otro dato interesante es que Spider-Man: Brand New Day es la segunda película que más rápido ha superado la barrera de los 1.000 millones de dólares en recaudación. La cinta protagonizada por Tom Holland lo hizo en seis días, quedando solo por detrás de Avengers: Endgame . El largometraje de los hermanos Russo se adueño de la cartelera en 2019 y generó 1.200 millones de dólares en sus primeros tres días de proyección. Spider-Man: Brand New Day ya es la película más taquillera de 2026 Con sus 1.155 millones de dólares recaudados hasta la fecha, Spider-Man: Brand New Day supera a Toy Story 5 , que se ubicaba en lo más alto de la taquilla de 2026. El Top 10 de películas de mayor recaudación global del año ahora queda de esta manera: Spider-Man: Brand New Day : 1.155 millones de dólares Toy Story 5 : 1.068 millones de dólares Michael : 1.016 millones de dólares Super Mario Galaxy, la película : 1.011 millones de dólare",
-      "link": "https://hipertextual.com/cine-television/spider-man-brand-new-day-pelicula-mas-taquillera-2026/",
-      "pubDate": "Wed, 05 Aug 2026 20:39:21 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Brand-New-Day-Spider-Man.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "8e61697d8f9dc56cda20",
       "title": "El Gobierno relativiza la marcha atrás con la Ley de Tierras y apuesta a aprobar el resto de la reforma",
       "summary": "En Balcarce 50 sostienen que retirar el capítulo más resistido mejora las chances de conseguir la media sanción de la Ley de Inviolabilidad de la Propiedad Privada. Santilli había intentado sin éxito convencer a los gobernadores de mantener el texto original. Javier Milei sufri este mi rcoles un nuevo rev s parlamentario cuando La Libertad Avanza resolvi retirar del proyecto de Ley de Inviolabilidad de la Propiedad Privada el cap tulo que derogaba la Ley de Tierras, una de las reformas que m s resistencia hab a despertado entre los gobernadores y que amenazaba con poner en riesgo el tratamiento de la iniciativa en el Senado. La marcha atr s signific una nueva concesi n para el oficialismo, pero en la Casa Rosada procuraron bajarle el tono al episodio y sostuvieron que la decisi n mejora las chances de conseguir este jueves la media sanci n del proyecto , que luego deber atravesar el debate en la C mara de Diputados para convertirse en ley. La decisi n lleg despu s de que fracasaran las gestiones pol ticas para destrabar el conflicto. El martes, el jefe de Gabinete, Diego Santilli , se comunic con varios gobernadores aliados para intentar sostener el cap tulo referido a la extranjerizaci n de tierras, pero las conversaciones no alcanzaron para modificar el escenario . Los mandatarios mantuvieron sus objeciones y el oficialismo termin optando por retirar por completo ese tramo del proyecto antes que arriesgar el resto de la iniciativa. El jefe de Gabinete Diego Santilli. Dentro del Gobierno, el principal defensor de mantener la reforma era el ministro de Desregulaci n y Transformaci n del Estado, Federico Sturzenegger , autor intelectual del proyecto enviado al Congreso. Seg n reconstruyeron fuentes oficiales, el funcionario insisti hasta ltimo momento en sostener el cap tulo , aunque encontr escaso acompa amiento dentro del propio gabinete. M s all de su entorno, pocos dirigentes del Gobierno estaban dispuestos a asumir el costo pol tico de confrontar con los goberna",
@@ -60,17 +39,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/aeec1359-6c64-4aed-b057-de8da11b5290_16-9-discover-aspect-ratio_default_0_x230y47.jpg"
-    },
-    {
-      "id": "243cc1a7b8ee275f4313",
-      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
-      "summary": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará de ser CEO de DeepMind para asumir un rol distinto dentro de Alphabet. El anuncio llegó a través de una carta de Sundar Pichai publicada en el blog corporativo de Google . El jefe máximo de la empresa confirmó que Demis Hassabis dejará de ser director ejecutivo de DeepMind y se convertirá en científico jefe de Alphabet. Hassabis ya no se encargará de la gestión operativa del laboratorio que ayudó a construir , sino que ahora fungirá solo como presidente (algo así como Greg Brockman en OpenAI). El jefe de Alphabet dijo que Koray Kavukcuoglu, quien se desempeñaba como director de tecnología de DeepMind, asumirá el papel de CEO. Kavukcuoglu supervisará el desarrollo de Gemini 4 y reportará directamente a Pichai. El nuevo director también se encargará de la investigación en IA de frontera y de revisar el trabajo de los equipos de la app de Gemini y de desarrolladores. Demis Hassabis, antiguo CEO de Google DeepMind. Foto: John Sears Hassabis , por su parte, seguirá conectado al trabajo diario de Google DeepMind, aunque no a nivel de gestión. El antiguo CEO seguirá al mando de Isomorphic Labs, una división de DeepMind dedicada a acelerar el descubrimiento de fármacos usando IA . “He trabajado para lograr la AGI durante toda mi vida y ahora, al igual que muchos de ustedes, siento que está al alcance de la mano“, dijo Hassabis. “Es fundamental que acertemos colectivamente en los próximos pasos para garantizar que todo salga bien para la humanidad y demos paso a una nueva era increíble de descubrimientos y maravillas”. Google ha perdido a uno de sus ingenieros de IA más influyentes El relevo de Hassabis por Kavukcuoglu se da a unos días de que la compañía presen",
-      "link": "https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/",
-      "pubDate": "Wed, 05 Aug 2026 19:25:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/google-movil.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "empresas"
     },
     {
       "id": "a56bf4245bd7b495faa4",
@@ -360,17 +328,6 @@
       "subcat": "desarrollo"
     },
     {
-      "id": "d4b6543ff28b7a96c7d5",
-      "title": "GIGABYTE AORUS P1600W, una PSU para PCs de alto rendimiento",
-      "summary": "GIGABYTE ha anunciado el lanzamiento de la AORUS P1600W , una fuente de alimentación de gran potencia y calidad diseñada para computadoras de sobremesa de grado entusiasta para juegos, creación profesional o desarrollo de IA local. Este mismo mes actualizamos nuestra guía de fuentes de alimentación y en ella puedes descubrir la gran importancia de un componente clave , ya que debe garantizar la entrega de energía a todo el conjunto que forma un PC. En no pocas ocasiones una mala elección de estas PSUs provoca serios problemas a la hora de alimentar el equipo. GIGABYTE AORUS P1600W Con la nueva fuente de GIGABYTE no vas a tener problema alguno. La AORUS P1600W 80+ Titanium Modular PCIe 5.1 AI TOP, que así se llama el último modelo comercializado por la firma taiwanesa, ofrece todo lo que puede necesitar un PC de alto rendimiento. Con 1.600 vatios de potencia y eficiencia energética 80 Plus Titanium en un chasis extraordinariamente compacto de 160 mm, esta potente fuente de alimentación compatible con ATX 3.1 y PCIe 5.1 combina componentes de primera calidad, conectividad integral y monitorización LCD en tiempo real. Construida con componentes de primera calidad, la AORUS P1600W utiliza tecnología avanzada de nitruro de galio (GaN) para lograr una mayor densidad de potencia y eficiencia. Un diseño de alimentación digital proporciona una entrega de energía precisa y con gran capacidad de respuesta, mientras que los condensadores 100% japoneses mejoran la fiabilidad durante largas sesiones de juego y cargas de trabajo intensivas y sostenidas para creación profesional o ejecución de los grandes modelos de inteligencia artificial. Y ofrece una potencia inmensa sin ocupar demasiado espacio. Con tan solo 160 mm de longitud, es una de las fuentes de alimentación de 1600 W más compactas de su clase . Su tamaño compacto mejora la compatibilidad con una amplia gama de torres PC ATX estándar, a la vez que deja más espacio para componentes y mejora la gestión del cableado. La AOR",
-      "link": "https://www.muycomputer.com/2026/08/05/gigabyte-aorus-p1600w-una-psu-para-pcs-de-alto-rendimiento/",
-      "pubDate": "Wed, 05 Aug 2026 06:09:40 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/GIGABYTE_AORUS_P1600W_2.jpg",
-      "subcat": "herramientas"
-    },
-    {
       "id": "5cd4bd56528939948d95",
       "title": "Por qué las marcas ya no pueden depender de un solo canal para vender online",
       "summary": "Durante años, muchas empresas concentraron sus ventas digitales en un único canal. Algunas apostaron por su propia tienda online, otras priorizaron los marketplaces y las más recientes comenzaron a vender directamente desde las redes sociales. Sin embargo, el comportamiento del consumidor ya no sigue un recorrido lineal . Hoy, una persona puede descubrir un producto en Instagram, buscar opiniones en Google, comparar precios en un marketplace y terminar la compra en la web oficial de la marca. Cada plataforma participa en una fase distinta del proceso y genera unas expectativas concretas sobre el precio, la información disponible o la atención recibida. Por eso, el reto actual no consiste en elegir entre marketplace, tienda propia o modelo Direct to Consumer. Las marcas necesitan entender qué función cumple cada canal y cómo conectarlos dentro de una misma estrategia comercial . El recorrido de compra se reparte entre varios canales El proceso de compra digital se ha vuelto más complejo, pero también ofrece más oportunidades para acompañar al cliente. Las redes sociales pueden despertar el interés, los buscadores ayudan a validar una decisión y los marketplaces facilitan la comparación entre alternativas. La compra, además, no siempre termina en el canal donde comenzó. Un usuario puede descubrir un producto en una plataforma externa y acudir después a la tienda oficial para obtener más información, acceder a una promoción o conocer mejor las condiciones de entrega. Las empresas que están creciendo en el entorno digital no analizan cada canal de forma aislada. Estudian cómo contribuye cada punto de contacto al recorrido completo del cliente y qué barreras pueden aparecer al pasar de uno a otro. Esto obliga a mantener cierta coherencia entre precios, promociones, disponibilidad de productos, mensajes y políticas de atención. Una experiencia contradictoria puede generar dudas y provocar que el usuario abandone la compra antes de completarla. Los marketplaces aportan alc",
@@ -422,26 +379,6 @@
       "image": "https://static.eldiario.es/clip/c626fbd8-a0b3-49d0-914d-de0583769d6f_16-9-discover-aspect-ratio_default_1143366.jpg"
     },
     {
-      "id": "ef6a03ca57771cf1ac5c",
-      "title": "Las tarjetas gráficas RDNA 5 ya están en fase avanzada de desarrollo: posibles especificaciones, rendimiento y precio",
-      "summary": "Los datos obtenidos de una serie de parches para Linux indican que las tarjetas gráficas de próxima generación de AMD, basadas en la arquitectura RDNA 5, ya se encuentran en una fase avanzada de desarrollo , un dato importante porque encaja con los rumores que sitúan su lanzamiento entre finales de 2027 y principios de 2028 . La información ha sido recopilada por QuasarZone . Las tarjetas gráficas RDNA 5 van a representar una evolución muy importante frente a RDNA 4 , y parte de esa evolución está motivada por la gran inversión en I+D que ha hecho AMD con el apoyo de Sony y de Microsoft, porque como sabemos esa arquitectura va a ser la que impulsará a PS6, y también a Xbox Project Helix, las consolas de próxima generación de ambas compañías. En este sentido, AMD ya nos adelantó algunas de las novedades más importantes que veremos en la arquitectura RDNA 5, y estas están centradas en gran medida en mejorar el rendimiento en IA aplicada a gaming , tarea que correrá a cargo de las matrices neuronales (Neural Arrays), potenciar el rendimiento en trazado de rayos con los nuevos núcleos de radiancia (Radiance Cores), y en la optimización y la reducción del consumo de recursos, gracias a tecnologías como la compresión universal de texturas. Pero esto no es todo, con RDNA 5 en AMD van a volver a competir en todas las gamas del mercado de las tarjetas gráficas, lo que significa que volveremos a ver al menos un modelo tope de gama, cosa que no ocurrió con RDNA 4, donde la opción más potente de AMD, la Radeon RX 9070 XT, compite con la GeForce RTX 5070 Ti, y por tanto queda por detrás de las GeForce RTX 5080 y GeForce RTX 5090. Tarjetas gráficas RDNA 5: posibles especificaciones y rendimiento Radeon RX 10090 XT Tope de gama. 96 unidades de computación a 3 GHz. 12.032 shaders. 96 núcleos de cuarta generación para acelerar trazado de rayos. 192 núcleos de tercera generación para acelerar IA. Bus de 384 bits con 24 GB o 36 GB de GDDR7. Ancho de banda de 1,7 TB/s. Posible precio: ",
-      "link": "https://www.muycomputer.com/2026/08/04/las-tarjetas-graficas-rdna-5-ya-estan-en-fase-avanzada-de-desarrollo-posibles-especificaciones-rendimiento-y-precio/",
-      "pubDate": "Tue, 04 Aug 2026 15:32:29 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/AMD-Radeon-RDNA-5.jpg"
-    },
-    {
-      "id": "81f6e727cac61023827a",
-      "title": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
-      "summary": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
-      "link": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 15:21:23 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6143/live/e3e22180-9005-11f1-9dfb-fd4408d16f2f.jpg"
-    },
-    {
       "id": "a4f15072a1e77ac9da24",
       "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
       "summary": "Después de la pandemia, Miami se ha convertido en uno de los mercados inmobiliarios más calientes de EE.UU. y el mundo. Te contamos las razones.",
@@ -484,7 +421,7 @@
     {
       "id": "774ef0f23da321da3430",
       "title": "La nueva apuesta de Zalando no es un marketplace. Es una IA que genera fotos y vídeos de producto",
-      "summary": "Zalando ha presentado su resultados correspondientes al segundo trimestre del año, en los que da continuidad a los buenos indicadores presentados en el periodo anterior. Así, el popular marketplace alemán ha elevado su GMV (el volumen bruto de las mercancías vendidas) un 20,7% interanual hasta los 4.915 millones de euros. Por su parte, los ingresos ascendieron hasta los 3.424 millones de euros (+20,8%) . El 90,4% de estos ingresos corresponden a su canal B2C (que crece un 20,3%), mientras que el canal B2B de Zalando crece un 27,6% interanual hasta alcanzar los 334,7 millones de euros. En este campo, el del B2B, la compañía destaca que &#8220;está abriendo su infraestructura logística, software y capacidades de servicio para convertirse en un facilitador clave para las transacciones de comercio electrónico de marcas y minoristas con su sistema operativo ZEOS, independientemente de si se realizan dentro o fuera de su plataforma&#8221;. Recordemos que ZEOS Fulfillment ya opera en una docena de mercados , incluyendo España, y permite a los vendedores conectarse con 10 canales de venta distintos, incluyendo sus propias tiendas online y marketplaces, cubriendo así el 85% de los principales marketplaces en Europa. En cualquier caso, no todas las cifras de estas cuentas trimestrales son tan buenas. El beneficio neto (73,8 millones de euros) cae un 23,6% respecto del mismo periodo del año anterior, algo que la compañía achaca principalmente a la consolidación total del negocio de About You (adquirido a mediados de 2025). Lo que no es discutible es lo positivo de sus indicadores de negocio: el número de clientes activos en los últimos doce meses ha crecido un 18,14% hasta los 62,5 millones , mientras que el número de pedidos registrados durante el trimestre alcanzó los 77,5 millones (+19%). Por su parte, el ticket de la cesta media en Zalando también se encarece hasta los 63,4 euros (+2,9%). La apuesta de Scayle Studios para reinventar los procesos creativos en moda Dentro de",
+      "summary": "Zalando ha presentado sus resultados correspondientes al segundo trimestre del año, en los que da continuidad a los buenos indicadores presentados en el periodo anterior. Así, el popular marketplace alemán ha elevado su GMV (el volumen bruto de las mercancías vendidas) un 20,7% interanual hasta los 4.915 millones de euros. Por su parte, los ingresos ascendieron hasta los 3.424 millones de euros (+20,8%) . El 90,4% de estos ingresos corresponden a su canal B2C (que crece un 20,3%), mientras que el canal B2B de Zalando crece un 27,6% interanual hasta alcanzar los 334,7 millones de euros. En este campo, el del B2B, la compañía destaca que &#8220;está abriendo su infraestructura logística, software y capacidades de servicio para convertirse en un facilitador clave para las transacciones de comercio electrónico de marcas y minoristas con su sistema operativo ZEOS, independientemente de si se realizan dentro o fuera de su plataforma&#8221;. Recordemos que ZEOS Fulfillment ya opera en una docena de mercados , incluyendo España, y permite a los vendedores conectarse con 10 canales de venta distintos, incluyendo sus propias tiendas online y marketplaces, cubriendo así el 85% de los principales marketplaces en Europa. En cualquier caso, no todas las cifras de estas cuentas trimestrales son tan buenas. El beneficio neto (73,8 millones de euros) cae un 23,6% respecto del mismo periodo del año anterior, algo que la compañía achaca principalmente a la consolidación total del negocio de About You (adquirido a mediados de 2025). Lo que no es discutible es lo positivo de sus indicadores de negocio: el número de clientes activos en los últimos doce meses ha crecido un 18,14% hasta los 62,5 millones , mientras que el número de pedidos registrados durante el trimestre alcanzó los 77,5 millones (+19%). Por su parte, el ticket de la cesta media en Zalando también se encarece hasta los 63,4 euros (+2,9%). La apuesta de Scayle Studios para reinventar los procesos creativos en moda Dentro d",
       "link": "https://marketing4ecommerce.net/la-nueva-apuesta-de-zalando-no-es-un-marketplace-es-una-ia/",
       "pubDate": "Tue, 04 Aug 2026 09:36:01 +0000",
       "source": "Marketing4ecommerce",
@@ -566,26 +503,6 @@
       "subcat": "desarrollo"
     },
     {
-      "id": "1841a00c82633ebb8c8e",
-      "title": "Tres móviles plegables para tres personalidades diferentes",
-      "summary": "La nueva generación de plegables Samsung Galaxy Z Fold8.",
-      "link": "https://elpais.com/tecnologia/2026-07-30/tres-moviles-plegables-para-tres-personalidades-diferentes.html",
-      "pubDate": "Thu, 30 Jul 2026 08:41:53 GMT",
-      "source": "El País Tech",
-      "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/NHALIX57M5B4PPDDJ2VVBGTLUI.jpg?auth=832642f389000ebac99e3cfada7a95d16bdc6fe9b2130c2c310a177070f73552"
-    },
-    {
-      "id": "86c5df3cf13352c51e29",
-      "title": "El Benfica endosa un 'set' al Hearts con un golazo de Prestianni",
-      "summary": "Gianluca Prestianni celebra un gol con Jhon Durán.",
-      "link": "https://www.marca.com/futbol/europa-league/2026/08/06/benfica-endosa-set-hearts-golazo-prestianni.html",
-      "pubDate": "Thu, 06 Aug 2026 23:42:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74ff4fd2c6c.jpeg"
-    },
-    {
       "id": "16c540cb12c0e52638f1",
       "title": "El chavismo y la oposición venezolana tienen su primer encuentro bajo tutela de Estados Unidos",
       "summary": "Dinorah Figuera y Jorge Rodríguez al inicio del encuentro en Caracas, este jueves.",
@@ -596,16 +513,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/RLPW5TVRUJNMNG3RA3BF4ZWII4.jpg?auth=7bf01729655da280cc9a2b334035ae5b68bee75da33b5304ce2bbcc2b733e0ea"
     },
     {
-      "id": "8332e66def3e49912011",
-      "title": "Uche sufre \"una contusión en la rótula\"",
-      "summary": "Christantus Uche tuvo que salir en camilla tras una durísima entrada de Mawissa, que terminó expulsado. Se teme que el nigeriano pueda sufrir una importante lesión de rodilla.",
-      "link": "https://www.marca.com/futbol/getafe/2026/08/06/primer-diagnostico-uche-senala-contusion-rotula.html",
-      "pubDate": "Thu, 06 Aug 2026 23:26:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/dCnKU1gTFB0kxXkQz.jpeg"
-    },
-    {
       "id": "113cdb1ead78f35a2037",
       "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
       "summary": "Los científicos crearon 16 virus exitosos cuyo código genético fue diseñado mediante inteligencia artificial.",
@@ -613,28 +520,8 @@
       "pubDate": "Thu, 06 Aug 2026 23:15:03 GMT",
       "source": "BBC Mundo",
       "cat": "ia",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f8d/live/4918d480-91dd-11f1-b5f9-73897e7dfc5b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/280f/live/4cea7550-9232-11f1-b37c-576fd8256624.jpg",
       "subcat": "herramientas"
-    },
-    {
-      "id": "5935f5fe79732f314865",
-      "title": "Rodri, el fichaje que condiciona todo el mercado",
-      "summary": "Rodri, alzando el Balón de Oro del Mundial.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/06/rodri-fichaje-condiciona-mercado.html",
-      "pubDate": "Thu, 06 Aug 2026 23:12:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74f0a583a88.jpeg"
-    },
-    {
-      "id": "93b71bd106a6d2f25cba",
-      "title": "El Ajax de Míchel y el Braga de Carlos Vicens golpean primero",
-      "summary": "Míchel, con el Ajax.",
-      "link": "https://www.marca.com/futbol/conference-league/2026/08/06/ajax-michel-braga-carlos-vicens-golpean-primero.html",
-      "pubDate": "Thu, 06 Aug 2026 23:10:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74f815360ad.jpeg"
     },
     {
       "id": "769e692f055270f9599d",
@@ -648,16 +535,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "1dca1de4c68964055e70",
-      "title": "Diomande: \"Fichar por el Madrid es un sueño de infancia hecho realidad\"",
-      "summary": "Yan Diomande.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/06/diomande-fichar-madrid-sueno-infancia-hecho-realidad.html",
-      "pubDate": "Thu, 06 Aug 2026 23:08:54 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74f79bc1a74.jpeg"
-    },
-    {
       "id": "555a346c3340fdfad2e2",
       "title": "Marvel Studios da un paso clave para encontrar al nuevo Cíclope",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Marvel Studios parece haber encontrado al actor que liderará a la nueva Patrulla-X. Según una información exclusiva de Deadline , Kit Connor es el gran favorito para interpretar a Scott Summers / Cíclope en la esperada película de X-Men , una elección que llega apenas unos días después de que trascendiera que Samara Weaving estaba en conversaciones para dar vida a Emma Frost. Aunque Marvel no ha confirmado oficialmente el fichaje, las fuentes del medio estadounidense aseguran que el estudio ya habría tomado la decisión tras varias semanas de reuniones y pruebas con diferentes candidatos. Si finalmente se cierra el acuerdo, Connor se convertirá en el tercer actor en interpretar a Cíclope en acción real, iniciando una nueva etapa para los mutantes dentro del Universo Cinematográfico de Marvel. Marvel ya tendría a su nuevo líder para los X-Men El proceso de casting para la nueva película de los X-Men se ha convertido en uno de los secretos mejor guardados de Marvel Studios durante los últimos meses. Desde que Jake Schreier fue anunciado como director del proyecto, numerosos nombres han sonado para interpretar a los personajes más emblemáticos de la Patrulla-X. Según Deadline, tanto Schreier como el presidente de Marvel Studios, Kevin Feige , mantuvieron reuniones con distintos aspirantes antes de decidirse por Kit Connor la pasada semana. De confirmarse, Connor heredará uno de los personajes más importantes de toda la historia de Marvel. Scott Summers apareció por primera vez en The X-Men #1 , publicado en 1963 por Stan Lee y Jack Kirby , y desde entonces ha sido el líder habitual del equipo, famoso por los devastadores rayos ópticos que canaliza mediante su característico visor de cuarzo rubí. Kit Connor ciclope MCU El actor de Heartstopper continúa su ascenso en Hollywood La carrera de Kit Connor no ha dejado de crecer desde que conquistó al público con Heartstopper , la exitosa serie de Netflix basada en ",
@@ -666,16 +543,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/ciclope-marvel.jpg"
-    },
-    {
-      "id": "7b2789a4bbbfef8214a6",
-      "title": "Nsongo Bil mantiene invicto al Deportivo",
-      "summary": "Logró el tanto del empate ante la Fiorentina en el minuto 89",
-      "link": "https://www.marca.com/futbol/deportivo/2026/08/06/nsongo-bil-mantiene-invicto-deportivo.html",
-      "pubDate": "Thu, 06 Aug 2026 22:54:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74f420d1f7f.jpeg"
     },
     {
       "id": "7d5204780e0e59bde762",
@@ -706,46 +573,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-cine-2026-1.jpg"
-    },
-    {
-      "id": "9863afe5374b36ff65d2",
-      "title": "Virgili se marcha al Brujas",
-      "summary": "Virgi se lamenta durante el partido en Mendizorroza en presencia de Mojica",
-      "link": "https://www.marca.com/futbol/mallorca/2026/08/06/virgili-marcha-brujas.html",
-      "pubDate": "Thu, 06 Aug 2026 21:38:55 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74e18516c4e.jpeg"
-    },
-    {
-      "id": "97d35ae10688a9186b50",
-      "title": "Tras la salida de Juanlu, el Sevilla anuncia el traspaso de Sow al Genoa",
-      "summary": "Djibril Sow posa como nuevo jugador del Genoa.",
-      "link": "https://www.marca.com/futbol/sevilla/2026/08/06/salida-juanlu-sevilla-anuncia-traspaso-sow-genoa.html",
-      "pubDate": "Thu, 06 Aug 2026 21:26:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74dca65094d.jpeg"
-    },
-    {
-      "id": "9d3311301770ff3e97ce",
-      "title": "Gianni Infantino cambia los planes y no asistirá a la posesión de Abelardo De La Espriella",
-      "summary": "Gianni Infantino no asistirá a la posesión de Abelardo De La Espriella.",
-      "link": "https://www.marca.com/co/2026/08/06/gianni-infantino-cambia-planes-asistira-posesion-abelardo-espriella.html",
-      "pubDate": "Thu, 06 Aug 2026 21:24:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74de8a30feb.jpeg"
-    },
-    {
-      "id": "61771226c4071a3e56ed",
-      "title": "Juan Pablo y Sebastián Montoya encenderán el Gran Malecón de Barranquilla con el Circuito Pony Malta",
-      "summary": "Juan Pablo Montoya y su hijo Sebastián se enfrentarán en Barranquilla.",
-      "link": "https://www.marca.com/co/2026/08/06/juan-pablo-sebastian-montoya-encenderan-gran-malecon-barranquilla-circuito-pony-malta.html",
-      "pubDate": "Thu, 06 Aug 2026 21:12:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74dab7e6d40.jpeg"
     },
     {
       "id": "1b15a8c75f88ac0b12f3",
@@ -1205,16 +1032,6 @@
       "image": "https://static.eldiario.es/clip/62ff1c3d-bb62-4895-a217-e984eafa112d_16-9-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "855368ff1e24e0505620",
-      "title": "Tom Holland revela el sacrificio que hizo por una escena de Spider-Man: Brand New Day",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Atención SPOILERS. La película Spider-Man: Brand New Day sigue dejando anécdotas tan curiosas como inesperadas. Tom Holland ha contado el método extremo que probó para rodar una de las escenas más comentadas de la película junto a Florence Pugh , aunque reconoce que el experimento no salió precisamente como esperaba. Tom Holland quiso llevar su físico al límite para una de las escenas más comentadas de Spider-Man: Brand New Day Spider-Man: Brand New Day ya está en los cines y una de las secuencias que más comentarios está generando entre los espectadores no tiene que ver con una gran batalla ni con un giro inesperado, sino con un momento de comedia protagonizado por Peter Parker y Yelena Belova. La química entre Tom Holland y Florence Pugh funciona tan bien que la escena se ha convertido en una de las favoritas del público, aunque detrás de ella hubo un pequeño sacrificio que el actor británico preferiría no repetir. Florence Pugh En la película, Spider-Man busca la ayuda de Yelena para hacer frente a la misteriosa amenaza psíquica que está sembrando el caos en Nueva York. La nueva Vengadora recibe al trepamuros en una casa de baños rusa convertida en su peculiar oficina y le obliga a entrar con ella en las termas vestido únicamente con su máscara y ropa interior. El resultado es una conversación tan absurda como divertida que rompe por completo el tono habitual de las escenas entre superhéroes. Rodar esa secuencia, sin embargo, hizo que Tom Holland sintiera una presión añadida. Sabía que iba a aparecer prácticamente semidesnudo en pantalla y decidió probar uno de esos métodos de preparación física que suelen utilizar algunos actores antes de escenas similares. El actor explica por qué nunca volvería a hacerlo Durante una entrevista concedida a Entertainment Weekly , Holland explicó que quiso comprobar por sí mismo si una conocida técnica de deshidratación realmente ofrecía resultados delante de la cámara",
-      "link": "https://www.cinemascomics.com/holland-sacrificio-spider-man-brand-new-day/",
-      "pubDate": "Thu, 06 Aug 2026 10:02:23 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day.jpg"
-    },
-    {
       "id": "4b5d8de05348c6897a1c",
       "title": "Jack Huynh abrirá la IFA 2026: ¿qué anuncios podemos esperar?",
       "summary": "AMD ha confirmado que Jack Huynh, Vicepresidente sénior y director general del Grupo de Computación y Gráficos de AMD, será el encargado de dar la conferencia inaugural de la IFA 2026, y que esta estará centrada alrededor de la era de la IA personal , un tema muy interesante, ya que nos encontramos en una etapa de transición clara en la que la IA en local se está convirtiendo en algo cada vez más común. Para poder disfrutar de una IA personalizada en local necesitamos contar con un hardware que cumpla con una serie de requisitos mínimos, y con modelos bien entrenados que sean accesibles para el gran público. Ahí es donde entra en juego la computación de alto rendimiento por el lado de AMD, que permite entrenar dichos modelos y cuantificarlos en niveles de precisión adecuados para que estos se puedan utilizar en ordenadores de consumo general. AMD ofrece soluciones en ambos niveles. Si miramos al lado profesional y a los sistemas para entrenamiento de IA y ejecución de modelos agénticos nos encontramos con innovaciones tan importantes como el rack AMD Helios , los nuevos procesadores EPYC Venice y las aceleradoras gráficas Instinct MI455X. En el lado de consumo tenemos también soluciones muy interesantes, como las APUs Ryzen AI serie 400 , que cuentan con una NPU de 55 TOPs preparada para trabajar con Copilot+ de Microsoft. Uno de los modelos más populares es la Ryzen AI 9 HX 470, que es una solución muy completa y equilibrada con un buen valor precio-coste, y que se utiliza en portátiles y también en mini PCs. Nosotros tuvimos la oportunidad de probarla en el GEEKOM A9 Max AI de 2026 , y su rendimiento tanto en CPU como en GPU, y en NPU, cumplió con mis expectativas. La compañía que dirige Lisa Su también ha apostado por la AI aplicada a gaming, y en este sentido ha mejorado mucho su ecosistema de soluciones FSR con Redstone , un conjunto de tecnologías por IA que incluyen reescalado, reducción de ruido en trazado de rayos y generación de fotogramas. Con todo esto e",
@@ -1640,6 +1457,146 @@
       "image": "https://imagenes.elpais.com/resizer/v2/RKNY3YTGW5FKZEUS65JTHOVJJA.jpg?auth=550bbbacceb4f58682a6279b41ea67ee03ae0c94afb75022f0b42d3b60f2aded"
     },
     {
+      "id": "abde814a272bb00f71dc",
+      "title": "LaVuelta cambia una etapa clave por desprendimientos",
+      "summary": "Perfil de la etapa",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/07/lavuelta-cambia-etapa-clave-duque-sustituye-hazallanas-desprendimientos.html",
+      "pubDate": "Fri, 07 Aug 2026 10:40:33 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a7599799a7ee.jpeg"
+    },
+    {
+      "id": "cdad5b37c97fbec813dc",
+      "title": "Las fotos de Badosa en el hospital... que siembran las dudas en el mundo del tenis",
+      "summary": "Badosa, en el hospital",
+      "link": "https://www.marca.com/tenis/2026/08/07/fotos-badosa-hospital-siembran-dudas-aficion.html",
+      "pubDate": "Fri, 07 Aug 2026 10:36:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a7594f22bd65.jpeg"
+    },
+    {
+      "id": "826f3b6f9310ede4ac6f",
+      "title": "La fiebre por el Atlético se dispara en Seúl",
+      "summary": "Barrios, Le Normand, Lookman, Arnau Ortiz, Domínguez, Castillo y Esquivel cumplen el sueño de 500 coreanos en busca de un recuerdo con sus ídolos en Casa Atleti Seúl",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/07/fiebre-atletico-dispara-seul.html",
+      "pubDate": "Fri, 07 Aug 2026 10:34:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/FfZdro.jpeg"
+    },
+    {
+      "id": "cea97bde281c10ab69e3",
+      "title": "\"El vicio del Valencia de regalar jugadores\"",
+      "summary": "Hugo González, la sensación de la pretemporada del Celta.",
+      "link": "https://www.marca.com/futbol/valencia/opinion/2026/08/07/vicio-valencia-regalar-jugadores.html",
+      "pubDate": "Fri, 07 Aug 2026 10:30:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a7596bdeac22.jpeg"
+    },
+    {
+      "id": "d62b580e537d42c47e8a",
+      "title": "El Valencia ya sufre sus propias restricciones con Arnau Martínez y con el Girona",
+      "summary": "Arnau Martínez marcó un gol la temporada pasada al Valencia en Montilivi.",
+      "link": "https://www.marca.com/futbol/valencia/2026/08/07/valencia-sufre-propias-restricciones-arnau-martinez-girona-pide-minimo-6-millones.html",
+      "pubDate": "Fri, 07 Aug 2026 10:19:45 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a7594dad5819.jpeg"
+    },
+    {
+      "id": "453e40ac5b7bbed0d0ff",
+      "title": "El Barça hace caja con Virgili",
+      "summary": "Virgili, en un partido ante el Rayo.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/07/barca-caja-virgili.html",
+      "pubDate": "Fri, 07 Aug 2026 09:54:26 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a758dfb3c573.jpeg"
+    },
+    {
+      "id": "cf72c378fced4857ad97",
+      "title": "Pablo Alborán estalla con la última medida en la sanidad pública de Andalucía: “Basta de burlarse de ciudadanos”",
+      "summary": "Pablo Alborán",
+      "link": "https://www.marca.com/tiramillas/musica/2026/08/07/pablo-alboran-defiende-sanidad-publica-andalucia-basta-burlarse-ciudadanos.html",
+      "pubDate": "Fri, 07 Aug 2026 09:53:14 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/13/6a043b81f3959.jpeg"
+    },
+    {
+      "id": "912006fa539bd8379dd1",
+      "title": "\"Es un error capital del Real Madrid\"",
+      "summary": "El giro de guión de Rodri Hernandez en el mercado",
+      "link": "https://www.marca.com/radio/2026/08/07/error-capital-real-madrid-necesitaba-rodri-barcelona.html",
+      "pubDate": "Fri, 07 Aug 2026 09:44:39 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a758b7d282b1.jpeg"
+    },
+    {
+      "id": "396d389dad08ce6f3b8d",
+      "title": "Los mensajes que esconde el fichaje de Rodri",
+      "summary": "Rodri, en un partido de la selección española.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/07/mensajes-esconde-fichaje-rodri.html",
+      "pubDate": "Fri, 07 Aug 2026 09:16:59 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a75840a449c2.jpeg"
+    },
+    {
+      "id": "02a4f866415357768f03",
+      "title": "David Sánchez: \"Lo que más debería doler al madridismo es que, sin dinero...\"",
+      "summary": "El Barça toma la delantera al Madrid por Rodri",
+      "link": "https://www.marca.com/radio/2026/08/07/david-sanchez-sacude-verano-rodri-elegido-proyecto-deportivo-barca-encima-madrid.html",
+      "pubDate": "Fri, 07 Aug 2026 09:16:02 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a758568cb018.jpeg"
+    },
+    {
+      "id": "cd6877ccf5154256ac2d",
+      "title": "Luca Zidane, a un paso de reforzar la portería del Leganés",
+      "summary": "Luca Zidane, con el Granada.",
+      "link": "https://www.marca.com/futbol/leganes/2026/08/07/luca-zidane-paso-reforzar-porteria-leganes.html",
+      "pubDate": "Fri, 07 Aug 2026 09:03:37 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/69c26f6a4d3ce.jpeg"
+    },
+    {
+      "id": "cbe488001e462b1ed007",
+      "title": "El Tottenham rechaza la primera oferta del Atleti por el Cuti Romero",
+      "summary": "CUTI ROMERO, EN SU ENFRENTAMIENTO DE CHAMPIONS ANTE EL ATLÉTICO EL CURSO PASADO.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/07/tottenham-pide-cuti-romero.html",
+      "pubDate": "Fri, 07 Aug 2026 09:03:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a757e3ef1629.jpeg"
+    },
+    {
+      "id": "ef3e681dc926babb6704",
+      "title": "¿Enzo Fernández, el recambio de Rodri?",
+      "summary": "Transfermarkt ha actualizado tras el Mundial su listado de los 25 jugadores más valiosos del mercado.",
+      "link": "https://www.marca.com/futbol/mercado-fichajes/2026/08/07/6a758005b364eacdc847e3c8.html",
+      "pubDate": "Fri, 07 Aug 2026 08:58:56 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a61b5b534fd5.jpeg"
+    },
+    {
+      "id": "ad90a0832dca6238f1d1",
+      "title": "La AFA no se baja del barco de Infantino",
+      "summary": "La AFA muestra su apoyo a Infantino",
+      "link": "https://www.marca.com/futbol/mundial/2026/08/07/federacion-argentina-muestra-respaldo-gestion-infantino.html",
+      "pubDate": "Fri, 07 Aug 2026 08:57:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a7581b08a2a5.jpeg"
+    },
+    {
       "id": "33b9e610e901ef38d4a3",
       "title": "'Wanderlust Queremos hacer historia': el barco de los sueños compartidos que pone rumbo a la igualdad",
       "summary": "Josep Pons y Nuria Sánche Nomdedeu posan en el RCNP.",
@@ -1650,24 +1607,54 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a751db07b161.jpeg"
     },
     {
-      "id": "930363a1aedcaa0db5f6",
-      "title": "Kang-in Lee invita a cenar...¡a toda la expedición del Atlético!",
-      "summary": "KANG-IN LEE SALUDA A OBLAK A SU LLEGADA AL HOTEL.",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/07/kang-in-lee-invita-cenar-toda-expedicion-atletico.html",
-      "pubDate": "Fri, 07 Aug 2026 08:31:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a757b21806eb.jpeg"
+      "id": "f944ef4ebd0e549b8d53",
+      "title": "Arrestados por el ICE en un cementerio: dos ciudadanos denuncian que agentes cortaron el candado y usaron gas pimienta",
+      "summary": "Dos trabajadores de un cementerio de Forest Park, un suburbio de Chicago, Illinois, presentaron reclamaciones contra el gobierno federal por un operativo ocurrido el 7 de octubre de 2025. Darren Eichler y Daniel Greer , ambos ciudadanos estadounidenses, sostuvieron que agentes del Servicio de Inmigración y Control de Aduanas ( ICE , por sus siglas en inglés) ingresaron a un sector privado, cortaron un candado y los detuvieron después de utilizar gas pimienta . Cómo fue el ingreso de los agentes del ICE al cementerio De acuerdo con la acusación presentada por la Unión Estadounidense por las Libertades Civiles ( ACLU , por sus siglas en inglés), Eichler y Greer realizaban tareas de mantenimiento en el cementerio Concordia, situado en Forest Park, cuando observaron a agentes de inmigración que intentaban detener a un hombre en el río Des Plaines , ubicado junto al predio. Ambos le reclamaron a los oficiales que se retiraran del lugar. Poco después, un grupo de aproximadamente siete funcionarios llegó hasta el sector cercado donde trabajaban los dos hombres. Según las denuncias, los agentes estaban armados y algunos tenían el rostro cubierto . Los oficiales del ICE exigieron que los trabajadores abrieran una puerta que daba acceso a una zona privada. Eichler y Greer respondieron que necesitaban autorización de sus superiores antes de permitir el ingreso. Ante la negativa, uno de los agentes tomó una herramienta de un vehículo y cortó el candado . Según el propio relato de los trabajadores, después de abrir la puerta, los agentes ingresaron al área y utilizaron gas pimienta contra ambos . Eichler y Greer fueron derribados y posteriormente detenidos. “Mientras los agentes intensificaban su ataque contra nosotros, yo seguía pensando que se detendrían y reconocerían que su comportamiento no era correcto”, dijo Daniel Greer. “En cada momento, aumentaron la violencia y nos trataron como basura ”, relató. Uno de los trabajadores fue llevado a un hospital Eichler declaró que, t",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/arrestados-por-el-ice-en-un-cementerio-dos-ciudadanos-denuncian-que-agentes-cortaron-el-candado-y-nid07082026/",
+      "pubDate": "Fri, 07 Aug 2026 08:38:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/E2VVYTL6YVDMZEWOKLHJGPXLQM.png?auth=1d50a6cc6e611666533c7ffd45dad853d8fc5b73da1c434b378486c17853d17f&smart=true&width=2000&height=1333"
     },
     {
-      "id": "acdbeeba855ac52584fd",
-      "title": "La Federación mexicana anuncia su apoyo a Infantino",
-      "summary": "Infantino durante el sorteo del Mundial.",
-      "link": "https://www.marca.com/futbol/2026/08/07/federacion-mexicana-anuncia-apoyo-infantino.html",
-      "pubDate": "Fri, 07 Aug 2026 08:16:40 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a72de08ca554.jpeg"
+      "id": "b7e66f5f757c6b6afb67",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta",
+      "summary": "Un militar vigila la playa del Tarajal de Ceuta, este viernes.",
+      "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "pubDate": "Fri, 07 Aug 2026 08:35:36 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/G2IGW52VP5BS5MIFQ2QU6ZFOGU.jpg?auth=99e39661a37d95dae5ec745328f054414da54328e0fd4f7bd0c50eb42b4beab4"
+    },
+    {
+      "id": "941dcaea23ec82167843",
+      "title": "Ten cuidado con las gafas que compres para ver el eclipse, no todas sirven y las consecuencias pueden ser muy graves",
+      "summary": "A estas alturas, todo el mundo es consciente del peligro que puede suponer mirar durante un tiempo prolongado al sol sin usar nada. Sin embargo, cuando hay eclipses, surgen teorías alternativas sobre cómo verlo: con las gafas de sol, radiografías y otros objetos cotidianos que para nada cumplen con la función, al menos de manera segura. La única manera de ver un eclipse directamente sin hacerte daño a la vista es usando unas gafas homologadas . Olvídate de lo demás. En los últimos días seguramente hayas visto muchas promociones de gafas para ver el eclipse. En algunos sitios las regalan pero seguramente se hayan acabado ya por lo que la opción más cómoda es comprarlas en por Internet. Puedes encontrar ofertas muy interesantes, con packs de cuatro gafas (dos para adulto y dos para niños) por poco más de diez euros . También tienes un pack de dos gafas por seis euros o un pack de 10 gafas por sólo 24 euros . Además, gracias al envío rápido, te aseguras que llegue prácticamente de un día para otro, pero no lo dejes escapar mucho porque el eclipse es el próximo miércoles 12 de agosto, alrededor de las 7 de la tarde. Pack de cuatro gafas homologadas para ver el eclipse del 12 de agosto. En PcComponentes por 10€ *Los precios pueden haber cambiado desde la publicación Mirar al Sol directamente puede dañar la retina, provocando quemaduras solares en la superficie ocular debido a los rayos ultravioletas. Lo más importante: gafas homologadas Cuando vayas a comprar las gafas, la clave es que estén homologadas y cumplan con el estándar ISO 12312-2 y llevar también impreso el distintivo CE de la Unión Europea . También debes fijarte en el nombre y dirección del fabricante, la fecha de caducidad y que las instrucciones de uso vengan correctamente explicadas. Si quieres saber más sobre el estándar ISO, puedes verlo aquí . De esta manera, es muy importante que no compres gafas donde no aparezca este estándar porque tus ojos corren un serio problema, con secuelas que pueden ser para",
+      "link": "https://hipertextual.com/ciencia/gafas-eclipse/",
+      "pubDate": "Fri, 07 Aug 2026 08:31:26 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/jongsun-lee-F-pSZO_jeE8-unsplash-scaled.jpg?fit=1024%2C682&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "73802fea9a1e9ffa494d",
+      "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
+      "summary": "Un estudiante se abrazaba este viernes a un familiar tras el tiroteo en una escuela a las afueras de Bangkok, la capital tailandesa.",
+      "link": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
+      "pubDate": "Fri, 07 Aug 2026 08:31:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/I5DWZKNW4JGJ3IQFEC47YTMMBA.JPG?auth=40e7b92a24358cfd2f0dc3c3e52bc1d169261c4fa10ed9b1d774dff9de124313"
+    },
+    {
+      "id": "f7933f1386863699b97f",
+      "title": "Nuevos juegos que llegan a GeForce Now en agosto",
+      "summary": "NVIDIA ha confirmado la lista completa de juegos que llegarán a GeForce Now este mes de agosto, y tenemos un total de 26 nuevas incorporaciones que vamos a repasar a continuación. La compañía también está presente en la QuakeCon, un evento muy importante para los amantes de los clásicos de id Software donde se ha presentado Dawn of Quake, una expansión para el Quake original. En dicho evento NVIDIA tiene, además, un estand en el que se puede probar GeForce Now Ultimate , una modalidad que utiliza el equivalente a una tarjeta gráfica GeForce RTX 5080, y que nos permite jugar en 5K con trazado de rayos, DLSS 4 con multigeneración de fotogramas y hasta 360 FPS, lo que nos permitirá aprovechar monitores con una alta tasa de refresco. Nuevas incorporaciones en GeForce Now para agosto Big Walk (Steam, 4 de agosto). Beacon Pines (Gratis en Epic Games Store, 6 de agosto). Sovereign Tower (Steam, 6 de agosto). Expeditions: Samurai (Steam, 7 de agosto). The Adventures of Elliot: The Millennium Tales (Xbox, Microsoft Store). The Incident at Galley House (Steam). Machine Party (Steam). World of Warships: Legends (Steam). Pax Autocratica (Steam, 10 de agosto). Car Wash Simulator (Steam, 10 de agosto). Clawed (Steam, 13 de agosto). Hell Let Loose: Vietnam (Steam, 13 de agosto). Sandustry (Steam y Xbox, disponible en Game Pass, 13 de agosto). The Sinking City 2 (Steam, 18 de agosto). Mortal Shell II (Steam, 20 de agosto). Gallipoli (Steam, 20 de agosto) Aliens: Fireteam Elite 2 (Steam, 25 de agosto). Resonance: A Plague Tale Legacy (Steam y Xbox, disponible en Game Pass, 27 de agosto). Breathedge 2 (Steam, 30 de agosto). High on Life (Steam). High on Life 2 (Steam y Xbox, disponible en Game Pass). Paradise Killer (Steam). Misery (Steam). Pratfall (Steam). Starvester (Steam). El pasado mes de agosto se incorporaron al catálogo de GeForce Now un total de 15 juegos, lo que significa que en apenas dos meses este servicio de juego en la nube habrá ampliado el total de juegos disponible",
+      "link": "https://www.muycomputer.com/2026/08/07/nuevos-juegos-que-llegan-a-geforce-now-en-agosto/",
+      "pubDate": "Fri, 07 Aug 2026 08:19:26 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/GeForce-Now-1.jpeg"
     },
     {
       "id": "b65f72c1aa1e8714f391",
@@ -1690,6 +1677,56 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a744fca37855.jpeg"
     },
     {
+      "id": "12ed89411a310ea7a0e3",
+      "title": "Va a ser muy complicado hacerte con un iPhone 18 Pro en su lanzamiento",
+      "summary": "Queda alrededor de un mes para conocer todos los detalles del iPhone 18 Pro. Y aunque ya se han filtrado casi todos los detalles importantes del nuevo terminal de Apple, ahora un informe de última hora apunta a que la disponibilidad del nuevo iPhone de Apple va a ser muy limitada en su lanzamiento. Si bien no es algo nuevo, parece que Apple tiene algunos problemas (como el resto de la industria) para obtener las memorias necesarias para abastecer toda su demanda prevista del iPhone 18 Pro. La razón principal reside en que el iPhone 18 Pro utilizará el procesador A20 Pro de Apple, el primer chip fabricado con el nodo N2 de TSMC, cuya producción a gran escala comenzó a principios de este año. El problema es que el A20 Pro se encapsula junto con la memoria DRAM mediante el nuevo proceso WMCM ( Wafer-Level Multi-Chip Module ) de TSMC. Y claro, no hay suficiente memoria. Según este reporte, TSMC acumula procesadores para Apple por valor de unos 1.000 millones de dólares, pero no tiene suficiente stock de DRAM disponible y está a la espera de recibir la cantidad necesaria para proceder a su encapsulado y pasar a la siguiente fase. Y eso está retrasando la producción enormemente, y por tanto, limitando su disponibilidad en el lanzamiento y en los consiguientes meses. Será muy difícil comprar un iPhone 18 Pro Si bien la misma fuente apunta que tanto Apple como sus proveedores «siguen confiando en poder satisfacer la demanda inicial», les preocupa que, vendidas las primeras unidades, los plazos de entrega de los pedidos se empiecen a alargar y den lugar a un agotamiento del inventario (tanto físico como online) , situación que haría que fuera tarea casi imposible encontrar en muchos sitios un iPhone 18 Pro sin una reserva previa. Esta situación se agrava incluso más que otros años, puesto que, según los rumores, el iPhone 18 Pro sería el único nuevo modelo disponible (dejando de lado el iPhone Fold), puesto que Apple no lanzará su nuevo modelo base en otoño y, en su lugar, e",
+      "link": "https://hipertextual.com/apple/va-a-ser-muy-complicado-hacerte-con-un-iphone-18-pro-en-su-lanzamiento/",
+      "pubDate": "Fri, 07 Aug 2026 08:05:59 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/iphone-18-pro-1-1.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "e828e7576298de0900a3",
+      "title": "Sale a la luz el actor que interpretará a Ganondorf en The Legend of Zelda",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La película de The Legend of Zelda sigue guardando casi todos sus secretos, pero una nueva filtración apunta a que ya tiene al intérprete de su gran villano. Si se confirma, el reparto principal de la esperada adaptación de Nintendo estaría prácticamente completo a menos de un año de su estreno. La espera por The Legend of Zelda se está haciendo larga, y Nintendo junto a Sony Pictures no parecen tener ninguna intención de levantar el velo antes de tiempo. Desde que terminó el rodaje hace unos meses, apenas han trascendido detalles de la película dirigida por Wes Ball . Precisamente por eso, cualquier información relacionada con el reparto se convierte en una pequeña bomba para los aficionados. La última tiene que ver con Ganondorf , el antagonista más emblemático de la saga. Según ha revelado el periodista Kyle Buchanan, de The Times , a través de su cuenta en X, el actor australiano Uli Latukefu sería el encargado de interpretar al temible rey del mal. Conviene tomar esta información con cierta cautela, ya que Nintendo todavía no ha realizado un anuncio oficial, pero Buchanan suele contar con buenas fuentes dentro de la industria y la noticia ha despertado un enorme interés entre los seguidores de la franquicia. Uli Latukefu Uli Latukefu sería el nuevo Ganondorf de The Legend of Zelda Si la filtración termina confirmándose, Uli Latukefu se convertirá en el tercer actor conocido del reparto de The Legend of Zelda. Hasta ahora solo se había anunciado oficialmente que Benjamin Evan Ainsworth interpretará a Link y Bo Bragason dará vida a la princesa Zelda. The Legend of Zelda Aunque su nombre quizá no resulte familiar para todo el mundo, Latukefu lleva años construyendo una carrera muy sólida tanto en cine como en televisión. Muchos espectadores lo recuerdan por interpretar a un joven Dwayne Johnson en la serie Young Rock , un papel que incluso le permitió volver a coincidir con el actor en Black Adam , dond",
+      "link": "https://www.cinemascomics.com/actor-ganondorf-en-the-legend-of-zelda/",
+      "pubDate": "Fri, 07 Aug 2026 08:01:24 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Ganondorf-de-The-Legend-of-Zelda.jpg"
+    },
+    {
+      "id": "17f41513b9141a808ff5",
+      "title": "‘The Legend of Zelda’ será la última película de Sam Neill… que ya tiene villano confirmado",
+      "summary": "La última película del actor Sam Neill será nada menos que la adaptación live-action de The Legend of Zelda . La estrella de Parque Jurásico falleció hace unas semanas a los 78 años. Sin embargo, a pesar de que luchó durante años contra un cáncer que superó a principios de este año, nunca dejó de trabajar. Por ello, aún tiene algunos proyectos por estrenar. Y al parecer, la nueva versión en imagen real del mítico videojuego sería su último gran título . Tal y como ha informado Deadline , Sam Neill aparecerá en The Legend of Zelda , si bien todavía se desconoce su papel exacto en la película. La cinta está llevando un secretismo máximo para evitar filtraciones que puedan arruinarles la experiencia a los fans. La información sobre ella llega en cuentagotas, hasta el punto de que apenas conocemos unos pocos rostros de su reparto, pero ni siquiera la sinopsis oficial. Sea como sea, Sam Neill formará parte de The Legend of Zelda como su, probablemente, última película. Un cierre de carrera que apunta a ser otro éxito masivo entre el público . Ahora, además, los fans tienen otro motivo para ir a verla cuando se estrene: despedirse de tan querido actor. El intérprete, además, estará muy bien acompañado. La película de The Legend of Zelda encuentra a su villano Los protagonistas de la película serán el actor Benjamin Evan Ainsworth ( Pinocho , La maldición de Bly Manor , The Sandman ) como Link y la actriz Bo Bragason ( One Three Girls y The Jetty , Renegade Nell ) como la propia Zelda . Ahora, se han revelado algunos miembros más del reparto, entre ellos su villano principal. El actor Uli Latukefu dará vida al malvado Ganondorf en The Legend of Zelda . El intérprete es conocido principalmente por su papel como una versión joven de Dwayne Johnson en la sitcom Young Rock . También ha trabajado en películas como Black Adam , Next Goal Wins o MaXXXine . Ahora, dará el salto como este pérfido villano , la mismísima encarnación del herlado de la muerte. Se trata de un poderoso h",
+      "link": "https://hipertextual.com/cine-television/the-legend-of-zelda-sera-la-ultima-pelicula-de-sam-neill-que-ya-tiene-villano-confirmado/",
+      "pubDate": "Fri, 07 Aug 2026 08:00:39 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Sam-Neill-The-Legend-of-Zelda.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "4f1af641587cf8449e50",
+      "title": "Perfecciona tu PC con Windows 11 IoT LTSC por 23 euros y Office 2024 Pro por 18 euros",
+      "summary": "Por fin tienes todos los componentes para montar tu PC, ¿pero has pensado en el software que necesitarás para poder utilizarlo y sacarle el máximo partido? Si te has olvidado de esto tranquilo, porque puedes perfeccionar tu nuevo PC con una licencia de Windows 11 IoT LTSC desde solo 23 euros , y prepararlo para maximizar tu productividad con una licencia de Office 2024 Pro desde solo 18 euros. Sí, has leído bien, por solo 41 euros podrás llevarte un pack de Windows 11 IoT LTSC y Office 2024 Pro con validez de por vida, y con el mismo nivel de soporte que ofrecen las versiones retail. ¿Quieres saber cómo es esto posible? Pues gracias a las ofertas de GvGMall , que ha bajado los precios de sus licencias OEM, y que además nos ha proporcionado el cupón «GVGMM» (sin comillas) para que puedas conseguir un 25% de descuento adicional. Ofertas especiales en licencias OEM de Windows, Office y más Clave Microsoft Office 2024 Pro Plus OEM con validez de por vida por 18,42 euros , utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Enterprise LTSC 2024 IoT Edition con validez de por vida por 23,89 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Enterprise LTSC 2024 con validez de por vida por 15,36 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Pro OEM con validez de por vida por 23,49 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 10 Enterprise LTSC 2021 con validez de por vida por 15,24 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Home OEM con validez de por vida por 19,52 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 10 Pro OEM con validez de por vida por 16,43 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 10 Home OEM con validez de por vida por 13,47 euros, utilizando el cupón GVGMM antes d",
+      "link": "https://www.muycomputer.com/2026/08/07/perfecciona-tu-pc-con-windows-11-iot-ltsc-por-23-euros-y-office-2024-pro-por-18-euros/",
+      "pubDate": "Fri, 07 Aug 2026 07:57:48 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/comprar-office-2024-pro-plus.jpg"
+    },
+    {
+      "id": "9d7382d8a71981728041",
+      "title": "Después de años viviendo en su auto, Vera, de 85 años, encontró un lugar propio",
+      "summary": "\"Es realmente doloroso recordarlo porque me hace sentir que fui muy estúpida. Pero la verdad es que no tenía otra alternativa.\" Tras descubrir que no podía hacer frente a los pagos de su hipoteca, se vio obligada a vender su vivienda.",
+      "link": "https://www.clarin.com/internacional/despues-anos-viviendo-auto-vera-85-anos-encontro-lugar-propio_0_ZBy088Q4Eo.html",
+      "pubDate": "Fri, 07 Aug 2026 07:40:48 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/07/_JukqpaT1_1200x630__1.jpg"
+    },
+    {
       "id": "6956e2cfb823f67ba9e5",
       "title": "Kang-in Lee inicia su 'conversión' en Griezmann",
       "summary": "Rondo con los pesos pesados antes del partidillo",
@@ -1698,6 +1735,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/dDTao1gTMophFjrPD.jpeg"
+    },
+    {
+      "id": "bf48a981dfd73adf1ac6",
+      "title": "El joven que atacó una escuela en Tailandia asesinó primero a sus abuelos",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621047-joven-ataco-escuela-tailandia-asesino-primero-abuelos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 07 Aug 2026 07:33:29 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "246da692d0dde980c0f0",
@@ -1790,14 +1837,35 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/05/69f9a775d7cd1.jpeg"
     },
     {
+      "id": "1abdf5dc21e8fc09c414",
+      "title": "Cinco civiles heridos en ataques ucranianos contra la provincia rusa de Bélgorod",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621046-cinco-civiles-heridos-ataques-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 07 Aug 2026 07:21:41 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
       "id": "1120f7b8bf3cf9edfb77",
-      "title": "Paula Blasi enseña los dientes antes del decisivo Mont Ventoux en el Tour: \"Hay mucha guerra por dar aún\"",
+      "title": "Paula Blasi enseña los dientes antes del decisivo Mont Ventoux en el Tour",
       "summary": "La corredora de UAE Team ADQ atiendE MARCA antes de la etapa reina de LaVuelta",
       "link": "https://www.marca.com/ciclismo/tour-francia/2026/08/07/paula-blasi-ensena-dientes-decisivo-mont-ventoux-tour-hay-guerra-dar-aun.html",
       "pubDate": "Fri, 07 Aug 2026 07:21:18 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/09/awkYC1f_mo6YU6cP3.jpeg"
+    },
+    {
+      "id": "6bea11fa976033ad921f",
+      "title": "Récord en los Everglades: capturó 96 pitones en sólo 10 días y ganó 10.000 dólares",
+      "summary": "El certamen busca controlar una de las especies invasoras que más afectan al ecosistema de los Everglades.",
+      "link": "https://www.clarin.com/estados-unidos/record-everglades-capturo-96-pitones-solo-10-dias-gano-10000-dolares_0_oyhRoimU22.html",
+      "pubDate": "Fri, 07 Aug 2026 07:20:48 +0000",
+      "source": "Clarin",
+      "cat": "ia",
+      "image": "https://www.clarin.com/img/2026/08/06/J6AtmftjD_1200x630__1.jpg",
+      "subcat": "diseño"
     },
     {
       "id": "a2cf05f9e7d173079257",
@@ -1810,6 +1878,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74b366d64f6.jpeg"
     },
     {
+      "id": "9397219267db42aa5ca2",
+      "title": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
+      "summary": "El presidente de la Unión Industrial Argentina (UIA), Martín Rappallini , le respondió este jueves al ministro de Economía, Luis Caputo , después de que el funcionario cuestionara a “los tarados que hablan de la industria” (SIC) y sostuvo que “no son declaraciones felices que ayuden al diálogo que tanto se necesita para sacar este país adelante” . También afirmó que “defender la industria no es incompatible con defender la estabilidad macroeconómica , la baja de inflación, el equilibrio fiscal y la normalización de la economía”. El diputado nacional por el Partido Socialista (PS), Esteban Paulón , pidió citar de urgencia a la ministra de Seguridad, Alejandra Monteoliva , para que brinde explicaciones sobre el operativo policial llevado a cabo afuera del Congreso mientras en el interior del recinto se debate la ley de inviolabilidad a la propiedad privada. Entre los puntos claves de la petición presentada por Paulón figura la “ justificación del operativo, la represión injustificada y el uso de camiones hidrantes ”. “Yo solo compito contra mí mismo” , le gusta afirmar a Javier Milei . La máxima con la que responde sobre sus posibilidades de ser reelegido busca tanto descalificar a cualquier rival político-electoral, como subrayar el vacío de adversarios competitivos que le provee la fragmentación y la crisis de liderazgos que padece la oposición. Sin embargo, el espejo le está devolviendo al Presidente la imagen menos deseada. La mayoría de las encuestas más serias cerradas en los últimos 10 días muestran que Milei está perdiendo contra Milei . No en la brumosa y lejana intención de voto para elegir en una góndola vacía de alternativas, sino en otros indicadores más concretos. Leé la nota completa acá. El presidente del Banco Central (BCRA), Santiago Bausili , justificó hoy la intervención del Gobierno en el mercado cambiario al considerar que el Tesoro Nacional es un actor más de ese mercado y descartó que esa decisión implique una reinterpretación de la regla vigen",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
+      "pubDate": "Fri, 07 Aug 2026 07:18:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/A7HHZ42CEFDQFHSFEQGZZONWN4.jpeg?auth=7a9b3b485b08d6ca6ee70eb25f1daede4aaae16bc7a6868cfdaff866b085e363&smart=true&width=1280&height=853"
+    },
+    {
       "id": "cfec0ee42cfc484de3ae",
       "title": "Jódar le toma la medida a Musetti",
       "summary": "Rafa Jódar celebra su victoria ante Lorenzo Musetti",
@@ -1818,6 +1896,36 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a756a3ba86d7.jpeg"
+    },
+    {
+      "id": "f0381f229cb4679dccba",
+      "title": "\"Conversaba con mi maestra cuando le dispararon\": un alumno de 14 años es sospechoso de matar a tiros a 5 docentes en Tailandia",
+      "summary": "El cuerpo del agresor también fue encontrado sin vida. Se sospecha que mató a sus dos abuelos antes de dirigiste al colegio.",
+      "link": "https://www.bbc.com/mundo/articles/c20ed4rnd7xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 07:10:07 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b518/live/6c968cc0-922f-11f1-b37c-576fd8256624.jpg"
+    },
+    {
+      "id": "aca4fafbe3ae4d6497e1",
+      "title": "Detienen en Moscú a empleados de plataformas ilegales de intercambio de criptomonedas",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621043-detienen-moscu-empleados-plataformas-ilegales?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 07 Aug 2026 07:08:06 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "adbc8eb2d356a9143fc4",
+      "title": "Qué significa el proverbio chino del filósofo Mencio: \"Solo es capaz de encontrar el camino correcto quien se esfuerza por cultivar su corazón\"",
+      "summary": "La frase resume uno de los principios fundamentales del confucianismo.",
+      "link": "https://www.clarin.com/estados-unidos/significa-proverbio-chino-filosofo-mencio-solo-capaz-encontrar-camino-correcto-esfuerza-cultivar-corazon_0_mjpbU9tfb7.html",
+      "pubDate": "Fri, 07 Aug 2026 07:04:48 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/30/E5wmz0Kbl_1200x630__1.jpg"
     },
     {
       "id": "5801b1637828d2b11141",
@@ -1830,6 +1938,46 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/El-viejo-Logan-6.jpg"
     },
     {
+      "id": "c5a26041932e9ba05577",
+      "title": "Zhan Qiao Lin, chino que vive en Madrid: \"Los chinos no van a los hospitales en España porque no quieren esperar mucho tiempo y tener la tienda cerrada\"",
+      "summary": "El joven nacido en China ejerce como cirujano en Madrid y explicó los motivos por los que muchos compatriotas solo acuden a urgencias cuando les parece inevitable.",
+      "link": "https://www.clarin.com/internacional/zhan-qiao-lin-chino-vive-madrid-chinos-van-hospitales-espana-quieren-esperar-tiempo-tener-tienda-cerrada_0_ymar5X5mzI.html",
+      "pubDate": "Fri, 07 Aug 2026 07:00:48 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/06/3sA5WdeVD_1200x630__1.jpg"
+    },
+    {
+      "id": "6073c41d55040c4f6845",
+      "title": "El Senado aprobó y giró a la Cámara de Diputados el proyecto de propiedad privada",
+      "summary": "El oficialismo, con el apoyo de la oposición dialoguista, aprobó esta madrugada y giró a la Cámara de Diputados el proyecto de ley de inviolabilidad de la propiedad privada, pero debió resignar el capitulo que modifica la ley de Manejo del Fuego ante la fuerte resistencia de algunos aliados de fuerzas provinciales. El proyecto fue aprobado en general por 37 votos a favor y 33 en contra tras un extenso debate que duró más de diez horas. Casi el mismo resultado se registró en la votación en particular de los cuatro capítulos sobrevivientes de la iniciativa. Si bien se mantenía la protección sobre bosques nativos y reservas forestales, entre los bloques de fuerzas provinciales y algunos senadores patagónicos comenzó a crecer la resistencia a levantar la prohibición para disponer de los predios en bosques implantados, áreas protegidas y humedales afectados por un siniestro. Sin los votos para aprobarlo, el oficialismo terminó pidiendo la eliminación del capitulo que modificaba la ley de Manejo del Fuego. Lo planteó el presidente de la Comisión de Asuntos Constitucionales y miembro informante del oficialismo, Agustín Coto (Tierra del Fuego), antes de la votación en general, lo que provocó el aplauso de la oposición. Este fue el segundo capítulo que debió resignar el oficialismo en las últimas 48 horas , después de que el martes anunciara que no iba a insistir con la idea de relajar los límites a la venta de tierras productivas a personas físicas y jurídicas extranjeras. Así, el núcleo del proyecto quedó limitado a la regulación para acelerar los desalojos y a cambios en los requisitos para la expropiación de bienes por parte del Estado. Hasta el final del debate en general la sesión se desarrolló sin mayores inconvenientes, hasta que Bullrich aludió a la situación procesal del kirchnerista Jorge Capitanich (Chaco) y provocó un pequeño revuelo. No pasó lo mismo en las afueras del Congreso, donde la manifestación en rechazo a la iniciativa terminó con incidentes entre grup",
+      "link": "https://www.lanacion.com.ar/politica/el-senado-reanudo-la-sesion-en-la-que-se-discutira-el-proyecto-de-propiedad-privada-pero-sin-el-nid06082026/",
+      "pubDate": "Fri, 07 Aug 2026 07:00:08 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/YRRBE4YAXVFFFJ2IERF65QF5VE.jpeg?auth=98317fa80c9665ac10affae6f6d08a3bf99c5efc766c6115ac2eb7d1c87c7dc2&smart=true&width=1280&height=854"
+    },
+    {
+      "id": "50d0b9a2e67b09152969",
+      "title": "Dólar blue hoy: a cuánto cotiza este viernes 07 de agosto",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-viernes-07-agosto_0_DwwABya4P9.html",
+      "pubDate": "Fri, 07 Aug 2026 07:00:02 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2017/08/29/ryra6HxcW_1200x630.jpg"
+    },
+    {
+      "id": "8a189ae5bf4696da0024",
+      "title": "Pilar Sordo, psicóloga: “Es cada vez más difícil generar conversaciones reales”",
+      "summary": "La psicóloga y escritora chilena Pilar Sordo conversó con José del Rio para LA NACION y analizó la evolución de los vínculos sociales y la relevancia del lenguaje en la construcción de la estabilidad emocional de los individuos. Según Sordo, las personas usan menos vocabulario al hablar , un fenómeno reduce la capacidad para expresar lo que sucede en el interior de cada sujeto. Sordo citó al psiquiatra español José Luis Marín para explicar que el ser humano se enferma por falta de palabras, ya que el intercambio de lenguaje por emoticones, por ejemplo, afecta la profundidad de los vínculos. Pilar Sordo en Conversaciones con José del Rio Sordo señaló que la falta de paciencia actual impide que ambos participantes se sientan escuchados y atendidos: “Hemos ido reduciendo la paciencia, porque no solo me cuesta decirte lo que me pasa, sino que cada vez tú tienes menos paciencia para escucharme a mí“ . “Entonces ese intercambio hace que sea muy difícil generar conversaciones donde de verdad ambos se sientan escuchados y atendidos en esa conversación. Porque la conversación tiene que tener ese desafío en el que yo me exponga a transformarme con lo que tú me dices . Porque si no se transforma en una especie de monólogo intermitente”, agregó. Cómo afecta el diálogo interno a la visión del mundo Sordo investigó el tema durante ocho años y según sus conclusiones, la forma en que cada individuo se habla a sí mismo determina su amor propio y define la percepción sobre el resto de la sociedad: “Cómo te hablas define tu amor propio y tu visión del mundo” . Si alguien se percibe como una persona confiable o noble, proyecta esa confiabilidad en su entorno, sostuvo la analista y remarcó que la autopercepción define los procesos de duelo, el propósito de vida y la forma de expresar las emociones. “Es como te hablas porque eso determina tu amor propio, pero no solo determina tu amor propio, sino que determina tu visión de mundo” , explicó la analista y enseguida agregó: “Creo que el di",
+      "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-es-cada-vez-mas-dificil-generar-conversaciones-reales-nid07082026/",
+      "pubDate": "Fri, 07 Aug 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/QBTIJOX5AJFTROHFBXJL7SMMGY.jpg?auth=493f2de3c8ed3ab510a1c56130ab280dbcbf73808a7cdc02f2fcda10b7faf5a0&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "bcb0cdc62d3df2300eec",
       "title": "Dólar a $1500: Bausili justificó la intervención del Tesoro en el mercado cambiario",
       "summary": "El presidente del Banco Central (BCRA), Santiago Bausili , justificó hoy la intervención del Gobierno en el mercado cambiario al considerar que el Tesoro Nacional es un actor más de ese mercado y descartó que esa decisión implique una reinterpretación de la regla vigente sobre las bandas cambiarias, que sólo habilita al organismo a utilizar reservas para contener al dólar cuando su cotización supera el techo móvil que se ubica en $1851 . Lo hizo al responder una consulta de LA NACION sobre la venta de US$145 millones que el Tesoro realizó a fines de julio, en una jornada en la que la cotización mayorista del dólar se encaminaba a superar los $1500 . Esa intervención quedó reflejada en la caída de los depósitos en moneda extranjera del Gobierno, que pasaron de US$3330 millones a US$3185 millones , según las estadísticas monetarias actualizadas por el BCRA. La interpretación del mercado fue que, aunque el Gobierno sostiene que el dólar flota libremente dentro de las bandas , está dispuesto a administrar su precio para evitar que una suba del tipo de cambio ponga en riesgo el proceso de desinflación. Esa lectura se explica porque el Tesoro sólo había intervenido previamente con el mismo objetivo durante la previa electoral del año pasado, cuando el BCRA ni siquiera contaba con reservas propias suficientes para hacerlo y, en todo caso, debía gestionar una autorización del Fondo Monetario Internacional (FMI). La definición surgió durante la presentación del Informe de Política Monetaria (IPOM) , que Bausili encabezó esta tarde ante la prensa en la sede del BCRA, acompañado por el vicepresidente de la entidad, Vladimir Werning . Durante la exposición, el funcionario destacó el proyecto de reforma de la Carta Orgánica del Banco Central —ya enviado al Congreso y en cuya elaboración participó— y se mostró confiado en que la inflación continuará desacelerándose en los próximos meses. Según sostuvo, eso permitirá que la mejora de las variables macroeconómicas se traslade de ma",
@@ -1838,16 +1986,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/CNWLY5DKSZG2TAZO3WQBPDQAJM.jpg?auth=cd39363e1a202f806a604bb0ee608c7a65c08fe1b3221da83928418c37ebb99f&smart=true&width=2000&height=1334"
-    },
-    {
-      "id": "b7e66f5f757c6b6afb67",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno pide la comparecencia de Marlaska, Albares, Robles y Bolaños en el Congreso por la crisis en Ceuta",
-      "summary": "Un militar vigila la playa del Tarajal de Ceuta, este viernes.",
-      "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "pubDate": "Fri, 07 Aug 2026 06:53:28 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/G2IGW52VP5BS5MIFQ2QU6ZFOGU.jpg?auth=99e39661a37d95dae5ec745328f054414da54328e0fd4f7bd0c50eb42b4beab4"
     },
     {
       "id": "153383ea1f0e9512e874",
@@ -1901,6 +2039,26 @@
       "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a756b9359bf5b0db85ae89d.jpg"
     },
     {
+      "id": "d8585bf363c371838bcf",
+      "title": "Bullrich cargó contra el peronismo, recordó compras fiscales de Néstor Kirchner y en la chicana se cruzó fuerte con Jorge Capitanich",
+      "summary": "En su alocución final, la senadora libertaria hizo un raconto de las tierras cedidas por gobiernos peronistas y kirchneristas y le tiró por elevación al exgobernador de Chaco. \"Respetar la propiedad privada es no ser parte de los narcos usurpadores. El clan Sena, Milagro Sala, los narcos, ellos roban tierras y hay políticos que se lo permiten\", dijo.",
+      "link": "https://www.clarin.com/politica/bullrich-cargo-peronismo-recordo-compras-fiscales-nestor-kirchner-chicana-cruzo-fuerte-jorge-capitanich_0_qMEPzgXPz8.html",
+      "pubDate": "Fri, 07 Aug 2026 06:47:17 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/08/07/LZOpS4clE_1200x630__1.jpg"
+    },
+    {
+      "id": "8cb0a94299b3006d8b93",
+      "title": "La psicología dice que las madres trabajadoras suelen cargar con estos 5 tipos de culpa que los padres rara vez mencionan",
+      "summary": "Conciliar el trabajo con la crianza sigue siendo uno de los principales desafíos para muchas familias. Estudios muestran que las madres suelen experimentar sentimientos de culpa con mayor frecuencia que los padres.",
+      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-madres-trabajadoras-suelen-cargar-5-tipos-culpa-padres-rara-vez-mencionan_0_HHCZu6Rc6Z.html",
+      "pubDate": "Fri, 07 Aug 2026 06:46:48 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/22/4iJPEK4fq_1200x630__1.jpg"
+    },
+    {
       "id": "35a528b87c55acaac09e",
       "title": "Un joven de 14 años abrió fuego en una escuela de Tailandia: cuatro personas murieron y hay más de 15 heridos",
       "summary": "BANGKOK.- Cuatro personas murieron y otras 15 resultaron heridas en un tiroteo en una escuela ubicada al norte de Bangkok, en Tailandia . Las autoridades informaron que entre las víctimas hay alumnos y profesores. Según la Policía local, el atacante tenía 14 años y se quitó la vida tras el ataque . El hecho tuvo lugar en la mañana del viernes en el colegio secundario Debsirin Nonthaburi , del distrito de Bang Kruai, provincia de Nonthaburi. Allí, el atacante -estudiante de la institución- ingresó y disparó hacia el alumnado sin previo aviso hiriendo a varios de sus compañeros y maestros. La información fue confirmada por Arsit Sampantharat , secretario permanente del Ministerio del Interior, en diálogo con la cadena de noticias local PPTV: “El autor del tiroteo era un estudiante que permaneció dentro de la escuela después de que surgieran los primeros informes del ataque”. A su vez, el medio inglés The Guardian señaló que el ministro de Educación tailandés, Prasert Jantararuangtong , confirmó la cifra de fallecidos pero no así la muerte del supuesto atacante, versión que dio por válida la Policía local. Según detalló el diario inglés, la escuela forma parte de una red de instituciones secundarias Debsirin, fundadas por la familia real tailandesa . Entre sus exalumnos se encuentran primeros ministros, académicos y escritores. Uno de los videos que se viralizó en redes sociales durante las últimas horas muestra a varios alumnos dentro de una de las aulas del establecimiento mientras, de fondo, se escuchan los disparos . En esas imágenes se puede ver a los jóvenes en el suelo, completamente aterrorizados. A su vez, el medio norteamericano CNN compartió una imagen de un arma, varias municiones y una riñonera: todo tirado en uno de los pasillos principales de la escuela. “ Creemos que el arma de fuego pertenecía a un familiar del presunto autor del tiroteo , pero la policía aún no determinó cómo tuvo acceso a ella”, declaró el teniente general Trairong Phiwphan , portavo",
@@ -1911,24 +2069,24 @@
       "image": "https://resizer.glanacion.com/resizer/v2/SSTQYRWAH5BH7K6XA7ELK2MKWQ.JPG?auth=6bdb7be49d3a6f80879cfb512a0b9dfd16230fe9b60b5bc4f3b55fce10cbe7aa&smart=true&width=8256&height=5504"
     },
     {
-      "id": "73802fea9a1e9ffa494d",
-      "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
-      "summary": "Un estudiante se abrazaba este viernes a un familiar tras el tiroteo en una escuela a las afueras de Bangkok, la capital tailandesa.",
-      "link": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
-      "pubDate": "Fri, 07 Aug 2026 06:41:56 GMT",
-      "source": "El Pais",
+      "id": "f176595031d1e91826f6",
+      "title": "Llevan a estadounidense a hospital neozelandés tras un raro rescate invernal en la Antártida",
+      "summary": "Un equipo aéreo australiano rescató a un ciudadano estadounidense desde una base en la Antártida, trasladándolo a un hospital en Nueva Zelanda. El rescate, realizado en condiciones extremas de frío y oscuridad, fue una operación inusual en pleno invierno antártico.",
+      "link": "https://www.clarin.com/estados-unidos/llevan-a-estadounidense-a-hospital-neozelandes-tras-un-raro-rescate-invernal-en-la-antartida_0_R4HWmkk971.html",
+      "pubDate": "Fri, 07 Aug 2026 06:40:06 +0000",
+      "source": "Clarin",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/7RHT5266FVB3TDWRNJVYIIK33E.JPG?auth=19d335e5b81339263f3c7a08d47f52588adca691411a756eb2fb263bfa8252fd"
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
     },
     {
-      "id": "9397219267db42aa5ca2",
-      "title": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
-      "summary": "El diputado nacional por el Partido Socialista (PS), Esteban Paulón , pidió citar de urgencia a la ministra de Seguridad, Alejandra Monteoliva , para que brinde explicaciones sobre el operativo policial llevado a cabo afuera del Congreso mientras en el interior del recinto se debate la ley de inviolabilidad a la propiedad privada. Entre los puntos claves de la petición presentada por Paulón figura la “ justificación del operativo, la represión injustificada y el uso de camiones hidrantes ”. “Yo solo compito contra mí mismo” , le gusta afirmar a Javier Milei . La máxima con la que responde sobre sus posibilidades de ser reelegido busca tanto descalificar a cualquier rival político-electoral, como subrayar el vacío de adversarios competitivos que le provee la fragmentación y la crisis de liderazgos que padece la oposición. Sin embargo, el espejo le está devolviendo al Presidente la imagen menos deseada. La mayoría de las encuestas más serias cerradas en los últimos 10 días muestran que Milei está perdiendo contra Milei . No en la brumosa y lejana intención de voto para elegir en una góndola vacía de alternativas, sino en otros indicadores más concretos. Leé la nota completa acá. El presidente del Banco Central (BCRA), Santiago Bausili , justificó hoy la intervención del Gobierno en el mercado cambiario al considerar que el Tesoro Nacional es un actor más de ese mercado y descartó que esa decisión implique una reinterpretación de la regla vigente sobre las bandas cambiarias, que sólo habilita al organismo a utilizar reservas para contener al dólar cuando su cotización supera el techo móvil que se ubica en $1851 . Lo hizo al responder una consulta de LA NACION sobre la venta de US$145 millones que el Tesoro realizó a fines de julio, en una jornada en la que la cotización mayorista del dólar se encaminaba a superar los $1500 . Esa intervención quedó reflejada en la caída de los depósitos en moneda extranjera del Gobierno, que pasaron de US$3330 millones a US$3185 millone",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
-      "pubDate": "Fri, 07 Aug 2026 06:38:44 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/A7HHZ42CEFDQFHSFEQGZZONWN4.jpeg?auth=7a9b3b485b08d6ca6ee70eb25f1daede4aaae16bc7a6868cfdaff866b085e363&smart=true&width=1280&height=853"
+      "id": "d85ea010b5cd9e400b88",
+      "title": "Boris y Rosa abandonaron la ciudad para vivir una vida simple y autosuficiente en la medio de las montañas, bajo principios de la permacultura: \"Somos un poco más libres\"",
+      "summary": "La finca no tiene conexiones externas; un pozo antiguo provee agua, y paneles solares con baterías generan su electricidad.",
+      "link": "https://www.clarin.com/estados-unidos/boris-rosa-abandonaron-ciudad-vivir-vida-simple-autosuficiente-medio-montanas-principios-permacultura-libres_0_2AuIxrTbCO.html",
+      "pubDate": "Fri, 07 Aug 2026 06:36:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/06/8XRlCXHuT_1200x630__1.jpg"
     },
     {
       "id": "535d371461c9d51d444f",
@@ -1936,8 +2094,8 @@
       "summary": "Imagen de archivo del letrero de Meta en la sede de Mountain View, California.",
       "link": "https://elpais.com/tecnologia/2026-08-07/un-juez-de-ee-uu-obliga-a-meta-a-pagar-567-millones-y-a-limitar-el-uso-de-instagram-y-facebook-entre-adolescentes.html",
       "pubDate": "Fri, 07 Aug 2026 06:31:56 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
+      "source": "El País Tech",
+      "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/CWFRYAYCTRLRFHJFAANVT6V434.jpg?auth=118a091e51d6c93dcb7d25cb8fc5da1c4771c01784848ad7ec74ff173ff60d2f"
     },
     {
@@ -1950,16 +2108,6 @@
       "cat": "ia",
       "image": "https://www.clarin.com/img/2026/08/07/8ENU45tlL_1200x630__1.jpg",
       "subcat": "empresas"
-    },
-    {
-      "id": "951f0035fbb641e42f16",
-      "title": "Los urólogos lo explican: qué revela el color de la orina sobre tu salud y cuándo puede ser una señal de alerta",
-      "summary": "El tono de la orina puede ofrecer señales sobre el estado del organismo.",
-      "link": "https://www.clarin.com/estados-unidos/urologos-explican-revela-color-orina-salud-puede-senal-alerta_0_RcoSQPKN9Y.html",
-      "pubDate": "Fri, 07 Aug 2026 06:22:47 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2024/03/14/Ts7pD2tJ4_1200x630__1.jpg"
     },
     {
       "id": "e83572b06e9793e9d835",
@@ -2002,14 +2150,14 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Supergirl-2026.jpg"
     },
     {
-      "id": "688eee5e8b0ebbc7233a",
-      "title": "Padres vencen a Diamondbacks 5-1 y se acercan a 1 juego en la lucha por el comodín de la Nacional",
-      "summary": "San Diego triunfa 5-1 sobre Arizona, acercándose en la lucha por el comodín de la Liga Nacional. Merrill y France destacan con dos hits cada uno. Los relevistas de los Padres dominan al permitir solo dos hits en cinco entradas. Arizona inicia serie crucial contra los líderes del Oeste.",
-      "link": "https://www.clarin.com/estados-unidos/padres-vencen-a-diamondbacks-5-1-y-se-acercan-a-1-juego-en-la-lucha-por-el-comodin-de-la-nacional_0_vmLs325jZo.html",
-      "pubDate": "Fri, 07 Aug 2026 06:00:06 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
+      "id": "7695ff67813bdd08d844",
+      "title": "Le mostraron la foto de un hombre, aceptó casarse sin conocerlo y hoy su historia inspira: “Quien lo prueba, no lo olvida”",
+      "summary": "La primera vez que Tina y Michele se vieron fue por foto, un hecho insólito, teniendo en cuenta de que por años habían vivido a la vuelta de la esquina uno del otro. `Fue un auténtico amor a primera vista, o, más bien, a primera foto´ , suelen decir. En realidad, el día en que Tina vio la fotografía de Michele por primera vez, él se hallaba bastante más lejos que a la vuelta de la esquina. Por aquellos tiempos, Michele -también Miguel en la Argentina- vivía en Buenos Aires, a miles de kilómetros de distancia de la joven, pero estaba movido por un deseo peculiar que llevó a mitigar tanta distancia. Él, a pesar de vivir en Argentina, se quería casar con una italiana de su pueblo, de Ricadi, en la región de Capo Vaticano. Fue así que para lograrlo les envió una foto suya a sus padres y ellos eligieron a la muchacha que vivía a la vuelta, sobre la calle Via Roma 11. Sin rodeos, y con foto en mano, los padres de Michele les hicieron la propuesta a los padres de Tina, quienes le entregaron a su hija la imagen de un hombre desconocido y que se encontraba al otro lado del océano. Ella, con 18 años, vio en la foto a un hombre de 25 años, elegante, de mirada profunda y sonrisa seductora: `Suspiró, y los latidos de su corazón la delataron. Dijo que sí, que quería casarse con él´, cuenta la historia. Un casamiento en el pueblo natal: “La mamá de Franca, les regaló una gallina” Durante los siguientes meses se escribieron cartas y fue a través de sus plumas que develaron sus primeros pensamientos y emociones compartidas. Y tiempo después llegó el día inolvidable en que sus miradas se cruzaron por primera vez para casarse. Uno frente al otro, en la iglesia del pueblo donde nacieron, Ippolitina lució un vestido blanco hecho a medida por una modista de San Nicoló, un pueblo vecino. Su abuelo, Francesco, que era organista del pueblo, tenor y tocaba en las dos iglesias, les cantó el Ave María y tocó el órgano: “Su voz retumbaba en la plaza. La mamá de Franca, una prima de Michele, les",
+      "link": "https://www.lanacion.com.ar/lifestyle/le-mostraron-la-foto-de-un-hombre-acepto-casarse-sin-conocerlo-y-hoy-su-historia-inspira-quien-lo-nid07082026/",
+      "pubDate": "Fri, 07 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/5SW3EO3KCFHRNDIP7HGNW5DD5I.jpg?auth=9d7cc781722590106b6604491d46a9d32088cc9abf87c85ca5589b69215ad694&smart=true&width=2000&height=1333"
     },
     {
       "id": "46b8c6c4aaeed800d6d0",
@@ -2022,16 +2170,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/NA2XX7CMURBV7J7BFKFWMUMNUY.jpg?auth=a580693869270b56ed8aa6c9692655a79c706c76474c8c88ea387dbf9c8f04c6&smart=true&width=1600&height=1600"
     },
     {
-      "id": "7695ff67813bdd08d844",
-      "title": "Le mostraron la foto de un hombre, aceptó casarse sin conocerlo y hoy su historia inspira: “Quien lo prueba, no lo olvida”",
-      "summary": "La primera vez que Tina y Michele se vieron fue por foto, un hecho insólito, teniendo en cuenta de que por años habían vivido a la vuelta de la esquina uno del otro. `Fue un auténtico amor a primera vista, o, más bien, a primera foto´ , suelen decir. En realidad, el día en que Tina vio la fotografía de Michele por primera vez, él se hallaba bastante más lejos que a la vuelta de la esquina. Por aquellos tiempos, Michele -también Miguel en la Argentina- vivía en Buenos Aires, a miles de kilómetros de distancia de la joven, pero estaba movido por un deseo peculiar que llevó a mitigar tanta distancia. Él, a pesar de vivir en Argentina, se quería casar con una italiana de su pueblo, de Ricadi, en la región de Capo Vaticano. Fue así que para lograrlo les envió una foto suya a sus padres y ellos eligieron a la muchacha que vivía a la vuelta, sobre la calle Via Roma 11. Sin rodeos, y con foto en mano, los padres de Michele les hicieron la propuesta a los padres de Tina, quienes le entregaron a su hija la imagen de un hombre desconocido y que se encontraba al otro lado del océano. Ella, con 18 años, vio en la foto a un hombre de 25 años, elegante, de mirada profunda y sonrisa seductora: `Suspiró, y los latidos de su corazón la delataron. Dijo que sí, que quería casarse con él´, cuenta la historia. Un casamiento en el pueblo natal: “La mamá de Franca, les regaló una gallina” Durante los siguientes meses se escribieron cartas y fue a través de sus plumas que develaron sus primeros pensamientos y emociones compartidas. Y tiempo después llegó el día inolvidable en que sus miradas se cruzaron por primera vez para casarse. Uno frente al otro, en la iglesia del pueblo donde nacieron, Ippolitina lució un vestido blanco hecho a medida por una modista de San Nicoló, un pueblo vecino. Su abuelo, Francesco, que era organista del pueblo, tenor y tocaba en las dos iglesias, les cantó el Ave María y tocó el órgano: “Su voz retumbaba en la plaza. La mamá de Franca, una prima de Michele, les",
-      "link": "https://www.lanacion.com.ar/lifestyle/le-mostraron-la-foto-de-un-hombre-acepto-casarse-sin-conocerlo-y-hoy-su-historia-inspira-quien-lo-nid07082026/",
-      "pubDate": "Fri, 07 Aug 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/5SW3EO3KCFHRNDIP7HGNW5DD5I.jpg?auth=9d7cc781722590106b6604491d46a9d32088cc9abf87c85ca5589b69215ad694&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "4ab37d50b838e84b330f",
       "title": "Charlotte Casiraghi cumplió 40: quiénes son los amores que marcaron la vida de la hija de Carolina de Mónaco",
       "summary": "“Creo que la clave para una relación de amor duradera es cuando ambos tienen una pasión conjunta por la verdad y por la vida”, reveló Charlotte Casiraghi (40) en 2015 a la revista francesa Philosophie Magazine al compartir su deseo constante por encontrar la felicidad y vivir un vínculo sólido y a prueba del paso del tiempo. Reflexiva y eterna enamorada de la vida, la hija de la princesa Carolina de Mónaco protagonizó en los últimos años romances inolvidables que marcaron su vida para siempre. El galerista británico Alex Dellal (43) –hijo del magnate millonario dedicado al arte Guy Dellal y de la ex modelo brasileña Andrea de Magalhaes Viera– fue el primer gran amor de la bella monegasca de entonces 21 años. Los novios, que se habían conocido mientras cursaban en el Lycée de París, pasaron a ser una de las parejas más buscadas por los paparazzi. Dellal enseguida fue bienvenido por la familia Grimaldi y recibió su invitación formal para acompañar a Charlotte en la boda de su tío, el príncipe Alberto II, y Charlene en 2011. Estuvieron juntos desde 2007 hasta fines de 2011. Ya para entonces circulaban rumores de romance de Charlotte con el reconocido actor marroquí, Gad Elmaleh (55). “EL HOMBRE MÁS FELIZ DEL MUNDO” Él era quince años mayor que ella y tenía un hijo, Noah (26), nacido de una relación anterior con la modelo, Anne Brochet. Sin embargo, el flechazo entre Charlotte y el comediante fue inevitable. Casiraghi y Elmaleh mantuvieron en secreto su relación durante un año, hasta que finalmente decidieron formalizar en 2013, durante el tradicional Baile de la Rosa. “Lo nuestro no es un cuento de hadas. Las mejores historias son las verdaderas. Con Charlotte fuimos amigos primero, hablamos mucho, nos conocemos mucho. Eso es lo que nos pasó. Hoy soy el hombre más feliz del mundo”, contó el actor entusiasmado. El 17 de diciembre de 2013, nació el primer hijo de Charlotte, Raphaël Elmaleh, en el Centro Hospitalario Princesa Grace de Mónaco. “Hay mucha felicidad y emoció",
@@ -2040,16 +2178,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/TWNG6DTJFBDD5BB4L5AWO53GYA.jpg?auth=cf299c5d35430a81c0d1aadf11a91e867d137a51fcc980ede5e9395b04704333&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "b00626132b52a25b7145",
-      "title": "Exclusivo. Entramos en la íntima boda de Luz Cipriota con el director español David Serrano de la Peña",
-      "summary": "Sencilla, íntima y emotiva. A veces, uno se esmera por tener una fiesta increíble y, después, nada resulta como lo planifica. Nosotros organizamos nuestra boda semanas antes y salió como soñábamos: perfecta”, cuenta Luz Cipriota (40) sobre su casamiento con David Serrano de la Peña (50). Tras siete años en pareja, la actriz argentina y el director de cine y teatro, productor y guionista español dieron el sí en una conmovedora ceremonia el mediodía del viernes 17 de julio y que fue muy especial de principio a fin: no sólo porque fue al aire libre, en la casa que comparten en Madrid, sino porque contó con la presencia protagónica de sus tres hijos: Lorenzo (4) y las gemelas Aurora y Ángela (1). Para este gran día, la madre y las hermanas de Luz viajaron desde Buenos Aires… y también debió viajar el novio, que estaba en Valencia, rodando una película. Confiesa Luz: “Cuando llegó a Madrid, lo primero que hizo David fue ir a saludar a su abuela. Y, un rato antes de que llegara el juez y que las gemelas se despertaran de su siesta, dijo ‘¿Bueno… ¿qué me pongo? ¿Y qué se va a poner Lorenzo?’. ¡Improvisamos un poco!”. La actriz, por su parte, lució un vestido de satén y encaje, estilo enagua, de Rapsodia que había comprado quince años atrás. “Cuando empecé a ver vestidos, todos me parecían rígidos. La semana previa al casamiento, recordé ese vestido que me había enamorado. Me acuerdo de que, cuando lo vi, pensé: ‘Si algún día me caso en una playa, me lo voy a poner”. Me lo había comprado en un arrebato sin siquiera tener novio. Lo tenía guardado y nunca había aparecido la ocasión para ponérmelo. Mis amigas, que todavía lo recordaban, aprobaron la decisión: ‘Es perfecto’, dijeron”. –Llevaban siete años juntos. ¿Cómo surgió la idea de casarse? –David me había propuesto matrimonio cuatro años antes, en 2021, cuando Lorenzo, nuestro primer hijo, estaba a punto de nacer. El embarazo de Lorenzo venía bien, pero, cuando transitaba la semana 36, sentí un dolor tan intenso que no po",
-      "link": "https://www.lanacion.com.ar/revista-hola/exclusivo-entramos-en-la-intima-boda-de-luz-cipriota-con-el-director-espanol-david-serrano-de-la-nid07082026/",
-      "pubDate": "Fri, 07 Aug 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/42X7TLIJS5AKBFFC26IOCCPSFY.jpg?auth=2d6054a3db35d7c3c9a9e166623d01ebebb4395a074c0051c2460091e6cc8ac5&smart=true&width=2000&height=1333"
     },
     {
       "id": "19a6c06f64c1d95e1a9e",
@@ -2062,6 +2190,16 @@
       "image": "https://resizer.glanacion.com/resizer/v2/R4A4JPT4ZBHCBKKHAIBRWASF3M.jpg?auth=aed5132c0d8048fbdabb9a293a2a38571b7041183e293c5371daade76613796c&smart=true&width=800&height=600"
     },
     {
+      "id": "b00626132b52a25b7145",
+      "title": "Exclusivo. Entramos en la íntima boda de Luz Cipriota con el director español David Serrano de la Peña",
+      "summary": "Sencilla, íntima y emotiva. A veces, uno se esmera por tener una fiesta increíble y, después, nada resulta como lo planifica. Nosotros organizamos nuestra boda semanas antes y salió como soñábamos: perfecta”, cuenta Luz Cipriota (40) sobre su casamiento con David Serrano de la Peña (50). Tras siete años en pareja, la actriz argentina y el director de cine y teatro, productor y guionista español dieron el sí en una conmovedora ceremonia el mediodía del viernes 17 de julio y que fue muy especial de principio a fin: no sólo porque fue al aire libre, en la casa que comparten en Madrid, sino porque contó con la presencia protagónica de sus tres hijos: Lorenzo (4) y las gemelas Aurora y Ángela (1). Para este gran día, la madre y las hermanas de Luz viajaron desde Buenos Aires… y también debió viajar el novio, que estaba en Valencia, rodando una película. Confiesa Luz: “Cuando llegó a Madrid, lo primero que hizo David fue ir a saludar a su abuela. Y, un rato antes de que llegara el juez y que las gemelas se despertaran de su siesta, dijo ‘¿Bueno… ¿qué me pongo? ¿Y qué se va a poner Lorenzo?’. ¡Improvisamos un poco!”. La actriz, por su parte, lució un vestido de satén y encaje, estilo enagua, de Rapsodia que había comprado quince años atrás. “Cuando empecé a ver vestidos, todos me parecían rígidos. La semana previa al casamiento, recordé ese vestido que me había enamorado. Me acuerdo de que, cuando lo vi, pensé: ‘Si algún día me caso en una playa, me lo voy a poner”. Me lo había comprado en un arrebato sin siquiera tener novio. Lo tenía guardado y nunca había aparecido la ocasión para ponérmelo. Mis amigas, que todavía lo recordaban, aprobaron la decisión: ‘Es perfecto’, dijeron”. –Llevaban siete años juntos. ¿Cómo surgió la idea de casarse? –David me había propuesto matrimonio cuatro años antes, en 2021, cuando Lorenzo, nuestro primer hijo, estaba a punto de nacer. El embarazo de Lorenzo venía bien, pero, cuando transitaba la semana 36, sentí un dolor tan intenso que no po",
+      "link": "https://www.lanacion.com.ar/revista-hola/exclusivo-entramos-en-la-intima-boda-de-luz-cipriota-con-el-director-espanol-david-serrano-de-la-nid07082026/",
+      "pubDate": "Fri, 07 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/42X7TLIJS5AKBFFC26IOCCPSFY.jpg?auth=2d6054a3db35d7c3c9a9e166623d01ebebb4395a074c0051c2460091e6cc8ac5&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "40808063a9fee355fc29",
       "title": "Con gases y detonaciones, la policía desalojó la manifestación contra la ley de tierras",
       "summary": "Luego de casi seis horas de manifestación pacífica, la protesta contra la ley de inviolabilidad de la propiedad privada , que se trató en el Senado, se desvirtuó a partir de las 17, cuando la Policía Federal utilizó gases para desalojar a los manifestantes que protestaban contra el vallado que protegía al Congreso nacional. Los ataques de grupos reducidos de manifestantes, que rompieron veredas y cordones para hacerse de escombros y lanzarlos a los uniformados, además de destruir e incendiar cestos y contenedores de basura , convivieron con la avanzada de grupos de infantería de la Policía Federal, Gendarmería y Prefectura, que utilizaron carros hidrantes, gases, balas de goma y divisiones motorizadas para dispersar y perseguir a los violentos y a quienes protestaban sin provocar desmanes. Las fuerzas federales, que desplegaron 820 uniformados , informaron tres manifestantes detenidos y tres efectivos heridos, dos de ellos de gravedad, pertenecientes a la Gendarmería, que fueron trasladados al Hospital Churruca tras recibir pedradas en la cabeza. La Policía de la Ciudad, por su parte, reportó nueve detenidos por atentado y resistencia a la autoridad. En total, hubo 12 detenidos . La protesta contra la ley de inviolabilidad de la propiedad privada, que se trataba este jueves en el Senado de la Nación , tuvo su pico máximo de tensión entre las 17 y las 18, cuando la Policía Federal utilizó gases para desalojar a los manifestantes que protestaban contra el vallado que protegía al Congreso nacional. Alrededor de las 16.40, la protesta tenía al menos dos focos de atención. Uno, en el escenario montado en la vereda de la plaza que da hacia la avenida Entre Ríos, de espaldas al Congreso, donde se sucedían oradores, mientras a pocos metros quedaban los resabios de un “verdurazo”, por el que las personas que quisieran podían llevarse paquetes de verdura gratis. El otro era a pocos metros, a la altura de Virrey Ceballos e Yrigoyen, donde hacía su aparición el gobernador de Bu",
@@ -2070,16 +2208,6 @@
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/KADDPSXRUJFNLEOXTBNFYLFNKY.JPG?auth=20e42585039923dbe3856eaa2682ceecbc2cba6810b8b930976f5f5fba47507c&smart=true&width=1280&height=853"
-    },
-    {
-      "id": "6073c41d55040c4f6845",
-      "title": "El Senado aprobó y giró a la Cámara de Diputados el proyecto de propiedad privada",
-      "summary": "El oficialismo, con el apoyo de la oposición dialoguista, aprobó esta madrugada y giró a la Cámara de Diputados el proyecto de ley de inviolabilidad de la propiedad privada, pero debió resignar el capitulo que modifica la ley de Manejo del Fuego ante la fuerte resistencia de algunos aliados de fuerzas provinciales. El proyecto fue aprobado en general por 37 votos a favor y 33 en contra tras un extenso debate que duró más de diez horas. Casi el mismo resultado se registró en la votación en particular de los cuatro capítulos sobrevivientes de la iniciativa. Si bien se mantenía la protección sobre bosques nativos y reservas forestales, entre los bloques de fuerzas provinciales y algunos senadores patagónicos comenzó a crecer la resistencia a levantar la prohibición para disponer de los predios en bosques implantados, áreas protegidas y humedales afectados por un siniestro. Sin los votos para aprobarlo, el oficialismo terminó pidiendo la eliminación del capitulo que modificaba la ley de Manejo del Fuego. Lo planteó el presidente de la Comisión de Asuntos Constitucionales y miembro informante del oficialismo, Agustín Coto (Tierra del Fuego), antes de la votación en general, lo que provocó el aplauso de la oposición. Este fue el segundo capítulo que debió resignar el oficialismo en las últimas 48 horas , después de que el martes anunciara que no iba a insistir con la idea de relajar los límites a la venta de tierras productivas a personas físicas y jurídicas extranjeras. Así, el núcleo del proyecto quedó limitado a la regulación para acelerar los desalojos y a cambios en los requisitos para la expropiación de bienes por parte del Estado. Hasta el final del debate en general la sesión se desarrolló sin mayores inconvenientes, hasta que Bullrich aludió a la situación procesal del kirchnerista Jorge Capitanich (Chaco) y provocó un pequeño revuelo. No pasó lo mismo en las afueras del Congreso, donde la manifestación en rechazo a la iniciativa terminó con incidentes entre grup",
-      "link": "https://www.lanacion.com.ar/politica/el-senado-reanudo-la-sesion-en-la-que-se-discutira-el-proyecto-de-propiedad-privada-pero-sin-el-nid06082026/",
-      "pubDate": "Fri, 07 Aug 2026 05:51:45 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/YRRBE4YAXVFFFJ2IERF65QF5VE.jpeg?auth=98317fa80c9665ac10affae6f6d08a3bf99c5efc766c6115ac2eb7d1c87c7dc2&smart=true&width=1280&height=854"
     },
     {
       "id": "975b1e30b0a8f20429b3",
@@ -2112,16 +2240,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/766AEA6KDRD7TOF5FUTGOFQSA4.png?auth=0aeb88eb128de6677ddf033290c6ecdbd5a4c68219a4874d71ba0b5ec34dc1ef&smart=true&width=2000&height=1333"
     },
     {
-      "id": "09a46f510ffeb8360aa7",
-      "title": "Pedro Duque, astronauta español: “El Sol es 400 veces más grande que la Luna, pero está 400 veces más lejos; por eso, visto desde la Tierra, lo puede tapar por completo”",
-      "summary": "El ingeniero y exastronauta divulga las claves para entender uno de los fenómenos astronómicos más espectaculares.",
-      "link": "https://www.clarin.com/internacional/pedro-duque-astronauta-espanol-sol-400-veces-grande-luna-400-veces-lejos-visto-tierra-puede-tapar-completo_0_Ck6iDgMoLX.html",
-      "pubDate": "Fri, 07 Aug 2026 05:30:47 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/06/n2wgjkkcV_1200x630__1.jpg"
-    },
-    {
       "id": "2f7e6cfc297a0550c819",
       "title": "Senado argentino aprueba el proyecto de ley de propiedad privada sin la venta de tierras a extranjeros",
       "summary": "La llamada Ley de Inviolabilidad de la Propiedad Privada fue aprobada tras un extenso debate.",
@@ -2152,16 +2270,6 @@
       "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a756f2c59bf5b0ddd7e4037.jpg"
     },
     {
-      "id": "da0441d56d1f690e5cd6",
-      "title": "Tiroteo dentro de una escuela en Tailandia: hay 2 personas muertas, al menos 15 alumnos heridos y el tirador, un adolescente de 15 años resultó abatido",
-      "summary": "La balacera ocurrió en Bang Kruai, en la provincia de Nonthaburi situada en Bangkok, capital tailandesa. La información fue confirmada por la Policía local.",
-      "link": "https://www.clarin.com/internacional/tiroteo-dentro-escuela-tailandia-2-personas-muertas-15-alumnos-heridos-tirador-adolescente-resulto-abatido_0_vn6WYkVcRG.html",
-      "pubDate": "Fri, 07 Aug 2026 05:14:03 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/07/jxS4-utTf_1200x630__1.jpg"
-    },
-    {
       "id": "0d36c4ad5cc65856123f",
       "title": "Marvel Tōkon: Fighting Souls ya está disponible y quiere convertirse en el nuevo referente de los juegos de lucha de superhéroes",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Los aficionados a Marvel y a los juegos de lucha ya pueden poner a prueba a sus equipos favoritos. MARVEL Tōkon: Fighting Souls ya está disponible en PlayStation 5 y PC (Steam y Epic Games Store), una propuesta desarrollada por Arc System Works , Marvel Games y PlayStation Studios que apuesta por un espectacular sistema de combates por equipos de cuatro contra cuatro con un marcado estilo visual inspirado en el anime. Más que intentar competir con los clásicos títulos de lucha de Marvel, el nuevo juego busca construir su propia identidad gracias a un sistema de combate accesible, una importante carga narrativa y una apuesta clara por el juego competitivo tanto online como local. Un sistema de combate 4 contra 4 que cambia las reglas La gran novedad de MARVEL Tōkon: Fighting Souls es su formato de equipos de cuatro personajes. Cada combate obliga a combinar héroes y villanos con estilos de lucha completamente diferentes, potenciando las sinergias entre ellos y ofreciendo una enorme variedad de estrategias. Arc System Works, estudio responsable de franquicias como Guilty Gear o Dragon Ball FighterZ , ha diseñado un sistema pensado tanto para veteranos del género como para quienes quieran iniciarse. Los controles permiten ejecutar combos espectaculares con relativa facilidad, mientras que las mecánicas avanzadas ofrecen suficiente profundidad para el juego competitivo. El resultado es un título que busca ser accesible desde el primer combate, pero que recompensa a quienes dediquen tiempo a dominar todas sus posibilidades. Los grandes héroes y villanos de Marvel forman el plantel inicial El juego reúne 20 personajes disponibles desde el lanzamiento, organizados en equipos temáticos que representan algunas de las facciones más populares del Universo Marvel. Entre ellos encontramos a Capitán América , Iron Man , Black Panther, Lobezno, Tormenta, Magik, Spider-Man, Ms. Marvel, Star-Lord, Peni Parker, Ghost Rider",
@@ -2170,16 +2278,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/MARVEL-Tokon-Fighting-Souls-des.jpg"
-    },
-    {
-      "id": "c48b96fdcfb2f4a754e4",
-      "title": "Acuña logra 2 jonrones, Olson aporta otro y Bravos arrollan 11-3 a Marlins para hilar 8vo triunfo",
-      "summary": "Acuña Jr. y Olson lideran la ofensiva con jonrones, mientras Atlanta vence 11-3 a Miami, sumando su octavo triunfo consecutivo. El pitcheo combinado de Pérez y relevistas limita a siete hits a los Marlins, que sufren su tercera derrota en la serie.",
-      "link": "https://www.clarin.com/estados-unidos/acuna-logra-2-jonrones-olson-aporta-otro-y-bravos-arrollan-11-3-a-marlins-para-hilar-8vo-triunfo_0_V9DWSY3COn.html",
-      "pubDate": "Fri, 07 Aug 2026 05:00:03 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
     },
     {
       "id": "dde3573ac325883e9e59",
@@ -2210,76 +2308,6 @@
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "8d03b896d77c390d97b6",
-      "title": "Ataques de castores con rabia provocan el cierre parcial de un parque en EE.UU.",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621035-ataques-castores-rabia-cierre-parcial-parque-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 07 Aug 2026 04:39:52 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "c9453583cdfe59cb48a7",
-      "title": "México despliega su Ejército para proteger cultivos de aguacate en medio de tensiones con EE.UU.",
-      "summary": "1.557 elementos protegerán los cultivos y los centros de empaque de aguacate en Michoacán.",
-      "link": "https://actualidad.rt.com/actualidad/621031-mexico-desplegar-ejercito-proteger-cultivos-aguacate?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 07 Aug 2026 04:38:58 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a75541de9ff7150c22775c7.jpg"
-    },
-    {
-      "id": "ae7a97f65e9a886595f5",
-      "title": "Uno por uno, qué senadores votaron a favor y cuáles en contra de la Ley de Propiedad Privada",
-      "summary": "El Senado aprobó el proyecto que impulsa el Gobierno de Javier Milei en el Congreso. Cómo se pronunciaron La Libertad Avanza, el peronismo, el PRO, la UCR y los bloques provinciales.",
-      "link": "https://www.clarin.com/politica/senadores-votaron-favor-ley-propiedad-privada_0_SAzMurJGQZ.html",
-      "pubDate": "Fri, 07 Aug 2026 04:33:21 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/07/5Ydwoj8Qj_1200x630__1.jpg"
-    },
-    {
-      "id": "281f41eccddd0af99ccc",
-      "title": "VIDEO: Brutales consecuencias de ataques de los hutíes contra fuerzas sauditas",
-      "summary": "La ofensiva alcanzó la región saudita de Najrán, donde 11 civiles resultaron heridos.",
-      "link": "https://actualidad.rt.com/actualidad/621033-brutales-consecuencias-ataques-huties-saudi?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 07 Aug 2026 04:31:33 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "029f09122bab60b9455a",
-      "title": "Sabah Hamed, la ceutí que ha convertido su casa en un punto de ayuda humanitaria y atiende a unos 400 migrantes al día: “Llevan días sin comer”",
-      "summary": "Su labor solidaria se remonta a la crisis migratoria de 2021 y cuenta con una decena de voluntarias y con las donaciones de vecinos de la ciudad.",
-      "link": "https://www.clarin.com/internacional/sabah-hamed-ceuti-convertido-casa-punto-ayuda-humanitaria-atiende-400-migrantes-dia-llevan-dias-comer_0_dpQlu7gQL4.html",
-      "pubDate": "Fri, 07 Aug 2026 04:28:47 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/06/QrJ4ogU1q_1200x630__1.jpg"
-    },
-    {
-      "id": "19a286788568282a924e",
-      "title": "Senado: el oficialismo aprobó la ley que acelera desalojos pero tuvo retirar otro capítulo para evitar una derrota",
-      "summary": "La norma modifica la ley de expropiaciones y habilita desalojos exprés. Ahora tiene que ir a Diputados para convertirse en ley. La Libertad Avanza tuvo que retirar el capítulo que cambiaba la Ley de Manejo al Fuego, de Máximo Kirchner, porque no tenía los votos.",
-      "link": "https://www.clarin.com/politica/senado-oficialismo-aprobo-ley-acelera-desalojos-retirar-capitulo-evitar-derrota_0_jYdYkh6L8p.html",
-      "pubDate": "Fri, 07 Aug 2026 04:26:26 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/06/Ctom3BgK4_1200x630__1.jpg"
-    },
-    {
-      "id": "9cb46922d019458cf676",
-      "title": "Mar Casas, experta en protocolo: \"Al llevar una copa o un vaso a la boca, hay que mirar dentro del recipiente y no a otra persona. Es una falta de educación mirar a cualquier parte que no sea dentro del vaso\"",
-      "summary": "Según las normas de etiqueta y protocolo, mirar hacia afuera o fijar la vista en otra persona al beber demuestra una falta de atención.",
-      "link": "https://www.clarin.com/estados-unidos/mar-casas-experta-protocolo-llevar-copa-vaso-boca-mirar-dentro-recipiente-persona-falta-educacion-mirar-cualquier-parte-dentro-vaso_0_2xgiV6av3m.html",
-      "pubDate": "Fri, 07 Aug 2026 04:20:47 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/08/06/Kp9gVOLUN_1200x630__1.jpg"
     },
     {
       "id": "22971c1fa243e4ddb328",
@@ -2452,16 +2480,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GD373R3GINCTPGDOXEI5OECRIE.jpg?auth=46225c6fa28d5aff9d64a75cd11a394c8cf60b4f7ebef858b46a825b1ed624ef"
     },
     {
-      "id": "e99a6bcfa8f9b4b42ed0",
-      "title": "El día en que se le alinearán los astros a un alcalde cazador de eclipses",
-      "summary": "Félix Álvarez, Javier Alonso, Luis Alonso y Leonardo Cuesta en el observatorio de Quintanarraya en Burgos.",
-      "link": "https://elpais.com/ciencia/2026-08-07/el-dia-en-que-se-le-alinearan-los-astros-a-un-alcalde-cazador-de-eclipses.html",
-      "pubDate": "Fri, 07 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/CDYIPP3XFNCIDPNU2LHTV35K5E.jpg?auth=8c68fe662a0dd2751576ebab3f0c4f70b077e792164ff07cc1e1b61bcb40255e"
-    },
-    {
       "id": "f32f7aa81fdfdebcab7f",
       "title": "Tres Cantos cancela las actividades del eclipse solar y una plataforma pide que no se celebren en la Sierra Norte",
       "summary": "Concentración la tarde del miércoles 5 de agosto en Buitrago de Lozoya (Madrid), convocados por Monte en Pie, en el momento en el que interviene su portavoz, Ignacio Martínez.",
@@ -2470,6 +2488,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/KDADQF3FJJFIPCSDZGF732OF5I.jpg?auth=3d114d0b3d1f96a01bee20ffe6bcfc76f2f8b9f367185a857c4311cf61019ce8"
+    },
+    {
+      "id": "e99a6bcfa8f9b4b42ed0",
+      "title": "El día en que se le alinearán los astros a un alcalde cazador de eclipses",
+      "summary": "Félix Álvarez, Javier Alonso, Luis Alonso y Leonardo Cuesta en el observatorio de Quintanarraya en Burgos.",
+      "link": "https://elpais.com/ciencia/2026-08-07/el-dia-en-que-se-le-alinearan-los-astros-a-un-alcalde-cazador-de-eclipses.html",
+      "pubDate": "Fri, 07 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/CDYIPP3XFNCIDPNU2LHTV35K5E.jpg?auth=8c68fe662a0dd2751576ebab3f0c4f70b077e792164ff07cc1e1b61bcb40255e"
     },
     {
       "id": "497efafc652a91a84c51",
@@ -2522,6 +2550,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FYD5JW655VBLXH35EG3SWSIKFE.jpg?auth=2d941b8783259b50fd42b3814c773b0e4975b83e1023b0cd9d530ca787f14405"
     },
     {
+      "id": "b76470d2dceb72553fa9",
+      "title": "Jordi Gracia: “Nunca aceptaría la mayoría de los trabajos que existen”",
+      "summary": "El profesor de literatura española y ensayista Jordi Gracia (Barcelona, 1965), crítico en Babelia y que dirigió las páginas de opinión de EL PAÍS, presenta La izquierda ante el tecnofascismo (Anagrama). Lo define como “un panfleto”. En sus páginas reflexiona sobre los peligros que representan las corporaciones tecnológicas sobre la sociedad y la política. Seguir leyendo",
+      "link": "https://elpais.com/babelia/2026-08-07/jordi-gracia-nunca-aceptaria-la-mayoria-de-los-trabajos-que-existen.html",
+      "pubDate": "Fri, 07 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/2R4BDHXOXZFAHLNGK6CK5GZ3BY.jpg?auth=8fc3bddcb3df2b1feeef65310d38356a7346f21ff7915a468d66f912ce2a0470"
+    },
+    {
       "id": "3762313d06a28e83b721",
       "title": "La Camarga: el restaurante que no sobrevivió al escándalo del micro y el florero para hundir a los Pujol",
       "summary": "El salón privado del restaurante El Cangrejo Loco de la calle Aribau 115, el mismo donde se reunieron Alícia Sánchez-Camacho y Victoria Álvarez.",
@@ -2540,16 +2578,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/HEOJONRAEZB5XILZMSFJ6PFSWY.jpg?auth=839f0f0224ef238520af6af0d759678eefaf0f88ca9383504067ee450e999c49"
-    },
-    {
-      "id": "2bef438cf7123e7c3fd8",
-      "title": "El Desafío Semanal: enfréntate a nuestro test de actualidad en 10 preguntas",
-      "summary": "El Desafío Semanal es un reto con diez preguntas sobre informaciones publicadas durante los últimos siete días en los distintos canales de EL PAÍS. Anímate a resolverlo cada viernes y déjanos tus observaciones en los comentarios o escribiendo a juegos@elpais.es . También puedes sugerirnos alguna pregunta (con sus opciones) y valoraremos publicarla. ¿Te animas a resolverlo? Seguir leyendo",
-      "link": "https://elpais.com/juegos/actualidad/2026-08-07/el-desafio-semanal-enfrentate-a-nuestro-test-de-actualidad-en-10-preguntas.html",
-      "pubDate": "Fri, 07 Aug 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/2JUJENQTTNDEHNXFKAAEHU4ZC4.png?auth=665a52da13a40a9d8f8eb5f29b0fa80aad46bd6b1f128507094b611fd4a8615d"
     },
     {
       "id": "166b7aa656b2dabede52",
@@ -2582,16 +2610,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/MDZIMUH5QZJKRCD6XGC24CMO54.jpg?auth=51b7b0b1fac23c5b0062a261588e9cf5c1a88ebd903652dde90bae3b0af845e8"
     },
     {
-      "id": "88c6f877e8969fdd192e",
-      "title": "La inesperada aparición del riesgo Milei",
-      "summary": "Javier Milei enfrenta el peligro de causar el efecto contrario al deseado. La confianza en lograr la reelección que pretende transmitir a los inversores choca con la urgencia por demostrar que puede aprobar reformas electorales en el Congreso aunque atraviese el último tramo de su mandato. Pero, como quedó demostrado con la fallida ley de tierras, recrear cierto grado de consenso alrededor de sus iniciativas no es algo fácil de conseguir ni siquiera entre sus habituales aliados en el Senado. Sobre todo cuando es tan confuso el límite entre la liberalización de actividades transaccionales y un potencial proceso de extranjerización del patrimonio soberano. Una superposición de intereses que, en el caso de la Justicia, adquiere un perfil más mundano. Hay quienes piensan que la posibilidad de cubrir las vacantes en la Corte analizada por Milei con Juan Bautista Mahiques la semana pasada puede naufragar por los diferentes puntos de vista de Karina Milei, Eduardo “Lule” Menem y el ministro de Justicia. El nuevo triángulo que moldea el futuro de ese poder. Pero haciéndose eco de lo que aparenta ser una disputa interminable entre Horacio Rosatti y Ricardo Lorenzetti por el control del máximo tribunal. Los que contribuyen a treguas transitorias obtienen mayor rédito que quienes se embanderan como activistas por incidir sobre 200 designaciones de jueces en curso. Diego Molea se destaca en el rol de pacificador. El rector de la Universidad Nacional de Lomas de Zamora representa a los académicos en el Consejo de la Magistratura. Molea sobresale incluso por encima de Daniel Angelici y Juan Manuel Olmos, con una dilatada tradición de mediadores. Es lo que inquieta a Mahiques. Pese a estar garantizada por la Constitución, el ministro impulsa una reforma que suprima la representación académica en ese organismo. Un contagio pasajero de ahínco libertario seguramente. Frenesí similar al que impera entre los bandos en pugna para anunciar como acontecimientos sucesos que todavía no ocur",
-      "link": "https://www.lanacion.com.ar/opinion/la-inesperada-aparicion-del-riesgo-milei-nid07082026/",
-      "pubDate": "Fri, 07 Aug 2026 03:15:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/Y2TGVOJYNVBTXALOA6MFMC52LY.jpg?auth=81a2e9edb166ea48454347cb31b7f692ba41d90509ea58475ed1a0d1974f8281&smart=true&width=2000&height=1333"
-    },
-    {
       "id": "ae567ed9ee07aea3a16f",
       "title": "La consolidación de la izquierda radical en los Estados Unidos",
       "summary": "Hasta no hace mucho , Democratic Socialists of America (DSA) era una organización marginal, un pequeño espacio de activismo político estadounidense más cercano a los debates universitarios y a círculos militantes intelectualizados (los “zurdos con iPhone” versión gringa) que a la disputa por el poder. Sin embargo, durante la campaña presidencial de Bernie Sanders en 2016, este grupo funcionó como catalizador de una sensibilidad que emergía entre sectores jóvenes, urbanos y educados (que remiten a los “jóvenes ricos que tienen tristeza” que inmortalizó Carlos Menem en 1989). Víctimas de un “golpe del aparato partidario” que consagró a Hillary Clinton y abortó el impulso del mensaje del senador por Vermont, los DSA ganaron momentum con la polarización que propuso Donald Trump durante su primera presidencia: para una parte de la nueva izquierda estadounidense, la respuesta al populismo de derecha no debía ser un regreso al centro “racional” y la moderación de los 90, sino una profundización de la disputa ideológica. Así, DSA pasó de 6000 miembros en 2015 a más de 120.000 en 2026 y se convirtió en la organización socialista más numerosa e influyente de la historia contemporánea del país. Tiene una estructura big tent : una gran coalición con capítulos locales y corrientes internas que conviven, con indisimulables tensiones, bajo una misma identidad, y utiliza las primarias del Partido Demócrata para ganar espacios de poder. La estrategia está dando resultados. Unos 250 candidatos electos respaldados por DSA ocupan cargos públicos en más de 40 estados. Casi el 90% ganó después de 2019. En el Congreso, figuras como Alexandria Ocasio-Cortez en Nueva York (una joven precandidata a presidenta que, de acuerdo con un sondeo reciente de CNN/SSRS, cuenta con un amplio apoyo en votantes demócratas para renovar el liderazgo del partido) y Rashida Tlaib en Michigan son las caras más visibles de una corriente que instaló temas antes impensados en el debate local, incluidas posturas ",
@@ -2600,6 +2618,16 @@
       "source": "La Nacion",
       "cat": "ar_pol",
       "image": "https://resizer.glanacion.com/resizer/v2/66MWOJHCFNDEJPULEL37OEQVBA.jpg?auth=b00dc826a0095de56eea0d34d92ceda8427be616cbb21b16d7161eb46cd8579f&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "88c6f877e8969fdd192e",
+      "title": "La inesperada aparición del riesgo Milei",
+      "summary": "Javier Milei enfrenta el peligro de causar el efecto contrario al deseado. La confianza en lograr la reelección que pretende transmitir a los inversores choca con la urgencia por demostrar que puede aprobar reformas electorales en el Congreso aunque atraviese el último tramo de su mandato. Pero, como quedó demostrado con la fallida ley de tierras, recrear cierto grado de consenso alrededor de sus iniciativas no es algo fácil de conseguir ni siquiera entre sus habituales aliados en el Senado. Sobre todo cuando es tan confuso el límite entre la liberalización de actividades transaccionales y un potencial proceso de extranjerización del patrimonio soberano. Una superposición de intereses que, en el caso de la Justicia, adquiere un perfil más mundano. Hay quienes piensan que la posibilidad de cubrir las vacantes en la Corte analizada por Milei con Juan Bautista Mahiques la semana pasada puede naufragar por los diferentes puntos de vista de Karina Milei, Eduardo “Lule” Menem y el ministro de Justicia. El nuevo triángulo que moldea el futuro de ese poder. Pero haciéndose eco de lo que aparenta ser una disputa interminable entre Horacio Rosatti y Ricardo Lorenzetti por el control del máximo tribunal. Los que contribuyen a treguas transitorias obtienen mayor rédito que quienes se embanderan como activistas por incidir sobre 200 designaciones de jueces en curso. Diego Molea se destaca en el rol de pacificador. El rector de la Universidad Nacional de Lomas de Zamora representa a los académicos en el Consejo de la Magistratura. Molea sobresale incluso por encima de Daniel Angelici y Juan Manuel Olmos, con una dilatada tradición de mediadores. Es lo que inquieta a Mahiques. Pese a estar garantizada por la Constitución, el ministro impulsa una reforma que suprima la representación académica en ese organismo. Un contagio pasajero de ahínco libertario seguramente. Frenesí similar al que impera entre los bandos en pugna para anunciar como acontecimientos sucesos que todavía no ocur",
+      "link": "https://www.lanacion.com.ar/opinion/la-inesperada-aparicion-del-riesgo-milei-nid07082026/",
+      "pubDate": "Fri, 07 Aug 2026 03:15:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/Y2TGVOJYNVBTXALOA6MFMC52LY.jpg?auth=81a2e9edb166ea48454347cb31b7f692ba41d90509ea58475ed1a0d1974f8281&smart=true&width=2000&height=1333"
     },
     {
       "id": "2c1a9b171ef2591b0531",
@@ -2621,26 +2649,6 @@
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/FIGOFTGS4FDOZHHVCG3DOIIEQY.jpg?auth=631c280ef8ba01f723d83d975b2272dcc1b2be6da7ec7ece3d9b4df9bd7a19d4&smart=true&width=2000&height=1333",
       "subcat": "herramientas"
-    },
-    {
-      "id": "9e5e8b521fae7147c84b",
-      "title": "Brasil y la ludopatía",
-      "summary": "La salud pública global está siendo gravemente afectada por una epidemia digital que coopta cada vez a más personas , muchas de ellas menores de edad. Apostar se ha vuelto un imperativo para quienes se valen de sus celulares a toda hora dando rienda suelta a una adicción que crece. Como hemos venido dando cuenta desde este espacio, el fenómeno es tan devastador que los gobiernos han comenzado a reglamentar el uso de plataformas, al menos entre los más chicos. Mientras los millonarios intereses en juego vienen logrando dormir en el Congreso la ley que regula y restringe el juego online entre nosotros, Brasil resuelve acertadamente endurecer las reglas en la materia. Allí, igual que aquí, la publicidad de las plataformas se cuela en redes sociales, a través de influencers, estrellas del deporte o el espectáculo, de manera cada vez más agresiva y personalizada por los algoritmos, estrategias reforzadas y potenciadas aún más peligrosamente durante la reciente Copa Mundial de Fútbol. En marzo pasado, el presidente brasileño, Lula da Silva, había anunciado la entrada en vigencia del Estatuto Digital de la Infancia y la Adolescencia , denunciando que el “drama” que afecta a los hogares de ese país es “el vicio de las apuestas”. Puntualizaba también que, “aunque la mayoría de los adictos son hombres, la consecuencias recaen sobre las mujeres y la necesidad de contar con ”dinero para la comida, para el alquiler y para las escuelas de los niños\". El Senado comenzó entonces a tratar el proyecto que se ha convertido en ley. El gobierno de Brasil endureció la fiscalización de las llamadas bets (apuestas), incluso aplicándoles un régimen impositivo que antes no existía. Con 187 plataformas autorizadas y decenas de miles de sitios ilegales bloqueados, 25 millones de brasileños apostaron en ellas a lo largo de 2025. Los ingresos brutos de los sitios de apuestas legales superaron los 6400 millones de reales y los de los ilegales, 1100 millones Como en casi todas partes, también en e",
-      "link": "https://www.lanacion.com.ar/editoriales/brasil-y-la-ludopatia-nid07082026/",
-      "pubDate": "Fri, 07 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/NE5EF3ZOGRGOTCYM5HQDT3YNIE.jpg?auth=2a8539c14bb1b910114fc3299233b49ed9d0df600f47e0de70a00c8ba64e49f5&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "be6b8e5e90eeb5edec9d",
-      "title": "La soberanía no admite una doble vara",
-      "summary": "El enfrentamiento entre las embajadas de Estados Unidos y China por la posible participación de Huawei en proyectos tecnológicos de la cooperativa CALF , en Neuquén, excede ampliamente una discusión sobre visas, empresas o formas diplomáticas. Lo que está en juego es quién intervendrá sobre las redes, los datos y la infraestructura crítica de la Argentina, y con qué criterios se ejercerá nuestra soberanía frente a las grandes potencias. En ese contexto, las declaraciones del embajador estadounidense Peter Lamelas merecen un análisis más allá de la controversia. Lamelas ratificó que el ingreso a los Estados Unidos es un privilegio y no un derecho, y que su gobierno puede revisar la concesión de visas cuando considera comprometidos sus intereses de seguridad nacional. En ese punto, su posición es jurídicamente legítima. También resulta lógico que un embajador defienda los intereses de su Nación. Esa es la esencia de la doctrina America First. Puede discutirse el canal utilizado, ya que una cuestión así debería plantearse formalmente, con fundamentos técnicos y ante las autoridades competentes. Pero cuestionar las formas no puede convertirse en una excusa para evitar el tema de fondo. Y ese tema no es Huawei en sí mismo, sino la infraestructura crítica sobre la que funcionará el país en las próximas décadas. La infraestructura crítica es una red energética o un centro de datos, por ejemplo, que no son compras comerciales. Constituyen el sistema nervioso de una sociedad moderna. Por eso, el proveedor más barato no siempre representa el costo más bajo. La dependencia tecnológica puede pagarse muchos años después, cuando un país descubre que no puede sustituir sus equipos, auditar sus sistemas o proteger sus datos. La respuesta de la Embajada china resulta reveladora. Pekín acusó a Washington de actuar con arrogancia, prejuicios e hipocresía, y presentó la advertencia estadounidense como una afectación de la soberanía argentina y de la libertad de comercio. Sin embargo, l",
-      "link": "https://www.lanacion.com.ar/opinion/la-soberania-no-admite-una-doble-vara-nid07082026/",
-      "pubDate": "Fri, 07 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/BB7KN4EGYNBB7ECUBHTXIG6KNM.jpg?auth=ff8ddfbbbe7e2ec8960b8dd500bec621d51973bcb9aa050135600e4f8b929736&smart=true&width=2000&height=1333"
     },
     {
       "id": "f3841ebcb1ff6e83d129",
@@ -2673,16 +2681,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-taquilla.jpg"
     },
     {
-      "id": "46a46c1eb3650d760ccb",
-      "title": "Histórico: Coello jugará contra su cuñado en los cuartos del P1 de Londres",
-      "summary": "Curro Cabeza, cuñado de Arturo y rival en los cuartos de final del P1 de Londres.",
-      "link": "https://www.marca.com/padel/2026/08/07/historico-coello-jugara-cunado-cuartos-p1-londres.html",
-      "pubDate": "Fri, 07 Aug 2026 02:02:27 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a74e5ae19b13.jpeg"
-    },
-    {
       "id": "8187aecca1552eb7573d",
       "title": "X-Men: Marvel suma a otra estrella al cast y nadie lo vio venir",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com De acuerdo con un reporte actualizado publicado por Variety , el reinicio de los X-Men «dará inicio a la tercera saga de Marvel» tras el estreno de Avengers: Secret Wars previsto para el próximo diciembre. Esto sugiere que la película apunta a una fecha de estreno estimada para el 5 de mayo de 2028. De confirmarse dicho calendario, es muy probable que Ghost Rider llegue a las salas de cine el 28 de julio, mientras que Black Panther 3 cerraría el año el 15 de diciembre. Con las confirmaciones previas de la estrella de Spider-Man: Brand New Day , Sadie Sink, en el papel de Jean Grey, y la actriz de Ready or Not, Samara Weaving, asumiendo el rol de Emma Frost, el esperado proyecto de los X-Men producido por Marvel Studios está tomando forma a un ritmo acelerado. El medio especializado Deadline ha dado a conocer que el actor británico de 22 años, Kit Connor ( Heartstopper ), ha sido seleccionado para interpretar a Scott Summers / Cyclops en el UCM . Según fuentes cercanas a la producción, el presidente de Marvel Studios, Kevin Feige, y el director Jake Schreier se reunieron con varios candidatos antes de decidir la semana pasada que Connor era la opción ideal para dar vida al emblemático líder mutante. Kit Connor sería uno de los próximos X-Men El proceso de selección para el papel de Scott Summers en X-Men El reporte añade detalles sobre cómo se definió la elección del actor principal: «Tras una serie de reuniones y audiciones durante los últimos dos meses, fuentes señalan que un pequeño grupo de actores realizó pruebas de pantalla después del feriado del 4 de julio. Luego de un extenso proceso de deliberación, Marvel se decidió por Connor como la elección final para interpretar a Summers». Creado por Stan Lee y Jack Kirby en el cómic The X-Men #1 en 1963, Scott Summers se ha consolidado como uno de los mutantes más icónicos de Marvel y el histórico líder de campo de los X-Men. Nacido con la habilidad mutant",
@@ -2691,16 +2689,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2020/11/ciclope-marvel.jpeg"
-    },
-    {
-      "id": "2498b15fc0fda9ef5696",
-      "title": "La prensa catalana se vuelve loca con Rodri",
-      "summary": "El mercado de fichajes acapara la atención de las portadas deportivas de este viernes con tres nombres propios por encima del resto: Vinicius, Diomande y Rodrigo Hernández",
-      "link": "https://www.marca.com/futbol/album/2026/08/07/portadas-dia.html",
-      "pubDate": "Fri, 07 Aug 2026 01:01:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a751236198a6.jpeg"
     },
     {
       "id": "9e4a250f86fd589a5bc2",
@@ -2799,25 +2787,25 @@
         "cls": "rb-green"
       },
       {
-        "name": "Gemini",
-        "type": "Modelo",
+        "name": "Sora",
+        "type": "Video AI",
         "badge": "En foco",
         "cls": "rb-accent"
       },
       {
-        "name": "GPT-5",
-        "type": "Modelo",
+        "name": "Copilot",
+        "type": "Coding AI",
         "badge": "Alta atención",
         "cls": "rb-orange"
       },
       {
-        "name": "Sora",
-        "type": "Video AI",
+        "name": "Gemini",
+        "type": "Modelo",
         "badge": "Alta atención",
         "cls": "rb-orange"
       }
     ],
     "rising": []
   },
-  "updated": "2026-08-07T07:03:56.501446+00:00"
+  "updated": "2026-08-07T08:50:27.118708+00:00"
 }
