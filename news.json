@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "id": "062e319322b68a54d382",
+      "title": "Colapinto estalla: \"¿Quién pensaría que los italianos le robarían todo a un latino?\"",
+      "summary": "Franco Colapinto, en Italia.",
+      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/2026/08/12/colapinto-estalla-pensaria-italianos-le-robarian-latino.html",
+      "pubDate": "Wed, 12 Aug 2026 09:03:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c181d02668.jpeg"
+    },
+    {
+      "id": "0baf13ea0d15bd71f6fb",
+      "title": "La AEMET lanza sus últimas previsiones antes del eclipse: “No deberían...”",
+      "summary": "kjhgf",
+      "link": "https://www.marca.com/tiramillas/tiempo/2026/08/12/ultima-prevision-aemet-sobre-eclipse-deberian-dificultar-observacion.html",
+      "pubDate": "Wed, 12 Aug 2026 08:56:32 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7ae56c3fa43.jpeg"
+    },
+    {
+      "id": "076d5aad4e1ad6763d2e",
+      "title": "El supuesto cambio físico de Jenna Ortega, actriz de 'Miércoles', que tiene a sus fans en vilo: \"¿Qué pasó?\"",
+      "summary": "El supuesto cambio físico de Jenna Ortega, la actriz de la serie 'Miércoles', que tiene a sus fans en vilo",
+      "link": "https://www.marca.com/tiramillas/cine/2026/08/12/supuesto-cambio-fisico-jenna-ortega-actriz-serie-miercoles-fans-vilo-paso.html",
+      "pubDate": "Wed, 12 Aug 2026 08:51:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c17cbafc42.jpeg"
+    },
+    {
+      "id": "3ef10c9ecbc0f5a93771",
+      "title": "Otro éxito para Jorge Vilda",
+      "summary": "Jorge Vilda.",
+      "link": "https://www.marca.com/futbol/futbol-femenino/2026/08/12/exito-jorge-vilda-hoy-dirige-marruecos-semis-copa-africa.html",
+      "pubDate": "Wed, 12 Aug 2026 08:44:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/17/6a5a294663ccb.jpeg"
+    },
+    {
+      "id": "5066014b3cc69aa58668",
+      "title": "Hallan 86 kilos de marihuana en el autobús que iba a trasladar al São Paulo en Bolivia",
+      "summary": "Autobús sao paulo en bolivia.",
+      "link": "https://www.marca.com/futbol/2026/08/12/insolito-hallan-86-kilos-marihuana-autobus-iba-trasladar-sao-paulo-bolivia.html",
+      "pubDate": "Wed, 12 Aug 2026 08:32:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c130894cf0.jpeg"
+    },
+    {
+      "id": "de61fbe76e74301d5e5d",
+      "title": "Hay Caso Depay en Brasil: \"No dejaré este comportamiento inaceptable sin sanción\"",
+      "summary": "Memphis Depay, con el Corinthians.",
+      "link": "https://www.marca.com/futbol/2026/08/12/depay-estalla-corinthians-dejare-comportamiento-inaceptable-sancion.html",
+      "pubDate": "Wed, 12 Aug 2026 08:09:40 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c0c5cc464f.jpeg"
+    },
+    {
+      "id": "ccb4a2bc2431c6ca68bb",
+      "title": "A Coruña, entre el cielo y el Madrid",
+      "summary": "Bernardo Silva, en su debut con el Real Madrid frente al Ferencvaros.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/12/coruna-cielo-madrid.html",
+      "pubDate": "Wed, 12 Aug 2026 07:37:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b55afbaa94.jpeg"
+    },
+    {
       "id": "e17f7229be60250bfb0c",
       "title": "Emery ante la 'tiranía' de Luis Enrique",
       "summary": "PSG y Aston Villa se juegan la Supercopa de Europa.",
@@ -9,6 +79,26 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b03b052be2.jpeg"
+    },
+    {
+      "id": "538f5f0749f9e6385323",
+      "title": "A vueltas con la portería del PSG un año después del 'Expediente Donnarumma'",
+      "summary": "Chevalier, Suzuki y Safonov",
+      "link": "https://www.marca.com/futbol/liga-francesa/2026/08/12/vueltas-porteria-psg-ano-despues-expediente-donnarumma.html",
+      "pubDate": "Wed, 12 Aug 2026 07:32:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b8e4cb2138.jpeg"
+    },
+    {
+      "id": "f067686a089977493d16",
+      "title": "Lucas Digne, el agente doble de la Supercopa de Europa",
+      "summary": "Digne ganó con el Villa y jugará con el PSG.",
+      "link": "https://www.marca.com/futbol/2026/08/12/lucas-digne-agente-doble-supercopa-europa.html",
+      "pubDate": "Wed, 12 Aug 2026 07:32:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7ac40b878b1.jpeg"
     },
     {
       "id": "20806d05eebf153fc2da",
@@ -31,6 +121,17 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b1e1363793.jpeg"
     },
     {
+      "id": "2541a076a055af8483e7",
+      "title": "Rohit Lakhwani, investigador: “Los mosquitos podrían estar desarrollando resistencia al insecticida”",
+      "summary": "Los mosquitos pueden contagiar diferentes enfermedades capaces de matar hasta 40.000 personas al año . Frente a este panorama, un estudio de la Universidad de Delhi , en India, descubrió que una cepa de la especie Ae. aegypti , portadora y transmisora del dengue, zika y fiebre amarilla , habría desarrollado resistencia al repelente más usado del mundo, compuesto por la α-cipermetrina . La noticia se dio a conocer después de publicarse el análisis en la revista Frontiers in Tropical Diseases , en la que investigadores multidisciplinares detectaron por qué este tipo de mosquito no muere al estar expuesto al insecticida, sino que resiste y su sistema inmune se haría más fuerte . El primer autor del estudio, el Dr. Rohit Lakhwani , investigador de la Universidad de Delhi, manifestó en el artículo: “Demostramos que una población de mosquitos Ae. aegypti de la India presentó una tasa de mortalidad del 97,91 % al ser expuesta a la dosis diagnóstica recomendada de α-cipermetrina. Esto es una señal temprana de que estos mosquitos podrían estar desarrollando resistencia a este insecticida” . Por su parte, la Dra. Sarita Kumar, profesora del Departamento de Zoología de la Universidad de Delhi, coincidió con su colega y dijo: “Hay que comprender los mecanismos biológicos que permiten a los mosquitos sobrevivir a este insecticida; mientras la resistencia aún está en sus primeras etapas, es ventajoso”. Según los datos que se registraron, los insectos poseen enzimas de desintoxicación , que son proteínas que producen de forma natural para defenderse de las sustancias tóxicas, a menudo a las pocas horas de la exposición. “Cuando un insecticida entra en el cuerpo de un mosquito, activa un sistema de alarma celular. Esto desencadena una cascada de respuestas dentro de las células del insecto y aumenta la producción de proteínas defensivas” , detalló Kumar. De este modo, las enzimas de desintoxicación se unen a las moléculas del insecticida, rompen los enlaces moleculares y dejan atrá",
+      "link": "https://www.lanacion.com.ar/ciencia/rohit-lakhwani-investigador-los-mosquitos-podrian-estar-desarrollando-resistencia-al-insecticida-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 07:03:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/LJ7BB5J3P5ENBHVTWFDJRJABUU.png?auth=f1fb534b26045be5bbdaaf0be68d7105ca23ae24c03da5e21a1b6dcdab0e01b2&smart=true&width=2000&height=1333",
+      "subcat": "diseño"
+    },
+    {
       "id": "7594b3db39c93f5bc924",
       "title": "Un reencuentro con las posturas claras",
       "summary": "Julián Alvarez y Simeone.",
@@ -39,6 +140,357 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b7cea94ef2.jpeg"
+    },
+    {
+      "id": "2d0fcad54dd893a56cf8",
+      "title": "Jorge Tartaglione, médico, sobre el uso del microondas: “Hay que tratar de no meter cosas de plástico porque tienen microplásticos que impactan en nuestro organismo”",
+      "summary": "En una nueva edición de su columna sobre las malas costumbres cotidianas, el médico Jorge Tartaglione advirtió sobre el uso de recipientes de plástico dentro del microondas y recomendó reemplazarlos por envases de vidrio aptos para soportar altas temperaturas. El especialista explicó en LN+ que muchas personas guardan su comida en recipientes plásticos y luego los colocan directamente en el electrodoméstico para calentarla. Según señaló, se trata de una práctica que convendría evitar para reducir la exposición a los microplásticos . Durante el intercambio, Tartaglione también se refirió a los envases que llevan la indicación de que pueden utilizarse en el microondas. Ante la consulta sobre esos productos, sostuvo que su recomendación se mantiene y que la alternativa preferible es el vidrio. Malas costumbres: calentar comida en el microondas La advertencia de Tartaglione sobre los recipientes de plástico El tema surgió durante una conversación sobre aquellas acciones que se repiten todos los días sin prestar demasiada atención. “Te voy a traer algo que hacemos cotidianamente los seres humanos y no nos damos cuenta. Vos tenés el microondas, ¿cómo calentás?” , preguntó Tartaglione. Luego de que uno de los conductores indicara que utilizaba un recipiente de vidrio, el médico aprobó la elección: “Excelente” . “El mensaje para ustedes en casa, para terminar con un mensaje saludable, es tratar de no meter en el microondas cosas de plástico, porque tienen microplásticos y sabemos hoy muy claramente que cada uno de nosotros en nuestro organismo tenemos gran cantidad que impactan en la salud”, afirmó. Qué pasa con los recipientes aptos para microondas Tras la advertencia, Tartaglione fue consultado específicamente por aquellos envases que se comercializan con una identificación que autoriza su uso dentro del microondas. “¿Aun los que dicen que son aptos para microondas?” , le preguntaron. El médico respondió: “Aun los que son aptos se sugiere no usarlos” . Como reemplazo, rec",
+      "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-uso-del-microondas-hay-que-tratar-de-no-meter-cosas-de-plastico-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/O4PZ3OJXQBBF7CU3BY2J4BF3NU.png?auth=4e9fcf4d81b60d11d017bfa29b5fc244267cdd94afaefe8cad1cf87d42e43a7a&smart=true&width=1536&height=1024"
+    },
+    {
+      "id": "54713cb859aaa3a3006b",
+      "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
+      "summary": "La escalada del precio del petróleo por la guerra en Medio Oriente, que actualmente se mantiene en torno a US$87 según la cotización Brent, encontró a YPF en el mejor momento para aprovecharla. La petrolera presentó ayer resultados financieros con ingresos récord para el segundo trimestre y, sobre todo, con una caída fuerte de su deuda, que el año pasado había llegado a niveles altos en medio de la transición económica de la compañía. Horacio Marín , presidente y CEO de YPF, encabezó hoy la conferencia con inversores en la que contó los futuros pasos de la empresa y dio detalles de los proyectos de exportación de petróleo y gas natural licuado (GNL) que la firma tiene en danza. La petrolera obtuvo una ganancia neta de US$1200 millones, el segundo mejor resultado trimestral de su historia, solo detrás del tercer trimestre del año pasado. El resultado operativo llegó a US$1800 millones, un nuevo récord, sobre ingresos de US$6600 millones, un 42% más que un año atrás. El Ebitda ajustado totalizó US$2800 millones, 2,5 veces el de igual período de 2025. Leé la nota completa acá. El vocero presidencial, Adrián Ravier , respondió este martes una consulta sobre cuáles eran los fundamentos de la acusación de Javier Milei contra el gobierno de Brasil, al que señaló por haber destinado dinero para financiar una “campaña antiargentina”. El funcionario nacional sostuvo que las fuentes de aquella información provenían de “las redes”. Ravier respondió ante una consulta sobre las fuentes utilizadas para vincular al gobierno brasileño con la \"campaña antiargentina\" En el marco de una conferencia de prensa, un periodista le preguntó al funcionario en qué elementos se había basado el Presidente para realizar las afirmaciones contra Brasil, que provocaron que desde el Palacio de Itamaraty , en Brasilia, decidieran retirar al embajador brasileño de la Argentina. Leé la nota completa acá. La oscuridad es el manto que tendieron sobre la Justicia . La primera responsable de esa opacidad es",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "israel",
+      "image": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "bdcae17170c078bed156",
+      "title": "Sargazo: las razones que explican la invasión de algas en playas paradisíacas y una pregunta inquietante a futuro",
+      "summary": "A fondo Alerta, sargazo Las razones que explican la invasión de algas en playas paradisíacas y una pregunta inquietante a futuro",
+      "link": "https://www.lanacion.com.ar/el-mundo/sargazo-las-razones-que-explican-la-invasion-de-algas-en-playas-paradisiacas-y-una-pregunta-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:53:33 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/FL4TCKQ66ZHWXCC2TLLYRTH77A.jpg?auth=be37bdc2df10c230115aad381c433c99dfe9bad08fa38e9cc9f9eca1f1f2b8ed&smart=true&width=3915&height=2610"
+    },
+    {
+      "id": "f72e6f6ecdf371d8a871",
+      "title": "Boca venció a Recoleta y quedó cerca de los cuartos de final de la Copa Sudamericana",
+      "summary": "Rodolfo Arruabarrena ya había vivido una noche parecida. Doce años atrás, en el inicio de su primer ciclo en Boca, el humilde Capiatá, de Paraguay, había dado el golpe en la Bombonera y obligado a su equipo a ganar en Asunción para, tras una electrizante serie por penales, sellar la clasificación a los cuartos de final de aquella Copa Sudamericana . Aquella experiencia también le dejó una enseñanza: no subestimar a ningún rival y tomar decisiones fuertes antes de que sea demasiado tarde . Esta vez, el Vasco evitó que la historia volviera a complicarse. Boca todavía siente la falta de un 9, pero con la racha goleadora de Santiago Ascacibar , las apariciones de Leonel Flores y Tomás Aranda le alcanzan por ahora para disimular esa ausencia y seguir tachando rivales. Con el 3-1 ante Recoleta en el Ducó , puso un pie y medio en los cuartos de final, donde espera el vencedor de la serie entre San Pablo y Bolívar . El partido, sin embargo, comenzó bastante peor de lo que terminó. Durante los primeros minutos asomaron algunos de los problemas que habían marcado el comienzo del ciclo: desorden, flojos retrocesos, espacios a espaldas de los volantes y demasiada fragilidad en los mano a mano. También fallaron los centrales cuando tuvieron que salir lejos a cortar y Álvaro Montero volvió a transmitir poca seguridad . El gol de Pedro Ríos llegó en ese contexto: el remate se desvió en Leandro Lozano antes de meterse por el primer palo, pero Boca ya había dado varias señales de vulnerabilidad . Lo mejor de Boca vs. Recoleta Superado ese comienzo incómodo, el equipo empezó a instalarse en campo de Recoleta y el partido cambió de dueño. Sin la fluidez que había mostrado ante Vélez, Boca manejó la pelota, empujó al rival contra su arco y generó media docena de situaciones antes del descanso. En una misma jugada, incluso, la pelota dio primero en el palo tras un cabezazo de Miguel Merentiel y después en el travesaño con un remate de Milton Delgado que picó sobre la línea. Incluso en u",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vencio-a-recoleta-y-quedo-cerca-de-los-cuartos-de-final-de-la-copa-sudamericana-nid11082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:53:10 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/Z7772ITKQFHMDOOKSZP5KLE7HQ.JPG?auth=3793a25c7b408bfc2bc365fab0c0f0938eba80a25ca71db1c52b51dad4337b17&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "18bde22254e44099b600",
+      "title": "Incertidumbres en la Justicia",
+      "summary": "La oscuridad es el manto que tendieron sobre la Justicia . La primera responsable de esa opacidad es la política; la segunda cae sobre los propios jueces. Un juez bueno, Martín Irurzun , que fue uno de los magistrados que con más convicción condenó la corrupción política, está en un limbo que seguramente se resolverá, más vale pronto que tarde, en los propios tribunales. Irurzun cumplió 75 años , que es el límite etario que marca la Constitución para ser juez en la Argentina desde la reforma de 1994; antes no existía ninguna limitación que surgiera del mandato constitucional. De hecho, hemos visto aquí como el exjuez de la Corte Suprema Carlos Fayt fue miembro del tribunal supremo hasta los 98 años; renunció poco antes de morir. Tampoco en los Estados Unidos existe esa restricción impuesta por la edad. Hemos visto de igual modo al exjuez senior del tribunal sur de Nueva York Thomas Griesa, célebre en la Argentina por ser quien resolvía sobre el caso de los holdouts (los bonistas que persistían en considerar en default la deuda argentina), morir en el cargo a los 87 años. Los límites del programa de Milei En el país, existen dos jurisprudencias contradictorias de la Corte Suprema. Una corresponde precisamente al juez Fayt. El llamado “caso Fayt” refiere a una resolución del máximo tribunal de justicia en el que declaró “nulo de nulidad absoluta” el articulo de la Constitución que fijó ese precepto etario. El argumento de la Corte de 1999 consistía en que ese artículo agregado a la Constitución por los constituyentes no figuraba en el núcleo de coincidencias básicas que había aprobado el Congreso cuando convocó a la Asamblea Constituyente. El núcleo de coincidencias surgió, a su vez, del llamado Pacto de Olivos que suscribieron los dos mayores partidos políticos de ese momento: el peronismo conducido por Carlos Menem y el radicalismo liderado por Raúl Alfonsín . Mucho después, la Corte modificó esa jurisprudencia con el llamado “caso Schiffrin” por el camarista Leopol",
+      "link": "https://www.lanacion.com.ar/politica/incertidumbres-en-la-justicia-nid11082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:52:48 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/GXHG6BD25ZA2LPIRFBLYMC336I.jpg?auth=233fde3ef7ea69d90f4f8673b8731786dacbfde7851833fd863044e466c990d8&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "0f5c428c7b78142ef557",
+      "title": "Senado: el oficialismo saca del congelador el proyecto de ley de sociedades impulsado por Sturzenegger",
+      "summary": "El Senado retomó este martes por la tarde el debate del proyecto de ley General de Sociedad , iniciativa impulsada por el Poder Ejecutivo que busca modernizar el marco normativa, que rige desde 1972, reconociendo la existencia de sociedades gobernadas en su totalidad por tecnología y el uso de la inteligencia artificial (IA) para la ejecución de funciones operativas. Esta fue la segunda reunión sobre el tema que celebra la Comisión de Legislación General, que preside la libertaria Nadia Márquez (Neuquén), tras un largo intervalo provocado por la crisis generada por el caso de Manuel Adorni y el trabajoso debate del proyecto de inviolabilidad de la propiedad privada. La intención del oficialismo sería emitir dictamen en la próxima reunión , que todavía no tiene fecha, previo consenso con los bloques de la oposición dialoguista . El anterior y primer encuentro fue el 23 de junio pasado, hace más de 40 días, y contó con la presencia del ministro de Desregulación y Transformación del Estado, Federico Sturzenegger , siempre dispuesto a enfrentarse con los senadores del kirchnerismo. En esta ocasión, la reunión transcurrió sin mayores inconvenientes, salvo por una polémica entre la jefa de la bancada oficialista, Patricia Bullrich (Capital), y el dos veces titular de la Inspección. General de Justicia (IGJ) durante el kirchnerismo, Ricardo Nissen. Se trata de dos viejos rivales políticos. En su último paso por la IGJ, Nissen ordenó intervenir, en 2023, el Instituto de Estudios Estratégicos en Seguridad (Iees) que presidía Bullrich , por recaudar fondos con fines proselitistas. En su exposición, Nissen sostuvo que el marco normativo de sociedades debe modificarse, pero que el proyecto del gobierno libertario no es la forma. “Esto es la consagración de las sociedades comerciales como trampa, como lugar y ámbito para una actuación deshonesta, para que la gente que tiene plata tenga más plata”, denunció el exfuncionario kirchnerista. “La finalidad principal de este proyecto e",
+      "link": "https://www.lanacion.com.ar/politica/senado-el-oficialismo-saca-del-congelador-el-proyecto-de-ley-de-sociedades-impulsado-por-nid11082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:51:49 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZDQ5ANVEWFGXPLE4EALICPOL7M.JPG?auth=2f3484f49958581130c98c6dadf5402dd496505de765488dcabc2ecbba1caa7c&smart=true&width=2000&height=1334"
+    },
+    {
+      "id": "238bf1163a637500fcae",
+      "title": "La Justicia de EE.UU. descargó el teléfono de un exdirectivo de la AFA y analiza sus movimientos comerciales",
+      "summary": "Una notebook y un teléfono móvil con información acerca de un tema sensible: los movimientos comerciales de la Asociación del Fútbol Argentino (AFA) desde 2017 hasta el presente ya están en poder del Departamento de Justicia de los Estados Unidos. Ambos dispositivos pertenecen a Leandro Petersen , exdirector de Marketing de la entidad de la calle Viamonte, que los habría entregado en los últimos días a fiscales del Estado de Florida que investigan estos negocios, según informaron a LA NACION fuentes al tanto de las operaciones. La entrega del material se da en el contexto de un creciente interés de tres fiscales de los Estados Unidos sobre la estructura comercial y financiera de la AFA en el exterior a través de TourProdenter , intermediaria que pertenece a Javier Faroni , productor teatral y ex diputado provincial del Frente Renovador. Los fiscales, que trabajan bajo la órbita del Departamento de Justicia norteamericano, investigan la posibilidad de lavado y otros delitos financieros en operaciones superiores a los 300 millones de dólares. Según pudo averiguar LA NACION , tanto los fiscales como agentes del FBI han estado últimamente recabando testimonios de sponsors de la entidad que preside Claudio Tapia y mantienen desde hace varios días conversaciones con la abogada de Juan Pablo Beacon , exdirector ejecutivo de la entidad y uno de los hombres que más información tiene al respecto por su relación con Pablo Toviggino , tesorero. La pretensión de los funcionarios norteamericanos es que tanto Beacon como Petersen puedan declarar como testigos ante un gran jurado. Petersen, dueño de la agencia creativa Studio 23 y también ligado en los últimos años a Toviggino, renunció a la AFA el 31 del mes pasado , 24 horas después de la fecha en que el Tribunal Federal del Distrito Sur de Florida, Miami, lo habría citado como testigo para declarar. Consultado por LA NACION , Petersen no contestó a los mensajes, pero tanto en su entorno como en la AFA negaron que hubiera declara",
+      "link": "https://www.lanacion.com.ar/politica/la-justicia-de-eeuu-descargo-el-telefono-de-un-exdirectivo-de-la-afa-y-analiza-sus-movimientos-nid11082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:51:06 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/QGVEHZ4YPJE63NP6FEXNPMVN7Y.jpg?auth=1d46829859d6bed73d809eb967f19c4a67137955a12760b397c1509076b85590&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "c43c0077fa8caba81631",
+      "title": "Corea del Norte dispara su segundo misil balístico en seis días",
+      "summary": "Varias personas en una estación de tren de Corea del Sur miran una pantalla de televisión, que emite la noticia del lanzamiento de un misil norcoreano, el 12 de agosto de 2026.",
+      "link": "https://elpais.com/internacional/2026-08-12/corea-del-norte-dispara-su-segundo-misil-balistico-en-seis-dias.html",
+      "pubDate": "Wed, 12 Aug 2026 06:50:44 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/PWHAFBTFNBMQ7GNDC43JG7SHUY.jpg?auth=f773307b5c74f828522911bec4fce0f86802dfa18452127f0e40e547d94886df"
+    },
+    {
+      "id": "88e00a7fe5f902db5d1b",
+      "title": "Las primarias demócratas en Wisconsin muestran la división extrema del partido, con una estrecha ventaja centrista",
+      "summary": "Seguidores de Crowley, el candidato centrista de las primarias demócratas en Wisconsin, este martes en Milwaukee.",
+      "link": "https://elpais.com/us/2026-08-12/las-primarias-democratas-en-wisconsin-muestran-la-division-extrema-del-partido-con-una-estrecha-ventaja-centrista.html",
+      "pubDate": "Wed, 12 Aug 2026 06:49:11 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/E5L3MD7GZBNIFBMKWEWSSX6SPU.jpg?auth=1185c5479ea8699af58f90fffb244c6e39b8b33059339f119b562c4192300433"
+    },
+    {
+      "id": "5104a5d2c6833f930f7a",
+      "title": "Cristiano Ronaldo y Georgina Rodríguez se casan en secreto",
+      "summary": "La unión matrimonial se da tras casi una década de noviazgo y varios hijos en común.",
+      "link": "https://actualidad.rt.com/actualidad/621858-cristiano-ronaldo-georgina-rodriguez-casar-secreto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:44:17 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c1a84e9ff7111015e7c78.jpg"
+    },
+    {
+      "id": "1c81c997de4b0cfba74b",
+      "title": "Rod Stewart fue sometido a un procedimiento cardíaco y deberá alejarse de los escenarios por un tiempo",
+      "summary": "Rod Stewart , una de las voces más reconocibles de la música británica, atraviesa un momento complicado. El cantante, de 81 años, fue sometido a un procedimiento coronario que incluyó la colocación de un stent y sus médicos le recomendaron tomarse un tiempo prudencial antes de retomar su actividad sobre los escenarios. La información fue confirmada este martes por el representante del músico a la revista People , después de varios días en los que Stewart había encendido las alarmas entre sus fanáticos al cancelar y postergar presentaciones por motivos de salud no precisados. “ Los médicos están satisfechos con su recuperación y Rod está muy bien y ha vuelto a sus actividades diarias normales ”, señaló su representante. Sin embargo, por recomendación médica deberá tomarse las próximas cuatro semanas para “recuperarse y mejorar su estado físico” antes de volver a cantar en vivo. La preocupación por el estado de salud del músico comenzó el domingo 9 de agosto, cuando Stewart tuvo que suspender a último momento su presentación en Cincinnati debido a lo que inicialmente fue definido como un “ procedimiento médico menor ” que requería atención inmediata. En aquel momento, el entorno del cantante había señalado que se esperaba una recuperación rápida. La situación tomó otra dimensión dos días después, cuando se conoció que aquella intervención había sido un procedimiento coronario para colocarle un stent. La noticia permitió explicar por qué el músico no pudo continuar con normalidad con sus compromisos y por qué sus médicos decidieron indicarle un período de reposo más prolongado. Un stent coronario es un pequeño dispositivo que se coloca dentro de una arteria para ayudar a mantenerla abierta y favorecer el flujo sanguíneo. En el caso de Stewart, la intervención fue exitosa y, de acuerdo con la información difundida por su representante, no existen indicios de una complicación posterior. Su recuperación está siendo seguida por el equipo médico y, por el momento, la indica",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/rod-stewart-fue-sometido-a-un-procedimiento-cardiaco-y-debera-alejarse-de-los-escenarios-por-un-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:43:05 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/HIGNPRZGNZDUNCGAIOA6RCSPDI.jpg?auth=d30e4cd1f97a6fe3b4756a474ce84b4db97fb2be0e2d960722266f3e0861cfbf&smart=true&width=8640&height=5760"
+    },
+    {
+      "id": "756c71d451240e9e323e",
+      "title": "Fallece figura clave de la poesía y literatura contemporánea en México",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621867-fallece-figura-clave-poesia-literatura-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:42:08 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "8c8de72efcd76be1a110",
+      "title": "VIDEO EMOTIVO: Rescatistas entonan el himno de su ciudad tras sismo en Colombia",
+      "summary": "Rescatistas y comunidad en general cantaron el himno de la ciudad de Pereira en la Plaza de Bolívar. \"Salve al esfuerzo de mis heroicos y buenos hijos, que con amor me dieron nombre, me dieron fama, me hicieron grande, me dan honor\", se les escuchó entonar en medio de los escombros del sismo de magnitud 7,4 que azotó varias regiones del territorio colombiano.",
+      "link": "https://actualidad.rt.com/actualidad/621861-video-emotivo-rescatistas-entonan-himno-ciudad-sismo-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:40:10 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c08e0e9ff7110d27f7ac4.jpg"
+    },
+    {
+      "id": "7cbaf64f619d0304141e",
+      "title": "En fotos: nadie quiso perderse el estreno de Moria, la miniserie de Netflix basada en la vida de “La One”",
+      "summary": "",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/en-fotos-nadie-quiso-perderse-el-estreno-de-moria-la-miniserie-de-netflix-basada-en-la-vida-de-la-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:38:26 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/VMBJR24OVNHKPGONR6UQYMVYSM.jpg?auth=e27a610ad1d8296ad515629bce95e61b34cd82d096f737a7c91edb6dab62f57b&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "994f9010298d10532e74",
+      "title": "Terremoto en Colombia: ascienden a 240 los fallecidos y buscan a miles de sobrevivientes entre los escombros",
+      "summary": "PEREIRA, Colombia.– En una carrera contrarreloj, grupos de rescatistas buscan desde anoche sobrevivientes entre los escombros tras el potente terremoto de magnitud 7,4 que sacudió ayer a Colombia . En un nuevo parte oficial, la administración de Abelardo de la Espriella elevó a 240 el número de víctimas y reportó más de 1300 heridos y 2000 desaparecidos . Las autoridades locales también advirtieron sobre el derrumbe de un centenar de edificios, personas atrapadas entre los escombros y daños significativos, en lo que resumieron como el terremoto más fuerte “de la última década”. La mayor cantidad de víctimas fatales se registraron en los departamentos de Risaralda , en particular en la ciudad de Pereira , y en Valle del Cauca , especialmente en la ciudad de Cali . Frente a este escenario, el gobierno colombiano declaró una emergencia nacional en todo el territorio , lo que le permite, entre otras acciones, trasladar recursos para destinar a los territorios ‌más afectados. El sismo revive la tragedia del fuerte terremoto de 1999 que dejó casi 1200 muertos en la zona cafetera. El sismo El temblor se produjo alrededor de las 7.40 de la mañana y sorprendió a los habitantes de Bogotá al inicio de la jornada laboral y académica. En distintos sectores de la capital, residentes reportaron haber percibido con fuerza el movimiento, especialmente en edificios de varios pisos. Inicialmente, el Servicio Geológico Colombiano (SGC) alertó por una magnitud de 6,7 y una profundidad de 96 kilómetros. Sin embargo, el Servicio Geológico de Estados Unidos (USGS), afirmó que el sismo fue de 7,4, lo que luego fue confirmado por el propio el organismo colombiano. El epicentro fue localizado cerca del municipio de San José del Palmar , en el departamento de Chocó, aproximadamente a 20 kilómetros de esa población, en las coordenadas 5,04° de latitud y -76,34° de longitud. El movimiento fue registrado por 32 estaciones de la red sismológica nacional. Tareas de rescate en un escenario caótico “",
+      "link": "https://www.lanacion.com.ar/el-mundo/terremoto-en-colombia-ascienden-a-169-los-fallecidos-y-buscan-a-miles-de-sobrevivientes-entre-los-nid11082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:37:42 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/B34KOT6YZFHTFH7ASRLYWOHXQY.JPG?auth=deca9282b945976f7347ad20f11bb6a6d2370180f5815bc73593236e8e3f6bbd&smart=true&width=4464&height=2976"
+    },
+    {
+      "id": "377770e7a7dfd9b6db80",
+      "title": "El salame más largo del país volvió a cambiar de dueño y estableció un nuevo récord",
+      "summary": "La nueva marca obtenida por San Andrés de Giles alcanzó los 501,66 metros, fue certificada oficialmente y superó el registro nacional que ostentaba Tandil. La pieza se convirtió en la primera en superar la barrera de los 500 metros.",
+      "link": "https://www.clarin.com/sociedad/salame-largo-pais-volvio-cambiar-dueno-establecio-nuevo-record_0_3lv8vBoZ7j.html",
+      "pubDate": "Wed, 12 Aug 2026 06:31:05 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/12/e_vTrkwZV_1200x630__1.jpg"
+    },
+    {
+      "id": "c881c1c5c1113d237fb9",
+      "title": "Incautaron 86 kilos de marihuana en un micro que iba a trasladar al plantel de San Pablo",
+      "summary": "Un micro que debía recoger al plantel de San Pablo en Bolivia fue incautado por la policía con 86,5 kilos de marihuana . Sin embargo, la delegación nunca llegó a utilizarlo y pudo completar con normalidad sus traslados para el partido ante Bolívar por los octavos de final de la Copa Sudamericana utilizando otro micro. La empresa involucrada, Buses Cosmos, negó cualquier responsabilidad por el cargamento y sostuvo, mediante un comunicado, que “toda la responsabilidad recae en los conductores” . También aclaró que el micro incautado no había sido utilizado por el Tricolor paulista y aseguró que el caso fue esclarecido por la policía y que los responsables quedaron detenidos, según informó O Globo . Buses Cosmos proporcionó un segundo vehículo, que fue el que finalmente trasladó el lunes al plantel desde el aeropuerto hasta el hotel. El martes, el mismo ómnibus llevó a la delegación desde su alojamiento hasta el aeropuerto de Santa Cruz de la Sierra. Desde allí, el equipo tenía previsto volar hacia La Paz para enfrentar a Bolívar el martes a las 21.30, hora de Brasilia. La directiva había diseñado una logística especial para reducir los efectos de los 3650 metros de altitud de la capital boliviana: permanecer alojada en Santa Cruz y llegar a La Paz apenas unas horas antes del encuentro. El arribo estaba programado para las 18.20 y la delegación debía dirigirse directamente desde el aeropuerto hasta el estadio. Con esa decisión, San Pablo aceptó exponerse a una advertencia de la Conmebol por no respetar el plazo de llegada establecido en el reglamento. Finalmente, Bolívar y San Pablo empataron 1-1 en el estadio Hernando Siles por los octavos de final de la Copa Sudamericana 2026 . El conjunto brasileño, que había organizado su llegada a La Paz para pocas horas antes del encuentro, fue el primero en ponerse en ventaja. A los 23 minutos del primer tiempo, el defensor central ecuatoriano Robert Arboleda convirtió el gol de São Paulo y estableció el 1-0. Con esa diferencia ",
+      "link": "https://www.lanacion.com.ar/deportes/incautaron-86-kilos-de-marihuana-en-un-micro-que-iba-a-trasladar-al-plantel-de-san-pablo-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:30:41 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/Z6WMKS4HD5EUJFRTVOI2EYZZKU.jpg?auth=bb8071d68a08c98adeb61e94567a7184fea4e96c2d64c802c749fe7ac1b5de05&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "73bd00727c816186de37",
+      "title": "El Mediterráneo se convierte en un 'caldo': “Es brutal la acumulación de energía”",
+      "summary": "La ‘tropicalización’ del mar lleva a registros anómalos, con casi 3ºC por encima de la media, lo que eleva la temperatura de las costas y proporciona 'combustible' de tormentas extremas.",
+      "link": "https://www.clarin.com/internacional/mediterraneo-convierte-caldo-brutal-acumulacion-energia_0_w20No4KnFE.html",
+      "pubDate": "Wed, 12 Aug 2026 06:26:12 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2018/08/04/BJ8LkimB7_1200x630__1.jpg"
+    },
+    {
+      "id": "d9415bad9a2fe7c424b9",
+      "title": "Buque paga cuantiosa suma para eludir la fila en el Canal de Panamá",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621863-buque-pagar-cuantiosa-suma-eludir-fila-canal-panama?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:23:50 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "b92ba13679eb74b85b37",
+      "title": "VIDEO: Reportan ataque israelí con proyectiles de fósforo blanco contra el sur del Líbano",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621864-video-reportan-ataque-israeli-proyectiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:22:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "d06d315ad49c8f184be9",
+      "title": "Rusia bombardea depósitos de combustible utilizados por militares ucranianos en el puerto de Odesa",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621865-rusia-depositos-combustible-puerto-odesa?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:17:21 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "3be58379d946da8e585b",
+      "title": "Piloto ruso derriba dos cazas enemigos en un combate aéreo desigual",
+      "summary": "El joven aviador protagonizó una verdadera hazaña: durante una misión de guardia, detectó por radar una fuerza enemiga superior en el aire y se enfrentó a ella.",
+      "link": "https://actualidad.rt.com/actualidad/621856-piloto-derribar-cazas-enemigo-combate?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 06:08:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c04ae59bf5b50b7307e3e.jpg"
+    },
+    {
+      "id": "8f70ee7bbdd89be93190",
+      "title": "Trump confirmó que salió de Turquía en un vuelo secreto a raíz de una amenaza de asesinato de Irán",
+      "summary": "WASHINGTON.- El presidente de Estados Unidos, Donald Trump , confirmó este martes que debió salir de Turquía en un vuelo secreto debido a una amenaza contra su vida . El operativo se realizó a principios de julio después de la cumbre de la OTAN en Ankara, e incluyó un cambio de aeronave que fue ocultado a los periodistas y a parte del personal de la Casa Blanca. “Querían que tomara un vuelo diferente, un avión diferente, con la misma seguridad, pero querían que lo hiciera, así que lo hago. Hago lo que ellos dicen ”, explicó Trump ante los periodistas en alusión a los consejos de los servicios de inteligencia estadounidense. El mandatario dijo que suponía que existía una amenaza, aunque admitió que no hizo demasiadas preguntas al respecto. La declaración se produjo luego de que The Washington Post revelara este lunes que había habido una advertencia sobre un posible atentado iraní y que eso había motivado la particular operación para trasladar al presidente. Trump había subido al Air Force One a la vista de las cámaras y los fotógrafos. Sin embargo, en lugar de partir en esa aeronave, salió a escondidas a través de uno de los contenedores de carga utilizados por los servicios de catering y fue trasladado hasta un avión C-32A de la Fuerza Aérea estadounidense , en el que viajó rumbo al Reino Unido. My favorite part: This Turkish catering truck nonchalantly moving from Air Force One to the other plane https://t.co/vQSoncQw9f pic.twitter.com/Ob5r1hxSwL John Hudson (@John_Hudson) August 11, 2026 “Creo que, en realidad, el avión en el que viajé estaba en mayor riesgo” , sostuvo el jefe de Estado. Y añadió: “Porque ese sería el avión que, creo, ellos elegirían probablemente como objetivo”. Mientras tanto, el Air Force One despegó de Turquía con una docena de periodistas y parte del personal de la Casa Blanca, que desconocían que Trump no formaba parte de ese vuelo. Durante el trayecto, el Servicio Secreto ordenó mantener cerradas las persianas de las ventanillas, una instr",
+      "link": "https://www.lanacion.com.ar/el-mundo/trump-confirmo-que-salio-de-turquia-en-un-vuelo-secreto-a-raiz-de-una-amenaza-de-asesinato-de-iran-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:08:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/DCUGV2KABBCBFI4YAGBU75SLQE.JPG?auth=ff8a6dbd633f1f2a2db7b2f6b20260bcd42732fc9a26342a5aff2f3314a60e12&smart=true&width=5642&height=3742"
+    },
+    {
+      "id": "518b7b90b0bc50a0ed56",
+      "title": "Razer Naga V3 Pro, un ratón con 23 botones",
+      "summary": "El Razer Naga V3 Pro es la nueva versión de una serie de ratones singular por su capacidad para adaptarse a distintos géneros y estilos de juego . Si su versión inicial definió lo que podía hacer un ratón MMO con su cuadrícula de 12 botones para el pulgar, el legado continua con más opciones de personalización, además de mejoras en precisión, rendimiento y conectividad. El Naga V3 Pro se basa en una idea: un ratón que se adapte al juego que quieras jugar. Para ello cuenta con una característica distintiva, unas placas laterales magnéticas intercambiables que permiten alternar entre una configuración de 12 botones para MMO, una de 6 botones para MOBA y battle royale, y una de 2 botones ideal para FPS y el resto de géneros. Cada placa se coloca en segundos, sin necesidad de herramientas, rápida y cómodamente. Razer Naga V3 Pro, flexibilidad, personalización y rendimiento Para un mayor control, el Razer Naga V3 Pro incorpora dos botones laterales de acceso rápido junto al clic izquierdo para ajustar el DPI sobre la marcha, incluyendo un botón para el dedo anular con bloqueo, recuperado a petición popular, que puede activarse para un mayor control o desactivar cuando no lo necesiten. Los botones laterales ahora son teclas moldeadas de doble inyección, lo que garantiza la durabilidad de las leyendas de los botones a largo plazo. Hasta cinco perfiles de memoria integrados almacenan diseños personalizados, macros y configuraciones de DPI, para que los jugadores puedan llevar su configuración entre plataformas y cambiar sin problemas entre configuraciones en diferentes juegos y estilos. El ratón monta la rueda de inclinación Razer HyperScroll Gen-2 que ofrece a los jugadores más control sobre cómo se desplazan. El modo táctil estándar ofrece un desplazamiento familiar de 24 pasos con muescas. El modo táctil de precisión añade un control de desplazamiento más fino de 48 pasos para alternar entre habilidades, armas, menús o inventario, mientras que el modo de giro libre hace ",
+      "link": "https://www.muycomputer.com/2026/08/12/razer-naga-v3-pro-un-raton-con-23-botones/",
+      "pubDate": "Wed, 12 Aug 2026 06:07:13 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Razer_Naga_V3_Pro_2.jpg"
+    },
+    {
+      "id": "f4ad6acc866da0bb893d",
+      "title": "Antonio Velázquez, actor de 'La Promesa', sobre su primera hija: “Esperamos que nos dé muchas alegrías. Tiene un nombre muy granadino”",
+      "summary": "La primogénita del intérprete granadino llegó al mundo el lunes 20 de enero a primera hora de la mañana.",
+      "link": "https://www.clarin.com/internacional/antonio-velazquez-actor-promesa-primera-hija-esperamos-muchas-alegrias-nombre-granadino_0_vc9b1wor77.html",
+      "pubDate": "Wed, 12 Aug 2026 06:06:12 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/11/gjASN1jp4_1200x630__1.jpg"
+    },
+    {
+      "id": "2ef0018bdbea0222bef7",
+      "title": "Nicholas Hoult podría unirse a la serie de Harry Potter",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La nueva adaptación televisiva de Harry Potter tiene por delante una tarea bastante más complicada que limitarse a volver a contar los libros de J.K. Rowling. HBO necesita convencer a toda una generación que creció con las películas estrenadas entre 2001 y 2011 de que merece la pena regresar a Hogwarts con caras diferentes, nuevas interpretaciones y, presumiblemente, mucho más espacio para desarrollar aquello que las películas tuvieron que dejar fuera. Nicholas Hoult podría convertirse ahora en una pieza importante de ese intento por construir una identidad propia. Nicholas Hoult negocia un papel clave en Harry Potter El conocido insider Daniel Richtman asegura en su Patreon que Nicholas Hoult mantiene conversaciones para incorporarse a la serie de Harry Potter en un papel relevante. Por ahora no se ha revelado qué personaje tendría HBO en mente para el actor, así que conviene tratar cualquier posible identidad como especulación hasta que llegue una confirmación oficial. Eso no ha impedido que empiecen las quinielas. Entre los nombres que más se repiten aparecen Sirius Black, Remus Lupin y el profesor Quirrell, aunque una posibilidad ha ganado rápidamente fuerza entre los seguidores de la saga: Lord Voldemort. Voldemort de las películas de Harry Potter La elección tendría bastante sentido. Hoult atraviesa uno de los momentos más interesantes de su carrera y viene de meterse en la piel de Lex Luthor dentro del nuevo DCU, demostrando que puede construir un villano mucho más incómodo cuando evita convertirlo simplemente en un tipo que grita amenazas delante de una cámara. Por qué Nicholas Hoult podría ser un Voldemort perfecto Ralph Fiennes dejó el listón absurdamente alto como Voldemort. Su interpretación terminó definiendo visualmente al personaje para millones de espectadores, hasta el punto de que cualquier sustituto tendrá que luchar inevitablemente contra esa comparación. Nicholas Hoult tiene suficient",
+      "link": "https://www.cinemascomics.com/nicholas-hoult-podria-unirse-harry-potter/",
+      "pubDate": "Wed, 12 Aug 2026 06:02:11 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Nicholas-Hoult.jpg"
+    },
+    {
+      "id": "9c1b43f88ec600b8c5eb",
+      "title": "Sebastián, taxista en Mallorca: \"Llego a facturar 7.000 euros por mes pero de abril a octubre no me tomo ni un día libre y trabajo hasta 14 horas\"",
+      "summary": "La experiencia de un conductor en las exclusivas Islas Baleares , España . La oportunidad que brinda la alta temporada turística para aumentar la facturación.",
+      "link": "https://www.clarin.com/internacional/sebastian-taxista-mallorca-llego-facturar-7000-euros-mes-abril-octubre-tomo-dia-libre-trabajo-14-horas_0_mtNTmbu7B1.html",
+      "pubDate": "Wed, 12 Aug 2026 06:00:12 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/11/eI67amnuI_1200x630__1.jpg"
+    },
+    {
+      "id": "d620938ae587f15102a8",
+      "title": "Novatos Bryce Eldridge y Carson Whisenhunt guían a Gigantes a victoria ante Astros, 4-1",
+      "summary": "Los Gigantes vencieron 4-1 a los Astros con un jonrón de Eldridge y sólida actuación de Whisenhunt, quien superó dos bases llenas sin daño. Altuve salió por lesión en el pie tras recibir un pelotazo. Houston anotó primero, pero San Francisco remontó con hits clave de Gilbert y Cavanaugh.",
+      "link": "https://www.clarin.com/estados-unidos/novatos-bryce-eldridge-y-carson-whisenhunt-guian-a-gigantes-a-victoria-ante-astros-4-1_0_nrz5WsNGkU.html",
+      "pubDate": "Wed, 12 Aug 2026 06:00:08 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
+    },
+    {
+      "id": "c93dcfbdbafcd5d9b056",
+      "title": "Joseph Pilates, creador del método de entrenamiento: “Sería un grave error pensar que sólo con hacer ejercicio es suficiente”",
+      "summary": "Un móvil de LN+ fue hasta el centro de entrenamiento Toulouse, ubicado en el barrio porteño de Palermo, para dialogar con la instructora de pilates Melani Giommetti , quien reveló qué son las cadenas miofasciales : la serie de ejercicios que revolucionaron esta práctica deportiva que no para de sumar adeptos . Joseph Pilates , el creador del método de entrenamiento, solía recordar: “Sería un grave error pensar que sólo hacer ejercicio es suficiente para lograr el completo bienestar físico” . E insistía: “La persona que cuide su alimentación y hábitos de sueño y que se ejercite correctamente estará tomando la mejor medicina preventiva” . Pilates en LN+ “Acá en nuestro instituto tenemos nuestra propia investigación y promovemos la práctica del pilates a través de las cadenas miofasciales ”, manifestó Giommetti. “Esto consiste en ver el cuerpo de forma integral, y no como grupos musculares aislados ”. Sobre la práctica de la disciplina, la instructora explicó: “La cama, que se llama reformer , es una herramienta clave . Porque no solo nos asiste, sino que también nos potencia para que no sea solo un trabajo pasivo”. Dos mitos Como suele darse en diversas disciplinas deportivas, la instructora despejó dos mitos relativos a la práctica de pilates. “ No es verdadero eso de que, al trabajar en una cama, no se trabaje tanto . En el pilates se trabaja mucho utilizando pesas y nuestro propio peso\", sostuvo Giommetti y agregó: “Otro mito es que sea una práctica solo para mujeres”. En palabras de la especialista, “ cada vez más hombres vienen y practican , porque pilates potencia muchas de otras disciplinas particulares que ellos mismos realizan”. Cómodo y barato Consultada sobre la vestimenta y el costo de hacer pilates, Giommetti detalló que “lo mejor es siempre practicar con ropa cómoda, preferentemente pantalón corto y descalzos ”. Sobre los valores, apuntó: “Practicar pilates no es costoso: las cuatro clases hoy rondan los $80.000, y vale la pena”. Quién fue Joseph Pilates",
+      "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-seria-un-grave-error-pensar-que-solo-con-hacer-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/MPTP42CKOBCQHFTHNWRNENFVTY.png?auth=7f5a0a1a616958df412af168bac0113a234d47a5d4ab30fb69aaa6c42f5f8a6b&smart=true&width=1200&height=800",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "efa85a01316255c257c0",
+      "title": "La joya arquitectónica que pasa desapercibida en Almagro y cuenta la historia de una comunidad fundante de la Argentina",
+      "summary": "Un hospital de Buenos Aires recibe ambulancias todos los días. Por sus pasillos se cruzan médicos, pacientes, camillas y familias. En sus salas se discuten casos en ateneos. Todo eso sucede en un edificio construido hace 125 años. Quienes anden sin apuro por la ajetreada calle Gascón, en el barrio de Almagro, si levantan la vista podrán apreciar una peculiar escultura en lo alto, como coronando la fachada de un edificio de principios de siglo. Detrás de esa entrada, actualmente en desuso, se conserva una de las historias más sorprendentes de la arquitectura, el arte y la inmigración en Buenos Aires. Un edificio pensado para sanar Es el edificio histórico del Hospital Italiano de Buenos Aires. Proyectado por Juan Antonio Buschiazzo e inaugurado en 1901, conserva su fachada original, jardines, esculturas y un conjunto arquitectónico que el gobierno de la Ciudad de Buenos Aires catalogó como patrimonio histórico. Desde hace más de un siglo, ese mismo edificio acompaña la evolución de la medicina: sigue recibiendo pacientes todos los días mientras enfrenta el desafío permanente de preservar su valor patrimonial y adaptarse a las necesidades de un hospital del siglo XXI. Ese equilibrio entre preservar y transformar acompaña a la institución desde su origen. A fines del siglo XIX, el proyecto del nuevo hospital italiano se inspiraba en los principios de la arquitectura higienista, un modelo que buscaba mejorar la atención médica a través del propio diseño edilicio. El plano que Buschiazzo firmó en primera persona El edificio se ordenaba en pabellones separados, cada uno con su propia orientación al sol y su ventilación. Un pasillo central dividía el conjunto en dos alas, una para hombres y otra para mujeres . En cada cabecera, lejos de las salas de internación, quedaban la enfermería y los sanitarios. Entre los pabellones había jardines proyectados para que los pacientes puedan tomar sol. Ese diseño está bien documentado, según cuenta a LA NACION el arquitecto José Luis C",
+      "link": "https://www.lanacion.com.ar/lifestyle/la-joya-arquitectonica-que-pasa-desapercibida-en-almagro-y-cuenta-la-historia-de-una-comunidad-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/RCAOCN362RB5ZDRBWTPNYOPMXE.jpg?auth=0068564a13612b109b68b4d3e98bd864a023af7d6c281850b72b721d5f14234e&smart=true&width=9504&height=6336"
+    },
+    {
+      "id": "939d2d49730777b802af",
+      "title": "Sin la presencia de sus padres. Amalia, la hija de la reina Máxima, deslumbró en su cita más personal",
+      "summary": "La ceremonia inaugural de los Campeonatos del Mundo de Hípica 2026, celebrada el lunes 11 en Aachen (Aquisgrán), Alemania, bajo el lema “Welcome Home”, fue una jornada marcada por la tradición y un despliegue ecuestre sin precedentes: participaron 250 caballos. Pero, además, fue una auténtica cumbre royal que reunió a tres casas reales vinculadas históricamente con los caballos. Como un modo de seguir afianzando su preparación para convertirse un día en reina, la princesa Amalia de los Países Bajos interrumpió sus vacaciones de verano y dijo presente en solitario en el Sportpark Soers, donde encabezó la representación de la realeza europea y coincidió con la infanta Elena , con Zara Tindall , la princesa Benedicta de Dinamarca y la reina Mary de Dinamarca , cuya presencia no estaba anunciada en el programa oficial. La hija mayor de Guillermo Alejandro y Máxima participó en uno de los momentos más esperados: el desfile de carruajes históricos de las caballerizas reales de los Países Bajos, Dinamarca y Reino Unido, piezas emblemáticas que no suelen salir de sus palacios y representan siglos de tradición y de historia. En su caso, lo hizo a bordo de una carroza de 1898 que en su momento usaba su tatarabuela, la reina Guillermina. Esta no era una cita protocolar más para Amalia: se sabe que se enamoró de la hípica a los 4 años y sólo hizo un paréntesis el año pasado, cuando se cayó mientras montaba a Mojito, su caballo favorito, y tuvieron que operarla del codo. “Es increíblemente genial estar acá. Son tan lindos estos caballos... Realmente me enamoro”, le dijo la princesa al medio local Vorsten.",
+      "link": "https://www.lanacion.com.ar/revista-hola/sin-la-presencia-de-sus-padres-amalia-la-hija-de-la-reina-maxima-deslumbro-en-su-cita-mas-personal-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/YLVPCN3YHBAYVCDTCZBIQFYUEE.jpg?auth=a092c3494a00b2c2f68dc57d6996662d98a9af3b45cf3a61087b97e491fe56f3&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f19ca1a99a5ca720f688",
+      "title": "Todas las fotos y los invitados al cumpleaños número 42 de Brenda Gandini con sushi y karaoke",
+      "summary": "Brenda Gandini tuvo un cumpleaños inolvidable. La actriz reunió a su círculo más cercano para celebrar sus 42 años en Kona Corner, el restaurante de cocina japonesa ubicado en el barrio de Belgrano, famoso por su propuesta gastronómica y su espacio de karaoke. Con una sonrisa imborrable y visiblemente emocionada por las muestras de cariño, Brenda disfrutó de una velada distendida acompañada de su pareja, Gonzalo Heredia , y compañeros de trabajo con quienes construyó un fuerte vínculo a lo largo de su carrera. Entre ellos, Sabrina Rojas –se hicieron muy amigas tras protagonizar la obra Desnudos–, quien atraviesa una nueva etapa personal tras su reciente separación de José Chatruc . La lista de invitados también incluyó a Celeste Cid , Violeta Urtizberea y Cande Molfese , que algunas horas después del festejo anunció que está esperando su primer hijo. El gran momento llegó cuando el karaoke se convirtió en el gran protagonista. Micrófono en mano, entre risas y aplausos, Pedro Alfonso y Benjamín Rojas se divirtieron a lo grande. También hubo una deliciosa torta con dulce de leche y merengue, velitas y bengalas y mucho baile para cerrar una noche única organizada por la agencia WeCan.",
+      "link": "https://www.lanacion.com.ar/revista-hola/todas-las-fotos-y-los-invitados-al-cumpleanos-numero-42-de-brenda-gandini-con-sushi-y-karaoke-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/M2RJCUKFWZD7REXF36YVYI63IY.jpg?auth=13e02aa20c2294d09e08174fb537ea7373611fb40785b9ce4448019290ca0889&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "996ba4d64630861762c9",
+      "title": "Creó un éxito argentino en una isla en Croacia y dice que es un lugar ideal para tener hijos: “Diferencia abismal”",
+      "summary": "Celia observa a Celia, su hija de cinco años, y siente que ella es el reflejo de lo que fue a buscar a Hvar, una isla croata en el mar Adriático, conocida por sus paisajes idílicos que atraen a los turistas en verano. Emma crece rodeada por la naturaleza, un ambiente seguro y una libertad muy parecida a la que Celia recuerda haber vivido en Azul, en su rincón de la Argentina. Su hija, por otro lado, habla español, italiano y croata sin pensarlo, ella simplemente cambia de un idioma a otro según con quién esté hablando. “Cada vez que la veo, siento que aquella pregunta que nos hicimos hace años: ¿dónde queremos criar a nuestros hijos? encontró su respuesta”, asegura Celia, cuya historia comenzó a tejerse con fuerza y transformación en el momento en que se mudó de Azul a Buenos Aires, pero más aún hace diez años, en 2016, cuando ganó una beca en la India. La angustia de ver a niños en los balcones: “No es que esté mal, pero no fue mi realidad de chica” Allá a lo lejos, en Buenos Aires, las aguas nunca parecían calmarse, la vorágine formaba parte de su realidad, aunque Celia lo disfrutaba. Sus días transcurrían a un ritmo desenfrenado, entre los kilómetros diarios tantas veces recorridos, un trabajo demandante, la vida social incansable y un deseo permanente de aprender. El estrés ganaba varias veces la partida, él emergía no solo por los avatares de la cotidianidad, sino por esa necesidad constante de seguir las noticias políticas y económicas para palpar los próximos movimientos de una Argentina que no le permitía pensar en una tregua. Pero, a veces, en la cápsula de su auto o cuando la noche la invitaba al descanso, Celia recordaba su origen, tan distante a su presente citadino, y los interrogantes llegaban a ella. Su lugar de nacimiento y crianza – Azul- en nada se parecía a los veinte años que llevaba en la ciudad de Buenos Aires. En Azul, su infancia había transcurrido en las calles, en el verde que rodeaba su comunidad, con un andar despreocupado, seguro, calmo.",
+      "link": "https://www.lanacion.com.ar/lifestyle/creo-un-exito-argentino-en-una-isla-en-croacia-y-dice-que-es-un-lugar-ideal-para-tener-hijos-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/XWK47GCLMFD2PFUPE6BZE54L64.jpg?auth=0b9f0a61a67a1341774b8d53f9329eb1078462957ce30faebc4483b41d0fa997&smart=true&width=1360&height=905"
+    },
+    {
+      "id": "524c7186cf233d13c4c8",
+      "title": "Ucrania 'archiva' un dato clave en plena crisis de su defensa antiaérea",
+      "summary": "El cambio llega mientras Kiev enfrenta una creciente escasez de interceptores y reclama más ayuda militar a sus aliados.",
+      "link": "https://actualidad.rt.com/actualidad/621853-ucrania-deja-informar-misiles-rusos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 05:52:49 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7bf1c059bf5b70792b2690.png"
+    },
+    {
+      "id": "8c72589cc239f191b0c3",
+      "title": "Hay alerta naranja y amarilla por frío extremo, vientos y nevadas para este miércoles 12 de agosto: las provincias afectadas",
+      "summary": "En el marco de una semana en la que distintas zonas del país registraron un marcado descenso en las temperaturas, el Servicio Meteorológico Nacional (SMN) advirtió que este miércoles 12 de agosto continuarán las condiciones adversas y emitió una serie de alertas naranjas y amarillas por frío extremo, vientos fuertes y nevadas para diversos sectores del territorio nacional. Según el parte publicado por el organismo dependiente del Ministerio de Defensa, las zonas más afectadas por las nevadas -donde rige el aviso de nivel naranja - son los puntos cordilleranos de San Juan, La Rioja y Catamarca , donde se esperan fenómenos meteorológicos “peligrosos” para la sociedad, la vida, los bienes y el medio ambiente. Estas áreas pueden ser afectadas por nevadas persistentes de variada intensidad, por momentos fuertes, y Se prevén valores de nieve acumulada entre 60 y 120 centímetros en todo el periodo bajo alerta, que pueden ser superados de forma puntual. Además, la situación estará acompañada por vientos intensos con reducción de visibilidad y posible viento blanco. Frente a este panorama, el SMN recomienda seguir las instrucciones de las autoridades locales y salir únicamente si es imprescindible. En caso de circular, se aconseja hacerlo con vehículos preparados para el hielo y la nieve y llevar una pala. También se deben revisar los techos, las canaletas y los desagües; ventilar los ambientes para evitar la acumulación de monóxido de carbono; y contar con alimentos no perecederos, agua potable, el celular cargado y un kit de emergencia. A su vez, en las zonas cordilleranas del sur de San Juan y del norte de Mendoza, y en Río Negro y Chubut, hay una alerta de carácter amarillo por nevadas . En este caso se trata de fenómenos meteorológicos con “capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas”. El SMN aseguró que esas zonas pueden registrar nevadas persistentes de variada intensidad y valores de nieve acumulada de entre 10 y 30 centímetros. En",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-frio-extremo-vientos-y-nevadas-para-este-miercoles-12-de-agosto-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 05:52:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/7JGZJFZWL5CMPM5W5EKKGSJXIE.png?auth=ff590ce8009f4a4936f4b64b2ab4733a5617757d23f5185661f158dbfd75318f&smart=true&width=1063&height=668"
     },
     {
       "id": "4720c9eee39556594139",
@@ -71,14 +523,14 @@
       "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
-      "id": "54713cb859aaa3a3006b",
-      "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
-      "summary": "El Senado retomó esta tarde el debate del proyecto de ley General de Sociedad , iniciativa impulsada por el Poder Ejecutivo que busca modernizar el marco normativa, que rige desde 1972, reconociendo la existencia de sociedades gobernadas en su totalidad por tecnología y el uso de la inteligencia artificial (IA) para la ejecución de funciones operativas. Esta fue la segunda reunión sobre el tema que celebra la Comisión de Legislación General, que preside la libertaria Nadia Márquez (Neuquén), tras un largo intervalo provocado por la crisis generada por el caso de Manuel Adorni y el trabajoso debate del proyecto de inviolabilidad de la propiedad privada. Leé la nota completa acá El Gobierno reunió a su mesa política durante casi tres horas. El encuentro fue el primero después del revés en el Congreso con la ley de inviolabilidad de la propiedad privada , que terminó saliendo, pero con dos capítulos cercenados. Esa situación motivó revisiones internas y cuestionamientos a las decisiones del ministro de Desregulación, Federico Sturzenegger , quien hoy fue sumado -sin foto oficial y por primera vez- a los cónclaves de la Casa Rosada. La presencia de Sturzenegger se caía de madura desde el mismo momento en que el Gobierno buscaba digerir los cambios forzados por la oposición en el Senado, donde cayeron la extranjerización de tierras y la reforma de la ley de manejo del fuego . La mesa política será, de acuerdo a las fuentes consultadas por LA NACION, la que dictamine la viabilidad de las iniciativas gubernamentales. Leé la nota completa acá El gobierno de La Rioja volvió a reflotar los “ Chachos” , los Bonos de Cancelación de Deuda (Bocade) con los que buscará reactivar la economía y el consumo local ante una situación de “crisis profunda”. La administración del peronista Ricardo Quintela justificó la medida a través de un comunicado en el que culpó directamente al gobierno nacional por el “ no envío de los fondos ” coparticipables, además de “ la devaluación, el ajuste y",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 05:15:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333"
+      "id": "c529add4e4f90b78551e",
+      "title": "Antonio Aceituno, experto en ahorro de luz: “Desplazar el consumo de electricidad de las 19 h a las 22 h puede reducir mucho la factura de la luz”",
+      "summary": "El experto analiza la evolución del mercado eléctrico y señala cuáles son las franjas horarias más económicas para concentrar el consumo.",
+      "link": "https://www.clarin.com/internacional/antonio-aceituno-experto-ahorro-luz-desplazar-consumo-electricidad-19-h-22-h-puede-reducir-factura-luz_0_klmR1iDqQw.html",
+      "pubDate": "Wed, 12 Aug 2026 05:28:12 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/11/XPii6KUE1_1200x630__1.jpg"
     },
     {
       "id": "395ae1f7734881396fb6",
@@ -121,36 +573,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/YLMWVNL2VVFLHNKA5S46DKQG6Y.png?auth=cd8fa2cb69955c1c937000efc7ec9e9f05f4b152f5b7ca21441a0468a9139171&smart=true&width=1200&height=800"
     },
     {
-      "id": "bf9b24cecaa85133b3d1",
-      "title": "2 muertos, incluido un niño, y varios heridos tras ataque masivo de drones de Kiev al sur de Rusia",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621857-dos-muertos-nino-heridos-ataque-masivo-drones-kiev-sur-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 04:57:27 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "3e3d9e16135d287d0a3d",
-      "title": "¿Trump está comenzando a tomar Groenlandia?",
-      "summary": "Una compañía petrolera vinculada a varios aliados del mandatario estadounidense ha enviado equipos de perforación a la isla sin contar con la autorización de las autoridades locales.",
-      "link": "https://actualidad.rt.com/actualidad/621684-esta-trump-comenzando-tomar-groenlandia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 04:46:21 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7b21c1e9ff714f046c6ce8.jpg"
-    },
-    {
-      "id": "98d138839821dd7ef85f",
-      "title": "Trump afirma que Estados Unidos \"es propietario\" del estrecho de Ormuz",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621854-trump-afirma-estados-unidos-propietario?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 04:43:13 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "ff9a044ab4c49e6e87b5",
       "title": "Lionel Messi dejó la Argentina y regresa a Miami con su familia tras la despedida a su padre",
       "summary": "Lionel Messi partió este martes por la noche desde la Argentina rumbo a Estados Unidos tras la despedida a su padre , Jorge Messi , y llegará este miércoles para reincorporarse a Inter Miami, que jugará ante León por la Leagues Cup. El futbolista había llegado al país este sábado, junto con su familia, para acudir al velatorio íntimo a su papá en el cementerio El Prado, en Rosario. El vuelo del capitán de la selección argentina salió a las 22.53 desde el Aeropuerto de Rosario . Según el sitio FlightRadar24 , el futbolista y su familia viajan en un Bombardier Global 6000 y se estima que llegue alrededor de las 6 de este miércoles. Tras conocerse la muerte de Jorge Messi, que falleció a los 68 años en un sanatorio de Rosario en el que estaba internado, el capitán de la selección nacional decidió volver al país para darle el último adiós en una ceremonia íntima junto a su familia. Aterrizó en el aeropuerto de su ciudad natal durante la noche del sábado y el domingo participó de la despedida. Cerca de las 12, el futbolista abandonó el cementerio. Tal como informó LA NACION , Jorge Messi murió este sábado a las 2 de la madrugada tras una prolongada enfermedad . En junio se hizo público que atravesaba una “situación de salud” y que se encontraba “bajo seguimiento médico”. Desde el Sanatorio Centro de Rosario emitieron un comunicado en el que notificaron la muerte y marcaron que, por respeto a la privacidad de la familia, no darían más información sobre “las circunstancias médicas del fallecimiento”. El 18 de junio pasado, luego del partido de la Argentina ante Argelia por el Mundial 2026, surgieron fuertes versiones sobre una complicación en el estado del padre del jugador y, horas más tarde, la familia Messi emitió un comunicado para desmentir su fallecimiento y confirmar que recibía tratamiento por un cuadro médico. “La familia Messi informa que Jorge atraviesa una situación de salud. En estos momentos se encuentra bajo seguimiento médico, recuperándose y evolucionando ",
@@ -181,26 +603,6 @@
       "image": "https://www.clarin.com/img/2026/08/10/hy-df0y5u_1200x630__1.jpg"
     },
     {
-      "id": "bf833694e68578088b53",
-      "title": "Una 'influencer' mantuvo relaciones con hasta 75 presos y ahora recibe su propia condena",
-      "summary": "Los fiscales afirman que varios de los reclusos con los que la mujer se involucró cumplen sentencia por delitos violentos como robo agravado y asesinato.",
-      "link": "https://actualidad.rt.com/actualidad/621718-influencer-relaciono-75-presos-ahora-recibe-condena?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 04:13:09 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7b1623e9ff714f046c6cdd.jpg"
-    },
-    {
-      "id": "6b83cf11cebd98f52007",
-      "title": "Escándalo en General Rodríguez: un funcionario denunció a un concejal de su propio partido, Fuerza Patria, por vínculos con narcos",
-      "summary": "Se trata de Javier Tarragona, edil kirchnerista del partido del oeste del conurbano. La denuncia fue radicada por el secretario de Seguridad, Justicia y Política Criminal del distrito.",
-      "link": "https://www.clarin.com/politica/escandalo-general-rodriguez-funcionario-denuncio-concejal-propio-partido-fuerza-patria-vinculos-narcos_0_DXnTbFDTmn.html",
-      "pubDate": "Wed, 12 Aug 2026 04:07:49 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/11/a01Vs8mT1_1200x630__1.jpg"
-    },
-    {
       "id": "1f4d8fa4c8b2c6f89d5d",
       "title": "Soda Stereo celebró el cumpleaños de Gustavo Cerati con una función especial de ECOS",
       "summary": "El Movistar Arena volvió a convertirse este martes por la noche en territorio Soda Stereo . Pero esta vez la cita tenía un significado especial: Gustavo Cerati habría cumplido 67 años este 11 de agosto. Miles de fanáticos llegaron al estadio porteño para reencontrarse con las canciones de la banda en una de las últimas funciones de ECOS en la ciudad de Buenos Aires. A sala llena y en medio de un clima atravesado por la emoción y el recuerdo del músico, Charly Alberti y Zeta Bosio dieron comienzo al espectáculo con “Ecos”, la canción que abre el recorrido y que le da nombre a la propuesta. Después llegaron “Juego de seducción”, “Nada personal” y “Hombre al agua”, mientras las pantallas y la puesta tecnológica volvieron a reconstruir sobre el escenario el universo de Soda Stereo. Desde antes del comienzo podía percibirse que no se trataba de una función más. Remeras de distintas épocas de la banda, carteles y generaciones enteras de seguidores poblaron las tribunas en una noche en la que la expectativa tenía una pregunta inevitable: de qué manera el espectáculo recordaría a Cerati precisamente el día de su cumpleaños. La emoción volvió a ganar terreno antes de “(En) el séptimo día”, cuando Zeta Bosio tomó la palabra para recordar a su compañero. “ Esta es una noche muy especial, que nos reúne cantando sus canciones, que es la mejor forma de celebrarlo. Todos tenemos algo que agradecerle hoy... Vamos con Séptimo día ”, expresó el bajista y la respuesta no se hizo esperar: una multitud lo ovacionó desde las tribunas antes de que comenzaran a sonar los primeros acordes de la canción. Un cumpleaños cantado por miles El homenaje no estuvo únicamente en las palabras de sus compañeros. En medio del show, un pequeño desperfecto técnico provocó una pausa inesperada. El silencio duró poco: casi inmediatamente, desde el público comenzó a escucharse el “Feliz cumpleaños”. El canto fue creciendo hasta extenderse por el Movistar Arena y miles de personas terminaron cantándole a Cer",
@@ -211,16 +613,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/VG2227ULIFG3PCD6OCPTHOEKHM.JPG?auth=f84ba0c59878fa9b66ecb5cc72776ad574d882f7c9c06a1815d4b22ffcc10d52&smart=true&width=1639&height=1093"
     },
     {
-      "id": "59a1dd24ede1bcf092b7",
-      "title": "País europeo pone en la mira la compra de aviones de combate latinoamericanos",
-      "summary": "El interés por un turbohélice ligero de Embraer se tradujo en una serie de reuniones.",
-      "link": "https://actualidad.rt.com/actualidad/621732-letonia-comprar-aviones-embraer-fuerza?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 04:06:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7b3965e9ff714f046c6d06.jpg"
-    },
-    {
       "id": "2474e9963b1303bfd944",
       "title": "Lanús volvió a ser un karma para Jorge Sampaoli: Valois marcó dos goles ante Talleres y se los dedicó a Colombia",
       "summary": "En el estadio Mario Alberto Kempes, Lanús cambió toda la dinámica. Porque parecía que el dominio de pelota de Talleres, sin la necesaria profundidad para ser peligroso, sumado a un conjunto granate que no se afirmaba, llevaría el desarrollo a la igualdad sin goles. Sin embargo, en una ráfaga de trece minutos, la visita terminó goleando 3-0 . Rompiendo así la racha de tres derrotas consecutivas y, como hace ocho meses, dándole un golpe a Jorge Sampaoli . Con un protagonista especial: Yoshan Valois convirtió su primer doblete en el club y se los dedicó a su tierra, afectada por el fuerte terremoto. El colombiano ingresó a los 20 minutos del segundo tiempo, con el resultado aún sin abrirse. Y terminó siendo importante en las tres conquistas , más allá de que el primero fue firmado por una gran maniobra individual del siempre cumplidor Dylan Aquino : tras un quite de Felipe Peña Biafore, Valois condujo unos metros en la mitad de la cancha y abrió hacia la izquierda para que el joven extremo encarara hasta el arco. Ese primer revés ya ocasionó que Sampaoli se tocara su cabeza, con la mirada incrédula al suelo, en medio del silencio que, de pronto, se hizo en el estadio. Valois no dio tiempo a una respuesta . Porque solo cinco minutos después, se impuso en el área entre los centrales Román Riquelme y Santiago Fernández y cabeceó a la red un centro preciso de Sasha Marcich. Un gol especial . “Gacela”, como lo apodan, suele ofrecer en sus festejos la alegría tradicional de todo colombiano, pero esta vez había una causa ineludible. Se paró frontal a una de las cámaras para dedicárselos a su tierra en medio del desastre natural ocurrido en las últimas horas. VALOIS PUSO EL SEGUNDO PARA LANÚS El colombiano convirtió el segundo tanto para el Granate luego de un gran cabezazo Viví el Torneo Clausura 2026 por TNT Sports Premium y disfrutalo también en HBO Max 👉 #Suscribite https://t.co/9RzIJTMF2E #LPFxTNTSports pic.twitter.com/i7EAV96vTx TNT Sports Argentina (@TNTSportsAR) August",
@@ -229,36 +621,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/5KBM3JYRTZCD3KTRTQJ3QU4PNM.JPEG?auth=845ef330543f7f833f8a732824b632df28be5547a70958f6df040d5a582f3015&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "221e506a345d4a0cff4e",
-      "title": "Día Mundial del Hijo del Medio: el estudio que explica por qué suelen ser más cooperativos y empáticos que sus hermanos",
-      "summary": "El tamaño de la familia influye: más hermanos implica mayor cooperación. Los hermanos menores ocupan el segundo lugar en estos rasgos positivos.",
-      "link": "https://www.clarin.com/informacion-general/dia-mundial-hijo-medio-estudio-explica-suelen-cooperativos-empaticos-hermanos_0_Dngv6jk85A.html",
-      "pubDate": "Wed, 12 Aug 2026 04:00:11 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/08/11/tBcz2M6Oj_1200x630__1.jpg"
-    },
-    {
-      "id": "f2855a4b71f20cb005de",
-      "title": "Ana Martínez Palmer, oftalmóloga: “La retina no tiene receptores del dolor y puede estar lesionándose sin que nos demos cuenta”",
-      "summary": "La jefa de Oftalmología del Hospital del Mar explica qué protección es imprescindible para observar el eclipse y qué síntomas pueden alertar de una lesión en la retina.",
-      "link": "https://www.clarin.com/internacional/ana-martinez-palmer-oftalmologa-retina-receptores-dolor-puede-lesionandose-demos-cuenta_0_5wnnRZCDYt.html",
-      "pubDate": "Wed, 12 Aug 2026 04:00:11 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/11/hgqBCZSKc_1200x630__1.jpg"
-    },
-    {
-      "id": "a07b681fdcc38dfec0f7",
-      "title": "Pallante silencia a Filis y jonrón de Pereira da a Cardenales victoria de 2-0",
-      "summary": "Pallante lanzó sólido por seis entradas y Pereira destacó con un jonrón, llevando al equipo a una victoria 2-0 sobre el rival de Filadelfia. Soriano y O’Brien aseguraron el triunfo con relevo efectivo, mientras que Sánchez brilló con siete ponches, aunque sin decisión.",
-      "link": "https://www.clarin.com/estados-unidos/pallante-silencia-a-filis-y-jonron-de-pereira-da-a-cardenales-victoria-de-2-0_0_ljMpc9noSd.html",
-      "pubDate": "Wed, 12 Aug 2026 04:00:09 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
     },
     {
       "id": "e41e28b06a43c572b343",
@@ -272,19 +634,9 @@
       "subcat": "diseño"
     },
     {
-      "id": "051fd58864671ad7b831",
-      "title": "\"Por fin\": sacan con vida a una mujer sepultada 36 horas tras el terremoto en Colombia (VIDEOS)",
-      "summary": "Rescatistas en Pereira, Colombia, se abrieron paso entre escombros de un edificio colapsado tras el terremoto del 10 de agosto y extrajeron con vida a Daniela Largo Sánchez, de 32 años, luego de 36 horas atrapada. Un rescatista relató que la sacaron con una maniobra \"casi que artesanal\", usando un cincel y palanca porque no podían meter equipos. Tras el rescate, ella no habló, pero fue \"como que dijo 'por fin'\", agregó.",
-      "link": "https://actualidad.rt.com/actualidad/621848-fin-asi-sacar-vida-mujer?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 03:49:48 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7bee1c59bf5b51407923b1.jpg"
-    },
-    {
       "id": "1fa9ccbc8ad92edfcbcb",
       "title": "El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles",
-      "summary": "Una mejor recicla una botella de plástico, en una imagen de archivo.",
+      "summary": "Una mujer recicla una botella de plástico.",
       "link": "https://elpais.com/economia/2026-08-12/el-principio-del-fin-para-los-sobres-de-ketchup-y-mayonesa-claves-de-la-ley-de-envases-que-echa-a-andar-este-miercoles.html",
       "pubDate": "Wed, 12 Aug 2026 03:45:01 GMT",
       "source": "El Pais",
@@ -309,47 +661,7 @@
       "pubDate": "Wed, 12 Aug 2026 03:45:00 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/U4FTIEBKVJCCRL5MJNLLMOCVSA.jpg?auth=14f4d353e910060d4126a8a7c1ffb2e30ccefd2a931004ba643e0e62bae2037d"
-    },
-    {
-      "id": "8f70ee7bbdd89be93190",
-      "title": "Trump confirmó que salió de Turquía en un vuelo secreto a raíz de una amenaza de asesinato de Irán",
-      "summary": "WASHINGTON.- El presidente de Estados Unidos, Donald Trump , confirmó este martes que debió salir de Turquía en un vuelo secreto debido a una amenaza contra su vida . El operativo se realizó a principios de julio después de la cumbre de la OTAN en Ankara, e incluyó un cambio de aeronave que fue ocultado a los periodistas y a parte del personal de la Casa Blanca. “Querían que tomara un vuelo diferente, un avión diferente, con la misma seguridad, pero querían que lo hiciera, así que lo hago. Hago lo que ellos dicen ”, explicó Trump ante los periodistas en alusión a los consejos de los servicios de inteligencia estadounidense. El mandatario dijo que suponía que existía una amenaza, aunque admitió que no hizo demasiadas preguntas al respecto. La declaración se produjo luego de que The Washington Post revelara este lunes que había habido una advertencia sobre un posible atentado iraní y que eso había motivado la particular operación para trasladar al presidente. Trump había subido al Air Force One a la vista de las cámaras y los fotógrafos. Sin embargo, en lugar de partir en esa aeronave, salió a escondidas a través de uno de los contenedores de carga utilizados por los servicios de catering y fue trasladado hasta un avión C-32A de la Fuerza Aérea estadounidense , en el que viajó rumbo al Reino Unido. My favorite part: This Turkish catering truck nonchalantly moving from Air Force One to the other plane https://t.co/vQSoncQw9f pic.twitter.com/Ob5r1hxSwL John Hudson (@John_Hudson) August 11, 2026 “Creo que, en realidad, el avión en el que viajé estaba en mayor riesgo” , sostuvo el jefe de Estado. Y añadió: “Porque ese sería el avión que, creo, ellos elegirían probablemente como objetivo”. Mientras tanto, el Air Force One despegó de Turquía con una docena de periodistas y parte del personal de la Casa Blanca, que desconocían que Trump no formaba parte de ese vuelo. Durante el trayecto, el Servicio Secreto ordenó mantener cerradas las persianas de las ventanillas, una instr",
-      "link": "https://www.lanacion.com.ar/el-mundo/trump-confirmo-que-salio-de-turquia-en-un-vuelo-secreto-a-raiz-de-una-amenaza-de-asesinato-de-iran-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:43:44 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/DCUGV2KABBCBFI4YAGBU75SLQE.JPG?auth=ff8a6dbd633f1f2a2db7b2f6b20260bcd42732fc9a26342a5aff2f3314a60e12&smart=true&width=5642&height=3742"
-    },
-    {
-      "id": "53345a61fbc9abc534c8",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este miércoles 12 agosto de 2026",
-      "summary": "El SMN anticipa para este miércoles temperaturas entre 6°C y 11°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-miercoles-12-agosto-2026_0_9mQr4QNOGp.html",
-      "pubDate": "Wed, 12 Aug 2026 03:40:05 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg"
-    },
-    {
-      "id": "a9a0b109b8d66428ce54",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este miércoles 12 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-miercoles-12-agosto-2026_0_qp6gF8vOYB.html",
-      "pubDate": "Wed, 12 Aug 2026 03:39:42 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_1200x630__1.jpg"
-    },
-    {
-      "id": "e2fd7cd0c72124dbee82",
-      "title": "Guantes que darán dolorosas descargas eléctricas: la nueva arma para agentes migratorios de EE.UU.",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621851-guantes-daran-dolorosas-descargas-electricas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 03:35:21 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
+      "image": "https://imagenes.elpais.com/resizer/v2/6PD5MBK4Z5FTTBJKWIPE4JDDMY.jpg?auth=eb83ac259582a1c4201d158d8e97ce75d14c2cedfff6ed8a92be3a1dc380add0"
     },
     {
       "id": "3c7db128237ec573c541",
@@ -414,22 +726,12 @@
     {
       "id": "86f6c657c71e3d3543a8",
       "title": "Colombia, unida por la tragedia",
-      "summary": "Equipos de socorro trabajan en un edificio desplomado en Cali.",
+      "summary": "Voluntarios trabajan con autoridades y rescatistas en labores de remoción de escombros y búsqueda de personas atrapadas en los edificios colapsados en Pereira (Colombia), el 10 de agosto.",
       "link": "https://elpais.com/opinion/2026-08-12/colombia-unida-por-la-tragedia.html",
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VUKQUYU2SZM2ZGBMMMA6BGOF3U.jpg?auth=eb22d59ccdca2d7d1b0ea8123b3bbd5509d9d69fd1057914ed347fb8949f998d"
-    },
-    {
-      "id": "9d6d80213f01a73ba3c4",
-      "title": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
-      "summary": "Ilustración EL PAÍS.",
-      "link": "https://elpais.com/sociedad/2026-08-12/siete-mil-dias-sin-madeleine-mccann-la-desaparicion-que-estremecio-al-mundo.html",
-      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/67VWH2UKVVG7NAHYEW5L3TKGQE.jpg?auth=ce223ddfc278a32fceefea91b2c46244ad46461b31fb6c9d2f507f1c8592a1ca"
+      "image": "https://imagenes.elpais.com/resizer/v2/DJVVGLJJCVC33L7XWK5OC4SZCM.jpg?auth=e9a8db2c6beadd176e04b58649c84ec4befc106143a989618bee41b982418f31"
     },
     {
       "id": "9b5aa7c794365c791031",
@@ -440,6 +742,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/GL322TMGWRAD7FYXZUYGKISKVI.jpg?auth=6fda6d11edbaee89e408d4a374ce228b8a8626904d40f0867dc3a5faeff97b67"
+    },
+    {
+      "id": "9d6d80213f01a73ba3c4",
+      "title": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
+      "summary": "Ilustración de Gerry y Kate McCann con una imagen de Madeleine.",
+      "link": "https://elpais.com/sociedad/2026-08-12/siete-mil-dias-sin-madeleine-mccann-la-desaparicion-que-estremecio-al-mundo.html",
+      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/67VWH2UKVVG7NAHYEW5L3TKGQE.jpg?auth=ce223ddfc278a32fceefea91b2c46244ad46461b31fb6c9d2f507f1c8592a1ca"
     },
     {
       "id": "49141d708a73cea41493",
@@ -462,14 +774,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/RIM67ED6TQUJGFTEPSE6G55YY4.jpg?auth=14d0b64543b2662e0c9a695140bd30c21dda005a4c86928c03b58d15fc38312c"
     },
     {
-      "id": "05fe2d8327a4ec1a3080",
-      "title": "Un negacionismo tan absurdo que no puede ser cierto",
-      "summary": "“Lo que estamos haciendo ahora en el mundo, degradando las superficies terrestres, contaminando las aguas y añadiendo gases de efecto invernadero a la atmósfera a un ritmo sin precedentes es algo nuevo en la experiencia de la Tierra. Son la humanidad y sus actividades las que están cambiando el medio ambiente de nuestro planeta de forma dañina y peligrosa”. ¿Quién pudo pronunciar estas palabras? ¿El líder de una organización ecologista? ¿Algún peligroso extremista? ¿Un decrecentista? Ninguno de ellos. Fue Margaret Thatcher ante la Asamblea General de Naciones Unidas en 1989. La líder conservadora británica se mostraba ya entonces preocupada por el cambio del clima y calificaba la “amenaza sobre el medio ambiente” como el desafío más evidente al que se enfrentaba la humanidad. Para darle respuesta proponía medidas que tenían que tomar los Estados en su interior y otras que requerían de cooperación internacional. Entre estas últimas, nada menos que la conformación con carácter permanente del Panel Internacional de Expertos en Cambio Climático (IPCC, por sus siglas en inglés), en cuyo impulso inicial jugó un papel clave. Seguir leyendo",
-      "link": "https://elpais.com/opinion/2026-08-12/un-negacionismo-tan-absurdo-que-no-puede-ser-cierto.html",
+      "id": "a535a61eccc8ece7ffa0",
+      "title": "El rey del bulo se arrima al Rey",
+      "summary": "Javier Negre, en la sede de EDATV, en Madrid.",
+      "link": "https://elpais.com/opinion/2026-08-12/el-rey-del-bulo-se-arrima-al-rey.html",
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OET2NDNQXBCEHPXMU4GIV6FGQA.jpg?auth=a3558a87d240909486d1c910065aabd60e0a30792e59ed82857a99165c064a9f"
+      "image": "https://imagenes.elpais.com/resizer/v2/LKKC4TDGG5AXJA67NTY7X3VS5A.jpg?auth=b49d96ac07fdf5d606db270aa77d223b942017b2afc7b20c96751fb651712dc1"
     },
     {
       "id": "a20049d19dfae9579aa6",
@@ -489,7 +801,7 @@
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/WDC5A4SCCZDRHM7ODZNUFA5I2I.jpg?auth=e9807e9241ae2077a3f708e8b71797b2c2faa3cfe47e6fb6d76d4242b1861738"
+      "image": "https://imagenes.elpais.com/resizer/v2/2LAV7Q376JAI5GTUEIFQRLVSQU.jpg?auth=d0242fe6ff26324eed95c3ea70323df8089c8413393855d94b292fc11a12de07"
     },
     {
       "id": "7cc7304b326dc4533e5d",
@@ -502,16 +814,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/B37UG2FWAVLDBK76L2X2LGM64A.jpg?auth=c06df763ddd4653a346c96c242659defdd4bdfd93457a087ee48129f68910955"
     },
     {
-      "id": "6d6810ff41c9a3fb47eb",
-      "title": "Sanciones y sospechas de espionaje amenazan con cerrar la Casa Rusa de la Cultura en Berlín",
-      "summary": "Activistas críticos con la guerra de Ucrania protestan con banderas ucranias en la puerta principal de la Casa Rusa de la Cultura, en Berlín, el lunes.",
-      "link": "https://elpais.com/internacional/2026-08-12/sanciones-y-sospechas-de-espionaje-amenazan-con-cerrar-la-casa-rusa-de-la-cultura-en-berlin.html",
-      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/3SCXVJLKRZGAHPQYS7IAFLX3YQ.jpg?auth=8811711ef5e5f1a3e97474df405e5b2ecd7dfd172a245635c1f0e2ba4106742b"
-    },
-    {
       "id": "dba450b4bcc3bb5fcc84",
       "title": "El mapa de las ruinas de Madrid: fondos de inversión, falta de herederos y edificios centenarios",
       "summary": "La fachada del edificio de la calle Miosotis 64, en Madrid, fotografiada este jueves.",
@@ -520,16 +822,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/VOABYCBVXRCB5DDYWHGIZ4VR44.jpg?auth=287292e87818b65afebe1c71025b4a3cbd3bfcccbad5bf16478f55131003c771"
-    },
-    {
-      "id": "42a5546e9965dba4e03d",
-      "title": "Andalucía pagará 7,4 millones a la Iglesia esta legislatura para los capellanes católicos de los hospitales públicos",
-      "summary": "Isaac Lino, capellán en el hospital Virgen del Rocío de Sevilla, el pasado jueves, en su capilla.",
-      "link": "https://elpais.com/espana/2026-08-12/andalucia-pagara-74-millones-a-la-iglesia-esta-legislatura-para-los-capellanes-catolicos-de-los-hospitales-publicos.html",
-      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/LDCNJVQNMFGHVHEXBRJ75TAUCU.jpg?auth=83d2bb0fc086cf6b9fb57e3d1aa19d652f1c4ce87b31fcd7c0f9db5f34f246ee"
     },
     {
       "id": "a67f7a2a2514e8a969d3",
@@ -542,19 +834,19 @@
       "image": "https://imagenes.elpais.com/resizer/v2/KVTKPBKBSNNRVAR4XSEM5JLF2E.jpg?auth=8c2bda7ec5e62c59e574ecd41fc43db64f2a8a6cf2fa61a6a711059174ef365f"
     },
     {
-      "id": "ec3d6481ab7b82de31b9",
-      "title": "La clienta que quiere cocinar para sus amigos dentro de Ikea",
-      "summary": "En la imagen Carola, en el Ikea de L'Hospitalet de Llobregat.",
-      "link": "https://elpais.com/espana/catalunya/2026-08-12/la-clienta-que-quiere-cocinar-para-sus-amigos-dentro-de-ikea.html",
+      "id": "42a5546e9965dba4e03d",
+      "title": "Andalucía pagará 7,4 millones a la Iglesia esta legislatura para los capellanes católicos de los hospitales públicos",
+      "summary": "Isaac Lino, capellán en el hospital Virgen del Rocío de Sevilla, el pasado jueves, en su capilla.",
+      "link": "https://elpais.com/espana/2026-08-12/andalucia-pagara-74-millones-a-la-iglesia-esta-legislatura-para-los-capellanes-catolicos-de-los-hospitales-publicos.html",
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/4OA4NAYLUVFWTLG2LLCVGUCRXE.jpg?auth=426de5952e3ff79c44bbd64d0d289c00ddba83a4ed67165a48d1704eb160f302"
+      "image": "https://imagenes.elpais.com/resizer/v2/LDCNJVQNMFGHVHEXBRJ75TAUCU.jpg?auth=83d2bb0fc086cf6b9fb57e3d1aa19d652f1c4ce87b31fcd7c0f9db5f34f246ee"
     },
     {
       "id": "3ab25dfa9ef89c75c9ec",
       "title": "Todo un país mirando a la vez cómo funciona el universo",
-      "summary": "(29/03/25). A Coruña, A Casas da Ciencias. / ÓSCAR CORRAL (EL PAÍS).",
+      "summary": "Varias personas observan el eclipse solar de marzo de 2025 en A Coruña.",
       "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-08-12/eclipse-solar-total-del-12-de-agosto-todo-un-pais-mirando-a-la-vez-como-funciona-el-universo.html",
       "pubDate": "Wed, 12 Aug 2026 03:30:00 GMT",
       "source": "El Pais",
@@ -602,14 +894,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/IDS2HN4KGJEC7CYY4T3LFGOPYU.jpg?auth=393cfec1f46e1d68f62eb8ae233b19fd829c3286b16a4c527a6e413f1441ff6d"
     },
     {
-      "id": "9efa47099ba04920ca11",
-      "title": "Hombre sufre embarazoso percance con su pantalón mientras huye de la policía (VIDEO)",
-      "summary": "En la ciudad de Columbus, EE.UU., un sospechoso perdió sus pantalones mientras huía de la policía en bicicleta. El hombre chocó contra una valla metálica, lo que lo hizo salir volando por encima del obstáculo. Por su parte, los agentes continuaran la persecución a pie. \"Este hombre se dejó las llaves y la dignidad en nuestro jardín\", comentó Mikelle Smith, quien grabó lo sucedido.",
-      "link": "https://actualidad.rt.com/viral/621849-choque-bicicleta-valla-revelo-fugitivo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 03:15:20 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7be367e9ff715aaf35fde8.jpg"
+      "id": "6896a0456921508b523d",
+      "title": "La Audiencia Nacional confirma la multa de 15.000 euros al periodista de ‘El Confidencial’ que usó información privilegiada",
+      "summary": "Sede la CNMV en Madrid.",
+      "link": "https://cincodias.elpais.com/companias/2026-08-12/la-audiencia-nacional-confirma-la-multa-de-15000-euros-al-periodista-de-el-confidencial-que-uso-informacion-privilegiada.html",
+      "pubDate": "Wed, 12 Aug 2026 03:15:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/CJ5G75P2ABMTXDI6QFVTASBZRA.jpg?auth=2547acff43ccb4574eb1602e5d65b3c934915964f86c466287cc633e5d02061f"
     },
     {
       "id": "8c959087b0522a3c189d",
@@ -653,66 +945,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/ITLDC6BS2ZBUXCEOCIPFRGRRMY.JPG?auth=fb4ae2d8ed24aec01fe64d920f0ba775b865c1b5906b9e8e2cc65d2feae82646&smart=true&width=2465&height=1643"
     },
     {
-      "id": "ba06562270af848f6cde",
-      "title": "Cartas de lectores: Políticos y políticos, preguntas al Papa, duda",
-      "summary": "Políticos y políticos Gustavo Petro, expresidente de Colombia, aprovecha el terremoto en su país para decir cosas como “la Tierra grita, ¿quién escucha sus mensajes?”. Este era un momento para solidarizarse con las víctimas, Petro, no para buscar protagonismo o sacar rédito político de una tragedia nacional. Como siempre fue su costumbre, puso a la a política por encima del dolor humano. Empatía cero. Mientras tanto, Abelardo de la Espriella, el actual presidente de Colombia (asumió hace pocos días), dijo: “no están solos” y salió a recorrer y a acompañar personalmente a los afectados. Carmelo J Monroe carmelomonroe54@gmail.com Preguntas al Papa Ante la próxima visita del Papa a la Argentina, quisiera formularle algunas preguntas que considero especialmente importantes. ¿Reconoce la Iglesia que pudo haber hecho más para evitar la legalización del aborto en nuestro país? ¿Qué puede hacer hoy para que nuestros dirigentes asuman un compromiso concreto con la defensa de la vida y trabajen para derogar la legislación que permite el aborto? Y una pregunta particularmente dirigida a los políticos que se declaran católicos: ¿qué les diría el Papa a quienes sostienen esa identidad pero no hacen nada, desde sus responsabilidades públicas, para proteger legalmente la vida desde la concepción? Para la doctrina católica, la defensa de la vida humana inocente no es una cuestión secundaria ni meramente partidaria. Si realmente es un principio fundamental, debería tener consecuencias concretas en la vida pública de quienes se reconocen como católicos. La visita del Papa puede ser una oportunidad para que la Iglesia renueve con claridad su compromiso con los niños por nacer y para que quienes tienen responsabilidades políticas comprendan que ciertas convicciones no pueden quedar solamente en el ámbito privado. Sería valioso que, durante su visita, el Papa nos ayudara a responder una pregunta esencial: ¿qué debemos hacer, concretamente, para que la defensa de la vida vuelva a ocupar ",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-politicos-y-politicos-preguntas-al-papa-duda-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/BKVPR7E3FFF3HJUT2JNZAHEGPY.jpg?auth=fec36f39fe99bb29d97aeb2239703c5ea3ae1d3f9fadfa7ff7e6af6046797b9e&smart=true&width=1355&height=891"
-    },
-    {
-      "id": "0b26a857f4118a31016a",
-      "title": "Potencias medias y autonomía cooperativa: una doctrina para América Latina y la UE",
-      "summary": "El primer ministro de Canadá, Mark Carney, supo captar el sentir de esta época cuando en enero de 2026 expuso en Davos su doctrina para las potencias medias. Su diagnóstico es difícil de rebatir: el viejo orden liberal internacional dejó de existir y la nostalgia no es una estrategia. Su propuesta tiene la ventaja de la claridad: diversificar socios y establecer asociaciones plurilaterales de geometría variable. Su máxima - ”si no estás en la mesa, estás en el menú” - capta una reflexión que hoy se comparte en Europa, América Latina y parte del Sur Global: que la pasividad ante la voluntad trumpista de subordinación tiene un precio demasiado alto. Pero esta doctrina, recibida con entusiasmo, también ha suscitado algunas críticas. Si bien estas no la invalidan, obligan a precisarla. Uno de sus bancos de pruebas es la relación entre la Unión Europea y América Latina: ninguna de las dos regiones podrá logra por sí sola el margen de maniobra que exige esta era. La crítica más directa vino del corazón del trumpismo. Cuando Francia escenificaba la voluntad de autonomía europea en el desfile del 14 de julio de 2026, Día de La Bastilla, el subsecretario de “guerra” de Estados Unidos, Elbridge Colby se refería a esta doctrina como una fantasía, y advertía que ”el acceso a la base industrial de defensa estadounidense es un privilegio, no un derecho”. Pero resulta paradójico tratar a los aliados como vasallos, y sorprenderse luego de que busquen otros socios. Si ese “privilegio” puede revocarse a capricho, diversificar no es una distracción irracional: es un imperativo de supervivencia. En realidad, Colby no desmiente la doctrina Carney: la confirma. Puede alegarse que las potencias medias carecen de la cohesión, capacidad militar y relación económica para ser un tercer “polo”. La energía, las finanzas y las cadenas productivas europeas y estadounidenses están muy integradas y un eventual desacople sería contraproducente. Pero es falaz cuestionar un desacoplamiento que en real",
-      "link": "https://www.lanacion.com.ar/opinion/potencias-medias-y-autonomia-cooperativa-una-doctrina-para-america-latina-y-la-ue-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/R3JUBSELKVDO3ENEJ5R3EVP2NI.jpeg?auth=535610987bed2837dd6f8fede5918d808a176c1ad8fda321547b06c9d4936a96&smart=true&width=1600&height=1066"
-    },
-    {
-      "id": "3cdb90e1fc1853d1c3f6",
-      "title": "Con Brasil está todo fantástico",
-      "summary": "Después de una batalla, hace ya unos cuantos años, más precisamente en 1676, Mehmed IV, sultán del Imperio Otomano, les exigió a los cosacos liderados por Iván Sirko que se rindieran sin resistencia. Los cosacos respondieron con una sarta de insultos. En una carta le espetaron al sultán “despojo babilónico”, “diablo turco”, “carnicero de Macedonia”, “hermano y compañero del demonio”, “secretario de Lucifer”, todas cosas que en el siglo XVII en esa zona del mundo eran consideradas bastante ofensivas, junto con otras imperecederas más soeces, incluso escatológicas, que para ahorrar sonrojos no vale la pena reseñar acá. Aquella densa carta inspiró al pintor ruso Ilyá Repin a crear entre 1880 y 1891 -sí, le llevó once años- “La respuesta de los cosacos zapórogos”, su obra más famosa. Según una leyenda, la obra estuvo colgada en el despacho de Stalin, quien se sabía de memoria todos los insultos. Con su recuerdo del suceso deleitaba a ocasionales visitantes. No se puede decir que los insultos cosacos resultaran a la postre tangenciales. El Imperio Otomano se enfureció, Mehmed IV hizo arrasar las fortalezas cosacas en el bajo Dniéper, la Guerra Ruso-turca se consolidó y la región sufrió décadas de devastación y hambruna. Milei, desde luego, no es el primer líder que insulta a un líder de otro pueblo. En todo caso es el primero que en contextos democráticos le dice “ladrón”, “basura socialista”, “presidiario”, “corrupto”, “delincuente”, “comunista recalcitrante” y “puerco” a un presidente (elegido ya tres veces) de un país vecino con el cual llevamos 203 años de relaciones diplomáticas, los últimos 35 como principal socio comercial. Y también es el primero que dice que los insultos de esta especie no afectan para nada las relaciones binacionales. El arte de insultar a nivel internacional tradicionalmente alcanzó mayor dimensión, como cabe imaginar, bajo contextos bélicos y entre autócratas que en tiempos de paz y con regímenes democráticos. Lo cual tampoco significa que to",
-      "link": "https://www.lanacion.com.ar/opinion/con-brasil-esta-todo-fantastico-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/QDMO5RPKDNFNTGTEZDJLE6A23Q.jpg?auth=58e067a191b413550ec4d297e9bd88602910be8765011ac508fab7efd4c4245e&smart=true&width=2000&height=1500"
-    },
-    {
-      "id": "c1b7bf426b7e100e5582",
-      "title": "Oficial y confirmado: las zonas de Nueva York y Nueva Jersey por donde pasará el eclipse solar de hoy 12 de agosto",
-      "summary": "El 12 de agosto de 2026 , un eclipse solar parcial podrá observarse en distintos puntos de Nueva York y Nueva Jersey , aunque ninguna de estas zonas quedará dentro de la franja de totalidad. La cobertura variará según la ubicación de cada ciudad respecto de la trayectoria y alcanzará su máximo durante las primeras horas de la tarde . Eclipse solar del 12 de agosto y cómo se observará en Nueva York Según los datos publicados por The Weather Channel , Albany tendrá una de las mayores coberturas del estado de Nueva York, mientras que en la ciudad el porcentaje será menor. En Nueva Jersey, Newark tendrá una magnitud similar a la de la principal ciudad del estado vecino. En Albany , la cobertura llegará al 13% , con el máximo previsto alrededor de las 13.50 hs (EDT) . En la ciudad de Nueva York , será de aproximadamente 9,5% , con el punto máximo cerca de las 13.54 hs . La Luna cubrirá allí una porción pequeña del disco solar. Otros puntos del estado también registrarán diferencias. Rochester alcanzará una cobertura cercana al 9,3% , mientras que en Buffalo llegará a aproximadamente 7,5% . En Nueva Jersey, Newark tendrá una cobertura de aproximadamente 9,3% , con el máximo previsto cerca de las 13.53 hs . En Trenton , ubicada más al sur, llegará a alrededor del 7,8% , también cerca de las 13.53 hs . Por qué Nueva York y Nueva Jersey quedarán fuera de la trayectoria del eclipse total De acuerdo con la agencia Associated Press , la totalidad quedará reservada para una franja mucho más estrecha del recorrido. Tanto el estado de Nueva York como Nueva Jersey estarán fuera de esa zona, por lo que desde allí solo será posible observar una parte del disco solar cubierta por la Luna. La trayectoria del eclipse total pasará por Groenlandia, Islandia, el océano Atlántico, España, una pequeña zona de Portugal y el norte de Rusia . En Estados Unidos, la totalidad tampoco será visible y la zona de observación parcial se extenderá por sectores del norte de EE.UU.. Según la Administraci",
-      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/oficial-y-confirmado-las-zonas-de-nueva-york-y-nueva-jersey-donde-pasara-el-eclipse-solar-del-12-de-nid10082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:03:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/TZP6E27IYZES7H2FDIK36SOBAA.jpg?auth=cc896b0263256c3044621a7582f0113b0a0c85aad8d757f59412c9075bc1ba17&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "d9cb7443352b5c45ba32",
-      "title": "Estudiantes empató con Universidad Católica y definirá en Chile la clasificación en la Copa Libertadores",
-      "summary": "Un gol tempranero, el control del juego, el retorno de Joaquín Correa y la victoria por 1 a 0 eran los cuatro argumentos que presentaba Estudiantes para festejar sobre Universidad Católica , en el partido de ida de los octavos de final de la Copa Libertadores . Un triunfo que alimentaba el espíritu y anulaba la intranquilidad que enseñaron las derrotas en el comienzo del torneo Clausura, pero en la figura del goleador Fernando Zampedri los Cruzados descubrieron la única razón para empatar y que la serie, que se definirá el martes en Santiago de Chile, quede abierta. La serie de octavos de final no los descubrió en el mejor escenario. Para Estudiantes, el mata-mata de la Copa Libertadores abraza al clásico con Gimnasia , que se disputará el sábado en Uno. La impaciencia del hincha es otro factor que se cruza en el juego del León , que logró una clasificación angustiosa: el agónico gol de Mikel Amondarain -una de las bajas, tras su transferencia a Bologna, en 10,5 millones de dólares, la segunda venta más cara de la historia - empujó al Pincha a desplazar del segundo puesto a DIM, de Colombia. Pero el ciclo de Alexander Cacique Medina no prende en el corazón del público: los altibajos en el rendimiento es el punto débil, porque el equipo fue contundente para eliminar a Rosario Central en la Copa Argentina, pero también ensaya un flojo comienzo de aventura en el torneo Clausura, donde perdió tres de los cuatro encuentros. Es un tiempo en el que Estudiantes tiene múltiples frentes abiertos: torneo local y la Copa Argentina , la Libertadores , la Supercopa Argentina -frente a Independiente Rivadavia- y la Supercopa Internacional , ante Rosario Central. La agenda marca el pulso y la ilusión de sumar estrellas, ser protagonista, es una obligación para la historia del club, y la Libertadores es la bandera que flamea con más fuerza. Por el riquísimo pasado, pero también porque el año pasado quedó eliminado en los 4tos de final, por penales, en su estadio, con Flamengo , que ",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-empato-con-universidad-catolica-y-definira-en-chile-la-clasificacion-en-la-copa-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/6JPKQPPGARASHOG7SWQHCCBC7M.jpg?auth=2063883f364faf612313482206379fc190d5931cc77645a439a05531c46d99ca&smart=true&width=2923&height=1948"
-    },
-    {
-      "id": "bdcae17170c078bed156",
-      "title": "Sargazo: las razones que explican la invasión de algas en playas paradisíacas y una pregunta inquietante a futuro",
-      "summary": "A fondo Alerta, sargazo Las razones que explican la invasión de algas en playas paradisíacas y una pregunta inquietante a futuro",
-      "link": "https://www.lanacion.com.ar/el-mundo/sargazo-las-razones-que-explican-la-invasion-de-algas-en-playas-paradisiacas-y-una-pregunta-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:02:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/FL4TCKQ66ZHWXCC2TLLYRTH77A.jpg?auth=be37bdc2df10c230115aad381c433c99dfe9bad08fa38e9cc9f9eca1f1f2b8ed&smart=true&width=3915&height=2610"
-    },
-    {
       "id": "98030cade9e2465743cb",
       "title": "Toy Story 5 ya tiene fecha de estreno en digital",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Toy Story 5 ya prepara su salto de los cines a casa tras superar los 1.000 millones de dólares en taquilla mundial. Disney ha confirmado cuándo estará disponible en formato digital y físico, pero la edición doméstica guarda algo todavía más interesante: una escena eliminada que recupera uno de los recuerdos más dolorosos de Jessie . Toy Story 5 llegará a plataformas digitales el 18 de agosto La aventura cinematográfica de Toy Story 5 continuará en casa mucho antes de lo que algunos esperaban. Disney ha anunciado que la nueva película de Pixar estará disponible para compra y alquiler digital desde el 18 de agosto a través de plataformas como Amazon Prime Video, Apple TV y Fandango at Home. La fecha resulta especialmente llamativa porque la película sigue teniendo bastante combustible en los cines. Estrenada en junio, Toy Story 5 ya ha superado los 1.000 millones de dólares de recaudación mundial y durante el pasado fin de semana todavía permanecía entre las cinco películas más vistas de Norteamérica. Disney podría haber exprimido durante algo más de tiempo su recorrido exclusivo en salas, pero ha preferido acelerar su llegada al mercado doméstico. Quienes continúen apostando por el formato físico tendrán que esperar algo más. Las ediciones en 4K Ultra HD Blu-ray, Blu-ray y DVD estarán disponibles a partir del 22 de septiembre , incluyendo material adicional que amplía considerablemente lo visto en pantalla. Una escena eliminada reúne a Jessie con Emily décadas después Aquí está probablemente el gran reclamo para los seguidores que llevan acompañando a estos personajes desde hace años. Entre las escenas eliminadas aparece un reencuentro especialmente emotivo entre Jessie y Emily, la niña que fue su propietaria antes de abandonarla y cuya historia conocimos en Toy Story 2. Entertainment Weekly ha mostrado un primer vistazo al animatic de esta secuencia, donde Jessie, Perdigón y el ejército de Buzz Lightyear ",
@@ -721,117 +953,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/toystory5digital.jpg"
-    },
-    {
-      "id": "32b1e7a23a326dd3896b",
-      "title": "Los expertos explican la razón por la que es malo estacionar con los neumáticos girados",
-      "summary": "Al momento de estacionar, muchos conductores adoptan hábitos que parecen inofensivos, pero que con el paso del tiempo pueden terminar afectando distintos componentes del vehículo. Uno de ellos es dejar las ruedas giradas durante largos períodos, una práctica que puede generar un desgaste desigual en los neumáticos y exigir de más a la dirección y la suspensión. El motivo es que, al quedar las ruedas orientadas hacia un lado, el peso del vehículo deja de distribuirse de manera uniforme. Según explican los especialistas al girar el volante cambia levemente la geometría de la dirección, por lo que la carga se concentra sobre una superficie más reducida del neumático. Qué significa el testigo de un zapato en el tablero del auto En consecuencia, si el vehículo permanece varios días o incluso semanas en esa posición, ese apoyo irregular puede acelerar el desgaste de las cubiertas. A su vez, en los vehículos equipados con dirección asistida hidráulica también se aconseja evitar mantener el volante apoyado contra el tope durante las maniobras de estacionamiento. Esa situación aumenta la presión del sistema y, con el tiempo, puede acelerar el desgaste de juntas y retenes, favoreciendo la aparición de pérdidas de líquido. Sin embargo, existe una excepción a esta regla. Cuando el auto se deja estacionado sobre una pendiente pronunciada junto al cordón, sí conviene orientar las ruedas para impedir que el vehículo se desplace si llegara a fallar el freno de estacionamiento. En una bajada deben quedar apuntando hacia el cordón, mientras que en una subida tienen que orientarse en sentido contrario. Otro hábito al estacionar que también puede jugar en contra Al estacionar existe otro peligro desconocido, pero que no tiene que ver son los neumáticos, sino que gira en torno a los espejos retrovisores. Resulta habitual plegar los espejos retrovisores para evitar que otro vehículo los golpee, especialmente en calles angostas. Sin embargo, esa costumbre no siempre ofrece el beneficio qu",
-      "link": "https://www.lanacion.com.ar/autos/los-expertos-explican-la-razon-por-la-que-es-malo-estacionar-con-los-neumaticos-girados-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/D7KB6DTMPNFYFOG4UV7DG24254.jpg?auth=4708d211e15dfaff50ffbb1b0eccfa4d453f294e3d8b875f7fedaef9784a7858&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "0f0c85da2a9404f0ba52",
-      "title": "Así anda el SUV de siete plazas que no consume combustible en ciudad",
-      "summary": "Durante el último año, la industria automotriz de la Argentina se vio colmada por la llegada de marcas chinas, impulsadas por un beneficio impositivo del Gobierno que permitió importar algunos vehículos electrificados con un valor de origen (Free On Board o FOB) inferior a US$16.000 sin pagar el arancel extrazona del 35%. Tesla: todo lo que se sabe sobre la empresa de Elon Musk en el país y el negocio que puede empezar antes que los autos Producto de este beneficio desembarcó en la Argentina la automotriz DFSK, una marca que a nivel global forma parte de Seres Group y mantiene una alianza estratégica con Dongfeng; sus vehículos se comercializan en más de 70 países y en el mercado local cuentan con el respaldo del Grupo Corven. Recientemente, la firma lanzó el E5 Plus, una evolución del E5 ( modelo que ya probó LA NACION ) que había sido el primer híbrido enchufable de origen chino en llegar a la Argentina. Cómo es el DFSK E5 Plus Si bien el E5 Plus representa un salto evolutivo, en términos de dimensiones se mantiene prácticamente sin cambios: mide 4,76 metros de largo, 1,865 metros de ancho y 1,71 metros de alto. La principal diferencia está en la distancia entre ejes, que crece de 2,75 a 2,785 metros, lo que se traduce en un mayor espacio interior. Un aspecto para destacar es que, al tratarse de un vehículo electrificado, el piso de la segunda fila es completamente plano, lo que mejora el confort de los pasajeros. Incluso, la plaza central permite que una persona de estatura media pueda viajar con comodidad. Luego, en materia de diseño, el E5 Plus adopta un frente más limpio y tecnológico, con líneas equilibradas que refuerzan su identidad visual con una firma lumínica LED. Uno de los cambios más notorios respecto del E5 está en el frontal: en lugar del logotipo anterior (que resultaba poco reconocible), ahora incorpora las siglas DFSK, lo que le otorga una identidad de marca mucho más clara. También suma llantas de aleación bitono de 19 pulgadas (una pulgada más ",
-      "link": "https://www.lanacion.com.ar/autos/asi-anda-el-suv-de-siete-plazas-que-no-consume-combustible-en-ciudad-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/U2JYKHU6A5A4RG7UA4U7OK3YE4.jpeg?auth=1430ca4cacd63d79302a1cb4cd6e9f2fc4ae21c512b3e32b96b94736f56ae54c&smart=true&width=1448&height=1086"
-    },
-    {
-      "id": "c9303baa3b77d7a973fa",
-      "title": "Cuánto sale hacer la VTV en CABA en agosto 2026",
-      "summary": "La Verificación Técnica Vehicular (VTV) continúa siendo un trámite obligatorio para los vehículos radicados en la Ciudad de Buenos Aires que se encuentren alcanzados por el régimen. En agosto de 2026 , realizar la revisión tiene un valor de $96.968 para los autos y de $36.459 para las motos . La VTV tiene como objetivo comprobar el estado general del vehículo y verificar el funcionamiento de distintos componentes vinculados con la seguridad y las emisiones. Durante el procedimiento se revisan, entre otros elementos, los frenos, las luces, la suspensión, la dirección, los neumáticos, los sistemas de seguridad y la emisión de gases y ruidos . El trámite se realiza actualmente en los centros habilitados de la Ciudad y requiere contar con un turno previo. Estos son los 10 autos 0km con caja automática más baratos de la Argentina Qué está cambiando en la VTV de la Ciudad Los precios de agosto se conocen mientras la Ciudad atraviesa una modificación del régimen de VTV aprobada por la Legislatura porteña en junio. La reforma busca adecuar la normativa local a los cambios impulsados previamente a nivel nacional y contempla, entre sus principales puntos, la incorporación de talleres privados y concesionarios como posibles centros de verificación , siempre que cumplan con los requisitos técnicos y obtengan la correspondiente habilitación. Hasta ahora, el sistema porteño funcionaba mediante una red reducida de plantas específicamente destinadas a realizar la inspección. Otro de los cambios aprobados es la liberación de las tarifas una vez que comience a funcionar plenamente el nuevo esquema con múltiples prestadores. Esto implica que el precio dejará de estar fijado de manera uniforme por el Gobierno porteño y cada prestador habilitado podrá establecer el valor del servicio. La modificación también contempla cambios en la periodicidad de las revisiones. Para los vehículos particulares cero kilómetro , la primera verificación pasará a realizarse a los cinco años desde el patent",
-      "link": "https://www.lanacion.com.ar/autos/cuanto-sale-hacer-la-vtv-en-caba-en-agosto-2026-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/AZRQQQOWBZF7XJCSL4RKLWYX6I.jpg?auth=24b10451a5c02887f4d9d4b42042627ed4180392fc65aff4e8e131ca313864ab&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "494dd7d910873e7f04b2",
-      "title": "Así quedó el cuadro de octavos de final de la Copa Sudamericana 2026, con Boca y River",
-      "summary": "Se cerraron este jueves los 16avos de final de la Copa Sudamericana 2026, la instancia donde se cruzaron los segundos de cada uno de los grupos con los equipos que decantaron de la Libertadores, y se definieron los ocho clubes que avanzaron a octavos, donde jugarán vs. los líderes de las zonas que esperaban en esa instancia del segundo certamen en importancia de la Confederación Sudamericana de Fútbol (Conmebol). Boca Juniors necesitó de los penales para eliminar a O’Higgins de Chile, con el que igualó 1 a 1 en el global por sendas victorias de los locales 1 a 0 y se impuso en la tanda 4 a 3. Su próximo escollo será Recoleta de Paraguay. Bolívar de Bolivia dio el gran golpe ante Gremio de Brasil, lo eliminó por un global de 4 a 2 y su siguiente oponente será otro conjunto brasileño como San Pablo. Los otros dos choques de la parte alta del cuadro serán River Plate vs. Independiente de Santa Fe y Olimpia Paraguay vs. Vasco Da Gama. El rival del Millonario goleó a Caracas de Venezuela 5 a 0 mientras que Vasco doblegó a Independiente Medellín de Colombia e irá contra Olímpica de Paraguay. En la zona inferior del draw quedaron emparejados en octavos de final Atlético Mineiro vs. Bragantino de Brasil, Macará de Ecuador vs. Santos, Montevideo City Torque vs. Tigre y Botafogo vs. Cienciano de Perú. El oponente del Galo se decidió en una serie que Bragantino se impuso apenas 1 a 0 a Sporting Cristal de Venezuela en tanto que el Peixe de Neymar vapuleó a la Universidad Central de Venezuela 8 a 3. El Matador de Victoria, por su parte, sacó a Nacional de Uruguay con un global de 4 a 2 y Cienciano eliminó a Lanús, el campeón defensor de la corona, 4 a 2. Resultados de los 16avos de final O’Higgins 1 (3) vs. Boca Juniors 1 (4) Ida: 0-1. Vuelta: 1-0. Gremio (2) vs. Bolívar (4) Ida: 2-3. Vuelta: 0-1 Caracas (0) vs. Independiente Santa Fe (5) Ida: 0-2. Vuelta: 0-3. Vasco Da Gama (3) vs. Independiente Medellín (2) Ida: 2-2. Vuelta: 1-0. Bragantino (1) vs. Sporting Cristal (0). Ida: ",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-el-cuadro-de-octavos-de-final-de-la-copa-sudamericana-2026-con-boca-y-river-nid31072026/",
-      "pubDate": "Wed, 12 Aug 2026 03:00:14 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/PSXTLUDVSFAITJ6CKQP67M3JHU.png?auth=3f5c6edece81c09ecc59858ad02471aafc2184f299aadf652904987bc347a037&smart=true&width=644&height=690"
-    },
-    {
-      "id": "3a0cdcff215013f267df",
-      "title": "Antes y después: un departamento en La Isla cambió radicalmente su distribución y estilo",
-      "summary": "“Cuando arrancamos el proyecto, el cliente nos hizo un pedido específico: quería un gran ambiente sin divisiones, un lugar amplio y estético”, recuerdan las arquitectas Sofía Cal y Victoria Romano , de Estudio Romano-Cal , quienes se encargaron de la reforma integral de este departamento ubicado en el último piso de un edificio de La Isla, en el barrio de Recoleta. Para cumplir con ese requisito, decidieron demoler todas las paredes que separaban los ambientes de la planta baja y plantearon un recorrido circular a partir del espacio donde está el ascensor. A medida que vas recorriendo el núcleo central, pasás por el escritorio, el living, la cocina y finalmente el círculo se cierra con el lavadero. Dentro de ese espacio está oculto el toilette. Arq Sofía Cal y Victoria Romano, de Estudio Romano Cal Una casa pensada para vivirla “Como sabíamos que el cliente era un hombre que iba a vivir solo, quisimos darle un lenguaje más masculino”, adelantan las arquitectas. “Buscamos materiales oscuros y trabajamos mucho con el gris y el negro, combinados con madera. Nos animamos a proponer esos tonos porque el departamento es muy luminoso”. El espacio exterior ganó mucho protagonismo y se aprovechó al máximo, no solo como sector social con una parrilla e isla sino además como “depósito”. “El cliente nos pidió un lugar de guardado para ocultar una mesa de ping-pong y una máquina para hacer remo”, cuentan. De ahí que, además de la isla, diseñaran otro mueble de chapa con puertas que simulan un varillado. Home office con vista abierta Como soltero que trabaja desde su casa, el dueño necesitaba un espacio que pudiera usar de escritorio, pero tenía muy en claro que no quería una habitación donde estuviera encerrado todo el día. “Ubicamos estratégicamente el lugar de trabajo al lado de la escalera, que es un espacio abierto. La intención fue vincularlo con el living y el balcón terraza”. Aunque ya tenía un escritorio que quería usar, las arquitectas lo convencieron de cambiarlo por o",
-      "link": "https://www.lanacion.com.ar/revista-living/antes-y-despues-un-departamento-en-la-isla-cambio-radicalmente-su-distribucion-y-estilo-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZXRMUXFDZVFWNAITODK3VSQSXY.jpg?auth=c57a918631578c5f400f783513f1bea6d864fc0481565ebaf5fd0b8976a5d53f&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "361603ffa6f80c7a5e66",
-      "title": "Sinceramiento de una devaluada institución",
-      "summary": "La Constitución nacional originaria, sancionada en 1853, preveía la existencia de 5 ministerios, a los que inclusive mencionaba por su nombre. Eran los ministerios del Interior, de Relaciones Exteriores, de Guerra y Marina, de Hacienda y de Justicia, Culto e Instrucción Pública. En la reforma de 1898 se elevó a 8 el número de ministerios, pero ya el texto constitucional dejó de mencionar cuáles serían. La Constitución de 1949 sancionada en la primera presidencia de Perón, delegaba al Congreso la facultad de definir la cantidad de ministerios Así, hubo 8 ministerios hasta la reforma constitucional de 1994, excepto durante la vigencia de la Constitución de 1949 sancionada en la primera presidencia de Perón, que delegaba al Congreso la facultad de definir la cantidad de ministerios. De cualquier manera, dicha reforma peronista fue dejada sin efecto durante la Revolución Libertadora. En la reforma de 1994 no solo se volvió a conferir al Congreso la decisión de definir la cantidad de ministerios, sino que, además, se agregó la figura del jefe de Gabinete, que no tenía antecedente alguno en la historia de la Argentina. Se terminó creando una institución sin ningún tipo de utilidad Lo que se pretendió en esa desdichada reforma constitucional de 1994 fue instaurar un elemento de los sistemas parlamentarios, creando una suerte de “primer ministro” similar a los existentes en ellos, pero se terminó creando una institución sin ningún tipo de utilidad, que lejos de asimilarse a la de un primer ministro al estilo europeo, lo convirtió en un “empleado calificado” del presidente de la Nación. Para avalar esta hipótesis, no hay más que analizar las atribuciones que la Ley Fundamental le asigna al jefe de Gabinete, tales como ejercer las potestades que “le delegue” el presidente; coordinar, preparar y convocar las reuniones de gabinete; resolver sobre las materias que “le indique” el Poder Ejecutivo; producir los informes que “le solicite” el Congreso; o enviar “personalmente” al Co",
-      "link": "https://www.lanacion.com.ar/opinion/sinceramiento-de-una-devaluada-institucion-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": ""
-    },
-    {
-      "id": "42036a1c4c7df8c92868",
-      "title": "El crecimiento económico como dilema",
-      "summary": "Robert Solow, economista estadounidense, consolidó una teoría del crecimiento económico rápidamente convalidada por los actores del mercado: el crecimiento material de una sociedad depende de su capacidad para renovar su capital, emplear maquinaria y multiplicar sus funciones productivas. Es decir, crecimiento por acumulación. Dicho esquema suponía resolver un problema anterior, como eran los requisitos financieros para renovar el stock, originando múltiples consideraciones centradas en el ahorro: la producción de beneficios y su atesoramiento con fines productivos (la función de la inversión). Habiendo demostrado cómo operan estas relaciones y su capacidad para multiplicar los bienes disponibles, el economista fue distinguido, en 1987, con el Premio Nobel de Economía. El diagrama de Solow-Swan, como se conoce a su teoría del crecimiento, predominó durante largos años, justificando el enfoque productivista, el elogio del ahorro y la función expansiva de la inversión. Quien lograra esto tendría resuelto, en gran medida, el camino al desarrollo. Con el correr del tiempo y la sofisticación del conocimiento, la preocupación cambió de eje. Comenzó a centrarse en la debilidad intrínseca del esquema: la erosión de los bienes de capital. Aun cuando al comienzo incorporar maquinaria fuese indispensable, su rendimiento tendería a decrecer (se desgastarían). La depreciación natural de estos bienes, que conocemos como estado estacionario, renovó la confianza en una serie de enfoques que definieron el rumbo hacia un nuevo paradigma: el predominio de la ciencia aplicada a la innovación. Prosperar, ahora, dependía de idear los bienes preferidos por el mundo Los países con mayor perspectiva de crecimiento serían aquellos que no solo obtuviesen maquinarias, sino quienes lograsen generar tecnologías compatibles con los cambios en las preferencias de la sociedad. Una plasticidad cultural sustentada en el conocimiento. La reconversión de las economías de stock en economías del conocimi",
-      "link": "https://www.lanacion.com.ar/opinion/el-crecimiento-economico-como-dilema-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/QULHAC7JZNHOFGN4GODAPSZ4UE.jpg?auth=24b5a7c5a967a89bea0f125a3050510d3203cdaf2dbe222c390d6ea9bb1dcaec&smart=true&width=800&height=533",
-      "subcat": "diseño"
-    },
-    {
-      "id": "73bf61a0e304c192d776",
-      "title": "Así están los cruces de octavos de final de la Copa Libertadores 2026",
-      "summary": "Los octavos de final de la Copa Libertadores 2026 transcurren esta semana los partidos de ida y en la primera jornada, este martes, se disputaron dos de los tres cotejos previstos por la Confederación Sudamericana de Fútbol (Conmebol). Todos los encuentros se puede seguir minuto a minuto en canchallena.com con información y estadísticas actualizadas al instante. En Brasil, Independiente Rivadavia de Mendoza pisó fuerte y rescató un empate sin goles ante Fluminense en el estadio Maracaná. En La Plata, Estudiantes no pudo con Universidad Católica de Chile y empardó 1 a 1. Deportes Tolima vs. Independiente del Valle de Ecuador se postergó a raíz del terremoto que afectó a Colombia. La instancia continuará este miércoles con Platense vs. Coquimbo, Palmeiras vs. Cerro Porteño y el duelo entre los brasileños Cruzeiro y Flamengo. El jueves será el turno de Rosario Central vs. Corinthians y de Mirassol vs. Liga de Quito. Resultados y cronograma de los octavos de final de la Copa Libertadores 2026 *Todos los horarios corresponden a la Argentina. Estudiantes de La Plata vs. Universidad Católica. Ida: 1-1. Vuelta: Martes 18 de agosto en el estadio Claro Arena. Rosario Central vs. Corinthians. Ida: Jueves 13 de agosto a las 21.30 en el estadio Gigante de Arroyito. Vuelta: Jueves 20 de agosto a las 21.30 en el estadio Neo Química. Cruzeiro vs. Flamengo. Ida: Miércoles 12 de agosto a las 21.30 en el estadio Mineirao. Vuelta: Miércoles 19 de agosto a las 21.30 en el Maracaná. Deportes Tolima vs. Independiente del Valle. Ida: Postergada por el terremoto en Colombia. Vuelta: A reprogramar. Mirassol vs. Liga de Quito. Ida: Jueves 13 de agosto a las 19 en el estadio José Maria de Campos Maia. Vuelta: Jueves 20 de agosto a las 19 en el estadio Rodrigo Paz Delgado. Palmeiras vs. Cerro Porteño. Ida: Miércoles 12 de agosto a las 19 en el estadio Nubank Parque Vuelta: Miércoles 19 de agosto a las 19 en el estadio La Nueva Olla. Platense vs. Coquimbo Unido. Ida: Miércoles 12 de agosto a las",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/asi-estan-los-cruces-de-octavos-de-final-de-la-copa-libertadores-2026-nid11082026/",
-      "pubDate": "Wed, 12 Aug 2026 02:57:40 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/OOFOL2TA4JE23HKXIL4BH7ZFPA.jpg?auth=a427aced6be007cefc7f8ca8a6b9440dedaa6b8715ab1bebefb236f35a44db4c&smart=true&width=3393&height=2262"
-    },
-    {
-      "id": "2dc63be2b41180108b34",
-      "title": "El duro golpe que obligó a Tiago Palacios a salir de la cancha en el partido de Estudiantes",
-      "summary": "El futbolista de Estudiantes Tiago Palacios sufrió un duro golpe este martes en el cruce ante Universidad Católica en el partido de ida de los octavos de final de la Copa Libertadores. El atacante uruguayo saltó a buscar una pelota y chocó su cabeza contra Jhojan Valencia , y debió ser sustituido con un importante moretón en su frente. A los 57 minutos, con el marcador 1-0 a su favor, el Pincha lanzó un lateral directo al área desde el costado derecho en busca del delantero Guido Carrillo . Sin embargo, la defensa del conjunto chileno despejó la pelota a través de dos cabezazos, aunque no logró quitar el peligro. En ese momento, Palacios buscó la pelota en el aire e intentó cabecearla en dirección al arco contrario. Valencia lo interceptó y despejó el balón lanzándolo al córner. En esa jugada, ambos futbolistas chocaron y terminaron heridos . TREMENDO: Tiago Palacios chocó cabezas con Valencia y la zona le quedó visiblemente inflamada. 📺 Mirá TODA la CONMEBOL #Libertadores por #DisneyPlus Plan Premium pic.twitter.com/dpNe22CxKo SportsCenter (@SC_ESPN) August 12, 2026 El jugador colombiano cayó directamente tras el golpe, mientras que Palacios se tomó la cabeza y se acostó en el césped para pedir atención médica. Tras ello, la cámara de la transmisión captó al mediocampista de Estudiantes y registró que el choque le produjo una dura marca en su frente. Mientras ambos futbolistas eran atendidos en el campo de juego, el entrenador del conjunto platense, Alexander “ Cacique ” Medina , mandó a entrar en calor a sus jugadores, principalmente a Joaquín Correa , ante una posible sustitución. A Valencia, por su parte, no le quedaron marcas tras el choque. Palacios se levantó, mientras los médicos le ponían hielo en la zona de la herida, y volvió al campo de juego para seguir en el partido. Medina, en tanto, decidió mantenerlo en la cancha, aunque sí cambió a Pérez, para que ingrese Correa. A pesar del golpe, el atacante continuó y tuvo injerencia en el juego: después de una ",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-duro-golpe-que-obligo-a-tiago-palacios-a-salir-de-la-cancha-en-el-partido-de-estudiantes-nid11082026/",
-      "pubDate": "Wed, 12 Aug 2026 02:56:19 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/6YNMH5MJ2NBMRLUKOXZMN3TW2Y.png?auth=492b621912f9139d2172d64d58b00d5b3d57214e699586af9d89fc7072d74a3d&smart=true&width=766&height=525"
-    },
-    {
-      "id": "84e75984cb2f3b3529f0",
-      "title": "La inesperada propuesta que recibió el Pollo Vignolo para convertirse en futbolista de Primera división",
-      "summary": "Sebastián Vignolo , conductor de la señal ESPN, se encuentra ante un desafío deportivo inédito a sus 51 años : debutar oficialmente como futbolista profesional . La propuesta, que generó un impacto inmediato en el ecosistema digital, proviene de Real Montevideo , una institución que milita en la Divisional D del fútbol uruguayo . La iniciativa fue orquestada por Valentín “El Scarso” Scarsini , conocido por hacer famoso a Tim Payne , quien aprovechó sus vínculos personales con la dirigencia del club para concretar el fichaje del comunicador . 😱 ¿LA VUELTA DEL @PolloVignolo AL FÚTBOL GRANDE? ▶️ Mirá #ESPNF90 en el Plan Premium de #DisneyPlus pic.twitter.com/Hfn514d8jk ESPN Argentina (@ESPNArgentina) August 11, 2026 Según relató el propio Scarsini en el ciclo ESPN F90 , la gestión fue un proceso reservado que se originó tras la cobertura del último Mundial de fútbol. “Yo estaba tranquilo y te tenía en carpeta. ¿Cómo podemos hacer para que el Pollo pueda jugar en algún lado? Esto vos no tenías ni idea, porque realmente no tenías ni idea de que yo estaba preparando esto . Fue todo oculto”, explicó El Scarso en la transmisión de ESPN. El influencer , que recientemente fue nombrado manager temporal de la entidad uruguaya, detalló que su amistad con el presidente del club facilitó las condiciones para formalizar el ofrecimiento deportivo . La posibilidad de este debut tiene antecedentes en las propias aspiraciones del periodista, ya que Vignolo había confesado su vocación frustrada en más de una ocasión , lo que provocó un momento viral donde Carlos “Cai” Aimar lo humilló en vivo. Tras recibir la oferta formal de Scarsini, quien le aseguró que la propuesta es “100% real” , el conductor confirmó su intención de iniciar una etapa de preparación física para estar a la altura del compromiso profesional. Real Montevideo le dio la bienvenida al Pollo Vignolo con su propio tema La competencia en la Divisional D uruguaya tiene fecha de inicio para el próximo 27 de agosto , jornada ",
-      "link": "https://www.lanacion.com.ar/deportes/la-inesperada-propuesta-que-recibio-el-pollo-vignolo-para-convertirse-en-futbolista-de-primera-nid11082026/",
-      "pubDate": "Wed, 12 Aug 2026 02:52:32 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/YL5AHP22V5FBJM6WQPNTAVCRII.jpg?auth=976a19db27d81e861d5494fbd32945d0c08a0a2dd6145278fbbec6024bb68390&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "2819655e3b6e119140d6",
-      "title": "Cómo liberar 10 GB de memoria en WhatsApp con una función oculta",
-      "summary": "WhatsApp es la plataforma de mensajería más popular del mundo ; sin embargo, la acumulación constante de fotos, videos y audios suele saturar la memoria interna del celular. Debido a que Meta guarda estos archivos directamente en el dispositivo y no en servidores externos, el rendimiento del teléfono se degrada con el tiempo. Debido a esto, la aplicación incluye una herramienta nativa que muy pocos conocen y puede liberar hasta 10 GB de espacio de forma rápida . Cómo usar el administrador de almacenamiento de WhatsApp Para ejecutar esta limpieza profunda y eliminar los archivos más pesados del teléfono, basta con seguir los siguientes pasos: Abrir WhatsApp y presionar los tres puntos superiores para ingresar a Ajustes . Seleccionar la opción Almacenamiento y datos . Tocar en Administrar almacenamiento . Revisar la sección de archivos que superan los 5 MB o ingresar a la pestaña Canales para borrar el contenido multimedia acumulado en esos espacios. Seleccionar los elementos innecesarios y presionar el ícono de basura para borrarlos. Cómo borrar la memoria caché en Android El caché guarda datos temporales para acelerar el acceso a la aplicación, pero su acumulación excesiva genera lentitud en el sistema operativo. La limpieza del caché no elimina chats ni fotos guardadas. Para borrarlo en Android: Ingresar a los Ajustes del teléfono. Entrar en la sección Aplicaciones y buscar WhatsApp . Seleccionar Almacenamiento . Presionar el botón Eliminar caché . Uno por uno: los trucos adicionales para ahorrar espacio Para evitar que el almacenamiento del smartphone se llene de nuevo con rapidez, conviene aplicar estas configuraciones preventivas dentro de la aplicación: Desactivar la descarga automática : desde el menú de almacenamiento, configurá la app para que fotos y videos solo se bajen de forma manual. Activar mensajes temporales : permite que los archivos y textos de un chat desaparezcan automáticamente tras 24 horas, 7 días o 90 días. Enviar contenido de una sola visual",
-      "link": "https://www.lanacion.com.ar/tecnologia/como-liberar-10-gb-de-memoria-en-whatsapp-con-una-funcion-oculta-nid11082026/",
-      "pubDate": "Wed, 12 Aug 2026 02:42:00 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/KPYSIRZPGNFHXPRJ43BCJSUPHY.jpg?auth=ba43f5dfa11b9d6592a7cad5ff8720cb4012101f3b8823adc24a35023a6643b2&smart=true&width=2000&height=1333"
     },
     {
       "id": "e5d6a8115e579d135e08",
@@ -1101,12 +1222,12 @@
     {
       "id": "2cb08238c41450a8ba9c",
       "title": "Jódar vence a Fils en dos sets y llega por primera vez a unas semifinales de Masters 1000",
-      "summary": "Rafael Jodar of Spain serves to Arthur Fils of France during quarterfinal tennis action at the National Bank Open in Montreal on Tuesday, Aug. 11, 2026. (Christinne Muschi /The Canadian Press via AP)",
+      "summary": "Rafael Jódar celebra su victoria ante Arthur Fils, en Montreal (Canadá) el 11 de agosto.",
       "link": "https://elpais.com/deportes/tenis/2026-08-11/jodar-vence-a-fils-en-dos-sets-y-llega-por-primera-vez-a-unas-semifinales-de-masters-1000.html",
       "pubDate": "Tue, 11 Aug 2026 21:28:49 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/JN7BIBFP2ZLLXCJB4BZFVI5LWY.jpg?auth=bab5f7af10c2401f463fe1b554c5ac622a4f6099737fc0dd974d88d8c171935b"
+      "image": "https://imagenes.elpais.com/resizer/v2/BFUS57L73FFDBKRY2QKGDEIUTU.jpg?auth=64d4d5b01bc0ecfb3f96b4052d705dc9671b15b4e4a8d7dc8b558f24b3bac61a"
     },
     {
       "id": "c43823a67c5ce3314b2c",
@@ -1280,56 +1401,6 @@
       "subcat": "desarrollo"
     },
     {
-      "id": "552de326caf062e7bd0a",
-      "title": "El Celta es optimista con la llegada de Exequiel Zeballos",
-      "summary": "Exequiel Zeballos",
-      "link": "https://www.marca.com/futbol/celta/2026/08/11/celta-optimista-llegada-exequiel-zeballos.html",
-      "pubDate": "Tue, 11 Aug 2026 19:35:19 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b5ca864fa1.jpeg"
-    },
-    {
-      "id": "106b6cae6a201a78f3c8",
-      "title": "El gran incendio de Mou: \"Se volvió loco, nos llamó a todos, nos dijo de todo...\"",
-      "summary": "Iker Casillas y Joseph Mourinho.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/11/mourinho-desvela-ocurrio-casillas-me-di-cuenta-estaban-consentidos.html",
-      "pubDate": "Tue, 11 Aug 2026 19:25:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b58f70c8d7.jpeg"
-    },
-    {
-      "id": "502c8e53085fe37b7a3d",
-      "title": "El Ayuntamiento de Tegueste rinde homenaje a Pedri",
-      "summary": "Tegueste rindió homenaje a Pedri, uno de los grandes referentes deportivos de su localidad. El Ayuntamiento de su pueblo quiso reconocer el éxito del centrocampista canario, que ha llevado el nombre de Tegueste por todo el mundo gracias a la conquista del Mundial.",
-      "link": "https://www.marca.com/futbol/seleccion/2026/08/11/ayuntamiento-tegueste-rinde-homenaje-pedr-video.html",
-      "pubDate": "Tue, 11 Aug 2026 19:21:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2024/12/12/N.jpeg"
-    },
-    {
-      "id": "40d667b4217688350b64",
-      "title": "Regalo de 30 millones para Arbeloa moldeado por Guardiola",
-      "summary": "Shea Charles posa como nueva jugador del Fulham",
-      "link": "https://www.marca.com/futbol/premier-league/2026/08/11/fichaje-30-kilos-arbeloa-moldeado-guardiola.html",
-      "pubDate": "Tue, 11 Aug 2026 19:17:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b590bc19ba.jpeg"
-    },
-    {
-      "id": "17bd3a84936ff928ad8a",
-      "title": "Marquinhos: \"Luis Enrique no nos deja dormirnos en los laureles\"",
-      "summary": "El PSG tiene claro que no quiere vivir de los éxitos del pasado y así lo transmite bajo las órdenes de Luis Enrique. El mensaje dentro del vestuario es contundente: los títulos ya conquistados forman parte de la historia y ahora toca volver a empezar para seguir haciendo historia. Aunque el equipo ha levantado numerosos trofeos esta temporada, la ambición no disminuye y el objetivo es seguir ganando, dejar su huella y conseguir que sus nombres queden grabados en cada título.",
-      "link": "https://www.marca.com/futbol/psg/2026/08/11/marquinhos-luis-enrique-deja-dormirnos-laureles-video.html",
-      "pubDate": "Tue, 11 Aug 2026 19:10:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/dLatY1gUrS8Yvn4D8.jpeg"
-    },
-    {
       "id": "b978acf4e928039241c9",
       "title": "Sturzenegger se sentó en la mesa política y sus proyectos deberán pasar ahora por el filtro de Karina",
       "summary": "El ministro participó como invitado de la reunión de este martes, convocada después del traspié en el Senado. El Gobierno decidió incorporar una evaluación política a sus reformas antes de avanzar y repasó la agenda legislativa junto con la estrategia para sostener el vínculo con los gobernadores. Federico Sturzenegger se sent este martes a la mesa pol tica de la Casa Rosada y sali de all con una nueva regla para sus reformas. A partir de ahora, los proyectos que impulse el ministro de Desregulaci n deber n atravesar esa instancia antes de convertirse en prioridades del Gobierno , una decisi n que busca incorporar un filtro pol tico al circuito pr cticamente directo que durante los ltimos dos a os mantuvo con Javier Milei. La presencia de Sturzenegger fue la principal novedad de una reuni n encabezada por Karina Milei y convocada para ordenar la agenda despu s del traspi que sufri el oficialismo la semana pasada en el Senado. Alrededor de la mesa estuvieron tambi n el jefe de Gabinete, Diego Santilli ; su segundo, Ignacio Devitt ; el asesor Santiago Caputo ; el ministro de Econom a, Luis Caputo ; la titular del bloque libertario del Senado, Patricia Bullrich ; el presidente de la C mara de Diputados, Mart n Menem ; el secretario de Comunicaci n, Fabi n Fern ndez ; y el subsecretario de Gesti n Institucional, Eduardo Lule Menem . La mesa política de La Libertad Avanza y su elenco estable. Sturzenegger lleg como invitado, no como nuevo integrante permanente. Pero su incorporaci n tuvo un significado particular despu s de los cuestionamientos que comenzaron a acumularse alrededor de algunas de sus iniciativas . La decisi n que surgi del encuentro apunta precisamente a modificar una din mica que durante buena parte de la gesti n fue tolerada por las distintas terminales del oficialismo: el ministro dise a reformas con su equipo, las conversa directamente con Milei y, cuando obtiene su aprobaci n, avanza sin que necesariamente exista antes una evaluaci n sobre su viabili",
@@ -1338,16 +1409,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/8ef4654c-2654-4470-ab23-0d9d6e7fd586_16-9-discover-aspect-ratio_default_0_x854y352.jpg"
-    },
-    {
-      "id": "2988dd34b94334a33e2f",
-      "title": "Así ha quedado el ranking tras el primer semestre",
-      "summary": "El ranking a mitad de temporada.",
-      "link": "https://www.marca.com/padel/2026/08/11/asi-quedado-ranking-premier-padel-media-temporada-numero-finals-caidas-subidas.html",
-      "pubDate": "Tue, 11 Aug 2026 19:06:04 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b34f071079.jpeg"
     },
     {
       "id": "eb29c6088fb9aeaaa890",
@@ -1370,16 +1431,6 @@
       "image": "https://static.eldiario.es/clip/ff250cfc-13db-4250-b220-2ece81931986_16-9-discover-aspect-ratio_default_0_x814y389.jpg"
     },
     {
-      "id": "93dc08cf9e81155530a4",
-      "title": "Un organismo oficial de Marruecos acusa a la policía española de infligir “malos tratos y agresiones” a los migrantes en Ceuta",
-      "summary": "Militares dan apoyo a efectivos de la Policía Nacional al lado de una comisaría en la que un grupo de menores espera para ser filiado, este lunes en Ceuta.",
-      "link": "https://elpais.com/espana/2026-08-11/un-organismo-de-marruecos-acusa-a-la-policia-espanola-de-propinar-malos-tratos-y-agresiones-a-los-emigrantes-en-ceuta.html",
-      "pubDate": "Tue, 11 Aug 2026 18:54:25 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/WUUDGAIAYBIZJPTM7GNCCVWQSA.jpg?auth=887220f08a5952c8a76a70a49b9cf407f2bbaff840ed5779746f126eaafa6f9f"
-    },
-    {
       "id": "6fb9646741edafc054b4",
       "title": "Filtrada la Nintendo Switch 2 especial por los 40 años de ‘Zelda’: querrás tenerla en tu sala",
       "summary": "Una Nintendo Switch 2 especial por los 40 años de The Legend of Zelda está en camino y su diseño se acaba de filtrar. Según ha publicado @necrolipe en X (Twitter) , la compañía japonesa se prepara para lanzar una versión alegórica de la consola que celebra las cuatro décadas de vida de la icónica saga. Lo mismo sucederá con el Pro Controller, de acuerdo con lo que se ha podido ver . El citado leaker ha publicado varias fotos del empaque de la Nintendo Switch 2 y el Pro Controller con diseños especiales por los 40 años de Zelda . Las imágenes de las cajas permiten apreciar la estética de los dispositivos, aunque de momento no se los ha podido ver en la vida real. Es evidente que la filtración solamente abarca al packaging y no a los productos propiamente dichos. Esto queda en claro al ver que las cajas están plegadas y que todavía no se han usado para guardar la Nintendo Switch 2 o el Pro Controller. Aun así, el material de embalaje aparenta legítimo y coincide con lo que se comentaba en filtraciones previas. Respecto de los dispositivos en sí mismo, la Nintendo Switch 2 alegórica por los 40 años de Zelda es de color verde, con algunos detalles en dorado. Lo que en verdad destaca es el dock en negro y dorado con el símbolo de la Trifuerza . VAZA encarte do Nintendo Switch 2 temático de Zelda (40 Anos) pic.twitter.com/4cmTceyxeb 'Necro' Felipe #UnivNintendo (@necrolipe) August 11, 2026 Un diseño similar se observa en el Pro Controller, donde las empuñaduras son verdes y negras, mientras que el resto del frontal presenta un patrón con dorado muy bonito. En otra foto compartida se observa en la parte trasera del mando un guiño al Zelda original, de la NES, con un dibujo de Link lanzando su espada. Mais ângulos (e encartes) do encarte para o Nintendo Switch 2 Pro Controller - The Legend of Zelda 40th Anniversary Edition https://t.co/nRJmlPwxWw pic.twitter.com/RiCOSEiZto 'Necro' Felipe #UnivNintendo (@necrolipe) August 11, 2026 La Nintendo Switch 2 por los 40 años de Zeld",
@@ -1400,26 +1451,6 @@
       "image": "https://static.eldiario.es/clip/9f6dcac5-bd37-4597-9fa6-1378a14d018e_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "77ca2526881ad9e9989b",
-      "title": "Rosalía tira de ironía para hablar de las relaciones abiertas: \"Un novio cada noche\"",
-      "summary": "Rosalía, en una imagen de archivo.",
-      "link": "https://www.marca.com/tiramillas/musica/2026/08/11/rosalia-tira-ironia-confesionario-ultimo-concierto-brasil-hablar-relaciones-abiertas-novio-noche.html",
-      "pubDate": "Tue, 11 Aug 2026 18:11:02 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b48c55b547.jpeg"
-    },
-    {
-      "id": "8e025ee15daedf9bc20a",
-      "title": "El problema infinito de Xabi",
-      "summary": "Los nueve delanteros del Chelsea: Welbeck, Delap, Nico Jackson, Marc Guiu, Emegha, Satpaev, Datro Fofana y Mheuka",
-      "link": "https://www.marca.com/futbol/premier-league/2026/08/11/9-tiende-infinito-chelsea.html",
-      "pubDate": "Tue, 11 Aug 2026 18:06:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/07/6a75adf608c52.jpeg"
-    },
-    {
       "id": "3bbe0bdf0c1341ed0203",
       "title": "El empresario cripto Novelli dijo que los inversores de $LIBRA no fueron estafados y defendió a Milei ante la Justicia",
       "summary": "El principal acusado en la causa sostuvo que quienes compraron el activo asumieron voluntariamente un riesgo de mercado y perdieron dinero. Habló del posteo del Presidente que promocionó el negocio virtual. El empresario cripto Mauricio Novelli , uno de los organizadores del lanzamiento de la memecoin $LIBRA , pidi a la C mara Federal que confirme el apartamiento como querellantes de cinco inversores y sostuvo que quienes compraron el activo no fueron estafados , sino que asumieron voluntariamente un riesgo de mercado y perdieron dinero. En una presentaci n patrocinada por el abogado Daniel Rubinovich, Novelli afirm adem s que el emprendimiento fue exclusivamente privado y desvincul al presidente Javier Milei de cualquier responsabilidad penal por el mensaje que public en la red X el 14 de febrero de 2025 para anunciar el lanzamiento de $LIBRA. La presentaci n fue realizada ante la Sala I de la C mara Federal, que debe resolver si cinco inversores mantienen o recuperan su condici n de querellantes en la causa. Se trata de Juan Marchetto, Alan Vega, Mat as Paris, Braian Quintero y Mart n Romeo. La defensa de Novelli reclam que se confirme la decisi n del juez federal Marcelo Mart nez de Giorgi , quien hab a apartado a esos inversores del expediente al considerar que no correspond a que continuaran ejerciendo el rol de querellantes. Seg n el escrito, el caso se transform en un intento vano de transformar ex post una p rdida especulativa en una maniobra defraudatoria . Rubinovich sostuvo que no existe una hip tesis de estafa que justifique que los inversores contin en como parte querellante y record que el derecho penal argentino no sanciona las p rdidas especulativas, las malas decisiones financieras ni la volatilidad de un activo. Para que exista una estafa, argument , es necesario un enga o id neo para provocar un error y determinar una disposici n patrimonial perjudicial . Mauricio Novelli y algunas imágenes de sus redes sociales, dos de ellas, junto a Javier Milei",
@@ -1438,16 +1469,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Batman-y-Jeffrey-Dean-Morgan.jpg"
-    },
-    {
-      "id": "9605dc694f20586a8f7a",
-      "title": "Duralavita #12 | Jorge Martín brilla en Silverstone. Márquez, fuera del podio del GP de Gran Bretaña",
-      "summary": "El pódcast donde el motor se cuenta sin filtros emite un nuevo episodio (18:00 horas, MARCA) dentro de la temporada 2026 de MotoGP para analizar todo lo ocurrido en el Gran Premio de Gran Bretaña. Suscríbete al canal de Marca para no perderte más vídeos AQUÍ : https://bit.ly/2J0YIm6 ✔️ Visita marca.com: https://www.marca.com/ ✔️ INSTAGRAM: https://www.instagram.com/marca/ ✔️ FACEBOOK: https://www.facebook.com/MARCA/ ✔️ TWITTER: https://twitter.com/marca ✔️ TWITTER: https://twitter.com/radiomarca #MARCA #Actualidad #Noticias",
-      "link": "https://www.marca.com/motor/2026/08/11/duralavita-12-jorge-martin-brilla-silverstone-marquez-fuera-podio-gp-gran-bretana-video.html",
-      "pubDate": "Tue, 11 Aug 2026 18:00:04 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/OFHznxsBcU.jpeg"
     },
     {
       "id": "6e46c25d4381c4c51b99",
@@ -1948,7 +1969,7 @@
     {
       "id": "b18dfd33bb70e19ed577",
       "title": "Cómo impacta en el ser humano un eclipse solar total",
-      "summary": "Mañana 12 de agosto, justo antes del atardecer, una franja de la Península Ibérica presenciará el primer eclipse solar total en más de 120 años . Para la mayoría de personas será una ocasión única de verlo en directo. Para un grupo de investigadores, es una oportunidad excepcional de registrar la reacción del ser humano ante este fenómeno astronómico. Los eclipses solares se producen cuando la Luna oculta al Sol visto desde la Tierra. Son poco frecuentes porque la sincronización de la luna nueva con la alineación de la Luna, el Sol y un observador en la Tierra tiene que ser exacta. Como la órbita lunar tiene más de cinco grados de inclinación, su sombra no es capaz de cubrir la Tierra. Además, la excentricidad de la órbita de la Luna a menudo lleva a esta lo bastante lejos de la Tierra como para que su diámetro angular no sea lo suficientemente grande como para bloquear al Sol por completo. La mayoría de los eclipses solares son parciales o anulares. La totalidad solo se produce a lo largo de un estrecho camino sobre la superficie de la Tierra trazado por la sombra lunar y requiere lo citado, que la alineación coincida con la luna nueva y que ésta se encuentre muy cerca del plano de la eclíptica. Ese estrecho camino, llamado banda de totalidad, solo podrá verse este 12 de agosto en España , Groenlandia e Islandia, y se repetirá, incluso con mayor magnitud y zonas de visión, el año próximo (2 de agosto de 2027). España será un lugar privilegiado porque podrá observar un tercer eclipse seguido el 26 de enero de 2028, si bien en este caso será un eclipse anual. Información y precauciones Si eres aficionado o sientes curiosidad, seguro que estarás preparado. Buenas fuentes de información son el Observatorio Astronómico Nacional o la página web Treseclipses , donde podrás ver la banda de totalidad, comparar la trayectoria solar, el horizonte real e incluso accesos o restricciones de tráfico en cada ubicación desde donde quieras verlo. Dispone de un simulador gratuito muy",
+      "summary": "Mañana 12 de agosto, justo antes del atardecer, una franja de la Península Ibérica presenciará el primer eclipse solar total en más de 120 años . Para la mayoría de personas será una ocasión única de verlo en directo. Para un grupo de investigadores, es una oportunidad excepcional de registrar la reacción del ser humano ante este fenómeno astronómico. Los eclipses solares se producen cuando la Luna oculta al Sol visto desde la Tierra. Son poco frecuentes porque la sincronización de la luna nueva con la alineación de la Luna, el Sol y un observador en la Tierra tiene que ser exacta. Como la órbita lunar tiene más de cinco grados de inclinación, su sombra no es capaz de cubrir la Tierra. Además, la excentricidad de la órbita de la Luna a menudo lleva a esta lo bastante lejos de la Tierra como para que su diámetro angular no sea lo suficientemente grande como para bloquear al Sol por completo. La mayoría de los eclipses solares son parciales o anulares. La totalidad solo se produce a lo largo de un estrecho camino sobre la superficie de la Tierra trazado por la sombra lunar y requiere lo citado, que la alineación coincida con la luna nueva y que ésta se encuentre muy cerca del plano de la eclíptica. Ese estrecho camino, llamado banda de totalidad, solo podrá verse este 12 de agosto en España , Groenlandia e Islandia, y se repetirá, incluso con mayor magnitud y zonas de visión, el año próximo (2 de agosto de 2027). España será un lugar privilegiado porque podrá observar un tercer eclipse seguido el 26 de enero de 2028, si bien en este caso será un eclipse anual. Información y precauciones Si eres aficionado o sientes curiosidad, seguro que estarás preparado. Buenas fuentes de información son el Observatorio Astronómico Nacional o la página web Treseclipses , donde podrás ver la banda de totalidad, comparar la trayectoria solar, el horizonte real e incluso los accesos o restricciones de tráfico en cada ubicación desde donde quieras verlo. Dispone de un simulador gratuito",
       "link": "https://www.muycomputer.com/2026/08/11/como-impacta-en-el-ser-humano-un-eclipse-solar-total/",
       "pubDate": "Tue, 11 Aug 2026 07:37:48 +0000",
       "source": "MuyComputer",
@@ -1985,16 +2006,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/06/Backrooms-2026.jpg"
-    },
-    {
-      "id": "83c01d0af056e404471c",
-      "title": "Mel Gibson revela detalles de la trama de Arma Letal 5",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Mel Gibson no ha renunciado a Arma Letal 5 . Casi tres décadas después de la última aventura de Riggs y Murtaugh , el actor ha revelado cómo sería la nueva película, por qué quiere dirigirla y asegura que el guion podría ser incluso mejor que los cuatro anteriores. Mel Gibson asegura que Arma Letal 5 tiene el mejor guion de la saga Arma Letal 5 lleva tantos años entrando y saliendo de conversaciones que parecía condenada a convertirse en una de esas secuelas que Hollywood anuncia eternamente pero nunca rueda. Mel Gibson, sin embargo, sigue decidido a reunir a Martin Riggs y Roger Murtaugh y ahora ha ofrecido uno de los avances más completos hasta la fecha sobre el proyecto durante la Fan Expo Boston. En declaraciones a Collider , Mel Gibson recordó primero qué diferenciaba a la película original de buena parte del cine de acción de los años 80. Richard Donner y Shane Black entendieron que detrás de los disparos, persecuciones y explosiones había dos tipos bastante más rotos de lo que acostumbraba el género. “Donner se dio cuenta. Creo que hizo todas esas películas y, tristemente, ya ha fallecido. Pero sabía más o menos lo que tenía entre manos, y Shane Black escribió un buen guion. Era muy de su momento, ya sabes, eran los 80. Estábamos acostumbrados a esos tipos duros del cine que parecían tenerlo todo bajo control, pero eran duros y bastante bidimensionales en muchos sentidos. Esta era mejor porque los dos protagonistas de la historia tenían vulnerabilidades; uno estaba loco y el otro tenía miedo, y profundizaba un poco más que la típica película de acción”. Esa filosofía es precisamente la que Gibson y el guionista Richard Wenk han intentado conservar. Donner estaba trabajando en una quinta entrega antes de morir en 2021 y, tras su fallecimiento, ambos decidieron terminar lo que había empezado. “Había cosas buenas en cada una, pero, como dices, muchas veces tienden a diluirse. Donner, cuando tenía 90 a",
-      "link": "https://www.cinemascomics.com/mel-gibson-detalles-trama-de-arma-letal-5/",
-      "pubDate": "Tue, 11 Aug 2026 03:10:00 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Mel-Gibson-Arma-Letal-5.jpg"
     },
     {
       "id": "622f3bb9d89fd8497955",
@@ -2151,17 +2162,6 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/SNMLIVSP6RLGFGLK43EKRDKUYM.jpg?auth=2ddfe55149a5026e0ae010c0b620595476a84d1294a611ab9fa59356f6eea7af"
-    },
-    {
-      "id": "c0ca0724727ed90ad17d",
-      "title": "Los mejores contenidos de la semana en MuyComputer (DXXXVI)",
-      "summary": "Aprovechamos el final del domingo para compartir con vosotros un nuevo repaso a los mejores contenidos que hemos publicado durante esta semana en MC. Que tengáis un buen inicio de semana. Evolución del trazado de rayos: la tecnología que diferenció el gaming en PC del gaming en consola . El trazado de rayos no es una tecnología nueva. No me voy a remontar a la fecha histórica del nacimiento de esta tecnología porque, francamente, no tiene interés en un artículo como este, pero en este artículo sí que encontraréis un repaso a su evolución en las últimas dos décadas, porque fue en 2004 cuando se utilizó pro primera vez en un juego: Quake II Arena. Siete ajustes de Windows para mejorar el rendimiento en juegos PC . El usuario que pretenda mejorar el rendimiento en juegos PC tendrá que aumentar el nivel de hardware del equipo que use. Aquí hay pocas soluciones milagrosas a las que acudir. Sin embargo, una correcta configuración del sistema operativo ajustando determinadas funciones siempre ayudará a extraer el máximo potencial de la computadora. En este artículo os contamos todo lo que debéis saber para lograrlo. GEEKOM IT13 Max análisis completo . El GEEKOM IT13 Max es un mini PC que, a priori, destaca por tener una relación muy equilibrada en relación precio-coste, ya que podemos conseguirlo por 799 euros, aunque añadiendo el cupón «MUYIT13M» sin comillas el precio baja a 735,08 euros, una cifra que hace que resulte todavía más interesante, ¿pero realmente vale la pena pagar ese dinero por este mini PC? En este artículo te contamos todo lo que debes saber. Citröen e-C5 Aircross, suelas. El Citroën ë-C5 Aircross llega para ocupar la posición de buque insignia dentro de la gama de la marca francesa para enfrentar un mercado que se ha endurecido en su segmento, por encima del C3 Aircross y del ë-C4, y se convierte en el modelo llamado a demostrar que Citroën puede competir en el segmento de los SUV familiares grandes sin renunciar a su seña de identidad histórica, el con",
-      "link": "https://www.muycomputer.com/2026/08/09/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxvi/",
-      "pubDate": "Sun, 09 Aug 2026 15:12:45 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/resident-evil-requiem-con-trazado-de-rayos-completo-y-sin-rt-portada-180x129.jpg",
-      "subcat": "mercado"
     },
     {
       "id": "4e37943b695c3ad245c6",
@@ -2715,7 +2715,7 @@
       "title": "Segunda noche de búsqueda de sobrevivientes en Colombia tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
       "summary": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente Abelardo de la Espriella decretó desastre nacional para actuar ante el sismo catalogado como el más fuerte de la última década en el país.",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-12T05:39:39.533218+00:00",
+      "pubDate": "2026-08-12T07:14:36.523884+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8edc/live/f4e41500-95ba-11f1-a556-013790f38050.png"
@@ -2807,5 +2807,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-12T05:40:15.208854+00:00"
+  "updated": "2026-08-12T07:15:05.787160+00:00"
 }
