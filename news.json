@@ -1,6 +1,146 @@
 {
   "articles": [
     {
+      "id": "486c21e54bcc32f327e3",
+      "title": "Makhachev, sobre Topuria: \"Si se centra, puede ser campeón otra vez\"",
+      "summary": "Ilia Topuria e Islam Makhachev.",
+      "link": "https://www.marca.com/combates-ufc/2026/08/12/makhachev-sobre-topuria-centra-campeon-vez.html",
+      "pubDate": "Wed, 12 Aug 2026 11:01:55 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/11/18/691ccbe9342ee.jpeg"
+    },
+    {
+      "id": "669a0d0d85c4f66a00fc",
+      "title": "Julián, como '9' del Atlético",
+      "summary": "Mes y medio después de sus palabras acerca de su deseo de salir del Atlético, las posturas no han cambiado un ápice",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/12/julian-ensaya-9-atletico.html",
+      "pubDate": "Wed, 12 Aug 2026 10:59:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/dMcnc1gV2pBG2bdat.jpeg"
+    },
+    {
+      "id": "16f731c5b33887a1ad7e",
+      "title": "Elena Buenavida llega a la WNBA",
+      "summary": "Elena Buenavida, en un partido del Valencia Basket.",
+      "link": "https://www.marca.com/baloncesto/2026/08/12/elena-buenavida-llega-wnba.html",
+      "pubDate": "Wed, 12 Aug 2026 10:54:43 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c3253d2911.jpeg"
+    },
+    {
+      "id": "0c2d23c456f0f22b6cb7",
+      "title": "El precioso homenaje del PSG a Fabián",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/2026/08/12/precioso-homenaje-psg-fabian-video.html",
+      "pubDate": "Wed, 12 Aug 2026 10:33:29 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c2fcf7ae02.png"
+    },
+    {
+      "id": "da31d4a3f3854ad9598f",
+      "title": "El Rayo hace oficial la salida de Pep Chavarría al Chelsea por 21+3 milliones",
+      "summary": "El club madrileño dio luz verde al traspaso hace una semana",
+      "link": "https://www.marca.com/futbol/rayo/2026/08/12/rayo-oficial-salida-pep-chavarria-chelsea.html",
+      "pubDate": "Wed, 12 Aug 2026 10:19:49 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c2aae6aa6a.jpeg"
+    },
+    {
+      "id": "06dbfad0097b09e59c7b",
+      "title": "El mensaje de Jorge Martín a los que dudan por su fichaje por Yamaha",
+      "summary": "Jorge Martín, en el podio de Silverstone.",
+      "link": "https://www.marca.com/motor/motogp/gp-gran-bretana/2026/08/12/mensaje-jorge-martin-dudan-fichaje-yamaha-2024-decian-aprilia-desastre.html",
+      "pubDate": "Wed, 12 Aug 2026 10:12:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c283415390.jpeg"
+    },
+    {
+      "id": "7872c89322afcbf2a3c9",
+      "title": "Los 20 chollos: un jugador de cada equipo para tu Fantasy",
+      "summary": "Los 20 chollos de la temporada para el movistar Fantasy MARCA",
+      "link": "https://www.marca.com/radio/2026/08/12/20-chollos-jugador-equipo-fantasy.html",
+      "pubDate": "Wed, 12 Aug 2026 10:12:10 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c2acd19090.png"
+    },
+    {
+      "id": "56d9bec3d9e63753c8f3",
+      "title": "Sergio Ramos se machaca en su picadero: \"Otro día en la oficina\"",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/2026/08/12/sergio-ramos-machaca-picadero-dia-oficina-video.html",
+      "pubDate": "Wed, 12 Aug 2026 10:09:51 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c29cc362a7.png"
+    },
+    {
+      "id": "21c0070949c0d24c72bc",
+      "title": "El detallazo de Baena con Griezmann: \"¿Te gusta el outfit?\"",
+      "summary": ".",
+      "link": "https://www.marca.com/futbol/2026/08/12/detallazo-baena-griezmann-te-gusta-outfit-video.html",
+      "pubDate": "Wed, 12 Aug 2026 10:03:35 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c279a3d7e4.png"
+    },
+    {
+      "id": "63837e38e40e6b185195",
+      "title": "Scholes pide al United hacer un 'hijack' por el Cuti Romero para que no se vaya al Atlético",
+      "summary": "Casemiro y Cuti Romero en un duelo entre el United y el Tottenham del curso 25/26",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/12/scholes-pide-manchester-united-hijack-cuti-romero.html",
+      "pubDate": "Wed, 12 Aug 2026 09:57:15 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c273299bc0.jpeg"
+    },
+    {
+      "id": "988f5bf448e5134993ce",
+      "title": "Vía libre para Ferran",
+      "summary": "Ferran Torres",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/12/vuelven-internacionales-barca-ferran-torres.html",
+      "pubDate": "Wed, 12 Aug 2026 09:39:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7af696dcb8b.jpeg"
+    },
+    {
+      "id": "4185fe19efafd9deddbc",
+      "title": "Audi Q7 2026: conducimos un icono que sigue aguantando el tirón",
+      "summary": "El Q7 de momento solo llegará a nuestro mercado en versiones diésel.",
+      "link": "https://www.marca.com/coches-y-motos/coches/2026/08/12/audi-q7-2026-conducimos-icono-sigue-aguantando-tiron.html",
+      "pubDate": "Wed, 12 Aug 2026 09:32:24 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b1a3734def.jpeg"
+    },
+    {
+      "id": "2d759df919a5f002c13d",
+      "title": "Nueva oferta del Barça por Rodri",
+      "summary": "Sigue en directo todas las novedades del mercado",
+      "link": "https://www.marca.com/futbol/mercado-fichajes/2026/08/12/6a7c19b8b364eacdc89016d6.html",
+      "pubDate": "Wed, 12 Aug 2026 09:14:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/17865188355943.jpeg"
+    },
+    {
+      "id": "bf083d064f9d5dc1bf3b",
+      "title": "Las GeForce RTX 50 han subido de precio: una RTX 5060 ya cuesta más de 450 euros",
+      "summary": "Hace cosa de una semana os avisamos de que las GeForce RTX 50 habían empezado a subir de precio, y que la subida era de hasta un 49% en determinados modelos. Esa primera subida afectó al mercado asiático, y especialmente a Japón, China y Corea del Sur, pero ya os dije que era solo cuestión de tiempo hasta que los precios acabaran subiendo también en España. Esta previsión se ha cumplido, y por desgracia esta vez sí que estamos ante una subida de precio grande y general , es decir, afecta a todos los modelos de la serie GeForce RTX 50, sin excepción. En este artículo voy a repasar con vosotros cómo ha subido el precio con respecto a lo que teníamos hasta hace solo unas semanas, es decir, durante el pasado mes de julio. Así quedan los precios de las GeForce RTX 50 tras la última subida GeForce RTX 5050 Esta tarjeta gráfica se podía comprar a partir de 270 euros, pero su precio ha sido subiendo y ahora mismo se ha colocado entre los 330 y los 340 euros en los modelos más baratos. Es una tarjeta gráfica que rinde, a grandes rasgos, como una GeForce RTX 4060. Porcentaje de subida: 22,22%. GeForce RTX 5060 Uno de los modelos de gama entrada a gama media que menos había sufrido la crisis ahora ya no se libra. Ha pasado de costar entre 300 y 330 euros a tener un precio de casi 460 euros . Por suerte, al momento de escribir este artículo he encontrado una unidad por 377,99 euros, que os dejo enlazada aquí mismo . Porcentaje de subida: 39,39%. GeForce RTX 5060 Ti de 8 GB y de 16 GB El modelo de 8 GB ha pasado de costar 379 euros (precio normal, sin ofertas) a subir a 488 euros . La versión de 16 GB costaba 450 euros en su lanzamiento, pero subió a 560 euros, y ahora ha vuelto a subir a los 789,99 euros , una auténtica locura que hace que esta tarjeta gráfica no tenga ningún sentido. Porcentaje de subida: un 28,76% el modelo de 8 GB y un 41,07% el modelo de 16 GB. GeForce RTX 5070 Llegó a estar disponible por 549 euros con ofertas, pero lo normal era que su precio rondase los ",
+      "link": "https://www.muycomputer.com/2026/08/12/las-geforce-rtx-50-han-subido-de-precio-una-rtx-5060-ya-cuesta-mas-de-450-euros/",
+      "pubDate": "Wed, 12 Aug 2026 09:03:41 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/PNY-GeForce-RTX-5070-Slim-OC-3.jpeg"
+    },
+    {
       "id": "062e319322b68a54d382",
       "title": "Colapinto estalla: \"¿Quién pensaría que los italianos le robarían todo a un latino?\"",
       "summary": "Franco Colapinto, en Italia.",
@@ -21,6 +161,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7ae56c3fa43.jpeg"
     },
     {
+      "id": "d80354041328540223b9",
+      "title": "Eclipse solar total 2026: mapa y trayectoria completa en España",
+      "summary": "(ANSA).- En tren, barco, tranvía o mar. No faltan opciones (incluso originales) para admirar el eclipse solar total mientras se viaja. Este será el primer eclipse solar total en Europa desde 1999 , excluyendo los de 2006 y 2015. Será visible el 12 de agosto desde gran parte de Europa, el noroeste africano y América del Norte. Dónde ver el eclipse en España: los mejores lugares La búsqueda del fenómeno astronómico del verano de 2026 ya está en marcha, y el objetivo es conseguir un lugar privilegiado para disfrutar del evento, que, en algunas zonas del Mediterráneo, incluyendo la costa occidental de España y las Islas Baleares , durará aproximadamente un minuto y cuarenta segundos. Para disfrutar del eclipse desde uno de los miradores más espectaculares del Tirol del Sur , puede llegar a la cima del Plan de Corones, a 2275 metros sobre el nivel del mar, en teleférico desde Riscone, que le lleva directamente a la cumbre. También en la cima, el Museo Lumen y el Museo MMM Corones estarán abiertos para la ocasión de 18:00 a 22:00 (última entrada a las 21:30), invitándole a un fascinante viaje de descubrimiento sobre la fotografía de montaña y el alpinismo. Para la Península Ibérica , el único territorio europeo desde el que se puede observar un eclipse solar total, visible poco antes del atardecer desde las regiones del norte hasta las Islas Baleares, Omio, la plataforma líder mundial para la reserva de viajes multimodales, ha elaborado el Öndice Eclipse de Omio. Esta clasificación de los mejores destinos para observar el fenómeno tiene en cuenta la fiabilidad meteorológica, el patrimonio cultural y las buenas conexiones de transporte. Quienes deseen disfrutar de un eclipse perfecto deben dirigirse al corazón de Aragón , donde Zaragoza ocupa el primer lugar en el Öndice de Eclipses de Omio con una puntuación de 88 sobre 100 gracias a su excelente combinación de transporte rápido y visibilidad del cielo. La ciudad garantiza 1 minuto y 24 segundos de totalidad. El telón de ",
+      "link": "https://www.lanacion.com.ar/ciencia/eclipse-solar-total-2026-mapa-y-trayectoria-completa-en-espana-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 08:53:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/C2NYST74JFB5PLVQJIOLZSACGQ.jpg?auth=408730dec75c62e6b62ff3ce7cc0b07f51c53b9da0ba556062ff34f6cea14839&smart=true&width=2000&height=1333"
+    },
+    {
       "id": "076d5aad4e1ad6763d2e",
       "title": "El supuesto cambio físico de Jenna Ortega, actriz de 'Miércoles', que tiene a sus fans en vilo: \"¿Qué pasó?\"",
       "summary": "El supuesto cambio físico de Jenna Ortega, la actriz de la serie 'Miércoles', que tiene a sus fans en vilo",
@@ -29,6 +179,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c17cbafc42.jpeg"
+    },
+    {
+      "id": "bf8639905e29c9965cd5",
+      "title": "Zelenski se mete en el avispero de Kosovo: ¿cuáles son sus motivos?",
+      "summary": "La semana pasada, el líder del régimen ucraniano realizó su primera visita a Serbia, donde se reunió con el presidente Aleksandar Vucic.",
+      "link": "https://actualidad.rt.com/actualidad/621862-zelenski-mete-avispero-kosovo-cuales?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 08:48:45 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c1c5c59bf5b3b406c1786.jpg"
     },
     {
       "id": "3ef10c9ecbc0f5a93771",
@@ -41,6 +201,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/17/6a5a294663ccb.jpeg"
     },
     {
+      "id": "8bec8fbc184258bfe159",
+      "title": "\"Una verdadera historia de terror\": 'influencer' graba sismo desde aeropuerto en Colombia",
+      "summary": "\"Por un momento pensé que hasta aquí llegué\", confesó en redes sociales.",
+      "link": "https://actualidad.rt.com/actualidad/621869-verdadera-historia-terror-influencer-graba-sismo-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 08:39:25 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c2437e9ff715a9619eb5c.jpg"
+    },
+    {
+      "id": "8bf779ae65f77d627a9c",
+      "title": "Google anuncia importante expansión de infraestructura en las Américas",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621875-google-anunciar-importante-expansion-infraestructura-americas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 08:36:53 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
       "id": "5066014b3cc69aa58668",
       "title": "Hallan 86 kilos de marihuana en el autobús que iba a trasladar al São Paulo en Bolivia",
       "summary": "Autobús sao paulo en bolivia.",
@@ -49,6 +229,86 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c130894cf0.jpeg"
+    },
+    {
+      "id": "1821c25956d97af96115",
+      "title": "A qué hora es el Eclipse Solar Total en Madrid hoy, miércoles 12 de agosto",
+      "summary": "El elipse solar total de este miércoles 12 de agosto es visible desde Estados Unidos , Canadá , Europa y el noroeste de África. Mientras que millones de personas observarán un eclipse parcial, una estrecha franja que cruza Groenlandia, Islandia, el norte de España y el noroeste de Portugal presenciará la totalidad. Ante esta razón, surge la duda de a qué hora este espectáculo astronómico tendrá su punto de plenitud en Madrid, una de las ciudades convertidas en el escenario ideal para disfrutarlo. A qué hora es el eclipse en Madrid El eclipse solar podrá contemplarse en 93 de los 179 municipios de la Comunidad de Madrid, aunque únicamente 40 de ellos gozarán de una visibilidad del 100%. El fenómeno comenzará a desplegarse a partir de las 19:30 horas y alcanzará su fase de máxima plenitud hacia las 20:32 horas , justo al coincidir con el atardecer. Obviamente que esta situación disparó una eclipse-manía que a su vez generó un aumento significativo por tener los anteojos especiales diseñados para observar el eclipse sin riesgo alguno para los ojos. Por lo pronto, un cartel en el Museo Nacional de Ciencias Naturales, en el centro de Madrid, indica que ya no le quedan lentes, así como en otros numerosos puntos de distribución. La institución forma parte de un grupo de 30 museos científicos que participaron en una campaña nacional impulsada por el gobierno y la organización para personas con discapacidad visual ONCE para distribuir unos dos millones de pares de lentes de forma gratuita. En paralelo, el termómetro es una amenaza para los españoles, que en las últimas semanas sufrieron devastadores incendios. Así las cosas, el eclipse solar llegará cuando el mercurio marque hasta 40 grados centígrados y con una gran afluencia de turistas -se calculan que seis millones- que se movilizaron para tener el mejor lugar para apreciar el espectáculo astronómico. Esto generó una alerta de posibles incendios, que las autoridades catalogaron como “alto” o “muy alto” . Por esta razón, ",
+      "link": "https://www.lanacion.com.ar/ciencia/a-que-hora-es-el-eclipse-solar-total-en-madrid-hoy-miercoles-12-de-agosto-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 08:32:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/C2NYST74JFB5PLVQJIOLZSACGQ.jpg?auth=408730dec75c62e6b62ff3ce7cc0b07f51c53b9da0ba556062ff34f6cea14839&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "2f60969f93b830aa32a0",
+      "title": "Enrique Cardona, profesor en Galicia: “Los padres ultraprotectores son un problema, sobre todo para los niños; el mundo real funciona diferente y hay que educarlos para enfrentarse a eso”",
+      "summary": "Con más de 20 años de experiencia, Cardona asegura que los alumnos están sometidos a una gran presión, especialmente en Bachillerato.",
+      "link": "https://www.clarin.com/internacional/enrique-cardona-profesor-galicia-padres-ultraprotectores-problema-ninos-mundo-real-funciona-diferente-educarlos-enfrentarse_0_PtQmWPux14.html",
+      "pubDate": "Wed, 12 Aug 2026 08:28:14 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/11/hfhHMYWON_1200x630__1.jpg"
+    },
+    {
+      "id": "48fab4801fda8db19f04",
+      "title": "Sina, la punk que acampa en la isla de los ricos de Alemania y responde a quienes la critican: \"Trabajo entre 54 y 58 horas a la semana. Ahora estoy de vacaciones\"",
+      "summary": "Tras recibir cuestionamientos por su presencia en el campamento, la joven salió a responder a quienes la acusan de no trabajar.",
+      "link": "https://www.clarin.com/estados-unidos/sina-punk-acampa-isla-ricos-alemania-responde-critican-trabajo-54-58-horas-semana-ahora-vacaciones_0_FLsKybaMdf.html",
+      "pubDate": "Wed, 12 Aug 2026 08:26:14 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/04/lmciuhR7i_1200x630__1.jpg"
+    },
+    {
+      "id": "f71dc84df331bb69cb37",
+      "title": "Firmada por Ron DeSantis, ya entró en vigor: la ley HB 1389 flexibiliza la construcción de viviendas asequibles en Florida",
+      "summary": "La norma es una actualización del \"Live Local Act\" y limita restricciones municipales sobre proyectos residenciales.",
+      "link": "https://www.clarin.com/estados-unidos/firmada-ron-desantis-entro-vigor-ley-hb-1389-flexibiliza-construccion-viviendas-asequibles-florida_0_hssIRGQqgA.html",
+      "pubDate": "Wed, 12 Aug 2026 08:22:14 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/06/26/ob2AoABHC_1200x630__1.jpg"
+    },
+    {
+      "id": "de025a196ff6603f7e5c",
+      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+      "summary": "Nubes asturianas que pueden arruinar un eclipse en Gijón.",
+      "link": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
+      "pubDate": "Wed, 12 Aug 2026 08:18:14 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985"
+    },
+    {
+      "id": "db000543b69363b18845",
+      "title": "Putin responde a las pretensiones territoriales de Japón respecto a Rusia",
+      "summary": "El presidente ruso condenó las sanciones \"no provocadas\" impuestas por el país nipón.",
+      "link": "https://actualidad.rt.com/actualidad/621874-putin-responder-pretensiones-territoriales-japon?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 08:14:03 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c2bf659bf5b3b406c1794.jpg"
+    },
+    {
+      "id": "8720168c973579748265",
+      "title": "El niño con autismo y cirugías de corazón que recibió un piano de 15 mil dólares de regalo y ya lanzó un disco de música clásica",
+      "summary": "Jude Kofie asombra al mundo con su talento para tocar el instrumento. Billy Magnussen, el músico y actor estadounidense, su mentor.",
+      "link": "https://www.clarin.com/estados-unidos/nino-autismo-cirugias-corazon-recibio-piano-15-mil-dolares-regalo-lanzo-disco-musica-clasica_0_93vMH0K0ts.html",
+      "pubDate": "Wed, 12 Aug 2026 08:12:14 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/11/QFaWgGopq_1200x630__1.jpg"
+    },
+    {
+      "id": "bdc0e13ca292ff4d8edc",
+      "title": "David Crowley gana las primarias demócratas para gobernador de Wisconsin ante aspirante socialista",
+      "summary": "David Crowley se impone en primarias de Wisconsin, superando a su rival por un estrecho margen, y busca convertirse en el primer gobernador afroamericano del estado. La contienda, marcada por retiradas y escándalos, refleja tensiones internas en el partido demócrata, mientras Crowley se prepara para enfrentar al republicano Tiffany.",
+      "link": "https://www.clarin.com/estados-unidos/david-crowley-gana-las-primarias-democratas-para-gobernador-de-wisconsin-ante-aspirante-socialista_0_0dbzWGrg0o.html",
+      "pubDate": "Wed, 12 Aug 2026 08:10:07 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
     },
     {
       "id": "de61fbe76e74301d5e5d",
@@ -61,6 +321,126 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c0c5cc464f.jpeg"
     },
     {
+      "id": "33f58a87c565eeca88e8",
+      "title": "\"Tengo 37 años y me he pasado toda la vida adulta escuchando que soy 'demasiado sensible' o que 'interpreto demasiado las cosas', pero la verdad es que me doy cuenta cuando el tono de la gente cambia, cuando evitan el contacto visual, cuando su amabilidad parece fingida, y estoy agotada de fingir que no veo lo que veo\"",
+      "summary": "Una mujer creyó durante mucho tiempo que exageraba lo que percibía de los demás, hasta que descubrió que la psicología explica ese rasgo. Hoy sostiene que el verdadero desgaste no es sentir demasiado, sino haber aprendido a desconfiar de sus propias percepciones.",
+      "link": "https://www.clarin.com/estados-unidos/37-anos-pasado-toda-vida-adulta-escuchando-demasiado-sensible-interpreto-demasiado-cosas-verdad-doy-cuenta-tono-gente-cambia-evitan-contacto-visual-amabilidad-parece-fingida-agotada-fingir-veo-veo_0_iGo2Jzgzjv.html",
+      "pubDate": "Wed, 12 Aug 2026 08:02:13 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/03/mHc6DMCTC_1200x630__1.jpg"
+    },
+    {
+      "id": "160c3988fec9dce710eb",
+      "title": "Explican la reunión entre Zack Snyder y Warner Bros",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La inesperada visita de Zack Snyder a Warner Bros. disparó las teorías sobre un posible regreso al universo DC, pero ahora sabemos qué hacía realmente el director en el estudio. Y aunque la explicación es mucho menos explosiva de lo que algunos esperaban, hay varios detalles alrededor de la reunión que mantienen viva la conversación. La verdadera razón por la que Zack Snyder volvió a Warner Bros. La imagen de Zack Snyder de nuevo en el histórico estudio de Warner Bros. fue suficiente para que una parte del fandom comenzase a imaginar escenarios que hace apenas unos meses parecían imposibles. Después de dirigir El Hombre de Acero, Batman v Superman: El amanecer de la justicia y su propia versión de Liga de la Justicia, cualquier acercamiento del cineasta al estudio sigue teniendo un peso especial. Pero su visita no estaba relacionada, al menos oficialmente, con una nueva película de DC. Según ha revelado Page Six , Warner Bros. invitó a Zack Snyder para presentar una proyección especial de Excalibur , la película de fantasía artúrica dirigida por John Boorman y estrenada en 1981. La elección tampoco es casual: Snyder ha citado durante años esta cinta como una de sus grandes referencias cinematográficas, algo que resulta bastante evidente si uno repasa su obsesión por la iconografía mitológica, los héroes convertidos casi en dioses y las imágenes construidas como auténticos cuadros. Cherie Lunghi y Nigel Terry en Excalibur (1981) La sesión reunió a trabajadores del grupo cinematográfico y varios invitados, hasta el punto de llenar la sala. Tras la proyección hubo incluso una conversación entre Zack Snyder y los responsables de Warner Bros. Pictures, Michael De Luca y Pam Abdy. Warner Bros. recibió a Zack Snyder con todos los honores Lo verdaderamente interesante no está tanto en la película proyectada como en el ambiente que rodeó el evento. Las fuentes citadas por Page Six describen una recepción especialm",
+      "link": "https://www.cinemascomics.com/explican-reunion-zack-snyder-y-warner-bros/",
+      "pubDate": "Wed, 12 Aug 2026 08:01:02 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Zack-Snyder-2026.jpg"
+    },
+    {
+      "id": "9171a3aea26fadad75a4",
+      "title": "Bailarines argentinos, entre el regreso y el futuro de la danza",
+      "summary": "La tercera edición de Repatriados, Gala de Ballet reunirá en Buenos Aires a figuras que desarrollan sus carreras en el exterior junto con una nueva generación de estudiantes argentinos. El programa, que se verá el 14 y 15 de agosto, a las 20, en el Palacio Libertad, incluye repertorio clásico, neoclásico, contemporáneo y creaciones especialmente preparadas para la ocasión. Con entrada gratuita y reserva previa.",
+      "link": "https://www.clarin.com/revista-n/bailarines-argentinos-regreso-futuro-danza_0_JTlFKYQn7Q.html",
+      "pubDate": "Wed, 12 Aug 2026 08:00:13 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/10/j171814tB_1200x630__1.jpg"
+    },
+    {
+      "id": "1510720914354fc8ebac",
+      "title": "Rocío, propietaria de 75 habitaciones en alquiler: \"En un piso típico como mínimo me tiene que salir un beneficio de unos 410 euros. Está súper bien y, además, tiene mucho sentido, porque es el precio de una habitación\"",
+      "summary": "Rocío gestiona 75 habitaciones bajo el modelo Rent to Rent en España. El negocio le permite obtener beneficios alquilando pisos completos y subarrendando sus habitaciones.",
+      "link": "https://www.clarin.com/internacional/rocio-propietaria-75-habitaciones-alquiler-piso-tipico-minimo-salir-beneficio-410-euros-super-bien-ademas-sentido-precio-habitacion_0_XlJhuFiaRj.html",
+      "pubDate": "Wed, 12 Aug 2026 08:00:13 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/11/OFVWL9lZB_1200x630__1.jpg"
+    },
+    {
+      "id": "07efd7d52b0fa711ddfc",
+      "title": "Lo que le hace bien al corazón también protege al cerebro: 7 claves de un experto para reducir el riesgo de deterioro cognitivo",
+      "summary": "Bryan Woodruff, neurólogo cognitivo de la Clínica Mayo, explica por qué la salud cardiovascular influye en el cerebro y qué hábitos pueden ayudar a preservar sus funciones.",
+      "link": "https://www.clarin.com/buena-vida/hace-bien-corazon-protege-cerebro-7-claves-experto-reducir-riesgo-deterioro-cognitivo_0_m48mQ8oKoC.html",
+      "pubDate": "Wed, 12 Aug 2026 08:00:13 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/07/21/ang06xbJz_1200x630__1.jpg"
+    },
+    {
+      "id": "edd11d94c2c5f4117bab",
+      "title": "Carolina Fernández y la historia de su hijo, del consumo desde los 14 años, a la cárcel: “Le puso el cuerpo a la tortura, a la abstinencia, al hambre, al frío y al encierro y se dedicó a sobrevivir”",
+      "summary": "La autora lo cuenta en Putamadre (Sudestada), libro que en octubre se convertirá en un biodrama. Su hijo comenzó a consumir cuando un \"amigo\" le regaló cocaína en su cumpleaños número 14. Tras internaciones, terapias y múltiples pruebas de su historial de consumos problemáticos, está preso por venta de estupefacientes.",
+      "link": "https://www.clarin.com/familias/carolina-fernandez-historia-hijo-consumo-14-anos-carcel-puso-cuerpo-tortura-abstinencia-hambre-frio-encierro-dedico-sobrevivir_0_22Z4fWbMPi.html",
+      "pubDate": "Wed, 12 Aug 2026 08:00:13 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/06/d0u3npcrD_1200x630__1.jpg"
+    },
+    {
+      "id": "ce45b26e050d04ba4376",
+      "title": "Mel Robbins, experta en desarrollo personal: “Tenés que aprender a amar a tus padres por quienes son, no por quienes deseás que sean”",
+      "summary": "En una reciente intervención en su popular podcast, la especialista en desarrollo personal Mel Robbins abordó una de las problemáticas más recurrentes en las dinámicas familiares adultas: la tensión derivada de intentar corregir o transformar la esencia de los padres . Bajo una perspectiva enfocada en la gestión emocional, Robbins enfatizó que la clave para mejorar estas relaciones no radica en una modificación externa, sino en una transformación interna del individuo : “La gente es quien es y tenés que aprender a amarlas por quienes son, no por quienes deseas que sean” . View this post on Instagram El análisis de Robbins sostiene que, con el paso del tiempo, las personas tienden a consolidar sus personalidades: “La mayor cantidad de gente, más vieja, se vuelve más rígida” , sostuvo la experta. Esta observación resulta crucial para quienes mantienen expectativas de cambio sobre sus padres , ignorando que el deseo de mejora suele chocar con una falta de voluntad o necesidad de transformación en la generación anterior. En este sentido, afirmó: “ Tus padres probablemente no han ido a la terapia, ni quieren . Los problemas que ves, que deseás que cambien o mejoren, han estado ahí para siempre. No están cambiando ”. Ante este escenario, la especialista propone un ejercicio útil , que consiste en adoptar una perspectiva más compasiva al observar el pasado de los padres: “Y algo que me ha ayudado a desarrollar un nivel de aceptación y amor con mis amigos: es decirme que me dieron todo lo que pudieron basado en su experiencia de vida ”. Si bien el cambio directo del otro no está garantizado, la experta advierte que la dinámica relacional posee una plasticidad oculta, la cual depende exclusivamente del comportamiento de uno mismo. Esto -según Robbins, ocurre “cuando operás sabiendo que la persona no va a cambiar”. En su experiencia personal y profesional, el resultado suele ser positivo cuando se decide alterar el modo de vinculación: “Y lo que he encontrado, de vez en cuand",
+      "link": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-desarrollo-personal-tenes-que-aprender-a-amar-a-tus-padres-por-quienes-son-no-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/FQX2JENVUZEAJJZSKCASXPKWDE.jpeg?auth=56fedbd3f7e8bca2bc127d3e206903d4271791207fcf450c73237fb5350d5a6a&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "c0407e9cd1a9c7178991",
+      "title": "Putin promete respuesta \"simétrica\" de Rusia si países occidentales capturan sus barcos comerciales",
+      "summary": "El presidente ruso aseveró que las represalias a lo que calificó de acciones de \"piratería\" pueden ocurrir no solo en las mismas aguas, sino en cualquier lugar.",
+      "link": "https://actualidad.rt.com/actualidad/621872-putin-respuesta-simetrica-occidente-capturar-barcos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 07:50:29 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c29b5e9ff7163170b0533.jpg"
+    },
+    {
+      "id": "88e00a7fe5f902db5d1b",
+      "title": "Las primarias demócratas en Wisconsin muestran la división extrema del partido, con una estrecha victoria centrista",
+      "summary": "Seguidores de Crowley, el candidato centrista de las primarias demócratas en Wisconsin, este martes en Milwaukee.",
+      "link": "https://elpais.com/us/2026-08-12/las-primarias-democratas-en-wisconsin-muestran-la-division-extrema-del-partido-con-una-estrecha-ventaja-centrista.html",
+      "pubDate": "Wed, 12 Aug 2026 07:50:07 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/AGV73FH5ZJDLPBBUZHRM3SDRVM.jpg?auth=140be04340530bae12401b3fff792d442b59595b96c93cd559e60989da636aea"
+    },
+    {
+      "id": "be070cd72269ef99f054",
+      "title": "A qué hora y dónde se verá el eclipse solar hoy, miércoles 12 de agosto",
+      "summary": "Comenzó la cuenta regresiva para uno de los acontecimientos astronómicos más relevantes del año. Este miércoles 12 de agosto, la Luna se ubicará exactamente entre la Tierra y el Sol, bloqueando por completo la luz solar durante varios minutos y sumergiendo en una penumbra diurna a una estrecha franja del planeta. De acuerdo con la Administración Nacional de Aeronáutica y el Espacio (NASA), el eclipse atravesará el hemisferio norte y resultará visible en su totalidad únicamente desde regiones específicas, mientras que en áreas circundantes podrá apreciarse de forma parcial. Es importante tener en cuenta que si bien en la Argentina, si bien no será visible, según informó el Servicio de Hidrografía Nacional , el eclipse comienza a las 15.34 y finaliza a las 19.58. En tanto, la fase total empieza a las 16.57 y finaliza a las 18.33. Horarios clave del eclipse total (y su hora en la Argentina) Debido a la rotación terrestre y a la trayectoria de la sombra lunar, el momento exacto en que la Luna cubrirá por completo al disco solar variará notablemente según la posición geográfica del observador: Norte de Rusia (Mar de Láptev): Alcanza su punto máximo cerca del mediodía local a las 24:00 h (14:00 h en la Argentina) . Groenlandia: La fase de totalidad se registra al caer la tarde, hacia las 16:15 h local (15:15 h en la Argentina) . Islandia (Reikiavik): El ocultamiento total del Sol inicia a las 17:48 h local (14:48 h en la Argentina) . España (Madrid y zona central): La fase máxima de oscuridad comenzará poco antes del atardecer, entre las 20:27 h y las 20:32 h local (15:27 h a 15:32 h en la Argentina) . Noroeste de Portugal (Bragança/Oporto): El alineamiento pleno se producirá sobre el final de la tarde, a las 19:36 h local (15:36 h en la Argentina) . La NASA advirtió que la duración de la fase total será relativamente breve: en la mayoría de las ubicaciones continentales, los espectadores disfrutarán del fenómeno durante menos de dos minutos. Únicamente en zonas cercanas ",
+      "link": "https://www.lanacion.com.ar/el-mundo/a-que-hora-y-donde-se-vera-el-eclipse-solar-hoy-miercoles-12-de-agosto-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 07:45:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/ODZVQMQQKFAGZD6SBMDCGNV5YU.png?auth=7b8291e2d54aa6fe88d9b3d63fa82fe498868e29d43909f41176cb3baaa6215b&smart=true&width=1536&height=1024"
+    },
+    {
+      "id": "88a5f1a1a053040dfdbc",
+      "title": "Tu reloj Samsung acaba de mejorar por la cara, y todo gracias a Google y su última actualización",
+      "summary": "¿Crees que tu reloj Samsung ya es bueno? Pues Google acaba de mejorarlo sin que nadie lo pidiese. De hecho, el último parche de Wear OS trae buenas noticias para prácticamente todos los smartwatches con este sistema operativo. La versión 26.31 de Google Play Services ha incluido una mejora contundente en el rendimiento del GPS . Es un cambio pequeño, pero que ayudará a todos los dispositivos a ubicar de forma más precisa y rápida tu posición cuando estás corriendo, yendo en bici o utilizando apps como Google Maps desde el reloj. ¿Da igual qué reloj Samsung tengas? Sí. La actualización de Google debería llegar a todos los dispositivos con Wear OS, por lo que también puedes incluir en la ecuación a los Pixel Watch, algunos modelos de Oppo, Xiaomi o OnePlus. ¿Cuándo? Ya está en marcha , por lo que asegúrate de no rechazar ninguna novedad y esta mejora llegará a tu dispositivo. Ojo. La función es interesante y llega para todos los relojes Samsung y Wear OS, pero es más relevante para los modelos con datos móviles integrados. Es decir, las versiones Celular . Si tienes un modelo WiFi, para aprovechar esta mejora será necesario llevar el móvil encima y tenerlo conectado, mientras que los relojes con datos pueden hacer uso de esta novedad por su cuenta. Ambos ganan, pero si utilizas un reloj WiFi y dejas el móvil en casa, la mejora queda en la nada. ¿Cuál es la mejora que llega a los relojes Samsung y todo el resto con Wear OS? Pues bien, Google ha lanzado la actualización con un cambio clave en la gestión de los datos GPS que utilizan los relojes. A partir de ahora, los relojes Samsung y Wear OS pueden gestionar los datos de ubicación sin procesar enviándolos a los servidores de Google . La ventaja es clara: poder procesar algunos datos GPS que antes se obviaban, enviando el contenido a los servidores de Google y devolviendo una información muchísimo más completa y precisa sobre tu ubicación. De ahí, claro está, que sea una ventaja que los relojes Samsung con eSIM puedan ",
+      "link": "https://hipertextual.com/tecnologia/tu-reloj-samsung-acaba-de-mejorar-por-la-cara-y-todo-gracias-a-google-y-su-ultima-actualizacion/",
+      "pubDate": "Wed, 12 Aug 2026 07:42:27 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/galaxy-watch-4-001.jpg?fit=1024%2C638&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "da075e4dc034e75e4dea",
+      "title": "Putin: \"La OTAN se está infiltrando en la región de Asia-Pacífico\"",
+      "summary": "La posibilidad de conflicto en la región de Asia-Pacífico está aumentando, estima el presidente ruso.",
+      "link": "https://actualidad.rt.com/actualidad/621871-putin-otan-esta-infiltrarse-asia-pacifico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 07:37:58 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c27e459bf5b50b7307e59.jpg"
+    },
+    {
       "id": "ccb4a2bc2431c6ca68bb",
       "title": "A Coruña, entre el cielo y el Madrid",
       "summary": "Bernardo Silva, en su debut con el Real Madrid frente al Ferencvaros.",
@@ -71,6 +451,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b55afbaa94.jpeg"
     },
     {
+      "id": "2ee02372a67b415e81cf",
+      "title": "Putin encabeza la fase final de maniobras de la Flota rusa del Pacífico",
+      "summary": "El mandatario señaló que esta rama de la Armada \"cumple plenamente\" con sus tareas en su zona de responsabilidad, que se vuelven \"cada vez más importantes\" ante la situación que se configura en la región de Asia-Pacífico.",
+      "link": "https://actualidad.rt.com/actualidad/621870-putin-encabeza-fase-final-maniobras?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 07:32:36 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c291859bf5b3baf24e08e.jpg"
+    },
+    {
       "id": "e17f7229be60250bfb0c",
       "title": "Emery ante la 'tiranía' de Luis Enrique",
       "summary": "PSG y Aston Villa se juegan la Supercopa de Europa.",
@@ -79,6 +469,17 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b03b052be2.jpeg"
+    },
+    {
+      "id": "6e01af89e8cb0f2ae6c9",
+      "title": "Qué esperamos del evento Made by Google",
+      "summary": "El gigante de Internet celebrará dentro de unas horas el evento Made by Google . Una conferencia ya típica en estas fechas donde esperamos presenta su nueva generación de hardware de marca propia . En directo desde Nueva York, a las 3:00 p.m. PT / 6:00 p.m. ET (00,00H del jueves 13 de agosto en España), el evento podrá seguirse on-line en el canal de Google en YouTube . El pescado está vendido y después de numerosas filtraciones y adelantos a base de vídeos del mismo Google, sabemos con certeza que los móviles inteligentes Pixel 11 serán la estrella del evento . También veremos la actualización del reloj inteligente, Pixel Watch 5 , mientras que la guinda puede llegar del estreno del dispositivo de rastreo, Pixel Tag . Es probable que veamos algún lanzamiento de gafas inteligentes bajo el ecosistema Android XR y menos probable que algún GoogleBook con la esperada renovación del sistema operativo de escritorio. Con total seguridad, sí veremos la aplicación de Android 17 a modo de Google en estos dispositivos, al igual que todo lo que llega del ecosistema de IA bajo Gemini adelantado en mayo en el Google I/O . Pixel 11 Desde hace meses te hemos venido ofreciendo numerosa información sobre los nuevos móviles de Google y no creemos que haya sorpresas sobre lo conocido. Google comercializará sus nuevos Pixel en cuatro versiones , incluyendo una versión plegable Pixel Fold. Repitiendo tamaños básicos, las pantallas mejoran especialmente en los niveles de brillo. Sin grandes novedades en diseño externo frente a los Pixel 10, lo más noticiable será una función similar a un LED de notificación, llamada Pixel Glow. En hardware interno el SoC Tensor 6 aparece como el motor de los nuevos teléfonos de Google y el módem MediaTek M90 aparece para reemplazar los módems Samsung Exynos. El nuevo procesador de señal de imagen (ISP) personalizado de Google avanza mejoras en el sistema de cámaras, mientras que las baterías serán de capacidad similar a la serie Pixel 10. Las capacidades ",
+      "link": "https://www.muycomputer.com/2026/08/12/que-esperamos-del-evento-made-by-google-2/",
+      "pubDate": "Wed, 12 Aug 2026 07:32:31 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Made_by_Google_2.jpg",
+      "subcat": "herramientas"
     },
     {
       "id": "538f5f0749f9e6385323",
@@ -111,6 +512,36 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b67cccfbc3.jpeg"
     },
     {
+      "id": "d84a636ddabba823152e",
+      "title": "Frustran al sur de Rusia un atentado con explosivos contra un oficial",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/621868-sur-rusia-atentado-explosivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 07:30:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "3fd6d97579dfbac5d15b",
+      "title": "NYT destapa el 'despilfarro' de los escasos Patriot de EE.UU. ante los misiles inteligentes iraníes",
+      "summary": "Washington gastó unos 200 millones de dólares en un solo día, intentando frenar los ataques de represalia de Teherán contra las bases de EE.UU. en Jordania en julio, revelaron al diario fuentes anónimas estadounidenses.",
+      "link": "https://actualidad.rt.com/actualidad/621855-destapar-despilfarro-escasos-patriot-eeuu-misiles-inteligentes-iranies?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 12 Aug 2026 07:30:00 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c1a6559bf5b47db63f373.jpg"
+    },
+    {
+      "id": "ffc4ebd56bbf5e3fbc27",
+      "title": "\"La marcha de Ferran es una radiografía\"",
+      "summary": "Ferran celebra el gol de la victoria de España en el Mundial.",
+      "link": "https://www.marca.com/futbol/barcelona/opinion/2026/08/12/marcha-ferran-radiografia.html",
+      "pubDate": "Wed, 12 Aug 2026 07:25:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b4e2c2c9bb.jpeg"
+    },
+    {
       "id": "54bb3bc9c521ff971b31",
       "title": "Newey juega al despiste con Horner",
       "summary": "Christian Horner y Adrian Newey.",
@@ -130,16 +561,6 @@
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/LJ7BB5J3P5ENBHVTWFDJRJABUU.png?auth=f1fb534b26045be5bbdaaf0be68d7105ca23ae24c03da5e21a1b6dcdab0e01b2&smart=true&width=2000&height=1333",
       "subcat": "diseño"
-    },
-    {
-      "id": "7594b3db39c93f5bc924",
-      "title": "Un reencuentro con las posturas claras",
-      "summary": "Julián Alvarez y Simeone.",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/12/reencuentro-posturas-claras.html",
-      "pubDate": "Wed, 12 Aug 2026 07:01:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b7cea94ef2.jpeg"
     },
     {
       "id": "2d0fcad54dd893a56cf8",
@@ -214,22 +635,12 @@
     {
       "id": "c43c0077fa8caba81631",
       "title": "Corea del Norte dispara su segundo misil balístico en seis días",
-      "summary": "Varias personas en una estación de tren de Corea del Sur miran una pantalla de televisión, que emite la noticia del lanzamiento de un misil norcoreano, el 12 de agosto de 2026.",
+      "summary": "Varias personas en una estación de tren de Corea del Sur miran una pantalla de televisión, que emite la noticia del lanzamiento de un misil norcoreano, el 12 de agosto.",
       "link": "https://elpais.com/internacional/2026-08-12/corea-del-norte-dispara-su-segundo-misil-balistico-en-seis-dias.html",
       "pubDate": "Wed, 12 Aug 2026 06:50:44 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/PWHAFBTFNBMQ7GNDC43JG7SHUY.jpg?auth=f773307b5c74f828522911bec4fce0f86802dfa18452127f0e40e547d94886df"
-    },
-    {
-      "id": "88e00a7fe5f902db5d1b",
-      "title": "Las primarias demócratas en Wisconsin muestran la división extrema del partido, con una estrecha ventaja centrista",
-      "summary": "Seguidores de Crowley, el candidato centrista de las primarias demócratas en Wisconsin, este martes en Milwaukee.",
-      "link": "https://elpais.com/us/2026-08-12/las-primarias-democratas-en-wisconsin-muestran-la-division-extrema-del-partido-con-una-estrecha-ventaja-centrista.html",
-      "pubDate": "Wed, 12 Aug 2026 06:49:11 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/E5L3MD7GZBNIFBMKWEWSSX6SPU.jpg?auth=1185c5479ea8699af58f90fffb244c6e39b8b33059339f119b562c4192300433"
+      "image": "https://imagenes.elpais.com/resizer/v2/HABHT5JUPJBFPN6ZRHSX5LKUUQ.jpg?auth=4d5c4a344e4dbc694fdc7efe24ea4e282f6866408c35efdb7ec13ccee4ea0c5f"
     },
     {
       "id": "5104a5d2c6833f930f7a",
@@ -252,26 +663,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/HIGNPRZGNZDUNCGAIOA6RCSPDI.jpg?auth=d30e4cd1f97a6fe3b4756a474ce84b4db97fb2be0e2d960722266f3e0861cfbf&smart=true&width=8640&height=5760"
     },
     {
-      "id": "756c71d451240e9e323e",
-      "title": "Fallece figura clave de la poesía y literatura contemporánea en México",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621867-fallece-figura-clave-poesia-literatura-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 06:42:08 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "8c8de72efcd76be1a110",
-      "title": "VIDEO EMOTIVO: Rescatistas entonan el himno de su ciudad tras sismo en Colombia",
-      "summary": "Rescatistas y comunidad en general cantaron el himno de la ciudad de Pereira en la Plaza de Bolívar. \"Salve al esfuerzo de mis heroicos y buenos hijos, que con amor me dieron nombre, me dieron fama, me hicieron grande, me dan honor\", se les escuchó entonar en medio de los escombros del sismo de magnitud 7,4 que azotó varias regiones del territorio colombiano.",
-      "link": "https://actualidad.rt.com/actualidad/621861-video-emotivo-rescatistas-entonan-himno-ciudad-sismo-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 06:40:10 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c08e0e9ff7110d27f7ac4.jpg"
-    },
-    {
       "id": "7cbaf64f619d0304141e",
       "title": "En fotos: nadie quiso perderse el estreno de Moria, la miniserie de Netflix basada en la vida de “La One”",
       "summary": "",
@@ -292,16 +683,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/B34KOT6YZFHTFH7ASRLYWOHXQY.JPG?auth=deca9282b945976f7347ad20f11bb6a6d2370180f5815bc73593236e8e3f6bbd&smart=true&width=4464&height=2976"
     },
     {
-      "id": "377770e7a7dfd9b6db80",
-      "title": "El salame más largo del país volvió a cambiar de dueño y estableció un nuevo récord",
-      "summary": "La nueva marca obtenida por San Andrés de Giles alcanzó los 501,66 metros, fue certificada oficialmente y superó el registro nacional que ostentaba Tandil. La pieza se convirtió en la primera en superar la barrera de los 500 metros.",
-      "link": "https://www.clarin.com/sociedad/salame-largo-pais-volvio-cambiar-dueno-establecio-nuevo-record_0_3lv8vBoZ7j.html",
-      "pubDate": "Wed, 12 Aug 2026 06:31:05 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/12/e_vTrkwZV_1200x630__1.jpg"
-    },
-    {
       "id": "c881c1c5c1113d237fb9",
       "title": "Incautaron 86 kilos de marihuana en un micro que iba a trasladar al plantel de San Pablo",
       "summary": "Un micro que debía recoger al plantel de San Pablo en Bolivia fue incautado por la policía con 86,5 kilos de marihuana . Sin embargo, la delegación nunca llegó a utilizarlo y pudo completar con normalidad sus traslados para el partido ante Bolívar por los octavos de final de la Copa Sudamericana utilizando otro micro. La empresa involucrada, Buses Cosmos, negó cualquier responsabilidad por el cargamento y sostuvo, mediante un comunicado, que “toda la responsabilidad recae en los conductores” . También aclaró que el micro incautado no había sido utilizado por el Tricolor paulista y aseguró que el caso fue esclarecido por la policía y que los responsables quedaron detenidos, según informó O Globo . Buses Cosmos proporcionó un segundo vehículo, que fue el que finalmente trasladó el lunes al plantel desde el aeropuerto hasta el hotel. El martes, el mismo ómnibus llevó a la delegación desde su alojamiento hasta el aeropuerto de Santa Cruz de la Sierra. Desde allí, el equipo tenía previsto volar hacia La Paz para enfrentar a Bolívar el martes a las 21.30, hora de Brasilia. La directiva había diseñado una logística especial para reducir los efectos de los 3650 metros de altitud de la capital boliviana: permanecer alojada en Santa Cruz y llegar a La Paz apenas unas horas antes del encuentro. El arribo estaba programado para las 18.20 y la delegación debía dirigirse directamente desde el aeropuerto hasta el estadio. Con esa decisión, San Pablo aceptó exponerse a una advertencia de la Conmebol por no respetar el plazo de llegada establecido en el reglamento. Finalmente, Bolívar y San Pablo empataron 1-1 en el estadio Hernando Siles por los octavos de final de la Copa Sudamericana 2026 . El conjunto brasileño, que había organizado su llegada a La Paz para pocas horas antes del encuentro, fue el primero en ponerse en ventaja. A los 23 minutos del primer tiempo, el defensor central ecuatoriano Robert Arboleda convirtió el gol de São Paulo y estableció el 1-0. Con esa diferencia ",
@@ -310,56 +691,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/Z6WMKS4HD5EUJFRTVOI2EYZZKU.jpg?auth=bb8071d68a08c98adeb61e94567a7184fea4e96c2d64c802c749fe7ac1b5de05&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "73bd00727c816186de37",
-      "title": "El Mediterráneo se convierte en un 'caldo': “Es brutal la acumulación de energía”",
-      "summary": "La ‘tropicalización’ del mar lleva a registros anómalos, con casi 3ºC por encima de la media, lo que eleva la temperatura de las costas y proporciona 'combustible' de tormentas extremas.",
-      "link": "https://www.clarin.com/internacional/mediterraneo-convierte-caldo-brutal-acumulacion-energia_0_w20No4KnFE.html",
-      "pubDate": "Wed, 12 Aug 2026 06:26:12 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2018/08/04/BJ8LkimB7_1200x630__1.jpg"
-    },
-    {
-      "id": "d9415bad9a2fe7c424b9",
-      "title": "Buque paga cuantiosa suma para eludir la fila en el Canal de Panamá",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621863-buque-pagar-cuantiosa-suma-eludir-fila-canal-panama?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 06:23:50 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "b92ba13679eb74b85b37",
-      "title": "VIDEO: Reportan ataque israelí con proyectiles de fósforo blanco contra el sur del Líbano",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621864-video-reportan-ataque-israeli-proyectiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 06:22:59 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "d06d315ad49c8f184be9",
-      "title": "Rusia bombardea depósitos de combustible utilizados por militares ucranianos en el puerto de Odesa",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621865-rusia-depositos-combustible-puerto-odesa?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 06:17:21 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "3be58379d946da8e585b",
-      "title": "Piloto ruso derriba dos cazas enemigos en un combate aéreo desigual",
-      "summary": "El joven aviador protagonizó una verdadera hazaña: durante una misión de guardia, detectó por radar una fuerza enemiga superior en el aire y se enfrentó a ella.",
-      "link": "https://actualidad.rt.com/actualidad/621856-piloto-derribar-cazas-enemigo-combate?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 06:08:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7c04ae59bf5b50b7307e3e.jpg"
     },
     {
       "id": "8f70ee7bbdd89be93190",
@@ -382,16 +713,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Razer_Naga_V3_Pro_2.jpg"
     },
     {
-      "id": "f4ad6acc866da0bb893d",
-      "title": "Antonio Velázquez, actor de 'La Promesa', sobre su primera hija: “Esperamos que nos dé muchas alegrías. Tiene un nombre muy granadino”",
-      "summary": "La primogénita del intérprete granadino llegó al mundo el lunes 20 de enero a primera hora de la mañana.",
-      "link": "https://www.clarin.com/internacional/antonio-velazquez-actor-promesa-primera-hija-esperamos-muchas-alegrias-nombre-granadino_0_vc9b1wor77.html",
-      "pubDate": "Wed, 12 Aug 2026 06:06:12 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/08/11/gjASN1jp4_1200x630__1.jpg"
-    },
-    {
       "id": "2ef0018bdbea0222bef7",
       "title": "Nicholas Hoult podría unirse a la serie de Harry Potter",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La nueva adaptación televisiva de Harry Potter tiene por delante una tarea bastante más complicada que limitarse a volver a contar los libros de J.K. Rowling. HBO necesita convencer a toda una generación que creció con las películas estrenadas entre 2001 y 2011 de que merece la pena regresar a Hogwarts con caras diferentes, nuevas interpretaciones y, presumiblemente, mucho más espacio para desarrollar aquello que las películas tuvieron que dejar fuera. Nicholas Hoult podría convertirse ahora en una pieza importante de ese intento por construir una identidad propia. Nicholas Hoult negocia un papel clave en Harry Potter El conocido insider Daniel Richtman asegura en su Patreon que Nicholas Hoult mantiene conversaciones para incorporarse a la serie de Harry Potter en un papel relevante. Por ahora no se ha revelado qué personaje tendría HBO en mente para el actor, así que conviene tratar cualquier posible identidad como especulación hasta que llegue una confirmación oficial. Eso no ha impedido que empiecen las quinielas. Entre los nombres que más se repiten aparecen Sirius Black, Remus Lupin y el profesor Quirrell, aunque una posibilidad ha ganado rápidamente fuerza entre los seguidores de la saga: Lord Voldemort. Voldemort de las películas de Harry Potter La elección tendría bastante sentido. Hoult atraviesa uno de los momentos más interesantes de su carrera y viene de meterse en la piel de Lex Luthor dentro del nuevo DCU, demostrando que puede construir un villano mucho más incómodo cuando evita convertirlo simplemente en un tipo que grita amenazas delante de una cámara. Por qué Nicholas Hoult podría ser un Voldemort perfecto Ralph Fiennes dejó el listón absurdamente alto como Voldemort. Su interpretación terminó definiendo visualmente al personaje para millones de espectadores, hasta el punto de que cualquier sustituto tendrá que luchar inevitablemente contra esa comparación. Nicholas Hoult tiene suficient",
@@ -402,24 +723,14 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Nicholas-Hoult.jpg"
     },
     {
-      "id": "9c1b43f88ec600b8c5eb",
-      "title": "Sebastián, taxista en Mallorca: \"Llego a facturar 7.000 euros por mes pero de abril a octubre no me tomo ni un día libre y trabajo hasta 14 horas\"",
-      "summary": "La experiencia de un conductor en las exclusivas Islas Baleares , España . La oportunidad que brinda la alta temporada turística para aumentar la facturación.",
-      "link": "https://www.clarin.com/internacional/sebastian-taxista-mallorca-llego-facturar-7000-euros-mes-abril-octubre-tomo-dia-libre-trabajo-14-horas_0_mtNTmbu7B1.html",
-      "pubDate": "Wed, 12 Aug 2026 06:00:12 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/08/11/eI67amnuI_1200x630__1.jpg"
-    },
-    {
-      "id": "d620938ae587f15102a8",
-      "title": "Novatos Bryce Eldridge y Carson Whisenhunt guían a Gigantes a victoria ante Astros, 4-1",
-      "summary": "Los Gigantes vencieron 4-1 a los Astros con un jonrón de Eldridge y sólida actuación de Whisenhunt, quien superó dos bases llenas sin daño. Altuve salió por lesión en el pie tras recibir un pelotazo. Houston anotó primero, pero San Francisco remontó con hits clave de Gilbert y Cavanaugh.",
-      "link": "https://www.clarin.com/estados-unidos/novatos-bryce-eldridge-y-carson-whisenhunt-guian-a-gigantes-a-victoria-ante-astros-4-1_0_nrz5WsNGkU.html",
-      "pubDate": "Wed, 12 Aug 2026 06:00:08 +0000",
-      "source": "Clarin",
+      "id": "efa85a01316255c257c0",
+      "title": "La joya arquitectónica que pasa desapercibida en Almagro y cuenta la historia de una comunidad fundante de la Argentina",
+      "summary": "Un hospital de Buenos Aires recibe ambulancias todos los días. Por sus pasillos se cruzan médicos, pacientes, camillas y familias. En sus salas se discuten casos en ateneos. Todo eso sucede en un edificio construido hace 125 años. Quienes anden sin apuro por la ajetreada calle Gascón, en el barrio de Almagro, si levantan la vista podrán apreciar una peculiar escultura en lo alto, como coronando la fachada de un edificio de principios de siglo. Detrás de esa entrada, actualmente en desuso, se conserva una de las historias más sorprendentes de la arquitectura, el arte y la inmigración en Buenos Aires. Un edificio pensado para sanar Es el edificio histórico del Hospital Italiano de Buenos Aires. Proyectado por Juan Antonio Buschiazzo e inaugurado en 1901, conserva su fachada original, jardines, esculturas y un conjunto arquitectónico que el gobierno de la Ciudad de Buenos Aires catalogó como patrimonio histórico. Desde hace más de un siglo, ese mismo edificio acompaña la evolución de la medicina: sigue recibiendo pacientes todos los días mientras enfrenta el desafío permanente de preservar su valor patrimonial y adaptarse a las necesidades de un hospital del siglo XXI. Ese equilibrio entre preservar y transformar acompaña a la institución desde su origen. A fines del siglo XIX, el proyecto del nuevo hospital italiano se inspiraba en los principios de la arquitectura higienista, un modelo que buscaba mejorar la atención médica a través del propio diseño edilicio. El plano que Buschiazzo firmó en primera persona El edificio se ordenaba en pabellones separados, cada uno con su propia orientación al sol y su ventilación. Un pasillo central dividía el conjunto en dos alas, una para hombres y otra para mujeres . En cada cabecera, lejos de las salas de internación, quedaban la enfermería y los sanitarios. Entre los pabellones había jardines proyectados para que los pacientes puedan tomar sol. Ese diseño está bien documentado, según cuenta a LA NACION el arquitecto José Luis C",
+      "link": "https://www.lanacion.com.ar/lifestyle/la-joya-arquitectonica-que-pasa-desapercibida-en-almagro-y-cuenta-la-historia-de-una-comunidad-nid12082026/",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
       "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
+      "image": "https://resizer.glanacion.com/resizer/v2/RCAOCN362RB5ZDRBWTPNYOPMXE.jpg?auth=0068564a13612b109b68b4d3e98bd864a023af7d6c281850b72b721d5f14234e&smart=true&width=9504&height=6336"
     },
     {
       "id": "c93dcfbdbafcd5d9b056",
@@ -431,16 +742,6 @@
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/MPTP42CKOBCQHFTHNWRNENFVTY.png?auth=7f5a0a1a616958df412af168bac0113a234d47a5d4ab30fb69aaa6c42f5f8a6b&smart=true&width=1200&height=800",
       "subcat": "herramientas"
-    },
-    {
-      "id": "efa85a01316255c257c0",
-      "title": "La joya arquitectónica que pasa desapercibida en Almagro y cuenta la historia de una comunidad fundante de la Argentina",
-      "summary": "Un hospital de Buenos Aires recibe ambulancias todos los días. Por sus pasillos se cruzan médicos, pacientes, camillas y familias. En sus salas se discuten casos en ateneos. Todo eso sucede en un edificio construido hace 125 años. Quienes anden sin apuro por la ajetreada calle Gascón, en el barrio de Almagro, si levantan la vista podrán apreciar una peculiar escultura en lo alto, como coronando la fachada de un edificio de principios de siglo. Detrás de esa entrada, actualmente en desuso, se conserva una de las historias más sorprendentes de la arquitectura, el arte y la inmigración en Buenos Aires. Un edificio pensado para sanar Es el edificio histórico del Hospital Italiano de Buenos Aires. Proyectado por Juan Antonio Buschiazzo e inaugurado en 1901, conserva su fachada original, jardines, esculturas y un conjunto arquitectónico que el gobierno de la Ciudad de Buenos Aires catalogó como patrimonio histórico. Desde hace más de un siglo, ese mismo edificio acompaña la evolución de la medicina: sigue recibiendo pacientes todos los días mientras enfrenta el desafío permanente de preservar su valor patrimonial y adaptarse a las necesidades de un hospital del siglo XXI. Ese equilibrio entre preservar y transformar acompaña a la institución desde su origen. A fines del siglo XIX, el proyecto del nuevo hospital italiano se inspiraba en los principios de la arquitectura higienista, un modelo que buscaba mejorar la atención médica a través del propio diseño edilicio. El plano que Buschiazzo firmó en primera persona El edificio se ordenaba en pabellones separados, cada uno con su propia orientación al sol y su ventilación. Un pasillo central dividía el conjunto en dos alas, una para hombres y otra para mujeres . En cada cabecera, lejos de las salas de internación, quedaban la enfermería y los sanitarios. Entre los pabellones había jardines proyectados para que los pacientes puedan tomar sol. Ese diseño está bien documentado, según cuenta a LA NACION el arquitecto José Luis C",
-      "link": "https://www.lanacion.com.ar/lifestyle/la-joya-arquitectonica-que-pasa-desapercibida-en-almagro-y-cuenta-la-historia-de-una-comunidad-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 06:00:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/RCAOCN362RB5ZDRBWTPNYOPMXE.jpg?auth=0068564a13612b109b68b4d3e98bd864a023af7d6c281850b72b721d5f14234e&smart=true&width=9504&height=6336"
     },
     {
       "id": "939d2d49730777b802af",
@@ -473,16 +774,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/XWK47GCLMFD2PFUPE6BZE54L64.jpg?auth=0b9f0a61a67a1341774b8d53f9329eb1078462957ce30faebc4483b41d0fa997&smart=true&width=1360&height=905"
     },
     {
-      "id": "524c7186cf233d13c4c8",
-      "title": "Ucrania 'archiva' un dato clave en plena crisis de su defensa antiaérea",
-      "summary": "El cambio llega mientras Kiev enfrenta una creciente escasez de interceptores y reclama más ayuda militar a sus aliados.",
-      "link": "https://actualidad.rt.com/actualidad/621853-ucrania-deja-informar-misiles-rusos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 05:52:49 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7bf1c059bf5b70792b2690.png"
-    },
-    {
       "id": "8c72589cc239f191b0c3",
       "title": "Hay alerta naranja y amarilla por frío extremo, vientos y nevadas para este miércoles 12 de agosto: las provincias afectadas",
       "summary": "En el marco de una semana en la que distintas zonas del país registraron un marcado descenso en las temperaturas, el Servicio Meteorológico Nacional (SMN) advirtió que este miércoles 12 de agosto continuarán las condiciones adversas y emitió una serie de alertas naranjas y amarillas por frío extremo, vientos fuertes y nevadas para diversos sectores del territorio nacional. Según el parte publicado por el organismo dependiente del Ministerio de Defensa, las zonas más afectadas por las nevadas -donde rige el aviso de nivel naranja - son los puntos cordilleranos de San Juan, La Rioja y Catamarca , donde se esperan fenómenos meteorológicos “peligrosos” para la sociedad, la vida, los bienes y el medio ambiente. Estas áreas pueden ser afectadas por nevadas persistentes de variada intensidad, por momentos fuertes, y Se prevén valores de nieve acumulada entre 60 y 120 centímetros en todo el periodo bajo alerta, que pueden ser superados de forma puntual. Además, la situación estará acompañada por vientos intensos con reducción de visibilidad y posible viento blanco. Frente a este panorama, el SMN recomienda seguir las instrucciones de las autoridades locales y salir únicamente si es imprescindible. En caso de circular, se aconseja hacerlo con vehículos preparados para el hielo y la nieve y llevar una pala. También se deben revisar los techos, las canaletas y los desagües; ventilar los ambientes para evitar la acumulación de monóxido de carbono; y contar con alimentos no perecederos, agua potable, el celular cargado y un kit de emergencia. A su vez, en las zonas cordilleranas del sur de San Juan y del norte de Mendoza, y en Río Negro y Chubut, hay una alerta de carácter amarillo por nevadas . En este caso se trata de fenómenos meteorológicos con “capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas”. El SMN aseguró que esas zonas pueden registrar nevadas persistentes de variada intensidad y valores de nieve acumulada de entre 10 y 30 centímetros. En",
@@ -493,46 +784,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/7JGZJFZWL5CMPM5W5EKKGSJXIE.png?auth=ff590ce8009f4a4936f4b64b2ab4733a5617757d23f5185661f158dbfd75318f&smart=true&width=1063&height=668"
     },
     {
-      "id": "4720c9eee39556594139",
-      "title": "Rusia derriba más de 500 drones ucranianos en una noche",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621860-rusia-derriba-mas-500-drones-ucranianos-una-noche?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 05:38:51 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "de025a196ff6603f7e5c",
-      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
-      "summary": "Nubes asturianas que pueden arruinar un eclipse en Gijón.",
-      "link": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
-      "pubDate": "Wed, 12 Aug 2026 05:37:33 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985"
-    },
-    {
-      "id": "b1889358c3ce1eb28627",
-      "title": "Empleados de la central nuclear más grande de Europa resultan heridos en ataque con dron ucraniano",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/621859-empleados-central-nuclear-zaporozhie-heridos-ucrania-ataque?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 12 Aug 2026 05:34:15 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "c529add4e4f90b78551e",
-      "title": "Antonio Aceituno, experto en ahorro de luz: “Desplazar el consumo de electricidad de las 19 h a las 22 h puede reducir mucho la factura de la luz”",
-      "summary": "El experto analiza la evolución del mercado eléctrico y señala cuáles son las franjas horarias más económicas para concentrar el consumo.",
-      "link": "https://www.clarin.com/internacional/antonio-aceituno-experto-ahorro-luz-desplazar-consumo-electricidad-19-h-22-h-puede-reducir-factura-luz_0_klmR1iDqQw.html",
-      "pubDate": "Wed, 12 Aug 2026 05:28:12 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/11/XPii6KUE1_1200x630__1.jpg"
-    },
-    {
       "id": "395ae1f7734881396fb6",
       "title": "La película con eclipse más traumática es de Disney",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com No sé en que estaban pensando, pero en ese momento en Disney no estuvieron muy finos. Ya que la película con eclipse que a menudo se cita como particularmente traumática para los niños de los años 80 es The Watcher in the Woods (Los ojos del bosque) . Esta historia se desvía del tono típico de las producciones de esta empresa de entretenimiento de esa época, incursionando en el género del terror y el suspense . ¿De qué trata la película The Watcher in the Woods (Los ojos del bosque) de Disney? La historia de esta película con eclipse de Disney sigue a una familia estadounidense que se muda a una casa en el campo en Inglaterra. Pronto, las hijas comienzan a experimentar visiones y fenómenos extraños que parecen estar vinculados con la hija de la propietaria, Karen, quien desapareció misteriosamente durante un eclipse solar décadas atrás. A medida que los eventos sobrenaturales se intensifican, la familia se ve envuelta en el misterio de la desaparición de Karen, descubriendo una conexión interdimensional y un pacto roto que debe ser reparado para resolver los sucesos perturbadores. Además, hay otra versión actualizada de 2017 para televisión, pero Disney no está metida en medio. Los ojos del bosque (1980) Resumen extenso de la trama: La familia Curtis, compuesta por los estadounidenses Helen, Paul y sus hijas Jan y Ellie, decide mudarse a una mansión en la tranquila campiña inglesa. Lo que no imaginaban era que su nuevo hogar guardaba un oscuro secreto: la desaparición de Karen Aylwood, la hija de la señora Aylwood, quien ahora reside en la casa de huéspedes contigua. Desde el principio, Jan siente una extraña conexión con la propiedad y presencia fenómenos inexplicables: luces azules en el bosque, triángulos y objetos brillantes que aparecen y desaparecen. Incluso, una noche, ve el reflejo de una niña con los ojos vendados en un espejo. Poco después de su llegada, la pequeña Ellie adquiere un cachorro al ",
@@ -541,26 +792,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2024/04/pelicula-eclipse-diseny.jpg"
-    },
-    {
-      "id": "4d9deb212f114dcc5fc3",
-      "title": "Emotiva bajada con más de 100 antorchas en el Cerro Martial de Ushuaia: una bengala al cielo desató el nuevo ritual fueguino",
-      "summary": "La tradicional celebración de agosto tuvo como novedad la inauguración de una nueva aerosilla y la degustación de platos típicos. Una bengala lanzada desde la bahía de Ushuaia encendió el cielo y marcó el inicio del descenso del centenar de esquiadores desde el glaciar Martial.",
-      "link": "https://www.clarin.com/sociedad/emotiva-bajada-100-antorchas-cerro-martial-ushuaia-bengala-cielo-desato-nuevo-ritual-fueguino_0_hpfZa5tj7v.html",
-      "pubDate": "Wed, 12 Aug 2026 05:07:46 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/12/Cm_AMFwsn_1200x630__1.jpg"
-    },
-    {
-      "id": "14618566b24273621b16",
-      "title": "Grand slam de Luis Rengifo ante su equipo anterior da a Padres triunfo de 11-2 ante Cerveceros",
-      "summary": "Rengifo brilló con un grand slam ante su exequipo, impulsando a San Diego a una victoria contundente sobre Milwaukee, consolidando su racha ganadora. Tatis Jr. superó una marca histórica con un jonrón, mientras Campusano también destacó con un batazo de dos carreras en el triunfo de los Padres.",
-      "link": "https://www.clarin.com/estados-unidos/grand-slam-de-luis-rengifo-ante-su-equipo-anterior-da-a-padres-triunfo-de-11-2-ante-cerveceros_0_MJseDjCEg9.html",
-      "pubDate": "Wed, 12 Aug 2026 05:00:05 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
     },
     {
       "id": "997ef8ca58917dca8d66",
@@ -581,26 +812,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/B3763KNJD5EAFDQQ6H5MUNKU5U.png?auth=961128951ac508e986f9dfc5fe4ebd32de55013ebee13324358d6d8d3e0549da&smart=true&width=685&height=431"
-    },
-    {
-      "id": "d0501cc7d1f80cefe792",
-      "title": "John Nash, científico premio Nobel de Economía en 1994: \"Lo único más grande que el poder de la mente es el coraje del corazón\"",
-      "summary": "La reflexión se popularizó a través de \"Una mente maravillosa\", el filme de 2001 sobre su vida.",
-      "link": "https://www.clarin.com/internacional/john-nash-cientifico-premio-nobel-economia-1994-unico-grande-poder-mente-coraje-corazon_0_tnX8aFO8YL.html",
-      "pubDate": "Wed, 12 Aug 2026 04:36:11 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/10/BFMEts3WG_1200x630__1.jpg"
-    },
-    {
-      "id": "4dcd8611b4926b256c35",
-      "title": "\"Para los hombres de buena voluntad...\"",
-      "summary": "",
-      "link": "https://www.clarin.com/cartas-al-pais/hombres-buena-voluntad_0_uFGoPvNukr.html",
-      "pubDate": "Wed, 12 Aug 2026 04:30:11 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/10/hy-df0y5u_1200x630__1.jpg"
     },
     {
       "id": "1f4d8fa4c8b2c6f89d5d",
@@ -664,8 +875,18 @@
       "image": "https://imagenes.elpais.com/resizer/v2/6PD5MBK4Z5FTTBJKWIPE4JDDMY.jpg?auth=eb83ac259582a1c4201d158d8e97ce75d14c2cedfff6ed8a92be3a1dc380add0"
     },
     {
+      "id": "71a8fbf2016b0896a3f7",
+      "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
+      "summary": "Una bolsa de Shein y, en la otra imagen, una bolsa de Zara. Sarah Meyssonnier / Brais Lorenzo",
+      "link": "https://elpais.com/economia/2026-08-12/inditex-contra-shein-por-que-el-gigante-espanol-quintuplica-los-beneficios-del-asiatico-con-solo-un-10-mas-de-ventas.html",
+      "pubDate": "Wed, 12 Aug 2026 03:45:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/LLGXCSXLNZCO5JUUPG6R42X77U.jpg?auth=f086ebc82321721dd59ae4e68a283d9080a823310a82019973d3ac06a320b768"
+    },
+    {
       "id": "3c7db128237ec573c541",
-      "title": "Se acabó la espera: España vivirá su primer eclipse de Sol total en más de un siglo",
+      "title": "Se acabó la espera: España vivirá su primer eclipse de Sol total del siglo",
       "summary": "Dos investigadores del Instituto de Astrofísica de Canarias preparan uno de los telescopios en una zona de avistamiento del eclipse en Palencia.",
       "link": "https://elpais.com/ciencia/2026-08-12/se-acabo-la-espera-espana-vivira-su-primer-eclipse-de-sol-total-en-mas-de-un-siglo.html",
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
@@ -721,7 +942,7 @@
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/MQOBVQAWWRNWBDXC3P5BOEPSZQ.jpg?auth=82a46ffebbde3e6904f7a501d726fb6935f0216bfe2d95d3f8d1f735c6823273"
+      "image": "https://imagenes.elpais.com/resizer/v2/DU7336ZYYJATLBYFJLRXSVMNGY.jpg?auth=fb41440f40ebcafe112ee1dd8d0c97cc92d6e7c3f80a7de134bb1020a256e26c"
     },
     {
       "id": "86f6c657c71e3d3543a8",
@@ -742,16 +963,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/GL322TMGWRAD7FYXZUYGKISKVI.jpg?auth=6fda6d11edbaee89e408d4a374ce228b8a8626904d40f0867dc3a5faeff97b67"
-    },
-    {
-      "id": "9d6d80213f01a73ba3c4",
-      "title": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
-      "summary": "Ilustración de Gerry y Kate McCann con una imagen de Madeleine.",
-      "link": "https://elpais.com/sociedad/2026-08-12/siete-mil-dias-sin-madeleine-mccann-la-desaparicion-que-estremecio-al-mundo.html",
-      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/67VWH2UKVVG7NAHYEW5L3TKGQE.jpg?auth=ce223ddfc278a32fceefea91b2c46244ad46461b31fb6c9d2f507f1c8592a1ca"
     },
     {
       "id": "49141d708a73cea41493",
@@ -791,7 +1002,7 @@
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TGBLYXM52JLCPERDEUUIK6ITGY.jpg?auth=7b7216c1bc0d922a2205755213f02973155ce86678b084715444b73ec19459bd"
+      "image": "https://imagenes.elpais.com/resizer/v2/4MEEJFCQHZAXFKM4OZJIMQNP4Q.jpg?auth=7be4e60e3aa53aabb3b91ea8c1abf3e4fb25ca6333ce01f31924233040c26fa8"
     },
     {
       "id": "1b60dff6b0187b02d760",
@@ -801,17 +1012,7 @@
       "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/2LAV7Q376JAI5GTUEIFQRLVSQU.jpg?auth=d0242fe6ff26324eed95c3ea70323df8089c8413393855d94b292fc11a12de07"
-    },
-    {
-      "id": "7cc7304b326dc4533e5d",
-      "title": "Quién es Mohsen Rezaí, uno de los nuevos hombres fuertes del líder supremo de Irán",
-      "summary": "Mohsen Rezaí, durante una ceremonia por la muerte del líder supremo Ali Jameneí, el pasado 3 de julio en Teherán.",
-      "link": "https://elpais.com/internacional/2026-08-12/quien-es-mohsen-rezai-uno-de-los-nuevos-hombres-fuertes-del-lider-supremo-de-iran.html",
-      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/B37UG2FWAVLDBK76L2X2LGM64A.jpg?auth=c06df763ddd4653a346c96c242659defdd4bdfd93457a087ee48129f68910955"
+      "image": "https://imagenes.elpais.com/resizer/v2/RKJLF6J3OBASZH72WWMP2SSUVI.jpg?auth=6b877f3e8ac577a2972e22fddbeec94b021b2c3b667ff7f31a03106032d98319"
     },
     {
       "id": "dba450b4bcc3bb5fcc84",
@@ -832,6 +1033,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/KVTKPBKBSNNRVAR4XSEM5JLF2E.jpg?auth=8c2bda7ec5e62c59e574ecd41fc43db64f2a8a6cf2fa61a6a711059174ef365f"
+    },
+    {
+      "id": "4b4a21f403710af55fc8",
+      "title": "Las letras del Tesoro pagan hasta un 40% más que los depósitos y recuperan el favor de los ahorradores",
+      "summary": "Imagen de una moneda de euro",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-08-12/las-letras-del-tesoro-pagan-hasta-un-40-mas-que-los-depositos-y-recuperan-el-favor-de-los-ahorradores.html",
+      "pubDate": "Wed, 12 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/NVWXHXC2ZFK4ZCQGF5TCGJJ23E.jpg?auth=43e168fa312b62bd4046fbb4d4e0220005c45b8b550b8613ee702a24508f2178"
     },
     {
       "id": "42a5546e9965dba4e03d",
@@ -864,6 +1075,17 @@
       "image": "https://imagenes.elpais.com/resizer/v2/AECCTIIXXNHDLHBCDTZEVRG5OU.jpg?auth=f7e41f06b37c4ac636732c6b07d86a0590f8f7f723e3425184e58befae24c67d"
     },
     {
+      "id": "e094feac4895b146b434",
+      "title": "Mojete manchego, otra receta tradicional para combatir el calor a base de tomate",
+      "summary": "Se llama mojete porque es para mojar",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-08-12/mojete-manchego-otra-receta-tradicional-para-combatir-el-calor-a-base-de-tomate.html",
+      "pubDate": "Wed, 12 Aug 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "ia",
+      "image": "https://imagenes.elpais.com/resizer/v2/UUABCLQQYFFFDFTXJMIEZFXX2A.JPG?auth=6f23ba61eba1a6a5bd6a8d199e990ae5cd9a1300c4f3852dd106f80deed42e9f",
+      "subcat": "herramientas"
+    },
+    {
       "id": "bfd1d6de42a5ff07c206",
       "title": "El almacén de campo que tiene casi 120 años permanece en la misma familia y está en un pueblo tranquilo",
       "summary": "Silverio Perroud, el abuelo de Olga Perroud, figura en el libro de contabilidad del Almacén Francou como uno de los primeros clientes. Compró una hoja de sierra, tres velas y cinco kilos de maíz, según muestra Olga. Ella está casada con Roberto Francou, heredero de este almacén de 1907 que está en medio del campo, en colonia El Carmen, Villa Elisa, provincia de Entre Ríos. “Venimos del ducado de Saboya, de los Alpes”, resume Olga sobre el origen de sus ancestros. “Mi bisabuelo tenía 20 años cuando vino, a mediados del siglo XIX. Al igual que el resto de los colonos, tenía un contrato para venir a Corrientes, pero se les venció en altamar y los rechazaron. Entonces Urquiza, que era presidente de la Confederación, los recibió en Villa Paranacito. Dos días estuvieron en aquella zona y preguntaban por los naranjos… Venían a cultivar la tierra. De ahí navegaron hasta el puerto de Colón, donde las embarazadas y los niños quedaron un tiempo en un galpón hasta que, por intermedio de un agrimensor y un escribano que Urquiza había contratado, les asignaron tierras en San José para que se asentaran y trabajaran”, relata Olga. Sabe la historia porque se la contaban los abuelos y quedó documentada en cartas y actas. Ambrosio Francou, bisabuelo de Roberto Francou, era militar y llegó en 1872 desde Bardonecchia, en Italia. Tuvo dos hijos, Emilio y Jorge, el padre de Antonio, fundador del almacén. Lo puso en este lugar estratégico porque muy cerca había calles de arreo y un baño de hacienda. “En primera instancia, no lo hizo solo. Juan Pons era el socio capitalista que puso la plata. Alberto Bazon aportó la mercadería. Y Antonio Francou, el trabajo”, cuenta Olga mientras muestra un cuaderno de actas donde se nota cómo “el abuelo Francou” firmó más chico en el primer contrato. Dice que, a los dos años, en 1909, la sociedad se reestructuró y compró la tercera parte para quedar en igualdad de condiciones, con una firma más grande. Hasta que, en 1910, a fuerza de trabajo, quedó como ún",
@@ -884,16 +1106,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/FWKVLZVOCBFFNEUKY2EU7CWEP4.jpg?auth=d1d74c84383186636bb6428ef0c6023a2516cd89d1f19f82734cb0ac60eae839&smart=true&width=2000&height=1333"
     },
     {
-      "id": "d16bf84320464803f94f",
-      "title": "Dónde desayunan los cocineros cerca del mar",
-      "summary": "Del mercado al café de barrio, desayunar es una de las mejores maneras de conocer un territorio.",
-      "link": "https://elpais.com/gastronomia/donde-comen-los-cocineros/2026-08-12/donde-desayunan-los-cocineros-cerca-del-mar.html",
-      "pubDate": "Wed, 12 Aug 2026 03:25:00 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/IDS2HN4KGJEC7CYY4T3LFGOPYU.jpg?auth=393cfec1f46e1d68f62eb8ae233b19fd829c3286b16a4c527a6e413f1441ff6d"
-    },
-    {
       "id": "6896a0456921508b523d",
       "title": "La Audiencia Nacional confirma la multa de 15.000 euros al periodista de ‘El Confidencial’ que usó información privilegiada",
       "summary": "Sede la CNMV en Madrid.",
@@ -901,48 +1113,7 @@
       "pubDate": "Wed, 12 Aug 2026 03:15:00 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/CJ5G75P2ABMTXDI6QFVTASBZRA.jpg?auth=2547acff43ccb4574eb1602e5d65b3c934915964f86c466287cc633e5d02061f"
-    },
-    {
-      "id": "8c959087b0522a3c189d",
-      "title": "El largo viaje de José Luis Manzano",
-      "summary": "José Luis Manzano pasó a la historia por haber pronunciado en los años 90 la frase “Yo robo para la corona” , que seguramente lo sobrevivirá. Pocas expresiones resumieron con semejante brutalidad una determinada concepción del poder. Tal vez pase a la historia, además, por haber demostrado que en la Argentina el desempeño de cargos públicos puede ser el capital inicial de algunas de las mayores fortunas privadas. Aquella frase no solo inmortalizó a su autor. Terminó convirtiéndose en el símbolo de una época en la que una parte de la dirigencia política dejó de ocultar la corrupción para empezar a justificarla. Ya no se trataba simplemente de admitir un acto ilícito. Se pretendía conferirle una suerte de legitimidad política. La corrupción dejaba de presentarse como una desviación individual para transformarse en un instrumento al servicio de un proyecto de poder. Sin embargo, el interés que hoy despierta Manzano no reside ahora en aquella declaración, sino en el extraordinario recorrido posterior de su vida pública, demostrativo de cómo la política, en la Argentina, se ha convertido, demasiadas veces, en una extraordinariamente productiva fábrica de empresarios . El joven dirigente que encabezó la renovación peronista y fue ministro del Interior del gobierno de Carlos Menem , el político que decidió alejarse del país cuando su imagen pública se había deteriorado profundamente, reapareció años después convertido en un empresario de enorme gravitación en sectores estratégicos de la economía argentina: medios de comunicación, energía, petróleo, minería e infraestructura. Horas atrás, se conoció que, a través de Edenor , empresa de la cual es accionista junto a Daniel Vila y Mauricio Filiberti , Manzano pasará a controlar Metrogas , la principal distribuidora de gas del país, tras su venta por YPF . ¿Qué nos dice sobre la Argentina el hecho de que uno de los protagonistas más controvertidos de la política de los años 90 haya llegado a convertirse, tres décadas después, ",
-      "link": "https://www.lanacion.com.ar/editoriales/el-largo-viaje-de-jose-luis-manzano-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:10:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/LMABY77FO5G4RASWERHRLO7Q5Q.jpg?auth=a891b709f9dff3c8929c4fa3d0bddf188b4df812b41827e95737a87dc754fb6f&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ba0d77a797acb25f17d3",
-      "title": "Mario Mundo tomó el lugar de Julio Lagos en Rivadavia",
-      "summary": "Tras la salida de “El Cholo” Gómez Castañón y Julio Lagos entre otros, Radio Rivadavia inició su etapa de reestructuración. La emisora aplicó un ajustado plan de recortes que provocó una ola de desvinculaciones de periodistas, productores y conductores entre diciembre de 2025 y la actualidad. Las medidas se iniciaron a fines del año pasado, se agudizaron durante el mes de abril y terminaron de impactar de lleno en la programación en agosto, con el final de los ciclos de Gómez Castañón y Lagos durante la última semana. Frente a este panorama, Alpha Media -propietario de la AM 630- reorganizó sus franjas nocturnas y de fin de semana, en medio de crecientes tensiones en las distintas emisoras del grupo. El recorte más reciente comenzó a principios de agosto con la salida de Gómez Castañón, conductor de Desde el Alma. Para cubrir ese espacio, la radio resolvió adelantar la emisión de La oral deportiva , con Daniel Avellaneda, que ahora sale al aire de 20 a 23. A su término, de 23 a 0, se incorporó la emisión del informativo Panorama al cierre. Por otra parte, la desvinculación de Julio Lagos afectó la grilla de los sábados, donde lideraba el ciclo La radio sos vos de 17 a 22. Desde el sábado pasado, El sillón de Rivadavia , conducido por Ricardo Guazzardi, extendió su horario de 13 a 18 (anteriormente finalizaba a las 17). Cabe recordar que el propio Lagos se presentó este sábado 8 de agosto en la emisora ubicada en Colegiales, cuatro días después de que le comunicaran su desvinculación. A través de sus redes explicó que todavía no recibió la notificación oficial y agradeció la lealtad de sus oyentes; además, aclaró que asistió por temor a que argumentaran “abandono de trabajo”. Mientras tanto, el próximo sábado a las 17 retomará su ciclo La radio sos vos a través de su cuenta de Instagram (@RadioLagos). Asimismo, el pasado sábado, el locutor y periodista Mario Mundo asumió la conducción de #Sábado630 de 18 a 22. Mundo cuenta con una extensa trayectoria en madrugadas y ",
-      "link": "https://www.lanacion.com.ar/espectaculos/mario-mundo-tomo-el-lugar-de-julio-lagos-en-rivadavia-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:06:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/AN4LJ5KLZNBKXJ6ESYE7WFDXSE.jpeg?auth=6ecfbb471c3643b2f17121e79f7ac920177efadf5412ac66adb86ddcb56f6752&smart=true&width=2000&height=1333",
-      "subcat": "diseño"
-    },
-    {
-      "id": "b25966db9ee6e92f0402",
-      "title": "La extraña alquimia de transformar una victoria en derrota",
-      "summary": "En el transcurso de los últimos meses, y más intensamente en las últimas semanas , la ciudadanía y la política en general se vieron conmocionadas por el debate público que se suscitó a raíz de una iniciativa del Poder Ejecutivo remitida al Congreso para promover un proyecto de ley que se tituló, de un modo un tanto pretencioso, “Ley de inviolabilidad de la propiedad privada”. El proyecto original consistió en la propuesta de modificación de siete diferentes leyes actualmente vigentes. La primera propuesta apuntó a la reforma del texto de la ley nacional de expropiaciones 21.499; las propuestas segunda y tercera se referían a la introducción de reformas al Código Civil, sancionado por la ley 26.994, y al Código Procesal Civil y Comercial de la Nación –ley 17.464 y sus modificatorias– con el propósito de agilizar los procesos de desalojo de inmuebles; la cuarta iniciativa se vinculaba con la modificación del Régimen de Regularización Dominial para la Integración Socio Urbana (ley 27.453) para la regularización de titularidades de inmuebles localizados en los denominados “barrios populares”; la quinta propuesta se refería a la modificación de la ley del régimen de protección al dominio nacional sobre la propiedad, posesión o tenencia de las tierras rurales –26.737–, con objeto de eliminar restricciones generales contenidas en esa ley para el acceso a la titularidad de tierras rurales por parte de extranjeros. La sexta propuesta estaba relacionada con la ley de manejo del fuego 26.815, y proyectaba dejar sin efecto la prohibición de cambio de destino de las superficies incendiadas por varias décadas, y –finalmente– la séptima propuesta consistía en impulsar la modernización del régimen establecido por la ley N° 17.801, de Registro de la Propiedad Inmueble. Como puede advertirse, el proyecto conformaba una mélange de cuestiones que en nada se vinculaban unas con otras y que poco tenían que ver, en su conjunto, con el gigantesco propósito declamado de reglamentar de un mo",
-      "link": "https://www.lanacion.com.ar/opinion/la-extrana-alquimia-de-transformar-una-victoria-en-derrota-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:06:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/RVQR6LNWLRDFBKDNL3Z4PVX2VU.jpg?auth=d0b72a28f8f9c3f6bbaf93519a5653746878902ff88872f18abd5a49f943c50b&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "eb955ba17d12375fce1e",
-      "title": "La hipocresía de Putin",
-      "summary": "Durante una intervención ante los diputados de la Duma Estatal reunidos en el Kremlin el presidente ruso, Vladimir Putin , sostuvo que los adversarios de Moscú , incapaces de derrotar al país en el campo de batalla, habían optado por métodos abiertamente terroristas contra la población y las infraestructuras situadas en la retaguardia rusa, acciones que atribuyó al respaldo de varios países europeos. Estas descaradas afirmaciones llegan a más de 4 años de la guerra con Ucrania y mientras dentro de Rusia se profundiza la persecución a opositores, periodistas y artistas. El 24 de febrero de 2022 Rusia lanzó una invasión a gran escala contra Ucrania, un país soberano. Desde entonces, ciudades enteras fueron reducidas a escombros. Informes de la Organización de las Naciones Unidas ( ONU ) y de la Oficina del Alto Comisionado para los Derechos Humanos han documentado ataques sistemáticos contra infraestructura civil: hospitales, escuelas, centrales eléctricas y edificios residenciales. Los bombardeos masivos con misiles y drones contra la red energética ucraniana en los inviernos de 2022 y 2023 dejaron a millones de civiles sin luz, agua y sin calefacción en pleno invierno. En marzo de 2023 la Corte Penal Internacional emitió una orden de arresto contra Putin y la comisionada de Rusia para los Derechos del Niño, Maria Lvova-Belova , basándose en sus denunciados crímenes de guerra y el traslado y deportación ilegales de niños ucranianos a Rusia. Actualmente, Ucrania cuenta con información confirmada que ya serían 20.570 los niños deportados . A todo ello se agrega que en Bucha , Irpin y Mariúpol se hallaron fosas comunes y civiles ejecutados. En estas ciudades las fuerzas rusas utilizaron de manera generalizada armas explosivas con efectos de amplio alcance, incluidos bombardeos con tanques y artillería pesada, lanzacohetes de múltiples cañones, misiles y ataques aéreos en zonas residenciales. Las osadas acusaciones de Putin también se contraponen con los aberrantes actos",
-      "link": "https://www.lanacion.com.ar/editoriales/la-hipocresia-de-putin-nid12082026/",
-      "pubDate": "Wed, 12 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/ITLDC6BS2ZBUXCEOCIPFRGRRMY.JPG?auth=fb4ae2d8ed24aec01fe64d920f0ba775b865c1b5906b9e8e2cc65d2feae82646&smart=true&width=2465&height=1643"
+      "image": "https://imagenes.elpais.com/resizer/v2/3GGDZFIY2VI6XCQQKZJQJTQJ6E.jpg?auth=8b6ac42a08f49b318e85cf1319bc1fbb0dce07dced2a958f278b937f0c49af30"
     },
     {
       "id": "98030cade9e2465743cb",
@@ -1003,16 +1174,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7ba8244015b.jpeg"
-    },
-    {
-      "id": "346d82b690799c0c056b",
-      "title": "Inminente Ferran",
-      "summary": "Ferran Torres, en un partido con el Barcelona.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/12/acuerdo-inminente-ferran-entrenara-equipo.html",
-      "pubDate": "Wed, 12 Aug 2026 00:14:32 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7b9dc3572ef.jpeg"
     },
     {
       "id": "3bf683fe177b09d1c8f2",
@@ -1180,26 +1341,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/.jpeg"
     },
     {
-      "id": "deaae1757529339dd331",
-      "title": "Emre Mor y el NEC Nimega dejan sin Champions a Mendilibar y Maffeo",
-      "summary": "Emre Mor celebra el gol de la victoria para el NEC Nimega",
-      "link": "https://www.marca.com/futbol/champions-league/2026/08/11/emre-mor-nec-nimega-dejan-champions-mendilibar.html",
-      "pubDate": "Tue, 11 Aug 2026 22:50:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b7fcba5da2.jpeg"
-    },
-    {
-      "id": "c9771bec89017e943626",
-      "title": "Cáceres acaba séptimo en la enésima exhibición de Tentoglou",
-      "summary": "Eusebio Cáceres durante uno de sus saltos en la final de la longitud.",
-      "link": "https://www.marca.com/atletismo/europeo/2026/08/11/caceres-acaba-septimo-enesima-exhibicion-tentoglou.html",
-      "pubDate": "Tue, 11 Aug 2026 22:43:08 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b861834667.jpeg"
-    },
-    {
       "id": "4f4fbd9ad33e33d15b22",
       "title": "Vengadores: Secret Wars prepara algo enorme para Spider-Man y Wolverine",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Vengadores: Secret Wars podría convertir a dos de los mayores iconos de Marvel en compañeros de viaje. Una nueva filtración apunta a que el Spider-Man de Tobey Maguire y el Wolverine de Hugh Jackman compartirán una misión cuyo objetivo podría ser mucho más importante de lo que parece. Spider-Man y Wolverine tendrían su propia aventura en Vengadores: Secret Wars Marvel Studios sigue guardando bajo llave buena parte de Vengadores: Secret Wars, pero las piezas que van apareciendo dibujan una película todavía más ambiciosa de lo que ya cabía esperar. Después de meses escuchando que Hugh Jackman y Tobey Maguire podrían regresar como Wolverine y Spider-Man, respectivamente, una nueva información asegura que ambos personajes no se limitarían a aparecer para saludar al público. El insider MyTimeToShineH sostiene que Wolverine y Spider-Man emprenderán juntos una misión en Vengadores: Secret Wars. Según esta versión, ambos estarán buscando «algo» o, más concretamente, a «alguien». Wolverine y Spider-Man Conviene tomar la información con pinzas hasta que Marvel Studios confirme oficialmente el regreso de Jackman y Maguire, pero la idea encaja bastante bien con otros detalles que llevan circulando sobre la película. Y, siendo sinceros, juntar al Logan de Hugh Jackman con el Peter Parker de Tobey Maguire durante algo más que una escena de acción es exactamente el tipo de combinación que Secret Wars permite hacer sin necesidad de pedir perdón a nadie. ¿Estarán buscando al Spider-Man de Tom Holland? La identidad de esa misteriosa persona no ha trascendido, aunque existe un candidato bastante evidente: Peter Parker. Más concretamente, el Spider-Man interpretado por Tom Holland . Tom Holland como Spider-Man Vengadores: Secret Wars debería lidiar con las consecuencias de un Multiverso completamente destrozado y con un grupo de supervivientes intentando plantar cara a Doctor Doom. Si algunas realidades desaparecen y sus hab",
@@ -1208,26 +1349,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Wolverine-y-Spider-Man.jpg"
-    },
-    {
-      "id": "86bb3c2579cfa4ed67f5",
-      "title": "El fútbol también sufre el terremoto de Colombia: \"Es difícil ver a tus compañeros llorando\"",
-      "summary": "Destrozos materiales y rescate de heridos en Pereira y Cali.",
-      "link": "https://www.marca.com/futbol/colombia/2026/08/11/futbol-tambien-sufre-terremoto-colombia-dificil-ver-tus-companeros-llorando.html",
-      "pubDate": "Tue, 11 Aug 2026 21:30:40 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b769f2aa3e.jpeg"
-    },
-    {
-      "id": "2cb08238c41450a8ba9c",
-      "title": "Jódar vence a Fils en dos sets y llega por primera vez a unas semifinales de Masters 1000",
-      "summary": "Rafael Jódar celebra su victoria ante Arthur Fils, en Montreal (Canadá) el 11 de agosto.",
-      "link": "https://elpais.com/deportes/tenis/2026-08-11/jodar-vence-a-fils-en-dos-sets-y-llega-por-primera-vez-a-unas-semifinales-de-masters-1000.html",
-      "pubDate": "Tue, 11 Aug 2026 21:28:49 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/BFUS57L73FFDBKRY2QKGDEIUTU.jpg?auth=64d4d5b01bc0ecfb3f96b4052d705dc9671b15b4e4a8d7dc8b558f24b3bac61a"
     },
     {
       "id": "c43823a67c5ce3314b2c",
@@ -1270,66 +1391,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Avengers-Doomsday-Chris-evans-Steve-Rogers.jpg"
     },
     {
-      "id": "68d18bf0a50bd191949a",
-      "title": "¿Por qué el terremoto de Colombia fue tan distinto al de Venezuela? Expertos revelan el dato clave",
-      "summary": "Diferencias entre el terremoto de Colombia y el de Venezuela, según expertos.",
-      "link": "https://www.marca.com/co/2026/08/11/terremoto-colombia-distinto-venezuela-expertos-revelan-dato-clave.html",
-      "pubDate": "Tue, 11 Aug 2026 20:58:54 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b702e4bf60.jpeg"
-    },
-    {
-      "id": "a80ed8fa4338c3efa66c",
-      "title": "Terremoto en Colombia EN DIRECTO | Ya son 224 los fallecidos: mapa de daños en Cali y Pereira",
-      "summary": "Lucha contra el reloj entre los escombros: Más de 200 fallecidos y cientos de atrapados tras el devastador sismo en Colombia.",
-      "link": "https://www.marca.com/co/2026/08/11/terremoto-colombia-directo-son-224-fallecidos-mapa-danos-cali-pereira.html",
-      "pubDate": "Tue, 11 Aug 2026 20:53:23 +0200",
-      "source": "Marca",
-      "cat": "poleco",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b6e47c60df.jpeg"
-    },
-    {
-      "id": "697a1cc94fa833033f3c",
-      "title": "Marta García ejerce de estrella y estrena el medallero español en Birmingham con una plata",
-      "summary": "La palentina mejora el bronce de hace dos años en Roma tras una enorme carrera en la que sólo fue superada por la favorita Nadia Battocletti",
-      "link": "https://www.marca.com/atletismo/europeo/2026/08/11/marta-garcia-ejerce-estrella-estrena-medallero-espanol-birmingham-plata.html",
-      "pubDate": "Tue, 11 Aug 2026 20:50:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b6e6e134c1.jpeg"
-    },
-    {
-      "id": "17af98894dbce2aca029",
-      "title": "El relevo mixto remata el día de los récords con otra plusmarca española",
-      "summary": "Nil Cadevall (20), el bracista del 4x100 estilos",
-      "link": "https://www.marca.com/natacion/2026/08/11/relevo-mixto-remata-dia-records-plusmarca-espanola.html",
-      "pubDate": "Tue, 11 Aug 2026 20:45:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b6db49a837.jpeg"
-    },
-    {
-      "id": "ee4975788a22f93836fb",
-      "title": "Luto en el deporte colombiano: exjugador de Selección Colombia de Baloncesto murió en el terremoto",
-      "summary": "Murió 'Juancho' Barrios, exjugador de la Selección Colombia de Baloncesto, durante el terremoto.",
-      "link": "https://www.marca.com/co/2026/08/11/luto-deporte-colombiano-exjugador-seleccion-colombia-baloncesto-murio-terremoto.html",
-      "pubDate": "Tue, 11 Aug 2026 20:44:52 +0200",
-      "source": "Marca",
-      "cat": "poleco",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b6d0fc2560.jpeg"
-    },
-    {
-      "id": "5defc5f82c0445c2ce7f",
-      "title": "Primer jaleo: el Celta pide aplazar y Osasuna quiere jugar",
-      "summary": "Estadio Balaídos",
-      "link": "https://www.marca.com/futbol/celta/2026/08/11/peligra-celta-osasuna-hongo-cesped-balaidos.html",
-      "pubDate": "Tue, 11 Aug 2026 20:22:40 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b67dd6c452.jpeg"
-    },
-    {
       "id": "b895ba9397feea0443bc",
       "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
       "summary": "Personal de rescate logra sacar con vida a Diana Lucía en un edificio colapsado en Cali, Colombia, este martes.",
@@ -1350,6 +1411,16 @@
       "image": "https://static.eldiario.es/clip/ca2996ca-b68c-4614-aa09-acc6fa83aeb6_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
+      "id": "307b8c15886e1677f040",
+      "title": "Cristiano Ronaldo y Georgina se casan en una ceremonia íntima acompañados de sus cinco hijos",
+      "summary": "Cristiano Ronaldo y Georgina Rodríguez, en Dubái, en diciembre de 2024.",
+      "link": "https://elpais.com/gente/2026-08-11/cristiano-ronaldo-y-georgina-se-casan-en-una-ceremonia-intima-acompanados-de-sus-cinco-hijos.html",
+      "pubDate": "Tue, 11 Aug 2026 20:03:11 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/M6TCYVJRLNBHRHUW4E72UPMABM.jpg?auth=7be5bc0fb12d5ab1eaafc3b7d5a6919a05a52f8728098803acc7b76c6d056da9"
+    },
+    {
       "id": "0f91648b96e50ea3917f",
       "title": "Black Panther 3 prepara el regreso más inesperado de la trilogía",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Black Panther 3 volverá a mirar hacia Talokan, recuperará a Namor y podría traer de vuelta a uno de los personajes cuya historia parecía completamente cerrada en Wakanda Forever . La nueva aventura dirigida por Ryan Coogler empieza a tomar forma y, si estos primeros detalles se confirman, la película tendrá bastante más conexión con el pasado de Wakanda de lo que parecía. Black Panther 3 volverá a llevarnos hasta Talokan Marvel Studios ya ha puesto en marcha Black Panther 3 con Ryan Coogler nuevamente al frente de la franquicia, y las primeras informaciones sobre su historia apuntan directamente a uno de los elementos más interesantes que dejó Wakanda Forever: la complicada relación entre Wakanda y Talokan. The Cosmic Circus asegura que una parte de la película se desarrollará en el reino submarino gobernado por Namor, lo que supondría el regreso de Tenoch Huerta como el mutante conocido como el Submariner. Junto a él también volverían Mabel Cadena como Namora y Alex Livinalli como Attuma, mientras Marvel estaría buscando ya extras tanto para Wakanda como para Talokan. Namor Conviene tomar estos detalles con cautela hasta que Marvel Studios haga oficial la trama, pero la idea tiene bastante sentido teniendo en cuenta dónde quedaron ambos pueblos al final de Black Panther: Wakanda Forever. Shuri y Namor pasaron de intentar matarse mutuamente a alcanzar una tregua incómoda que, desde luego, nunca pareció destinada a durar demasiado. Namora fue precisamente uno de los personajes que peor recibió aquella decisión. Namor le explicó entonces que Wakanda se había quedado sin aliados y que, tarde o temprano, necesitaría a Talokan. Aquella frase parecía una amenaza a largo plazo; ahora podría terminar convirtiéndose en uno de los pilares de Black Panther 3. Vengadores: Doomsday podría cambiar la relación entre Shuri y Namor Antes de llegar a la tercera película de Black Panther, esa alianza tendría otra parada imp",
@@ -1358,36 +1429,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/black-panther-3.jpg"
-    },
-    {
-      "id": "11f536405d4e50d71d43",
-      "title": "¡Estratosférico récord de España de Luca Hoek y a la final!",
-      "summary": "Luca Hoek (18), finalista y plusmarquista español de 100 libre",
-      "link": "https://www.marca.com/natacion/2026/08/11/estratosferico-record-espana-luca-hoek-final.html",
-      "pubDate": "Tue, 11 Aug 2026 19:51:12 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b607eb04cc.jpeg"
-    },
-    {
-      "id": "ef0621b799eb6530f4b8",
-      "title": "Thiago Fernández, cedido hasta final de temporada",
-      "summary": "Thiago Fernández",
-      "link": "https://www.marca.com/futbol/levante/2026/08/11/oficial-thiago-fernandez-cedido-final-temporada.html",
-      "pubDate": "Tue, 11 Aug 2026 19:45:09 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b5f3f44024.jpeg"
-    },
-    {
-      "id": "228f2f39728aceeb5d44",
-      "title": "\"Piqué era uno de mis ídolos y él me llamó para ficharme... ¡imagínate!\"",
-      "summary": "Lautaro Spatz ya luce como tricolor",
-      "link": "https://www.marca.com/futbol/andorra/2026/08/11/spatz-pique-mis-idolos-me-llamo-ficharme-imaginate.html",
-      "pubDate": "Tue, 11 Aug 2026 19:43:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7b5f050bf2d.jpeg"
     },
     {
       "id": "71a91819af600b1bd876",
@@ -1998,16 +2039,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/The-Expanse.jpg"
     },
     {
-      "id": "03c94250b9a83f50c40f",
-      "title": "Backrooms ya tiene fecha de estreno en HBO Max tras convertirse en un fenómeno mundial",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Uno de los grandes fenómenos de terror de 2026 ya tiene fecha para continuar su recorrido fuera de los cines. Backrooms llegará a HBO Max el próximo 25 de septiembre después de protagonizar una carrera comercial extraordinaria que también se ha dejado notar con fuerza en España, donde la película de A24 ha conseguido superar el millón de espectadores gracias a una propuesta nacida directamente de uno de los rincones más inquietantes de Internet. HBO Max ha confirmado que Backrooms se incorporará a su catálogo en España el viernes 25 de septiembre , dando así una nueva oportunidad para descubrir una película que ha terminado convirtiéndose en mucho más que una adaptación destinada exclusivamente a quienes ya conocían el fenómeno original. Protagonizada por Chiwetel Ejiofor y Renate Reinsve , la cinta parte de una premisa tan sencilla como inquietante: una extraña puerta aparece en la pared del sótano de una tienda de muebles y, al otro lado, espera un lugar que nunca debería haber existido. Detrás de las cámaras encontramos además una de las historias más peculiares que ha dado Hollywood durante los últimos años, porque Kane Parsons ha pasado de crear vídeos sobre las Backrooms siendo adolescente a dirigir para A24 el largometraje basado en su propio universo , convirtiéndose con apenas 19 años en el director más joven de la historia del estudio independiente. Backrooms pasó de YouTube a convertirse en una película de A24 Para entender por qué Backrooms ha conectado de esta manera con el público hay que regresar a Internet, donde el concepto comenzó a expandirse alrededor de una idea especialmente efectiva: la existencia de enormes espacios laberínticos situados fuera de nuestra realidad, formados por oficinas vacías, pasillos interminables, luces fluorescentes y habitaciones aparentemente normales cuya arquitectura provoca una sensación difícil de explicar. Son los llamados espacios liminales, lugares fam",
-      "link": "https://www.cinemascomics.com/backrooms-fecha-de-estreno-en-hbo-max/",
-      "pubDate": "Tue, 11 Aug 2026 04:00:42 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/06/Backrooms-2026.jpg"
-    },
-    {
       "id": "622f3bb9d89fd8497955",
       "title": "\"Caos completo\": cómo vivió el terremoto Manizales, una ciudad entre edificios derrumbados y fachadas rotas",
       "summary": "El alcalde de la capital de Caldas, Jorge Rojas, ha descrito la situación del municipio como \"un caos completo\", con más de 15 edificaciones totalmente colapsadas y cerca de un centenar con daños parciales.",
@@ -2047,17 +2078,6 @@
       "cat": "ia",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/buscadores-y-navegadores-mas-usados-del-mundo-1024x614.jpg",
       "subcat": "herramientas"
-    },
-    {
-      "id": "6041f36193067367bfad",
-      "title": "El caso de éxito de La Tienda Home: cómo vender colchones online y crecer durante más de 20 años",
-      "summary": "Jaime Rubio es el CEO de La Tienda Home, una empresa con más de veinte años de trayectoria en el canal online español y que, como veremos, ha crecido mucho, ampliando su alcance con una sólida red de tiendas físicas. Se trata de un llamativo caso de uno de los pioneros de la historia del eCommerce español , que ha sabido abrazar la omnicanalidad y evolucionar en un sector tan competido y, asumámoslo, complejo para la venta online como el del descanso. Para conocer un poco más sobre la situación actual y los planes futuros de esta empresa valenciana, hemos hablado con Jaime. ¿Cómo nació La Tienda Home y en qué etapa se encuentra actualmente? La Tienda Home nació en 2003 como un proyecto centrado en colchones y sofás, en un momento en el que comprar un colchón o un sofá por internet sonaba casi a ciencia ficción. Desde el principio tuvimos claro que vendíamos un producto que tradicionalmente siempre se ha requerido probar antes de comprar, por lo que el reto fue generar esa confianza online. Es por eso que una de las iniciativas pioneras fue crear un equipo de call center que podía asesorar a los clientes con un amplio horario y todos los días de la semana. Más de veinte años después somos una tienda omnicanal referente: una tienda online sólida en latiendahome.com , una red de tiendas físicas con gran presencia nacional y en actual expansión y un centro logístico de 15.000 m² en Murcia que nos permite realizar envíos rápidos a toda la península, incluido de sofás. Diría que estamos en una etapa de consolidación y, a la vez, de reinvención . Consolidación porque el modelo funciona y seguimos creciendo en tiendas y en online; y reinvención porque estamos invirtiendo fuerte en tecnología y en experiencia de cliente: asistentes de IA que ayudan a elegir bien, más personalización, una mejor postventa y, sin perder de vista la sostenibilidad, iniciativas de economía circular. No solo queremos ser una tienda grande; queremos ser una tienda mejor . Acabáis de abrir vuestra t",
-      "link": "https://marketing4ecommerce.net/entrevista-jaime-rubio-la-tienda-home/",
-      "pubDate": "Tue, 04 Aug 2026 08:42:46 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "ia",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/jaime-rubio-latiendahome-1.jpg",
-      "subcat": "diseño"
     },
     {
       "id": "113cdb1ead78f35a2037",
@@ -2272,17 +2292,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7edf/live/9a558c80-929b-11f1-b6aa-e1ff997f01b8.jpg"
-    },
-    {
-      "id": "a484caaf4ed0ce21a31f",
-      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
-      "summary": "Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone . La nueva función aparece documentada en el código de iOS 27 y podría debutar con el lanzamiento del sistema operativo. De acuerdo con 9to5Mac , la beta 5 de iOS 27 incluye referencias a una herramienta interna llamada Apple Reference Image . El objetivo sería validar el origen de una fotografía a través de datos únicos vinculados al hardware de la cámara del iPhone que la capturó. La función todavía no se encuentra activa, aunque su presencia en el código sugiere que la compañía lleva tiempo trabajando en ella. De confirmarse, Apple seguiría un camino similar al de Google, Meta y otras empresas que identifican el contenido generado por inteligencia artificial a través de marcas de agua invisibles para el ojo humano. En el caso de Cupertino, el proceso va a la inversa y busca certificar que una imagen proviene de un sensor de cámara real, sin ediciones posteriores. En pocas palabras, el propósito de Apple Reference Image sería demostrar que tu foto es auténtica y no salió de Gemini o ChatGPT . Al igual que ocurre con otras funciones del iPhone, Apple respetaría la filosofía de privacidad que aplica a sus procesos en la nube. La fotografía n unca se subirá a los servidores de Apple en su forma original , ya que el análisis se llevará a cabo en Private Cloud Compute. El sistema solo recibirá información del sensor y ciertos metadatos, pero no tendrá acceso al archivo completo. Imagen: 9to5Mac. ¿Cómo podrás usar el Modo Referencia del iPhone en iOS 27? Según el reporte, la función llegará apagada de forma predeterminada . Si quieres activarla, tendrás que entrar en los Ajustes , luego en Cámara , buscar la sección Reference Image y encender el Modo Referencia desde ahí. Otro detalle a considerar es que este modo debe seleccionarse ant",
-      "link": "https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/",
-      "pubDate": "Mon, 10 Aug 2026 23:40:12 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/iPhone-18.jpg?fit=1024%2C631&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
     },
     {
       "id": "4204ff8af0789fb1f9ec",
@@ -2537,16 +2546,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "a02e526c9382b27c7bfa",
-      "title": "Los precios de las memorias borran 20 años de progreso en PCs",
-      "summary": "Los precios de las memorias vienen mostrando una tendencia alcista desde hace año y medio y la mayoría de analistas predicen nuevos aumentos en el futuro. Un destacado desarrollador de GitHub ha publicado una serie de gráficos que muestran la rapidez con la que los precios se han disparado hasta alcanzar los niveles de 2007 por unidad, lo que entiende como una reversión de dos décadas de progreso en el objetivo de abaratar el hardware para PC y facilitar el acceso a cualquier persona. Daniel Lemire , experto en rendimiento de software, científico y desarrollador de GitHub, comparó el histórico de precios de las memorias para ordenadores personales, confirmando lo que ya habíamos visto en los últimos índices de precios minoristas : la situación del mercado tecnológico es terrible . Los consumidores no pueden pagar estos precios; las empresas tienen que retrasar la actualización de infraestructura; los fabricantes OEM no tienen componentes para fabricar equipos y el canal minorista está aterrado por la caída de ventas brutal que se espera para el segundo semestre del año. Los precios de las memorias se han disparado El investigador asegura que esta subida de precios es una anomalía histórica y no recuerda ningún caso en el que los precios del hardware tecnológico haya vuelto a los niveles de décadas anteriores. Aquí hay que recordar la cita de Tim Cook al anunciar subida de precios general en Apple: «nunca había visto nada igual en ningún otro sector en más de 40 años» . Daniel Lemire explica que los avances tecnológicos, especialmente en la fabricación, procesos de producción cada vez más avanzados y miniaturización, lograron que la tecnología se abaratara con el tiempo . Esto ha sido así desde la creación del primer ordenador digital de propósito general hace 80 años, un ENIAC que costaba la friolera de 400.000 dólares en 1946. La situación se ha dado la vuelta por completo, en muy poco tiempo y con cifras ya insostenibles. Como ejemplo: la memoria RAM ha subido un ",
-      "link": "https://www.muycomputer.com/2026/08/10/los-precios-de-las-memorias-borran-20-anos-de-progreso-en-pcs/",
-      "pubDate": "Mon, 10 Aug 2026 07:36:06 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/precios_de_las_memorias_2.jpg"
-    },
-    {
       "id": "309e2f7092759935cf52",
       "title": "Historia de Internet: cómo nació y cuál fue su evolución",
       "summary": "La historia de Internet es fascinante, y está llena de hitos que han transformado el mundo tal y como lo conocemos. Una tecnología que nació, en su momento, como un proyecto militar para poder asegurar las comunicaciones entre diferentes puntos de Estados Unidos en caso de sufrir un ataque de gran magnitud pero que, por suerte, nunca se llegó a emplear en esta situación. Hoy en día Internet es una herramienta fundamental para la inmensa mayoría de la población mundial, que ha cambiado nuestra forma de actuar, de comunicarnos y de trabajar de la sociedad. Vamos a ver paso a paso cómo fueron las etapas de este proceso. Si prefieres verlo en versión vídeo, te lo contamos aquí mismo . Si no, sigue leyendo 🙂 Historia de Internet: tabla de contenidos Cómo nació Internet: la Guerra Fría ARPA la agencia que sentó las bases de Internet ARPANET De ARPANET a WWW La era de las redes sociales El auge de los eCommerce en la historia de Internet La era de la inteligencia artificial Cómo nació Internet: la Guerra Fría Para empezar la historia de Internet, retrocedemos hasta 1947, cuando empieza la Guerra fría , enfrentamiento iniciado al finalizar la Segunda Guerra Mundial. Como bien sabes, se trata de un conflicto provocado por la tensión entre el bloque occidental-capitalista liderado por Estados Unidos y el oriental-comunista liderado entonces por la Unión Soviética . En éste se enfrentaban dos modelos opuestos que luchaban por implantar su método e ideología en todo el mundo. El motivo de llamar a este enfrentamiento &#8220;guerra fría&#8221; es debido a que nunca se enfrentaron directamente sino que, en contrapartida, fueron implicando al resto de países con el objetivo de ir expandiendo su modelo. Tras un largo periodo de enfrentamientos, durante la última etapa, el modelo económico soviético se estancó y Estados unidos se reforzó militarmente, lo que le posicionó entonces en una situación favorable. En 1985 Gorbachov ascendió al poder y fue el que impulsó una serie de reform",
@@ -2576,16 +2575,6 @@
       "source": "Marketing4ecommerce",
       "cat": "tech",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/nieves-ramos.jpg"
-    },
-    {
-      "id": "388249c5962a0c5040f8",
-      "title": "ASUS presenta el Vivobook Pro 16",
-      "summary": "ASUS ha anunciado el lanzamiento del Vivobook Pro 16 , un portátil para la batalla diaria que destaca por su pantalla OLED y su hardware interno con base en los Ryzen de AMD. ASUS amplía así las opciones de un modelo que ya estaba disponible con procesadores Intel y que ahora monta un AMD Ryzen AI 9 465 , un modelo con 10 núcleos y 20 hilos, frecuencias de hasta 5 GHz y 34 Mbytes de caché totales. El fabricante utiliza un sistema de refrigeración con un ventilador de 75 mm, aletas de refrigeración de cobre y un tubo de calor D10 para mantener a raya las temperaturas. La tarjeta gráfica es una Radeon 880M con 12 núcleos y frecuencia de 2900 MHz. Aunque es una integrada, ofrecer la suficiente potencia para cualquier uso informático y también juegos ligeros. Frente al modelo de Intel, ASUS ha reducido la capacidad de la memoria base a 16 Gbytes y la SSD para almacenamiento a 512 Gbytes . Suficiente para una instalación típica de Windows 11 y ampliables si fuera necesario, tiene el objetico de abaratar el precio de venta en pleno MEMOpocalipsis. La pantalla es uno de los grandes reclamos de este portátil. Monta un panel OLED de 16 pulgadas con una resolución nativa QHD para ofrecer una densidad de 2560×1600. Su frecuencia de actualización asciende a 165 Hz, su brillo máximo alcanza hasta los 1100 nits, cubre el 100% de la gama de color DCI-P3 y es compatible con DisplayHDR 1000 . ASUS mantiene el chasis premium en aluminio, delgadez extrema y un peso de tan solo 1,65 kg para facilitar su transporte y manejo. Incluye una batería de 80 Wh, con carga de 100 vatios mediante un puerto USB Tipo-C y promete hasta 20 horas de autonomía . Dispone de dos puertos USB Tipo-A, salida HDMI 2.0 y un puerto USB4 con velocidad de transferencia de hasta 40 Gbps. La conectividad se completa con Wi-Fi 7 y Bluetooth 5.4 , un panel táctil de generoso tamaño (7,1 pulgadas), teclado retroiluminado, altavoces estéreo y una cámara web con sensor IR que trabaja con Windows Hello en tareas de aute",
-      "link": "https://www.muycomputer.com/2026/08/10/asus-presenta-el-vivobook-pro-16/",
-      "pubDate": "Mon, 10 Aug 2026 06:09:10 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Vivobook_Pro_16_3.jpg"
     },
     {
       "id": "e86522c1952bc1eda03b",
@@ -2715,7 +2704,7 @@
       "title": "Segunda noche de búsqueda de sobrevivientes en Colombia tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
       "summary": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente Abelardo de la Espriella decretó desastre nacional para actuar ante el sismo catalogado como el más fuerte de la última década en el país.",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-12T07:14:36.523884+00:00",
+      "pubDate": "2026-08-12T09:04:48.168973+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8edc/live/f4e41500-95ba-11f1-a556-013790f38050.png"
@@ -2793,19 +2782,19 @@
         "cls": "rb-green"
       },
       {
-        "name": "Sora",
-        "type": "Video AI",
-        "badge": "Trending",
-        "cls": "rb-green"
-      },
-      {
         "name": "Gemini",
         "type": "Modelo",
+        "badge": "En foco",
+        "cls": "rb-accent"
+      },
+      {
+        "name": "Sora",
+        "type": "Video AI",
         "badge": "En foco",
         "cls": "rb-accent"
       }
     ],
     "rising": []
   },
-  "updated": "2026-08-12T07:15:05.787160+00:00"
+  "updated": "2026-08-12T09:05:20.723572+00:00"
 }
