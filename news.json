@@ -101,27 +101,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/492a/live/64be39c0-9659-11f1-ad58-9debde8148f5.jpg"
     },
     {
-      "id": "cca227d2e4efb4b8bc55",
-      "title": "Samsung ya está usando Claude Code para acelerar el desarrollo de sus chips para móviles",
-      "summary": "Samsung ha tomado una decisión que podría mejorar el rendimiento de los próximos Galaxy gracias a la IA. La compañía implementó el uso de Claude Code en la división System LSI, encargada de sus procesadores móviles. Según los resultados internos, los ingenieros han conseguido reducir hasta en quince veces el tiempo de desarrollo en algunos procesos críticos. Un reporte de Chosun Biz señala que la unidad de semiconductores de Samsung comenzó a usar Claude Code desde hace tres meses. El experimento, que comenzó como acceso limitado para los equipos de software, terminó extendiéndose a otras áreas más especializadas. Entre ellas se encuentra la responsable de verificar los SoC que diseña Samsung para sus clientes externos. Entre los primeros resultados se encuentra un proyecto en el que el chip requería una arquitectura nueva y utilizaba un diseño de un proveedor externo. Los ingenieros de Samsung se encontraron con que la documentación estandarizada todavía no estaba disponible, mientras que un archivo indispensable para avanzar con la verificación de la estructura de datos del SoC no llegó en la fecha prevista. En lugar de pausar el trabajo hasta obtener la información, los ingenieros alimentaron a Claude con los datos de diseño del chip que sí tenían, las especificaciones de comunicación interna y otros datos de verificación que suministró la empresa externa. Una vez hecho esto, la herramienta de Anthropic localizó dónde debía ubicarse cada bloque de verificación, los conectó entre sí y construyó un entorno virtual de pruebas. Claude Code tardó horas en completar tareas que toman más de un mes Para suplir la ausencia del archivo RTL que no llegó a tiempo, Claude Code generó bloques virtuales que permitieron revisar las rutas de datos más importantes antes de materializar un diseño definitivo. Samsung menciona que sus ingenieros no reportaron los fallos que suelen ocurrir en este proceso , lo que significa que la IA fue más precisa para ejecutar tareas repetitivas qu",
-      "link": "https://hipertextual.com/inteligencia-artificial/samsung-claude-code-diseno-chips-anthropic/",
-      "pubDate": "Wed, 12 Aug 2026 18:35:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/claude-code-1.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "7b831af0fcd818b35722",
-      "title": "La nueva versión de Windows 11 funciona mucho mejor, incluso aunque tu PC tenga poca RAM",
-      "summary": "Si tienes un PC que se está quedan corto para los requerimientos de hardware de la mayoría del software actual, la más reciente versión de Windows 11 te trae buenas noticias. Microsoft ha lanzado una nueva actualización de su sistema operativo que incluye optimizaciones en materia de rendimiento y confiabilidad. Estas novedades son especialmente notorias para los ordenadores con Windows 11 que tienen poca RAM . De acuerdo con Windows Central , algunas de las mejoras se sentirán más en equipos con 8 o 12 GB de memoria que en aquellos que están más holgados en materia de especificaciones técnicas. Considerando el precio excesivo (y en muchos casos prohibitivo) de la memoria RAM, no está de más que Microsoft haga su parte para facilitarle la vida a quienes usan Windows 11 en equipos de bajas prestaciones. Según se reporta, la más reciente versión del sistema operativo optimiza el funcionamiento del Explorador de archivos para que sea más responsivo al abrir archivos o desplegar menús emergentes. Asimismo, debería sentirse más rápido al usar la Vista de tareas para moverse entre las ventanas de programas y carpetas abiertas, a través del atajo Win + Tab. Otras mejoras de rendimiento y confiabilidad deberían verse en la Barra de tareas , el menú Inicio y las pantallas de bloqueo e inicio de sesión. Windows 11 por fin funcionará más rápido en PC con poca RAM Microsoft lleva tiempo prometiendo mejoras de rendimiento en Windows 11, después de años de quejas de los usuarios por la lentitud que ofrece la plataforma. Con la actualización que se lanzó esta semana, y que está disponible para quienes usan las versiones 24H2, 25H2 y 26H1 , está empezando a cumplirlo. Claro que todavía queda mucho trabajo por hacer y que no se va a solucionar en lo inmediato. Días atrás, Marcus Ash, jefe de diseño del sistema operativo, explicó que la pesadez de Windows 11 y la falta de optimizaciones a mayor velocidad responden a muchas funciones heredadas y controladores activos que son cruciales",
-      "link": "https://hipertextual.com/software/windows-11-funciona-mejor-menos-ram/",
-      "pubDate": "Wed, 12 Aug 2026 17:41:45 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/windows-KXIWqtmvfxg-unsplash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "59e558cc8df93187c5ce",
       "title": "Santilli admitió ante el Norte Grande que la recuperación no llega a todos y pidió tiempo: “No hay atajos”",
       "summary": "El jefe de Gabinete reconoció en Posadas el “enorme” esfuerzo de la sociedad y habló de transformaciones que en otros países demoraron entre tres y siete años. Los gobernadores reclamaron por energía e infraestructura. Desde temprano, el movimiento empez a concentrarse alrededor del Parque del Conocimiento de Posadas . Uno a uno fueron llegando los gobernadores y representantes de las provincias del Norte Grande para participar de la 24 Asamblea regional , con Hugo Passalacqua como anfitri n y una agenda cargada de reclamos por energ a, infraestructura y recursos. La foto institucional estaba prevista para media ma ana, pero buena parte de la pol tica ya hab a empezado antes, entre saludos, conversaciones breves y la expectativa por la llegada del jefe de Gabinete, Diego Santilli . Santilli aterriz en Misiones con una misi n que exced a la formalidad de acompa ar una cumbre de gobernadores. La Casa Rosada viene de varios d as de negociaciones intensas con las provincias y necesita sostener esos v nculos para avanzar con su agenda legislativa. Pero antes de sentarse a escuchar reclamos sobre rutas, tarifas y zonas c lidas, el funcionario dej una definici n que termin atravesando buena parte de la jornada. El esfuerzo que ha hecho la sociedad es enorme, es enorme, y eso hay que destacarlo , dijo apenas lleg a Posadas. Diego Santilli en la reunión del Norte Grande en Posadas. La frase funcion como reconocimiento y tambi n como pedido de paciencia. Consultado por la demora en la recuperaci n del consumo, la actividad y los ingresos, Santilli defendi el rumbo econ mico, aunque admiti que la mejora todav a no alcanza a todos . Estamos en una etapa de transici n de una econom a que destru a los sectores productivos a una econom a que fortalece los sectores productivos , sostuvo. El jefe de Gabinete reconoci adem s que el crecimiento es dispar. Es un proceso de transformaci n del pa s donde se ven muchas industrias que crecen, otras que no. Nosotros estamos tratando de que ",
@@ -378,16 +357,6 @@
       "image": "https://static.eldiario.es/clip/97e9165e-6346-4e17-b784-d52b44f214b3_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "95dec9369759bdce9303",
-      "title": "GTA VI podría haber costado más de 80 dólares: la versión de 100 dólares es la más reservada",
-      "summary": "El CEO de Take-Two, Strauss Zelnick, ha comentado que si hubieran querido podrían haber lanzado GTA VI a un precio más alto, pero que al final optaron por dividirlo en dos ediciones con precios distintos para centrarse en ofrecer un valor más interesante con el que llegar a un público más amplio, pero sin olvidarse de aquellos que tienen un presupuesto mayor y que pueden (y quieren) pagar más por un juego a cambio de más contenido. Esto quiere decir que, tal y como indicaban los primeros rumores, GTA VI podría haber llegado a un precio de 90 o incluso de 100 dólares-euros en su versión estándar, pero al final Take-Two optó por crear dos ediciones diferentes con precios distintos, la estándar, que cuesta 79,99 dólares-euros , y la «ultimate», que tiene un precio de 99,99 dólares-euros. La única diferencia entre ambos está en el contenido que trae cada una. La versión «ultimate» viene con una serie de contenidos estéticos que son los que marcan la diferencia, y los que justifican pagar 20 dólares-euros más. Personalmente creo que ha sido una estrategia redonda, porque a Rockstar le cuesta muy poco crear ese contenido digital adicional, y venderlo por 20 dólares-euros es un negocio redondo. Además, la jugada les ha salido muy bien, porque según las últimas informaciones la edición «ultimate» es la más reservada. Por las palabras de Zelnick resulta evidente que el ejecutivo tenía claro que si hubieran lanzado GTA VI con un precio de 100 dólares-euros este se habría vendido igual de bien , y la verdad es que viendo las expectativas que ha generado este título estoy totalmente de acuerdo. Al final este juego es el más esperado y el más importante del año, y está claro que si alguien está dispuesto a pagar 80 dólares-euros por él también estará abierto a pagar 100 dólares-euros. No obstante, creo que Take-Two al final optó por la primera cifra porque sabía que eso le iba a permitir llegar a más gente , y porque al final le compensa más vender una mayor cantidad de copias y",
-      "link": "https://www.muycomputer.com/2026/08/11/gta-vi-podria-haber-costado-mas-de-80-dolares-la-version-de-100-dolares-es-la-mas-reservada/",
-      "pubDate": "Tue, 11 Aug 2026 15:07:22 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/GTA-VI.jpg"
-    },
-    {
       "id": "e6fdb515e1eddbd00bdc",
       "title": "Los mapas y gráficos que muestran la magnitud y el impacto del potente terremoto en Colombia",
       "summary": "Colombia se ubica sobre la zona de interacción de tres placas tectónicas. Es una de las naciones con mayor actividad sísmica de América Latina y ha sido escenario de potentes terremotos como el de este lunes.",
@@ -601,46 +570,6 @@
       "image": "https://static.eldiario.es/clip/ba9fe1ea-42a6-46a4-a1ab-dbc5c2a89ec6_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "23799147b2afddcf73df",
-      "title": "El equipo ‘A’ del Valencia da aire a Corberán",
-      "summary": "Amistoso entre el Valencia y Hércules.",
-      "link": "https://www.marca.com/futbol/valencia/2026/08/13/equipo-valencia-da-aire-corberan.html",
-      "pubDate": "Thu, 13 Aug 2026 21:35:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e1c13849e9.jpeg"
-    },
-    {
-      "id": "ae89b829906e3cec5925",
-      "title": "El Paseo de la Castellana, el primero en ver el 'nuevo' Bernabéu",
-      "summary": "La plantilla del nuevo Oviedo de Calero, Jefté, Arribas y Arnau Tenas",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/13/paseo-castellana-primero-ver-nuevo-bernabeu-video.html",
-      "pubDate": "Thu, 13 Aug 2026 21:28:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7df4113d6b3.jpeg"
-    },
-    {
-      "id": "882a353608b0b6953c99",
-      "title": "¡Sin tiempo para descansar! El Madrid vuelve al trabajo tras ganar el Teresa Herrera",
-      "summary": "El Real Madrid ya ha vuelto a los entrenamientos después de imponerse ayer al Deportivo de A Coruña y conquistar el Trofeo Teresa Herrera. El conjunto blanco continúa así con su preparación de cara a la nueva temporada.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/13/descansar-madrid-vuelve-trabajo-ganar-teresa-herrera-video.html",
-      "pubDate": "Thu, 13 Aug 2026 21:15:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/dPEsk1gVXUGGwKuBa.jpeg"
-    },
-    {
-      "id": "eee49e8ec3d31ec168c9",
-      "title": "Abrumador éxito de Joma como patrocinador técnico del Europeo",
-      "summary": "Sus tiendas están abarrotadas y la marca es cada vez más conocida a nivel global",
-      "link": "https://www.marca.com/atletismo/europeo/2026/08/13/abrumador-exito-joma-patrocinador-tecnico-europeo.html",
-      "pubDate": "Thu, 13 Aug 2026 21:09:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/3tWDCOS.jpeg"
-    },
-    {
       "id": "5e1b3fcd5864cee414ce",
       "title": "Diputados opositores piden interpelar a Caputo por el destino de los fondos del sistema vial",
       "summary": "El proyecto fue presentado por un grupo de legisladores que reclama explicaciones al ministro de Economía sobre los recursos del Sistema Vial Integrado (SISVIAL), su ejecución y el eventual uso de esos fondos para contribuir al resultado fiscal. También solicitan información sobre el impacto de la reducción de la inversión vial en la seguridad de las rutas nacionales. Un grupo de diputados present un proyecto de resoluci n para citar a interpelaci n al ministro de Econom a, Luis Caputo , con el objetivo de que concurra a la C mara de Diputados y brinde explicaciones sobre el destino y la utilizaci n de los recursos del Sistema Vial Integrado (SISVIAL). La iniciativa fue impulsada por los peronistas Marina Salzmann, Cecilia Moreau, Germ n Mart nez, Guillermo Michel, Victoria Tolosa Paz, Mart n Aveiro, Jorge Koky Araujo y Caren Tepp , quienes solicitaron que el funcionario presente informaci n detallada, circunstanciada y documentada sobre los fondos destinados al sistema vial desde el 10 de diciembre de 2023 hasta la fecha de la sesi n informativa. El pedido se realiza en el marco del art culo 71 de la Constituci n Nacional y de los art culos 204, 205 y 206 del Reglamento de la C mara de Diputados, que establecen los mecanismos para convocar a los ministros del Poder Ejecutivo a brindar explicaciones ante el Congreso. Entre los principales puntos planteados, los legisladores reclaman conocer el total de recursos que ingresaron al SISVIAL desde diciembre de 2023, discriminados mes a mes. Tambi n solicitan que se detalle cu nto dinero fue efectivamente transferido y utilizado para la construcci n, conservaci n, mantenimiento, rehabilitaci n y mejora de la Red Vial Nacional. En este ltimo caso, el proyecto pide que la informaci n sea presentada de manera desagregada por ejercicio presupuestario, provincia, corredor, ruta, tramo y tipo de intervenci n. Otro de los interrogantes est relacionado con los fondos que no hayan sido utilizados. Los diputados pretenden conocer l",
@@ -661,26 +590,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/en-el-corazon-de-la-bestia.jpg"
     },
     {
-      "id": "444ce434426d3caabc23",
-      "title": "Los minutos de terror de Yhormar Hurtado en el terremoto: \"Salté de un segundo piso para salvar mi vida\"",
-      "summary": "El escalofriante testimonio de Yhormar Hurtado, figura de América en el terremoto.",
-      "link": "https://www.marca.com/co/2026/08/13/minutos-terror-yhormar-hurtado-terremoto-salte-segundo-piso-salvar-mi-vida.html",
-      "pubDate": "Thu, 13 Aug 2026 20:53:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e11a1bfc8d.jpeg"
-    },
-    {
-      "id": "e7f9e821948d3dcdfc35",
-      "title": "Dimayor aplaza nuevamente la jornada y fija nueva fecha de retorno",
-      "summary": "Dimayor confirma cuándo vuelve el fútbol colombiano y la nueva fecha.",
-      "link": "https://www.marca.com/co/2026/08/13/dimayor-aplaza-nuevamente-jornada-fija-nueva-fecha-retorno.html",
-      "pubDate": "Thu, 13 Aug 2026 20:46:04 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e0f2702e6f.jpeg"
-    },
-    {
       "id": "a7443edccd2792b37353",
       "title": "Matthew McConaughey revela por qué rechazó ser Joel en ‘The Last of Us’",
       "summary": "Después de años de rumores y especulaciones, Matthew McConaughey confirmó que le fue ofrecido el rol de Joel en The Last of Us antes que a Pedro Pascal . Pero no solo eso, sino que también reveló por qué decidió no aceptar el protagónico en la exitosa adaptación del videojuego de Naughty Dog. Durante su participación en el pódcast Happy Sad Confused , el actor reconoció que tuvo una reunión con Craig Mazin cuando la serie de HBO todavía estaba en etapas preliminares de desarrollo. Según McConaughey, la propuesta para sumarse a The Last of Us llegó en un momento de su carrera donde había dejado un poco de lado la actuación. \"En ese momento no actuaba mucho. Creo que fue cuando me estaba dedicando más a escribir y a buscar roles de liderazgo. Fue genial. Él [por Craig Mazin] estaba muy entusiasmado. Corríjanme si me equivoco, no soy un gran aficionado a la televisión, pero logramos un verdadero éxito con True Detective en una época en la que las series no eran algo que actores como Woody Harrelson o yo hiciéramos fácilmente. Fue un éxito rotundo. The Last of Us fue muy buena, pero no era para mí en ese momento\", explicó. Vale recordar que Matthew McConaughey se alejó bastante de Hollywood en los últimos años, apareciendo en contadas producciones. Desde 2020 hacia aquí protagonizó solo en tres largometrajes: el animado Sing 2 (2021), Laberinto en llamas (2025) y The Rivals of Amziah King (2025). Esta última está llegando recién ahora a los cines, luego de proyectarse de forma limitada en el festival SXSW de 2025. Matthew McConaughey pudo ser Joel en la serie de The Last of Us , pero lo rechazó El propio Matthew McConaughey mencionó que cuando le ofrecieron la posibilidad de estar en The Last of Us , no estaba convencido de querer sumarse a un proyecto televisivo de larga duración . Finalmente, el rol de Joel quedó en manos de Pedro Pascal, cuya interpretación en la primera temporada de la adaptación recibió aclamación global. De haber aceptado The Last of Us , McConaug",
@@ -692,16 +601,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "94bbe7c59c4faef902c9",
-      "title": "Terremoto de 7,4 en Colombia: la cifra de fallecidos asciende a 273 mientras avanzan las labores de rescate",
-      "summary": "Tragedia por el terremoto en Colombia: ya son 265 muertos y más de 3.000 heridos en el país.",
-      "link": "https://www.marca.com/co/2026/08/13/terremoto-7-4-colombia-cifra-fallecidos-asciende-273-avanzan-labores-rescate.html",
-      "pubDate": "Thu, 13 Aug 2026 20:24:35 +0200",
-      "source": "Marca",
-      "cat": "poleco",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e08877890a.jpeg"
-    },
-    {
       "id": "c43cd90825f0066d9492",
       "title": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
       "summary": "El senador Flávio Bolsonaro, este jueves en un mitin en Curitiba junto a Sérgio Moro (derecha), el antiguo juez y ministro que encarceló a Lula.",
@@ -710,16 +609,6 @@
       "source": "El Pais",
       "cat": "ar_pol",
       "image": "https://imagenes.elpais.com/resizer/v2/7UYWWWT6CNLQJLTXL5GTIMVIYQ.jpg?auth=a1a8a9cac81ee6edaac13253e62aa16a64ec0b6578f7fd2ff270f1187c360df7"
-    },
-    {
-      "id": "4830dc20d3956baddf60",
-      "title": "Landaluce brilla ante Draper en Cincinnati",
-      "summary": "Martín Landaluce pegando de derecha.",
-      "link": "https://www.marca.com/tenis/2026/08/13/landaluce-brilla-draper-cincinnati.html",
-      "pubDate": "Thu, 13 Aug 2026 20:05:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e02d0b906e.jpeg"
     },
     {
       "id": "70d83c062850341606e2",
@@ -740,26 +629,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/lanterns-hbo-max-dc.jpg"
-    },
-    {
-      "id": "f3552d70ccd3a2296dc2",
-      "title": "Un récord de España sideral no vale un podio en el 4x100",
-      "summary": "Miguel Pérez Godoy, el tercer relevista español",
-      "link": "https://www.marca.com/natacion/2026/08/13/record-espana-sideral-vale-podio-4x100.html",
-      "pubDate": "Thu, 13 Aug 2026 19:58:02 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e01a38dc83.jpeg"
-    },
-    {
-      "id": "7683b2ad70920c5fa729",
-      "title": "La amenaza del fuego obliga a trasladar restos óseos del monasterio de San Juan de la Peña en Huesca",
-      "summary": "Incendio forestal en Las Peñas de Riglos (Huesca), este viernes.",
-      "link": "https://elpais.com/espana/2026-08-13/la-amenaza-del-fuego-obliga-a-trasladar-restos-oseos-del-monasterio-de-san-juan-de-la-pena-en-huesca.html",
-      "pubDate": "Thu, 13 Aug 2026 19:48:42 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/HOIUI5UGPNO7LAZOIASH4WDXVM.jpg?auth=97be1b43a234460969c846c74c8453c77ae0dfe400bf0ca9d4503b8cd6918df5"
     },
     {
       "id": "6ae83450a5623ccbe46d",
@@ -1159,16 +1028,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/657e/live/3442ab00-96fe-11f1-b72c-211ea4e0afc4.jpg"
     },
     {
-      "id": "f6a83928f14a43997ca7",
-      "title": "Estrenos de cine del 14 de agosto de 2026 en España: Anne Hathaway, Marsupilami y acción en plena cartelera de verano",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com La cartelera española encara el puente de agosto con una de esas semanas en las que resulta difícil quedarse con un único género. Hay aventura familiar, un extraño misterio cósmico con Anne Hathaway y Ewan McGregor , acción en las calles de Londres, cine español, propuestas de autor y hasta un viaje a la Alemania recién reunificada. En total, nueve películas se incorporan a las salas durante la semana del 14 de agosto. Tres de ellas, Marsupilami , Kangaroo: Una aventura en Australia y Katseye: Wild Hearts , adelantan su llegada al miércoles 12 de agosto , mientras que el resto se estrenan el viernes 14 de agosto de 2026 . Repasamos todas las novedades que podrás encontrar en los cines españoles. Marsupilami (12 de agosto) Uno de los estrenos familiares más potentes de la semana es Marsupilami , nueva adaptación cinematográfica del popular personaje creado por André Franquin. Philippe Lacheau dirige y protagoniza la película junto a Jamel Debbouze , Tarek Boudali , Élodie Fontan y Julien Arruti , apostando por una mezcla de comedia y aventuras pensada para disfrutar durante las vacaciones. David necesita salvar su trabajo en un zoo y acepta viajar hasta Sudamérica para recuperar un misterioso paquete. El problema comienza cuando su compañero Stéphane lo abre accidentalmente durante un crucero y descubre que dentro se esconde un bebé marsupilami. A partir de ahí, el viaje familiar se convierte en un auténtico caos. Kangaroo: Una aventura en Australia (12 de agosto) Australia pone el escenario para otra de las propuestas familiares de la semana. Kate Woods dirige Kangaroo: Una aventura en Australia , protagonizada por Ryan Corr , Lily Whiteley , Deborah Mailman , Wayne Blair y Salvatore Coco . Chris Masterman es una estrella televisiva caída en desgracia que termina atrapada en una pequeña localidad cercana a Alice Springs. Allí conoce a Charlie, una niña indígena de 12 años con una enorme pasión por los ani",
-      "link": "https://www.cinemascomics.com/estrenos-de-cine-del-14-de-agosto-de-2026/",
-      "pubDate": "Thu, 13 Aug 2026 10:00:55 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/El-final-de-Oak-Street-protagonistas.jpg"
-    },
-    {
       "id": "5537ce9026e7dae922ac",
       "title": "Las familias palestinas que llevan 4 días asediadas por colonos israelíes en Cisjordania",
       "summary": "Según los informes, las fuerzas de seguridad israelíes se han retirado y se dice que alrededor de una docena de colonos permanecen en el lugar donde dos familias han estado sitiadas desde el domingo.",
@@ -1269,16 +1128,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/mc-basics.jpg"
     },
     {
-      "id": "2cc6b7725c04cc08cac3",
-      "title": "Primera imagen del rodaje de Fallout temporada 3",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Fallout ya está rodando su temporada 3 y las primeras imágenes desde el set revelan cuál podría ser una de las paradas del viaje del Ghoul. Walton Goggins ha sido visto grabando nuevas escenas en California, en un escenario transformado por completo para parecer otra ciudad arrasada del Yermo. Fallout no tiene intención de bajar el ritmo después de todo lo ocurrido al final de su segunda temporada. Lucy quedó frente a frente con Hank, la Hermandad del Acero se prepara para reforzar todavía más su arsenal y el Ghoul puso rumbo hacia Colorado en busca de su mujer y su hija, una misión que parece destinada a llevarle por algunos de los rincones más reconocibles y peligrosos de este Estados Unidos destrozado. Ahora tenemos la primera pista tangible sobre ese viaje. Walton Goggins vuelve al Yermo en Fallout temporada 3 The Ghoul spotted on set 🔥🤘 pic.twitter.com/OWbXhoYTxH — ☢️Fallout Films (@FilmsFallout) August 10, 2026 Walton Goggins ha sido visto rodando escenas de Fallout temporada 3 en Pomona, California, una localización que la producción ha transformado para devolvernos de lleno al paisaje posapocalíptico de la serie de Prime Video. El actor estaba grabando en el histórico Fox Theater, completamente reconvertido para la ocasión y rebautizado como «Salt Lake Sinema». La fachada anuncia incluso una película titulada Passion of a Mutant, un pequeño detalle de ambientación muy en la línea de Fallout: publicidad absurda, cultura popular congelada en el tiempo y edificios que probablemente sobrevivieron bastante peor que sus carteles. La elección del nombre no parece casual. Cuando vimos por última vez al Ghoul se encontraba en New Vegas, construida sobre las ruinas de Las Vegas, y su siguiente destino conocido es Colorado. Salt Lake City está prácticamente en el camino natural entre Nevada y Colorado, así que todo apunta a que el personaje hará una parada allí durante su viaje. Prime Video Puede que llegue ",
-      "link": "https://www.cinemascomics.com/imagen-del-rodaje-de-fallout-temporada-3/",
-      "pubDate": "Thu, 13 Aug 2026 06:01:18 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Fallout-temporada-3.jpg"
-    },
-    {
       "id": "4f44b37d3490c5179d5b",
       "title": "\"¡No, Marruecos no!\": el dilema de qué hacer con los niños no acompañados que llegaron a Ceuta y que España no sabe a quién devolver",
       "summary": "Días después de la irrupción masiva de extranjeros en la ciudad española en el norte de África, cientos de menores no acompañados deambulan por sus calles.",
@@ -1329,26 +1178,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/522c/live/37556650-9179-11f1-b59e-3d7a9337129d.jpg"
-    },
-    {
-      "id": "61753d06363c32934e7a",
-      "title": "El sector de la logística para eCommerce acelera su concentración: la francesa Colis Privé compra Paack",
-      "summary": "Imagínate un juego de matrioskas, esas típicas muñecas rusas de diseño recursivo, en las que una contiene a todas las demás. En el caso del que vamos a hablar, la matrioska mayor sería CMA CGM , el gigante francés de la logística, conocida por poseer una de las mayores flotas de portacontenedores del mundo. La del medio sería CEVA Logistics, uno de los mayores proveedores de servicios logísticos e integrales de la cadena de suministro del mundo. La siguiente sería Colis Privé , una de las referencias en el campo de las entregas de última milla en Francia y Bélgica. A partir de ahora, habrá una matrioska más en esta cadena, la española Paack. Colis Privé ha anunciado la compra de Paack Ibérica y Francia, en un movimiento con el que la filial de CEVA Logistics refuerza su red en Francia y se implanta en España y Portugal , dos mercados estratégicos del eCommerce europeo. La compañía francesa ha explicado que esta operación reforzará &#8220;de forma significativa su cobertura nacional, al tiempo que le permite implantarse en España y Portugal, dos mercados europeos en fuerte crecimiento para el comercio electrónico&#8221; . La empresa ha explicado que aproximadamente 490 empleados de Paack se incorporarán a Colis Privé con motivo de esta operación. En su comunicado, la empresa francesa explica que la adquisición de Paack &#8220;respalda la ambición de Colis Privé de construir una plataforma paneuropea de referencia en el mercado de la última milla y de acompañar a sus clientes a nivel internacional, respondiendo al mismo tiempo a las particularidades locales de cada mercado&#8221;. En la península ibérica, la compañía cuenta ahora con una red de 82 centros , de los cuales 61 son centros de distribución asociados, 21 son hubs y/o cross-docks, además de más de 5.000 puntos de recogida activos. En Francia, las seis implantaciones de Paack fortalecerán la red de distribución de Colis Privé. Paack, un punto y aparte en una trayectoria llena de altibajos Paack fue fundada en",
-      "link": "https://marketing4ecommerce.net/colis-prive-compra-paack/",
-      "pubDate": "Thu, 06 Aug 2026 08:54:24 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/paack-logistics-1024x614.jpg"
-    },
-    {
-      "id": "6aca3f6cf20322d75ab2",
-      "title": "Si alrededor del 90% de mis visitantes web son anónimos, ¿Cómo puedo personalizarlos en tiempo real?",
-      "summary": "La personalización se ha convertido en una parte habitual de muchas estrategias digitales. Recomendaciones de productos, mensajes diferentes según el tipo de cliente o promociones basadas en compras anteriores son algunos ejemplos. Sin embargo, buena parte de estas acciones continúa dependiendo de datos históricos y segmentos estáticos que no siempre reflejan lo que el usuario necesita en ese momento. El problema resulta especialmente relevante si tenemos en cuenta que hasta el 90% de los visitantes de una página web puede ser anónimo . No ha iniciado sesión, navega en modo privado o simplemente visita el sitio por primera vez. En esos casos, las estrategias tradicionales disponen de muy poca información para adaptar la experiencia y suelen ofrecer el mismo contenido a perfiles con intereses muy distintos. El ebook Personalizando el momento: de lo estático a lo dinámico , elaborado por VWO AB Tasty, explica cómo las nuevas tecnologías de personalización adaptativa permiten interpretar la intención del usuario durante la propia sesión y ajustar la experiencia a medida que navega. En este ebook descubrirás Por qué la personalización tradicional está perdiendo eficacia. Cómo interpretar la intención del usuario en tiempo real. Cómo personalizar a visitantes anónimos respetando su privacidad. Qué señales de comportamiento pueden ayudarte a reducir fricciones. Casos reales de marcas de moda, belleza, lujo y finanzas. Una hoja de ruta para evolucionar desde reglas estáticas hacia experiencias adaptativas. ¡Descárgalo aquí! Qué cambia con la personalización en tiempo real La personalización estática utiliza información como el historial de compras, las páginas visitadas anteriormente o la pertenencia a un segmento determinado. Una vez definida la regla, la experiencia apenas cambia durante la sesión , aunque el comportamiento del visitante indique que sus prioridades han evolucionado. La personalización adaptativa plantea un enfoque diferente. En lugar de limitarse a mirar",
-      "link": "https://marketing4ecommerce.net/personalizacion-adaptativa-ecommerce-tiempo-real/",
-      "pubDate": "Thu, 06 Aug 2026 08:29:52 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/ebook_personalization-1024x614.jpg"
     },
     {
       "id": "99724377a12d12c53da4",
@@ -1474,6 +1303,126 @@
       "image": "https://imagenes.elpais.com/resizer/v2/IP6E4SLZYJBRFMACMCYUWAQ5H4.jpg?auth=2a05432265e6f64a99ecfbd6daa249c9430e436941d63205f1693f2dbcd2986e"
     },
     {
+      "id": "321804de67684343edba",
+      "title": "La IA llega al arbitraje de LaLiga",
+      "summary": "El CTA anuncia que las jugadas elegidas para Tiempo de Revisión serán seleccionadas por la Inteligencia Artificial",
+      "link": "https://www.marca.com/futbol/primera-division/2026/08/14/ia-llega-arbitraje-laliga.html",
+      "pubDate": "Fri, 14 Aug 2026 10:52:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/10/22/68f8b3cf0bbc3.jpeg"
+    },
+    {
+      "id": "376c7a54b4258b659505",
+      "title": "Un negocio redondo para el Barça",
+      "summary": "Ferran Torres, a punto paso del PSG",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/14/ferran-torres-negocio-redondo-barca.html",
+      "pubDate": "Fri, 14 Aug 2026 10:33:43 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/11/6a7ad293f228c.jpeg"
+    },
+    {
+      "id": "e4542b40665d854c01e5",
+      "title": "Guillem Farrés subirá a MXGP con Triumph",
+      "summary": "Guillem Farrés estampa su firma con Triumph.",
+      "link": "https://www.marca.com/motor/mas-motor/2026/08/14/guillem-farres-subira-mxgp-triumph.html",
+      "pubDate": "Fri, 14 Aug 2026 10:24:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7ec84739bf0.jpeg"
+    },
+    {
+      "id": "05db667bd075a470dff3",
+      "title": "Mbappé o Lamine Yamal: ¿a quién fichar en Fantasy?",
+      "summary": "¿Mbappé o Lamine Yamal? Analizamos su fichaje en clave Fantasy",
+      "link": "https://www.marca.com/fantasy/2026/08/14/mbappe-lamine-yamal-fichar-fantasy.html",
+      "pubDate": "Fri, 14 Aug 2026 10:23:30 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7ed06f13528.png"
+    },
+    {
+      "id": "cc207ab6fdd70398c50a",
+      "title": "De San Mamés al Estadio Gran Canaria: 380 millones de ingresos en abonos que impulsan a LaLiga",
+      "summary": "San Mamés",
+      "link": "https://www.marca.com/sport-business/2playbook/2026/08/14/san-mames-estadio-gran-canaria-380-millones-ingresos-abonos-impulsan-laliga.html",
+      "pubDate": "Fri, 14 Aug 2026 10:04:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7ec9829ee9d.jpeg"
+    },
+    {
+      "id": "974f169ae70b97b379ff",
+      "title": "Dardo de Xavier García Albiol a Pedro Sánchez: \"¿Le vas a dar el permiso de residencia?\"",
+      "summary": "Xavier García Albiol, alcalde Badalona",
+      "link": "https://www.marca.com/tiramillas/politica/2026/08/14/mensaje-garcia-albiol-pedro-sanchez-sobre-delincuente-reincidente-badalona-le-vas-dar-permiso-residencia.html",
+      "pubDate": "Fri, 14 Aug 2026 10:01:55 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7ec8db20678.png"
+    },
+    {
+      "id": "670d71ebe321be596b5e",
+      "title": "Exequiel Zeballos ya le ha dicho al Celta que quiere jugar en Vigo",
+      "summary": "Exequiel Zeballos, en un partido con Boca Juniors.",
+      "link": "https://www.marca.com/futbol/celta/2026/08/14/exequiel-zeballos-le-dicho-celta-quiere-jugar-vigo.html",
+      "pubDate": "Fri, 14 Aug 2026 09:56:29 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7eca1679260.jpeg"
+    },
+    {
+      "id": "2b1d5cab49bd98bb5731",
+      "title": "Nueva Zelanda retira su apoyo a Infantino",
+      "summary": "Gianni Infantino durante un acto.",
+      "link": "https://www.marca.com/futbol/2026/08/14/nueva-zelanda-retira-apoyo-infantino.html",
+      "pubDate": "Fri, 14 Aug 2026 09:42:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/09/6a77b2485afe5.jpeg"
+    },
+    {
+      "id": "695da103f65d954bdfa4",
+      "title": "Grimaldo se estrena en una convocatoria del Atlético... en la que no está Julián",
+      "summary": "Grimaldo, en un entrenamiento con el Atlético.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/14/grimaldo-estrena-convocatoria-atletico.html",
+      "pubDate": "Fri, 14 Aug 2026 09:20:51 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7ebf554bb12.jpeg"
+    },
+    {
+      "id": "e428365277bbc3724d37",
+      "title": "Shannon Elizabeth, de protagonizae 'American Pie' a Onlyfans: \"Puede ser lo que tú quieras\"",
+      "summary": "Shannon Elizabeth.",
+      "link": "https://www.marca.com/tiramillas/cine/2026/08/14/shannon-elizabeth-protagonista-american-pie-cuenta-alcanzado-exito-onlyfans-quieras.html",
+      "pubDate": "Fri, 14 Aug 2026 09:20:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/29/69f1bfd68cd92.jpeg"
+    },
+    {
+      "id": "9b8735baa30b26b64ac6",
+      "title": "El fichaje de Rodri se va por encima de los 60 millones de euros",
+      "summary": "Sigue en directo todas las novedades del mercado",
+      "link": "https://www.marca.com/futbol/mercado-fichajes/2026/08/14/6a7ebc8a6c283cdca85c3a26.html",
+      "pubDate": "Fri, 14 Aug 2026 09:05:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/17866910634773.jpeg"
+    },
+    {
+      "id": "122cded8b4e1fd377a88",
+      "title": "Anakin Skywalker cambia su regreso en Ahsoka y abre la puerta a un momento histórico de Star Wars",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com La presencia de Hayden Christensen en la segunda temporada de Ahsoka ya estaba confirmada , pero una de las primeras sorpresas mostradas con motivo de D23 cambia bastante lo que esperábamos de su regreso. El vestuario de Anakin Skywalker expuesto para los nuevos episodios pertenece a su etapa de The Clone Wars , una pista muy difícil de ignorar que apunta hacia nuevas escenas ambientadas durante las Guerras Clon y aumenta, de paso, las posibilidades de ver algo que Star Wars todavía no ha hecho en acción real. La primera temporada de Ahsoka consiguió cumplir uno de esos deseos que durante años parecían reservados exclusivamente para la animación. Hayden Christensen interpretó al Anakin Skywalker de las Guerras Clon en acción real , compartiendo finalmente esa etapa de la vida del Jedi con la Ahsoka Tano de Rosario Dawson. La secuencia del Mundo Entre Mundos fue breve si pensamos en todo lo que había detrás de ella, pero abrió una puerta que Dave Filoni parece dispuesto a cruzar nuevamente. Y esta vez tenemos una pista bastante concreta. Con la D23 arrancando este fin de semana, una exposición dedicada a la segunda temporada de Ahsoka ha mostrado el vestuario que utilizará Christensen en su regreso. Podría parecer un detalle promocional relativamente menor si no fuera porque no se trata de la apariencia del Fantasma de la Fuerza que vimos al final de la primera temporada . Es el traje de invierno de Anakin durante Star Wars: The Clone Wars . Eso cambia considerablemente la lectura de su regreso. OLHA ISSO! Ahsoka revela o figurino dos personagens da segunda temporada, entre eles&#8230; ANAKIN SKYWALKER! A série deve ganhar trailer nos próximos dias, lá na D23, evento especial da Disney pic.twitter.com/JXTROJgMgz — omelete (@omelete) August 14, 2026 El traje de Anakin no es nuevo: pertenece a un episodio concreto de The Clone Wars Aquí es donde la imagen mostrada en D23 se vuelve mucho más interesante. El v",
+      "link": "https://www.cinemascomics.com/anakin-traje-clone-wars-ahsoka-temporada-2/",
+      "pubDate": "Fri, 14 Aug 2026 09:00:33 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/anakin-en-la-serie-ahsoka.jpg"
+    },
+    {
       "id": "4dc8f4fd741aaf756486",
       "title": "El regreso 'low cost' de Rodri",
       "summary": "Rodri, en la cola para embarcar al avión.",
@@ -1482,6 +1431,26 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7ebce17536d.jpeg"
+    },
+    {
+      "id": "4c9332570010449e8185",
+      "title": "Japón estudia endurecer las sanciones a Rusia bajo el pretexto de la visita de Putin a las Kuriles",
+      "summary": "Moscú recuerda que la soberanía sobre las islas quedó establecida tras la Segunda Guerra Mundial y rechaza que las visitas oficiales al archipiélago puedan ser objeto de discusión con otros países.",
+      "link": "https://actualidad.rt.com/actualidad/622255-japon-estudia-endurecer-sanciones-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 08:59:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7ec94d59bf5b4db027237d.jpg"
+    },
+    {
+      "id": "a223386bfad58086bb0d",
+      "title": "Requisitos de Phantom Blade Zero para activar trazado de rayos: no tendrás que arruinarte",
+      "summary": "Hace solo un par de días vimos los requisitos de Phantom Blade Zero , un juego basado en el Unreal Engine 5 que no era tan exigente como esperábamos, pero esos requisitos se refieren al juego ejecutado bajo rasterización. Si queremos moverlo con trazado de rayos activado necesitaremos un equipo mucho más potente, como es lógico. S-Game ha ampliado la información sobre los requisitos necesarios para mover Phantom Blade Zero con trazado de rayos, y la verdad es que no hay sorpresa, entran dentro de lo esperado, y la verdad es que no son nada disparatados teniendo en cuenta el nivel de exigencia que tiene esta tecnología. Phantom Blade Zero utiliza trazado de rayos y trazado de trayectorias . La primera es menos exigente que la segunda, y por tanto el requisito a nivel de gráfica es más bajo. Como solo se han confirmado las tarjetas gráficas recomendadas para 1080p con trazado de rayos y 4K con trazado de trayectorias os voy a dejar una serie de estimaciones para las resoluciones que faltan. Requisitos recomendados para 1080p con trazado de rayos Windows 10 de 64 bits o superior. CPU Intel Core i5-10600K o AMD Ryzen 5 5600X. 16 GB de RAM. Tarjeta gráfica GeForce RTX 5060. 8 GB de VRAM. Unidad SSD. Con esta configuración el juego funcionará sin problemas en 1080p a 60 FPS utilizando reescalado. Requisitos recomendados para 1440p con trazado de rayos Windows 10 de 64 bits o superior. CPU Intel Core i5-10600K o AMD Ryzen 5 5600X. 16 GB de RAM. Tarjeta gráfica GeForce RTX 5070. 12 GB de VRAM. Unidad SSD. Esta es una estimación que creo que es bastante acertada. Con esta configuración el juego debería moverse en 1440p a 60 FPS con reescalado. Requisitos recomendados para 2160p con trazado de trayectorias Windows 10 de 64 bits o superior. CPU Intel Core i5-10600K o AMD Ryzen 5 5600X. 16 GB de RAM. Tarjeta gráfica GeForce RTX 5080. 16 GB de VRAM. Unidad SSD. Esto será suficiente para jugar en 4K a 60 FPS, pero utilizando reescalado. No se concreta el modo de calidad de dicho ",
+      "link": "https://www.muycomputer.com/2026/08/14/requisitos-de-phantom-blade-zero-para-activar-trazado-de-rayos-no-tendras-que-arruinarte/",
+      "pubDate": "Fri, 14 Aug 2026 08:58:47 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Phantom-Blade-Zero-requisitos-trazado-de-rayos.jpg"
     },
     {
       "id": "00f05ce2a5a4f25e2e1c",
@@ -1494,6 +1463,87 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7eb8fbd20e6.jpeg"
     },
     {
+      "id": "fd4259d62a9b00cf4a30",
+      "title": "GPT Sol multiplica por 14 su velocidad con el nuevo modo Ultrafast",
+      "summary": "OpenAI ha presentado el nuevo modo Ultrafast (o ultrarrápido, si lo prefieres), con el que aspira a convertir a su modelo de referencia, GPT Sol , en el líder del mercado de las IAs generalistas. En un comunicado en su web, la empresa de Sam Altman ha descrito este modo ultrarrápido de GPT Sol 5.6 como &#8220;una nueva categoría de velocidad para la inteligencia de vanguardia, que convierte la velocidad en una ventaja competitiva&#8221;. Veamos en qué consiste. Más velocidad, sin sacrificar la potencia Hace tiempo que en OpenAI se han tomado en serio recuperar su papel de líderes del sector de la IA de aplicación empresarial , un papel para el que parecían destinados, pero en el que han ido perdiendo posiciones respecto de los distintos modelos que Anthropic ha ido lanzando, con Fable a la cabeza. No me entiendas mal: como ya hemos visto otras veces ChatGPT es el gran dominador del mercado de consumo &#8220;doméstico&#8221;, a nivel usuario, todavía bastante por delante de Gemini. Sin embargo, el tirón de Anthropic en el ámbito empresarial es innegable, y OpenAI ha decidido apostar por llevar a Sol a un nuevo nivel a través de la velocidad, sin sacrificar la potencia de cálculo , que era lo que sucedía hasta el momento con los modelos &#8220;rápidos&#8221; de las distintas empresas de IA. &#8220;Cuando la velocidad ya no exige sacrificar la inteligencia, la IA puede integrarse en las áreas más críticas de una empresa y se abren nuevas posibilidades de trabajo&#8221;, explica la empresa sobre este modo Ultrafast , que es hasta 14 veces más rápido que el procesamiento estándar, y que se lanzará primero en la API de OpenAI. Para ello, Ultrafast genera hasta 750 tokens de salida por segundo, algo que logra gracias a los chips de Cerebras , rival de Nvidia, y una de las empresas de semiconductores y hardware más disruptivas del sector de la IA. Cerebras, con la que OpenAI anunció una alianza en enero, es famosa por haber creado el chip de silicio más grande del mundo enf",
+      "link": "https://marketing4ecommerce.net/gpt-sol-multiplica-por-14-su-velocidad-con-el-nuevo-modo-ultrafast/",
+      "pubDate": "Fri, 14 Aug 2026 08:50:34 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/gpt-ultrafast-1-1024x614.jpg",
+      "subcat": "desarrollo"
+    },
+    {
+      "id": "46f0b096d83542bf5c10",
+      "title": "Decenas de tiburones muertos aparecen sin explicación en una playa de EE.UU. (FOTOS)",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/622261-hallar-decenas-tiburones-muertos-playa-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 08:48:23 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "d24a304ff47342968b4d",
+      "title": "El incendio de Huesca deja 16 municipios evacuados y amenaza San Juan de la Peña: “Si arde, se perdería el símbolo del origen de Aragón”",
+      "summary": "Intensa humareda provocada por el incendio forestal de Peñas de Riglos (Huesca), este viernes.",
+      "link": "https://elpais.com/espana/2026-08-14/el-incendio-de-huesca-deja-16-municipios-evacuados-y-amenaza-san-juan-de-la-pena-si-arde-se-perderia-el-simbolo-del-origen-de-aragon.html",
+      "pubDate": "Fri, 14 Aug 2026 08:46:33 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/TD2RV7IWTRKLXHXMPXED5QIH4A.jpg?auth=4512d8dd920ebec2f5996d68383a1d7ee3b221395eb2d477f7e4fb96ef4d099f"
+    },
+    {
+      "id": "446330411e38d901ccca",
+      "title": "\"No fuimos nosotros quienes empezamos esto\": Rusia responde a los llamamientos de Turquía sobre el mar Negro",
+      "summary": "Lavrov denunció que Ankara y Washington guardan silencio ante los ataques ucranianos contra buques e infraestructuras vinculados a sus propios intereses.",
+      "link": "https://actualidad.rt.com/actualidad/622260-rusia-responde-turquia-mar-negro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 08:41:41 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7ed4b9e9ff71710066686f.jpg"
+    },
+    {
+      "id": "b80db22848ebc1222811",
+      "title": "El fuego en Niebla (Huelva) continúa fuera de control tras arrasar más de 31.000 hectáreas",
+      "summary": "Vecinos de Aznalcóllar (Sevilla) observan las tareas de extinción del incendio forestal de Niebla (Huelva).",
+      "link": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
+      "pubDate": "Fri, 14 Aug 2026 08:41:29 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ROPIUEWWUNJPBGU7XXOF7E5G4I.jpg?auth=30ce682d6dfe36caee1329f705759ffbd2c2f55e2d0436644fd25640163ea981"
+    },
+    {
+      "id": "82dc4bc93789f32e017f",
+      "title": "Exvocera 'destroza' a Zelenski y sus 'matemáticas' de Patriot, que no cierran",
+      "summary": "La cantidad solicitada de municiones para el sistema Patriot genera dudas, porque apenas alcanzaría a proteger la residencia del propio líder del régimen de Kiev.",
+      "link": "https://actualidad.rt.com/actualidad/622252-exvocera-zelenski-culpar-trump-desastre?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 08:37:18 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7ebcc0e9ff715f7f5fa80c.jpg"
+    },
+    {
+      "id": "db3710736b89af2e4872",
+      "title": "A los 4 años diseñó un robot de limpieza y tiempo después un cinturón de seguridad inteligente para evitar accidentes de tránsito: \"Mi padre me inculcó el espíritu científico\"",
+      "summary": "Saarang Sumesh pedía kits para armar robots mientras los niños de su edad recibían juguetes. Fue destacado con la mención de Joven Promesa.",
+      "link": "https://www.clarin.com/estados-unidos/4-anos-diseno-robot-limpieza-tiempo-despues-cinturon-seguridad-inteligente-evitar-accidentes-transito-padre-inculco-espiritu-cientifico_0_gHIdotj4Rg.html",
+      "pubDate": "Fri, 14 Aug 2026 08:30:47 +0000",
+      "source": "Clarin",
+      "cat": "tech",
+      "image": "https://www.clarin.com/img/2026/08/13/zGqSzTQuK_1200x630__1.jpg"
+    },
+    {
+      "id": "0c382cd16b6b9ccd71db",
+      "title": "EEUU retira la visa a uno de los hijos del expresidente mexicano López Obrador",
+      "summary": "El hijo del exmandatario mexicano, Andrés Manuel López Beltrán, denuncia que EE.UU. le revocó la visa, acusando a funcionarios de actuar por motivos políticos. La medida se suma a otras acciones contra miembros de Morena, en medio de investigaciones por vínculos con el narcotráfico. La embajada no emitió comentarios.",
+      "link": "https://www.clarin.com/estados-unidos/eeuu-retira-la-visa-a-uno-de-los-hijos-del-expresidente-mexicano-lopez-obrador_0_VHCWnhVFQ7.html",
+      "pubDate": "Fri, 14 Aug 2026 08:20:05 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
+    },
+    {
       "id": "4b8f3386cc5c17f90545",
       "title": "Neymar se sale con dos asistencias, una de ellas mágica",
       "summary": "Neymar, en el partido contra Macará.",
@@ -1502,6 +1552,17 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7eb22a9111a.jpeg"
+    },
+    {
+      "id": "01c32c61702d81266c8e",
+      "title": "Instagram o “Instagzam”, esa es la cuestión: la red social cambia de firma diez años después",
+      "summary": "Oye, ¿has visto que le han cambiado algo a Instagram? No, no es una función nueva ni un rediseño del feed. Es algo más chiquito pero que, si eres de los que se fija en esos detalles, seguro que te diste cuenta apenas abriste la app. Ese nombre escrito en cursiva que aparece ahí arriba, el que llevas viendo desde hace 10 años sin que nadie lo tocara, cambió. Y como era de esperarse, internet ya tiene sus opiniones al respecto en cuestión de horas. Lo anunció el mismísimo Adam Mosseri , el jefe de Instagram, este jueves. Lo subió a su cuenta con una foto del nuevo diseño y una explicación bastante sencilla: describió el nuevo logo como más limpio y moderno, con referencias al original y la simplicidad de siempre. Nada de rollo corporativo de tres párrafos, solo eso. Ojo, no es el logo, es la firma El ícono de la cámara con el degradado de colores, el que tienes en tu pantalla de inicio, sigue exactamente igual, ese no se tocó. Lo que cambió es el wordmark, o sea, la palabra &#8220;Instagram&#8221; escrita que aparece arriba cuando abres la app y navegas por tu feed. Es la firma, no el logotipo-ícono. Se confunden los dos todo el tiempo porque coloquialmente a ambos les decimos &#8220;el logo&#8221;, pero son cosas distintas. Esa firma en cursiva llevaba ahí desde 2016, cuando Instagram hizo su gran renovación de marca y dejó atrás el ícono de cámara retro que todos recordamos de sus primeros años. Desde entonces, esa tipografía manuscrita fue prácticamente intocable&#8230; hasta ahora. ¿Y quién le puso la firma original a Instagram? Este dato me pareció el más &#8220;sabías que&#8221; de toda esta historia y me pareció algo interesante de contar. La cursiva que hasta ayer conocíamos no la hizo un algoritmo ni un comité de branding sin rostro. La diseñó un tipógrafo llamado Mackey Saturday allá por 2013 , buscando un balance entre un aire renovado y la forma familiar que millones de usuarios ya reconocían. Básicamente, ese trazo cursivo con el que creciste viendo &#822",
+      "link": "https://marketing4ecommerce.net/instagram-cambia-su-logo-firma/",
+      "pubDate": "Fri, 14 Aug 2026 08:15:45 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "ia",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/Portada-articulo-1200-x-720-px-40-1024x614.jpg",
+      "subcat": "herramientas"
     },
     {
       "id": "e937647dcd63d03edaa5",
@@ -1514,6 +1575,146 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/dPD8A1gVX9rqAuoxd.jpeg"
     },
     {
+      "id": "5c835b257ea24705e297",
+      "title": "Es oficial: Nueva York frena por un año los nuevos centros de datos de hiperescala; Hochul apunta al consumo de agua y energía",
+      "summary": "Durante un año, el gobierno dejará de emitir permisos ambientales. Usará ese tiempo para confeccionar una regulación más amplia.",
+      "link": "https://www.clarin.com/estados-unidos/oficial-nueva-york-frena-ano-nuevos-centros-datos-hiperescala-hochul-apunta-consumo-agua-energia_0_1I9iMm1dwy.html",
+      "pubDate": "Fri, 14 Aug 2026 08:12:46 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/27/2S1skZ7ed_1200x630__1.jpg"
+    },
+    {
+      "id": "84da78f24d7e393ac8aa",
+      "title": "Gregory Marcus, cardiólogo: “Hasta cinco tazas de café al día son seguras para la mayoría de los adultos”",
+      "summary": "El café con cafeína puede formar parte del consumo cotidiano sin elevar el riesgo cardiovascular. El cardiólogo Gregory Marcus sostuvo que una ingesta moderada resulta segura para la mayoría de los adultos, aunque sus efectos varían entre las personas. Cuánto café con cafeína es seguro tomar al día según la American Heart Association La conclusión surge de una declaración científica de la American Heart Association , publicada el 20 de julio en la revista especializada Circulation . Marcus presidió el grupo voluntario que revisó las investigaciones recientes sobre la relación entre la cafeína y las enfermedades cardiovasculares . El especialista es profesor de Medicina en la Universidad de California en San Francisco y jefe asociado de Cardiología para Investigación de UCSF Health . A partir de la evidencia analizada, sostuvo que una ingesta de hasta 400 mg diarios “es segura y no aumenta el riesgo cardiovascular” para la mayoría de los adultos. Esa cantidad equivale a entre tres y cinco tazas de café negro regular de ocho onzas (unos 237 mililitros cada una). Una preparación común aporta entre 9,4 y 20,6 mg de cafeína por cada 30 mililitros, aunque la concentración cambia según el producto. Café con cafeína: qué beneficios cardiovasculares detectaron los estudios El consumo de café negro con cafeína se vinculó con un menor riesgo de diabetes tipo 2 , enfermedad cardíaca, accidente cerebrovascular, insuficiencia cardíaca y algunas alteraciones del ritmo del corazón. La relación más favorable apareció entre quienes tomaban de dos a cuatro tazas diarias . Sin embargo, superar las cuatro se asoció con un posible incremento del riesgo de insuficiencia cardíaca. Los autores indicaron que los resultados podrían relacionarse con otros compuestos bioactivos de la bebida. Estudios experimentales atribuyeron a esas sustancias propiedades antioxidantes y antiinflamatorias, por lo que los efectos observados no necesariamente provienen de la cafeína. La incorporación de azúcar, ",
+      "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/gregory-marcus-cardiologo-hasta-cinco-tazas-de-cafe-al-dia-son-seguras-para-la-mayoria-de-los-nid14082026/",
+      "pubDate": "Fri, 14 Aug 2026 08:11:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/GMWDAJRXM5BXBNE3A4J2GHGZRI.png?auth=e72ec24f41bf26cc27fa3c2a5f502daea998bf213092f83315e82356a12b4467&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "497c2d3537fb0c0f794c",
+      "title": "Con el respaldo de Trump: cómo avanza el plan de Greg Abbott para limitar el “turismo de nacimiento” en Texas",
+      "summary": "Las autoridades dijeron que quieren sancionar a personas que utilizarían visas de turista para dar a luz en EE.UU. y obtener la ciudadanía estadounidense para sus hijos.",
+      "link": "https://www.clarin.com/estados-unidos/respaldo-trump-avanza-plan-greg-abbott-limitar-turismo-nacimiento-texas_0_9HvKMjbZBY.html",
+      "pubDate": "Fri, 14 Aug 2026 08:10:46 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/09/10/OAHJjnI3n_1200x630__1.jpg"
+    },
+    {
+      "id": "e61fc4b14066c0d40fb0",
+      "title": "Dron alcanza un petrolero en el estrecho de Ormuz",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/622259-ukmto-dron-alcanza-petrolero-estrecho?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 08:03:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "addd35866ab34b593de1",
+      "title": "Hacia 1900, Estados Unidos plantó cebo chino a lo largo de la Costa del Golfo como cultivo comercial de aceite: posteriormente, invadió los bosques del sur y puede ser tóxico para el ganado",
+      "summary": "La especie fue valorada por sus semillas, utilizadas para luego elaborar velas, jabones y otros productos industriales. Más de un siglo después, se destaca por su capacidad para adaptarse a distintos ambientes.",
+      "link": "https://www.clarin.com/estados-unidos/1900-estados-unidos-planto-cebo-chino-largo-costa-golfo-cultivo-comercial-aceite-posteriormente-invadio-bosques-sur-puede-toxico-ganado_0_67fX41F2Pt.html",
+      "pubDate": "Fri, 14 Aug 2026 08:02:46 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/08/12/luQzCOPhQ_1200x630__1.jpg"
+    },
+    {
+      "id": "93eb785600ff25e1571f",
+      "title": "Disney prepara su próxima película de fantasía: adaptará en acción real un libro superventas",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Disney ya tiene entre manos una nueva apuesta fantástica con potencial para convertirse en algo mucho más grande que una película. El estudio llevará a imagen real The Dallergut Dream Department Store , el fenómeno literario de Miye Lee que ha vendido más de dos millones de ejemplares y propone un mundo donde los sueños se fabrican, se venden y hasta se pagan con emociones. Disney lleva décadas buscando mundos capaces de sostener grandes aventuras, desde Las Crónicas de Narnia hasta Alicia en el País de las Maravillas , pero su próximo proyecto de fantasía apunta en una dirección bastante distinta. Nada de princesas reinventadas ni nuevas versiones de clásicos animados: esta vez el estudio se ha fijado en una historia nacida en Corea del Sur que convierte algo tan cotidiano como dormir en la puerta de entrada a todo un universo fantástico. Disney adaptará The Dallergut Dream Department Store Disney ha adquirido oficialmente los derechos cinematográficos de The Dallergut Dream Department Store, novela escrita por Miye Lee y convertida en un fenómeno editorial internacional. Su premisa ya explica bastante bien por qué el estudio ha visto material para una gran producción: existe una ciudad a la que llegan las personas mientras duermen y, en ella, una enorme tienda departamental se dedica a vender sueños. La protagonista es Penny, una joven que consigue el trabajo que siempre había deseado en el establecimiento de Dallergut. Su día a día consiste en descubrir cómo funciona ese peculiar negocio, conocer a diseñadores especializados en fabricar distintos tipos de sueños y atender a clientes que, al despertar, pagan sus compras de una manera bastante más interesante que pasando una tarjeta por caja: mediante las emociones que esos sueños han generado. Hay sueños alegres, tristes, inspiradores, inquietantes o creados expresamente para determinados momentos de la vida. Ese concepto permite que la historia juegue ",
+      "link": "https://www.cinemascomics.com/disney-prepara-fantasia-libro-superventas/",
+      "pubDate": "Fri, 14 Aug 2026 08:01:16 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/The-Dallergut-Dream-Department-Store-libro.jpg"
+    },
+    {
+      "id": "e5ea7c197c415e9f9843",
+      "title": "De los 28 a los 85 años: los seis ciclos de \"grandes cambios\" que anuncia la astrología",
+      "summary": "La astrología identifica distintos ciclos planetarios asociados a etapas de transformación, revisión y nuevos comienzos. El astrólogo Eugenio Palma Genovés explica cuáles son los seis momentos clave y qué puede representar cada uno.",
+      "link": "https://www.clarin.com/astrologia/28-85-anos-ciclos-grandes-cambios-anuncia-astrologia_0_pkYxpXYYWK.html",
+      "pubDate": "Fri, 14 Aug 2026 08:00:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2025/07/07/YkgZX08MA_1200x630__1.jpg"
+    },
+    {
+      "id": "17d9d3893b18ca016cb6",
+      "title": "Quién reemplazará a Karoline Leavitt: la disputa por un cargo clave en plena crisis de libertad de prensa durante la era Trump",
+      "summary": "La salida de la vocera presidencial abre una disputa por un cargo que exige mucho más que responder preguntas frente a las cámaras.",
+      "link": "https://www.clarin.com/estados-unidos/reemplazara-karoline-leavitt-disputa-cargo-clave-plena-crisis-libertad-prensa-trump_0_EgmPaUg6Gr.html",
+      "pubDate": "Fri, 14 Aug 2026 08:00:47 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/13/OwFfBDgnj_1200x630__1.jpg"
+    },
+    {
+      "id": "a596a26c6c5ad69e6e72",
+      "title": "Perder peso: ¿bendición genética o disciplina?",
+      "summary": "Hay personas que comen de todo y no engordan y otras que, aún cuidándose, no logran evitar el aumento de peso. Las razones.",
+      "link": "https://www.clarin.com/buena-vida/perder-peso-bendicion-genetica-disciplina_0_V0hEiaSuOR.html",
+      "pubDate": "Fri, 14 Aug 2026 08:00:46 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/02/28/JF-dnKMP9_1200x630__1.jpg"
+    },
+    {
+      "id": "35a9c17e8e570951da4c",
+      "title": "Carlos, dueño de un restaurante sobre el precio del menú: \"Tendrías que vender como ciento y pico menús al día para que te saliera rentable. Si vendes 10 o 20, con la rentabilidad estás pringado\"",
+      "summary": "El menú del día no cierra los números si no vendés más de cien por jornada. Un restaurante madrileño con 50 años de historia revela la trampa detrás del precio accesible.",
+      "link": "https://www.clarin.com/internacional/carlos-dueno-restaurante-precio-menu-vender-ciento-pico-menus-dia-saliera-rentable-vendes-10-20-rentabilidad-pringado_0_xsSYY9h8ez.html",
+      "pubDate": "Fri, 14 Aug 2026 08:00:46 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/13/Sseo7io65_1200x630__1.jpg"
+    },
+    {
+      "id": "99e614580d6f680a17a4",
+      "title": "Confirmado | El gobierno de Florida inspeccionará auto por auto las licencias de conducir que no tengan el sello “NC”: qué significa",
+      "summary": "Florida incorporará marcas vinculadas al estatus de ciudadanía en licencias e identificaciones estatales. La fecha de entrada en vigor de la ley HB 991, firmada por Ron DeSantis",
+      "link": "https://www.clarin.com/estados-unidos/confirmado-gobierno-florida-inspeccionara-auto-auto-licencias-conducir-sello-nc-significa_0_icQbeM3d2d.html",
+      "pubDate": "Fri, 14 Aug 2026 08:00:46 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/06/22/eJabShVuP_1200x630__1.jpg"
+    },
+    {
+      "id": "07005dcf7e5ab439ad47",
+      "title": "Pilar Sordo, sobre los vínculos: “Cada vez tenemos menos paciencia”",
+      "summary": "La psicóloga y escritora chilena Pilar Sordo conversó con José del Rio para LA NACION y analizó la evolución de los vínculos sociales y la relevancia del lenguaje en la construcción de la estabilidad emocional de los individuos. Según Sordo, las personas usan menos vocabulario al hablar , un fenómeno reduce la capacidad para expresar lo que sucede en el interior de cada sujeto. Sordo citó al psiquiatra español José Luis Marín para explicar que el ser humano se enferma por falta de palabras, ya que el intercambio de lenguaje por emoticones, por ejemplo, afecta la profundidad de los vínculos. Pilar Sordo en Conversaciones con José del Rio Sordo señaló que la falta de paciencia actual impide que ambos participantes se sientan escuchados y atendidos: “Hemos ido reduciendo la paciencia, porque no solo me cuesta decirte lo que me pasa, sino que cada vez tú tienes menos paciencia para escucharme a mí“ . “Entonces ese intercambio hace que sea muy difícil generar conversaciones donde de verdad ambos se sientan escuchados y atendidos en esa conversación. Porque la conversación tiene que tener ese desafío en el que yo me exponga a transformarme con lo que tú me dices . Porque si no se transforma en una especie de monólogo intermitente”, agregó. Cómo afecta el diálogo interno a la visión del mundo Sordo investigó el tema durante ocho años y según sus conclusiones, la forma en que cada individuo se habla a sí mismo determina su amor propio y define la percepción sobre el resto de la sociedad: “Cómo te hablas define tu amor propio y tu visión del mundo” . Si alguien se percibe como una persona confiable o noble, proyecta esa confiabilidad en su entorno, sostuvo la analista y remarcó que la autopercepción define los procesos de duelo, el propósito de vida y la forma de expresar las emociones. “Es como te hablas porque eso determina tu amor propio, pero no solo determina tu amor propio, sino que determina tu visión de mundo” , explicó la analista y enseguida agregó: “Creo que el di",
+      "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-sobre-los-vinculos-cada-vez-tenemos-menos-paciencia-nid14082026/",
+      "pubDate": "Fri, 14 Aug 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/HWR2ZOJUSREERIBIA6UD7XXXTQ.jpg?auth=d47616557b1cf5ab80a50382990daba3565e0b0755f4a0ebd7d46ce51217409b&smart=true&width=1800&height=1200"
+    },
+    {
+      "id": "a0591c903b5c1c850f6e",
+      "title": "Prepárate para la vuelta al cole con Office 2024 y olvídate de las cuotas mensuales: válido de por vida por 18 euros",
+      "summary": "Se avecina la vuelta al cole, y en GvGMall ya están preparados para ponerte las cosas mucho más fáciles con una campaña de ofertas que no te puedes perder. El gran protagonista de esta temporada de ofertas es Office 2024 Professional Plus , una licencia que originalmente tenía un precio de 149 euros y que ahora puedes conseguir por solo 18,42 euros en su versión OEM, y con validez de por vida. Suena bien, ¿verdad? Con Office 2024 Professional Plus tendrás acceso completo a todas las aplicaciones de ofimática y productividad que necesitas, incluyendo las más populares y utilizadas, como Word, Excel, PowerPoint, OneNote y Microsoft Access , entre otras. Sus requisitos son, además, muy asequibles, ya que solo necesitas un PC que cumpla con estas especificaciones: Windows 10 o superior de 64 bits. CPU de doble núcleo a 1 GHz o superior. 4 GB de RAM. 10 GB de espacio libre. Pantalla con resolución de 1.024 x 768 píxeles. Ofertas en Office, Windows y más por la vuelta al cole Clave Microsoft Office 2024 Pro Plus OEM con validez de por vida por 18,42 euros , utilizando el cupón GVGMM antes de completar el proceso de compra. Cuenta Microsoft Office 365 Global para Mac por 19,39 euros , utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Enterprise LTSC 2024 IoT Edition con validez de por vida por 23,89 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Enterprise LTSC 2024 con validez de por vida por 15,36 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Pro OEM con validez de por vida por 23,49 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 10 Enterprise LTSC 2021 con validez de por vida por 15,24 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 11 Home OEM con validez de por vida por 19,52 euros, utilizando el cupón GVGMM antes de completar el proceso de compra. Clave Windows 10 Pr",
+      "link": "https://www.muycomputer.com/2026/08/14/preparate-para-la-vuelta-al-cole-con-office-2024-y-olvidate-de-las-cuotas-mensuales-valido-de-por-vida-por-18-euros/",
+      "pubDate": "Fri, 14 Aug 2026 07:58:06 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/gvgmall-macos-office-comprar.jpg"
+    },
+    {
+      "id": "f0d03e4278221f2c890b",
+      "title": "Las mejores series españolas de humor en Netflix (Agosto 2026)",
+      "summary": "La comedia es el género que mejor ha resistido el salto de la televisión en abierto al streaming, y el catálogo español de la plataforma lo confirma. Esta selección reúne ocho series españolas de humor en Netflix que van del falso documental al sainete funerario, pasando por la parodia de superhéroes y la comedia romántica de media hora. Varias figuran también en la selección general de las mejores series españolas en Netflix , que aquí se filtra por un criterio único, hacer reír. Hay un apellido que aparece dos veces, el de los hermanos Alberto y Laura Caballero, responsables de la factoría que ha convertido el humor coral y de portal en un formato reconocible dentro y fuera de España. El resto llega de orígenes muy distintos, del teatro, del cómic, de la novela y hasta de una broma en redes sociales. Casi todas caben en episodios de menos de media hora y la mayoría tiene ya su final escrito, algo que agradecerá quien busque reírse sin comprometerse a nada largo. Machos alfa (2022) Género Comedia. Nota FilmAffinity 6,3. Temporadas 5. Episodios 42. Ver ahora en Netflix Los hermanos Caballero llevan dos décadas destilando el sainete español en clave de sitcom y aquí aplican esa maquinaria a la crisis de la masculinidad. Pedro, Santi, Raúl y Luis son cuatro cuarentones que descubren de golpe que el mundo ha dejado de estar diseñado a su medida y deciden reeducarse, con resultados que nunca son los previstos. El mecanismo cómico vive en la distancia entre lo que los personajes creen estar haciendo y lo que ve el espectador, un desajuste que Machos alfa sostiene durante cinco temporadas sin sermonear a nadie. Las réplicas van rápidas, el reparto funciona como conjunto y el humor incomoda lo justo. Ha encontrado público muy lejos de España, en países donde ese debate suena distinto. Creada por Alberto Caballero y Laura Caballero. Con Fernando Gil, María Hervás, Raúl Tejón, Kira Miró, Gorka Otxoa y Fele Martínez. Paquita Salas (2016-2019) Género Comedia. Nota FilmAffinity",
+      "link": "https://hipertextual.com/cine-television/las-mejores-series-espanolas-de-humor-en-netflix/",
+      "pubDate": "Fri, 14 Aug 2026 07:54:05 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/mejores-series-espanolas-humor.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
       "id": "6b3671b8a60e0eea767b",
       "title": "La historia del falso Ferrari Daytona de Corrupción en Miami y lo que hizo Enzo Ferrari al enterarse",
       "summary": "Los actores Philip Michael Thomas y Don Johnson, junto al falso Daytona.",
@@ -1522,6 +1723,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/15/6a5756e644423.jpeg"
+    },
+    {
+      "id": "8aa5f1c405ab26cda724",
+      "title": "Derriban dron sobre país de la OTAN durante ataque de Ucrania a puerto ruso",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/622258-derribar-dron-letonia-ataque-provincia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 07:42:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "d40d461c3cd8f897af9f",
@@ -1534,6 +1745,17 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7daa1dd13ee.jpeg"
     },
     {
+      "id": "0e2bb42d4b9f8e951b12",
+      "title": "Lo próximo de WhatsApp son fondos animados en los chats y una mayor personalización, pero no te emociones",
+      "summary": "WhatsApp sigue buscando nuevas funcionalidades para ofrecerles a sus usuarios mayor personalización. Y aunque las opciones que ofrece la compañía a este sentido son bastante limitadas comparadas con la competencia, lo cierto es que ha ido añadiendo funcionalidades conforme ha pasado el tiemp o. Pero no lo suficiente, y WhatsApp lo sabe. Por ello, la compañía está trabajando en dos nuevas funcionalidades para ofrecer mayor personalización a los chats y a la propia aplicación. Entre ellas, hay una función muy esperada por los usuarios, y que desde luego añadirá una capa enorme de personalización: los fondos de pantalla de chats animados. Según explican en WABetaInfo , la última versión de WhatsApp para iOS disponible en TestFlight incluye referencias a algo que ya se había encontrado en una beta reciente para Android, pero del que no había nuevas noticias: nuevos conjuntos de temas para chats llamados Destacado, Doodle y Minimalista. La clave aquí está en que se trata, por primera vez, de fondos de pantalla totalmente dinámicos. En este sentido, Minimalista utilizará fondos de color blanco o negro sólido, dependiendo de si está activado el modo claro u oscuro; hasta ahí todo normal. La clave está en la opción Destacados, que por primera vez incluirá fondos de pantalla con un movimiento sutil, es decir, animados. Fondos animados, pero no personlizados No obstante, no te emociones demasiado. Esto no quiere decir que puedas añadir cualquier fondo animado a los chats, puesto que desde WAbetainfo destacan que es una selección muy específica con una velocidad de los movimientos de estas animaciones muy limitada . La idea es que estos fondos animados muestren un movimiento lento y gradual para que el fondo se perciba dinámico, pero sin desviar la atención de la conversación. Además, los colores de las burbujas de chat variarán según el fondo de pantalla, pero será la app quien los seleccione automáticamente en lugar de permitir que los usuarios los personalicen por separado.",
+      "link": "https://hipertextual.com/tecnologia/lo-proximo-de-whatsapp-son-fondos-animados-en-los-chats-y-una-mayor-personalizacion-pero-no-te-emociones/",
+      "pubDate": "Fri, 14 Aug 2026 07:25:23 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/whatsapp-cumpleanos-portada-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
       "id": "56e87476a36d82d23fd3",
       "title": "\"Empieza la Liga, sigue el mercado\"",
       "summary": "Julián Alvarez podría ser uno de los casos de este mercado que empezase con un equipo y cambiase para septiembre.",
@@ -1544,14 +1766,34 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/12/6a7c5726f390b.jpeg"
     },
     {
-      "id": "d4426d25ce6b055fe6e2",
-      "title": "Tarde de estrenos en Marsella",
-      "summary": "Grimaldo, en un entrenamiento.",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/14/tarde-estrenos-marsella.html",
-      "pubDate": "Fri, 14 Aug 2026 07:13:31 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e257487cca.jpeg"
+      "id": "ed47f17a1d05983dc77c",
+      "title": "\"¡Voy por ti!\": De la Espriella lanza dura advertencia a cabecilla colombiano",
+      "summary": "Su mensaje se produce luego de que Colombia anunciara el ingreso oficial al Escudo de las Américas.",
+      "link": "https://actualidad.rt.com/actualidad/622254-espriella-lanza-dura-advertencia-cabecilla-colombiano?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 07:19:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7eb75ee9ff71185026327e.jpg"
+    },
+    {
+      "id": "45846e8e1ccf7c8d3be4",
+      "title": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática",
+      "summary": "Fachada del Pazo de Meirás.",
+      "link": "https://elpais.com/espana/2026-08-14/el-boe-publica-la-declaracion-del-pazo-de-meiras-como-lugar-de-memoria-democratica.html",
+      "pubDate": "Fri, 14 Aug 2026 07:17:54 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69"
+    },
+    {
+      "id": "781c5bfe9b2fef4fdfe8",
+      "title": "España extiende la vida de su más importante planta nuclear",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/622256-espana-extender-vida-importante-planta-nuclear?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 14 Aug 2026 07:17:50 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
       "id": "d78035190388b5b6ef27",
@@ -1622,17 +1864,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/6a7e240b13fad.jpeg"
-    },
-    {
-      "id": "6fff9f6108aad8221182",
-      "title": "El ASUS Googlebook sale a la luz",
-      "summary": "Un ASUS Googlebook ha salido a la luz con el número de modelo CX9406 y el nombre en clave &#8216;Lapis&#8217;. Será otro de los modelos que lleguen al mercado bajo la nueva plataforma de Google para PCs , que eventualmente reemplazará a los actuales Chromebooks. Como sabes, Google presentó los Googlebook como una categoría de ordenadores portátiles completamente nueva , creada bajo tres pilares: Android, Chrome y la IA de Gemini. Ya habíamos visto modelos de Lenovo y de Acer, y ahora tenemos otro más. Estarán disponibles de forma general el próximo otoño y serán una alternativa de elección frente a los equipos con Windows, Linux y los MacBooks de Apple. ASUS Googlebook Este portátil utilizará un chasis de cerámica ultradelgado , que, según se informa, es un 34% más ligero y un 13% más duradero que los materiales «convencionales». No está del todo claro a qué se refiere el término «convencional» en este contexto, ya que existen portátiles con materiales muy diferentes, desde policarbonato al aluminio, que ofrecen una durabilidad igualmente diversa. En todo caso será un chasis premium de calidad y que dejará un peso en los entornos de 1 kg. Una novedad en diseño llegará de una nueva barra luminosa instalada en la tapa, lo que diferenciará a los Googlebooks de otros portátiles. Esta tira LED brillará con los colores de la marca Google y también tendrá funciones prácticas, como mostrar notificaciones. Es probable que sea similar a la nueva función HiLight que se encuentra en la nueva línea de móviles inteligentes, Pixel 11 . En cuanto a hardware interno, el modelo filtrado usa procesadores &#8216;Panther Lake&#8217; de Intel, con opción de elegir entre el Core Ultra 5 325 o el Core Ultra 7 335 . No se conoce si ASUS (y otros fabricantes) usarán versiones de otros fabricantes, ya sean de AMD o los ARM de Qualcomm. La gráfica integrada será una Intel Xe3, mientras que la NPU ofrecerá una potencia para IA de 47 TOPS. También listadas las opciones de memoria. En formato LPD",
-      "link": "https://www.muycomputer.com/2026/08/14/el-asus-googlebook-sale-a-la-luz/",
-      "pubDate": "Fri, 14 Aug 2026 07:03:01 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/ASUS_Googlebook_2.jpg",
-      "subcat": "herramientas"
     },
     {
       "id": "e56b4fb51684267eb98b",
@@ -1706,23 +1937,13 @@
     },
     {
       "id": "bc302bfc7e2c91bf5146",
-      "title": "El Gobierno autoriza la prórroga de la central nuclear de Almaraz hasta junio de 2030",
+      "title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
       "summary": "El pueblo de Almaraz, donde se encuentra la central nuclear, en Cáceres, Extremadura.",
       "link": "https://elpais.com/economia/2026-08-14/el-gobierno-autoriza-la-prorroga-de-la-central-nuclear-almaraz-hasta-junio-de-2030.html",
       "pubDate": "Fri, 14 Aug 2026 06:41:50 GMT",
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/PCRDW5L5QNFEDBQE5W4QPBQNIU.jpg?auth=6371bd44fe007808bbe167ffb8984e6f86dbddcc3032030acd0074f8852e92b7"
-    },
-    {
-      "id": "f1c343e004cab0e6880a",
-      "title": "Manuel García Howlett, experto en control de plagas: “Ante la primera cucaracha hay que actuar; pueden infestar una vivienda rápidamente”",
-      "summary": "El experto explica cómo prevenir infestaciones y por qué el calor favorece la proliferación de insectos y roedores. Además, la efectividad y el alcance de los remedios caseros.",
-      "link": "https://www.clarin.com/internacional/manuel-garcia-howlett-experto-control-plagas-primera-cucaracha-actuar-pueden-infestar-vivienda-rapidamente_0_2kb4pDFjGX.html",
-      "pubDate": "Fri, 14 Aug 2026 06:30:45 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2018/04/24/S1fqUAn3G_1200x630.jpg"
     },
     {
       "id": "315c76e2b8cd29f39ab7",
@@ -1752,7 +1973,7 @@
       "pubDate": "Fri, 14 Aug 2026 06:24:28 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/S4CSK4SY5ZLQ7NA5AEWN5BQE4Q.jpg?auth=063a0003df3fb1bde4bc5c4fae34e2a900139540b64e6ecc6cf8d59b70385890"
+      "image": "https://imagenes.elpais.com/resizer/v2/ORS46TMSPJCBXBEIIFT7PRVU3U.JPG?auth=90054e8b61b45bcfade820369f32c34143b9298c14f5a75c700c7caa8b80baf7"
     },
     {
       "id": "cf0efd66865d2135eaae",
@@ -1765,16 +1986,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/2L5KALQBNNFW5A5T27TRRUQZ5E.JPG?auth=e60fdcc8135a5c9671017a98b101b2c7c2d114a0301e9dde9c5dc25e2b97afb8&smart=true&width=2000&height=1372"
     },
     {
-      "id": "7fd83bb8c129b2d692ef",
-      "title": "\"¿Por qué no destituye a Rubio?\": Hijo de López Obrador dirige una explosiva carta a Trump",
-      "summary": "López Beltrán acusa a funcionarios estadounidenses de actuar como \"jefes de pandilla\".",
-      "link": "https://actualidad.rt.com/actualidad/622250-destituye-rubio-hijo-lopez-obrador?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 06:06:39 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7eace259bf5b21d121b584.jpg"
-    },
-    {
       "id": "cddc4fc18281a53002c1",
       "title": "Después de contar que tiene TDAH y Síndóme de Tourette, Robbie Williams reveló que es autista: “Eso explica muchas cosas”",
       "summary": "Robbie Williams volvió a hablar públicamente de su salud mental y, esta vez, sorprendió al revelar que además del TDAH que ya le habían diagnosticado, recientemente descubrió que también forma parte del espectro autista. A los 52 años, el cantante británico aseguró que el nuevo diagnóstico le permitió comprender mejor algunos aspectos de su personalidad y de su manera de relacionarse con el mundo. “ Tengo TDAH y acabo de descubrir que también tengo un poco de autismo, lo cual me encanta porque explica muchísimas cosas ”, contó durante una sesión de preguntas y respuestas realizada con motivo del lanzamiento de la colección otoño/invierno de su marca de ropa, Hopeium, en Flannels. Williams incluso bromeó con la manera en que decidió incorporar el diagnóstico a su vida cotidiana. “Ahora es mi salvoconducto, y por todas las cosas raras que hago, simplemente digo: ‘Lo siento, soy autista’ ”, comentó. Detrás del humor, sin embargo, apareció una descripción mucho más seria de la manera en que funciona su cabeza. El cantante explicó que aprendió a utilizar su enorme capacidad creativa como una herramienta para apartarse de pensamientos que pueden provocarle miedo o ansiedad. “ Lo que me obsesiona por completo es crear imágenes y hacer cosas graciosas. Si estoy creando imágenes y cosas graciosas, no estoy pensando en mí”, explicó. Según Williams, su cerebro puede transformar aquello que le genera pánico o temor en material creativo, una estrategia que utiliza deliberadamente para no quedar atrapado en esos pensamientos. Williams habló también de una experiencia reciente que utilizó para explicar qué significa para él convivir con pensamientos intrusivos. “Hace poco, estaba sentado en un avión y pensé: ‘¿Y si pudiera tener telequinesis y mis pensamientos intrusivos le dijeran al avión que se estrellara?’”, relató. El cantante fue inmediatamente consciente de lo irracional de la idea y explicó que precisamente por eso intenta redirigir su atención hacia otra cosa. “Ese es el ",
@@ -1785,17 +1996,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/KOPBQN3QJRFW7HW54D2ADY3F74.jpg?auth=d941d5662ec0e120498c4606f16361b000286f2be8edb9ca76f20228af037d59&smart=true&width=2000&height=1333"
     },
     {
-      "id": "29528c96dd9948b0da47",
-      "title": "A partir de 1906, Estados Unidos liberó una mosca parásita para controlar las polillas invasoras; un estudio descubrió que también atacaba a las polillas de seda autóctonas",
-      "summary": "De nombre \"Compsilura concinnata\" fue introducida como herramienta de control biológico contra distintas plagas. Con el tiempo, investigadores comprobaron que también parasitaba especies nativas de polillas.",
-      "link": "https://www.clarin.com/estados-unidos/partir-1906-estados-unidos-libero-mosca-parasita-controlar-polillas-invasoras-estudio-descubrio-atacaba-polillas-seda-autoctonas_0_hazi3a023y.html",
-      "pubDate": "Fri, 14 Aug 2026 06:02:45 +0000",
-      "source": "Clarin",
-      "cat": "ia",
-      "image": "https://www.clarin.com/img/2026/08/08/GTaoiMTqm_1200x630__1.jpg",
-      "subcat": "diseño"
-    },
-    {
       "id": "75f433a55a4bf5aa87c1",
       "title": "Lanterns se presenta por todo lo alto: HBO publica sus primeros 5 minutos",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com HBO Max ha liberado los primeros cinco minutos de Lanterns y DC no se guarda demasiado para más adelante: el adelanto conecta directamente las historias de Hal Jordan y John Stewart , revela cuándo apareció públicamente el primer Linterna Verde de la Tierra y deja una escena de infancia bastante más inquietante de lo esperado. Lanterns revela cómo conoció John Stewart a Hal Jordan Lanterns ya ha enseñado sus cartas. HBO Max ha publicado los primeros cinco minutos de la nueva serie de DC y el arranque sirve para establecer algo fundamental antes incluso de presentar a sus protagonistas adultos: John Stewart creció viendo a Hal Jordan como una figura prácticamente legendaria. La secuencia comienza diez años después de que la humanidad descubriera que alguien llamado Linterna Verde llevaba tiempo protegiendo la Tierra. Hal Jordan decidió salir a la luz tras impedir que un meteorito devastara las cataratas Victoria, convirtiéndose de golpe en el primer superhéroe reconocido públicamente de este nuevo Universo DC. La televisión recupera entonces aquella aparición mientras un joven John Stewart observa completamente fascinado. Kyle Chandler aparece rejuvenecido digitalmente como un Hal en plena juventud, mucho antes del veterano que conoceremos durante la serie, concediendo lo que se presenta como la primera entrevista cara a cara con un superhéroe. Lanterns de HBO Max Y aquí Lanterns introduce una idea con bastante peso: John admiraba a Hal mucho antes de convertirse en su compañero dentro de los Green Lantern Corps. Hal Jordan apareció públicamente como Green Lantern en 1986 El vídeo fija también una fecha muy concreta dentro de la cronología del DCU. Hal Jordan se dio a conocer al mundo como Linterna Verde en 1986 después de detener el meteorito, aunque su actividad como protector de la Tierra había comenzado aproximadamente una década antes. Durante la entrevista, Hal se define como veterano de las Fuerzas ",
@@ -1804,16 +2004,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Lanterns-16-de-agosto-de-2026-en-HBO-Max.jpg"
-    },
-    {
-      "id": "944a33e0e1c7498a54b0",
-      "title": "Ureña guía a Angelinos a blanqueada de 7-0 sobre Rangers, Trout y Guzmán pegan 3 hits cada uno",
-      "summary": "Los Angelinos dominan con 15 hits y blanquean a Texas 7-0. Ureña brilla en 6 entradas, Trout y Guzmán lideran ofensiva. Lowe y Frazier destacan con 2 hits cada uno, extendiendo la racha de victorias. DeGrom deja el juego por fatiga.",
-      "link": "https://www.clarin.com/estados-unidos/urena-guia-a-angelinos-a-blanqueada-de-7-0-sobre-rangers-trout-y-guzman-pegan-3-hits-cada-uno_0_iebvzzN3CM.html",
-      "pubDate": "Fri, 14 Aug 2026 06:00:05 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
     },
     {
       "id": "06e81d4d337ff56d9bae",
@@ -1867,16 +2057,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/YTO5V36OIZAV3PFTCFT2UCLAFU.jpg?auth=aa00d31f38c01c20bae523124b7f8b4189990677425d42770694614e411933cc&smart=true&width=2000&height=1333"
     },
     {
-      "id": "b1e973f6a4e0aed0cf60",
-      "title": "Rusia asesta duro golpe a infraestructura ferroviaria de Ucrania",
-      "summary": "La noche del 13 de agosto los ataques rusos alcanzaron también dos remolcadores portuarios en el mar Negro al sudoeste de la ciudad de Nikoláyev.",
-      "link": "https://actualidad.rt.com/actualidad/622253-rusia-golpe-infraestructura-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 05:50:25 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7eb18259bf5b21b76c57ba.jpg"
-    },
-    {
       "id": "3491a68348e9723f8f5e",
       "title": "Insta360 presenta su nueva cámara X6 8K",
       "summary": "La Insta360 X6 es la nueva cámara de acción de una de las compañías que dominan el segmento. El lanzamiento es destacado porque mejora en todos los aspectos de generaciones anteriores: estrena el sensor más grande usado nunca en una Insta360, renueva diseño, aumenta capacidad de la batería, amplía funciones y añade compatibilidad con Dolby Vision. Insta360 ha lanzado oficialmente en el mercado global su cámara de última generación. La mejora más notable es el diseño . La nueva Insta360 X6 es ahora más compacta y pequeña que la X5. Para ser más precisos, la X6 mide 50 x 100 x 40 mm y pesa alrededor de 196 gramos. La cámara permite tomar imágenes con resolución 8K en 360 grados . Para ello, la marca ha incluido sensores cuadrados duales Sony de 1/1,1 pulgadas personalizados en la X6, lo que ofrece un 33 % más de área de sensor que la X5 y aproximadamente cuatro veces más luz por fotograma, según indica la compañía. En su interior, la X6 cuenta con un chip de IA triple (un procesador insignia de 8 núcleos a 3,3 GHz y 4 nm junto con dos chips de imagen dedicados). El nuevo procesador de imagen promete un rendimiento superior al de la X5. Otra mejora destacable es que la X6 ahora puede grabar vídeo con resoluciones de hasta 8K/50 fps, un avance respecto a los 8K/30 fps de la X5. Además, esta cámara de acción ahora incluye compatibilidad nativa con Dolby Vision (color de 10 bits nativo) y dispone de 47 GB de almacenamiento interno. La batería de la X6 ahora tiene una capacidad superior que las anteriores, con 2.600 mAh. La batería Xtreme ofrece hasta 140 minutos de grabación en 8K a 30 fps y 360° con una sola carga. Además, se afirma que ofrece un 51 % más de tiempo de grabación en comparación con la X5. Cuenta con una pantalla OLED de 2,32 pulgadas con un brillo máximo de 1200 nits. Insta360 también ha presentado un nuevo motor de edición automática llamado «AI Director», que, según la marca, crea un resumen de los mejores momentos grabados con la cámara y envía el resul",
@@ -1906,26 +2086,6 @@
       "source": "La Nacion",
       "cat": "israel",
       "image": "https://resizer.glanacion.com/resizer/v2/GWFHT3LTQNFC3OBFEGFXZ67ZRI.jpg?auth=484cf09f7593590987da3c1a2625b92317229e1277b82a548d8a9d380cf47de9&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "7faeff1912497cdfb7f8",
-      "title": "Nicole Kidman reveló el camuflaje que utilizó para divertirse en las fiestas nocturnas de Ibiza sin ser reconocida",
-      "summary": "En una entrevista, la actriz de 59 años contó detalles de como vivió el verano europeo y de sus bailes hasta altas horas de la madrugada. \"Soy sigilosa. Soy buena entrando y saliendo de todas partes sin que me vean\", reveló la estrella de Hollywood.",
-      "link": "https://www.clarin.com/fama/nicole-kidman-revelo-camuflaje-utilizo-divertirse-fiestas-nocturnas-ibiza-reconocida_0_Fo53fwjoAD.html",
-      "pubDate": "Fri, 14 Aug 2026 05:28:41 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/08/14/Jt_onCaKP_1200x630__1.jpg"
-    },
-    {
-      "id": "8020584e7d0112eabd48",
-      "title": "\"Al estilo hitleriano\": Hijo de López Obrador tras cancelación de su visa por EE.UU.",
-      "summary": "Andrés Manuel López Beltrán calificó de \"perversa canallada\" la decisión de Marco Rubio y Christopher Landau.",
-      "link": "https://actualidad.rt.com/actualidad/622249-estilo-hitleriano-hijo-lopez-obrador-visa-eeuu-trumo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 05:15:15 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7ea18559bf5b753129aa09.jpg"
     },
     {
       "id": "d59a4ce3e25f21c4f24c",
@@ -1968,36 +2128,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/4JKAAMWJZBGG5FRIPWIUXSBHKI.png?auth=1297c0780d0a5b27886a7badf5ebec456460fea38ac2489a9bb73d81a302e995&smart=true&width=1506&height=1004"
     },
     {
-      "id": "d8ef70e6e5aa2e2a93e7",
-      "title": "Venezuela firma importante acuerdo gasífero con tres gigantes energéticos",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/622246-venezuela-firmar-importante-acuerdo-gasifero?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 04:55:06 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "9e06c8faa05a127439bc",
-      "title": "Cristiano Ronaldo luce 'irreconocible' tras su boda con Georgina Rodríguez (FOTOS, VIDEO)",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/622248-cristiano-ronaldo-lucir-irreconocible-boda?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 04:45:40 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "ca64cdcf0d658703cdee",
-      "title": "Un mujer denunció que su pareja le tiró agua hirviendo y quiso prender fuego la casa con ella adentro",
-      "summary": "El episodio ocurrió en Tolosa, en La Plata; El acusado fue detenido pero luego lo liberaron.",
-      "link": "https://www.clarin.com/sociedad/mujer-denuncio-pareja-tiro-agua-hirviendo-quiso-prender-fuego-casa-adentro_0_BBZXwj60H4.html",
-      "pubDate": "Fri, 14 Aug 2026 04:33:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/13/ejcSwrPYr_1200x630__1.jpg"
-    },
-    {
       "id": "8e556e54cf1c8b323090",
       "title": "Cienciano le ganó 6-1 a Botafogo, la mayor goleada sufrida por un club brasileño en torneos Conmebol",
       "summary": "Club Cienciano de Perú volvió a escribir otra página gloriosa en su historia luego de ganarle por 6 a 1 a Botafogo de Brasil por la ida de los octavos de final de la Copa Sudamericana . El conjunto cusqueño apalizó de local al anteúltimo campeón de la Copa Libertadores y viajará a Río de Janeiro con una amplia ventaja para la revancha. Si bien los once jugadores de Cienciano que saltaron al campo de juego del Estadio Inca Garcilaso de la Vega -ubicado a 3400 metros de altura- tuvieron una actuación descollante, el que dio la nota fue el delantero Matías Succar -cedido a préstamo por Alianza Lima -, quien se despachó con un hat-trick. ¡¡MEDIA DOCENA E HISTÓRICA GOLEADA EN CUSCO!! El enmascarado Succar selló su HAT-TRICK con un gran cabezazo de pique al suelo y marcó el 6-1 del Cienciano ante Botafogo. En el festejo... ¡chau máscara! 📺 #DisneyPlus Plan Premium pic.twitter.com/dfP9r03DYf SportsCenter (@SC_ESPN) August 14, 2026 El conjunto peruano enseguida se impuso en el terreno de juego y los goles no tardaron en llegar: a los 35 minutos de la parte inicial, Cienciano ya ganaba por 4 a 0. Tres de los tantos fueron anotados por Succar (18′ y 30′) y los argentinos Marcos Martinich (35′) y Neri Bandiera (20′), quien también marcó en el complemento. Ante este panorama, en el segundo tiempo el DT de Botafogo, Franclim Carvalho , movió el banco de suplentes y mandó a la cancha a Kauan Toledo y Arthur Cabral , quienes entraron por el delantero argentino Álvaro Montoro y el volante ofensivo, Kadir Barría . 🇵🇪 ¡Notable partido del local durante la Ida de los Octavos de Final! 🏆 CONMEBOL #Sudamericana | #LaGranConquista pic.twitter.com/KiqUJW9xhU CONMEBOL Sudamericana (@Sudamericana) August 14, 2026 Los cambios surtieron efecto y los brasileños llegaron al descuento a los 49’, marcando su único gol del partido a través del punta Matheus Martins . No obstante, Cienciano no bajó la marcha y continuó atacando. Así se materializó la goleada con dos goles más: Bandiera a los 62′ y ",
@@ -2006,16 +2136,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/6PBCBJI62FFHXEYX7SU5WMSLTY.JPG?auth=7c2b5376a389933004fcb467ed3af95456d53bf302bab934f62dc92f58019209&smart=true&width=4242&height=2828"
-    },
-    {
-      "id": "89c0846f22b1cfde3f2f",
-      "title": "China utilizará las estrellas para guiar sus misiles hipersónicos si falla la navegación satelital",
-      "summary": "Investigadores chinos construyen un prototipo de sensor estelar tras desarrollar un método para predecir con precisión cómo se curva la luz de las estrellas a velocidades extremas.",
-      "link": "https://actualidad.rt.com/actualidad/622143-china-estrellas-guiar-misiles-hipersonicas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 04:27:52 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7ddc7ae9ff712063265a51.jpg"
     },
     {
       "id": "11ce171780c531797550",
@@ -2028,16 +2148,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QWAK46J2BRPJNFPZK77TLBSG3E.jpg?auth=c307235d06d3b0d6afc860257a55ce1200aa5422d757dc3aa8b859df37bb7fdd"
     },
     {
-      "id": "3437623a525e9921f0f1",
-      "title": "EE.UU. ejecuta a tres personas en un solo día por primera vez en 16 años",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/622245-eeuu-ejecuta-tres-personas-dia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 04:16:10 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "16917ae4a144df0ab9f4",
       "title": "Cuánto gana un albañil en Florida en agosto 2026: sueldos de hasta US$75.476 al año",
       "summary": "Los ingresos de los albañiles en Florida presentan diferencias según la experiencia, la especialización y la ciudad donde trabajan. Para agosto, los salarios reportados se ubican entre US$45.213 y US$62.055 anuales , mientras que algunos trabajadores alcanzan remuneraciones superiores a los US$75.000 . Cuánto gana un albañil en Florida en 2026 Según datos de Economic Research Institute (ERI) , un albañil puede percibir ingresos anuales de hasta US$62.055 , con base en la experiencia acumulada, el área de trabajo y las certificaciones obtenidas. Los registros salariales de ZipRecruiter muestran también que los profesionales con mayor trayectoria pueden alcanzar ingresos de hasta US$75.476 al año , mientras que el rango más frecuente se sitúa entre US$44.618 y US$74.653. Los trabajadores que recién ingresan al oficio suelen comenzar con remuneraciones cercanas a los US$45.000 por año . A medida que adquieren experiencia y acceden a tareas de mayor complejidad, los ingresos pueden incrementarse de manera gradual . La remuneración por hora también presenta diferencias. Los registros indican valores que oscilan entre US$21,74 y US$29,83; esto depende de la posición ocupada y de la empresa contratante. Al tomar como referencia un ingreso anual de US$45.213, un albañil puede obtener aproximadamente US$869 por semana o alrededor de US$3767 por mes . Además, algunas compañías contemplan bonos anuales que rondan los US$2017. Las ciudades de Florida donde más ganan los albañiles en 2026 De acuerdo con ZipRecruiter , el lugar donde se desarrolla la actividad influye directamente en el salario. Algunas ciudades del estado muestran remuneraciones superiores al promedio general : Plantation encabeza los registros con ingresos cercanos a US$60.096 anuales . Miami Beach ofrece ingresos de US$59.746 por año . West Palm Beach registra ingresos de US$58.525 por año . Sarasota muestra ingresos de US$58.307 por año . La ciudad de Miami también figura entre los mercados con mejores remune",
@@ -2046,26 +2156,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/NUQRP4RTURBNLC6OF4EICCLFUI.jpg?auth=821eeb80d51b888e0f2ffa28f3e28718ea1f335a9b2df1988e842e69a44c6414&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "981bff12f9176d2860f2",
-      "title": "Ficha clave para encabezar la ONU habla de su \"muerte lenta\"",
-      "summary": "El principal supervisor internacional de proyectos con energía nuclear ve la incapacidad por parte de las Naciones Unidas de solucionar conflictos internacionales, problemas de índole social o climático.",
-      "link": "https://actualidad.rt.com/actualidad/622132-ficha-encabezar-onu-muerte?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 14 Aug 2026 04:04:22 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a7dddfde9ff710785767427.jpg"
-    },
-    {
-      "id": "3e494bbf7e3fd8272de0",
-      "title": "\"Presidente, trabaje junto a la gente para renovar la confianza\"",
-      "summary": "",
-      "link": "https://www.clarin.com/cartas-al-pais/presidente-trabaje-junto-gente-renovar-confianza_0_KtNTKeMXKl.html",
-      "pubDate": "Fri, 14 Aug 2026 04:00:44 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/12/qrRVjhjaL_1200x630__1.jpg"
     },
     {
       "id": "1f94749fcd25281e3d5c",
@@ -2078,16 +2168,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2024/09/lionessjpg.webp"
     },
     {
-      "id": "7fec67a143050aa4ecee",
-      "title": "Filis conectan 3 jonrones al maizal de \"Campo de los Sueños\" y vencen 7-1 a Mellizos",
-      "summary": "El toletero de Filadelfia destacó con dos cuadrangulares en el campo icónico, liderando la victoria sobre Minnesota. Marsh y Nola también brillaron. Keaschall, adaptado al jardín derecho, destacó con un jonrón, pero los Mellizos no aprovecharon oportunidades al bate, alejándose del comodín.",
-      "link": "https://www.clarin.com/estados-unidos/filis-conectan-3-jonrones-al-maizal-de-campo-de-los-suenos-y-vencen-7-1-a-mellizos_0_N7o53zBFF3.html",
-      "pubDate": "Fri, 14 Aug 2026 04:00:04 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
-    },
-    {
       "id": "761cd9db13cabc53e118",
       "title": "Un conductor daña Pampa del Leoncito, joya natural del norte argentino",
       "summary": "Camioneta ocasiona daño en la Pampa del leoncito, departamento de Calingasta, San Juan (Argentina).",
@@ -2095,7 +2175,7 @@
       "pubDate": "Fri, 14 Aug 2026 04:00:00 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VJUXN5J4SFEPNKLWS7ZU53AALM.jpg?auth=ce8ce79dbff89be57f5c11dbc7adee3e0ec5d8bf4ee38513aa1ee1b09f526878"
+      "image": "https://imagenes.elpais.com/resizer/v2/MYSEC4V6IVCJDDQ72EFKWOIVKY.jpg?auth=c18f641b56d333281194a813329bb97192d045da199d282a0429715a4e86ae09"
     },
     {
       "id": "91bdf6a406dd647cdcaa",
@@ -2129,36 +2209,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7904/live/4fcbe8f0-9799-11f1-9971-3738b0875eb7.jpg"
     },
     {
-      "id": "15660d1653840a4d9412",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este viernes 14 agosto de 2026",
-      "summary": "El SMN anticipa para este viernes temperaturas entre 8°C y 14°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-viernes-14-agosto-2026_0_NwMw03r65h.html",
-      "pubDate": "Fri, 14 Aug 2026 03:39:54 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg"
-    },
-    {
-      "id": "e5f3dd06933b178d5f35",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este viernes 14 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-viernes-14-agosto-2026_0_PP5aJk2JiY.html",
-      "pubDate": "Fri, 14 Aug 2026 03:39:30 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/kdfX1azIe_1200x630__1.jpg"
-    },
-    {
-      "id": "ef7ac664d2d7f8d15cec",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este viernes 14 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-viernes-14-agosto-2026_0_eclhWT5Svu.html",
-      "pubDate": "Fri, 14 Aug 2026 03:39:30 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg"
-    },
-    {
       "id": "014e796e8309bdc63cd0",
       "title": "Disquetes, faxes, sobres y otros fósiles analógicos que sobreviven en Windows",
       "summary": "Disquetes de colores sobre otros más clásicos.",
@@ -2167,6 +2217,16 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/Z4IUUU4NDFFCHEZZ5UOBNOGF7E.jpg?auth=6e8e5c7227eae9f4e7023385b4b3ff322616563c4eed96a439e69161e2cbe4a3"
+    },
+    {
+      "id": "f35691509c3b4f4cf9a9",
+      "title": "¿Por qué se ha encarecido más el diésel que la gasolina?",
+      "summary": "Precios del combustible en una gasolinera de Toledo en julio.",
+      "link": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
+      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/RKYYJDCB3NFT7ENBM6WGXE6UPI.jpg?auth=eaa3e2f68f4cbcd10eb101c16d9f8f933a1b9303da751ac25111545db0e83e2c"
     },
     {
       "id": "3080b7bcb2c8610038d5",
@@ -2198,16 +2258,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/BGKZKEHGVBEZBPQB6HAZVYY4UQ.jpg?auth=3bb79ad64e35e74750f1fee31ccacfd275b2969239b62a22461142204e6629f2"
-    },
-    {
-      "id": "92f0ab7d297946cfe73b",
-      "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
-      "summary": "Un cartel que anuncia que se alquila una vivienda, en septiembre de 2025, en Madrid.",
-      "link": "https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html",
-      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/C3VITAKKJZD3NC23645DUN4EHQ.jpg?auth=0f39f8e2764cbf978bbfd82677aafc2d44c2119139aa9503e0a7cd9899781167"
     },
     {
       "id": "fc84d1fdb227ff2f76cc",
@@ -2260,6 +2310,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/WWV6EXDMDVOXBLYMKJ2SSZDW2M.jpg?auth=5ba58ca8fb61debf097f6b96ba8f685c3627c2b81a666a9efe91d447b93aca94"
     },
     {
+      "id": "92f0ab7d297946cfe73b",
+      "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
+      "summary": "Un cartel que anuncia que se alquila una vivienda, en septiembre de 2025, en Madrid.",
+      "link": "https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html",
+      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/C3VITAKKJZD3NC23645DUN4EHQ.jpg?auth=0f39f8e2764cbf978bbfd82677aafc2d44c2119139aa9503e0a7cd9899781167"
+    },
+    {
       "id": "cefbb63f88b314f2557b",
       "title": "Alessia Schiavon, jurista: “Afganistán parece un cuento distópico. Están borrando a las mujeres de la sociedad”",
       "summary": "Alessia Schiavon, directora ejecutiva de la Fundación Internacional Baltasar Garzón, en una imagen cedida.",
@@ -2290,16 +2350,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/DDZFQ5XKI5EGLNQYIG2S2GUTOM.jpeg?auth=7d4df75399a38ceac107d9d9feb07b939726ab273a78239506500ac9e45375a5"
     },
     {
-      "id": "f35691509c3b4f4cf9a9",
-      "title": "¿Por qué se ha encarecido más el diésel que la gasolina?",
-      "summary": "Precios del combustible en una gasolinera de Toledo en julio.",
-      "link": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
-      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/RKYYJDCB3NFT7ENBM6WGXE6UPI.jpg?auth=eaa3e2f68f4cbcd10eb101c16d9f8f933a1b9303da751ac25111545db0e83e2c"
-    },
-    {
       "id": "b464f2d88ce293e9b83a",
       "title": "Hacienda limita la rebaja fiscal al vender el piso de soltero para comprar una casa en pareja",
       "summary": "Vivienda en venta en la calle de Claudio Coello, en Madrid, el pasado mayo.",
@@ -2308,6 +2358,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/TPS6PZI5DZF6ZOPAOW3C4DHQFU.jpg?auth=755f6ff30d784f754edc29d8a77d77a21cb5e144531be6bb580495059902a073"
+    },
+    {
+      "id": "a10fc2d65490fab63094",
+      "title": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
+      "summary": "Dos personas caminan bajo la lluvia en una calle de Valencia en julio de 2025.",
+      "link": "https://elpais.com/el-tiempo/2026-08-14/la-aemet-avisa-de-un-cambio-de-tiempo-importante-de-cara-al-fin-de-semana-lluvias-tras-el-calor.html",
+      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/S44EN7A32BCDDIJGBNELQCHV2M.jpg?auth=f59b68e0e78a220c1c9dd8d182b3e1602548f77914b11676aa2207063a26c6a3"
     },
     {
       "id": "b441a8588f636fe959f6",
@@ -2320,16 +2380,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YEWYWKP66VM6VMGXSGBP3W74DA.jpg?auth=4daf2e036c92dbdf524c55a7ec96603f826f280b08ee489b4135624d4ca6cfe4"
     },
     {
-      "id": "a10fc2d65490fab63094",
-      "title": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: tormentas fuertes tras el calor",
-      "summary": "Una carretera afectada por la lluvia caída este jueves en Huelma (Jaén), donde se han producido inundaciones y cortes de vías.",
-      "link": "https://elpais.com/el-tiempo/2026-08-14/la-aemet-avisa-de-un-cambio-de-tiempo-importante-de-cara-al-fin-de-semana-lluvias-tras-el-calor.html",
-      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OGPR4MCZTRORRFLNQ3MYIONQCU.jpg?auth=5a0199190e99e3a4c6a3d6d52edaa2eb972869a64981728e16891097f56caa57"
-    },
-    {
       "id": "99b4ceca594b8ffcc314",
       "title": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
       "summary": "Gigi de Vidal, copropietaria del hotel, se asoma a uno de los ventanales de la casona de 1785 del centro de Teguise, donde está Casa de las Flores.",
@@ -2338,26 +2388,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/N52KBZZQPVDQ7H27F37NZS5TVA.JPG?auth=b75a13d9c311f161b6c48c00b29d21a2cef005fa4c7a39246d642d2b0c9d1d0f"
-    },
-    {
-      "id": "706dc78280bc6eeda3f7",
-      "title": "Halle Berry cumple 60 años: cinco motivos por los que se ha erigido en un icono de Hollywood",
-      "summary": "Halle Berry en el estreno de 'Ruta de escape', en Los Ángeles, el 10 de febrero de 2026.",
-      "link": "https://elpais.com/gente/2026-08-14/halle-berry-cumple-60-anos-cinco-motivos-por-los-que-se-ha-erigido-en-un-icono-de-hollywood.html",
-      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/B6F3ZTP3QVG4PFPD3UMYEWSXTY.jpg?auth=15a6404107ee3d2484f3b11d4838549d20696ff251d96422bd19e44573c77502"
-    },
-    {
-      "id": "076cd183ca86633b5d22",
-      "title": "Ventajas de tener un megáfono en la mesilla",
-      "summary": "No sé cuántos años hace. Nunca recuerdo cuándo sucedieron las cosas. Mi aversión por los números —esas letras raras— se extiende a fechas, números de pisos, casas y sucesos históricos. Lo único que permanece imborrable son las cantidades monetarias. Aquel verano cobré 500 euros por ser camarera en un chiringuito durante las fiestas del Orgullo en Chueca. ¡Y me parecía mucho dinero! (Preveo bastantes exclamaciones escandalizadas en este texto). Seguir leyendo",
-      "link": "https://elpais.com/cultura/2026-08-14/ventajas-de-tener-un-megafono-en-la-mesilla.html",
-      "pubDate": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/KB2ALXF7PRGEFMR6ZQ6WGV4GGA.jpg?auth=7f9793f07688dcbef9ebabbc89a0677baf22df5db8fc2a283686304cf0d12f26"
     },
     {
       "id": "f8c24b3961f1f5838ae2",
@@ -2460,26 +2490,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/JJJ22LKDCBADTD4QLMUUFC3DSU.jpg?auth=e97fc1f75d7d882bdd10f255626ee367330be5e5122c1fea84b71a82e763a944&smart=true&width=2000&height=1333"
     },
     {
-      "id": "cf14fb60b03aeecae3ca",
-      "title": "La economía, el único desafío de Milei en las elecciones",
-      "summary": "Javier Milei tiene en su programa económico al principal desafiante en las elecciones del año próximo. El malestar de los sectores productivos ligados al comercio, la construcción y la industria, coincide con el de una porción significativa de la sociedad por la falta de empleo y bajos salarios en grandes centros urbanos. Muchos de ellos pertenecen a los casi seis millones de morosos que tomaron créditos para financiar gastos corrientes . Solo el 29 por ciento de los consultados expresó su satisfacción con la marcha de las cosas en el sondeo realizado por la Universidad de San Andrés en la primera semana de agosto. La imagen positiva del Presidente en este trabajo es del 35 por ciento. Similar a la de Mauricio Macri (34 %) en su tercer año de mandato. En algunas especulaciones políticas, hay un 40 por ciento del electorado dispuesto a votar por una opción que no sea la de los extremos que identifican con el kirchnerismo y La Libertad Avanza. Ese es el vacío que se pretende cubrir con Dante Guebel, Jorge Brito y Daniel Hadad. Figuras que promueven una opción al exceso de ajuste del gobierno pero sin perder los fundamentos macroeconómicos, bajo la presunción de satisfacer la expectativa de un sector del círculo rojo. La reunión de Mauricio Macri con Karina Milei es la primera reacción del oficialismo a la aparición del Pro en este tablero con Hernán Lacunza como precandidato a presidente. Un gesto del que Macri no espera demasiado por el momento, pero que lo satisfizo porque confirmó su poder de predicción . Le anticipó un año atrás a su círculo más íntimo que la gobernabilidad de Milei tendría dificultades si actuaba sin un marco adecuado de alianzas. Sería justo, sin embargo, que Macri reconozca el aporte a su acierto al talento para la torpeza política que el equipo económico le atribuye a Federico Sturzenegger. Uno de los ministros con influencia decisiva sobre Milei. Lacunza le permitió a Macri poner freno a la ansiedad de su primo Jorge, Rogelio Frigerio e Ignac",
-      "link": "https://www.lanacion.com.ar/opinion/la-economia-el-unico-desafio-de-milei-en-las-elecciones-nid14082026/",
-      "pubDate": "Fri, 14 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/7KQVPTJWGNCTFFWUMBAQIG4M3U.jpg?auth=75250d25e090d234564792b6001c859e64c0796235921726ed63e7734c24ff1f&smart=true&width=2500&height=1667"
-    },
-    {
-      "id": "8bf6613afb88172cf289",
-      "title": "Cartas de lectores: Incendios, Messi, licitaciones",
-      "summary": "Incendios Desde Portugal a Grecia, Europa se quema por incendios que dejan decenas de miles de hectáreas arrasadas. Eso ocurre en el hemisferio Norte, mientras que en el Sur son muy pocos los países que toman precauciones para el próximo verano austral. La Argentina está entre aquellos que no hacen algo para enfrentar una situación como la de estos días en Europa. Quizás el enorme costo de los aviones, casi obsoletos, que se compraron para incrementar el poder de nuestras fuerzas armadas, podría haber sido postergado por un tiempo, y esos recursos ser asignados a elementos útiles (aviones hidrantes, helicópteros, etc.) para prevenir y combatir esos posibles fuegos de un futuro cercano. El cambio ambiental existe, negarlo o ignorarlo puede ser de resultados irreparables. Jorge R. Vilaboa Novoa jvilaboanovoa@gmail.com Messi Lionel, con su carta de despedida a su padre, hizo el gol más importante de su vida: venció nuestro corazón, al contarnos su sentimiento de orfandad. Indy Failembogen indyfail@yahoo.com.ar Licitaciones Felicito a LA NACION por el editorial del miércoles pasado. Es la realidad que se nos presenta todos los días en que se anuncian los resultados de las licitaciones. Por el simple dicho de que “robó para la corona”, no puede permitirse que hoy, muchos años después, sea un empresario tan poderoso económicamente. Emilio Carlos Sojo emiliosojo@gmail.com Opción, no elección It is very difficult. Podemos parafrasear al Apache Tévez o subir la apuesta y citar a Giuliano Da Empoli, que definió la política actual como odio más algoritmo. En nuestro contexto de grieta, parece ilusorio pretender planes y programas sustentables. Very difficult , cuando los opositores militan en los propios espacios de cada facción o en el MTC (Movimiento Todos por un Cargo) Conscientes de la situación, los incipientes presidenciables recurren a un discurso pasteurizado y ambiguo, para lograr adhesiones extrapartidarias o alianzas transversales, con riesgo de perder su identidad.",
-      "link": "https://www.lanacion.com.ar/opinion/cartas-de-lectores-incendios-messi-licitaciones-nid14082026/",
-      "pubDate": "Fri, 14 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/B2O33LUJNBEWHMWJDD6G4Y5MPI.jpg?auth=a29c763c6258958476271931646d5986389f699b064a3ced3646c71cda0f6d92&smart=true&width=6000&height=4000"
-    },
-    {
       "id": "f97427118c43d1feff1d",
       "title": "Absolute Batman se atreve con una de las historias más controvertidas de DC y le da un giro brutal",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Absolute Batman #23 convierte el debut definitivo de Clayface en una tragedia que golpea directamente a los nuevos Robin. Scott Snyder no solo se atreve a matar a Tim Drake, sino que utiliza su destino para darle la vuelta a uno de los episodios más polémicos de toda la historia de Batman: Una muerte en la familia. Absolute Batman #23 mata a Tim Drake de la forma más cruel Absolute Batman lleva desde su estreno demostrando que Scott Snyder y Nick Dragotta no tienen demasiado interés en respetar las zonas de confort del Caballero Oscuro. Bruce Wayne no tiene fortuna, Batcueva ni buena parte de los elementos que tradicionalmente han definido al personaje, pero el número 23 va bastante más lejos: recupera uno de los traumas históricos de Batman y cambia quién debe cargar con él. El capítulo supone la aparición definitiva de la versión Absolute de Clayface, después de que el villano hubiese sido insinuado anteriormente. Su llegada, desde luego, no podía ser más salvaje. Jason Todd consigue aparentemente capturar a Batman, su objetivo principal, mientras Tim Drake, uno de sus compañeros dentro del llamado Robin Program, aparece para celebrar la victoria. Bruce intenta advertirles del peligro, pero llega demasiado tarde. Clayface adopta la apariencia de una versión gigantesca de Batman y utiliza una de las enormes púas que sobresalen de sus hombros para atravesar mortalmente a Tim Drake. El joven cae ante Jason en una escena especialmente cruel porque convierte el estreno del villano en algo mucho más importante que la típica presentación de un nuevo enemigo. Y aquí empiezan de verdad los problemas. Absolute Batman #23 Clayface consigue que Jason Todd crea que Batman asesinó a Tim Bruce llega a este enfrentamiento en un estado emocional especialmente complicado después de lo sucedido en Absolute Batman #22, donde descubrió indicios de que su padre podría continuar con vida. La paranoia ya estaba haciendo mella ",
@@ -2518,16 +2528,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7e4f843816e.jpeg"
-    },
-    {
-      "id": "27238755b3ac726ed273",
-      "title": "Así vienen las portadas del día",
-      "summary": "El inminente inicio de la temporada en LaLiga EA Sports y el mercado de fichajes son los temas destacados en las portadas de la prensa deportiva especializada",
-      "link": "https://www.marca.com/futbol/album/2026/08/14/portadas-dia.html",
-      "pubDate": "Fri, 14 Aug 2026 00:52:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/14/6a7e4a7bd197f.jpeg"
     },
     {
       "id": "f0d1db81856b81954ce0",
@@ -2656,7 +2656,7 @@
       "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó cientos de muertos y miles de heridos",
       "summary": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de la última década en el país.",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-14T07:14:01.178535+00:00",
+      "pubDate": "2026-08-14T09:01:12.629439+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8434/live/e6b011a0-9673-11f1-a6eb-474cf36e6c34.jpg"
@@ -2666,7 +2666,7 @@
       "title": "El espectacular eclipse solar total que se pudo ver en parte de Europa",
       "summary": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
       "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-14T07:14:01.178156+00:00",
+      "pubDate": "2026-08-14T09:01:12.629064+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2afb/live/6d106830-9683-11f1-9854-73d5e7b83e3b.jpg"
@@ -2712,6 +2712,12 @@
         "cls": "rb-blue"
       },
       {
+        "name": "ChatGPT",
+        "type": "Modelo",
+        "badge": "Trending",
+        "cls": "rb-green"
+      },
+      {
         "name": "Gemini",
         "type": "Modelo",
         "badge": "Trending",
@@ -2720,14 +2726,8 @@
       {
         "name": "Claude",
         "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
-      },
-      {
-        "name": "ChatGPT",
-        "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "GPT-5",
@@ -2738,5 +2738,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-14T07:14:30.312452+00:00"
+  "updated": "2026-08-14T09:01:41.487544+00:00"
 }
