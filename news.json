@@ -381,16 +381,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/657e/live/3442ab00-96fe-11f1-b72c-211ea4e0afc4.jpg"
     },
     {
-      "id": "8c6219dcea5101c9fc59",
-      "title": "El Snapdragon C quiere salvar el mercado con portátiles baratos de verdad",
-      "summary": "Qualcomm h a compartido las especificaciones de su nuevo SoC, el Snapdragon C , un chip con el que la compañía espera crear una plataforma que permita la llegada de portátiles con un precio de 300 dólares . Con la situación que tenemos actualmente en el mercado tecnológico, donde los precios se han inflado en gran medida por el aumento de los costes de la DRAM y de la memoria NAND Flash, esta es sin duda una buena noticia. Con el Snapdragon C podemos esperar cuatro grandes claves: Autonomía para todo el día en un portátil. Un rendimiento suficiente para tener una experiencia fluida. Diseños silenciosos y frescos. Compatibilidad con funciones de IA. Este chip puede montar diferentes configuraciones, y en la más potente estará equipado con 8 núcleos Kryo funcionando a una velocidad de hasta 3 GHz en monohilo y 2 GHz en multihilo. Cuenta con 2 MB de caché, monta una GPU Adreno A643 con una velocidad máxima de 900 MHz y soporta DirectX 12. El Snapdragon C estará fabricado en el nodo de 6 nm, lo que confirma que es un chip centrado en la reducción de costes. Para poder ofrecer esa compatibilidad con funciones de IA el Snapdragon C contará con una NPU Hexagon, y vendrá con una DPU (unidad de procesamiento de datos) con soporte de eDP 1.4 y resolución hasta FHD+ a 120 Hz, y 4K a 60 Hz en conectada a pantallas externas. La VPU Adreno es otro de sus puntos clave, ya que soporta AVC/HEVC hasta a 4K y 30 FPS en codificación de vídeo y AVC/HEVC/VP9 a 4K y 60 FPS en descodificación. Este chip tendrá Wi-Fi 6E integrado y conectividad Bluetooth 6, lo que significa que ofrecerá un ecosistema muy completo a nivel de conectividad inalámbrica. Seguro que estás pensando en un tema importante, la memoria. Qualcomm ha confirmado que el Snapdragon C soportará LPDDR4X, LPDDR5 y LPDDR5X, tres estándares que puede montar con una configuración de hasta 16 GB, pero con un bus de solo 32 bits, lo que significa que con 16 GB de LPDDR5X tendríamos un ancho de banda de 25,6 GB/s, y con LPDDR4 tend",
-      "link": "https://www.muycomputer.com/2026/08/13/el-snapdragon-c-quiere-salvar-el-mercado-con-portatiles-baratos-de-verdad/",
-      "pubDate": "Thu, 13 Aug 2026 08:51:05 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/Snapdragon-C-3.jpg"
-    },
-    {
       "id": "09c3dd5a3f223cf3eaeb",
       "title": "Estas son las mejores herramientas para crear logos online",
       "summary": "El logotipo es uno de los principales elementos visuales de una marca. Ayuda a que el público la identifique, la recuerde y la diferencie de sus competidores. Por ello, debe ser fácil de recordar y entender, versátil y atemporal (recuerda el principio KISS : menos es más). Si no dispones de presupuesto para destinarlo al diseño, en este post te ofrecemos un listado de herramientas para diseñar tu logo de forma online . Estas son las mejores herramientas para crear tu logo online. Para elaborar esta selección hemos tenido en cuenta la facilidad de uso, las posibilidades de personalización, los formatos de descarga, la disponibilidad de recursos gratuitos y la relación entre precio y prestaciones. Como verás, entre ellas encontrarás suites de diseño generales, como Adobe Express y Canva, creadores de logos y editores tradicionales basados en plantillas. Adobe Express Canva Brand Crowd Free Logo Design LogoMaker Logogenie Antes de elegir una herramienta, revisa sus condiciones de licencia. Algunos servicios permiten utilizar comercialmente el diseño, pero no garantizan su exclusividad ni que pueda registrarse como marca. También conviene comprobar si la descarga incluye archivos vectoriales —como SVG, EPS o PDF—, necesarios para imprimir el logo a cualquier tamaño sin perder calidad. Adobe Express Adobe Express es una plataforma de diseño disponible en versión web y mediante aplicaciones móviles. Su creador de logotipos permite partir de plantillas personalizables o generar propuestas a partir del nombre de la marca, el sector y las preferencias de estilo. Después, es posible modificar los colores, los iconos y la tipografía, además de incorporar recursos de Adobe Fonts. Para comenzar, introduce el nombre de la marca y, si corresponde, un eslogan. A continuación, selecciona el sector y el estilo visual, revisa las propuestas generadas y personaliza el diseño antes de descargarlo. Canva Entre las diversas posibilidades creativas de este famoso software de diseño gráfico",
@@ -411,14 +401,135 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YJXRCO7N3FM6ZFNIFRHYHKTAJE.jpg?auth=ea331ca8cd6b0b5ba2d01bf206b97f27529a53045db8bd49582c3b9e21cdfb10"
     },
     {
+      "id": "fb732feb0f036148aa61",
+      "title": "Hjulmand: \"¿El tatuaje del Arsenal? Ya no lo tengo\"",
+      "summary": "El centrocampista danés atiende a Marca antes de comenzar su primera temporada como jugador del Atlético",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/16/hjulmand-apasionado-liderazgo-encajare-estilo-atletico.html",
+      "pubDate": "Sun, 16 Aug 2026 09:56:58 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/13/dP6oE1gVW4AvUdbV8.jpeg"
+    },
+    {
+      "id": "d8f38513846844a11831",
+      "title": "Las redes cargan contra Natalia Palacios por quejarse de que no existen bajas por embarazo: \"Tu curro es irte de viaje\"",
+      "summary": "Natalia Palacios se queja de que no existen las bajas por embarazos y las redes dictan sentencia",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/16/natalia-palacios-queja-existen-bajas-embarazos-redes-dictan-sentencia-curro-irte-viaje.html",
+      "pubDate": "Sun, 16 Aug 2026 09:48:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a8164413827d.jpeg"
+    },
+    {
+      "id": "5f29f7e4a7f4f907ad36",
+      "title": "La hora de \"los buenos\"",
+      "summary": "Mourinho junto a Konaté, Cucurella, Diomande y Mbappé.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/16/hora-buenos.html",
+      "pubDate": "Sun, 16 Aug 2026 09:30:17 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a80cc9be8d86.jpeg"
+    },
+    {
+      "id": "28c8ce8660abcba36785",
+      "title": "Cancelo ultima su regreso al Barça",
+      "summary": "Cancelo la temporada pasada con la camiseta del Barça.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/16/cancelo-ultima-regreso-barca.html",
+      "pubDate": "Sun, 16 Aug 2026 09:03:07 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a815fc96dc32.jpeg"
+    },
+    {
+      "id": "2fe8ab57fb6dc4072713",
+      "title": "Las lluvias y tormentas no cesan durante este domingo: bajo alerta por la AEMET",
+      "summary": "Las lluvias y tormentas no cesan durante este domingo",
+      "link": "https://www.marca.com/tiramillas/tiempo/2026/08/16/lluvias-tormentas-cesan-durante-domingo-son-comunidades-alerta-aemet.html",
+      "pubDate": "Sun, 16 Aug 2026 08:40:48 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a8159ee27810.jpeg"
+    },
+    {
+      "id": "82bdbe861671cc168d3b",
+      "title": "El sufrimiento de Djokovic en Cincinnati: \"Es una condición de salud que tengo\"",
+      "summary": "Djokovic en su partido ante el argentino Tirante.",
+      "link": "https://www.marca.com/tenis/2026/08/16/djokovic-condicion-medica-empeora-calor-humedad.html",
+      "pubDate": "Sun, 16 Aug 2026 08:36:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a815892cb74a.jpeg"
+    },
+    {
       "id": "358e6c9e48559e86e5df",
-      "title": "El cabreo de Shapovalov con Jódar por las interrupciones del español: se lo recriminó al final del partido",
+      "title": "El cabreo de Shapovalov con Jódar",
       "summary": "El tenso saludo entre Shapovalov y Jódar al final del partido.",
       "link": "https://www.marca.com/tenis/masters-1000-cincinnati/2026/08/16/cabreo-shapovalov-jodar-interrupciones-espanol-recrimino-final-partido.html",
       "pubDate": "Sun, 16 Aug 2026 08:21:13 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a8155a20eb5f.jpeg"
+    },
+    {
+      "id": "430d8554f8a9843d2df7",
+      "title": "Créditos hipotecarios: el Gobierno busca la forma de activar la financiación para la compra de propiedades",
+      "summary": "El crédito hipotecario no logra dejar de ser el talón de Aquiles de la economía argentina. En mayo de 2024, los bancos pusieron primera y volvieron a lanzar líneas en UVA que reactivaron al mercado inmobiliario durante casi un año hasta que las entidades aumentaron las tasas y una gran parte de la demanda dejó de calificar y quedó fuera de la posibilidad de acceder a comprar con crédito. Así volvió a quedar expuesto el dilema histórico al que se enfrenta el sistema financiero local: cómo prestar dinero a 20 o 30 años en una economía en la que los depósitos se renuevan en plazos mucho más cortos . Un problema que ocupa parte de la agenda del Gobierno que busca la manera de reactivar el financiamiento para comprar propiedades. En este contexto , el ministro de Economía, Luis Caputo , anunció esta semana que el Gobierno habilitará préstamos bancarios en dólares para empresas , con destinos que también alcanzan al sector inmobiliario, y confirmó además que el Gobierno estudia utilizar recursos del Fondo de Garantía de Sustentabilidad (FGS) de la Anses para generar financiamiento de largo plazo para los bancos y, de esa forma, intentar ampliar nuevamente el mercado hipotecario. Ese fondo que administra el Estado es el que se conformó con el dinero que tenían las AFJPs cuando se estatizaron en 2008 y que se fue invirtiendo en diferentes instrumentos: desde financieros hasta otros de la economía real como, por ejemplo, el Procrear en su momento. En datos, el economista especializado en vivienda Federico González Rouco detalla que el FGS administra activos por unos US$75.000 millones, mientras que toda la cartera hipotecaria de vivienda de la Argentina ronda los US$11.000 millones . “Imagínense el impacto que puede tener el FGS en una cartera hipotecaria”, reflexiona. La iniciativa aparece tras un 2025 en el que se desembolsaron alrededor de US$3300 millones en créditos hipotecarios , el mejor registro desde 2018, aunque todavía lejos del pico de la era pre-crisis -2017-201",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-el-gobierno-busca-la-forma-de-activar-la-financiacion-para-la-compra-de-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 08:12:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/RKATJ2MSZRFYTGXI42AXSOXILY.JPG?auth=4d81495f429a9dcd5ad09b4de31739098356505f8e88caf66a93de45369738fe&smart=true&width=8192&height=5464"
+    },
+    {
+      "id": "d3bcbae00ea8371832ed",
+      "title": "Cruce de datos y detección de fraudes migratorios: el trasfondo de seguridad detrás de la digitalización del Uscis",
+      "summary": "El Departamento de Seguridad Nacional ( DHS , por sus siglas en inglés) emitió una nueva norma para regular la presentación electrónica de solicitudes migratorias ante el Servicio de Ciudadanía e Inmigración ( Uscis , por sus siglas en inglés). La medida moderniza los procesos administrativos de la agencia para fortalecer los controles de seguridad ante fraudes en todo Estados Unidos. Cómo la digitalización del Uscis busca detectar fraudes y reforzar la seguridad migratoria La dependencia busca optimizar la disponibilidad de los datos para realizar análisis avanzados de seguridad. Según la disposición de la medida, el sistema manual en papel limita la capacidad de los oficiales para identificar patrones de fraude. En ese marco, el formato electrónico permite capturar más información del solicitante en forma de datos estructurados y legibles . Esta recopilación facilita la detección rápida de fraudes de identidad en múltiples bases de datos . Según el texto de la norma final provisional publicada en el Registro Federal, el entorno digital permite comparar solicitudes y detectar con mayor facilidad patrones, textos repetidos o posibles indicios de fraude. Los algoritmos agilizan las revisiones de seguridad y el monitoreo continuo de riesgos. En esa línea, la autoridad federal argumenta que las cuentas en línea brindan mayor seguridad para resguardar la privacidad de los datos personales. Esto se debe a que el acceso requiere autenticación de dos factores para impedir la visualización no autorizada de correspondencia. Nueva regla del Uscis: formularios electrónicos, aviso de 60 días y exención I-936 La normativa, que entró en vigor este 11 de agosto de 2026, establece el marco regulatorio para que el Uscis pueda exigir de forma progresiva la presentación electrónica de determinados trámites migratorios . Las modificaciones regulatorias comprenden cambios de gran impacto que modernizan la recepción de trámites, como: El Uscis puede exigir la presentación electrónica de ",
+      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/cruce-de-datos-y-deteccion-de-fraudes-el-trasfondo-de-seguridad-detras-de-la-digitalizacion-del-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 08:11:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/PIFX4PIWC5ASHDMVBTSSWYYTCQ.jpg?auth=d97b3316d7e04757408ef6a582dbcab42ebfd1723604b6ad77c2ca7450c0ad81&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f6cc8e1c369203e35034",
+      "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
+      "summary": "A medida que Japón depende cada vez más de los trabajadores extranjeros, también se enfrenta al reto de cómo integrar nuevas culturas y religiones.",
+      "link": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 08:01:58 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d861/live/94358a00-89a2-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "4461aa3739d19dd4b286",
+      "title": "Ryan Gosling pilota la nave más rápida de la galaxia en Star Wars: Starfighter",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Star Wars: Starfighter ha dejado una de las imágenes más potentes de la D23: Ryan Gosling al mando de un misterioso prototipo imperial descrito como el caza estelar más rápido de toda la galaxia. El primer adelanto todavía no ha sido publicado oficialmente, pero las grabaciones filtradas ya han empezado a revelar por dónde quiere llevar Shawn Levy esta nueva etapa de Star Wars. Star Wars: Starfighter presenta a Kade Auberon y su misteriosa nave Lucasfilm llevó Star Wars: Starfighter a la D23 con una presentación que, pese a ser bastante breve, ha servido para despejar una de las primeras incógnitas de la película. Ryan Gosling interpreta a Kade Auberon , nombre del protagonista que hasta ahora se había mantenido bajo secreto mientras el estudio iba revelando reparto, fecha de estreno y los primeros detalles de la producción. Los asistentes al evento pudieron ver también un pequeño teaser que, a diferencia de otros adelantos mostrados durante la convención, Lucasfilm no ha publicado oficialmente. Eso no impidió que numerosos espectadores grabaran las imágenes y las compartieran en X e Instagram, aunque Disney ha comenzado a retirar buena parte de esos vídeos mediante reclamaciones de copyright. Puedes verlo en este enlace. Lo interesante no es tanto que el tráiler haya terminado circulando —algo casi inevitable en un evento de este tamaño— como lo que muestra. El adelanto comienza con el personaje interpretado por Flynn Gray retirando una lona que cubre una nave. El joven pasa la mano por su fuselaje como quien acaba de encontrarse un deportivo clásico escondido durante décadas hasta que Kade aparece y le pide que no la toque. Cuando el chico pregunta qué está viendo, llega la frase que probablemente Lucasfilm quería que todo el mundo recordara al salir de la sala: se trata de una nave imperial retirada del servicio y, según Kade, del caza estelar más rápido de la galaxia. Y aquí es donde Star Wars: Starfi",
+      "link": "https://www.cinemascomics.com/gosling-mas-rapida-star-wars-starfighter/",
+      "pubDate": "Sun, 16 Aug 2026 08:01:31 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Ryan-Gosling-Star-Wars-Starfighter.jpg"
+    },
+    {
+      "id": "35042597d3bfbdeb8f21",
+      "title": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
+      "summary": "NotebookLM , ahora Gemini Notebook , es de gran ayuda si necesitas procesar documentos, textos, videos y, en general, grandes cantidades de conocimiento. Si no entiendes algo, no tienes tiempo para leerlo todo o, simplemente, quieres ordenar tus propias notas, la IA de Google hace un buen trabajo con esta herramienta, complementaria de Gemini. Además, empezar con Gemini Notebook , antes NotebookLM, es la mar de simple. Creas una libreta, le das varias fuentes con contenido útil y la IA convierte todo eso en conocimiento organizado y procesado . Pero, ¿y si no sabes qué fuentes elegir ? La particularidad de Gemini Notebook es, precisamente, que te facilita la tarea de combinar la IA de Google con tus propias fuentes de información . Documentos, presentaciones, hojas de cálculo, libros ePub, archivos PDF, imágenes, videos… Son muchos los formatos compatibles . A diferencia de Gemini, ChatGPT o Claude , NotebookLM responde a tus preguntas solo con aquellas fuentes que tú le proporcionas, en vez de buscar en internet . Puedes pedírselo, pero no está pensada para ello. De ahí que sea muy práctica para tareas como preparar un examen , organizar tus notas y apuntes o preparar una guía de lectura para tus libros favoritos. Así, pues, ¿qué hacer cuando no tienes claro qué fuentes deberías emplear ? Google ha pensado en ello. Una de las tareas principales de Gemini Notebook es servir a investigadores y a profesionales para hacer nuevos descubrimientos y ampliar temas ya conocidos . Y en ese camino, en ocasiones conviene descubrir fuentes nuevas que la propia IA de Google te puede proporcionar. Veamos tres maneras de hacerlo posible. Es decir, tres maneras de empezar con Gemini Notebook aunque no sepas con qué fuentes estrenar tu cuaderno de NotebookLM . Así funciona Gemini Notebook Dice Google en la Ayuda de NotebookLM , ahora Gemini Notebook, que “ una fuente es una copia o una versión sincronizada automáticamente de un documento de origen que importas o subes a la aplicació",
+      "link": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
+      "pubDate": "Sun, 16 Aug 2026 08:00:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Robot-Leyendo-Libros-Biblioteca.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "1f225bdb1fb3e964c088",
+      "title": "Parkinson: un especialista explicó en detalle cuál es el primer síntoma detectable",
+      "summary": "El Parkinson se presenta hoy como un desafío complejo para la medicina moderna . No solo por la ausencia de una cura definitiva, sino por las barreras sociales y los diagnósticos tardíos que enfrentan quienes conviven con la enfermedad. Juan Ferrario , doctor en Ciencias Biológicas e investigador especializado en esta patología, explicó en LN+ que, “ si bien el 90% de los casos se manifiestan entre los 50 y 60 años , existe un componente genético que puede adelantar la aparición de los síntomas de manera drástica”. Hablo Juan Ferrario, investigador del tema “ El primer síntoma detectable es la rigidez muscular ”, planteó Ferrario. “Inicialmente es muy difícil de detectar”, señaló y agregó que “ solo el 10% de los casos detectados tienen un origen hereditario ”. Según el análisis del experto, “en estas situaciones particulares, la enfermedad puede manifestarse mucho antes de lo previsto. Incluso a partir de los 10 años o en la franja de los 30 a 40 años ”. Una referencia hollywoodense Un ejemplo emblemático de esta variante genética es el del actor Michael J. Fox , quien lidió con la enfermedad desde su juventud y se ha convertido en un referente global de la lucha contra el Parkinson. Recientemente, la visibilidad de su condición volvió a ser noticia tras un emotivo episodio en el set de la serie “Terapia sin filtro”, donde un gesto de Harrison Ford conmovió profundamente a Fox, evidenciando la importancia del apoyo y la empatía en el entorno profesional para quienes atraviesan este proceso . “ Las personas con Parkinson tienen problemas motores, pero no cognitivos , salvo en casos puntuales. Mentalmente están en perfectas condiciones”, afirmó Ferrario. Al momento de ser consultado sobre los estigmas de la enfermedad, el especialista dijo que “ la mayoría de los pacientes sufre discriminación en el ámbito laboral ”. En consonancia, el investigador fue enfático al desmitificar la idea de que el Parkinson anula las capacidades de una persona. En palabras del doctor en",
+      "link": "https://www.lanacion.com.ar/sociedad/parkinson-un-especialista-explico-en-detalle-cual-es-el-primer-sintoma-detectable-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/KQV544UFFNGT5BC7XPHV6TO6SU.JPG?auth=a7f19417bed8af72284d08f23a9c9fdd52830213930464f2e9484d07ef8a0f11&smart=true&width=2000&height=1334"
     },
     {
       "id": "91c4e5bef9bf5fe8d2d8",
@@ -461,6 +572,36 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a814d016a474.jpeg"
     },
     {
+      "id": "aa2287747f8c278e85fa",
+      "title": "La FIFA difundió la Ref Cam de la final del Mundial: de los reclamos de Enzo Fernández y Messi al gol de España",
+      "summary": "La FIFA difundió los momentos más destacados de la Ref Cam durante la final del Mundial 2026 en donde España se coronó ante la Argentina por 1 a 0 . A través de las imágenes registradas por la cámara que portó el árbitro esloveno, Slavko Vinčić , se revivieron momentos inéditos del partido decisivo de la última Copa del Mundo. Entre ellos, los reclamos de Enzo Fernández, los diálogos con Lionel Messi y el gol del seleccionado europeo. La filmación, de poco más de cuatro minutos de duración, arranca desde el túnel con la salida de ambos seleccionados. El primer encuadre muestra a Messi saludando a Rodri, Unai Simón y Marc Cucurella . Luego, el 10 de la Argentina hace lo mismo con Vinčić, con quien intercambia unas breves palabras. Una vez en el campo de juego, la Ref Cam registra el saludo, uno por uno, de todos los jugadores de la Scaloneta con el árbitro. Luego, hace lo mismo con los futbolistas de la selección de España. Lo que nunca se vio de la final de la Copa del Mundo En el momento del sorteo previo al saque inicial, el primero en elegir la cara de la moneda fue Messi, quien resultó ganador. Luego del protocolo, Vinčić vuelve a saludar al astro rosarino y a Rodri, a quienes les dice: “ Good luck [buena suerte] ”. Iniciado el juego, el primer corte muestra a Enzo Fernández y a Alexis Mac Allister reclamar por una jugada. El árbitro, en actitud defensiva y con la intención de sacarse de encima a los jugadores, dice: “ The last one ” pero, como Mac Allister parece no entender, el esloveno repite lo mismo en español: “La última vez”, provocando la risa del volante argentino. La primera amonestación que registra la cámara del árbitro llega luego de un corte, por atrás, de Lisandro Martínez contra Mikel Oyarzabal . Tras sacar el cartón, el jugador argentino sigue su recorrido sin mirar al referí. Luego, ante un intento argentino, llega la primera queja de Messi. “I see, Lionel: I see [Lo vi, lo vi]”, repite el juez. Más adelante, el capitán argentino vuelve a recri",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-difundio-la-ref-cam-de-la-final-del-mundial-de-los-reclamos-de-enzo-fernandez-y-messi-al-gol-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 07:28:21 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/AE2SELFG6VGB3EG7MMJXVKZISE.png?auth=9e59b91741f48aa7bf4aa88bd25ffbf641d44b4fa79bee9bb05b5146d4263800&smart=true&width=1059&height=704"
+    },
+    {
+      "id": "fa74d68d0927468b3165",
+      "title": "Intenta recuperar bici robada de su sobrina y fallece de una cuchillada en el cuello (VIDEO)",
+      "summary": "Cuando llevaba la bicicleta a reparar, un hombre lo interceptó y se la robó.",
+      "link": "https://actualidad.rt.com/actualidad/622563-recuperar-bici-sobrina-terminar-cuchillo-cuello?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 16 Aug 2026 07:17:01 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a81534659bf5b247b4c9f55.jpg"
+    },
+    {
+      "id": "a542f94d02d5daf917ba",
+      "title": "Irán: \"No retrocederemos hasta la derrota total del enemigo\"",
+      "summary": "Teherán lanzó un contundente recordatorio dirigido \"al agresivo Estados Unidos\".",
+      "link": "https://actualidad.rt.com/actualidad/622571-iran-no-retroceder-derrota-total-enemigo-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 16 Aug 2026 07:14:20 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8167c3e9ff711b1e4ca453.jpg"
+    },
+    {
       "id": "858fe5265edc0da56a6f",
       "title": "La remontada imposible de Jódar",
       "summary": "Jódar trata de golpear una pelota de revés.",
@@ -471,6 +612,138 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a8146c1bd4fd.jpeg"
     },
     {
+      "id": "75e5cf612ac84ad2fb78",
+      "title": "Hijo de López Obrador presume de visita a restaurante en EE.UU. (FOTO)",
+      "summary": "José Ramón López Beltrán, hijo del expresidente mexicano Andrés Manuel López Obrador, publicó este sábado una fotografía en un restaurante de Estados Unidos, después de que le retiraran la visa a su hermano Andrés Manuel López Beltrán. \"Saludos desde Buc-ee's\", escribió, adjuntando un selfi afuera del local y acompañando el mensaje con los emojis de la bandera de Estados Unidos, un corazón y la bandera de México.",
+      "link": "https://actualidad.rt.com/actualidad/622568-hijo-lopez-obrador-presumir-visita-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Sun, 16 Aug 2026 07:08:13 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a81598be9ff711b395388ee.jpg"
+    },
+    {
+      "id": "4008909c5d221896f3a8",
+      "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
+      "summary": "Cuando compras un ordenador nuevo , lo habitual es aprenderse de memoria su ficha técnica para saber qué CPU tiene, la cantidad y tipo de memoria RAM, la tarjeta gráfica o GPU, la capacidad de almacenamiento de su disco o discos y un largo etcétera. Pero es inevitable que, con el paso del tiempo, acabes por olvidar las pulgadas de tu pantalla o la capacidad de la GPU que compraste. La buena noticia es que puedes preguntárselo tú mismo . Desde las herramientas que te facilitan Windows y macOS. O, en el caso de Linux, directamente desde el terminal o línea de comandos . Hay comandos de Linux para todos los gustos. Con algo de suerte, nunca vas a necesitar recordar las características de tu ordenador . Pero es inevitable que necesites esa información, tarde o temprano. En especial si sueles jugar en tu PC y te topas con un juego exigente que pide un hardware específico . Para averiguar si el problema es del juego, del sistema operativo o de tu computadora, conviene descartar esto último averiguando si cumples con la lista de requisitos . Además, hay un buen puñado de comandos de Linux que te permitirán preguntar por la salud de tu hardware . Si algo no va del todo bien, puedes averiguar dónde está el problema, si le estás dando demasiada caña a tu máquina o si deberías plantearte sustituir algún componente para alargar la vida útil de tu computadora. Comandos de Linux para conocer tu hardware Credit: Sharad Kachhi / Pexels Empecemos por comandos de Linux genéricos para conocer, a grandes rasgos, de qué piezas se compone tu ordenador. Puedes probarlos todos y en cualquier distribución o versión de Linux. Y te permitirán conocer más sobre el interior de tu máquina. Puede que algunos comandos te pidan instalar software adicional. Y otros te pedirán que los ejecutes como root con el comando sudo . lshw o lshw -short : muestra un resumen de CPU, memoria, discos, redes, conexiones… hwinfo o hwinfo -short : ofrece información detallada sobre los elementos de hardware de tu PC",
+      "link": "https://hipertextual.com/guias/comandos-linux-hardware-componentes-sistema-ordenador/",
+      "pubDate": "Sun, 16 Aug 2026 07:03:41 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Comandos-Linux-Terminal-Comando-fastfetch.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "21aa77c2661a38b04acb",
+      "title": "DS N4, mensajes",
+      "summary": "Miguel no se encuentra bien. Ha pasado mala noche, realmente mala. Su cuerpo estaba agotado pero sus tripas se empeñaron en bailar con él hasta la madrugada. Suele ser disciplinado con su alimentación pero ayer tenía algo que celebrar. Y lo pagó. No está seguro si fueron las cervezas o el burrito, pero lo que tiene muy claro es que ambos están fuera de su lista, tanto los locales como sus productos. Tiene que espabilar. Hoy toca culminar lo que celebró ayer prematuramente. Alicia le espera en el laboratorio, le ha llamado tres veces desde las seis de la mañana. Está impaciente. En la voz se la notaba descansada y emocionada. Miguel calcula que se habría tomado no menos de cuatro cafés. Y solamente pensar en ello hace que el estómago se rebele y amenace con seguir con la fiesta de anoche. Pero no se lo puede permitir. Se levanta, se lava la cara y aprovecha para beber algo de agua. El espejo le devuelve el rostro de un tipo que no está en su mejor momento. Se afeita rápidamente. Ni siquiera ese trago de agua es bienvenido, siente náuseas, pero se obliga a respirar hondo para contener el malestar. Cierra los ojos. Entonces ordena al altavoz que reproduzca música para distraerse. En circunstancias normales prefiere despertarse con Mozart o Chopin. Hoy dejará de lado el piano y pide la Pastoral de Beethoven. Las notas se deslizan por las laderas de Heiligenstadt. Miguel recuerda ese viaje, el congreso donde conoció a Alicia. Esa conversación en el café que llevaría a la investigación que hoy iba a cambiar al mundo. Miguel no quiere abandonar a Beethoven y coge sus cascos al salir de casa. Baja al metro con los ojos entornados para dejarse sanar por la melodía. Las tripas de Miguel no están dispuestas a que las olviden, pero por lo menos la música las ha apaciguado en parte. El traqueteo del vagón no ayuda a Miguel. La sinfonía parece perder su poder y se marea. Abre los ojos. Quedan cinco estaciones. Demasiado. Se baja en la siguiente parada y sale corriendo del vagón. ",
+      "link": "https://www.muycomputer.com/2026/08/16/ds-n4-mensajes/",
+      "pubDate": "Sun, 16 Aug 2026 07:03:35 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/DS-N4-00030.jpg",
+      "subcat": "mercado"
+    },
+    {
+      "id": "51ad9203b07e77b046c6",
+      "title": "Jugadores de Patronato fueron agredidos por sus hinchas tras haber perdido contra Colón de Santa Fe",
+      "summary": "Jugadores de Patronato de Entre Ríos fueron agredidos por sus propios hinchas tras haber perdido contra Colón de Santa Fe en condición de visitantes por 3 a 0 en uno de los encuentros de la fecha 25 del Grupo B de la Primera Nacional. El hecho se produjo tras el arribo del plantel al Presbítero Bartolomé Grella , recinto del cuadro rojinegro, donde los futbolistas regresaron a retirar sus pertenencias. Al regresar de Santa Fe, varios jugadores de Patronato fueron increpados por un grupo de hinchas que, luego de recriminarles por su bajo rendimiento futbolístico, agredieron a los futbolistas. Según informó el medio local UNO Entre Ríos , entre los que fueron agredidos se encuentran el capitán del equipo rojinegro, Alan Sosa y el defensor, Facundo Díaz . El medio local señaló también que la situación generó la intervención de personal de la División Investigaciones de la Policía de Entre Ríos , que se hizo presente en el Grella para prevenir la expansión de los desmanes y recabar información sobre lo ocurrido. Por su parte, las autoridades del club no se pronunciaron y tampoco trascendió la identidad de los agresores. View this post on Instagram Antes del violento suceso, sobre el césped del estadio Brigadier General Estanislao López , Colón se impuso con los tantos de Agustín Toledo, Ignacio Lago y Matías Muñoz. Con esta nueva caída, Patronato extendió a once la cantidad de encuentros que lleva sin saber lo que es llevarse los tres puntos. En el recorrido inmediato del Patrón en la Primera Nacional aparecen cuatro derrotas y siete empates , entre los que figuran los empates con Tristán Suárez (1-1), Agropecuario (1-1), Atlético de Rafaela (0-0), Midland (1-1), Gimnasia y Tiro de Salta (1-1), Quilmes (3-3) y Colegiales (2-2); y las derrotas ante Güemes (0-1), San Martín de Tucumán (0-1), Midland (0-1) y Colón (0-3). Esta colección de tropiezos lo ubica a Patronato en la penúltima posición del Grupo B, apenas cuatro puntos por arriba de Güemes de Santiago del Estero . ",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/jugadores-de-patronato-fueron-agredidos-por-sus-hinchas-tras-haber-perdido-contra-colon-de-santa-fe-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 07:03:17 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/N26TYZI4VZHTDIWISIHCJUSHNM.jpg?auth=93f61871bc5a906dfe3e12bf9700cc93a6313019913b7cff76bd5a2e774dd716&smart=true&width=1200&height=900"
+    },
+    {
+      "id": "48583e5849605fc090be",
+      "title": "Qué significa el proverbio chino: \"La gema no se puede pulir sin fricción, ni el hombre perfeccionarse sin pruebas\"",
+      "summary": "La frase que habla del valor formativo de las dificultades.",
+      "link": "https://www.clarin.com/estados-unidos/significa-proverbio-chino-gema-puede-pulir-friccion-hombre-perfeccionarse-pruebas_0_0uaB4SMPv7.html",
+      "pubDate": "Sun, 16 Aug 2026 07:01:19 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/10/FCGP-78l3_1200x630__1.jpg"
+    },
+    {
+      "id": "8cad9786823b4def4c8e",
+      "title": "Sun Tzu, filósofo chino: \"Si haces que los adversarios no sepan el lugar y la fecha de la batalla, siempre puedes vencer\"",
+      "summary": "El estratega y pensador de la antigua China reflexiona sobre la incertidumbre y el valor de la información. El desafío de la imprevisibilidad en una sociedad hiperconectada.",
+      "link": "https://www.clarin.com/internacional/sun-tzu-filosofo-chino-haces-adversarios-sepan-lugar-fecha-batalla-siempre-puedes-vencer_0_luPeHyDfGR.html",
+      "pubDate": "Sun, 16 Aug 2026 07:01:19 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/15/_wzsB3Fg2_1200x630__1.jpg"
+    },
+    {
+      "id": "b2a545b423749eee3853",
+      "title": "Una argentina fue detenida en Japón por intentar ingresar casi un kilo de cocaína oculto en su cuerpo",
+      "summary": "Una mujer argentina de 30 años fue detenida en Tokio, Japón , bajo sospecha de intentar introducir cocaína de contrabando tras ingerirla y ocultarla dentro de su cuerpo. Rosa Micaela Kipildor está acusada de haber ingresado al país asiático con estupefacientes el 10 de agosto. Según la investigación, había viajado desde el Reino Unido y llegó sola al aeropuerto de Haneda. Los funcionarios de la aduana de Haneda sospecharon de su comportamiento y decidieron someterla a una inspección. Una radiografía permitió detectar en el interior de su cuerpo 101 cápsulas con forma de capullo. Estaban envueltas en plástico y en un material negro similar al caucho. En total, los envoltorios contenían aproximadamente un kilogramo de cocaína, cuyo valor de venta al por menor se estima en US$152.160 . Según medios japoneses como FNN , TBS News Dig y TV Asahi , la Policía Metropolitana de Tokio informó que las cápsulas medían unos 5,2 centímetros de largo y que la droga estaba envuelta en una doble capa . Durante el interrogatorio, Kipildor admitió los cargos. De acuerdo con la información difundida por esos medios, declaró que una mujer a la que había conocido en un festival en Argentina le había hecho la propuesta . También dijo que recibió la cocaína en Brasil y la ingirió allí, y que le entregarían US$7000 por transportarla. Las autoridades japonesas investigan además la posible participación de una organización de narcotráfico con base en Sudamérica que tendría a Japón como uno de sus destinos. En Japón, durante el año pasado, 415 personas fueron detenidas por delitos relacionados con la posesión de cocaína, una cifra que representa un aumento de casi diez veces respecto de la registrada una década atrás. Otro antecedente en Indonesia Similar a lo que le ocurrió a Kipildor fue lo que vivió Eleonora Gracia , de 46 años, quien fue arrestada en marzo de 2025 en el aeropuerto internacional de Bali cuando intentó entrar a Indonesia con más de 300 gramos de cocaína . La mujer había esco",
+      "link": "https://www.lanacion.com.ar/sociedad/una-argentina-fue-detenida-en-japon-por-intentar-ingresar-casi-un-kilo-de-cocaina-oculto-en-su-nid15082026/",
+      "pubDate": "Sun, 16 Aug 2026 07:00:44 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/CIERNOPK2FCVXKKFLNIJRWF5AA.jpg?auth=7e78f6d4a3232f2edefb519bc23ae27b7161ab236a9f28eaed2ab82677db2079&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "ff4fb04c6d8ba9623036",
+      "title": "Dólar blue hoy: a cuánto cotiza este domingo 16 de agosto",
+      "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-16-agosto_0_NvQV1LOGkb.html",
+      "pubDate": "Sun, 16 Aug 2026 07:00:03 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2017/08/29/ryra6HxcW_1200x630.jpg"
+    },
+    {
+      "id": "4b282a5ee8b42ded179e",
+      "title": "Hígado graso: cuál es la dieta más eficaz para tratarlo y el endulzante que hay que evitar",
+      "summary": "La dieta mediterránea se ofrece como la más eficaz para el tratamiento del hígado graso porque cuenta con antioxidantes , fibra (que aporta el consumo de frutas, verduras, legumbres, semillas), cereales integrales, omega 3 y es baja en azúcares. Es importante evitar el consumo de alcohol y de bebidas azucaradas. No se trata de abandonar la ingesta de grasa sino de controlar la cantidad de energía que se ingiere y a través de qué alimentos proviene. Consumir aceite de oliva a diario. Lo mejor es usarlo crudo en ensaladas para que no pierda su composición al calentarse. No es necesario cocinar todo con oliva , podés mezclar otros aceites para cocinar. Aumentar el consumo de pescado semanal. Si comes pescado una vez cada quince días empezar a incorporarlo todas las semanas en el menú; si lo comes una vez a la semana, aumentarlo a dos . De esta manera se irá disminuyendo paulatinamente las carnes rojas, siempre combinándolas con verduras o cereales, para que no sean el alimento principal o único del plato. Aumentar el consumo de frutas y verduras. Si no comes ni una sola fruta empezar por incluir todos los días al menos una unidad y lo mismo para las verduras. Estos son los alimentos que más vitaminas, minerales y fibra aportan . Intentar subir la cantidad hasta incluir cinco porciones al día. Empezar a consumir legumbres como las lentejas, garbanzos y porotos. Tenemos arraigado el concepto que si no comemos carne no estamos consumiendo proteínas pero las legumbres también las aportan y más si las mezclamos con cereales . Si consumimos lácteos y derivados, optar por los descremados y bajos en grasa . Sumar frutos secos, son una fuente inagotable de grasas saludables cardioprotectoras. “No da síntomas” Alrededor de 1 de cada 3 argentinos sufre la afección de hígado graso , a menudo asintomático y asociado a factores como el sobrepeso, la mala alimentación, la diabetes y el sedentarismo. Existen dos tipos principales: no alcohólico y alcohólico . Higado graso “El hígado g",
+      "link": "https://www.lanacion.com.ar/sociedad/higado-graso-cual-es-la-dieta-mas-eficaz-para-tratarlo-y-el-endulzante-que-hay-que-evitar-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/GWB2YZ7YRRHFLJ7PSQXOB5O4R4.jpg?auth=838624d00d20980767f146ae8dc5cb453a18a3e6b4b12703feffe065c6afcb62&smart=true&width=768&height=512"
+    },
+    {
+      "id": "53c6b293b847c4c5b64a",
+      "title": "La primera dama de Ecuador perdió al tercer hijo que esperaba junto al presidente Daniel Noboa",
+      "summary": "La primera dama de Ecuador, Lavinia Valbonesi , perdió el tercer hijo que esperaba del primer mandatario de ese país, Daniel Noboa , tras sufrir una complicación durante el embarazo que obligó a someterla a una intervención de emergencia. La noticia fue anunciada a través de una publicación en X por parte de Nataly Morillo , la ministra de Gobierno. “Con profundo pesar informo al país que la familia presidencial atraviesa la dolorosa pérdida de su tercer hijo, Stefano Noboa Valbones i”, posteó la funcionaria. “La primera dama, Lavina Valbonesi, fue sometida a una intervención de emergencia debido a una complicación durante su embarazo. Lamentablemente, Stefano falleció ”, detalló Morillo en su mensaje. Si bien Noboa es padre de tres hijos -Daniela es una, de su anterior matrimonio-, dos de ellos son fruto de su vínculo con Valbonesi: Álvaro y Furio . En su publicación, la ministra de Gobierno de Ecuador también aprovechó para dirigirse al primer mandatario. “ Expreso mis más sentidas condolencias a la Primera Dama y al presidente de la República . Los acompaño, junto a toda su familia, con respeto, solidaridad y afecto en este momento de profundo dolor”, apuntó. Noboa tiene 38 años de edad y Valbonesi, 28 . Se conocen desde hace aproximadamente siete años, tras haberse conectado en el año 2019, cuando ella comenzó a trabajar como su nutricionista personal. Finalmente, Morillo reveló la medida que tomó el Ejecutivo ecuatoriano tras el lamentable episodio. “ Durante tres días, la bandera del Palacio de Carondelet permanecerá a media asta ”, detalló. Noboa dirige las riendas de Ecuador desde hace dos años y nueve meses , tras asumir su primer mandato el 23 de noviembre de 2023. Posteriormente, ganó la reelección e inició su segundo período de cuatro años el 24 de mayo de 2025. En el caso de Valbonesi, pasa sus días combinando su rol público e institucional con la crianza de sus hijos , la gestión de causas sociales, su faceta como influencer y empresaria, y su reciente",
+      "link": "https://www.lanacion.com.ar/el-mundo/la-primera-dama-de-ecuador-perdio-al-tercer-hijo-que-esperaba-junto-al-presidente-daniel-noboa-nid15082026/",
+      "pubDate": "Sun, 16 Aug 2026 06:58:18 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/WT52YE6NYRGDJLYPFUTEVHRJBE.png?auth=7e7f54ae708eb1e09635da5a3397994ca3d4c7cb2db8ed2dcfa88646877c0003&smart=true&width=605&height=483"
+    },
+    {
+      "id": "6e6a041d6e1022e3dbbd",
+      "title": "El duro relato de Benjamín Vicuña sobre la distancia de sus hijos menores que hizo emocionar a Lizy Tagliani y Pablo Giralt",
+      "summary": "Benjamín Vicuña fue invitado al segundo programa de PH, Podemos Hablar (Telefe) y, en una charla distendida con Andy Kusnetzoff, se sinceró sobre lo mucho que extraña a sus hijos menores, Magnolia y Amancio, quienes desde hace más de un año viven en Turquía junto a su madre, la China Suárez, y su padrastro, Mauro Icardi. “Existen miles de formas de paternar. Evidentemente, el día a día es fundamental y me ha pasado en momentos de mi vida que he trabajado un montón. Pero la situación hoy es que mis hijos están a más de 14 mil kilómetros y yo estoy muy seguro del vínculo que tengo con ellos. O sea, eso no me lo puede robar nadie, el amor ”, dijo y le lanzó un fulminante dardo a su expareja , quien en varias ocasiones remarcó que sus hijos llaman “papá” al futbolista. “Y trato en estas circunstancias que son adversas, porque claramente no es cómodo ni lindo, ni es bueno ni justo, mantener un contacto a diario . Ahora ya pasaron dos meses, intercalados, pero estuvieron mucho conmigo y trato de meterles mucho tiempo de calidad, de amor, de conversaciones”, remarcó sobre cómo aprovecha los momentos con sus niños al máximo. Además, aclaró que en esas charlas que mantiene con sus hijos pequeños nunca habla de las diferencias que él mantiene con la actriz. “Obviamente, reservando ciertas zonas que son de adultos; porque las cosas de adultos son de adultos”, admitió. “Pero el otro día hablando con Muscari, él decía que el vínculo paternal sí o sí pasa por el día a día, por el estar. Y claro, yo lo escuchaba y decía ‘sí’, estoy de acuerdo; pero también me pasa que voy asumiendo otro lugar y se va transformando”, explicó sobre las nuevas formas que existen para vincularse frente a las situaciones que te plantea la vida. Las palabras de Benjamín Vicuña emocionaron a Lizi Tagliani y Pablo Giralt Estas palabras de Benjamín Vicuña le hicieron recordar a Lizy Taglian i, otra de las invitadas al ciclo, el fuerte dolor que ya le tocó atravesar al actor junto a Pampita tras la muerte d",
+      "link": "https://www.lanacion.com.ar/espectaculos/el-desgarrador-relato-de-benjamin-vicuna-sobre-la-distancia-de-sus-hijos-menores-que-hizo-quebrar-a-nid15082026/",
+      "pubDate": "Sun, 16 Aug 2026 06:33:33 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/KAUGOW3APVBFZN2PUS7TRVVR7M.png?auth=0fe0a8250ceaefa11168426d7e865beedb99351a0f43516dd30851a38a5ec968&smart=true&width=1281&height=779",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "5c5d0a1319dc46f34a09",
+      "title": "Romina Gaetani habló de la denuncia contra su ex y reaccionó ante una frase de Mirtha Legrand que la descolocó",
+      "summary": "Durante su paso por La noche de Mirtha , Romina Gaetani habló sobre la denuncia que realizó contra su expareja , Luis Cavanagh, en diciembre del año pasado por violencia de género. La actriz contó por qué durante los últimos meses eligió mantenerse alejada de la exposición pública y explicó cómo atraviesa el proceso desde que decidió recurrir a la Justicia. Además, reaccionó ante una inesperada pregunta de la Chiqui que la descolocó, profundizó sobre las distintas formas de violencia y reveló que está de novia. Mirtha aprovechó los primeros minutos de la cena para preguntarle a la actriz por la causa sin mencionar de forma directa el tema. “Estás en todos lados por tu separación”, señaló. “Sí. No sé si estuve tanto en la pantalla”, reaccionó en relación a la repercusión del caso en los medios. “Intentaron que estuviese, pero la verdad que preferí guardarme, focalizarme en ponerme bien, en trabajar, en seguir creciendo, en dormir, en descansar”, explicó. En ese proceso, Gaetani destacó especialmente el acompañamiento de su abogado, Ignacio Trimarco, quien quedó al frente de la causa. “Eso me dio muchísima tranquilidad. Confié en él y sigo confiando. La causa está avanzando, por suerte”, aseguró. También le aclaró a la Chiqui que no estaba casada con Cavanagh. “Gracias a Dios”, soltó entre risas. Más tarde, la conductora retomó el tema y le preguntó a la actriz si en esa relación ella había estado enamorada. “Estaba enamorada. Sí, claro”, reconoció la actriz. En ese momento, Mirtha le preguntó por la diferencia de edad entre ellos: se llevaban 18 años. “Me gustan los hombres grandes. Siempre, desde chica”, respondió la artista con naturalidad. “¿Él te maltrataba?”, continuó Chiqui con las preguntas. “Yo creo que para llegar a una violencia física...”, comenzó a explicar Gaetani, pero Mirtha la interrumpió con una frase que la tomó por sorpresa: “Pero vos sos brava también”, soltó. “¿Por qué decís eso?”, reaccionó con seriedad la actriz. “Leí que eras brava”, explicó l",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/por-que-decis-eso-romina-gaetani-hablo-de-la-denuncia-contra-su-ex-y-reacciono-ante-una-frase-de-nid16082026/",
+      "pubDate": "Sun, 16 Aug 2026 06:32:40 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/ARSGMN63JBDGLCHPZNAQR64MYA.jpg?auth=dafb77ec1eeee8aca8f8015685787e1e982695110a760bac263c6c4f823f6092&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "d68123bea01bcc91f141",
+      "title": "El sector aguacatero mexicano celebra el reinicio de las exportaciones a EEUU pero el miedo continúa",
+      "summary": "La reanudación de exportaciones de aguacate desde Michoacán tras un paro de seguridad devuelve la actividad a las huertas y empacadoras. El despliegue militar y las detenciones alivian al sector, aunque persisten temores por la violencia y las extorsiones en la región.",
+      "link": "https://www.clarin.com/estados-unidos/el-sector-aguacatero-mexicano-celebra-el-reinicio-de-las-exportaciones-a-eeuu-pero-el-miedo-continua_0_HLu6gsNvDV.html",
+      "pubDate": "Sun, 16 Aug 2026 06:30:10 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
+    },
+    {
       "id": "26690c4472149ac1bef6",
       "title": "Islam Makhachev sobrevive a Ian Garry y defiende su corona",
       "summary": "Islam Makhachev e Ian Garry, en UFC 330.",
@@ -479,6 +752,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/16/6a813bae6ccc3.jpeg"
+    },
+    {
+      "id": "c91e2e197fc625202029",
+      "title": "Víctor Algra, veterinario: “En un perro de 5 kilos, 750 gramos de más ya son sobrepeso y 1,5 kilos pueden convertirlo en obeso”",
+      "summary": "El experto avisa que el exceso de peso en perros y gatos es mucho más frecuente de lo que parece y no siempre se detecta a simple vista.",
+      "link": "https://www.clarin.com/internacional/victor-algra-veterinario-perro-5-kilos-750-gramos-sobrepeso-15-kilos-pueden-convertirlo-obeso_0_6q47d0ubT1.html",
+      "pubDate": "Sun, 16 Aug 2026 06:29:18 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/15/Sw1gjlgVr_1200x630__1.jpg"
     },
     {
       "id": "c72edf961eed2c7eeb20",
@@ -493,12 +776,12 @@
     {
       "id": "91126645e05dbdfd2ec3",
       "title": "Planta metalúrgica, refinería y fábricas militares: Rusia da detalles de su nueva ofensiva contra Kiev",
-      "summary": "",
+      "summary": "En un golpe duro a objetivos militares ucranianos, Rusia alcanzó, entre otros blancos, varias plantas industriales que producían armamento en Kiev y un buque en el puerto de Odesa.",
       "link": "https://actualidad.rt.com/actualidad/622569-planta-metalurgica-refineria-fabricas-militares?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "pubDate": "Sun, 16 Aug 2026 06:22:56 +0000",
       "source": "RT en Español",
       "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a815c9859bf5b466300be71.jpg"
     },
     {
       "id": "ab1618d024f5ba4262f0",
@@ -512,16 +795,6 @@
       "subcat": "diseño"
     },
     {
-      "id": "51ad9203b07e77b046c6",
-      "title": "Jugadores de Patronato fueron agredidos por sus hinchas tras haber perdido contra Colón de Santa Fe",
-      "summary": "Jugadores de Patronato de Entre Ríos fueron agredidos por sus propios hinchas tras haber perdido contra Colón de Santa Fe en condición de visitantes por 3 a 0 en uno de los encuentros de la fecha 25 del Grupo B de la Primera Nacional. El hecho se produjo tras el arribo del plantel al Presbítero Bartolomé Grella , recinto del cuadro rojinegro, donde los futbolistas regresaron a retirar sus pertenencias. Al regresar de Santa Fe, varios jugadores de Patronato fueron increpados por un grupo de hinchas que, luego de recriminarles por su bajo rendimiento futbolístico, agredieron a los futbolistas. Según informó el medio local UNO Entre Ríos , entre los que fueron agredidos se encuentran el capitán del equipo rojinegro, Alan Sosa y el defensor, Facundo Díaz . El medio local señaló también que la situación generó la intervención de personal de la División Investigaciones de la Policía de Entre Ríos , que se hizo presente en el Grella para prevenir la expansión de los desmanes y recabar información sobre lo ocurrido. Por su parte, las autoridades del club no se pronunciaron y tampoco trascendió la identidad de los agresores. View this post on Instagram Antes del violento suceso, sobre el césped del estadio Brigadier General Estanislao López , Colón se impuso con los tantos de Agustín Toledo, Ignacio Lago y Matías Muñoz. Con esta nueva caída, Patronato extendió a once la cantidad de encuentros que lleva sin saber lo que es llevarse los tres puntos. En el recorrido inmediato del Patrón en la Primera Nacional aparecen cuatro derrotas y siete empates , entre los que figuran los empates con Tristán Suárez (1-1), Agropecuario (1-1), Atlético de Rafaela (0-0), Midland (1-1), Gimnasia y Tiro de Salta (1-1), Quilmes (3-3) y Colegiales (2-2); y las derrotas ante Güemes (0-1), San Martín de Tucumán (0-1), Midland (0-1) y Colón (0-3). Esta colección de tropiezos lo ubica a Patronato en la penúltima posición del Grupo B, apenas cuatro puntos por arriba de Güemes de Santiago del Estero . ",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/jugadores-de-patronato-fueron-agredidos-por-sus-hinchas-tras-haber-perdido-contra-colon-de-santa-fe-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 06:17:15 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/N26TYZI4VZHTDIWISIHCJUSHNM.jpg?auth=93f61871bc5a906dfe3e12bf9700cc93a6313019913b7cff76bd5a2e774dd716&smart=true&width=1200&height=900"
-    },
-    {
       "id": "f93fb92e924849c0c7c9",
       "title": "Fuertes lluvias y tormentas eléctricas sobre Caracas (VIDEOS)",
       "summary": "",
@@ -530,6 +803,16 @@
       "source": "RT en Español",
       "cat": "israel",
       "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "0046bb5946bdfe7e1ccf",
+      "title": "Un tren embistió a un auto con seis pasajeros que quedó varado en medio de las vías: una mujer quedó atrapada dentro del vehículo",
+      "summary": "El Chevrolet Prisma en que se trasladaba la familia sufrió un desperfecto mecánico cuando pasaba las vías en Córdoba y fue arrollado por el tren de carga. Entre las personas que estaban dentro del auto había dos menores de edad.",
+      "link": "https://www.clarin.com/sociedad/tren-embistio-auto-pasajeros-quedo-varado-medio-vias-mujer-quedo-atrapada-dentro-vehiculo_0_VCyDWpkNRe.html",
+      "pubDate": "Sun, 16 Aug 2026 06:06:24 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/16/Plv24LDJa_1200x630__1.jpg"
     },
     {
       "id": "c0ac039afe59387d5cb6",
@@ -550,6 +833,26 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Los-Simpson-Hit-and-Run.jpg"
+    },
+    {
+      "id": "31f1ca1ae4e653da3cfc",
+      "title": "Harrison Ford, a los 84 años: “Es penoso vivir con miedo, convierte la existencia en algo muy limitado\"",
+      "summary": "El consejo del legendario actor y estrella de Star Wars. Su largo camino hasta alcanzar el éxito y un estilo único.",
+      "link": "https://www.clarin.com/internacional/harrison-ford-84-anos-penoso-vivir-miedo-convierte-existencia-limitado_0_WsdOULZ7cl.html",
+      "pubDate": "Sun, 16 Aug 2026 06:01:18 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/14/agEo9rHjd_1200x630__1.jpg"
+    },
+    {
+      "id": "9c5ca552cc9603c977e9",
+      "title": "Detmers lanza 8 innings y Schanuel impulsa carrera del triunfo de Angelinos, 1-0 sobre Reales",
+      "summary": "El equipo californiano venció a su rival gracias a un sencillo de Schanuel, quien destacó con tres imparables en el encuentro. Detmers brilló en la lomita, ponchando a 11 y permitiendo solo dos hits, asegurando el triunfo de su conjunto en casa.",
+      "link": "https://www.clarin.com/estados-unidos/detmers-lanza-8-innings-y-schanuel-impulsa-carrera-del-triunfo-de-angelinos-1-0-sobre-reales_0_J4bxt5bCiB.html",
+      "pubDate": "Sun, 16 Aug 2026 06:00:05 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
     },
     {
       "id": "01148fb0c11ff9c3f006",
@@ -624,13 +927,13 @@
     },
     {
       "id": "d5461c2f4aa952115401",
-      "title": "Un muerto y varios heridos en la provincia de Moscú tras ataque de Kiev contra infraestructura civil",
-      "summary": "",
+      "title": "Civiles muertos y heridos en masivo ataque de Kiev contra provincias rusas",
+      "summary": "Las fuerzas de defensa antiaérea rusas en servicio interceptaron y destruyeron 822 drones ucranianos durante la noche.",
       "link": "https://actualidad.rt.com/actualidad/622566-heridos-provincia-moscu-ataque-masivo?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "pubDate": "Sun, 16 Aug 2026 05:38:11 +0000",
       "source": "RT en Español",
       "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8160e559bf5b247b4c9f5e.jpg"
     },
     {
       "id": "0f2dcfed28cb293f7c4e",
@@ -653,16 +956,6 @@
       "image": "https://www.clarin.com/img/2026/08/15/OCrKToJw-_1200x630__1.jpg"
     },
     {
-      "id": "5c5d0a1319dc46f34a09",
-      "title": "“¿Por qué decís eso?”. Romina Gaetani habló de la denuncia contra su ex y reaccionó ante una frase de Mirtha Legrand que la descolocó",
-      "summary": "Durante su paso por La noche de Mirtha , Romina Gaetani habló sobre la denuncia que realizó contra su expareja , Luis Cavanagh, en diciembre del año pasado por violencia de género. La actriz contó por qué durante los últimos meses eligió mantenerse alejada de la exposición pública y explicó cómo atraviesa el proceso desde que decidió recurrir a la Justicia. Además, reaccionó ante una inesperada pregunta de la Chiqui que la descolocó, profundizó sobre las distintas formas de violencia y reveló que está de novia. Mirtha aprovechó los primeros minutos de la cena para preguntarle a la actriz por la causa sin mencionar de forma directa el tema. “Estás en todos lados por tu separación”, señaló. “Sí. No sé si estuve tanto en la pantalla”, reaccionó en relación a la repercusión del caso en los medios. “Intentaron que estuviese, pero la verdad que preferí guardarme, focalizarme en ponerme bien, en trabajar, en seguir creciendo, en dormir, en descansar”, explicó. En ese proceso, Gaetani destacó especialmente el acompañamiento de su abogado, Ignacio Trimarco, quien quedó al frente de la causa. “Eso me dio muchísima tranquilidad. Confié en él y sigo confiando. La causa está avanzando, por suerte”, aseguró. También le aclaró a la Chiqui que no estaba casada con Cavanagh. “Gracias a Dios”, soltó entre risas. Más tarde, la conductora retomó el tema y le preguntó a la actriz si en esa relación ella había estado enamorada. “Estaba enamorada. Sí, claro”, reconoció la actriz. En ese momento, Mirtha le preguntó por la diferencia de edad entre ellos: se llevaban 18 años. “Me gustan los hombres grandes. Siempre, desde chica”, respondió la artista con naturalidad. “¿Él te maltrataba?”, continuó Chiqui con las preguntas. “Yo creo que para llegar a una violencia física...”, comenzó a explicar Gaetani, pero Mirtha la interrumpió con una frase que la tomó por sorpresa: “Pero vos sos brava también”, soltó. “¿Por qué decís eso?”, reaccionó con seriedad la actriz. “Leí que eras brava”, explicó l",
-      "link": "https://www.lanacion.com.ar/espectaculos/personajes/por-que-decis-eso-romina-gaetani-hablo-de-la-denuncia-contra-su-ex-y-reacciono-ante-una-frase-de-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 05:28:29 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/ARSGMN63JBDGLCHPZNAQR64MYA.jpg?auth=dafb77ec1eeee8aca8f8015685787e1e982695110a760bac263c6c4f823f6092&smart=true&width=1200&height=800"
-    },
-    {
       "id": "a9e489a3184ebd9d99a0",
       "title": "Avión insignia de Boeing aterriza de emergencia (FOTOS, VIDEOS)",
       "summary": "",
@@ -681,16 +974,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/7HW2SCADURF6LKOSRQYT52TTQI.jpg?auth=ffd5b7ca710f45d181046965d991b040afa9961c91d5c85ed7a15586982a66ec&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "aa2287747f8c278e85fa",
-      "title": "La FIFA difundió la Ref Cam de la final del Mundial: de los reclamos de Enzo Fernández y Messi al gol de España",
-      "summary": "La FIFA difundió los momentos más destacados de la Ref Cam durante la final del Mundial 2026 en donde España se coronó ante la Argentina por 1 a 0 . A través de las imágenes registradas por la cámara que portó el árbitro esloveno, Slavko Vinčić , se revivieron momentos inéditos del partido decisivo de la última Copa del Mundo. Entre ellos, los reclamos de Enzo Fernández, los diálogos con Lionel Messi y el gol del seleccionado europeo. La filmación, de poco más de cuatro minutos de duración, arranca desde el túnel con la salida de ambos seleccionados. El primer encuadre muestra a Messi saludando a Rodri, Unai Simón y Marc Cucurella . Luego, el 10 de la Argentina hace lo mismo con Vinčić, con quien intercambia unas breves palabras. Lo que nunca se vio de la final de la Copa del Mundo Una vez en el campo de juego, la Ref Cam registra el saludo, uno por uno, de todos lo jugadores de la Scaloneta con el árbitro. Luego, hace lo mismo con los futbolistas de la selección de España. En el momento del sorteo previo al saque inicial, el primero en elegir la cara de la moneda fue Messi, quien resultó ganador. Luego del protocolo, Vinčić vuelve a saludar al astro rosarino y a Rodri, a quienes les dice: “ Good luck [buena suerte] ”. Iniciado el juego, el primer corte muestra a Enzo Fernández y a Alexis Mac Allister reclamar por una jugada. El árbitro, en actitud defensiva y con la intención de sacarse de encima a los jugadores, dice: “ The last one ” pero, como Mac Allister parece no entender, el esloveno repite lo mismo en español: “La última vez”, provocando la risa del volante argentino. La primera amonestación que registra la cámara del árbitro llega luego de un corte, por atrás, de Lisandro Martínez contra Mikel Oyarzabal . Tras sacar el cartón, el jugador argentino sigue su recorrido sin mirar al referí. Luego, ante un intento argentino, llega la primera queja de Messi. “I see, Lionel: I see [Lo vi, lo vi]”, repite el juez. Más adelante, el capitán argentino vuelve a recrim",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-difundio-la-ref-cam-de-la-final-del-mundial-de-los-reclamos-de-enzo-fernandez-y-messi-al-gol-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 05:09:41 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/AE2SELFG6VGB3EG7MMJXVKZISE.png?auth=9e59b91741f48aa7bf4aa88bd25ffbf641d44b4fa79bee9bb05b5146d4263800&smart=true&width=1059&height=704"
     },
     {
       "id": "1db6b5dd1999d0f7b7bc",
@@ -753,36 +1036,6 @@
       "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
-      "id": "626abcd288a6fe10d61c",
-      "title": "Emoción en Medellín: un concierto con más de 25 artistas en escena recaudó casi dos millones de dólares para las víctimas del terremoto",
-      "summary": "Además del dinero, se donaron 31 toneladas de alimentos y productos de aseo para los damnificados por el terremoto que sacudió Colombia el pasado lunes. La jornada \"Colombia, Medellín Te Quiere\", celebrada en el centro de eventos La Macarena, comenzó al mediodía y transcurrió durante todo este sábado.",
-      "link": "https://www.clarin.com/mundo/emocion-medellin-concierto-25-artistas-escena-recaudo-millones-dolares-victimas-terremoto_0_wMKXE5d5zp.html",
-      "pubDate": "Sun, 16 Aug 2026 04:30:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/16/qYQ-lyZSC_1200x630__1.jpg"
-    },
-    {
-      "id": "c7a26c7344e52c935cb9",
-      "title": "Álvaro Morata, 33 años: “Entré en depresión, no me podía ni abrochar las zapatillas ni convivir con mis compañeros”",
-      "summary": "El delantero madrileño repasa la depresión que sufrió tras su salida del Atlético de Madrid y explica cómo la terapia psicológica le ayudó a reconstruirse.",
-      "link": "https://www.clarin.com/internacional/alvaro-morata-33-anos-depresion-podia-abrochar-zapatillas-convivir-companeros_0_PoEjniwXAp.html",
-      "pubDate": "Sun, 16 Aug 2026 04:29:18 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/15/WwbuwoRxF_1200x630__1.jpg"
-    },
-    {
-      "id": "528ce2cd91e414e5f906",
-      "title": "Noboa y su esposa pierden a su tercer hijo",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/622561-noboa-esposa-perder-tercer-hijo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 16 Aug 2026 04:15:19 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "5cd788f14d543313f599",
       "title": "Nadie vio venir esto: Charli XCX al rescate del rock",
       "summary": "Charli XCX en el estreno de la película 'Cumbres borrascosas', donde ella firma la banda sonora, en febrero de 2026 en Londres.",
@@ -804,26 +1057,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "79e7274dd420044f947f",
-      "title": "“Una voz del tango que esperó 30 años para volver a ser escuchada”",
-      "summary": "",
-      "link": "https://www.clarin.com/cartas-al-pais/voz-tango-espero-30-anos-volver-escuchada_0_JMNoq5wa5k.html",
-      "pubDate": "Sun, 16 Aug 2026 04:01:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/14/QPy4TO-gm_1200x630__1.jpg"
-    },
-    {
-      "id": "6a93f71822ec27aeaad9",
-      "title": "El primer Día del Niño en familia de los seis hermanitos misioneros que pelearon para que no los separen",
-      "summary": "La mayor tiene 12 años y el menor, dos y medio. Le pidieron a la jueza que querían seguir unidos y una pareja de Pilar quiso adoptar a todos. Los ocho ya están viviendo juntos.",
-      "link": "https://www.clarin.com/sociedad/primer-dia-nino-familia-hermanitos-misioneros-pelearon-separen_0_UtpvWEmSpW.html",
-      "pubDate": "Sun, 16 Aug 2026 04:01:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/11/jhdNb4tIw_1200x630__1.jpg"
-    },
-    {
       "id": "5d553b59aff6ec7ca141",
       "title": "Newsom firmó una nueva ley en California que modifica varios trámites del DMV: más licencias digitales",
       "summary": "El gobernador Gavin Newsom promulgó la SB 169 , una norma que modifica distintos servicios del Departamento de Vehículos Motorizados de California ( DMV , por sus siglas en inglés). La legislación amplía el uso de la licencia digital , permite avanzar con títulos electrónicos y elimina algunos requisitos y costos para los conductores. Se amplía el programa piloto de licencias digitales Entre los principales cambios figura la ampliación del programa piloto de la licencia de conducir móvil . El límite de participación pasa del 15% al 60% de las personas que cuentan con un permiso vigente en California. La versión digital continuará como una alternativa opcional y no sustituirá la tarjeta física, que seguirá con validez. Gavin Newsom presenta la licencia de conducir digital La normativa también establece condiciones sobre el manejo de los datos personales. El sistema no podrá registrar información relacionada con la ubicación o los desplazamientos del usuario . Además, una persona no tendrá que entregar su teléfono para demostrar su identidad y cualquier acceso remoto a los datos requerirá autorización expresa en tiempo real. El DMV podrá emitir títulos de vehículos en formato electrónico Otro cambio previsto por la SB 169 es la posibilidad de que el DMV establezca procedimientos para emitir y aceptar certificados de título de propiedad de vehículos de manera electrónica . De esta forma, determinados trámites podrán realizarse sin depender exclusivamente de documentación impresa. Los conductores que proporcionen una dirección de correo electrónico y acepten utilizar comunicaciones digitales también podrán recibir avisos y documentos por esa vía. La ley, además, elimina la obligación de distribuir gratuitamente copias físicas del resumen de las leyes de tránsito , que podrán consultarse en la página web de la agencia. La legislación modifica también algunos costos y requisitos administrativos. Se elimina el cargo de US$15 correspondiente a determinados servicios rápidos",
@@ -834,16 +1067,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/2FUJAR22GFG5NNZPJD6SBZRZOU.jpg?auth=781cb384c9ec3c2b4ca4c59523c9e0b589a0009423573e5c397ccf02ba0f925d&smart=true&width=2000&height=1333"
     },
     {
-      "id": "abbefca7ef871026e9a1",
-      "title": "Nolan Arenado pega 2 vuelacercas y remolca 4 carreras en paliza de Diamondbacks, 10-3 a Bravos",
-      "summary": "Arenado lideró la ofensiva con dos vuelacercas y cuatro impulsadas, mientras Rodríguez brilló en el montículo con seis sólidas entradas. Vargas y Moreno destacaron con el bate, sumando un cuadrangular y una racha de hits, respectivamente, en la victoria de Arizona sobre Atlanta.",
-      "link": "https://www.clarin.com/estados-unidos/nolan-arenado-pega-2-vuelacercas-y-remolca-4-carreras-en-paliza-de-diamondbacks-10-3-a-bravos_0_1kFa9EFmcu.html",
-      "pubDate": "Sun, 16 Aug 2026 04:00:06 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
-    },
-    {
       "id": "2af4dd3491984bcab035",
       "title": "Christopher Nolan, un director alérgico a la diversión",
       "summary": "Con toda razón periodística, se ha hablado mucho de La Odisea, el film de Christopher Nolan basado en el poema épico de Homero. Hay toda clase de notas: celebratorias, condenatorias y de redactores de las más diversas especialidades. Nada mal para una película: en tiempos donde no se sabe si las salas existirán mucho más o no, que un film genere ganas de opinar y curiosidad sobre el cine o sobre la literatura o sobre los mitos griegos es loable. Eso sí, se habla poco de Christopher Nolan. O, mejor dicho, se lo menciona, se lo aplaude o critica por defecto. “Es un gran técnico que no sabe cómo generar emoción”, es una frase más o menos repetida en reseñas. También “es un genio que logró un tanque de taquilla con un poema de 3000 años”. Pero, quizás sea hora de ver el cómo y el qué de Nolan. Que es, para muchos, el autor central del Hollywood de hoy. Nolan es, en forma loable, un realizador ambicioso. Sea porque sus películas abordan ideas o temas gigantescos ( Oppenheimer, Dunkerque, La Odisea, Interestelar ); sea porque ponen a prueba un método narrativo riesgoso ( Memento, Tenet, El Origen ); sea porque toman una historia o un mundo previamente existente y buscan mostrarlo de un modo nuevo. Es lo que sucede con la obvia La Odisea , El gran truco (adaptación de una gran novela de Christopher Priest), con la trilogía de Batman y de manera un poco menos notable en su remake de la película sueca Insomnia (con su excelente opera prima Following , el título menos recordado y “conseguible” en plataformas). Por supuesto hay cruces, pero lo que es más notable en el realizador son dos elementos. El primero, que la “idea” está por encima de la realización. El segundo, la solemnidad absoluta de cada uno de sus films. Esto último porque, incluso cuando apela a universos de fantasía (Ciudad Gótica o el mundo de los héroes olímpicos), lo hace negando la fantasía, apelando a un realismo siempre impostado. El asunto “ideas” es obvio: contar una historia de atrás hacia adelante ( Me",
@@ -852,26 +1075,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/7QVASWGJEJBRXLR4PQRSNATGVU.jpg?auth=d01f455cb944996f5c45cd8aeb71a3aebb08fa185a7a92a1b4e33158f771e4e2&smart=true&width=800&height=450"
-    },
-    {
-      "id": "de72206a49c54ffb0b4c",
-      "title": "VIDEO: FF.AA. rusas empiezan \"a lo máximo\" su día contra objetivos de Kiev",
-      "summary": "Artilleros rusos de la agrupación de tropas Vostok (Este) han destruido búnkeres, refugios y posiciones de tiro de las Fuerzas Armadas de Kiev en la dirección de Zaporozhie, informó este domingo el Ministerio de Defensa de Rusia. \"Empezamos el día a lo máximo\", destacó la entidad.",
-      "link": "https://actualidad.rt.com/actualidad/622558-asi-empiezan-maximo-dia-ffaa?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 16 Aug 2026 03:52:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a812f4d59bf5b5eaa501b15.jpg"
-    },
-    {
-      "id": "65f55c0f0328b6732666",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este domingo 16 agosto de 2026",
-      "summary": "El SMN anticipa para este domingo temperaturas entre 12°C y 18°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-domingo-16-agosto-2026_0_w9WfgPl7DH.html",
-      "pubDate": "Sun, 16 Aug 2026 03:45:21 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg"
     },
     {
       "id": "79b894d9a1c5a80738fd",
@@ -942,36 +1145,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/QB33FHSSNFEFNB22CM2CEYTL5Y.jpg?auth=273701b14af5a3799ab56ce229ecc09f429c12454f108196dd2e398a8cd161e6"
-    },
-    {
-      "id": "11a9dda3fd809e8ffdd7",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este domingo 16 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-domingo-16-agosto-2026_0_WdxVfBbIQF.html",
-      "pubDate": "Sun, 16 Aug 2026 03:44:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_1200x630__1.jpg"
-    },
-    {
-      "id": "6941c9cdf1103376eb66",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este domingo 16 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-domingo-16-agosto-2026_0_KPvgOIBLXu.html",
-      "pubDate": "Sun, 16 Aug 2026 03:44:56 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/D7oJD2O4p_1200x630__1.jpg"
-    },
-    {
-      "id": "4eeed2c6ae21a100d243",
-      "title": "Cómo logró sobrevivir la joven trilliza que perdió a toda su familia en el terremoto de Colombia",
-      "summary": "Las hermanas eran inseparables y compartieron gran parte de su vida, incluidas sus carreras universitarias.",
-      "link": "https://actualidad.rt.com/actualidad/622557-asi-sobrevivir-joven-trilliza-perder?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Sun, 16 Aug 2026 03:40:02 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a812c0059bf5b466300be62.jpg"
     },
     {
       "id": "d12372311ad9bf2c41b6",
@@ -1045,16 +1218,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/O64F4Z4NFNDBBALHK4BFZLQJGQ.jpg?auth=8a44256d4add29f3433498e4e0565410920db9a2120ffeb4fd7cd98b76032452"
     },
     {
-      "id": "4aa2e37974aacb65b110",
-      "title": "El universo primitivo de Antón Baleato",
-      "summary": "Antón Baleato, el 11 de agosto en A Coruña.",
-      "link": "https://elpais.com/opinion/2026-08-16/el-universo-primitivo-de-anton-baleato.html",
-      "pubDate": "Sun, 16 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/5VIIULCYVBHNPLICKUYU7D7SRA.JPG?auth=f296c5d62b6bd4e8ea356cadd1e4a40536f897b4c62da9778e59d317ede33aee"
-    },
-    {
       "id": "f938878bb909a841810e",
       "title": "La vida en Gaza, un infierno cotidiano tras 300 días de alto el fuego",
       "summary": "Vista de la destrucción en Jalabiya (al norte de Ciudad de Gaza), el 8 de agosto.",
@@ -1115,16 +1278,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/MBWQHKRBQJMHZGF4FJITJB4NHY.jpg?auth=4b5c2d27879c7569d324b0e4d9cef9b679843844ccca95daedec857c46f97251"
     },
     {
-      "id": "8d1262d57a3d684a5731",
-      "title": "Benjamin List, Premio Nobel: “A los químicos siempre nos han visto como una fuerza oscura, malos, algo tóxicos”",
-      "summary": "Benjamin, Nobel de Química, en Madrid.",
-      "link": "https://elpais.com/ciencia/2026-08-16/benjamin-list-premio-nobel-a-los-quimicos-siempre-nos-han-visto-como-una-fuerza-oscura-malos-algo-toxicos.html",
-      "pubDate": "Sun, 16 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/VCTOXURHENC2HHL2KT43MHZYHM.jpg?auth=c37c2a92c03a285bcefdc16c11423ce4b16a3707f61aa3a12edbc52c7df7f3ea"
-    },
-    {
       "id": "c2cfd612a81fe3bb504a",
       "title": "Un nacimiento no es un brote verde en la España vaciada: la vivienda es lo que más importa",
       "summary": "Santa Eulalia de Cabranes, en Asturias, uno de los municipios afectados por la despoblación",
@@ -1133,6 +1286,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DVGP7DTURZMD7H7FRQJIWHO3BE.jpg?auth=3d6bab2c315b8402a854684e923a53a8c15bef1c42464fdb04f35cf0d00be951"
+    },
+    {
+      "id": "4aa2e37974aacb65b110",
+      "title": "El universo primitivo de Antón Baleato",
+      "summary": "Antón Baleato, el 11 de agosto en A Coruña.",
+      "link": "https://elpais.com/opinion/2026-08-16/el-universo-primitivo-de-anton-baleato.html",
+      "pubDate": "Sun, 16 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/5VIIULCYVBHNPLICKUYU7D7SRA.JPG?auth=f296c5d62b6bd4e8ea356cadd1e4a40536f897b4c62da9778e59d317ede33aee"
     },
     {
       "id": "0550491e69132ff973d5",
@@ -1163,6 +1326,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/ZLVODK36QNAF3LAPB2PKENVC2Y.jpg?auth=1b213202999b98bd55dd2d1806dcb5310a97af46490557daee9f86b0f23a4e39"
+    },
+    {
+      "id": "d29bab58f637673b1089",
+      "title": "“Unos guantes para los pies”: el regreso de los zapatos de jazz que adoraba Gainsbourg",
+      "summary": "En el centro, una de las propuestas de Michael Rider para su debut en Celine. A ambos lados, distintas interpretaciones de los zapatos de jazz en el street style.",
+      "link": "https://elpais.com/smoda/2026-08-16/unos-guantes-para-los-pies-el-regreso-de-los-zapatos-de-jazz-que-adoraba-gainsbourg.html",
+      "pubDate": "Sun, 16 Aug 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4Y7LOSROYNGL5DAGZA44VUYJAQ.jpg?auth=9d64e87bfdc75f6dedad61f66787afd09b989fd34ed2b65c261b13bc8404c159"
     },
     {
       "id": "c8771c9e94fb9bd12e6c",
@@ -1203,76 +1376,6 @@
       "source": "La Nacion",
       "cat": "sports",
       "image": "https://resizer.glanacion.com/resizer/v2/BBOSFOLPSRBTRCDU7MZGVEMRVQ.webp?auth=b0ad084bfd912bd2976f12819798e2df594341f1dcc6dc921462e27edf117a12&smart=true&width=1440&height=960"
-    },
-    {
-      "id": "e730c10481b602a27d5b",
-      "title": "Existe un RIGI para el Conurbano",
-      "summary": "El Régimen de Incentivos para Grandes Inversiones ( RIGI ) otorga beneficios para el desarrollo de grandes proyectos y en base a ellos, varias provincias recibirán inversiones en energía, minería, fertilizantes y otros rubros de exportación por cifras jamás imaginadas. Sin embargo, las principales ciudades del país tardan en despertar mientras se preguntan cuándo esa prosperidad “se derramará” para que las pequeñas industrias, los comercios, los servicios y la miríada de actividades que configuran su trama productiva despierten y se tonifiquen por igual . Si se comprendiese que también existe un RIGI para los conurbanos, sus vidas podrían transformarse de inmediato, sus familias respirar sin angustias y sus hijos encontrar trabajo aquí, sin tramitar nacionalidades foráneas, pues los argentinos (no todos, por cierto) tienen más de 200.000 millones de dólares líquidos fuera del sistema financiero, en el exterior o en “colchones” varios. Salvo Rusia , nuestro país es líder en fuga de capitales, y por lejos. Le siguen Líbano , Venezuela y Turquía , con cifras mucho menores. Las dos primeras son naciones fallidas, símbolo de fracasos luego de etapas de esplendor, como nosotros. Y por no contar con ahorros en nuestra moneda, no hay depósitos, ni créditos ni mercado de capitales. Una economía crispada y siempre a un tris de retirar dineros de los bancos y vaciar cajas de seguridad . Imaginemos una represa con un enorme lago artificial, formado por décadas de acumulación de aguas y que, en lugar de verter su contenido, continúa creciendo sin dejarlas fluir por sus compuertas. A sus pies están los argentinos, plantados en el cauce seco de un río inexistente, debatiendo cómo lograr que los aljibes se llenen, los huertos fructifiquen, los animales pasten y que todos puedan comer, educarse y curarse, sin penurias a fin de mes. En ese pedregal yermo nadie parece entender cómo funciona la represa y, en lugar de encontrar el sésamo que haga volcar su contenido aguas abajo, se prof",
-      "link": "https://www.lanacion.com.ar/editoriales/existe-un-rigi-para-el-conurbano-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:10:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/NRNQ3FDR5FCPHLLRBIO7W5QSLM.jpg?auth=911d27b5b1b4f91df04038789dcac70d0f0fa2576557ec427d7d3f6589671e27&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "ecee1f165c076a612f9a",
-      "title": "El gol anulado a Platense en el empate ante Boca, el enojo de Martín Palermo y su resignación: “Mejor no hablar”",
-      "summary": "A Boca le sucedía todo antes de llegar al empate que se terminó llevando ante Platense en Vicente López . Además de irse al descanso con la seguridad de que la lesión muscular que sintió Marco Pellegrino lo obligaría a la primera modificación, retornó a jugar el segundo tiempo sin Leandro Paredes -también afectado por una molestia- y, para colmo, a los ocho minutos el gol de Nicolás Retamar lo puso por debajo en el marcador. Sin lograr producir un juego agresivo contra el arco rival, como lo había conseguido en los últimos partidos, recibió otro susto: un segundo gol del Calamar que fue invalidado a instancias del VAR . ¿Fue correcto? La jugada ocurrió a los 26 minutos del segundo tiempo, en el arco que daba a la tribuna repleta de hinchas xeneizes, que de pronto enmudecieron, incrédulos por el resultado adverso. Luciano Giménez recibió en la puerta del área una pelota alta, la paró con el pecho, le tiró un ligero sombrero al ingresado Dylan Gorosito, arremetió contra el intento del lateral por frenar su potencia y, tras gambetear a Lautaro Di Lollo, metió el derechazo bajo a la derecha del arquero Álvaro Montero . No lo celebró, sino que prefirió ofrecer disculpas por haberse formado en las juveniles boquenses, mientras las tribunas del local deliraban. Y mientras algunos jugadores de Boca se reprochaban la maniobra individual que no habían podido frenar, tanto el colombiano como Lautaro Blanco reclamaron enseguida una mano del delantero. El árbitro Jorge Baliño no fue a revisar la jugada al monitor. Por indicación del VAR -a cargo de Lucas Novelli-, el árbitro sancionó la denominada “mano de inmediatez” que comete el autor de un gol con la mano o habiéndola tocado previamente a la definición. ¿Qué le dijeron desde el VAR? Que al eludir a Gorosito con aquel sombrero y querer sacarse de encima el agarrón del juvenil xeneize, Giménez levantó su brazo izquierdo y tocó la pelota. La polémica estalló con las repeticiones. En la acción, Gorosito tocó claramente la pelota",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-gol-anulado-a-platense-en-el-empate-ante-boca-el-enojo-de-martin-palermo-y-su-resignacion-mejor-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:08:05 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/C6YABPZ5ZBBLDP2UXNX3CT5RDQ.jpg?auth=d9243bee2a53c8ac03c351e3449eef08daf00849d7e457f0ecdf462623b5f8e8&smart=true&width=1600&height=900"
-    },
-    {
-      "id": "13795d9af9bad96f1a1a",
-      "title": "¿Cuáles son las motos más vendidas en la Argentina en julio 2026?",
-      "summary": "El mercado de las motos atraviesa uno de sus mejores momentos de los últimos años, ya que entre enero y julio se patentaron 511.986 motovehículos, lo que representó un crecimiento del 41,9% respecto del mismo período del año pasado, según informó la División Motovehículos de la Asociación de Concesionarios de Automotores de la República Argentina (Acara). Con más de 510.000 unidades patentadas en lo que va del año, las perspectivas para el sector son ampliamente positivas. El ritmo de comercialización se mantiene elevado y julio volvió a mostrar un crecimiento tanto mensual como interanual, consolidando la tendencia positiva que atraviesa al mercado durante 2026. En números, durante el séptimo mes del año se patentaron 71.217 motovehículos, un volumen que representó un crecimiento del 3,4% frente a junio y del 30,4% respecto del mismo mes de 2025. Llega a la Argentina un nuevo SUV chino de siete plazas que reemplaza a un conocido local En el análisis modelo por modelo, se observa una clara predominancia de las motos de baja cilindrada . De hecho, las 10 más vendidas en julio son modelos de hasta 150 cc, con una fuerte presencia de unidades de 110 cc. La Honda Wave 110S, la Keller KN110-8 y la Gilera Smash, que ocuparon los tres primeros puestos, son algunos de los ejemplos más representativos de esta tendencia: Honda Wave 110S: 8300 (ventas en julio) Keller KN110-8: 6288 Gilera Smash: 6251 Motomel B110: 4763 Corven Energy 110: 3901 Mondial LD 110 Max: 2957 Zanella ZB 110: 1510 Motomel S2 150: 1478 Honda GLH 150: 1444 Honda XR150L: 1169 Los modelos más exitosos del acumulado anual Si se analiza el acumulado entre enero y julio, la Honda Wave 110S también se mantiene como el modelo más vendido del mercado, con 50.695 unidades patentadas. Detrás se ubicaron la Keller KN110-8, con 46.021; la Gilera Smash, con 45.083; la Motomel B110, con 33.971; y la Corven Energy 110, con 29.456. El ranking acumulado de los 10 modelos más vendidos quedó conformado de la siguiente maner",
-      "link": "https://www.lanacion.com.ar/autos/cuales-son-las-motos-mas-vendidas-en-la-argentina-en-julio-2026-nid13082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:08:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/6YW3LHV5A5BUPECVXN756DZ5XU.jpg?auth=49c7d316d5a264065dfa31c0cc6efd42e6097f6b0b974d745d04a38fa916f2e2&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "53c6b293b847c4c5b64a",
-      "title": "La primera dama de Ecuador perdió al tercer hijo que esperaba junto al presidente Daniel Noboa",
-      "summary": "La primera dama de Ecuador, Lavinia Valbonesi , perdió el tercer hijo que esperaba del primer mandatario de ese país, Daniel Noboa , tras sufrir una complicación durante el embarazo que obligó a someterla a una intervención de emergencia. La noticia fue anunciada a través de una publicación en X por parte de Nataly Morillo , la ministra de Gobierno. “Con profundo pesar informo al país que la familia presidencial atraviesa la dolorosa pérdida de su tercer hijo, Stefano Noboa Valbones i”, posteó la funcionaria. “La primera dama, Lavina Valbonesi, fue sometida a una intervención de emergencia debido a una complicación durante su embarazo. Lamentablemente, Stefano falleció ”, detalló Morillo en su mensaje. Si bien Noboa es padre de tres hijos -Daniela es una, de su anterior matrimonio-, dos de ellos son fruto de su vínculo con Valbonesi: Álvaro y Furio . En su publicación, la ministra de Gobierno de Ecuador también aprovechó para dirigirse al primer mandatario. “ Expreso mis más sentidas condolencias a la Primera Dama y al presidente de la República . Los acompaño, junto a toda su familia, con respeto, solidaridad y afecto en este momento de profundo dolor”, apuntó. Noboa tiene 38 años de edad y Valbonesi, 28 . Se conocen desde hace aproximadamente siete años, tras haberse conocido en el año 2019 cuando ella comenzó a trabajar como su nutricionista personal. Finalmente, Murillo reveló la medida que tomó el Ejecutivo ecuatoriano tras el lamentable episodio. “ Durante tres días, la bandera del Palacio de Carondelet permanecerá a media asta ”, detalló. Noboa dirige las riendas de Ecuador desde hace dos años y nueve meses , tras asumir su primer mandato el 23 de noviembre de 2023. Posteriormente, ganó la reelección e inició su segundo período de cuatro años el 24 de mayo de 2025. En el caso de Valbonesi, pasa sus días combinando su rol público e institucional con la crianza de sus hijos , la gestión de causas sociales, su faceta como influencer y empresaria, y su reciente f",
-      "link": "https://www.lanacion.com.ar/el-mundo/la-primera-dama-de-ecuador-perdio-al-tercer-hijo-que-esperaba-junto-al-presidente-daniel-noboa-nid15082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:07:25 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/WT52YE6NYRGDJLYPFUTEVHRJBE.png?auth=7e7f54ae708eb1e09635da5a3397994ca3d4c7cb2db8ed2dcfa88646877c0003&smart=true&width=605&height=483"
-    },
-    {
-      "id": "4cacf90d965c3565e978",
-      "title": "Boca y un empate con más de una lectura: pudo perder y lo salvó una reacción en el final",
-      "summary": "No es la primera vez que Boca juega varios partidos en uno. Los 90 minutos y los adicionados es un tiempo suficiente para que ofrezca más de una versión futbolística y oscile entre varios resultados. Pudo perder ante un Platense que en varios pasajes lo metió en problemas y reaccionó en el último cuarto de hora para alcanzar el empate, que pudo derivar en un triunfo en dos situaciones muy favorables cerca del final. El paso por Vicente López le deja más de una lectura a Boca. Tiene para preocuparse y también le quedó material para seguir ilusionándose. Después de la mala experiencia con la goleada sufrida ante Riestra, Arruabarrena no hace más rotación profunda, aunque el equipo haya jugado anoche el octavo partido en 23 días. Los retoques son mínimos y algunas piernas sienten el desgaste, como las de Leandro Paredes, que no salió a jugar el segundo tiempo. El 3-1 de la ida ante Recoleta por la Copa Sudamericana ofrece un margen de tranquilidad que llevó al entrenador a mantener la formación base para recuperar terreno en el frente local, donde está fuera de los puestos de clasificación para los play-offs. La igualdad no le sumó mucho, pero al menos le dejó el estímulo de que Boca reaccionó cuando apuraba el reloj y cabía dudar de las energías para evitar la derrota. Hay cuestiones favorables que Boca mantiene: el pibe Aranda pone la cuota de creatividad y nunca deja de mostrarse. Puso la asistencia cruzada en la jugada del empate. Esta vez no marcó Ascacibar, que venía con una racha de goles en cuatro cotejos consecutivos, pero sí apareció en el área para recibir el pase de Aranda y habilitar a Merentiel, que se reencontró con el gol después de seis encuentros. Necesitaba el uruguayo recuperar la efectividad, mientras el ecuatoriano Enner Valencia sigue poniéndose a punto para el debut. Con menos posesión de la pelota, Platense creó más peligro en el primer tiempo. El cuestionado Montero no dio lugar a los reproches esta vez. Despejó al córner un remate de Lagos qu",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/boca-y-un-empate-con-mas-de-una-lectura-pudo-perder-y-lo-salvo-una-reaccion-en-el-final-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:06:48 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/NO4JOROMVNAX3ONRJG5N63ZALA.JPG?auth=5dd8ab80ed32f0ada79867b301b3f7bcc4371501c0953898ffbf5c94f76c16ad&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "438805b8ddc349b29978",
-      "title": "Cartas de lectores: “Quiero una familia”",
-      "summary": "DÍA DE LA NIÑEZ “Quiero una familia” Hoy, esta sección tiene autores poco habituales. Las cartas no fueron escritas por lectores, sino por niños, niñas y adolescentes que esperan una familia. Las redactaron con sus palabras en los hogares donde viven. Cuentan quiénes son, qué les gusta y cómo imaginan la familia con la que sueñan. Todos ellos están en convocatoria pública de adopción. Eso significa que cualquier persona o pareja, de cualquier lugar del país, puede postularse para adoptarlos. Son chicos mayores de seis años, grupos de hermanos o niños con alguna discapacidad. Todos esperan una familia después de haber agotado la búsqueda entre las personas inscriptas para adoptar. Las convocatorias son el último recurso de la Justicia para garantizarles el derecho a vivir en familia. Quienes quieran postularse encontrarán, al final de cada carta, el mail y el número de referencia. Esta publicación es parte de “Quiero una familia”, una iniciativa de Fundación LA NACION. Más información en www.lanacion.com.ar/quierounafamilia . Me gusta cocinar Me llamo Dylan, tengo 12 años y soy de Salta. Mi color favorito es el rojo. Me gusta mucho cocinar. Me encanta preparar panqueques y milanesas con fideos. Amo ir al cine. Las pelis que más me gustan son las de ciencia ficción y fantasía. Todo el tiempo pregunto cuándo va a llegar mi familia. Hace mucho que estoy esperando. Me cuesta ver cómo los chicos más chiquitos del hogar se van antes que yo. El año que viene comienzo la secundaria y me gustaría que me acompañen. Quiero una familia buena, que le guste ir al cine y que adoptemos un gatito negro. Dylan regadop3@justiciasalta.gov.ar Referencia: “D.E.M. 12 años” Estoy estudiando inglés ¡Hola! Me llamo Star, soy de Corrientes y cumplí 10 años. Soy activo y tengo muchas ganas de aprender. Ahora estoy estudiando inglés. La actividad que más me gusta hacer es natación, también me encanta salir a caminar y pasar tiempo con otros chicos. Tengo TEA y con la ayuda de mi acompañante tera",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-quiero-una-familia-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/T5UUCBACARGI7MKIP3AOJJKBWQ.jpg?auth=ab2861b79b3654c58b83304d74116f39a7dcdff4e5980bd7aa0c16ca280115bc&smart=true&width=1900&height=1267"
-    },
-    {
-      "id": "14262b1a855a758ef8c2",
-      "title": "Apuestas y efecto mundialista",
-      "summary": "El Mundial de Fútbol ofreció un escenario que otorgó una visibilidad publicitaria superlativa a las plataformas de apuestas en las flamantes “ pausas de hidratación ” que registraron picos de entre el 60 y el 150% en las búsquedas, lo que disparó una mayor captación y participación de apostadores de todo el mundo. Durante el encuentro mundialista se estima que hubo un aumento del 80% en el porcentaje de apuestas en plataformas legalmente habilitadas y que el número de apostadores en sitios legales creció un 21% . El millonario negocio aporta al fisco. No se grava a las plataformas, sino que son los apostadores, con distintas alícuotas, contribuyentes indirectos que depositan en las plataformas su impuesto. Las operadoras digitales pagan por su parte todos los impuestos que les corresponden en tanto son empresas: Ganancias, IVA en la medida aplicable, débitos y créditos bancarios, cargas sociales e Ingresos Brutos, entre otros. Estos recursos se distribuyen en un 95% , según lo establece la ley de coparticipación federal de impuestos, y el restante 5% va para la Empresa Argentina de Soluciones Satelitales Sociedad Anónima ( Arsat ). Datos procesados por la consultora Analytica y estadísticas de la Agencia de Recaudación y Control Aduanero ( ARCA ) reportaron que la recaudación por impuesto indirecto al juego legal alcanzó unos 71.828 millones de pesos en los primeros seis meses del año, con un récord mensual para junio que trepó a 13.656 millones, esto es un incremento real interanual del 35,5% . Cabe destacar que, durante el ejercicio anual previo, la recaudación fue de 93.658 millones de pesos. Comparado con 2024, el registro del mismo semestre de 2026 estuvo un 81% por encima. Recientemente, la Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa perfeccionó la normativa vigente sobre anuncios de juegos de azar y apuestas online con el fin de simplificar las advertencias que los anuncios deben incluir obligatoriamente y evitar la superposición de me",
-      "link": "https://www.lanacion.com.ar/editoriales/apuestas-y-efecto-mundialista-nid16082026/",
-      "pubDate": "Sun, 16 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/UNW3OO6JBZDVVBF3Z3KVZWTOLM.jpg?auth=b113fcfd9e87e8e089c20599abf5cf72f8a8211b8add2036686b4331b7e2cb99&smart=true&width=1524&height=1026"
     },
     {
       "id": "0c1bc7bc54a026b70a8b",
@@ -1425,16 +1528,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/FotoJet-2026-08-15T181233.173.jpg"
     },
     {
-      "id": "382090e6dbe3e1a4ec68",
-      "title": "'Bajonazo' con el nuevo 'SuperFener' de Asensio",
-      "summary": "Asensio, durante el partido de Fenerbahçe",
-      "link": "https://www.marca.com/futbol/2026/08/15/bajonazo-nuevo-superfener-asensio.html",
-      "pubDate": "Sat, 15 Aug 2026 22:26:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a80cb47ce07a.jpeg"
-    },
-    {
       "id": "f052cab9fc64de7a6590",
       "title": "Bordalás explota: “No nos tratan de la misma manera”",
       "summary": "José Bordalás enfadado durante el partido ante el Alavés.",
@@ -1545,26 +1638,6 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a80bad271c82.jpeg"
     },
     {
-      "id": "ada616d0f1d9870e158d",
-      "title": "¿Qué es el Cinturón de Fuego del Pacífico? La razón por la que Colombia tiembla y ocurre el 90% de los sismos del mundo",
-      "summary": "Qué es el Cinturón de Fuego del Pacífico y por qué afecta a Colombia: la zona con más terremotos del mundo.",
-      "link": "https://www.marca.com/co/2026/08/15/cinturon-fuego-pacifico-razon-colombia-tiembla-ocurre-90-sismos-mundo.html",
-      "pubDate": "Sat, 15 Aug 2026 21:09:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a7fca8f91f70.jpeg"
-    },
-    {
-      "id": "fe44da3d75eba94ba28f",
-      "title": "El Cádiz domina y aprieta pero no puede doblegar a un serio debutante",
-      "summary": "Noah Ukwuije, un portento físico, conduce el balón",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/08/15/cadiz-domina-aprieta-doblegar-serio-debutante.html",
-      "pubDate": "Sat, 15 Aug 2026 20:57:21 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a80acd52e818.jpeg"
-    },
-    {
       "id": "f3127c7d3f5652d51581",
       "title": "Marruecos exhibe su máxima fuerza como guardián de la frontera ceutí",
       "summary": "Agentes marroquíes arrestan a migrantes antes de que llegaran a la frontera ceutí.",
@@ -1573,26 +1646,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/5AFND6RKDVH7DLZRHCO352P7BI.jpg?auth=cd8f82cfb11fee7bd755da7c025823ffd0b051f2dc6dc4323f9b13dc01ee7c82"
-    },
-    {
-      "id": "2467fc0bb6d17f713c4a",
-      "title": "Oviedo y Granada se quedan a mitad de camino",
-      "summary": "Lizoain despeja un tiro de los ovetenses.",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/08/15/oviedo-granada-quedan-mitad-camino.html",
-      "pubDate": "Sat, 15 Aug 2026 20:52:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a80b12e9784b.jpeg"
-    },
-    {
-      "id": "6611794332864121d095",
-      "title": "Pepe Martí: \"Una pena el accidente, estábamos yendo hacia adelante\"",
-      "summary": "El español comenta la carrera 1 del E-Prix de Londres de Fórmula E",
-      "link": "https://www.marca.com/motor/formula-e/gp-londres/2026/08/15/pepe-marti-pena-accidente-estabamos-yendo-adelante.html",
-      "pubDate": "Sat, 15 Aug 2026 20:45:48 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/1gWBDOs5VWBa.jpeg"
     },
     {
       "id": "f6db0f4149b9dcb4d5a1",
@@ -1613,16 +1666,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/reacher-temp-4.jpg"
-    },
-    {
-      "id": "ecc3d3431bb0090483ef",
-      "title": "Rodrigo Suárez se cuelga la plata en el Europeo de judo paralímpico",
-      "summary": "Rodrigo Suárez",
-      "link": "https://www.marca.com/paralimpicos/2026/08/15/rodrigo-suarez-cuelga-plata-europeo-judo-paralimpico.html",
-      "pubDate": "Sat, 15 Aug 2026 19:49:50 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/15/6a80a5fcb2a59.jpeg"
     },
     {
       "id": "a454a7de132a21fb3393",
@@ -1939,27 +1982,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "16a16364eaeae602bc1f",
-      "title": "Disney anuncia ‘Zootrópolis 3’ durante la D23: estos son los primeros detalles",
-      "summary": "Para sorpresa de nadie, Disney anunció que Zootrópolis 3 está en producción. Lo cual era de esperar tras el enorme éxito de Zootrópolis 2 el año pasado. La cinta se convirtió en la película de animación más taquillera de la compañía de todos los tiempos al recaudar 1.800 millones de dólares en la taquilla mundial. La franquicia comenzó con la película original de 2016, que presentó a los fans a la coneja policía Judy Hopps (Ginnifer Goodwin). También al zorro estafador Nick Wilde (Jason Bateman). Al principio, ambos eran enemigos cuando Judy se unió al Departamento de Policía de Zootrópolis. Pero luego dejaron de lado sus diferencias para resolver un misterio en la ciudad animal. La primera película fue un éxito de taquilla, superó los mil millones de dólares a nivel mundial y dio origen a una serie derivada llamada Zootrópolis+ en Disney+. Pero en general, la ahora saga se ha convertido en una de las IP más populares del estudio. Por lo que la tercera película era una posibilidad cierta de la cual se rumoreó durante meses. Y así, Zootrópolis 3 se confirma ahora de manera oficial durante la D23. Una vuelta de tuerca para la gran aventura de ‘Zootrópolis 3’ En Zootrópolis 2 , estrenada en 2025, Nick se unía a la policía y se convirtió en el compañero de Judy. Eso, mientras se embarcan juntos en otro misterio. En el trayecto, descubrieron qué sucedió con la población de reptiles desaparecida en la ciudad. Esto último, gracias a la ayuda de la víbora Gary De’Snake (Ke Huy Quan). La noticia sobre Zootrópolis 3 se anunció el viernes durante el evento para fans D23 de Disney. Para la ocasión, Goodwin y Quan confirmaron que “el conejo y la serpiente volverán” en la tercera película. Y no solo eso. junto a ellos llegará otra nueva clase de animales: las aves. Es, en realidad, lo que ya se había sugerido en la escena post-créditos de la anterior entrega. Ahora, los pájaros se unirán a la ecuación de la alocada metrópolis. Por el momento, eso sí, no conocemos la fecha de estr",
-      "link": "https://hipertextual.com/cine-television/disney-anuncia-zootropolis-3-durante-la-d23-estos-son-los-primeros-detalles/",
-      "pubDate": "Sat, 15 Aug 2026 05:35:25 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Zootropolis-3.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "mercado"
-    },
-    {
-      "id": "516382d4ca30f8c402b3",
-      "title": "Pixar anuncia su nueva película, ‘Ghost Market’: será una historia de fantasmas y ya tiene tráiler",
-      "summary": "Ghost Market será la nueva película de Pixar y además, una que será una historia de fantasmas. Así lo anunció el estudio durante la D23 en su panel central del viernes. Inspirada en mitos asiáticos sobre tiendas donde interactúan los vivos y los muertos, la producción se estrenará en la primavera de 2028. Todo según reveló Pete Docter, director de contenido de Pixar, durante la velada. Y además, el anuncio trajo consigo una buena cantidad de información. Lo que incluye un primer avance y también, una sinopsis oficial. Según anunció Pixar, la cinta se enfocará en un chico corriente que se enfrenta a lo sobrenatural. “Kyle es un adolescente de Chicago que habla muy rápido y crea contenido”, explicó Docter sobre el escenario. Una premisa, que, claro, anuncia una nueva travesía de Pixar a través de regiones misteriosas. “Su vida da un vuelco cuando su madre lo obliga a irse de vacaciones a Hawaii. Se topa con un misterioso mercado escondido en medio de la nada. Se da cuenta de que su búsqueda de un tentempié nocturno se ha convertido en algo mucho más grande. Ha descubierto la encrucijada entre los vivos y los muertos”, agregó el creador. Mira el tráiler de Ghost Market , de Pixar https://twitter.com/Pixar/status/2088460511595872715?s=20 La noticia del proyecto surgió por primera vez en marzo en un artículo del Wall Street Journal sobre el estudio. El texto indicaba que sería dirigido por Trevor Jimenez, un veterano de Pixar. También, director del cortometraje nominado al Oscar en 2017, Weekends . Adicionalmente, trabajó como supervisor de guion en la película Soul , estrenada en 2020, y codirigió un episodio de la serie de Pixar para Disney+ Win or Lose . Además, con el estreno en 2028 de Los Increíbles 3 continúa la reciente racha de Pixar de estrenar varias películas en un mismo año. Eso, tras los estrenos simultáneos de este año de Hoppers y Toy Story 5 . Lo que anuncia un nuevo impulso creativo para el estudio. La película se planeó inicialmente como una serie para",
-      "link": "https://hipertextual.com/cine-television/pixar-anuncia-su-nueva-pelicula-ghost-market-sera-una-historia-de-fantasmas-y-ya-tiene-trailer/",
-      "pubDate": "Sat, 15 Aug 2026 05:21:21 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Ghost-market-Pixar.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "beb299d0bf44b4f7a0c9",
       "title": "VisionQuest devuelve a Ultron al UCM y convierte la familia de Vision en su mayor amenaza",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Marvel Studios ha lanzado el primer tráiler de VisionQuest y el regreso de James Spader como Ultron apenas es la primera sorpresa. Paul Bettany vuelve cinco años después de WandaVision para enfrentarse a una pregunta mucho más complicada que derrotar a otro villano: descubrir quién es realmente Vision después de recuperar los recuerdos de una vida que, en cierto modo, pertenecía a otro. El adelanto tal y como adelantamos en cinemascomics reúne además a varias de las inteligencias artificiales más importantes del UCM y confirma que Tommy Maximoff será fundamental en una historia que parece dispuesta a convertir el legado tecnológico de Tony Stark en una extrañísima familia. Marvel llevaba demasiado tiempo dejando a Vision flotando en algún lugar del Universo Cinematográfico Marvel. Literalmente. La última vez que vimos a la versión blanca del personaje interpretado por Paul Bettany , al final de WandaVision , recuperó los recuerdos del Vision original después de aquel magnífico enfrentamiento dialéctico sobre el barco de Teseo y, en cuanto comprendió quién había sido, simplemente salió volando. Cinco años después, por fin sabemos qué ocurrió con él. El primer tráiler de VisionQuest , presentado por Marvel Studios en D23, confirma que la serie llegará a Disney+ el 14 de octubre de 2026 con ocho episodios y recuperará una historia que comenzó mucho antes de WandaVision . De hecho, tenemos que regresar hasta Iron Man , J.A.R.V.I.S., Tony Stark y Vengadores: La era de Ultrón para comprender todo lo que Marvel está poniendo encima de la mesa. Porque Ultron ha vuelto . James Spader retoma al villano por primera vez desde Vengadores: La era de Ultrón , estrenada en 2015, pero el tráiler deja bastante claro que VisionQuest no pretende limitarse a recuperar a un enemigo popular para provocar nostalgia. Vision, Ultron, J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H. y Jocasta forman parte de una misma historia sobre intelige",
@@ -2213,16 +2235,6 @@
       "image": "https://static.eldiario.es/clip/34b2c4c7-474b-4c45-8676-640d54f28e86_16-9-discover-aspect-ratio_default_0_x626y168.jpg"
     },
     {
-      "id": "9e7b1bf332a7b491e292",
-      "title": "Póster de Crystal Lake revela la primera imagen de Jason",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Crystal Lake acaba de mostrar uno de los elementos que más curiosidad despertaban desde que se anunció la precuela de Viernes 13 : el aspecto del joven Jason Voorhees. Los nuevos pósteres de la serie de Peacock presentan por primera vez a Callum Vinson caracterizado como el futuro asesino de la máscara de hockey y anticipan que su historia será bastante más trágica de lo que estamos acostumbrados a ver en la saga. Crystal Lake estrena 2 pósters Póster de Crystal Lake Póster de Crystal Lake Después de años atrapada entre problemas legales y proyectos que nunca terminaban de materializarse, la franquicia Viernes 13 vuelve a ponerse en marcha con Crystal Lake, una serie que pretende regresar al origen de la tragedia antes de convertir a Jason Voorhees en uno de los grandes iconos del cine de terror. Los nuevos materiales promocionales ofrecen el primer vistazo a Callum Vinson, conocido por trabajos como Chucky y The Night Agent, interpretando al joven Jason. El póster evita mostrar completamente su rostro, pero deja bastante claro que la serie recuperará la deformidad física del personaje que ya formaba parte de su historia original. Y eso importa más de lo que parece. Crystal Lake no quiere limitarse a colocar a Jason de niño como simple referencia para los fans, sino explorar el abandono, las burlas y la negligencia que rodearon sus últimos días antes de ahogarse en el lago en 1957. La imagen tiene algo incómodo precisamente por eso: aquí todavía no estamos viendo al monstruo prácticamente indestructible que décadas después perseguiría adolescentes con un machete. Estamos ante un niño destinado a convertirse en el centro de una tragedia que acabará destruyendo a toda su familia. Pamela Voorhees será clave en la historia El segundo póster lleva la atención hacia las consecuencias de aquella muerte y, especialmente, hacia Pamela Voorhees, interpretada por Linda Cardellini . Tras perder a Jason debido a la ne",
-      "link": "https://www.cinemascomics.com/poster-crystal-lake-primera-imagen-de-jason/",
-      "pubDate": "Fri, 14 Aug 2026 22:01:55 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Crystal-Lake.jpg"
-    },
-    {
       "id": "6a7436b492f17ce90abe",
       "title": "China respondió a Lamelas y Huawei rechazó las acusaciones de espionaje: “Es una mentalidad de Guerra Fría”",
       "summary": "La embajada china calificó de “calumnias sin ningún fundamento” las declaraciones del embajador estadounidense sobre la presencia de tecnología china en sectores estratégicos de la Argentina. Huawei también salió al cruce y defendió su trayectoria de 25 años en el país. La tensi n entre Estados Unidos y China por la presencia de empresas tecnol gicas del gigante asi tico en sectores estrat gicos de la Argentina sum este jueves un nuevo cap tulo. Luego de que el embajador estadounidense, Peter Lamelas , acusara a Huawei de compartir informaci n con el Partido Comunista Chino y advirtiera que la participaci n de la compa a en reas vinculadas a Vaca Muerta podr a desalentar inversiones, la embajada de China en Buenos Aires respondi con dureza . El cruce se produce en medio de la disputa que mantiene Washington con la cooperativa el ctrica neuquina CALF por un acuerdo con Huawei para avanzar en la instalaci n de infraestructura tecnol gica vinculada al desarrollo de Vaca Muerta. La controversia ya hab a generado intercambios entre las representaciones diplom ticas de ambos pa ses y lleg tambi n al Congreso argentino. Durante su exposici n en el AmCham Energy Summit, Lamelas hab a sostenido que la seguridad de los datos forma parte de la seguridad nacional y hab a cuestionado el v nculo entre empresas chinas y el Estado de ese pa s. En particular, afirm que China exige a sus compa as entregar informaci n al Gobierno y asegur que la presencia de Huawei no va a ayudar a atraer inversores extranjeros a Vaca Muerta. La respuesta de Beijing no tard en llegar. A trav s de un comunicado, la embajada china calific las afirmaciones del diplom tico estadounidense como calumnias sin ning n fundamento y sostuvo que las acciones de Washington est n atravesadas por una l gica propia de la confrontaci n entre las dos grandes potencias. Lo que viene haciendo la parte estadounidense, en esencia, es motivado por la mentalidad de guerra fr a , sostuvo la representaci n diplom tica china. L",
@@ -2352,16 +2364,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/154d35fb-135d-4d2d-bf3b-cb4772c1e0d3_16-9-discover-aspect-ratio_default_0_x998y685.jpg"
-    },
-    {
-      "id": "719ccd4d1817c558dd60",
-      "title": "\"Count Binface\", el candidato disfrazado de guerrero intergaláctico que logra cada vez más votos en las elecciones de Reino Unido",
-      "summary": "El peculiar político, encarnado por un comediante, forma parte de una vieja tradición británica que permite que candidatos antisistema compitan en los distintos comicios.",
-      "link": "https://www.bbc.com/mundo/articles/c62x1d6ey6eo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 12:37:47 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee7b/live/00590490-9714-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "id": "d473170d89893b072db2",
@@ -2582,7 +2584,7 @@
       "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó cientos de muertos y miles de heridos",
       "summary": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de la última década en el país.",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-16T06:26:53.080716+00:00",
+      "pubDate": "2026-08-16T08:19:51.974550+00:00",
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8434/live/e6b011a0-9673-11f1-a6eb-474cf36e6c34.jpg"
@@ -2622,8 +2624,8 @@
       {
         "name": "ChatGPT",
         "type": "Modelo",
-        "badge": "En foco",
-        "cls": "rb-accent"
+        "badge": "Trending",
+        "cls": "rb-green"
       },
       {
         "name": "Sora",
@@ -2634,5 +2636,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-16T06:27:15.870263+00:00"
+  "updated": "2026-08-16T08:20:22.809203+00:00"
 }
