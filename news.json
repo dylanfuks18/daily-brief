@@ -62,17 +62,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ada0/live/083d9cb0-9a76-11f1-b68f-817a5a696299.jpg"
     },
     {
-      "id": "409cc6052c39dc89ff88",
-      "title": "Meta AI lanza su app para Mac con una función que preocupa a ChatGPT y Claude",
-      "summary": "Meta ha lanzado una aplicación de Meta AI para Mac . Mark Zuckerberg no quiere cederle más terreno a ChatGPT y Claude, por lo que decidió ofrecer una app que permite acceder a todas las funciones del chatbot, como compartir pantalla o recibir sugerencias. Aunque esta versión está disponible para todos los usuarios, la compañía ha puesto el foco en aquellos que usan la Mac para trabajar. De acuerdo con la web oficial , la nueva app de Meta AI funciona de forma nativa en las Mac con chip Apple Silicon y macOS 15 o superior. Una vez instalada, los usuarios pueden invocar al asistente a través del atajo de teclado Opción + Espacio , el cual desplegará una pequeña ventana para escribir lo que necesitas. Este modo permite interactuar con las aplicaciones que tienes abiertas, ya sea para generar texto o capturar una parte de la pantalla para añadir contexto a tu pregunta. En caso de que no quieras escribir, Meta AI también es compatible con dictado por voz en todo el sistema . Solo necesitas presionar una combinación de teclas para hablar y la IA convertirá tus palabras a texto para usarlas en Mail, documentos de texto, editores de código o cualquier otro programa. Al igual que Gemini o ChatGPT, la app de Meta AI cuenta con una barra lateral con acceso al historial de conversaciones , imágenes generadas y un apartado para personalizarla. Los usuarios pueden configurarla para usar distintos modos de razonamiento al responder , programar recordatorios o generar resúmenes periódicos. Si por alguna razón no quieres que aparezca en el Dock, también podrás ocultar el ícono e invocarla mediante el atajo del teclado. Meta AI puede ser útil, pero tienes que compartirle tu información Meta AI puede analizar el contenido de una ventana de la Mac dentro de la conversación. El problema aquí es que deberás otorgarle permisos de grabación de pantalla y accesibilidad para que la app lea el texto visible y capture una imagen para responder preguntas. Esto podría ser útil, pero tratándose d",
-      "link": "https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/",
-      "pubDate": "Wed, 19 Aug 2026 19:19:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/Meta-AI-2.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "empresas"
-    },
-    {
       "id": "3052c07a0e2831c6f84d",
       "title": "Elevan a juicio oral a un oficial de la Prefectura que disparó a la cara en una de las represiones del Gobierno",
       "summary": "Se trata de Sebastián Emanuel Martínez, oficial de la Prefectura Naval Argentina que le disparó con una lanzadora de gas pimienta a un hincha de Chacarita durante la represión de la marcha de jubilados del 12 de marzo de 2025 frente al Congreso, la misma en que hirieron a Pablo Grillo. El manifestante perdió la visión de un ojo. La jueza federal Mar a Servini elev a juicio oral y p blico la causa contra Sebasti n Emanuel Mart nez, el efectivo de la Prefectura Naval Argentina acusado de disparar y herir gravemente a un manifestante durante la represi n de la marcha de jubilados del 12 de marzo de 2025, frente al Congreso de la Naci n. La resoluci n, dictada este mi rcoles por el Juzgado Criminal y Correccional Federal 1 en la causa CCC 13238/2025, dispone la clausura de la instrucci n y la elevaci n total del expediente al fuero oral, en l nea con los pedidos de elevaci n a juicio formulados por la fiscal a y por la querella. El expediente pasa ahora a la C mara Federal de Casaci n Penal, que deber sortear el Tribunal Oral en lo Criminal Federal que juzgar el caso. Mart nez, de 33 a os, oriundo de Diamante (Entre R os), es oficial auxiliar de la Agrupaci n Guardacostas de la Prefectura Naval Argentina. Est acusado de haberle disparado a Jonathan Navarro, hincha de Chacarita, con una lanzadora neum tica marca Byrna, modelo TCR, cargada con proyectiles qu micos de gas pimienta. El disparo, realizado a corta distancia y dirigido a la cara, le hizo perder a Navarro la visi n del ojo izquierdo pese a las cirug as a las que fue sometido. El hecho ocurri en el marco de la represi n de una protesta de jubilados contra el ajuste del Gobierno, la misma jornada en que el fot grafo Pablo Grillo fue herido de gravedad por el disparo de un gendarme a pocas cuadras del lugar. En la resoluci n, la jueza rechaz el pedido de la querella de elevar la causa de forma parcial y ratific la prohibici n de salida del pa s que pesa sobre Mart nez desde agosto de 2025, que quedar ahora a dispo",
@@ -91,17 +80,6 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/VV2LJSBFDJLJVJVQHZRRILM6SI.jpg?auth=2a6cfd0f12f7dc7409ae8d2a7952f5d802f23ad2d79915cefebbfb210f035b67"
-    },
-    {
-      "id": "28bd2d94553d16ac9c81",
-      "title": "OpenAI detiene el entrenamiento de sus modelos de IA más avanzados",
-      "summary": "A unos días de pausar el desarrollo de Astra , OpenAI frenó el entrenamiento de sus modelos más avanzados . La compañía detectó señales preocupantes en su capacidad ofensiva, por lo que decidió parar en seco mientras reforzaba sus medidas de seguridad. De acuerdo con una publicación en su blo g, OpenAI tomó la decisión de pausar los entrenamientos tras descubrir que Astra podría superar el umbral de capacidad cibernética crítica . Este hallazgo se suma al hackeo de Hugging Face, en donde un agente de IA escapó de un entorno aislado para introducirse en los sistemas de la compañía. Si bien los ingenieros frenaron los entrenamientos por refuerzo más avanzados, OpenAI mantuvo activas otras evaluaciones y desarrollos a menor escala. Jakub Pachocki, director de investigación de la compañía, explicó en una publicación de X que el objetivo fue reforzar la seguridad y el monitoreo antes de retomar el ritmo habitual. El no frenar por completo el desarrollo les permitiría reunir evidencia sobre el comportamiento del modelo. Para evitar que las cosas se salgan de control, OpenAI mejoró el aislamiento de las cargas de trabajo que ejecutan código generado por la IA. La compañía también redujo privilegios permanentes dentro de sus sistemas y eliminó ciertos servicios compartidos que podían explotarse como puntos de acceso. Por último, OpenAI amplió sus restricciones de red para procesos de mayor riesgo. El poder ofensivo de Astra y el hackeo a Hugging Face influyeron en la decisión de OpenAI Aunque algunos entrenamientos y evaluaciones de Astra ya están usando estos controles, una buena parte de las cargas de trabajo del nuevo modelo siguen en pausa. OpenAI está esperando hasta que su IA pueda migrar a un entorno que cumpla con los requisitos de seguridad. Esto significa que su lanzamiento podría prolongarse por algunos meses , hasta que la empresa o el gobierno de Estados Unidos den el visto bueno de que es segura. Además de las salvaguardas, OpenAI también implementó un sistema",
-      "link": "https://hipertextual.com/inteligencia-artificial/openai-pausa-entrenamiento-modelos-ia-seguridad/",
-      "pubDate": "Wed, 19 Aug 2026 18:15:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/gpt-6-chatgpt.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "modelos"
     },
     {
       "id": "869392674a0e3cc9d902",
@@ -152,16 +130,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": ""
-    },
-    {
-      "id": "cb31932a3567b264f91d",
-      "title": "Silo resuelve por fin uno de sus mayores misterios",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com La temporada 3 de Silo acaba de poner nombre y rostro a una de las piezas más importantes de todo su rompecabezas. La serie de Apple TV ha revelado quién está detrás de la construcción de los silos, aunque la respuesta abre una pregunta todavía más inquietante: por qué fueron creados realmente. La temporada 3 de Silo revela detalles muy interesantes Aviso de spoilers de la temporada 3 de Silo a partir de este punto. Desde que Juliette Nichols comenzó a cuestionar todo lo que le habían contado sobre el Silo 18, la serie ha ido acumulando preguntas a un ritmo casi desesperante. Sabíamos cómo funcionaban estas gigantescas estructuras, conocíamos parte de las mentiras necesarias para mantenerlas bajo control e incluso habíamos descubierto que existían muchos más silos. Pero faltaba una pieza básica: ¿Quién demonios los había construido? La respuesta llega en el episodio 7 de la temporada 3, titulado Radio, y tiene un nombre: Per Stensen . Silo El misterioso multimillonario había empezado a cobrar importancia varios capítulos antes. En Memory descubrimos que es un firme defensor del control mediante inteligencia artificial y que financia la clínica en la que Charlotte intenta reconstruir sus recuerdos. Más tarde, en The Drive, Daniel y Helen son conducidos hasta él después de que la senadora Rosalind Thurman les proponga ayudar a “salvar el mundo”. Y aquí Silo empieza a enseñar sus cartas. Stensen, interpretado por Colin Hanks , dispone de los recursos económicos y tecnológicos necesarios para levantar un proyecto que, hasta ahora, parecía prácticamente imposible de imaginar incluso dentro de la propia lógica de la serie. Una extensión gigantesca y una máquina que ya habíamos visto La confirmación llega cuando Daniel y Helen viajan primero en avión y después en helicóptero hasta una enorme extensión de terreno adquirida por Stensen. El magnate ha reunido unas 300.000 acres de terreno procedentes de 42 granjas ",
-      "link": "https://www.cinemascomics.com/silo-resuelve-uno-de-sus-mayores-misterios/",
-      "pubDate": "Wed, 19 Aug 2026 16:01:13 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/serie-silo.jpg"
     },
     {
       "id": "1c2c6eef5c249ea85bcc",
@@ -370,27 +338,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "6f15804586dca7700e84",
-      "title": "Un gameplay de GTA 6 se filtra antes de su presentación oficial",
-      "summary": "Dos clips de baja resolución, atribuidos a una cuenta de X que se hace llamar CyberLeek, parecen mostrar secuencias de juego inéditas del gameplay de GTA 6 . Aunque el metraje dura solo un par de minutos, los rápidos, pero ineficaces intentos de retirada de material aludiendo infracción de derechos de autor por parte de la productora Take-Two, sugieren que los clips son auténticos. Faltan menos de 100 días para el lanzamiento de Grand Theft Auto VI , el videojuego más importante de 2026 y seguramente uno de los más esperados de la historia. El desarrollador Rockstar prácticamente no ha publicado imágenes ingame, salvo breves fragmentos de jugabilidad con ángulos de cámara cinematográficos en los tráilers publicados, pero una semana antes de la primera demostración oficial programada , un filtrador anónimo ha publicado la mayor filtración del juego de mundo abierto desde 2022. El filtrador, de nick CyberLeek, afirma haber compartido el contenido para protestar contra los planes de Sony de dejar de fabricar discos físicos para juegos de PlayStation en 2028 y también contra la decisión de Rockstar de lanzar el GTA VI exclusivamente en formato digital . Aquí debemos recordar que si te gastas un mínimo de 80 dólares en la «edición física» de GTA VI todo lo que obtendrás en la caja será un código de descarga digital . Más allá del debate sobre los formatos físicos, suena vergonzante en todo punto este tipo de distribución para el que está destinado a &#8216;juego del año&#8217;, o de la década. Por no hablar del retraso de la versión PC. El gameplay de GTA 6 (oficioso) No podemos (debemos) compartir el material filtrado ni los enlaces al mismo, pero vamos, la búsqueda por tu cuenta será bastante sencilla, porque a pesar de las notificaciones de eliminación por infracción de derechos de autor (DMCA), están por bastantes sitios. Lo que sí podemos es describir lo que hemos visto para que tengas una idea de lo que puedes esperar. Mapa de mundo e interfaz El mapa de Leonida , ",
-      "link": "https://www.muycomputer.com/2026/08/19/el-gameplay-de-gta-6-se-filtra-antes-de-su-presentacion-oficial/",
-      "pubDate": "Wed, 19 Aug 2026 07:14:07 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/gameplay_de_GTA_6_2.jpg",
-      "subcat": "mercado"
-    },
-    {
-      "id": "248116a55256b2681256",
-      "title": "Dark Web y Deep Web, la «otra» Internet también existe",
-      "summary": "&#8216;Deep Web&#8217; y &#8216;Dark Web&#8217; son términos que se usan para referirse a la parte de la World Wide Web más desconocida. Aunque frecuentemente se utilizan como si fueran lo mismo, son totalmente diferentes . Para entender sus diferencias hay que sumergirse en la verdadera profundidad de la Web y de Internet, como vamos a hacer en este artículo especial. Internet ha cambiado para siempre la manera de comunicarnos y la propia historia de la Humanidad. Con sus claroscuros, este conjunto de redes de comunicaciones que nació desde ARPANET conecta hoy habitualmente a 5.350 millones de usuarios y tiene a la WWW como su bien más preciado, imprescindible para cualquier ámbito de nuestra sociedad, funcionamiento y desarrollo humano. Deep Web frente a Dark Web, ¿En qué se diferencian? Las diferentes partes de la Web suelen explicarse con la imagen de un iceberg. La parte visible sería la &#8216;Surface Web&#8217; e incluiría todo el contenido indexado por los motores de búsqueda. Por debajo de la superficie tendríamos a la Web Profunda con el contenido no indexado por los buscadores. En cuanto a la Web Oscura, sería una parte (no demasiado grande) de la anterior. Como ocurre en el mundo físico, el digital no escapa a todo tipo de submundos y sujetos que la pueblan , de todo pelaje, condición y objetivos. «La Internet Profunda» El concepto de ‘Internet Profunda’ fue introducido por Michael K. Bergman en la década de los años 90 en un white paper titulado «The Deep Web: Surfacing Hidden Value» . Al contrario de lo que muchos piensan, su propósito no era definir una red oculta intencionadamente, sino lo que ya hemos comentado: definir los contenidos no localizables por los motores de búsqueda convencionales por cualquier motivo, desde páginas protegidas mediante contraseñas a formatos no indexables por tratarse de contenido html. Hay bastante controversia con el tamaño que puede ocupar la Deep Web en la totalidad de Internet. Algunos autores calcularon su tamaño h",
-      "link": "https://www.muycomputer.com/2026/08/19/deep-web-frente-a-dark-web-en-que-se-diferencian/",
-      "pubDate": "Wed, 19 Aug 2026 06:04:09 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2024/05/Deep_Web_frente_a_Dark_Web_2.jpg"
-    },
-    {
       "id": "b99f2d8e5923b52caf68",
       "title": "\"La generación sobria\": por qué cada vez más jóvenes reemplazan el alcohol por medicamentos para la ansiedad",
       "summary": "Cada vez más jóvenes recurren a medicamentos contra la ansiedad para sentirse \"ebrios\" en las fiestas.",
@@ -504,26 +451,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "971f6b2f5febec55597b",
-      "title": "Rayo Vallecano 1-1 Alavés | Resumen LaLiga",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/2026/08/20/rayo-vallecano-1-1-alaves-resumen-laliga-video.html",
-      "pubDate": "Thu, 20 Aug 2026 23:20:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a876f6ca14ce.jpeg"
-    },
-    {
-      "id": "627ebb9cbe4070f735f5",
-      "title": "Es 'Año Mariano'",
-      "summary": "1",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/08/20/mariano-renacido.html",
-      "pubDate": "Thu, 20 Aug 2026 23:01:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a876bd6eb80f.jpeg"
-    },
-    {
       "id": "b6fbf803f00c30d51636",
       "title": "Cameron Diaz convierte Bad Day en su nueva apuesta de acción para Netflix y ya tiene fecha de estreno",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Cameron Diaz sigue consolidando una segunda etapa de su carrera mucho más activa de lo que parecía posible cuando decidió apartarse de Hollywood durante más de una década. Después de regresar en 2025 con Back in Action , acompañada por Jamie Foxx, la actriz volverá a ponerse al frente de una producción de Netflix con Bad Day , una comedia de acción que acaba de presentar sus primeras imágenes y que llegará a la plataforma el 11 de diciembre de 2026 . El proyecto tiene además un punto de partida bastante distinto al de Back in Action . Aquí Diaz no interpreta a una exagente atrapada de nuevo en una vida de espionaje, sino a una madre soltera que intenta cumplir una pequeña promesa a su hija mientras atraviesa literalmente el peor día de su vida , una premisa que mezcla caos cotidiano, persecuciones, humor y situaciones cada vez más descontroladas. Netflix parece haber encontrado en esa combinación un vehículo muy concreto para aprovechar la energía cómica de Diaz sin alejarla del terreno de acción que marcó su regreso. Bad Day convierte una promesa aparentemente sencilla en una pesadilla La sinopsis oficial describe la película como una especie de “mom-com” de acción, una etiqueta bastante útil para entender el tono que busca el proyecto. El personaje de Cameron Diaz empieza intentando cumplir una promesa pequeña a su hija, pero todo termina desmoronándose alrededor suyo hasta convertir esa misión doméstica en una cadena de problemas cada vez mayores. Las primeras imágenes ya permiten ver parte del tono. Diaz aparece acompañada por Ed O’Neill, Danielle Brooks y John Higgins , entre otros miembros del reparto. Brooks y Higgins interpretan a detectives de policía, mientras O’Neill da vida a un hombre que acaba al volante de un autobús en el que también se encuentra el personaje de Diaz, una situación que parece destinada a formar parte de ese día que va empeorando minuto a minuto. La película está dirigida p",
@@ -534,16 +461,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Cameron-Diaz-convierte-Bad-Day-en-su-nueva-apuesta-de-accion-para-Netflix-y-ya-tiene-fecha-de-estreno.jpg"
     },
     {
-      "id": "0270c985aefd4baa5fb3",
-      "title": "Europa, el Getafe vuelve a estar aquí",
-      "summary": "Satriano protege el balón.",
-      "link": "https://www.marca.com/futbol/conference-league/cronica/2026/08/20/getafe.html",
-      "pubDate": "Thu, 20 Aug 2026 22:57:15 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8766a85cae9.jpeg"
-    },
-    {
       "id": "0a926f88950237e46a63",
       "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
       "summary": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días en mar abierto sin agua potable ni comida hasta que la Armada los rescató en un punto donde parecía imposible verlos.",
@@ -552,16 +469,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fea/live/4d0d9ec0-9ce8-11f1-8572-177940d51932.jpg"
-    },
-    {
-      "id": "f2604fa2536e502030f6",
-      "title": "Jokic gana a Wembanyama rozando el triple-doble",
-      "summary": "Jokic ante Wembanyama en el partido de Belgrado.",
-      "link": "https://www.marca.com/baloncesto/2026/08/20/jokic-gana-wembanyama-rozando-triple-doble.html",
-      "pubDate": "Thu, 20 Aug 2026 22:30:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8771b29418e.jpeg"
     },
     {
       "id": "9775d685b8c7f049a0f1",
@@ -592,56 +499,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/kpop-demon-hunters-backdrop-tmdb-1200x675.jpg"
-    },
-    {
-      "id": "ac98f68615d555331067",
-      "title": "Pipe Bueno rompe en llanto al revelar la adicción que casi destruye a su familia",
-      "summary": "La dura adicción de Pipe Bueno que casi termina su relación con Luisa Fernanda W.",
-      "link": "https://www.marca.com/co/2026/08/20/pipe-bueno-rompe-llanto-revelar-adiccion-destruye-familia.html",
-      "pubDate": "Thu, 20 Aug 2026 21:59:49 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a875b748cf74.jpeg"
-    },
-    {
-      "id": "17c385c942f439a7391c",
-      "title": "La fuerte discusión en pleno partido entre 'Chacho' Coudet y Santos Borré: “Cerrá el c...”",
-      "summary": "El enojo de Eduardo Coudet con Rafael Santos Borré en Santa Fe vs. River Plate por Copa Sudamericana.",
-      "link": "https://www.marca.com/co/2026/08/20/fuerte-discusion-pleno-partido-chacho-coudet-santos-borre-cerra-c.html",
-      "pubDate": "Thu, 20 Aug 2026 21:52:39 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a875a27f1978.jpeg"
-    },
-    {
-      "id": "256461eb39cb7e7c256e",
-      "title": "El desgarrador testimonio de exfigura de Santa Fe tras perderlo todo por el juego: “Mi familia está destrozada”",
-      "summary": "Jonatan Gómez rompe el silencio y confiesa su adicción a las apuestas.",
-      "link": "https://www.marca.com/co/2026/08/20/desgarrador-testimonio-exfigura-santa-fe-perderlo-juego-mi-familia-destrozada.html",
-      "pubDate": "Thu, 20 Aug 2026 21:44:50 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87578e3318e.jpeg"
-    },
-    {
-      "id": "ec43778b3292e814794b",
-      "title": "Troy Parrott, nuevo delantero del Betis hasta 2031",
-      "summary": "Parrott, nuevo jugador del Betis",
-      "link": "https://www.marca.com/futbol/betis/2026/08/20/oficial-troy-parrott-nuevo-jugador-betis-2031.html",
-      "pubDate": "Thu, 20 Aug 2026 21:37:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8756b2e469a.jpeg"
-    },
-    {
-      "id": "a1b12e4e6cc0cf7533fa",
-      "title": "Punto y final al 'culebrón' El Mala",
-      "summary": "El Mala posa con el '10' del Colonia",
-      "link": "https://www.marca.com/futbol/bundesliga/2026/08/20/punto-final-culebron-mala.html",
-      "pubDate": "Thu, 20 Aug 2026 21:25:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a875437c6338.jpeg"
     },
     {
       "id": "51a2b394139dd7156ca3",
@@ -1452,16 +1309,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "09c3dd5a3f223cf3eaeb",
-      "title": "Estas son las mejores herramientas para crear logos online",
-      "summary": "El logotipo es uno de los principales elementos visuales de una marca. Ayuda a que el público la identifique, la recuerde y la diferencie de sus competidores. Por ello, debe ser fácil de recordar y entender, versátil y atemporal (recuerda el principio KISS : menos es más). Si no dispones de presupuesto para destinarlo al diseño, en este post te ofrecemos un listado de herramientas para diseñar tu logo de forma online . Estas son las mejores herramientas para crear tu logo online. Para elaborar esta selección hemos tenido en cuenta la facilidad de uso, las posibilidades de personalización, los formatos de descarga, la disponibilidad de recursos gratuitos y la relación entre precio y prestaciones. Como verás, entre ellas encontrarás suites de diseño generales, como Adobe Express y Canva, creadores de logos y editores tradicionales basados en plantillas. Adobe Express Canva Brand Crowd Free Logo Design LogoMaker Logogenie Antes de elegir una herramienta, revisa sus condiciones de licencia. Algunos servicios permiten utilizar comercialmente el diseño, pero no garantizan su exclusividad ni que pueda registrarse como marca. También conviene comprobar si la descarga incluye archivos vectoriales —como SVG, EPS o PDF—, necesarios para imprimir el logo a cualquier tamaño sin perder calidad. Adobe Express Adobe Express es una plataforma de diseño disponible en versión web y mediante aplicaciones móviles. Su creador de logotipos permite partir de plantillas personalizables o generar propuestas a partir del nombre de la marca, el sector y las preferencias de estilo. Después, es posible modificar los colores, los iconos y la tipografía, además de incorporar recursos de Adobe Fonts. Para comenzar, introduce el nombre de la marca y, si corresponde, un eslogan. A continuación, selecciona el sector y el estilo visual, revisa las propuestas generadas y personaliza el diseño antes de descargarlo. Canva Entre las diversas posibilidades creativas de este famoso software de diseño gráfico",
-      "link": "https://marketing4ecommerce.net/las-mejores-herramientas-para-crear-logos-online/",
-      "pubDate": "Thu, 13 Aug 2026 07:14:09 +0000",
-      "source": "Marketing4ecommerce",
-      "cat": "tech",
-      "image": "https://marketing4ecommerce.net/wp-content/uploads/2025/08/top-herramientas-para-crear-logos-online-1-1024x614.jpg"
-    },
-    {
       "id": "11a1d5cb7582d2d0624b",
       "title": "Más caro y peor: cae el uso del transporte público, también por la economía y a contramano del mundo",
       "summary": "En los últimos tres años, la circulación de trenes cayó 10% y la de colectivos, 17%. El boleto en general fueron el segundo rubro que más se encareció en este periodo, con el subte al doble que el micro en el AMBA, aunque más barato que en Córdoba y Rosario. Esta combinación sumada a la crisis en las grandes urbes redujo los pasajeros. Aquellos pasajeros que combinan tren con subte en el mismo viaje ya no pagan m s este ltimo $842 sino el doble, $1.684, porque la Ciudad de Buenos Aires dej de subsidiarlos este mes. La decisi n pone en evidencia que cada vez se viaja m s caro en toda Argentina. Pero adem s viaja peor porque se ha reducido la cantidad de servicios en lo que va del gobierno de Javier Milei, respecto de un nivel previo que tampoco era satisfactorio. Una prestaci n cara y mala de ferrocarriles, subtes y colectivos combinada con una ca da de la actividad econ mica en los grandes centros urbanos, a diferencia de los enclaves extractivos del campo, la miner a y Vaca Muerta, explican que cada vez se use menos el transporte p blico, a contramano de lo que ocurre y se recomienda en el resto del mundo. Es un desastre: los trenes cada vez tienen menos frecuencia. Cada vez hay m s fallas en el servicio. Cada vez anda m s lento para Mor n. Antes tardaba 38 minutos: ahora 54. Es un delirio. Cada vez funciona peor el servicio , lamenta un usuario mientras recarga la SUBE en una m quina de la estaci n Once. A diferencia del colectivo y el subte, a n no se puede pagar con tarjetas de d bito y cr dito ni con el celular. Una pasajera que est ante los mismos aparatos coincide: Se paga mucho de transporte y no viaj s tan bien. Hay menos frecuencia . En cambio, en la cola para cargar la SUBE por ventanilla, otra mujer disiente: Anda mejor. No va tan lleno. Los trenes salen a horario . Es verdad que han disminuido los pasajeros, pero por malos motivos, mientras que las estad sticas contradicen la puntualidad que ella se ala. La cantidad de trenes corridos en el rea metropol",
@@ -1584,6 +1431,247 @@
       "subcat": "herramientas"
     },
     {
+      "id": "699fe337b599c8cefc29",
+      "title": "Verstappen rompe el mercado de la F1 con un sueldo histórico",
+      "summary": "Verstappen, en su coche.",
+      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/2026/08/21/verstappen-rompe-mercado-f1-sueldo-historico-460-millones.html",
+      "pubDate": "Fri, 21 Aug 2026 09:54:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87ff8641ece.jpeg"
+    },
+    {
+      "id": "bca96e1fe66a6c09ce89",
+      "title": "Russell respira: \"Nunca sentí que mi puesto estuviera en peligro\"",
+      "summary": "Russell, en Zandvoort.",
+      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/2026/08/21/russell-respira-nunca-senti-mi-puesto-estuviera-peligro.html",
+      "pubDate": "Fri, 21 Aug 2026 09:45:20 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a88017c0da5b.jpeg"
+    },
+    {
+      "id": "d6507fa2f9e7649a6224",
+      "title": "\"Los jugadores ya saben quién juega, a ver quién de vosotros tiene mejor contacto\"",
+      "summary": "Directo de rueda de prensa de Mourinho previo al partido de la jornada 2 contra el Espanyol. Suscríbete al canal de Marca para no perderte más vídeos AQUÍ : https://bit.ly/2J0YIm6 ✔️ Visita marca.com: https://www.marca.com/ ✔️ INSTAGRAM: https://www.instagram.com/marca/ ✔️ FACEBOOK: https://www.facebook.com/MARCA/ ✔️ TWITTER: https://twitter.com/marca ✔️ TWITTER: https://twitter.com/radiomarca #MARCA #Actualidad #Noticias",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/21/6a87fbea6c283cdca8c153c2.html",
+      "pubDate": "Fri, 21 Aug 2026 09:21:15 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/meWpFLqdepo.jpeg"
+    },
+    {
+      "id": "17c3fadd854b47e6fa00",
+      "title": "\"Y Alonso, ¿lo anunciará en Madring?\"",
+      "summary": "Alonso, en el circuito de Zandvoort (Holanda).",
+      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/opinion/2026/08/21/alonso-anunciara-madring.html",
+      "pubDate": "Fri, 21 Aug 2026 09:19:59 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87fb1942bdc.jpeg"
+    },
+    {
+      "id": "1dd3dee274fd9ba47f66",
+      "title": "El City recibe una millonada",
+      "summary": "Sigue en directo todas las novedades del mercado",
+      "link": "https://www.marca.com/futbol/2026/08/21/6a87f8d36c283cdca8c12919.html",
+      "pubDate": "Fri, 21 Aug 2026 09:13:01 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/17872963629421.jpeg"
+    },
+    {
+      "id": "5e6d6dfd56cefab004ae",
+      "title": "O al Barça o nada",
+      "summary": "Julián, en un entrenamiento.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/21/unico-sueno-julian-jugar-barca.html",
+      "pubDate": "Fri, 21 Aug 2026 08:55:37 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87f6084f23f.jpeg"
+    },
+    {
+      "id": "ef2644cc42effd3ebac3",
+      "title": "La gran revolución que llena de millones el nuevo fútbol",
+      "summary": "Los estadios serán la gran fuente de ingresos de los clubes",
+      "link": "https://www.marca.com/sport-business/2playbook/2026/08/21/gran-revolucion-futbol-asi-nuevo-negocio-estadios.html",
+      "pubDate": "Fri, 21 Aug 2026 08:39:26 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87ef62bad4c.png"
+    },
+    {
+      "id": "66234ca42316aa831143",
+      "title": "Rafa Jódar, el mejor a los 50 partidos",
+      "summary": "Jódar celebra un triunfo en Cincinnati.",
+      "link": "https://www.marca.com/tenis/us-open/2026/08/21/rafa-jodar-mejor-50-partidos.html",
+      "pubDate": "Fri, 21 Aug 2026 08:31:13 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87eff74c604.jpeg"
+    },
+    {
+      "id": "5929ab23482242459bbe",
+      "title": "La fuerte reacción de China a las nuevas sanciones de EE.UU. contra Irán",
+      "summary": "El gigante asiático ha calificado las acciones de Washington como \"ilegales\".",
+      "link": "https://actualidad.rt.com/actualidad/623437-fuerte-reaccion-china-nuevas-sanciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 08:27:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "44830eff61dfbca7bc54",
+      "title": "WhatsApp vuelve a cambiar de diseño: estas dos secciones no van a volver a ser como antes",
+      "summary": "Llevamos meses viendo cómo WhatsApp cambia de diseño en iOS para adaptarse a la estética de Liquid Glass que Apple presentó hace más de un año. Y cuando pensábamos que la plataforma de mensajería ya había terminado, vuelve con más cambios. WhatsApp ha vuelto a modificar su interfaz añadiendo un nuevo estilo en algunas secciones de la app. Tal y como ha revelado Wabetainfo , un portal especializado en noticias y novedades sobre la plataforma de mensajería propiedad de Meta, lo que está haciendo WhatsApp es expandir aún más la estética Liquid Glass en su app, para tenerlo todo listo con iOS 27 , cuya actualización final se realizará durante el mes de septiembre. En concreto, WhatsApp está llevando elementos acristalados en el editor de dibujo y el reproductor de vídeo . Ahora los botones tienen una interfaz transparente tan característico de iOS. Donde vemos más cambios es en el reproductor de vídeo. La barra de progreso ahora es más ancha y cuenta con ese efecto acristalado que también vemos en el reproductor del sistema . Puede parecer una novedad menor, pero que la compañía se centre en adaptar toda su interfaz es una muy buena noticia. ¿Cuándo llega el nuevo diseño de WhatsApp? Según el citado medio, estas novedades relacionadas con el diseño se han dejado ver en la última beta de WhatsApp para iOS y estará disponible en una próxima actualización de la app . Además, estos pequeños cambios hacen que la app de mensajería se acerque a una actualización final con todos los elementos adaptados a Liquid Glass. Curiosamente, y por algún motivo que se desconoce, WhatsApp es una de las aplicaciones que más ha tardado en adaptar su diseño a Liquid Glass de iOS 26 . La compañía lleva meses trabajando en una versión en la que la barra de navegación hereda ese efecto flotante y transparente, y aunque lanzaron una actualización final a principios de año, todavía hay usuarios que no han recibido estos cambios, pese a tener su dispositivo actualizado a iOS 26. Mientras tanto, otr",
+      "link": "https://hipertextual.com/mobile/whatsapp-vuelve-a-cambiar-de-diseno-estas-dos-secciones-no-van-a-volver-a-ser-como-antes/",
+      "pubDate": "Fri, 21 Aug 2026 08:16:56 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/whatsapp.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "04425c97f9428ee58ce5",
+      "title": "Jon Rahm juega bajo par con todos los ojos encima",
+      "summary": "Jon Rahm (31), en la primera jornada de Indianapolis",
+      "link": "https://www.marca.com/golf/liv-golf/2026/08/21/jon-rahm-juega-par-todos-ojos-encima.html",
+      "pubDate": "Fri, 21 Aug 2026 08:13:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87ec3e5eefa.jpeg"
+    },
+    {
+      "id": "f51da8e9dc614222d3cc",
+      "title": "Serena espera a Alcaraz en Nueva York para jugar un dobles mixto para la historia: \"Me gusta ver que vienes\"",
+      "summary": "Raducanu y Alcaraz sonríen.",
+      "link": "https://www.marca.com/tenis/us-open/2026/08/21/serena-espera-alcaraz-nueva-york-jugar-dobles-mixto-historia-me-gusta-ver-vienes.html",
+      "pubDate": "Fri, 21 Aug 2026 08:05:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87e8a8a1fd4.jpeg"
+    },
+    {
+      "id": "6c4213e0e898cd12df4f",
+      "title": "El Gobierno incorporó la ludopatía a las funciones del Ministerio de Salud y redefinió el control de los alimentos",
+      "summary": "La medida fue oficializada mediante el Decreto 771/2026, publicado este jueves en el Boletín Oficial. La normativa redefine quién controla la cadena alimentaria y suma la prevención de las apuestas problemáticas entre las responsabilidades del Estado.",
+      "link": "https://www.clarin.com/politica/gobierno-incorporo-ludopatia-funciones-ministerio-salud-redefinio-control-alimentos_0_n4MUYQTPr6.html",
+      "pubDate": "Fri, 21 Aug 2026 08:03:02 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2024/07/15/ofoqqZ41A_1200x630__1.jpg"
+    },
+    {
+      "id": "9c185c9e3d32d79a05d2",
+      "title": "Filtran imágenes de Doctor Doom en Vengadores: Doomsday con armas nunca vistas",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Robert Downey Jr. vuelve a colocarse en el centro de todas las miradas. Nuevas imágenes filtradas de Vengadores: Doomsday muestran a Doctor Doom empuñando una espada y un escudo con una estética que parece directamente salida de Latveria, anticipando una versión del villano bastante más guerrera de lo que muchos esperaban. Doctor Doom aparece armado en las nuevas filtraciones de Vengadores: Doomsday I’ve had these for a while, they’re promotional images of Dr Doom posing with what appears to be a sword a shield? I have AI enhanced the images. Doomsday leaks pic.twitter.com/Ywoh6zrnsI — SukunaOnFN (@SukunaOnFN3) August 19, 2026 New look at Dr Doom in Avengers Doomsday. pic.twitter.com/UXs0Q3NEWz — Avengers Doomsday updates (@Ganastasiou88) August 20, 2026 Las filtraciones de Vengadores: Doomsday empiezan a convertirse en un problema serio para Marvel Studios. Durante las últimas horas han aparecido en X e Instagram nuevas imágenes que aparentemente muestran varias escenas importantes de la película, entre ellas un enfrentamiento entre Wolverine y Spider-Man, a Loki y Mobius dentro de la TVA y hasta a Magneto siendo atrapado por un Centinela. Pero hay unas fotografías que están llamando especialmente la atención: Robert Downey Jr. caracterizado como Doctor Doom mientras empuña una espada y un escudo. Hay que hacer aquí una aclaración importante. Las imágenes que circulan por redes habrían sido mejoradas mediante inteligencia artificial para dificultar que Marvel pueda localizarlas y retirarlas mediante reclamaciones de copyright. Eso significa que algunos detalles visuales podrían no representar exactamente lo que veremos en pantalla cuando llegue la película. La información original sostiene, eso sí, que las fotografías partirían de material auténtico. Así que, aunque conviene mantener cierta cautela ante cualquier filtración de este calibre, la idea de ver a Doom equipado de esta manera empieza a resultar",
+      "link": "https://www.cinemascomics.com/doctor-doom-vengadores-doomsday-con-armas/",
+      "pubDate": "Fri, 21 Aug 2026 08:01:57 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Doctor-Doom-en-Vengadores-Doomsday-1.jpg"
+    },
+    {
+      "id": "19870f851050c1b92517",
+      "title": "Lucrecia Manzur va por la hazaña ante Amanda Serrano en una pelea que se verá gratis por TikTok",
+      "summary": "La tucumana desafiará a la puertorriqueña por los títulos mundiales pluma de la AMB y la OMB. Su legendaria rival buscará convertirse en la mujer con más nocauts de la historia.",
+      "link": "https://www.clarin.com/deportes/lucrecia-manzur-va-hazana-amanda-serrano-pelea-vera-gratis-tiktok_0_YmKVpOKMhw.html",
+      "pubDate": "Fri, 21 Aug 2026 08:00:36 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/20/cyzS5uAna_1200x630__1.jpg"
+    },
+    {
+      "id": "9494afce2d5d79bfdd2f",
+      "title": "Yomif Kejelcha, el hombre que batió un récord imposible y ahora va por más",
+      "summary": "Hace cuatro meses fue uno de los dos atletas que rompió la mítica barrera de las dos horas en los 42K de Londres. Este domingo, el etíope buscará bajar la marca del Medio Maratón de Buenos Aires.",
+      "link": "https://www.clarin.com/deportes/yomif-kejelcha-hombre-batio-record-imposible-ahora-va_0_2Iwcjp406e.html",
+      "pubDate": "Fri, 21 Aug 2026 08:00:36 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/20/60CKzwwLh_1200x630__1.jpg"
+    },
+    {
+      "id": "e899757cc0a5955139b5",
+      "title": "El ciclo Cine y Libros cierra con \"El amante\", la novela erótica que convirtió una pasión prohibida en un clásico",
+      "summary": "Publicada en 1984 y llevada al cine por Jean-Jacques Annaud, la obra más célebre de Marguerite Duras transformó un episodio de su adolescencia en uno de los relatos fundamentales de la literatura francesa del siglo XX. El film se proyectará como corolario del ciclo Cine y Libros, organizado por Revista Ñ, el miércoles 26 de agosto, a las 19, en CineArte Cacodelphia.",
+      "link": "https://www.clarin.com/revista-n/ciclo-cine-libros-cierra-amante-novela-erotica-convirtio-pasion-prohibida-clasico_0_h8aWaL7wKa.html",
+      "pubDate": "Fri, 21 Aug 2026 08:00:35 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2021/06/11/Rro4vCc72_1200x630__1.jpg"
+    },
+    {
+      "id": "f80973f60f530eea1f84",
+      "title": "Juan Bengoechea, comandante y piloto de Eurofighter: \"Esta profesión tiene mucho sacrificio y a la gente que está con nosotros les debemos la vida porque si nuestra vida es de servicio y de sacrificio, la suya lo es con nosotros también\"",
+      "summary": "Juan Bengoechea pilota el Eurofighter con más de mil horas de vuelo encima. Dice que quienes los acompañan en la vida también ejercen, a su modo, esa misma profesión.",
+      "link": "https://www.clarin.com/internacional/juan-bengoechea-comandante-piloto-eurofighter-profesion-sacrificio-gente-debemos-vida-vida-servicio-sacrificio_0_p1HCbhgJXc.html",
+      "pubDate": "Fri, 21 Aug 2026 08:00:35 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/20/ETUhOVSGm_1200x630__1.jpg"
+    },
+    {
+      "id": "8a34f7d167e1190e724e",
+      "title": "Ultraprocesados, la palabra de moda que nadie sabe definir",
+      "summary": "Si todo se mete en la misma bolsa, el consumidor puede terminar evitando incluso las opciones saludables que existen en el mercado envasado. Lo razonable sería aprender a diferenciar entre las mejores y las peores alternativas disponibles.",
+      "link": "https://www.clarin.com/buena-vida/ultraprocesados-palabra-moda-nadie-sabe-definir_0_x0oS0DJzPE.html",
+      "pubDate": "Fri, 21 Aug 2026 08:00:35 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2024/02/28/JF-dnKMP9_1200x630__1.jpg"
+    },
+    {
+      "id": "0e79d02a9384f8cc3c4e",
+      "title": "Qué es y cómo funciona la \"danza del apareamiento digital\", el nuevo ritual para seducir en las redes sociales",
+      "summary": "Qué significa el término y cuáles son los códigos implícitos para coquetear en redes. Cómo impacta esta forma de vincularse y por qué puede llevar a una búsqueda constante de aprobación.",
+      "link": "https://www.clarin.com/relaciones/funciona-danza-apareamiento-digital-nuevo-ritual-seducir-redes-sociales_0_OPFMcWMffm.html",
+      "pubDate": "Fri, 21 Aug 2026 08:00:35 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2021/06/21/UPqTarQQo_1200x630__1.jpg"
+    },
+    {
+      "id": "2a19c01d7132ae0f17f5",
+      "title": "Estas son las nuevas formas de medir el colesterol y la prueba clave para detectar si están bien o mal los niveles",
+      "summary": "Según explica el doctor Jorge Tartaglione, la medicina actual ya no se limita a observar un valor aislado en los análisis de sangre, sino que se centra en el cálculo de riesgo individualizado del paciente. “ Antes yo te decía, vos tenés que tener el colesterol por debajo de 200. Hoy tengo que hacerle un riesgo , le saco un riesgo, veo un riesgo y veo qué hago”, afirmó el especialista para describir cómo se gestiona hoy la salud cardiovascular en la consulta profesional. Los nuevos valores del colesterol Para vizualizar cómo funciona el mecanismo biológico, el profesional ejemplificó que las arterias funcionan como una autopista donde transitan distintos vehículos. Para ello, sostuvo que existe un colesterol bueno, representado por un “camioncito que va agarrando de la pared el colesterol y se lo lleva al hígado” , y un colesterol malo que se deposita en la pared arterial. Sin embargo, el riesgo aumenta drásticamente con un tercer elemento, la lipoproteína A o Lp(a). Tartaglione enfatiza la necesidad de un examen específico: “Si tenés esto, tenés que hacértelo una vez en la vida. Te tienen que medir lipoproteína A. Tiene un componente genético” . El especialista advirtió que la evaluación del riesgo es un proceso técnico que determina la agresividad del tratamiento médico. Si el riesgo es bajo, el objetivo es mantener el colesterol LDL por debajo de 100 mg/dl; si el riesgo es alto, la meta desciende a 70 mg/dl. En pacientes con eventos cardíacos previos o infartos, la recomendación es más estricta: “ Tenés que llevarlo menos de 55” , subrayó el cardiólogo. Estas metas se definen tras analizar factores como la diabetes, la hipertensión, el tabaquismo y el estrés. Uno de los puntos críticos abordados por el profesional es la medicación y sus efectos secundarios. Ante la consulta sobre los dolores musculares que pueden generar las estatinas, el doctor aclaró que este síntoma afecta aproximadamente a un 20% de los pacientes. En esos casos, la ciencia ha avanzado hacia al",
+      "link": "https://www.lanacion.com.ar/sociedad/estas-son-las-nuevas-formas-de-medir-el-colesterol-y-la-prueba-clave-para-detectar-si-estan-bien-o-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 08:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/4GDHAREON5EV3KTMANEDEICB2M.jpg?auth=84bdfaafd3f854ffb09a591346a01addcb39785b642da33d93753824d2b28a09&smart=true&width=5760&height=3840"
+    },
+    {
+      "id": "ca9265542640dcf03719",
+      "title": "El King Q del culturismo, que fue décimo en Mr. Olympia, muere con 40 años días después de competir",
+      "summary": "El culturista Dwayne Quamina, que fue décimo en Mr. Olympia, muere repentinamente con 40 años una semana después de competir",
+      "link": "https://www.marca.com/otros-deportes/2026/08/21/king-q-culturismo-decimo-mr-olympia-muere-40-anos-dias-despues-competir.html",
+      "pubDate": "Fri, 21 Aug 2026 07:59:37 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87e836bb08f.jpeg"
+    },
+    {
+      "id": "c41e82ae81aa413bb467",
+      "title": "Windows 11 frente a Windows 11 LTSC: descubre cuál es mejor para ti y consigue tu licencia con descuento",
+      "summary": "Seguro que conoces las diferencias entre Windows 11 Home y Windows 11 Pro, ¿pero sabes en qué se diferencia de ambos Windows 11 LTSC? Si la respuesta es no, tranquilo, porque en este artículo te vamos a contar todo lo que necesitas saber para acertar, y además podrás comprar tu licencia de Windows 11 LTSC desde solo 15,36 euros , y con validez de por vida gracias a las ofertas de GvGMall . Qué ofrece Windows 11 Es un sistema operativo modernizado, con una interfaz renovada y mejorada gracias a las últimas actualizaciones. Mantiene una retrocompatibilidad excelente con aplicaciones y juegos retro. Incorpora los últimos avances dentro del mundillo tecnológico, tanto a nivel profesional a nivel de gaming. Está mejorando su rendimiento de forma notable, y pronto recibiría una puesta al día para reducir su consumo de RAM. Cuenta con funciones y características que nos permiten disfrutar de una multitarea avanzada más eficiente. Es un sistema operativo inteligente, gracias a Copilot+, y está preparado para aprovechar el hardware más avanzado. A nivel de seguridad es mucho más avanzado que Windows 10, y no se quedará sin soporte a corto plazo. Qué ventajas ofrece Windows 11 LTSC Mantiene un alto grado de soporte, pero no recibe actualizaciones que cambien cosas con frecuencia, por lo que se mantiene más estable y no suele presentar errores ni fallos. Lo anterior lo convierte en un sistema operativo más fiable e ideal para aquellos usuarios que valoran sobre todo la estabilidad y confiable. Mantiene el mismo grado de soporte y de compatibilidad con aplicaciones, tecnologías y hardware que la versión estándar. No tendrás que renunciar a nada. Consume menos recursos y tiene menos bloatware, por lo que es más ligero y ofrece un rendimiento superior, sobre todo en equipos más modestos. Mantiene la experiencia de uso moderna, la interfaz y las funciones avanzadas que caracterizan a Windows 11. Cuenta con todas las funciones y las tecnologías de protección y seguridad que diferen",
+      "link": "https://www.muycomputer.com/2026/08/21/windows-11-frente-a-windows-11-ltsc-descubre-cual-es-mejor-para-ti-y-consigue-tu-licencia-con-descuento/",
+      "pubDate": "Fri, 21 Aug 2026 07:54:54 +0000",
+      "source": "MuyComputer",
+      "cat": "ia",
+      "image": "",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "0e81946bfc76952f83aa",
+      "title": "La Serie A vive anclada en el 'día de la marmota'",
+      "summary": "Los mismos entrenadores de siempre que van rotando entre los grandes de la Serie A.",
+      "link": "https://www.marca.com/futbol/liga-italiana/2026/08/21/serie-vive-anclada-dia-marmota-dato-banquillos-da-pensar.html",
+      "pubDate": "Fri, 21 Aug 2026 07:52:40 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/19/6a85ccaacec48.jpeg"
+    },
+    {
       "id": "73b588b13c4e400f428b",
       "title": "Una chica de 16 años salta enfurecida al campo para placar y agredir a un jugador de fútbol americano",
       "summary": "Una joven de 16 años interrumpió un partido de fútbol americano en Winchester (Tennessee) al irrumpir en el campo y derribar a uno de los jugadores.",
@@ -1614,14 +1702,64 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87e412c7f52.jpeg"
     },
     {
-      "id": "9defebb3552e66b1870f",
-      "title": "El MARCA de toda la vida y dos fotos separadas por 73 años",
-      "summary": ".",
-      "link": "https://www.marca.com/mundo-marca/2026/08/21/marca-toda-vida.html",
-      "pubDate": "Fri, 21 Aug 2026 07:30:26 +0200",
+      "id": "3efd73e63a1a99956033",
+      "title": "¡Se acabó el culebrón! Dave Bautista será Kratos en la serie de ‘God of War’",
+      "summary": "La serie de God of War por fin tiene a su nuevo Kratos , el actor Dave Bautista . El título, que se estrenará próximamente en Amazon Prime Video, llevaba meses en desarrollo cuando sucedió una triste desgracia. El actor que se había fichado para dar vida al Fantasma de Esparta, Ryan Hurst , sufrió un grave accidente durante el rodaje , rompiéndose el bíceps. Una lesión que le tendría parado por cerca de un año. La compañía no podía permitirse tanto retraso, por lo que se vieron obligados a buscar un sustituto. Así, hace unas semanas surgió el rumor de que Dave Bautista estaba en negociaciones con el estudio para convertirse en el nuevo Kratos de la serie de God of War . Ahora, por fin, la noticia se ha confirmado de manera oficial. Variety ha revelado que los acuerdos ya están firmados y la estrella de Marvel y de la WWE será el nuevo protagonista de la ambiciosa producción. Lo cierto es que el fichaje de Dave Bautista como Kratos en God of War suena inmejorable para la serie. El intérprete tiene experiencia de sobra en acción gracias a sus años de wrestling en la WWE, así como a sus numerosos papeles en este tipo de cine, destacando el Drax de Guardianes de la Galaxia . Por complexión y preparación, muy pocos podían igualarle para hacerse con el papel. Y para la compañía es un alivio, pues esos habituales meses previos de preparación y entrenamientos no serán necesarios. Cuándo se estrena la serie de God of War Con el fichaje de Dave Bautista como Kratos , la serie de God of War retomará su rodaje próximamente. Las grabaciones arrancaron el pasado mes de febrero. Pero el cambio de actor obligará a volver a hacer todas las escenas en las que apareció Ryan Hurst . Por ello, será casi como empezar de cero. Según se reportó en el pasado, el rodaje se pondrá en marcha de nuevo en octubre. Además, Amazon Prime Video ha dado luz verde a dos temporadas de la serie de God of War que se rodarán de manera consecutiva. A estas alturas, lo más probable es que la serie no se est",
+      "link": "https://hipertextual.com/cine-television/se-acabo-el-culebron-dave-bautista-sera-kratos-en-la-serie-de-god-of-war/",
+      "pubDate": "Fri, 21 Aug 2026 07:40:18 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Kratos-God-of-War.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "96488dc04343e8983b32",
+      "title": "Oficial y confirmado: una importante ciudad de California reducirá la velocidad de los conductores cerca de las escuelas",
+      "summary": "Nuevo límite de velocidad entrará en vigor el próximo ciclo escolar. De manera progresiva, abarcará todos los establecimientos educativos.",
+      "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-importante-ciudad-california-reducira-velocidad-conductores-cerca-escuelas_0_srcCMCsyUM.html",
+      "pubDate": "Fri, 21 Aug 2026 07:38:34 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/27/nn4VFoicN_1200x630__1.jpg"
+    },
+    {
+      "id": "780fd78228725edf03ce",
+      "title": "VIDEO EN PRIMERA PERSONA: Mujer se lleva a un policía colgado de su auto al intentar huir de un arresto",
+      "summary": "Una joven de 19 años fue detenida en Georgia, EE.UU., tras presuntamente robar en una tienda de Walmart y protagonizar una peligrosa huida. Imágenes de la cámara corporal de un agente muestran el momento en que la sospechosa acelera su automóvil mientras el policía permanece colgado de la ventanilla. Según las autoridades, la conductora arrastró al uniformado más de 90 metros, causándole fuertes dolores.",
+      "link": "https://actualidad.rt.com/actualidad/623429-mujer-lleva-policia-colgado-auto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 07:34:06 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "a1b04c95b89c78b1ae6d",
+      "title": "Aryna Sabalenka, 28 años, tenista: “Callarse te destruye; hablar en terapia durante cinco años me ayudó a entenderme, resolver lo que me pasaba y seguir adelante”",
+      "summary": "La número uno del ranking WTA defiende la importancia de la salud mental en el deporte de élite y anima a sus compañeros a apoyarse en la terapia.",
+      "link": "https://www.clarin.com/internacional/aryna-sabalenka-28-anos-tenista-callarse-destruye-hablar-terapia-anos-ayudo-entenderme-resolver-pasaba-seguir-adelante_0_jwWU2o5IGu.html",
+      "pubDate": "Fri, 21 Aug 2026 07:30:34 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/08/21/WrF29L91r_1200x630__1.jpg"
+    },
+    {
+      "id": "600c45ef702363df455a",
+      "title": "Aston Martin, a golpe de mejoras",
+      "summary": "El AMR26B, en pista.",
+      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/2026/08/21/aston-martin-golpe-mejoras.html",
+      "pubDate": "Fri, 21 Aug 2026 07:29:26 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a870c5dc244a.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a870a323c3c4.jpeg"
+    },
+    {
+      "id": "b7db8d38e10ec0233f66",
+      "title": "Conquista el nuevo curso escolar con las mejores apps para estudiantes: desde infantil hasta la universidad",
+      "summary": "Despertadores, calculadoras, diccionarios, blocs de notas&#8230; Organizar el nuevo curso escolar , planificar el estudio, los deberes y el tiempo libre es más sencillo si cuentas con las mejores apps para estudiantes en la vuelta al cole . Queda muy poco para regresar a las aulas así que es el momento de revisar el catálogo de herramientas y aplicaciones útiles para hacer más fácil la vuelta a las clases . Lo hemos separado en tres grandes tramos para que encuentres más rápido las aplicaciones que más se ajustan a tu situación actual, y cada una de las herramientas están ordenadas según nuestro criterio. Apps para estudiantes de infantil y primaria Apps para estudiantes segundaria y bachillerato Apps para estudiantes universitarios Infantil y primaria: webs y apps para estudiantes en la vuelta al cole Lingokids Lingokids es una app para que niños y niñas de 2 a 8 años aprendan inglés con el método playlearning: &#8220;aprender jugando&#8221; . Dentro de esta app los niños podrán acceder a actividades educativas, juegos, vídeos o canciones, que les ayudarán a desarrollar su nivel de inglés y aprender de forma divertida. Lingokids cuenta con una opción de acceso gratuita que permite tres juegos al día y otra de pago por 14,99€ al mes con acceso ilimitado. Además, el servicio de aprendizaje de inglés de Lingokids está certificado por Oxford University Press . Su premisa principal es la de que los niños miren los estudios como un juego y no como una obligación. Esta app nace en 2016 de la mano de Cristóbal Viedma como una herramienta que ofrecía cursos especializados de inglés para niños. Un año después de su lanzamiento consiguieron alcanzar el millón de usuarios en todo el mundo y actualmente, buscan posicionarse como una aplicación de referencia en la enseñanza de este idioma y de otras muchas disciplinas . Lingokids también cuenta con un popular canal de YouTube , en el que comparten contenidos educativos que se han vuelto extremadamente populares. Como este, que s",
+      "link": "https://marketing4ecommerce.net/apps-para-estudiantes-imprescindibles-para-vuelta-al-cole/",
+      "pubDate": "Fri, 21 Aug 2026 07:29:14 +0000",
+      "source": "Marketing4ecommerce",
+      "cat": "tech",
+      "image": "https://marketing4ecommerce.net/wp-content/uploads/2024/08/mejores-apps-para-estudiantes-en-la-vuelta-al-cole-1024x614.jpg"
     },
     {
       "id": "8435a3bd107559dd612d",
@@ -1642,6 +1780,26 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/17/6a82fa2703717.jpeg"
+    },
+    {
+      "id": "ffd35add0cd5157edf12",
+      "title": "El PSG sirve para 'set' en la Ligue 1",
+      "summary": "Marquinhos levanta la Supercopa de Europa conquistada por el PSG",
+      "link": "https://www.marca.com/futbol/liga-francesa/2026/08/21/psg-sirve-set-ligue-1.html",
+      "pubDate": "Fri, 21 Aug 2026 07:28:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a872687f0bf9.jpeg"
+    },
+    {
+      "id": "93fe49977dc1ad8f4dc4",
+      "title": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
+      "summary": "El relato oficialista , incluidos los datos estadísticos que esgrimen las principales figuras del gobierno libertario, encontró ya hace meses una pared que no logra trasponer y cada día se le está haciendo más alta. Ese muro es la percepción negativa de su experiencia vital que tiene en este momento una amplia mayoría de los argentinos , en virtud de la su capacidad de consumo , la situación del empleo y las expectativas a futuro para sí y para el país. Es la economía. Sin adjetivos. El Gobierno escribió otro capítulo en su avanzada por la desregulación del mercado legal de armas y, a través del Decreto 770/2026 publicado en el Boletín Oficial de este viernes, determinó que el Registro Nacional de Armas (Renar) pase a funcionar como organismo desconcentrado del Ministerio de Seguridad Nacional y estableció su nueva estructura, conducción y atribuciones. Con la nueva medida, que cuenta con la firma de Javier Milei y todo sus ministros , el Renar tendrá entre sus objetivos “ prevenir y combatir la violencia armada y el tráfico ilícito de armas, municiones, explosivos y materiales relacionados”. Sergio Massa y su esposa, Malena Galmarini , actual senadora provincial, viajaron al Caribe la semana en que cumplieron sus “30 años de amor”. Lo hicieron acompañados de un grupo de amigos en un jet privado de lujo, propiedad del grupo empresario que lidera Francisco De Narváez , según confirman registros aeronáuticos y migratorios a los que accedió LA NACION . La comitiva, integrada por siete personas, partió desde el aeropuerto de Montevideo el jueves 13 de agosto a las 6:40 AM, apenas 48 horas después de la cumbre del peronismo en el Hotel Emperador de la que participaron, además de Massa, figuras como Máximo Kirchner , el gobernador Axel Kicillof , Ricardo Quintela , Gildo Insfrán y Gerardo Zamora . La actividad económica registró una suba de 0,8% en junio , respecto de mayo, aunque volvió a reflejar el comportamiento inestable que muestra en lo que va del año y que los ana",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-aumento-de-la-morosidad-bancaria-y-las-primeras-alianzas-de-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 07:28:00 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/6OWMTJLIKVBVPEPWDSPIJRRWWA.jpeg?auth=0cf4834991e8e0ef0755b2d3bda7f02128ddee4153763c41282aebd91a4c562b&smart=true&width=1280&height=854"
     },
     {
       "id": "cc7bf960206d3293ff01",
@@ -1674,6 +1832,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a874205a31d6.jpeg"
     },
     {
+      "id": "8a299cf2632f987ffb85",
+      "title": "Militares de EEUU y Corea del Sur concluyen maniobras antes, tras andanada de misiles norcoreanos",
+      "summary": "Washington y Seúl reducen maniobras militares en un intento de distensión con Pyongyang, pero el Norte lanza misiles en respuesta. Kim Yo Jong considera insuficiente el gesto de Trump, aunque deja abierta la puerta a futuras negociaciones si se obtienen mayores concesiones.",
+      "link": "https://www.clarin.com/estados-unidos/militares-de-eeuu-y-corea-del-sur-concluyen-maniobras-antes-tras-andanada-de-misiles-norcoreanos_0_NfM1jAlgvC.html",
+      "pubDate": "Fri, 21 Aug 2026 07:20:05 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg"
+    },
+    {
       "id": "cc1d4b5a84d4fcdeb586",
       "title": "Lewis Hamilton provoca que Kim Kardashian grite en el coche: amor y velocidad",
       "summary": "El piloto Lewis Hamilton y la influecer y empresaria Kim Kardashian presumen su amor durante sus vacaciones en Hawái y se da un simpático paseo en coche.",
@@ -1704,6 +1872,26 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87649d48693.jpeg"
     },
     {
+      "id": "fbbf474e7950cdf08ff1",
+      "title": "China acelera y pone en jaque el liderazgo de EE.UU. en la carrera por la IA",
+      "summary": "La principal ventaja de los modelos chinos es su coste, considerablemente inferior al de los estadounidenses.",
+      "link": "https://actualidad.rt.com/actualidad/623425-china-acelera-carrera-ia-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 07:12:57 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87eb8ce9ff7174ae09b3a3.jpg"
+    },
+    {
+      "id": "a1a37e05cc3d37b12322",
+      "title": "Cómo cambiar la contraseña de Windows con un solo comando",
+      "summary": "Cambiar la contraseña de usuario de una cuenta de Windows es sumamente sencillo mediante un solo comando desde el símbolo del sistema , sin tener que navegar por ningún menú de configuración gráfico. Y ello gracias a la enorme potencia de la consola de Windows . Equivalente a la terminal de Linux o la que proporcionan otros sistemas operativos como macOS, esta aplicación se ejecuta en modo texto y aunque no es tan intuitiva como una interfaz gráfica de usuario, muestra su potencial a la hora de ejecutar tareas repetitivas, en ocasiones donde se bloquea la interfaz gráfica, para gestionar determinados componentes o acceder a cierta información del sistema que no está disponible de ninguna otra manera. El acceso a la línea de comandos de Windows se ofrece en dos modos distintos, usuario y administrador . El primero limitado y el segundo más potente y con acceso a todo el equipo. Además, Microsoft ofrece una variante más avanzada denominada PowerShell que está destinada a administradores de sistemas y más recientemente las ha reunido a todas en Windows Terminal. El cambio de la contraseña de una cuenta es un ejemplo simple, pero potente, de su capacidad. Para ello: Haz una búsqueda por «símbolo del sistema» o pulsa sobre el botón derecho en el botón de inicio para acceder al menú avanzado de Windows. La función necesita ejecutarse como administrador. Úsalo. En la ventana del símbolo del sistema, escribe el comando net user USERNAME PASSWORD, reemplazando «username» por el nombre de usuario y «password» por la nueva contraseña que quieres usar. Si el nombre de usuario tiene espacios, asegúrate de incluirlo entre comillas dobles. Con este comando puedes cambiar tanto las contraseñas de las cuentas de administrador como las locales . Si no recuerdas todas las que usar el equipo puedes verlas con el comando net user. Poco más. Cuando inicies sesión en esa cuenta ya podrás utilizar la contraseña recién creada. La entrada Cómo cambiar la contraseña de Windows con un solo com",
+      "link": "https://www.muycomputer.com/2026/08/21/como-cambiar-la-contrasena-de-windows-con-un-solo-comando/",
+      "pubDate": "Fri, 21 Aug 2026 07:06:33 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2022/10/Contrasena_Cuenta_Windows_2.jpg"
+    },
+    {
       "id": "0c2664cc3c0f498c073e",
       "title": "Gonzalo y Agustina, pareja argentina en España: \"Encuentras trabajo rápido, pero...\"",
       "summary": "@GonzayAgusDeViaje",
@@ -1724,14 +1912,84 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87060904a36.jpeg"
     },
     {
-      "id": "93fe49977dc1ad8f4dc4",
-      "title": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
-      "summary": "Sergio Massa y su esposa, Malena Galmarini , actual senadora provincial, viajaron al Caribe la semana en que cumplieron sus “30 años de amor”. Lo hicieron acompañados de un grupo de amigos en un jet privado de lujo, propiedad del grupo empresario que lidera Francisco De Narváez , según confirman registros aeronáuticos y migratorios a los que accedió LA NACION . La comitiva, integrada por siete personas, partió desde el aeropuerto de Montevideo el jueves 13 de agosto a las 6:40 AM, apenas 48 horas después de la cumbre del peronismo en el Hotel Emperador de la que participaron, además de Massa, figuras como Máximo Kirchner , el gobernador Axel Kicillof , Ricardo Quintela , Gildo Insfrán y Gerardo Zamora . La actividad económica registró una suba de 0,8% en junio , respecto de mayo, aunque volvió a reflejar el comportamiento inestable que muestra en lo que va del año y que los analistas definen como de “serrucho”. En la medición interanual, en tanto, exhibió una mejora de 2,7% y acumuló un crecimiento de 1,9% durante el primer semestre. El dato fue publicado por el Instituto Nacional de Estadística y Censos (Indec) en su informe sobre el Estimador Mensual de Actividad Económica (EMAE). Sin embargo, la mejora de junio no alcanzó para disipar la volatilidad que caracterizó al primer semestre. Basta con observar la serie actualizada del Indec para comprobarlo: la economía creció 0,3% en enero, cayó 2,5% en febrero, rebotó 2,6% en marzo, retrocedió 1,6% en abril y volvió a bajar 0,6% en mayo, antes de la recuperación de 0,8% en junio. Leé la nota completa acá. Destinatario de críticas internas y externas en las últimas semanas, el ministro de Desregulación y Reforma del Estado, Federico Sturzenegger, insistió hoy en la reunión del Consejo de las Américas, en su defensa del paquete de reformas impulsado por el Gobierno, y pronosticó que el presidente Javier Milei será reelecto en 2027. “Pensé que no me iban a invitar, porque el año pasado tuvimos una discusión con Natalio, ",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-aumento-de-la-morosidad-bancaria-y-las-primeras-alianzas-de-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 06:26:39 +0000",
+      "id": "b7bd24a6203802c30b19",
+      "title": "Mel Robbins, experta en desarrollo personal: “Tenés que aprender a amar a tus padres por quienes son, no por quienes deseás que sean”",
+      "summary": "En una reciente intervención en su popular podcast, la especialista en desarrollo personal Mel Robbins abordó una de las problemáticas más recurrentes en las dinámicas familiares adultas: la tensión derivada de intentar corregir o transformar la esencia de los padres . Bajo una perspectiva enfocada en la gestión emocional, Robbins enfatizó que la clave para mejorar estas relaciones no radica en una modificación externa, sino en una transformación interna del individuo : “La gente es quien es y tenés que aprender a amarlas por quienes son, no por quienes deseas que sean” . View this post on Instagram El análisis de Robbins sostiene que, con el paso del tiempo, las personas tienden a consolidar sus personalidades: “La mayor cantidad de gente, más vieja, se vuelve más rígida” , sostuvo la experta. Esta observación resulta crucial para quienes mantienen expectativas de cambio sobre sus padres , ignorando que el deseo de mejora suele chocar con una falta de voluntad o necesidad de transformación en la generación anterior. En este sentido, afirmó: “ Tus padres probablemente no han ido a la terapia, ni quieren . Los problemas que ves, que deseás que cambien o mejoren, han estado ahí para siempre. No están cambiando ”. Ante este escenario, la especialista propone un ejercicio útil , que consiste en adoptar una perspectiva más compasiva al observar el pasado de los padres: “Y algo que me ha ayudado a desarrollar un nivel de aceptación y amor con mis amigos: es decirme que me dieron todo lo que pudieron basado en su experiencia de vida ”. Si bien el cambio directo del otro no está garantizado, la experta advierte que la dinámica relacional posee una plasticidad oculta, la cual depende exclusivamente del comportamiento de uno mismo. Esto -según Robbins, ocurre “cuando operás sabiendo que la persona no va a cambiar”. En su experiencia personal y profesional, el resultado suele ser positivo cuando se decide alterar el modo de vinculación: “Y lo que he encontrado, de vez en cuand",
+      "link": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-desarrollo-personal-tenes-que-aprender-a-amar-a-tus-padres-por-quienes-son-no-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/FQX2JENVUZEAJJZSKCASXPKWDE.jpeg?auth=56fedbd3f7e8bca2bc127d3e206903d4271791207fcf450c73237fb5350d5a6a&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "34fc9a154a95eaa587e5",
+      "title": "ATERRADOR VIDEO: Falla en sillas voladoras deja varios heridos",
+      "summary": "Una falla en una atracción de sillas voladoras dejó 9 personas heridas en la Feria Estatal del Condado de Wilson, en Tennessee (EE.UU.). Un video captó el momento en que el juego mecánico sufrió el desperfecto mientras estaba en funcionamiento.",
+      "link": "https://actualidad.rt.com/actualidad/623423-falla-sillas-voladoras-heridos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 06:59:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "82bb3dc4c01259cd6740",
+      "title": "Al Caribe en avión privado: el viaje de Massa con su esposa y amigos en medio del retorno a la discusión electoral",
+      "summary": "Sergio Massa y su esposa, Malena Galmarini , actual senadora provincial, viajaron al Caribe la semana en que cumplieron sus “30 años de amor”. Lo hicieron acompañados de un grupo de amigos en un jet privado de lujo, propiedad del grupo empresario que lidera Francisco De Narváez , según confirman registros aeronáuticos y migratorios a los que accedió LA NACION . La comitiva, integrada por siete personas, partió desde el aeropuerto de Montevideo el jueves 13 de agosto a las 6:40 AM, apenas 48 horas después de la cumbre del peronismo en el Hotel Emperador de la que participaron, además de Massa, figuras como Máximo Kirchner , el gobernador Axel Kicillof , Ricardo Quintela , Gildo Insfrán y Gerardo Zamora . La salida desde Montevideo es parte de una aparente maniobra de distracción, que suelen utilizar algunas figuras políticas y de la farándula, porque el avión tiene autonomía para viajar desde Buenos Aires, sin escalas. ¿Cómo llegaron hasta Uruguay? Se habrían movilizado en un avión matrícula LV BBG , que partió esa misma madrugada desde el aeropuerto de San Fernando rumbo a Carrasco. Desde Uruguay, el Gulfstream G-500 del Grupo De Narváez, matrícula N922DN, despegó con todos los pasajeros hacia el aeropuerto de Bridgetown, capital de Barbados, una pequeña república insular desde la que suelen partir cruceros para otras islas del Caribe. La aeronave regresó ese mismo día a Buenos Aires, sin pasajeros. Ante la consulta de LA NACION , fuentes cercanas al exministro de Economía señalaron: “Fue invitado por Francisco De Narváez. Es su amigo hace 16 años. Fue un agasajo por los 30 años de matrimonio con Malena” . Conocida como little England (pequeña Inglaterra), Barbados fue colonizada por el Imperio Británico desde 1627 hasta que declaró -pacíficamente- su independencia, el último día de noviembre de 1966. Además de sus playas paradisíacas, la isla está fuera de la zona de huracanes y es famosa por el secreto bancario. Entre los pasajeros del vuelo aparece Daniel Guerra ",
+      "link": "https://www.lanacion.com.ar/politica/al-caribe-en-avion-privado-el-viaje-de-massa-con-su-esposa-y-amigos-en-medio-del-retorno-a-la-nid20082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:53:29 +0000",
       "source": "La Nacion",
       "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/6OWMTJLIKVBVPEPWDSPIJRRWWA.jpeg?auth=0cf4834991e8e0ef0755b2d3bda7f02128ddee4153763c41282aebd91a4c562b&smart=true&width=1280&height=854"
+      "image": "https://resizer.glanacion.com/resizer/v2/LUUT5IVHZRHQRHGV5OJHDF2W4U.jpg?auth=65869488037a0f06740c5d6fce581ca2ea4e3740282e260bfdf82f4e8d0a3226&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "f05eaf9d75843284217c",
+      "title": "El riesgo de comprarse lo que se quiere vender",
+      "summary": "El relato oficialista , incluidos los datos estadísticos que esgrimen las principales figuras del gobierno libertario, encontró ya hace meses una pared que no logra trasponer y cada día se le está haciendo más alta. Ese muro es la percepción negativa de su experiencia vital que tiene en este momento una amplia mayoría de los argentinos , en virtud de la su capacidad de consumo , la situación del empleo y las expectativas a futuro para sí y para el país. Es la economía. Sin adjetivos. El discurso del Presidente, ayer en la reunión del Consejo de las Américas , en defensa y promoción de sus políticas, expuso con claridad el impacto negativo que esas críticas apreciaciones populares están provocado en el ánimo del elenco gobernante y en particular en el del jefe del Estado. El profundo malestar que le causan a Javier Milei los cuestionamientos y rechazos no fue disimulado por el tono inusual y deliberadamente atemperado que usó para desplegar su argumentación. El Presidente lo compensó largamente con las descalificaciones furibundas que volvió a dedicarle a sus contradictores, entre los que incluyó una vez más a economistas, opositores políticos y periodistas. Al mismo tiempo, en lugar de buscar acercamientos, el discurso vino a retroalimentar la distancia que se viene registrando entre el escenario que relata el Gobierno y el sentir mayoritario de la población . Una disonancia que parece ser motivo de preocupación cada vez mayor entre muchos de los tomadores de decisiones del mundo empresarial y financiero, que ayer compusieron la audiencia en el hotel Alvear y apoyan la orientación, aunque no necesariamente la marcha, de la política económica. Para muchos de los presentes resultó un hecho a destacar que el Presidente parecía haber retrocedido sobre sus propios pasos en cuestiones de empatía social en apenas 72 horas. El lunes pasado, en el acto en homenaje a San Martín, Milei pareció abrir una puerta para revincularse con los sectores más afectados por la marcha de l",
+      "link": "https://www.lanacion.com.ar/politica/el-riesgo-de-comprarse-lo-que-se-quiere-vender-nid20082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:49:14 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/YWHNUTFF25EHZF3OIIC6BGYEZY.jpg?auth=248662e5c97c93cd86d2f529230729b6879d56a8fc758206431e7ad144145cfc&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "9daf61748e4f66e8b50a",
+      "title": "Cerimedo “planificó” el ataque y “dirigió remotamente la emboscada” para matar a su novia, sostiene la acusación fiscal en Bolivia",
+      "summary": "La acusación de los fiscales contra el exasesor presidencial y especialista en campañas electorales Fernando Cerimedo es lapidaria: señala que “dirigió remotamente la emboscada” para matar a su novia Nadia Beller , la presionó para que se encontrara con sus asesinos, controló por teléfono el ataque y luego intentó huir de Bolivia en un avión. Así se desprende de las 24 páginas de la acusación de los fiscales Herlan Rodríguez Cuevas y Yolanda Aguilera Lijerón , publicada por el diario El Deber de Bolivia. Allí se leen las evidencias que recogieron los acusadores para pedir la prisión preventiva sin límite de tiempo contra Cerimedo, o en su defecto la detención preventiva por el plazo máximo que prevé la ley boliviana, que son 180 días . Cerimedo comparecerá mañana ante un juez , donde se le leerá esta acusación y se decidirá si queda preso o no. La acusación de los fiscales señala que Fernando Cerimedo es “con probabilidad autor intelectual y mediato del delito de feminicidio en grado de tentativa” . “Esto se demuestra a través de los diferentes elementos materiales y telemáticos recolectados en el cuaderno de investigación, que evidencian de manera objetiva que el ahora imputado planificó y orquestó el hecho al persuadir sistemáticamente a la víctima Nadia Shirley Beller Delgadillo para que se dirigiera al hotel Swissotel Santa Cruz de la Sierra , bajo la falsa promesa de brindarle escoltas y seguridad”, dice el documento. El texto señala que “aprovechándose de su condición de pareja y padre del hijo que ella llevaba en el vientre (cursando un embarazo de cuatro semanas), facilitó y dirigió remotamente la emboscada para que terceros atentaran contra su vida”. Un tribunal boliviano suspende la audiencia del asesor de Milei acusado en el caso del tiroteo de Beller Los fiscales dicen que se “constató su activa participación mediante las comunicaciones telemáticas , el registro del lugar del hecho, el muestrario fotográfico y su posterior intento de fuga en una aeronave",
+      "link": "https://www.lanacion.com.ar/politica/cerimedo-planifico-el-ataque-y-dirigio-remotamente-la-emboscada-para-matar-a-su-novia-sostiene-la-nid20082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:48:37 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/TPXZQN3STFBPVLAUHFMFAS3CQA.jpg?auth=d6e137b60e29ff33a4f1a68a23bab762912afa0077ec7174be995402256842f6&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "d84463e1681f0660b5d3",
+      "title": "Tormentas en Nueva York: una tromba marina toco tierra y declararon el estado de emergencia",
+      "summary": "NUEVA YORK.- Una tromba marina azotó las costas de Long Island , en Nueva York, y el condado de Nassau declaró el estado de emergencia por la intensidad de las tormentas en la zona. Aunque hasta el momento no se registraron víctimas fatales, las tormentas causaron diversos daños materiales sobre las viviendas de los habitantes de la zona. Según el testimonio de Michael Uttaro , jefe de bomberos del condado de Nassau, los equipos de emergencia descubrieron 30 cabañas destruidas por lo que, según él, “ parecía ser un posible tornado que tocó tierra ”. El único herido por el evento natural fue un trabajador del Surf Beach Club, consignó el medio ABC New York . Por su parte, todos los efectivos que participaron del operativo resultaron ilesos. Quien también se pronunció fue Bruce Blakeman , uno de los representantes del estado de Nassau, quien detalló que “ un tornado tocó tierra en Atlantic Beach y que se estaban evaluando los daños materiales en los clubes de playa Sun and Surf y Silver Point”. Se movilizaron equipos de búsqueda para asegurarse de que no hubiera personas atrapadas en las cabañas dañadas. Drivers navigated flooded streets in East Meadow on Long Island on Thursday evening after heavy downpours rolled through. Find the latest here: https://t.co/FltY02EwMi https://t.co/TM1QAGrre2 pic.twitter.com/FLjYDM3Ux8 Eyewitness News (@ABC7NY) August 21, 2026 Por otro lado, las fuertes tormentas y lluvias provocaron inundaciones en el extremo sur de Long Island, donde algunos automovilistas quedaron atrapados en sus vehículos, lo que provocó operaciones de rescate adicionales. Una tromba marina, o manga de agua, es una columna de aire que gira con fuerza sobre un cuerpo de agua y conecta la superficie con una nube de tormenta . Aunque parecen tornados en el agua, suelen ser más pequeñas y menos intensas, pero pueden volverse peligrosas si se acercan a centros urbanos. Ante la posibilidad de que el cuadro se replique, el Servicio Meteorológico de Estados Unido s (NWS,",
+      "link": "https://www.lanacion.com.ar/el-mundo/tormentas-en-nueva-york-una-tromba-marina-toco-tierra-y-declararon-el-estado-de-emergencia-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:40:45 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/HAEXHFYSEFECHOAGQXJGPL2SDU.png?auth=854b6693d40eae9ac2c4def38d53ac93a7a2271a555cf9c2ff017bc74716d301&smart=true&width=608&height=529"
+    },
+    {
+      "id": "a8bf3db53d0453733454",
+      "title": "¿Cómo ganar músculo después de los 40 sin destrozarte las articulaciones en el proceso?",
+      "summary": "Menos días en el gimnasio no siempre significa menos resultados. En muchos casos, puede ser la fórmula que permite entrenar mejor, recuperarse más rápido y mantener el progreso a largo plazo.",
+      "link": "https://actualidad.rt.com/a-fondo/623421-ganar-musculo-despues-40-anos-sin-castigar-articulaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 06:34:40 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87e01b59bf5b5ddc262e7a.jpg"
+    },
+    {
+      "id": "b645cd46c2e7962dd815",
+      "title": "Fiestas de Gracia",
+      "summary": "Vemos la foto y sabemos que es solo el comienzo. Los Castellers de la Vila de Gràcia preparan la base para una de esas torres humanas –en general, coronadas por un niño o una niña– que todos algunas vez hemos visto (los más afortunados, en vivo y en directo), y que vienen de tener su momento en las Fiestas de Gracia que finalizan hoy. Como suele ocurrir en estos festejos, hay largos días de preparativos, organización y, sobre todo en el caso de los castellers , entrenamiento. Desde el sábado pasado, Gracia –que, para sus habitantes, más que barrio es una vila – viene disfrutando de su gran cita anual. Desde el pregón (este año a cargo del periodista e historiador Vicenç Sanclemente) hasta los bailes, los cantos, las calles y edificios decorados, las comidas, el cine al aire libre, las fiestas de espuma. Tradición contante, sonante y disfrutable; votos por un lazo comunitario que insiste.",
+      "link": "https://www.lanacion.com.ar/cultura/fiestas-de-gracia-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:31:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/PX74E7XNX5G2FGMIA2ERU2PRAU.JPG?auth=c96b10a6bdf8e969ca36b51667b8b8f55183b5c996c9110a5679c87b3da24fbc&smart=true&width=2000&height=1333"
     },
     {
       "id": "f1d2d29cee7a514740b0",
@@ -1771,7 +2029,7 @@
       "pubDate": "Fri, 21 Aug 2026 06:10:30 +0000",
       "source": "RT en Español",
       "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87f162e9ff710f51545aa2.jpg"
     },
     {
       "id": "5787842aa880172a4447",
@@ -1782,16 +2040,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Kakashi-Hatake.jpg"
-    },
-    {
-      "id": "a13bce2cd68e57fd8a93",
-      "title": "¿Necesita el béisbol aun más tecnología para jugadas como el elevado discutido de Pete Alonso?",
-      "summary": "La polémica surgió tras la decisión de foul en un golpe de Alonso, generando debate sobre el uso de tecnología para validar jonrones. El mánager de los Orioles señaló la falta de evidencia clara en video, mientras la MLB evalúa opciones tecnológicas para mejorar el arbitraje.",
-      "link": "https://www.clarin.com/estados-unidos/necesita-el-beisbol-aun-mas-tecnologia-para-jugadas-como-el-elevado-discutido-de-pete-alonso_0_uENsO7kVKD.html",
-      "pubDate": "Fri, 21 Aug 2026 06:00:06 +0000",
-      "source": "Clarin",
-      "cat": "tech",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
     },
     {
       "id": "5e70492d9caa3167aef7",
@@ -1866,6 +2114,16 @@
       "image": ""
     },
     {
+      "id": "181daeb256e0bd03b9bc",
+      "title": "Las tormentas de Valencia y Castellón provocan un incendio forestal en Segorbe, en la Sierra de la Calderona",
+      "summary": "Imagen del fuego desatado en Segorbe, al parecer por un rayo caído durante las tormentas que ayer jueves barrieron la Comunidad Valenciana.",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
+      "pubDate": "Fri, 21 Aug 2026 05:58:02 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/SL447X5L4BBNRITIWURMEQC2EQ.jpeg?auth=5280cd968f05be756ab1b8439c730a2ab441596a50c120f4c6a3ddd7fd41a864"
+    },
+    {
       "id": "50e98c8a88fe04f49670",
       "title": "Alyssa Milano recordó uno de los momentos más difíciles de su vida: “Pedí que me internaran en un psiquiátrico”",
       "summary": "Hay dolores que uno cree superados hasta que algo súbitamente los reabre. Eso le pasó a Alyssa Milano esta semana: el juicio a Lindsay Clancy, la mujer oriunda del estado de Massachusetts acusada de matar a sus tres hijos en 2023 , la llevó a desempolvar un texto propio de 2018 en el que contaba su propia experiencia con la ansiedad posparto , un cuadro que la llevó a internarse en una unidad psiquiátrica poco después de convertirse en madre. Clancy está acusada de haber asesinado a sus tres hijos -Cora, de cinco años; Dawson, de tres, y Callan, de ocho meses- en su casa de Massachusetts. La exasistente obstétrica admitió los hechos, pero su defensa sostiene que actuó bajo los efectos de una psicosis posparto y que no era consciente de las consecuencias de lo que hacía ; se declaró inocente por razón de locura y pide ser derivada a un centro estatal de salud mental en lugar de prisión. Los fiscales, en cambio, afirman que hubo premeditación: aseguran que Clancy planeó los asesinatos al tiempo que pensó y ejecutó una excusa para sacar a su marido, Patrick, de la casa antes de cometerlos. Milano, de 53 años y madre de dos hijos junto a su marido David Bugliari, decidió republicar en su cuenta de Substack el ensayo que había escrito para la revista Time en 2018. “Ahora que el juicio de Lindsay Clancy obliga a una nueva reflexión nacional sobre la enfermedad mental posparto y sobre lo que puede suceder cuando las mujeres piden ayuda pero aun así quedan desamparadas , me parece importante compartirlo de nuevo”, escribió la actriz al presentarlo. Aclaró, eso sí, que se trata de cuadros distintos: “La ansiedad posparto y la psicosis posparto son afecciones diferentes, y mi experiencia no es la misma que la de Lindsay Clancy”, señaló. Sin embargo, encontró un punto en común entre ambas historias: “El juicio ha vuelto a poner de relieve una verdad que las conecta: los síntomas de salud mental materna deben ser reconocidos, creídos y tratados con urgencia ”, agregó. En el ens",
@@ -1884,16 +2142,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/F6E4XHDZ6VBD7J67QLC65VTJOA.jpg?auth=954fde522b8b9d0544d121567aa87b3262bcb727513951492d45028e13e04256&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "588628c17b9e0c9e8b09",
-      "title": "Ángel Di María puso en duda su futuro tras la eliminación de Rosario Central: \"Ahora me va a tocar pensar\"",
-      "summary": "Tras la derrota con Corinthians, Fideo no confirmó su continuidad en Rosario Central. El Fideo reconoció que el golpe fue duro y que ahora deberá pensar qué quiere hacer. El campeón del mundo volvió a dejar en duda su futuro después de quedar afuera de la Libertadores.",
-      "link": "https://www.clarin.com/deportes/angel-di-maria-puso-duda-futuro-eliminacion-rosario-central-ahora-va-tocar-pensar_0_vG6xvOzXFO.html",
-      "pubDate": "Fri, 21 Aug 2026 05:41:23 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/08/21/kySD4IvIs_1200x630__1.jpg"
     },
     {
       "id": "308eaf8852201ebfd1ad",
@@ -1926,66 +2174,6 @@
       "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
-      "id": "db7c7ff7f6ec640b3f28",
-      "title": "Bertín Osborne recuerda a sus hijos al hablar de Venezuela: “No han conocido su país porque yo no puedo ir; me pusieron en búsqueda y captura”",
-      "summary": "El cantante reivindica su fuerte vínculo personal con Venezuela y lamenta que los dos hijos que tuvo con Fabiola Martínez todavía no hayan podido conocer el país de su madre.",
-      "link": "https://www.clarin.com/internacional/bertin-osborne-recuerda-hijos-hablar-venezuela-conocido-pais-puedo-ir-pusieron-busqueda-captura_0_o0y7OMVqFz.html",
-      "pubDate": "Fri, 21 Aug 2026 05:30:34 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/21/lf5LVx9d0_1200x630__1.jpg"
-    },
-    {
-      "id": "ad66ef9b63743beffdae",
-      "title": "La Corte Suprema definió que el gendarme que fingió ser atropellado en la Panamericana irá a juicio",
-      "summary": "Juan López Torales había simulado que fue atropellado durante una protesta de trabajadores de Lear en el 2014. Está imputado por los delitos de \"privación ilegal de la libertad agravada por haber sido cometida con violencia y falso testimonio\".",
-      "link": "https://www.clarin.com/policiales/corte-suprema-definio-gendarme-fingio-atropellado-panamericana-ira-juicio_0_xBCBsuAuk9.html",
-      "pubDate": "Fri, 21 Aug 2026 05:23:30 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/21/UcFuBK7px_1200x630__1.jpg"
-    },
-    {
-      "id": "0d8010fde8979b85667a",
-      "title": "Inesperado visitante 'toma rehén' a un avión de pasajeros e impide su despegue",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/623422-inesperado-visitante-toma-rehen-avion?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 05:18:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "4cdad1d0e73589fa3a1e",
-      "title": "Román, perito de automóviles: \"El renting es ideal para quien odia los imprevistos o cambia de coche a menudo\"",
-      "summary": "El renting gana terreno entre quienes prefieren pagar una cuota fija y evitar gastos inesperados. Un perito de coches explicó qué ventajas ofrece y en qué casos puede terminar saliendo más caro.",
-      "link": "https://www.clarin.com/internacional/roman-perito-automoviles-renting-ideal-odia-imprevistos-cambia-coche-menudo_0_oCAXuKdOcS.html",
-      "pubDate": "Fri, 21 Aug 2026 05:03:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/13/zSgAx4Uz8_1200x630__1.jpg"
-    },
-    {
-      "id": "4ee25aaac650c674cafa",
-      "title": "Tormentas y posibles tornados azotan el noreste de EEUU, inundan carreteras y dañan playas",
-      "summary": "Tormentas severas golpearon el noreste de EE.UU., causando inundaciones en Nueva Jersey y cortes eléctricos en Delaware. Sin heridos graves reportados. Un posible tornado en Long Island dañó propiedades y dejó personas atrapadas. Equipos de emergencia trabajan en rescates y evaluación de daños.",
-      "link": "https://www.clarin.com/estados-unidos/tormentas-y-posibles-tornados-azotan-el-noreste-de-eeuu-inundan-carreteras-y-danan-playas_0_aOdalH4ARy.html",
-      "pubDate": "Fri, 21 Aug 2026 05:00:12 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
-    },
-    {
-      "id": "95f581845d0993016e06",
-      "title": "Astro de Diamondbacks Ketel Marte irá a lista de lesionados por 10 días tras ausencia misteriosa",
-      "summary": "El infielder de Arizona, ausente por lesión, regresa a Phoenix para evaluar su rodilla, en plena lucha por un cupo en los playoffs. El jugador clave de los D-backs, con 21 cuadrangulares, enfrenta un revés en su salud, afectando al equipo en un momento crucial.",
-      "link": "https://www.clarin.com/estados-unidos/astro-de-diamondbacks-ketel-marte-ira-a-lista-de-lesionados-por-10-dias-tras-ausencia-misteriosa_0_UobwiyU1Si.html",
-      "pubDate": "Fri, 21 Aug 2026 05:00:08 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
-    },
-    {
       "id": "b2113bdc76bc869ad462",
       "title": "Naty Franz, pionera del tapping: “Cualquier desequilibrio trae enfermedad”",
       "summary": "Naty Franz , instructora de yoga, creadora del Método NF y pionera del tapping (Técnica de Liberación Emocional) en la Argentina, expuso en el ciclo Conversaciones de LA NACION la importancia y los beneficios que trae esta técnica para las emociones. Para definirlo, la influencer de bienestar sostuvo: “ El tapping es una técnica de liberación emocional que trata de dar unos golpecitos , un golpeteo suave en diferentes puntos del cuerpo. Estamos llenos de puntos que son meridianos donde haciéndolos la energía se equilibra\". “Decimos en yoga y en ayurveda, que es la medicina de yoga, que cualquier desequilibrio trae enfermedad “, sumó. Naty Franz en Conversaciones con Pia Shaw Asimismo, agregó: “Todas tenemos un cuerpo físico, cuerpo energético, cuerpo mental, cuerpo emocional y el cuerpo espiritual. Esto regula toda la emoción. Es como bajamos esa intensidad de miedo, de ansiedad, de estrés, dolor físico, migraña, colon irritable, psoriasis, todo lo que te detona, vos bajás asimilando”. Para explicar esta técnica, Franz sostuvo que no solo consta de realizar golpes suaves en el cuerpo, sino que se deben repetir frases en voz alta, por ejemplo: “Hacemos afirmaciones que decimos, esta emoción que siento ahora, la que sea negativa o que te genere malestar, la acepto total y completamente”. “Cuando yo acepto, que es integrar, hago que esa emoción baje, esa intensidad que es lo que se genera el trauma” , sumó. View this post on Instagram Según la especialista, el acto de aceptar un trauma ayuda a vivir mas tranquilo, ya que se genera por una intensidad, de una emoción fuerte que las personas no pueden equilibrar o asentar en el cuerpo. Es por ello que explicó: “ Cuando yo acepto esto que tengo lo acepto total y completamente y elijo y decimos lo opuesto . Elijo estar tranquila, elijo estar en paz. Elijo pensar bien, conectarme con todo lo que sí puedo hacer, me conecto con mi respiración, puedo estar tranquilo, libero todo lo que hay de tensión”. “Cuando yo hago esto, ens",
@@ -1996,16 +2184,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/KROOC53GQRH37HVC2Z5EIKPHYA.jpg?auth=545f2e897c615be3d639e5a7289ab8981be7088f9d8189943f2940e3b87e979e&smart=true&width=2000&height=1333"
     },
     {
-      "id": "4967a781154ef615d640",
-      "title": "Golpe de precisión: la artillería rusa trunca la rotación de posiciones ucranianas en el Donbass (VIDEO)",
-      "summary": "La dotación de un obús autopropulsado Msta-S, perteneciente a la 385.ª brigada de artillería de la agrupación de tropas Centro del Ejército ruso, frustró una rotación de unidades de las Fuerzas Armadas de Ucrania en las cercanías de la ciudad de Dobropolie, una de las direcciones en las que avanza la ofensiva rusa en el Donbass.",
-      "link": "https://actualidad.rt.com/actualidad/623418-golpe-precision-artilleria-rusa-posiciones-ucranianas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 04:57:24 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87d4ffe9ff710b707e6430.png"
-    },
-    {
       "id": "32081747f593f23bc8ad",
       "title": "De conquistar Europa con España a fichar por el Chapecoense: el largo viaje de Miguel Carvalho",
       "summary": "El Chapecoense ficha a Miguel Carvalho, campeón europeo sub-19 con España",
@@ -2014,36 +2192,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87bd9d08390.jpeg"
-    },
-    {
-      "id": "c7017a4824826a2292f4",
-      "title": "Huevos y yogur griego: el desayuno que puede ayudarte a perder grasa abdominal según el experto Paúl Lucín",
-      "summary": "La propuesta del entrenador personal apunta a comenzar la jornada con alimentos que conduzcan a evitar decisiones impulsivas que pueden llevar a comer de más. También recomienda una estructura sencilla para las principales comidas, con vegetales, frutas, agua y fuentes de proteína como base.",
-      "link": "https://www.clarin.com/internacional/huevos-yogur-griego-desayuno-puede-ayudarte-perder-grasa-abdominal-experto-paul-lucin_0_zYDe0WO1xH.html",
-      "pubDate": "Fri, 21 Aug 2026 04:53:25 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/21/cTSuBXrei_1200x630__1.jpg"
-    },
-    {
-      "id": "d7c5f36aa583ff9e5b1f",
-      "title": "Primer grupo de deportados llega al convulso Haití tras fin del TPS en EEUU",
-      "summary": "Estados Unidos deportó a más de 160 haitianos, marcando el fin del Estatus de Protección Temporal para muchos. El vuelo aterrizó en Cabo Haitiano por seguridad. Activistas y funcionarios advierten sobre el peligro en Haití y la falta de recursos para recibir a los deportados. La violencia de pandillas sigue afectando al país.",
-      "link": "https://www.clarin.com/estados-unidos/primer-grupo-de-deportados-llega-al-convulso-haiti-tras-fin-del-tps-en-eeuu_0_X0vcBfctwV.html",
-      "pubDate": "Fri, 21 Aug 2026 04:40:09 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
-    },
-    {
-      "id": "05eee4fcf765f8dcbb1b",
-      "title": "La Justicia declaró la caducidad del Frente Renovador y no podrá presentar candidatos en Chubut",
-      "summary": "El Juzgado Federal de Rawson N°1 le retiró la personería jurídica al partido de Sergio Massa. La resolución se funda en que hace cuatro años no realiza elecciones internas.",
-      "link": "https://www.clarin.com/politica/justicia-declaro-caducidad-frente-renovador-podra-presentar-candidatos-chubut_0_j3XoO0xH45.html",
-      "pubDate": "Fri, 21 Aug 2026 04:14:10 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2018/10/02/nZWvW_1Hs_1200x630__1.jpg"
     },
     {
       "id": "f8c095827d50dda16400",
@@ -2087,6 +2235,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CRVHX7LIJJFAXHWBB4N67PPFBU.jpg?auth=b4bd7135985ac4141c5c446a0938e720abda6a8f76875f2651380e16aaa62346"
     },
     {
+      "id": "16ec8fe3556b0a1f86e4",
+      "title": "Ocasio-Cortez narra el proceso para congelar sus óvulos mientras se especula sobre su posible candidatura presidencial en 2028",
+      "summary": "Alexandria Ocasio-Cortez en el Capitolio, en Washington, el 25 de marzo.",
+      "link": "https://elpais.com/us/2026-08-21/ocasio-cortez-narra-el-proceso-para-congelar-sus-ovulos-mientras-se-especula-sobre-su-posible-candidatura-presidencial-en-2028.html",
+      "pubDate": "Fri, 21 Aug 2026 04:00:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/6RNVTC3OEJKWPIXS45KTTIF6FE.jpg?auth=93ba49fab021287d2bc3691a6b4fa296ff389f894ce16a00d80fc1157330cbb5"
+    },
+    {
       "id": "c67452a9be82be71439b",
       "title": "Las multinacionales energéticas regresan a Venezuela",
       "summary": "Buque petrolero en Barcelona (Venezuela), el 29 de enero.",
@@ -2105,36 +2263,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/NV6226TP2FDBNELXDQ7ONMJHE4.JPG?auth=187f5fe462df4777a04df66a54228d182f910282f3670f6eeacb3d6f0edfba94&smart=true&width=2048&height=1448"
-    },
-    {
-      "id": "ab84395fa003f9b9d009",
-      "title": "Trump llama \"semineutrales\" a algunos de sus socios clave en Oriente Medio",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/623417-trump-llama-semineutrales-socios-clave?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:50:07 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "ade8d46d2923437b1aa9",
-      "title": "Reportan que el portaviones Abraham Lincoln de EE.UU. abandona Oriente Medio",
-      "summary": "Han trascendido informes sobre las preocupantes condiciones con las que debe lidiar la tripulación de ese barco de guerra.",
-      "link": "https://actualidad.rt.com/actualidad/623396-reportar-retorno-uss-lincoln-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:49:27 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87c7d5e9ff716bf33b7a03.jpg"
-    },
-    {
-      "id": "46857979ed4edfcfbb74",
-      "title": "VIDEO: Drones de ataque rusos frustran un intento de combatientes de Kiev de reforzar sus posiciones en el frente",
-      "summary": "Operadores de drones de ataque rusos aniquilaron varios grupos de combatientes de Kiev mientras intentaban reforzar sus posiciones en la primera línea del frente en la zona de la operación militar especial. Los intentos del enemigo de desplegar refuerzos adicionales y fortalecer las defensas fueron frustrados.",
-      "link": "https://actualidad.rt.com/actualidad/623415-drones-ataque-rusos-frustran-intento-kiev-reforzar-posiciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:45:33 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87c64259bf5b5ddc262e74.jpg"
     },
     {
       "id": "f1bfdbe3b82eca6a70e7",
@@ -2215,7 +2343,7 @@
       "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/5YFJ2ELSEVEAROM6ZA65E2CVRY.jpg?auth=5a070537e509de133ea62b51b936aa55e7d94c7eb22059bb3d379beddc997fcf"
+      "image": "https://imagenes.elpais.com/resizer/v2/N6W4JXVG7JEJJNJSOLWQYU5NJE.jpg?auth=8932584e67182b69e46447b61ba7da95e6982b73ed95ef6427cb2e1e9cd902cc"
     },
     {
       "id": "c467cd6861af7f68335d",
@@ -2228,14 +2356,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/3XWFCNSH7ROGTCASRNMI6UXDBI.jpg?auth=ecbf2468c8b9f0a5502c2600949e33653cdd5f74e03aeed32443b33fdcaeeb02"
     },
     {
-      "id": "85210bcdb9650823dd6a",
-      "title": "Más de dos mil horas de vuelo: Aragón, la región peor dotada contra incendios, es también la que pide más apoyo de las aeronaves estatales",
-      "summary": "Un helicóptero tipo MIKE del Miteco, en el incendio de Las Peñas de Riglos, en Huesca (Aragón), el pasado 14 de agosto.",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-08-19/aragon-la-region-con-menos-medios-de-extincion-por-hectareas-forestales-es-tambien-la-que-pide-apoyo-de-mas-aeronaves-estatales.html",
+      "id": "cd022b42e70188751352",
+      "title": "Ayuso nombra a Gallardón, Aguirre y Cifuentes para un puesto consultivo por el que optan a cobrar decenas de miles de euros al año",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en un acto de entrega de medallas de la Comunidad de Madrid (2023) con los expresidentes Cristina Cifuentes, Joaquín Leguina, Ángel Garrido, Alberto Ruiz-Gallardón, Pedro Rollán y Esperanza Aguirre",
+      "link": "https://elpais.com/espana/madrid/2026-08-21/ayuso-nombra-a-gallardon-aguirre-y-cifuentes-para-un-puesto-consultivo-por-el-que-optan-a-cobrar-decenas-de-miles-de-euros-al-ano.html",
       "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/G2KLX5255BOLDJJLVHW43TYSUQ.jpg?auth=d92d8c370454597d89fd16852282b1efeb4a39ad9f8690415ca488874f36d353"
+      "image": "https://imagenes.elpais.com/resizer/v2/36WGPFNUIFDZTGF62A7LBTFF7A.JPG?auth=f2b1145d6d74d4ef7e5889c87637944eec24ca232cdab755f6d8a1565eedf56c"
     },
     {
       "id": "24f6731fe99247726874",
@@ -2250,12 +2378,12 @@
     {
       "id": "9f2b898133c61648cb7a",
       "title": "Ceuta: se trata de niñas y niños",
-      "summary": "Varias menores en las pistas deportivas del barrio del Príncipe Alfonso, en Ceuta, este miércoles.",
+      "summary": "Varios jóvenes juegan en un polideportivo de El Príncipe, el jueves.",
       "link": "https://elpais.com/espana/2026-08-21/ceuta-se-trata-de-ninas-y-ninos.html",
       "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/LZSKQAVXYBB4DCHPPZGKWWLZUU.jpg?auth=2a2acb219c9ab9bc55d555cbf08a0ad88685d140bde939f2d738bb445aabbfaa"
+      "image": "https://imagenes.elpais.com/resizer/v2/2KMOIGROLVDUJFRITLR5LKPFHU.jpg?auth=5e33a56b031f2720ff039225deb4db8ff8d03468437e2cc57e13cc0e2a656220"
     },
     {
       "id": "348d50581492b574a6ac",
@@ -2308,16 +2436,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/ZCC5F6244RHPNC4Q33RGNTOF3I.jpg?auth=ca664abde96aa03197e4171c76b8a4afaaff63eadfa9d8c98801f8926464b9a6"
     },
     {
-      "id": "cd022b42e70188751352",
-      "title": "Ayuso nombra a Gallardón, Aguirre y Cifuentes para un puesto consultivo por el que optan a cobrar decenas de miles de euros al año",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en un acto de entrega de medallas de la Comunidad de Madrid (2023) con los expresidentes Cristina Cifuentes, Joaquín Leguina, Ángel Garrido, Alberto Ruiz-Gallardón, Pedro Rollán y Esperanza Aguirre",
-      "link": "https://elpais.com/espana/madrid/2026-08-21/ayuso-nombra-a-gallardon-aguirre-y-cifuentes-para-un-puesto-consultivo-por-el-que-optan-a-cobrar-decenas-de-miles-de-euros-al-ano.html",
-      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/36WGPFNUIFDZTGF62A7LBTFF7A.JPG?auth=f2b1145d6d74d4ef7e5889c87637944eec24ca232cdab755f6d8a1565eedf56c"
-    },
-    {
       "id": "df67c958687cd47d182c",
       "title": "De ‘Casablanca’ a ‘Resacón en Las Vegas’: la serie que lleva a los personajes de ‘Star Trek’ a explorar nuevos mundos narrativos",
       "summary": "Rebeca Romijn y Anson Mount siguen al frente de 'Star Trek: Strange New Worlds' en su cuarta temporada.",
@@ -2326,16 +2444,6 @@
       "source": "El Pais",
       "cat": "cinema",
       "image": "https://imagenes.elpais.com/resizer/v2/7F73MWQULZCMBI7HA7SJMEKYMM.webp?auth=6c5203f3ca2f39d83172d674397c7d56a0e0d5616bcb7477344565035bd3e3f7"
-    },
-    {
-      "id": "5a649d2c5612a2cf995e",
-      "title": "Nueva esperanza contra el cáncer",
-      "summary": "Un vial y una jeringa, fotografiados frente al logotipo de Merck.",
-      "link": "https://elpais.com/opinion/2026-08-21/nueva-esperanza-contra-el-cancer.html",
-      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/JB5JYEHCAVJT7GRLOIZB6RFO7A.jpg?auth=ea22407ee9f67f2b755eed7e19c62a058970cafe81e1bc2240203c54a939ad05"
     },
     {
       "id": "0d06c37c652aaf1de22d",
@@ -2479,13 +2587,13 @@
     },
     {
       "id": "eba057a500d5e309e80b",
-      "title": "Los soldados presos nacidos en Ucrania revelan a la BBC por qué combaten en el bando de Rusia contra su propio país",
+      "title": "Los soldados presos nacidos en Ucrania que revelan a la BBC por qué combaten en el bando de Rusia contra su propio país",
       "summary": "Los soldados nacidos en Ucrania que combaten del lado ruso son procesados por traición, pero en un campo de prisioneros de guerra en el oeste de Ucrania, muchos consideran que estaban defendiendo su patria, Rusia.",
       "link": "https://www.bbc.com/mundo/articles/c9d8zzegdvqo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 03:07:57 GMT",
       "source": "BBC Mundo",
       "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e041/live/bafbda70-9cb4-11f1-84cf-fd4cfd9d6c84.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e152/live/46389070-9d2c-11f1-ba3e-c323fd3033f4.jpg"
     },
     {
       "id": "877cdfae4ff01ca9fb33",
@@ -2508,36 +2616,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/YTHAWBKL25BBVJOV77VIB4I5AY.jpg?auth=c051e5625e254fdb426b63715c3b9967c2dbd6cee653eb6d339ee458307c8b2d&smart=true&width=2000&height=1333"
     },
     {
-      "id": "650b5965a1f6b09bbe50",
-      "title": "De enemigos a aliados: el regreso de pumas y yaguaretés",
-      "summary": "Los grandes depredadores de la Argentina comienzan a recuperarse. Su regreso restaura funciones ecológicas clave y genera oportunidades para las comunidades locales. Allí donde pumas y yaguaretés eran percibidos como una amenaza, hoy pueden convertirse en aliados del desarrollo a través del turismo de naturaleza. La historia de pumas y yaguaretés es una de éxito, drama y redención. Los ancestros del puma llegaron a Sudamérica desde Norteamérica, pero la especie habría evolucionado aquí: su fósil más antiguo, de unos 1,2 millones de años, fue hallado en Argentina. Desde Sudamérica, los pumas se expandieron por casi todo el continente. Los yaguaretés aparecen primero en el registro fósil de Norteamérica, hace unos 800.000 años, y luego colonizaron Sudamérica, donde llegaron hasta la Patagonia. Con la colonización europea comenzó el drama. En la Argentina, los pumas fueron erradicados de amplias regiones, especialmente del centro y sur. Los yaguaretés llevaron la peor parte: desaparecieron del 95% de su distribución histórica. Hoy sobreviven menos de 250 individuos y la especie está en peligro crítico de extinción. Ambos felinos fueron perseguidos por depredar ganado ocasionalmente, un conflicto agravado por el avance de la frontera agropecuaria y la disminución de sus presas naturales. En las últimas décadas, varios factores favorecieron el regreso de estas especies. El puma recoloniza naturalmente áreas donde había sido erradicado, por la disminución de la caza de control debido al colapso de la producción ovina. El caso del yaguareté es más complejo: sus poblaciones de Salta, Jujuy y la región chaqueña continúan disminuyendo, mientras que la de población de Misiones muestra una leve recuperación. La gran noticia llega de Corrientes, donde una colaboración inédita entre el gobierno provincial, Parques Nacionales, el Conicet, instituciones de países vecinos y Rewilding Argentina logró un hito: reintroducir la especie en los Esteros del Iberá. Allí, se pasó de cero yag",
-      "link": "https://www.lanacion.com.ar/opinion/de-enemigos-a-aliados-el-regreso-de-pumas-y-yaguaretes-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/LH4YEK6QMBFI7EXQTG34X267OM.jpeg?auth=9a8e230a4072411fc3689636ba3395cc108f880f06012736d7a8ebe7f3eb85cd&smart=true&width=6037&height=3393"
-    },
-    {
-      "id": "0c882627437c94510a64",
-      "title": "Proteger al peatón",
-      "summary": "Caminar saludablemente por la vía pública encierra numerosos e inquietantes riesgos, mucho más si pasamos por alto nuestro enorme nivel de fragilidad cuando interactuamos con otros actores –vehículos de gran porte, autos, motos y bicicletas- sin tomar medidas de cuidado y protección. Tres de cada diez víctimas mortales son peatones en nuestro país , producto de violencias y siniestralidades callejeras que nos amenazan a diario. Desde ya que es justo distinguir entre peatones que se cuidan y peatones audaces que no reparan en peligros. Aplaudimos a quienes recorren la distancia necesaria para llegar hasta la senda peatonal al momento de cruzar, mirando en ambas direcciones y aguardando que el semáforo los habilite. Pero sabemos que son muchos los desaprensivos , aquellos que solo avanzan atentos a sus celulares o con auriculares, distraídos y sin prestar atención a nada más. Al igual que los temerarios, lanzados a cruzar en cualquier parte, esquivando incluso vehículos en una odisea por llegar al otro lado de calles y avenidas. Diversos estudios demuestran que solo el 6% de los peatones cruza correctamente en esquinas con semáforo , algo más en avenidas. En intersecciones sin esa señalética, prácticamente un 30% lo hace de forma incorrecta. A veces solo basta observar los movimientos en una esquina cualquiera para proponer un verdadero análisis socio-psicológico sobre esta especie urbana. El bastardeado principio que establece la “ prioridad del peatón ” cuando los vehículos encaran un giro, pone en evidencia características de personalidad que se revelan en acción mejor que con muchos test. Desde quien nunca abandonará el cordón de la vereda ante el tránsito incesante de vehículos, pasando por aquel que entiende el riesgo de ganar la bocacalle y amaga con cruzar a la espera de la “gentileza” de algún conductor, hasta llegar a los más intrépidos que, incluso con una mano extendida, pretenden detener el tránsito para cruzar, profiriendo maldiciones o agradecimientos -",
-      "link": "https://www.lanacion.com.ar/editoriales/proteger-al-peaton-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/RPSPO5TLT5G65JQLGEUEQZ7MLM.jpg?auth=d95969742d296debd787fe24c4539efca0cedcdb5539c929b00e95d6bcb6645f&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "f660b83808dfe20283a6",
-      "title": "¿Todavía se puede emigrar a Estados Unidos?",
-      "summary": "Una pregunta recurrente en los últimos días ha sido: ¿todavía se puede emigrar a Estados Unidos? Sí, todavía se puede. Estados Unidos sigue siendo un país de oportunidades para quienes buscan crecer profesionalmente, invertir, estudiar, emprender o construir una nueva vida junto a su familia. Pero también es cierto que el contexto cambió. Hoy emigrar requiere más información, más planificación y menos improvisación. No alcanza con escuchar que “a alguien le funcionó” o con iniciar un trámite sin entender bien qué implica. En los últimos meses, las noticias sobre controles y detenciones migratorias generaron preocupación. Y una pregunta se repite cada vez más: “Si tengo un trámite migratorio pendiente, ¿estoy legal?” La respuesta no siempre es tan simple . Y justamente por eso es importante hablar de este tema con claridad, sin alarmar, pero también sin generar falsas seguridades. Tener un trámite pendiente no siempre significa estar protegido. Pensemos en una situación común. Una persona entra legalmente a Estados Unidos con una visa, presenta una solicitud migratoria y, mientras espera la respuesta, recibe un permiso de trabajo, obtiene un número de Seguro Social, saca una licencia de conducir y paga impuestos. Es lógico que piense: “Estoy haciendo todo bien”. Y muchas veces es así. Pero tener documentos o una solicitud pendiente no siempre cuenta toda la historia migratoria de una persona. Hay diferencias importantes entre tener un caso en trámite, conservar un estatus vigente y estar realmente fuera de riesgo migratorio. La forma de ingreso, las fechas de vencimiento, el tipo de solicitud y los antecedentes pueden cambiar por completo el análisis. También es importante entender otra cosa: una detención migratoria no significa necesariamente que la persona haya cometido un delito ni que vaya a ser deportada automáticamente. Detención, proceso migratorio y deportación son instancias distintas. En muchos casos pueden existir opciones, defensas o recursos. Pero para ",
-      "link": "https://www.lanacion.com.ar/opinion/todavia-se-puede-emigrar-a-estados-unidos-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:05:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/G6YCWWRWGFCAJEBAE2ZEFN2VAM.jpg?auth=cf07c8b3ad9184d26adfb652983133f0a3deb161cd02f5c60333dcca5f3fa993&smart=true&width=7008&height=4672"
-    },
-    {
       "id": "0f94ee8a756bf3cb587d",
       "title": "Vengadores: Doomsday convierte a Doctor Doom en la amenaza definitiva",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Los hermanos Joe y Anthony Russo han explicado qué les fascina de Doctor Doom y por qué puede es la nueva gran amenaza de Vengadores: Doomsday . Su lectura del personaje, profundamente ligada a Secret Wars y Time Runs Out de Jonathan Hickman , ha conseguido algo nada fácil: entusiasmar incluso a muchos de los fans que todavía desconfiaban del nuevo rumbo del MCU. Los Russo parecen tener muy claro cómo debe ser Doctor Doom en Vengadores: Doomsday Vengadores: Doomsday tiene delante una tarea bastante más complicada de lo que parece. Marvel Studios no solo necesita construir el siguiente gran evento del MCU después de Infinity War y Endgame, sino convencer al público de que Doctor Doom puede ocupar el enorme espacio que dejó Thanos. Y las primeras palabras de Joe y Anthony Russo sobre el personaje apuntan justo en esa dirección. Los directores han regresado a Marvel después de haber firmado Capitán América: El Soldado de Invierno, Capitán América: Civil War, Vengadores: Infinity War y Vengadores: Endgame. No es precisamente un currículum menor. Ahora tienen entre manos Vengadores: Doomsday y Vengadores: Secret Wars, dos películas que podrían redefinir por completo la franquicia. En el prólogo de la nueva edición Marvel Premier Collection de Time Runs Out, los Russo han repasado la importancia que tuvieron para ellos tanto las Secret Wars originales de 1984 como la reinterpretación que Jonathan Hickman y Esad Ribic publicaron en 2015. Y cuando empiezan a hablar de Doom, queda bastante claro que no lo ven simplemente como «el siguiente villano». La declaración completa de los Russo sobre Secret Wars y Doctor Doom «Jonathan Hickman creó una historia que se sentía enorme, pero también increíblemente personal», escribieron los directores. «Seguía a un universo llevado hasta el límite y planteaba una pregunta sencilla que tenía un peso real: ¿qué queda cuando todo lo demás se derrumba?». «Nuestro objetivo [cuando ",
@@ -2548,57 +2626,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/doctor-doom.jpg"
     },
     {
-      "id": "d6cbccb22e58f00151fe",
-      "title": "Trasladaron a un santuario a la elefanta del zoo, pero murió a los 176 días, ¿valió la pena?",
-      "summary": "A fondo El precio de la libertad Trasladaron a un santuario a la última elefanta del zoo porteño. Pero murió a los 176 días. ¿Valió la pena? Texto: Nicolás Cassese Narrativa visual: Florencia Abd y Alejandro Bogado 21 de agosto de 2026",
-      "link": "https://www.lanacion.com.ar/sociedad/cuanto-vale-la-libertad-trasladaron-a-un-santuario-a-la-elefanta-del-zoo-pero-murio-a-los-176-dias-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/W7XZZYRJ6FAVNPEDIXLBG77RQQ.jpg?auth=dbf516956dea6bfcb1ae020d572bc5e41b7ea4e245477eadb9ed14ceefde22e8&smart=true&width=600&height=400"
-    },
-    {
-      "id": "5675256dd35e98e98b55",
-      "title": "Después de 10 años de trabajar para abrir un restaurante propio, tiene dos recomendados por la Guía Michelin",
-      "summary": "Pasó una década de formación en Europa alternando trabajos en restaurantes convencionales con pasantías gratuitas en establecimientos Michelin con jornadas de 16 horas. Más tarde circuló por distintas cocinas porteñas (algunas de las cuales dejaron huella) y fue ese recorrido el que le permitió, a sus 40 años, abrir no solo un restaurante sino dos, que le valieron tanto el reconocimiento del público como el de la Guía Michelin. “Antes de abrir Picarón le dije a mi mujer: ‘Esta es la última prueba que hago en Argentina. Hace 10 años que estoy probando, si esto no sale nos volvemos a Europa’. Y por suerte funcionó”, recuerda hoy el chef Maximiliano Rossi. Abierto en pandemia, su Picarón fue uno de los restaurantes que consolidó a Chacarita como indudable polo gastronómico; en Ultramarinos, que llegó al Barrio Chino en 2024, se jugó en cambio con una propuesta íntegramente dedicada al Mar Argentino que, rápidamente, obtuvo reconocimiento de la crítica internacional. “Mirando para atrás mi historia, veo que cada dos o tres años siempre estoy en un lugar diferente”, agrega el cocinero nacido en Brasil –“brasileño solo tengo el pasaporte”–, formado en Europa y que ahora, mientras celebra los dos años de Ultramarinos, planea la apertura de un bar de pastas alejado de los polos gastronómicos. “Desde chico a mí me gusta comer –cuenta–. Veía mucho los programas de Utilísima y siempre me pareció un muy buen plan salir a comer. Un amigo de mis viejos tenía un restaurante y yo ya con menos de 12 años quería estar ahí. Era una época en la que no era súper canchero ser cocinero. De hecho, las cocinas eran lugares escondidos en el fondo donde había más gente de oficio que de profesión. Cuando llegó el momento de decidir qué iba a hacer se lo plantée a mis viejos. Me dijeron ‘si es lo que te hace feliz, te apoyamos’, y me me llevaron a un restaurante. Yo estaba emocionado porque era uno bueno, y me dijeron: ‘Vos vas a estar ahí atrás trabajando, no vas a estar acá comiendo con nosot",
-      "link": "https://www.lanacion.com.ar/sabado/se-formo-en-europa-volvio-al-pais-y-despues-de-10-anos-de-trabajar-para-abrir-un-restaurante-propio-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/KNBDV274LFEZ3JQ3LGZUYCXUB4.jpg?auth=8464db8af44a80cb86266c69358e542eba63e4460296e2d603a629ff419cbb3d&smart=true&width=2000&height=1331"
-    },
-    {
-      "id": "caff1f4ab2505172cb21",
-      "title": "¿Conviene más comprar un 0km o un usado en agosto 2026? Lo que dicen los especialistas",
-      "summary": "Mientras que los vehículos nuevos cuentan con el respaldo de la garantía y suelen ofrecer mejores condiciones de financiación, los usados requieren un desembolso inicial menor y permiten acceder a modelos de segmentos superiores con un presupuesto similar. “Hoy el mercado ofrece oportunidades tanto para quienes buscan un 0km como para quienes prefieren un usado , y la elección depende del perfil de cada comprador”, explicó Julián Lapido, gerente de Marketing de Car One. Es uno de los autos más baratos del mercado y consume apenas 4,8L cada 100km En el caso de los vehículos nuevos, uno de los principales atractivos está en las herramientas financieras ofrecidas por las terminales . “Las tasas promocionales, los plazos y las campañas de las terminales hacen que acceder a un vehículo nuevo sea hoy más viable que hace algunos años”, señaló Lapido. En Car One, precisó, el 33,9% de las operaciones de 0km realizadas durante los últimos dos años incluyó algún tipo de financiación. La situación, sin embargo, no alcanza a todo el mercado por igual. Alejandro Lamas, secretario de la Cámara del Comercio Automotor (CCA), consideró que todavía existe margen para mejorar las condiciones crediticias, especialmente en el segmento de los usados . “En financiación se tienen que bajar las tasas y deben aumentar los años de antigüedad de los vehículos para los cuales se puede financiar. Sentimos que las tasas no están acompañando en este momento” , sostuvo. El usado, una puerta de entrada a segmentos superiores Para quienes disponen del dinero o necesitan resolver la compra rápidamente, el usado conserva algunas ventajas concretas. “El usado sigue siendo una alternativa muy competitiva para quienes priorizan un menor desembolso inicial, disponibilidad inmediata o la posibilidad de acceder a un segmento superior por un presupuesto similar” , afirmó Lapido. Lamas coincidió con esa lectura y señaló que la conveniencia del usado se vuelve más evidente entre quienes buscan determinado nivel ",
-      "link": "https://www.lanacion.com.ar/autos/conviene-mas-comprar-un-0km-o-un-usado-en-agosto-2026-lo-que-dicen-los-especialistas-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/I5Q2CBPHMFFFFIHASJYUQZ2PPE.png?auth=97b7521359986d34454abe5e75a3a751e4a5deac5f8013748ea9a7b3e9d68e3c&smart=true&width=1536&height=1024"
-    },
-    {
-      "id": "3009491942f6ec02c777",
-      "title": "Así es el nuevo SUV chino que consume 4,3L cada 100km",
-      "summary": "Great Wall Motor (GWM) incorporó a su oferta el Haval H6 Pro HEV, un SUV del segmento C (mediano) que, por sus características, se posiciona como uno de los productos más destacados del Grupo Antelo dentro de su segmento. Esta consideración se explica por varios de sus puntos fuertes; al tratarse de un híbrido convencional (HEV) permite alcanzar consumos de hasta 18 km/L en uso mixto, pero sin resignar prestaciones: entrega 243 CV de potencia y 530 Nm de torque, cifras que se hacen notar al volante (sobre todo en su modo de manejo deportivo). A esto se suma un buen nivel de tecnología y equipamiento de seguridad, con una dotación a la altura de lo que ofrecen el resto de los competidores del segmento C-SUV. Para comenzar el análisis, lo primero que llama la atención de este modelo es su diseño frontal, con una parrilla de grandes dimensiones que domina buena parte del conjunto y le aporta una presencia contundente. El frente se completa con un patrón de formas geométricas que recuerda a una trama de “escamas”, mientras que los elementos verticales ubicados a los laterales de la parrilla generan una suerte de “colmillos” que refuerzan su aspecto agresivo. En conjunto, es un diseño moderno y llamativo, con una estética que busca diferenciarlo dentro de un segmento cada vez más poblado. Una vez dentro del habitáculo, las butacas delanteras resultan cómodas y cuentan con regulación eléctrica. El espacio de guardado también es generoso, con un sector central amplio para dejar objetos. A esto se suma un cargador inalámbrico por inducción y conectividad inalámbrica con la central multimedia de 14,6 pulgadas, que ofrece una interfaz rápida y una conexión sencilla con el celular. Durante el test, el sistema no presentó inconvenientes de funcionamiento. A su vez, dispone de un tablero instrumental de 10,25 pulgadas que se diferencia de lo que suele encontrarse en buena parte de los autos chinos, donde muchas veces se sobrecarga de información y puede resultar difícil de inter",
-      "link": "https://www.lanacion.com.ar/autos/asi-es-el-nuevo-suv-chino-que-consume-43l-cada-100km-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/ASTOHVIVBVFTXOWUTAQGROZDWE.png?auth=e39a474a74fdd1a84efa01e98b3bffc5f881d1cd7419d56cec0c38618ae1a181&smart=true&width=1536&height=1024",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "3895638d5561d193cc31",
-      "title": "Las portadas en Inglaterra con Arteta son para verlas...",
-      "summary": "Así vienen los periódicos deportivos de este viernes 21 de agosto de 2026.",
-      "link": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html",
-      "pubDate": "Fri, 21 Aug 2026 01:50:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87923fe0dd7.jpeg"
-    },
-    {
       "id": "9f2a7e109324e6ecc011",
       "title": "Ghost Rider: Shawn Levy revela cómo será Ryan Gosling en el papel",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com El cineasta Shawn Levy, que se alista para dirigir Ghost Rider , se ha caracterizado a lo largo de su carrera por establecer alianzas creativas consolidadas con actores específicos en distintas etapas de su filmografía. Si durante años mantuvo un vínculo cercano con Ben Stiller en la franquicia de Night at the Museum, para posteriormente colaborar con Ryan Reynolds en Free Guy , The Adam Project y Deadpool , en la actualidad su principal socio creativo se ha convertido en Ryan Gosling. Tras haber trabajado juntos en el largometraje Star Wars: Starfighter , el director y el actor continuarán su relación profesional bajo el sello de Disney para llevar a cabo el reinicio de Ghost Rider dentro del Universo Cinematográfico de Marvel. Durante una conversación concedida a la revista People en el marco del evento D23 , Levy reflexionó sobre la dinámica de trabajo que ha desarrollado con Gosling: «Algunos actores son grandes musas, ¿sabes? Ciertos intérpretes son sencillamente extraordinarios en pantalla y te inspiran al contar una historia. Lo particular de Gosling es que, además de ser una gran musa e inspirar al equipo, es un socio creativo excepcional». El realizador profundizó en la atención al detalle que caracteriza al actor dentro del plató: «Piensa como un creador integral. Es un artista. Es un actor increíble, pero también está atento a la iluminación o a la textura de las telas en la escenografía. Absolutamente todo pasa por su radar», agregó Shawn Levy . El origen de Ghost Rider y la visión presentada a Kevin Feige Levy detalló cómo el proceso de filmación de Starfighter sirvió como catalizador para planificar de inmediato su siguiente colaboración juntos en el género de superhéroes: «Esta colaboración se sintió sumamente positiva para ambos. Se construyó una relación de confianza mutua. Nos dimos cuenta de que nos exigíamos para lograr un mejor trabajo gracias al otro. Por eso, tras concluir el rodaje",
@@ -2607,36 +2634,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/FotoJet-2026-07-25T201657.503.jpg"
-    },
-    {
-      "id": "3b91a625bd5d63ebff8a",
-      "title": "Betis - Real Sociedad | Clásicos enemigos",
-      "summary": "Los dos equipos pelearán una temporada más en LaLiga por los puestos europeos. Abde no llega a tiempo y Oyarzabal será suplente. La Cartuja trae muy buenos recuerdos a los donostiarras",
-      "link": "https://www.marca.com/futbol/primera-division/2026/08/21/betis-real-sociedad-clasicos-enemigos-previa-analisis-pronostico-prediccion.html",
-      "pubDate": "Fri, 21 Aug 2026 00:47:32 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8720ef6914e.jpeg"
-    },
-    {
-      "id": "89b9f8227280e19d29ac",
-      "title": "Camello no se calla: \"Para la gente que tendría que haber venido...\"",
-      "summary": "Camello conduce el balón perseguido por Boyé.",
-      "link": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html",
-      "pubDate": "Fri, 21 Aug 2026 00:07:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a877a4b2775e.jpeg"
-    },
-    {
-      "id": "53291da071d523dc170b",
-      "title": "Veterano con 26",
-      "summary": "Vinicius, durante el calentamiento ante el Schalke 04.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html",
-      "pubDate": "Fri, 21 Aug 2026 00:02:06 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/19/6a86031e6602d.jpeg"
     },
     {
       "id": "0d5af4f56713bc2277aa",
@@ -2786,8 +2783,8 @@
       {
         "name": "Claude",
         "type": "Modelo",
-        "badge": "Trending",
-        "cls": "rb-green"
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "Copilot",
@@ -2798,5 +2795,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-21T06:34:04.648902+00:00"
+  "updated": "2026-08-21T08:31:45.285732+00:00"
 }
