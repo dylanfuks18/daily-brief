@@ -175,16 +175,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "d71f435151491b150bc9",
-      "title": "Confirman el regreso de Jensen Ackles a Tracker temporada 4",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Jensen Ackles volverá a Tracker en su temporada 4 y, esta vez, Russell Shaw no regresará simplemente para echar una mano a su hermano. Justin Hartley ha confirmado su incorporación y adelantado una historia que puede obligar a Colter a devolverle el favor después del enorme secreto con el que terminó la tercera temporada. Jensen Ackles volverá como Russell Shaw en Tracker La temporada 4 de Tracker ya tenía suficientes cambios importantes sobre la mesa, pero faltaba resolver probablemente la incógnita que más preocupaba a los seguidores de la serie: qué iba a pasar con Jensen Ackles. Russell Shaw se ha convertido en mucho más que una estrella invitada recurrente y, cada vez que aparece, la trama familiar de Colter vuelve a ponerse realmente interesante. Justin Hartley ha terminado finalmente con las especulaciones. Durante su participación en Televerse 2026, el protagonista y productor ejecutivo de Tracker confirmó que Ackles regresará y dejó caer que su incorporación al rodaje será prácticamente inmediata. «Sí, va a volver. De hecho, estará aquí la semana que viene» , explicó Hartley antes de elogiar la ética de trabajo, el carisma y la preparación de su compañero. Jensen Ackles y Justin Hartley en Tracker La confirmación resulta especialmente significativa porque Jensen Ackles tiene actualmente otra franquicia importante entre manos. El actor protagoniza Vought Rising, la precuela de The Boys prevista para 2027, por lo que su disponibilidad para Tracker nunca podía darse por garantizada aunque él mismo hubiese mostrado anteriormente su disposición a regresar. Ahora ya no hablamos de posibilidades. Russell Shaw está de vuelta. Russell será quien necesite la ayuda de Colter Lo más interesante de las declaraciones de Hartley no es únicamente que Jensen Ackles aparecerá en Tracker temporada 4. También ha adelantado qué provocará el reencuentro de los hermanos, y la serie parece dispuesta a darle la vuelta a ",
-      "link": "https://www.cinemascomics.com/confirman-regreso-jensen-ackles-tracker-4/",
-      "pubDate": "Wed, 19 Aug 2026 14:01:06 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Jensen-Ackles-en-Tracker.jpg"
-    },
-    {
       "id": "94dcbac6cb68c109a5e5",
       "title": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento",
       "summary": "La última actualización de Microsoft Defender está provocando fallos graves en su funcionamiento , ya que el antivirus no logra completar los análisis rápidos, los análisis completos ni los análisis sin conexión. La historia se repite y las actualizaciones de Windows o de algunos de sus componentes principales son un auténtico dolor de cabeza. Defender es el sistema de seguridad informática integrado en Windows y Microsoft publica periódicamente definiciones actualizadas con el fin de protegerse contra nuevas amenazas. La última actualización de Microsoft Defender estaba destinada a solucionar una vulnerabilidad 0-Day, pero el problema, como en otras ocasiones, es que una actualización provoca más problemas de los que soluciona. Al intentar solucionar esta vulnerabilidad, Microsoft parece ha dañado los análisis de Defender , ya que los usuarios informan que no pueden completar los análisis de virus y malware en sus sistemas . Tanto los análisis rápidos como los análisis completos del sistema parecen estar afectados, y varios usuarios de Reddit reportan problemas similares tras instalar la última actualización de seguridad de Windows. Un usuario de Reddit informó que tanto el análisis rápido como el análisis completo fallan cuando están casi terminados, mientras que el análisis sin conexión se queda atascado en el 91%. Los usuarios están experimentando un fallo en el Visor de eventos con el código de error 0x000005, que apunta a mpengine.dll, un componente del motor antimalware de Microsoft. Además, han observado errores de sesión de DefenderApiLoggerLowPriv en el Visor de eventos durante varios días. Curiosamente, el análisis manual de toda la unidad parece funcionar correctamente , lo que sugiere que el problema podría estar relacionado con la forma en que Defender gestiona ciertas operaciones de análisis. Investigadores de ESET explican que «las versiones del Defender afectadas por son v1.1.26070.7 y v1.1.26080.2 cuando se utilizan con las siguientes versiones de ",
@@ -441,17 +431,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb5e/live/6798bec0-9a2f-11f1-90d9-9d833c0912f2.jpg"
     },
     {
-      "id": "0c704f3b3b0d556cfc97",
-      "title": "GeForce Now llega a Firefox: la colaboración con Mozilla fue clave",
-      "summary": "GeForce Now es un servicio de juego en la nube, y como cualquier servicio es algo vivo que no solo tiene que funcionar correctamente, sino que además tiene que mejorar constantemente para seguir siendo competitivo, una realidad que NVIDIA ha sabido interiorizar , y a la que ha dado respuesta con una nueva ampliación de la disponibilidad de este servicio, que por fin llega a Firefox. Si eres usuario de conocido navegador de Mozilla ahora puedes disfrutar de GeForce Now en todas sus modalidades, incluyendo la opción gratuita, que nos da acceso a un servidor básico para jugar en 1080p con hasta 60 FPS, y también la opción «Ultimate» con GeForce RTX 5080 , que es de pago y nos permitirá jugar disfrutando de una experiencia cercana a la que tendríamos con un PC gaming de gama alta en local. Jugar directamente desde Firefox tiene grandes ventajas: no tendremos que instalar nada en nuestro PC, y tampoco tendremos que cumplir con ningún tipo de requisito exigente más allá de los necesarios para mover el sistema operativo y el navegador. Esto quiere decir que no tendremos que esperar a instalar un juego, y que tampoco nos tendremos que preocupar por sus actualizaciones. Al jugar bajo Firefox podremos disfrutar de más de 5.000 juegos, un catálogo que se irá ampliando gradualmente. Firefox lo ha celebrado ampliando sus opciones de personalización, lo que significa que podremos crear una ventana especialmente decorada para utilizar GeForce Now y así diferenciarla del resto para que no sea una ventana más. Con este navegador podremos, además, tener una llama de Discord al mismo tiempo y ejecutarla en vista partida, y también tendremos la posibilidad de buscar guías entre partidas y cambiar entre pestañas sin problema. A la hora de vincular nuestros juegos favoritos no cambia nada con respecto a la opción basada en el cliente, ya que podremos vincular los juegos que tengamos en Steam, Epic Games Store, GOG, Xbox PC Game Pass y en Ubisoft Connect de una manera sencilla, rápida y s",
-      "link": "https://www.muycomputer.com/2026/08/18/geforce-now-llega-a-firefox-la-colaboracion-con-mozilla-fue-clave/",
-      "pubDate": "Tue, 18 Aug 2026 15:10:30 +0000",
-      "source": "MuyComputer",
-      "cat": "ia",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/geforce-now-login.jpg",
-      "subcat": "mercado"
-    },
-    {
       "id": "a0579c6db4e8a34d3a5a",
       "title": "La publicidad de ChatGPT llegará a España “a partir de finales de este mes”",
       "summary": "Sinceramente, no suelo leer mails con asuntos tan genéricos como &#8220;Actualizaciones de la Política de privacidad de OpenAI&#8221;. Pero claro, es cuestión de echarle un vistazo en detalle y darte cuenta de que ese mail tan aparentemente anodino, con un asunto tan anodino, escondía una sorpresa bastante importante. Los anuncios de ChatGPT están a punto de llegar a España . Y a la UE, en general. La publicidad de ChatGPT llega a los usuarios gratuitos A través de ese comunicado, OpenAI ha anunciado que a partir de finales de este mes pueden comenzar a aparecer anuncios en las versiones Gratis y Go de ChatGPT. Mientras tanto, los planes de pago, como Plus, Pro, Enterprise, Business y Educación, seguirán estando totalmente libres de publicidad. En el correo, que OpenAI ha enviado a sus usuarios europeos, se explica que durante esta primera fase los anuncios no serán personalizados, sino que se seleccionarán únicamente según el tema de la conversación que este desarrollando y en base a datos contextuales básicos como la ubicación o el tipo de dispositivo que utilizas. Además, OpenAI asegura que no utilizará el historial de chats ni la memoria para decidir qué publicidad mostrar. Más adelante, la compañía solicitará permiso explícito a los usuarios si desean activar la personalización publicitaria, opción que se activará o desactivará en cualquier momento desde los ajustes de privacidad. Desde el punto de vista de la privacidad y la experiencia de uso, OpenAI destaca que los anuncios no influirán en las respuestas que genera la inteligencia artificial y estarán claramente diferenciados del contenido de los chats. Además, la empresa garantiza que los anunciantes no accederán a información privada: &#8220;Tus datos personales y conversaciones con ChatGPT permanecen privados y no se comparten con anunciantes. Los anunciantes no tienen acceso a tus chats, tu historial de chats, tus recuerdos ni tus datos personales&#8221;. Así, las marcas solo recibirán métricas generales",
@@ -525,36 +504,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "51361ad5835ee9d9a2f0",
-      "title": "\"Por favor, pido que el siguiente partido se juegue en Vallecas\"",
-      "summary": "El técnico vasco habló sobre el encuentro ante el Deportivo Alavés con los medios",
-      "link": "https://www.marca.com/futbol/rayo/2026/08/20/benat-san-jose-plus-energia-imaginarme-vallecas-lleno.html",
-      "pubDate": "Thu, 20 Aug 2026 23:46:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/dbSDg1gXtWSI9zXmo.jpeg"
-    },
-    {
-      "id": "e91d555f91ed7b2aa736",
-      "title": "Musiala será baja en la Supercopa pero el Bayern le espera para el debut liguero",
-      "summary": "Jamal, retirándose tras el mareo.",
-      "link": "https://www.marca.com/futbol/bundesliga/2026/08/20/musiala-sera-baja-final-sabado-bayern-le-espera-debut-liguero.html",
-      "pubDate": "Thu, 20 Aug 2026 23:30:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87700e5e942.jpeg"
-    },
-    {
-      "id": "4160dea7a0bd15ed8985",
-      "title": "Mariano supera su límite",
-      "summary": "Mariano celebra su gol.",
-      "link": "https://www.marca.com/futbol/alaves/2026/08/20/vez-mariano.html",
-      "pubDate": "Thu, 20 Aug 2026 23:29:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8771551c81b.jpeg"
-    },
-    {
       "id": "971f6b2f5febec55597b",
       "title": "Rayo Vallecano 1-1 Alavés | Resumen LaLiga",
       "summary": "",
@@ -563,16 +512,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a876f6ca14ce.jpeg"
-    },
-    {
-      "id": "c3ea37975f0ab5e7b6e2",
-      "title": "Míchel y Carlos Vicens, un paso más cerca de la Conference",
-      "summary": "Míchel y Carlos Vicens",
-      "link": "https://www.marca.com/futbol/conference-league/2026/08/20/michel-carlos-vicens-estan-paso-cerca-conference.html",
-      "pubDate": "Thu, 20 Aug 2026 23:12:50 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a876168f1ee3.jpeg"
     },
     {
       "id": "627ebb9cbe4070f735f5",
@@ -615,16 +554,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fea/live/4d0d9ec0-9ce8-11f1-8572-177940d51932.jpg"
     },
     {
-      "id": "3dc9b2cc10c96396777e",
-      "title": "Alerta Batalla... y ojo también con Isi",
-      "summary": "Batalla tuvo que abandonar el césped de Butarque en camilla.",
-      "link": "https://www.marca.com/futbol/primera-division/2026/08/20/doble-mazazo-alaves-isi-retira-minuto-15-batalla-abandona-partido-camilla.html",
-      "pubDate": "Thu, 20 Aug 2026 22:34:01 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a876543acf58.jpeg"
-    },
-    {
       "id": "f2604fa2536e502030f6",
       "title": "Jokic gana a Wembanyama rozando el triple-doble",
       "summary": "Jokic ante Wembanyama en el partido de Belgrado.",
@@ -655,16 +584,6 @@
       "image": "https://static.eldiario.es/clip/b0e2b624-e90d-47e9-ac25-861da8f94067_16-9-discover-aspect-ratio_default_0_x679y201.jpg"
     },
     {
-      "id": "70ea482c10f8d0e34360",
-      "title": "Las primeras palabras de Ronaldinho al llegar a Ravenna: \"Estoy aquí para ayudar\"",
-      "summary": "El jugador brasileño habló junto con el presidente del conjunto italiano",
-      "link": "https://www.marca.com/futbol/2026/08/20/primeras-palabras-ronaldinho-llegar-ravenna-aqui-ayudar-video.html",
-      "pubDate": "Thu, 20 Aug 2026 22:08:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/dbECc1gXrkw7ae62j.jpeg"
-    },
-    {
       "id": "f1ef6a00de251f9a5423",
       "title": "KPop Demon Hunters se enfrenta a una demanda que acusa a Netflix de explotar una marca registrada",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com KPop Demon Hunters se ha convertido en uno de esos fenómenos que trascienden rápidamente la película que los originó. El éxito de la producción animada ha llevado su música, sus personajes y su imagen mucho más allá de Netflix, hasta el punto de impulsar merchandising, una gira internacional y una secuela que ya está en desarrollo. Precisamente esa expansión comercial es ahora el centro de un conflicto legal inesperado: Demon Hunter, banda estadounidense de metal cristiano fundada en 2000, ha demandado a Netflix y AEG Presents por infracción de marca y competencia desleal . La demanda, presentada a través de Hyde Lane, la compañía vinculada al grupo, sostiene que el crecimiento de KPop Demon Hunters está invadiendo un territorio comercial en el que Demon Hunter lleva más de dos décadas trabajando. Sus responsables consideran que la enorme diferencia de tamaño y alcance entre ambas marcas amenaza incluso con alterar la percepción del público sobre quién utilizó primero el nombre. Netflix, sin embargo, no parece dispuesta a negociar esa interpretación. La plataforma ya ha respondido oficialmente y califica las acusaciones de «carentes de fundamento» , anticipando que defenderá con firmeza una de sus propiedades más valiosas. Demon Hunter acusa a Netflix de aprovechar su enorme poder comercial Según la información recogida por TheWrap , Demon Hunter presentó la demanda el martes contra Netflix y AEG Presents, alegando «infracción de marca y competencia desleal» por el uso de KPop Demon Hunters . La inclusión de AEG no es casual: la promotora participa en la gira mundial anunciada en mayo de 2026, planteada para recorrer aproximadamente 150 ciudades. Es precisamente ahí donde el conflicto adquiere una dimensión diferente. Si KPop Demon Hunters se hubiese limitado a ser el título de una película, la posible convivencia entre ambas denominaciones sería más sencilla de defender. Sin embargo, el fenómeno se ha ex",
@@ -693,16 +612,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a875a27f1978.jpeg"
-    },
-    {
-      "id": "a9ac18dce3bdb9c1aaf5",
-      "title": "Glamur, vatios y Pogacar: LaVuelta prende la mecha en Mónaco",
-      "summary": "El equipo español Kern Pharma durante la gala de presentación de los equipos de la Vuelta a España 2026 que comienza el sábado desde tierras monegascas, este jueves en Mónaco.",
-      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/20/glamur-vatios-pogacar-lavuelta-prende-mecha-monaco.html",
-      "pubDate": "Thu, 20 Aug 2026 21:46:24 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8756a151010.jpeg"
     },
     {
       "id": "256461eb39cb7e7c256e",
@@ -775,16 +684,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1b8/live/7fc50490-9cc3-11f1-9182-d13e1a2797dc.jpg"
     },
     {
-      "id": "afea491b64d0bdb5bb5c",
-      "title": "Harden será el cuarto jugador mejor pagado de la historia",
-      "summary": "James Harden en un partido con los Cavs ante los Hawks.",
-      "link": "https://www.marca.com/baloncesto/nba/2026/08/20/james-harden-sera-cuarto-jugador-mejor-pagado-historia.html",
-      "pubDate": "Thu, 20 Aug 2026 20:52:29 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a874c97950b5.jpeg"
-    },
-    {
       "id": "834a9f7efe9de25f1ce2",
       "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
       "summary": "La repentina decisión de regresar de Estados Unidos plantea varias preguntas para los duques de Sussex y la familia real.",
@@ -795,16 +694,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/214f/live/7cf69c20-9ce0-11f1-8dd3-cdd630e12158.jpg"
     },
     {
-      "id": "89732067f64409ecb7c2",
-      "title": "\"Será diferente al Tour, aquí Andorra debería no decidirlo todo\"",
-      "summary": "A tumba abierta by AMIX con José Rodríguez y Nacho Labarga.",
-      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/20/tumba-abierta-by-amix-sera-diferente-tour-aqui-andorra-deberia-decidirlo.html",
-      "pubDate": "Thu, 20 Aug 2026 20:46:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/01/16/696a2f094089f.jpeg"
-    },
-    {
       "id": "d7b29a2639a278f20784",
       "title": "La CGT y las CTA reclamaron un programa de refinanciación de deudas ante la morosidad récord",
       "summary": "Las centrales sindicales y movimientos sociales marcharon al Ministerio de Economía y entregaron un documento en el que pidieron extender plazos, reducir transitoriamente el peso de las cuotas y regular las tasas de interés. Advirtieron por el impacto del endeudamiento sobre familias y Pymes. Con tasas de hasta 1.400%, se prevé que continúe la elevada mora de las familias y su impacto en la economía La CGT, las dos CTA y movimientos sociales se movilizaron este jueves al Ministerio de Econom a para reclamar medidas frente al creciente endeudamiento de las familias y las Pymes y exigieron al Gobierno de Javier Milei la implementaci n de un programa de refinanciaci n de deudas . Las organizaciones entregaron en el Palacio de Hacienda un documento con una serie de propuestas para enfrentar la morosidad y cuestionaron el costo del financiamiento que deben afrontar trabajadores, familias y peque as y medianas empresas. La movilizaci n no tuvo un acto con discursos, ya que no se mont un escenario frente al Ministerio. Sin embargo, distintos dirigentes sindicales plantearon durante la jornada sus cr ticas a la pol tica econ mica y reclamaron una intervenci n del Estado para limitar el impacto del endeudamiento. Entre los principales pedidos incluidos en el documento figura que el Gobierno cumpla con la funci n de regulaci n del Banco Central respecto de los niveles de las tasas de inter s aplicadas a pr stamos bancarios, aplicaciones financieras, billeteras virtuales y otros mecanismos que puedan generar endeudamiento de personas f sicas. Las centrales tambi n reclamaron analizar la situaci n de endeudamiento de las Pymes , al advertir que el deterioro de su capacidad financiera compromete el capital de trabajo, amenaza la continuidad de las actividades y pone en riesgo fuentes laborales. Adem s, pidieron poner en marcha un programa de refinanciaci n que permita atender el alarmante nivel de morosidad , con tasas acordes a la evoluci n de los ingresos. Qu plantea el docume",
@@ -813,36 +702,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/e85644c5-0cdc-4660-83fe-8740da755892_16-9-discover-aspect-ratio_default_0_x1011y614.jpg"
-    },
-    {
-      "id": "dbabe3e13840a6a18728",
-      "title": "El combate entre Hokit y Pereira, cada vez más cerca",
-      "summary": "Montaje fotográfico de Alex Pereira y Josh Hokit.",
-      "link": "https://www.marca.com/combates-ufc/2026/08/20/combate-hokit-pereira-vez-cerca.html",
-      "pubDate": "Thu, 20 Aug 2026 20:44:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2bcac7d1fdf.jpeg"
-    },
-    {
-      "id": "715537218edf887651c7",
-      "title": "El nuevo Hjulmand con pasado en el Barça ya brilla en Lisboa",
-      "summary": "Sergi Altimira celebra su primer gol con el Sporting CP",
-      "link": "https://www.marca.com/radio/2026/08/20/nuevo-hjulmand-pasado-barca-brilla-europa-asumo-responsabilidad.html",
-      "pubDate": "Thu, 20 Aug 2026 20:36:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/19/6a85dc6a8b134.jpeg"
-    },
-    {
-      "id": "d6fa596d25d1bfcde2bd",
-      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-      "summary": "Un sismo de magnitud de 7.2 sacudió este jueves la región andina de Ayacucho, Perú.",
-      "link": "https://elpais.com/america/2026-08-20/un-terremoto-de-magnitud-72-sacude-la-region-andina-de-ayacucho-en-el-sur-de-peru.html",
-      "pubDate": "Thu, 20 Aug 2026 20:22:40 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/NSGJMQRBHJGFBMWUSY5KADHYKA.jpg?auth=3a061129669b0bfec03ae2fcf0515e564c29cb6f9a341460ad2668cd731d50b7"
     },
     {
       "id": "1d24d08c08a61ba492f9",
@@ -885,26 +744,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/12/76570339007-no-logo-pn-yellowstone-s-1-1920-x-1080-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "5194a0bfe4dd65e19f98",
-      "title": "La selección ideal de Barça, Madrid y Atlético para tu liga Fantasy",
-      "summary": "Kang-In Lee, Rodri y Diomande valen en total 155 millones.",
-      "link": "https://www.marca.com/fantasy/2026/08/20/seleccion-ideal-barca-madrid-atletico-liga-fantasy.html",
-      "pubDate": "Thu, 20 Aug 2026 19:21:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87332fcf053.jpeg"
-    },
-    {
-      "id": "e4c781fdc777a87a95af",
-      "title": "¡Alcaraz está de vuelta!",
-      "summary": "Carlitos se siente en condiciones de disputar el último grande tras las pruebas en pista realizadas esta semana en Murcia",
-      "link": "https://www.marca.com/tenis/us-open/2026/08/20/alcaraz-sano-muneca-regresa-pistas-us-open-138-dias-despues.html",
-      "pubDate": "Thu, 20 Aug 2026 19:00:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a87347483b95.r_d.640-145-0.jpeg"
-    },
-    {
       "id": "ee0205648e71f776c83b",
       "title": "Las 10 mejores películas de Jason Statham, de peor a mejor: mucho más que el tipo que reparte golpes",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com El estreno de El motín ( Mutiny ) el 21 de agosto de 2026 devuelve a Jason Statham a un terreno en el que lleva más de dos décadas moviéndose como muy pocos: el thriller de acción directo, físico y sin demasiadas ganas de pedir disculpas por serlo. En la nueva película de Jean-François Richet , director de El piloto , interpreta a Cole Reed, un hombre acusado injustamente del asesinato de su jefe multimillonario que acaba siguiendo una conspiración internacional hasta un buque de carga, acompañado por Annabelle Wallis y Adrian Lester. La distribuidora española DeAPlaneta la presenta precisamente como otra descarga de adrenalina construida alrededor de aquello que Statham sabe hacer mejor. A estas alturas puede parecer sencillo definir una «película de Jason Statham». Le das una profesión que suene ligeramente peligrosa, permites que alguien cometa el error de meterse con él, colocas varios objetos cotidianos suficientemente cerca para utilizarlos como armas y esperas hasta que el reparto aprenda que quizá habría sido mejor dejar tranquilo al señor calvo del principio. La fórmula existe, por supuesto, pero quedarse únicamente con ella significa ignorar una carrera bastante más interesante de lo que suele reconocerse. Statham empezó con Guy Ritchie mucho antes de convertirse en una franquicia humana, ha trabajado con James Wan, Paul Feig, F. Gary Gray o David Ayer , se ha enfrentado a tiburones prehistóricos, ha conducido prácticamente cualquier vehículo imaginable y hasta ha demostrado que puede ser tremendamente divertido cuando alguien tiene la inteligencia suficiente para burlarse de su imagen de tipo indestructible. Con El motín como excusa perfecta para volver a su filmografía, hemos seleccionado sus 10 mejores películas tomando como referencia las valoraciones de la crítica recopiladas por Rotten Tomatoes , pero no queremos limitar esto a copiar porcentajes. La gracia está en recorrerlas de peor a me",
@@ -913,56 +752,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/05/Mutiny-Jason-Statham.jpg"
-    },
-    {
-      "id": "9d53493c12b8f0f0bbc4",
-      "title": "Maffeo ya luce como valencianista",
-      "summary": "En calidad de cedido",
-      "link": "https://www.marca.com/futbol/valencia/2026/08/20/valencia-incorpora-cedido-opcion-compra-lateral-derecho-pablo-maffeo.html",
-      "pubDate": "Thu, 20 Aug 2026 19:00:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/db3H61gXpGxYbu63g.jpeg"
-    },
-    {
-      "id": "18070762eb6ee493f837",
-      "title": "¡Aubameyang ya conquista A Coruña! Su asistencia a un niño en un partido de fútbol 7",
-      "summary": "El nuevo fichaje del Deportivo de A Coruña, Aubameyang, fue visto jugando un partido de fútbol 7 en La Solana, A Coruña, donde protagonizó un bonito momento al asistir a un niño para que marcara gol.",
-      "link": "https://www.marca.com/futbol/deportivo/2026/08/20/aubameyang-conquista-coruna-asistencia-nino-partido-futbol-7-video.html",
-      "pubDate": "Thu, 20 Aug 2026 18:58:54 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/db2sI1gXp6J07HQXI.jpeg"
-    },
-    {
-      "id": "098e8fda8a2d613522e8",
-      "title": "Un antiguo miembro de la Administración Trump entra con fuerza en Aston Martin",
-      "summary": "Wood Johnson y el Aston Martin.",
-      "link": "https://www.marca.com/motor/formula1/gp-paises-bajos/2026/08/20/antiguo-miembro-administracion-trump-entra-fuerza-aston-martin-f1.html",
-      "pubDate": "Thu, 20 Aug 2026 18:45:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a872a258264a.jpeg"
-    },
-    {
-      "id": "1a93b3a150ca08decab0",
-      "title": "El Atlético se lanza a por Nico Jackson",
-      "summary": "Jackson celebrando un gol con el Chelsea.",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/20/cumbre-londres-nicolas-jackson.html",
-      "pubDate": "Thu, 20 Aug 2026 18:37:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a872a413ae4c.jpeg"
-    },
-    {
-      "id": "76149e7b1d99842d1ce0",
-      "title": "Ray MacDonald muere a los 49 años en Bangkok",
-      "summary": "El actor Ray MacDonald muere a los 49 años tras sufrir un infarto mientras dormía en su domicilio en Bangkok",
-      "link": "https://www.marca.com/tiramillas/cine/2026/08/20/actor-ray-macdonald-muere-49-anos-sufrir-infarto-dormia-domicilio-bangkok.html",
-      "pubDate": "Thu, 20 Aug 2026 18:34:31 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a872a780bcd8.jpeg"
     },
     {
       "id": "0f0c0349790f9eff7b1e",
@@ -1795,9 +1584,471 @@
       "subcat": "herramientas"
     },
     {
+      "id": "73b588b13c4e400f428b",
+      "title": "Una chica de 16 años salta enfurecida al campo para placar y agredir a un jugador de fútbol americano",
+      "summary": "Una joven de 16 años interrumpió un partido de fútbol americano en Winchester (Tennessee) al irrumpir en el campo y derribar a uno de los jugadores.",
+      "link": "https://www.marca.com/nfl/2026/08/21/chica-16-anos-salta-enfurecida-campo-placar-agredir-jugador-futbol-american-video.html",
+      "pubDate": "Fri, 21 Aug 2026 07:51:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/m7m60Yuw.jpeg"
+    },
+    {
+      "id": "f9f4a2022cab3bd26f16",
+      "title": "En Cataluña acusan al Atlético de \"catalanofobia\" y feudalismo por el caso Julián Álvarez: \"Es inmoral\"",
+      "summary": "En la tertulia del programa 'Tu Dirás' de RAC1 que dirige Aleix Parisé se mostraron muy duros con el Atlético de Madrid por su postura en el caso Julián Alvarez y su negativa a venderlo al Barcelona.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/21/cataluna-acusan-atletico-catalanofobia-feudalismo-caso-julian-alvarez-inmoral-video.html",
+      "pubDate": "Fri, 21 Aug 2026 07:47:24 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/MlzFEdTh.jpeg"
+    },
+    {
+      "id": "50ebb6df3daae6fc0463",
+      "title": "Todos contra Pogacar",
+      "summary": "LaVuelta 2026 comienza desde Mónaco.",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/21/lavuelta-2026-todos-pogacar.html",
+      "pubDate": "Fri, 21 Aug 2026 07:42:29 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87e412c7f52.jpeg"
+    },
+    {
+      "id": "9defebb3552e66b1870f",
+      "title": "El MARCA de toda la vida y dos fotos separadas por 73 años",
+      "summary": ".",
+      "link": "https://www.marca.com/mundo-marca/2026/08/21/marca-toda-vida.html",
+      "pubDate": "Fri, 21 Aug 2026 07:30:26 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a870c5dc244a.jpeg"
+    },
+    {
+      "id": "8435a3bd107559dd612d",
+      "title": "El Dortmund renueva su 'trampolín': \"Queremos encontrar nuevas gemas\"",
+      "summary": "Karetsas, Samuele Inácio y Konstantelias",
+      "link": "https://www.marca.com/futbol/bundesliga/2026/08/21/dortmund-renueva-trampolin-queremos-encontrar-nuevas-gemas.html",
+      "pubDate": "Fri, 21 Aug 2026 07:29:08 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a872f3a35cf0.jpeg"
+    },
+    {
+      "id": "f388564d82512fc3adb2",
+      "title": "El nuevo 'tigre' del Rennes: \"El precio sólo define la confianza que tienen en mí\"",
+      "summary": "Eliezer Mayenda",
+      "link": "https://www.marca.com/futbol/liga-francesa/2026/08/21/mayenda-nuevo-tigre-rennes-precio-define-confianza-mi.html",
+      "pubDate": "Fri, 21 Aug 2026 07:28:39 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/17/6a82fa2703717.jpeg"
+    },
+    {
+      "id": "cc7bf960206d3293ff01",
+      "title": "Pablo Torres: \"Para ganar junto a Pogacar hay que ser el segundo mejor en carrera\"",
+      "summary": "Pablo Torres se estrena a lo grande.",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/21/pablo-torres-ganar-pogacar-hay-segundo-mejor-carrera.html",
+      "pubDate": "Fri, 21 Aug 2026 07:27:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87260199c5b.jpeg"
+    },
+    {
+      "id": "ab3db9cdcf0a21b2fc2f",
+      "title": "Juan Carlos Rivero incendia las redes tras decir que \"el director deportivo del Barcelona es Luis de la Fuente\"",
+      "summary": "Juan Carlos Rivero, periodista y narrador deportivo de Televisión Española, comentó en un charla de Twitch que \"yo a veces he comentado que el director deportivo del Barça, sin quererlo y sin ejercer, es Luis de la Fuente\".",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/21/juan-carlos-rivero-incendia-redes-decir-director-deportivo-barcelona-luis-fuent-video.html",
+      "pubDate": "Fri, 21 Aug 2026 07:21:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/0tty_HUx.jpeg"
+    },
+    {
+      "id": "32b3d8b6c2717326d968",
+      "title": "De Jong tensa la cuerda",
+      "summary": "Frenkie de Jong, en un partido con su selección.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/21/jong-empezando-convertirse-problema.html",
+      "pubDate": "Fri, 21 Aug 2026 07:20:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a874205a31d6.jpeg"
+    },
+    {
+      "id": "cc1d4b5a84d4fcdeb586",
+      "title": "Lewis Hamilton provoca que Kim Kardashian grite en el coche: amor y velocidad",
+      "summary": "El piloto Lewis Hamilton y la influecer y empresaria Kim Kardashian presumen su amor durante sus vacaciones en Hawái y se da un simpático paseo en coche.",
+      "link": "https://www.marca.com/motor/formula1/2026/08/21/lewis-hamilton-provoca-kim-kardashian-grite-coche-amor-velocida-video.html",
+      "pubDate": "Fri, 21 Aug 2026 07:18:37 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/dc2Mk1gXzxraC5Lso.jpeg"
+    },
+    {
+      "id": "5080c621b545bc16ba01",
+      "title": "\"Rodri, las dudas, el huevo y la gallina\"",
+      "summary": "Mourinho, en un partido de pretemporada del Real Madrid",
+      "link": "https://www.marca.com/futbol/real-madrid/opinion/2026/08/21/rodri-dudas-huevo-gallina.html",
+      "pubDate": "Fri, 21 Aug 2026 07:18:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87054d8a542.jpeg"
+    },
+    {
+      "id": "838e55aaf93a2cdf810c",
+      "title": "Kovac, con MARCA: \"Adeyemi es el jugador con el que más charlas tuve en mi carrera\"",
+      "summary": "Adeyemi y Niko Kovac.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/21/kovac-marca-adeyemi-jugador-charlas-tuve-mi-carrera.html",
+      "pubDate": "Fri, 21 Aug 2026 07:17:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87649d48693.jpeg"
+    },
+    {
+      "id": "0c2664cc3c0f498c073e",
+      "title": "Gonzalo y Agustina, pareja argentina en España: \"Encuentras trabajo rápido, pero...\"",
+      "summary": "@GonzayAgusDeViaje",
+      "link": "https://www.marca.com/tiramillas/economia/2026/08/21/gonzalo-agustina-pareja-argentina-espana-encuentras-trabajo-rapido-coste-vida-alquileres-llevan.html",
+      "pubDate": "Fri, 21 Aug 2026 07:05:13 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a86fccb55084.jpeg"
+    },
+    {
+      "id": "0eccfd6b319587b5085a",
+      "title": "Confirmado: 3.000 euros de multa por colgar banderas en el balcón",
+      "summary": "EFE",
+      "link": "https://www.marca.com/tiramillas/economia/2026/08/21/ley-propiedad-horizontal-confirma-ayuntamientos-podran-multar-3-000-euros-vecinos-colgar-bandera-balcon.html",
+      "pubDate": "Fri, 21 Aug 2026 07:05:11 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a87060904a36.jpeg"
+    },
+    {
+      "id": "93fe49977dc1ad8f4dc4",
+      "title": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
+      "summary": "Sergio Massa y su esposa, Malena Galmarini , actual senadora provincial, viajaron al Caribe la semana en que cumplieron sus “30 años de amor”. Lo hicieron acompañados de un grupo de amigos en un jet privado de lujo, propiedad del grupo empresario que lidera Francisco De Narváez , según confirman registros aeronáuticos y migratorios a los que accedió LA NACION . La comitiva, integrada por siete personas, partió desde el aeropuerto de Montevideo el jueves 13 de agosto a las 6:40 AM, apenas 48 horas después de la cumbre del peronismo en el Hotel Emperador de la que participaron, además de Massa, figuras como Máximo Kirchner , el gobernador Axel Kicillof , Ricardo Quintela , Gildo Insfrán y Gerardo Zamora . La actividad económica registró una suba de 0,8% en junio , respecto de mayo, aunque volvió a reflejar el comportamiento inestable que muestra en lo que va del año y que los analistas definen como de “serrucho”. En la medición interanual, en tanto, exhibió una mejora de 2,7% y acumuló un crecimiento de 1,9% durante el primer semestre. El dato fue publicado por el Instituto Nacional de Estadística y Censos (Indec) en su informe sobre el Estimador Mensual de Actividad Económica (EMAE). Sin embargo, la mejora de junio no alcanzó para disipar la volatilidad que caracterizó al primer semestre. Basta con observar la serie actualizada del Indec para comprobarlo: la economía creció 0,3% en enero, cayó 2,5% en febrero, rebotó 2,6% en marzo, retrocedió 1,6% en abril y volvió a bajar 0,6% en mayo, antes de la recuperación de 0,8% en junio. Leé la nota completa acá. Destinatario de críticas internas y externas en las últimas semanas, el ministro de Desregulación y Reforma del Estado, Federico Sturzenegger, insistió hoy en la reunión del Consejo de las Américas, en su defensa del paquete de reformas impulsado por el Gobierno, y pronosticó que el presidente Javier Milei será reelecto en 2027. “Pensé que no me iban a invitar, porque el año pasado tuvimos una discusión con Natalio, ",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-aumento-de-la-morosidad-bancaria-y-las-primeras-alianzas-de-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:26:39 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/6OWMTJLIKVBVPEPWDSPIJRRWWA.jpeg?auth=0cf4834991e8e0ef0755b2d3bda7f02128ddee4153763c41282aebd91a4c562b&smart=true&width=1280&height=854"
+    },
+    {
+      "id": "f1d2d29cee7a514740b0",
+      "title": "Impiden atentado ucraniano con decenas de drones contra una fábrica de defensa cerca de Moscú (VIDEO)",
+      "summary": "Ocho personas fueron detenidas.",
+      "link": "https://actualidad.rt.com/actualidad/623427-rusia-frustra-atentado-drones-moscu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 06:15:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87f10659bf5b2a971cfcb2.jpg"
+    },
+    {
+      "id": "f33c9609007282a74f64",
+      "title": "\"Wembanyama tiene la oportunidad de ser único, de ser el mejor de la historia\"",
+      "summary": "Jokic: \"Wembanyama tiene la oportunidad de ser único, de ser el mejor de la historia\"",
+      "link": "https://www.marca.com/baloncesto/nba/2026/08/21/jokic-wembanyama-oportunidad-unico-mejor-historia.html",
+      "pubDate": "Fri, 21 Aug 2026 06:13:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87d04cda599.jpeg"
+    },
+    {
+      "id": "74d0bc74431505132522",
+      "title": "El Gobierno reorganizó el Renar y ahora funcionará como un organismo desconcentrado del Ministerio de Seguridad",
+      "summary": "El Gobierno escribió otro capítulo en su avanzada por la desregulación del mercado legal de armas y, a través del Decreto 770/2026 publicado en el Boletín Oficial de este viernes, determinó que el Registro Nacional de Armas (Renar) pase a funcionar como organismo desconcentrado del Ministerio de Seguridad Nacional y estableció su nueva estructura, conducción y atribuciones. Con la nueva medida, que cuenta con la firma de Javier Milei y todo sus ministros, el Renar tendrá entre sus objetivos “ prevenir y combatir la violencia armada y el tráfico ilícito de armas, municiones, explosivos y materiales relacionados”. Entre las novedades, se destaca que el organismo pasará a estar encabezado por un director ejecutivo con rango y jerarquía de secretario , seguido de un subdirector con rango y jerarquía de subsecretario. Los dos serán designados por el Poder Ejecutivo. Con este movimiento el Gobierno eleva el nivel jerárquico de la conducción del Renar . El Decreto establece las nuevas funciones del ente sobre las armas, municiones y artefactos explosivos, entre las cuales figuran la registración y fiscalización; la fabricación y comercialización de las mismas; adquisición, transferencia y traslado; controles de tenencia y portación; la importación, exportación y tránsito del armamento; secuestros, incautaciones y decomisos; y la destrucción de materiales controlados. A su vez, el Renar tendrá bajo su órbita al Banco Nacional de Materiales Controlados y su red de depósitos , además del Registro Único de Información y un banco nacional informatizado de datos. En otro pasaje del texto, queda establecido que la reorganización no implica un incremento en la cantidad de unidades organizativas de la Administración Pública Nacional . Dentro de los apartados del Decreto 770/2026, uno de los cambios más significativos aparece en el nuevo esquema de organismos que dependen del Ministerio de Seguridad Nacional. El anexo incorporado al artículo 2° incluye al Renar dentro de la categorí",
+      "link": "https://www.lanacion.com.ar/politica/el-gobierno-reorganizo-el-renar-y-ahora-funcionara-como-un-organismo-desconcentrado-del-ministerio-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:12:14 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/CNPDYZCJX5FAPNCDMVKUWU3TO4.jpg?auth=938d4e84350feebaaa02d5f8485077f53030589a61a868730225559fe832f5f6&smart=true&width=543&height=360"
+    },
+    {
+      "id": "929268eed8f708a1a1f2",
+      "title": "Rusia da un nuevo golpe a la infraestructura portuaria al servicio de las FF.AA. de Ucrania",
+      "summary": "La ofensiva alcanzó objetivos en el puerto de Reni.",
+      "link": "https://actualidad.rt.com/actualidad/623426-rusia-ejecutar-nuevo-golpe-infraestructura-portuaria-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 06:10:30 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "5787842aa880172a4447",
+      "title": "La película de Naruto podría haber encontrado al actor perfecto para interpretar a Kakashi",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com El live-action de Naruto empieza a tomar forma y uno de sus personajes más queridos podría estar muy cerca de tener rostro. Charles Melton negocia para convertirse en Kakashi Hatake , una elección que también adelanta algunos cambios respecto al manga y el anime. La película de Naruto va cogiendo forma La película de Naruto que prepara Lionsgate acaba de dar uno de esos pasos que pueden cambiar por completo la percepción de un proyecto. Después de meses de rumores sobre quién interpretará a Naruto Uzumaki, Sasuke Uchiha y Sakura Haruno , la adaptación parece haber avanzado primero con el hombre encargado de convertirlos en auténticos ninjas: Kakashi Hatake . The Hollywood Reporter asegura que Charles Melton se encuentra en “negociaciones finales” para interpretar al líder del Equipo 7 en el live-action dirigido por Destin Daniel Cretton . Todavía no hablamos de un fichaje anunciado oficialmente por Lionsgate, así que conviene mantener cierta cautela hasta que el estudio cierre el acuerdo, pero estar en esta fase significa que las conversaciones están bastante avanzadas. Charles Melton (cordonpress) Y no es precisamente un personaje secundario. Kakashi es uno de los grandes iconos de Naruto, alguien reconocible incluso para espectadores que no hayan visto centenares de episodios del anime. Su máscara, el Sharingan, su actitud aparentemente despreocupada y ese contraste entre mentor excéntrico y guerrero temible lo convirtieron en uno de los favoritos de varias generaciones de fans. Melton tiene ahora mismo 35 años y viene de consolidar una carrera bastante alejada del típico casting juvenil de una adaptación de manga. El actor ha participado en producciones como Beef y Warfare, además de otros proyectos de cine y televisión, por lo que Lionsgate parece buscar una presencia con algo más de peso para el maestro del Equipo 7. Kakashi de Naruto El casting podría cambiar la edad de Kakashi Aquí aparece una cues",
+      "link": "https://www.cinemascomics.com/pelicula-naruto-actor-perfecto-kakashi/",
+      "pubDate": "Fri, 21 Aug 2026 06:01:01 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Kakashi-Hatake.jpg"
+    },
+    {
+      "id": "a13bce2cd68e57fd8a93",
+      "title": "¿Necesita el béisbol aun más tecnología para jugadas como el elevado discutido de Pete Alonso?",
+      "summary": "La polémica surgió tras la decisión de foul en un golpe de Alonso, generando debate sobre el uso de tecnología para validar jonrones. El mánager de los Orioles señaló la falta de evidencia clara en video, mientras la MLB evalúa opciones tecnológicas para mejorar el arbitraje.",
+      "link": "https://www.clarin.com/estados-unidos/necesita-el-beisbol-aun-mas-tecnologia-para-jugadas-como-el-elevado-discutido-de-pete-alonso_0_uENsO7kVKD.html",
+      "pubDate": "Fri, 21 Aug 2026 06:00:06 +0000",
+      "source": "Clarin",
+      "cat": "tech",
+      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
+    },
+    {
+      "id": "5e70492d9caa3167aef7",
+      "title": "Tras un mensaje de su esposa su vida dio un vuelco y una mujer del pasado llegó para retarlo: “¿Cómo puede ser?”",
+      "summary": "La notificación llegó a las 21:30. En el cuarto matrimonial, Pedro puso en pausa la serie en Netflix y clavó la vista en su teléfono. De inmediato, la expresión de su cara delató un dejo de sorpresa, era de su mujer, algo que, por supuesto, no era extraño, lo raro era que ella se encontraba a unos metros, en la cocina de la casa, y no solía mandarle mensajes si estaban juntos. Supuso que le estaría compartiendo algo, aunque eso tampoco era un gesto usual por parte de ella. Decidió ignorarlo, tomó un trago de la copa de vino tinto que reposaba en la mesita de luz, y puso play . El celular volvió a sonar, otra vez ella, esta vez decidió leerlo. “El mensaje original decía algo así como: hace mucho que busco las palabras y cuando tratamos de hablar la mente se me desordena y me paralizo, por eso te lo escribo: me quiero separar. Estoy en la cocina si querés que lo hablemos”, cuenta Pedro al recordar aquella noche en la que su vida, tal como la conocía hasta entonces, cambió para siempre.. El impacto de la separación, los sueños olvidados y una mujer para ahuyentar la soledad Con su mujer venían mal, Pedro lo acepta. Estaban juntos desde los 18 o 19, habían sido padres muy jóvenes y hacía años que la distancia emocional entre ellos era tanta, que la angustia se había instalado en la pareja como invitada de honor. Al principio no lo notaron, pero poco a poco, su presencia era evidente en sus sonrisas forzadas y sus miradas tristes. Las ocupaciones de la casa, el trabajo, los chicos, disimularon ese océano que se había instalado entre ellos, pero ahora, que los nenes se habían transformado en jóvenes adultos, la desconexión quedó en evidencia. Nada malo había pasado, salvo por algo en lo que ambos coincidían: en algún lado, en algún momento, habían renunciado a sus sueños. “Me impactó muchísimo la separación”, confiesa Pedro. “Pero, aunque estaba negado al comienzo, en el fondo sabía que era lo mejor. En algún momento que no puedo especificar cuál fue, dejamos de hablar de",
+      "link": "https://www.lanacion.com.ar/lifestyle/tras-un-mensaje-de-su-esposa-su-vida-dio-un-vuelco-y-una-mujer-del-pasado-llego-para-retarlo-como-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/FAJGBUKNBZFKHGWR5GN7OROBDM.jpg?auth=337e0cd54c5ce605067d2732f772de293f853581d08dba921f73820c1f9f9b11&smart=true&width=1920&height=1282"
+    },
+    {
+      "id": "4a465bcf80beffd42883",
+      "title": "“Perdés la belleza, pero…”: conquistó la pantalla grande, se casó dos veces, fue madre en la madurez y tuvo amores apasionados",
+      "summary": "Hay mujeres que parecen pertenecer a una época y, sin embargo, consiguen atravesarlas todas, o muchas. Monica Bellucci (61) es una de ellas. Su cara, su sensualidad y esa manera de andar por la vida con una mezcla de misterio y seguridad la convirtieron en uno de los íconos femeninos del cine de las últimas décadas. Pero detrás de la imagen de la diosa italiana hay una historia de decisiones, amores, maternidad, separaciones y una carrera construida a fuerza de reinventarse. Monica Anna Maria Bellucci nació el 30 de septiembre de 1964 en Città di Castello (Italia). “Desde chica supe que quería ser actriz. Nunca me planteé otra profesión... De adolescente, podía ir al cine tres veces por día y pasaba las tardes viendo clásicos en la tele”, contó en una entrevista a Vanity Fair. Estudió Derecho y, para financiarse la carrera, empezó a trabajar como modelo cuando Giorgio Armani, Versace y Dolce Gabbana se unieron a Valentino en aquella edad dorada creativa y económica de la moda italiana. Lo que parecía un trabajo circunstancial terminó llevándola a las pasarelas internacionales. Milán, París, Nueva York… Poco a poco, aquella joven descubrió que su belleza podía abrirle puertas, aunque no quería quedarse solamente detrás de una cámara de fotos. Con el tiempo, su sensualidad la convirtió en ícono de Dolce Gabbana, además de cosechar una gran amistad con el famoso dúo de diseñadores. UNA NOVIA MUY JOVEN Tenía apenas 20 cuando se casó con el fotógrafo Claudio Carlos Basso, pero el matrimonio duró cuatro años. Su desembarco en el cine fue el primer gran giro de su vida. Después de pequeños papeles en producciones italianas, llegó Drácula, de Bram Stoker , de Francis Ford Coppola, y el mundo empezó a conocerla. Pero sería Malena , dirigida por Giuseppe Tornatore, la película que la transformaría definitivamente en un símbolo. En aquel film interpretaba a una mujer cuya belleza era observada, deseada y juzgada por todo un pueblo. La película tuvo una enorme repercus",
+      "link": "https://www.lanacion.com.ar/revista-hola/perdes-la-belleza-pero-conquisto-la-pantalla-grande-se-caso-dos-veces-fue-madre-en-la-madurez-y-tuvo-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/2YQMWIKC2ZEUXHQVUFYPDN55YM.jpg?auth=c82c793493d604e5fc4e220028027dd43676600dfec5eb4e10772002d99c69d9&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "77e93e6721c5f84fb3f8",
+      "title": "Los nutricionistas coinciden: no hay nada más fácil de digerir que un plato de arroz",
+      "summary": "El nutricionista Diego Sívori visitó los estudios de LN+ para analizar el contenido calórico de algunos alimentos y desterró varios mitos instalados. En ese sentido, el experto aludió a “ un imbatible ”. “Muchos dicen que, al ser un carbohidrato, digerirlo es muy difícil, cuando en realidad pasa al revés. No hay nada más fácil de digerir que un plato de arroz ”, reveló el nutricionista. Acto seguido, el médico aclaró: “Para obtener estos resultados, es mejor consumir el arroz blanco que el integral ”. “Y con esto que te digo del arroz, también corre para la pasta. Porque en estos dos alimentos, el gran problema son sus amigos . Es decir, el queso, las salsas y los embutidos”. Por otro lado, Sívori ahondó en cuál es la semilla seca y comestible que promueve el fortalecimiento de la masa muscular . Además, reveló cuáles son los “ tres grandes mitos ” alimenticios y la bebida alcohólica que más resaca provoca . Cómo interpretar las calorías “ Comer caliente no significa comer calórico . Y comer frío no significa comer bajo en calorías ”, explicó Sívori. “Y el ejemplo máximo de esto es el helado, un alimento que se va a traducir rápidamente en calorías”, agregó. Para explicar el impacto que ese consumo produce en nuestro organismo, el especialista mencionó: “El cuerpo no puede aprovechar las calorías completas. Es decir, de ese helado, el 70% se va a traducir en calor corporal, y el 30% restante, en energía. Por todo esto, decir que tomar helado refresca, es un mito ”. Tres alimentos, tres mitos Además del característico postre, Sívori completó el podio con otros dos alimentos. “ Tres grandes mitos son que un helado, una cervecita o un paquete de papas te refrescan . Posiblemente sean las tres cosas que más se consuman, por ejemplo, durante el verano, y las tres provocan calor”, reveló el nutricionista. En referencia a las papas fritas, agregó: “ Es sin dudas el alimento más adictivo del mundo . Porque combina carbohidratos, grasas y crocancia. Activa en el cerebro los ",
+      "link": "https://www.lanacion.com.ar/sociedad/los-nutricionistas-coinciden-no-hay-nada-mas-facil-de-digerir-que-un-plato-de-arroz-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/SGRLRNWGVVHPXMTLOM2MMHWU54.jpg?auth=2c1b357fcf3ad9c6dcf21ddec0c58ee7c363cb79a18067671335c645584e6aa2&smart=true&width=5616&height=3744"
+    },
+    {
+      "id": "3cae81d293bf269811f4",
+      "title": "Son amigas, camioneras y llevan semanas lejos de sus hijos por el cierre de la frontera con Chile: “La espera se hace eterna”",
+      "summary": "A Andrea Di Césare la esperan en Luján de Cuyo sus dos hijas de 11 y 9 años y su hijo menor, de apenas 5. Desde que comenzó a trabajar como camionera aprendió a convivir con las videollamadas, los mensajes de audio y esa pregunta que se repite del otro lado del teléfono: “¿Cuándo volvés?” . A María Jesús Gutiérrez, en cambio, la espera Mateo, su hijo de 20 años, en Polvaredas, una pequeña localidad cordillerana ubicada a unos 45 kilómetros de Uspallata en dirección a Chile. Las dos siguen arriba del camión. El viaje comenzó el 1° de agosto y, cuando hablan, todavía están tratando de encontrar la carga que les permita emprender finalmente el regreso a Mendoza. Entre una punta y otra del país, el recorrido se transformó en una sucesión de esperas que las obligó a cambiar de planes una y otra vez. El itinerario sin fin: “Hay que mantener muy fría la cabeza” “Ha sido una travesía que nunca me tocó experimentar en estos años”, cuenta María Jesús (41), que conoce los pasos fronterizos como pocos. Trabaja como camionera desde hace cinco años y ya atravesó Pino Hachado, Cardenal Samoré, Los Libertadores y Jama, en el norte. Esta vez, sin embargo, el itinerario parecía no terminar nunca. Primero viajó hacia Pino Hachado, donde estuvo tres días esperando que abriera ese paso. Finalmente llegó hasta el Puerto San Antonio, en Chile, y allí retornó nuevamente a Pino Hachado para volver a la Argentina. Otros cinco días. Cuando finalmente pensaba que estaba cerca de continuar, recibieron la noticia de que el paso cambiaba. Tuvo que volver a Chile y emprender nuevamente el camino hacia el sur para intentar cruzar por Cardenal Samoré. Allí las esperaba otra fila y otros cinco días de incertidumbre. “Fue difícil, pero hay que mantener muy fría la cabeza”, resume María Jesús. El problema no fue solamente el tiempo. En la cordillera, una espera de cinco días no se parece a cinco días en una ciudad. Hubo jornadas de nieve, hielo y temperaturas que llegaron a los 11 grados bajo cero. Abr",
+      "link": "https://www.lanacion.com.ar/lifestyle/son-amigas-camioneras-y-llevan-semanas-lejos-de-sus-hijos-por-el-cierre-de-la-frontera-con-chile-la-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/FPIDVMZGKZFQRHUNB54K3APFSQ.jpg?auth=d31aff9ccbf5c235de0530fa08fbd986fd93c3580c3237bfb1b98bf84f8beb6e&smart=true&width=1296&height=972",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "a8b78f03cc2ea1be1f2d",
+      "title": "Bebés royal. Eugenia de York y Rania de Jordania: tres nacimientos y dos nombres con homenajes incluidos",
+      "summary": "UN NOMBRE CON HOMENAJE ESPECIAL El nacimiento de la tercera hija de la princesa Eugenia de York y el empresario Jack Brooksbank se convirtió en la ocasión perfecta para rendir un homenaje muy especial. Aunque el pasado 3 de agosto la Casa Real británica anunció la feliz noticia y confirmó que la beba había nacido en Lisboa, la pareja decidió mantener en secreto un detalle muy significativo: su nombre. Finalmente, esta semana fue la propia Eugenia quien reveló el misterio en su cuenta de Instagram. Junto a una tierna selección de fotos de la recién nacida, compartió un emotivo mensaje. “Hoy se cumplen dos semanas desde que dimos la bienvenida al mundo a nuestra pequeña. Han sido días llenos de amor y alegría. Estamos muy felices de presentar a Adelaida Elizabeth Annina Brooksbank ”, escribió. Y siguió: “Su nombre forma parte de la historia de Inglaterra y Portugal, dos lugares que amamos y consideramos nuestro hogar” “Fue llamada así en honor a tres personas a las que amamos y admiramos, del pasado y del presente, incluida su bisabuela, a quien llevamos siempre en nuestros corazones. Su nombre forma parte de la historia inglesa y portuguesa, dos lugares que amamos y consideramos nuestro hogar”. El primer nombre de la beba remite a la reina Adelaida, casada con Guillermo IV (fue rey desde 1830 hasta 1837). Eugenia ya había hecho un guiño a esta figura histórica el día de su boda: en la fiesta lució dos broches a modo de horquilla pertenecientes a la reina consorte. Elizabeth, por su parte, es un claro tributo a Isabel II , su adorada abuela, con quien tanto ella como su hermana tenían un vínculo muy cercano (Beatriz también sumó “Elizabeth” a los nombres de sus hijas); y Annina responde a una conexión personal de la familia. ABUELA POR PARTIDA DOBLE La familia de la reina Rania (55) y de su marido, el rey Abdalá II (64), sigue creciendo. El viernes 14, a través de un comunicado que emitió la Corte Real hachemita, se anunció el esperado nacimiento de las gemelas Talia ",
+      "link": "https://www.lanacion.com.ar/revista-hola/bebes-royal-eugenia-de-york-y-rania-de-jordania-tres-nacimientos-y-dos-nombres-con-homenajes-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "ia",
+      "image": "https://resizer.glanacion.com/resizer/v2/5QJYEDA4IVDZLGYXCIOTIFOL5U.jpg?auth=fb868821212c8a86b2efbf4bda0fdbe11925641ed8d79269b68a63c0871ed4fa&smart=true&width=2000&height=1333",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "886172a334159682b384",
+      "title": "Rusia detiene a un extranjero implicado en la planificación de un sabotaje y atentado en Moscú",
+      "summary": "El implicado planeaba vigilar edificios de la administración pública, infraestructura de transporte y puntos de reunión.",
+      "link": "https://actualidad.rt.com/actualidad/623297-rusia-detener-extranjero-implicado-planificacion-sabotaje?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 05:58:48 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87ecafe9ff716c25127db6.jpg"
+    },
+    {
+      "id": "5e1d45288d4bddd71130",
+      "title": "Microsoft investiga fallos en juegos y reinicios de PCs en la última actualización de Windows 11",
+      "summary": "Microsoft está investigando los informes de usuarios que citan juegos bloqueados, congelados o que provocan reinicios de las computadoras que han instalado la última actualización de Windows 11 destinada a la seguridad La historia se repite. Ya hemos dado por imposible que una actualización de Windows llegue sin problemas. Solo es cuestión de esperar y ver qué problema toca ese mes y a cuántos usuarios afecta . Y lo peor en esta ocasión es que se trata de una actualización de seguridad realmente importante, donde se corrigieron decenas de vulnerabilidades y que no deberíamos saltarnos. Además, los últimos problemas reportados se suman a los confirmados en Microsoft Defender , la última actualización del antivirus que provoca fallos graves en su funcionamiento. Lo hemos dicho en infinidad de ocasiones: aunque no todos los fallos de Windows son provocados directamente por Microsoft el control de calidad de los lanzamientos de las actualizaciones es deficiente desde hace años. La última actualización de Windows 11 y los juegos Microsoft ha reconocido los informes en errores en su página de estado de la versión . Los juegos afectados pueden dejar de responder, cerrarse inesperadamente, mostrar un error » EXCEPTION_ACCESS_VIOLATION » o provocar un reinicio inesperado de los ordenadores personales. Los informes sobre el problema surgieron tras el lanzamiento de la actualización KB5121003 para Windows 11 24H2 y 25H2, destinada a la seguridad. Microsoft mencionó específicamente juegos como ARC Raiders, MARVEL Tōkon: Fighting Souls y The Finals como los afectados, aunque se desconocen los motivos: «Actualmente estamos investigando para determinar si se trata de un problema causado por Microsoft» . Los usuarios han teorizado que una validación más estricta de los identificadores del kernel podría haber revelado problemas en controladores de terceros que Windows toleraba anteriormente, provocando fallos cuando el código se adentra en zonas no permitidas. Esto podría ser benefi",
+      "link": "https://www.muycomputer.com/2026/08/21/microsoft-investiga-fallos-en-juegos-y-reinicios-de-pcs-en-la-ultima-actualizacion-de-windows-11/",
+      "pubDate": "Fri, 21 Aug 2026 05:58:32 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": ""
+    },
+    {
+      "id": "50e98c8a88fe04f49670",
+      "title": "Alyssa Milano recordó uno de los momentos más difíciles de su vida: “Pedí que me internaran en un psiquiátrico”",
+      "summary": "Hay dolores que uno cree superados hasta que algo súbitamente los reabre. Eso le pasó a Alyssa Milano esta semana: el juicio a Lindsay Clancy, la mujer oriunda del estado de Massachusetts acusada de matar a sus tres hijos en 2023 , la llevó a desempolvar un texto propio de 2018 en el que contaba su propia experiencia con la ansiedad posparto , un cuadro que la llevó a internarse en una unidad psiquiátrica poco después de convertirse en madre. Clancy está acusada de haber asesinado a sus tres hijos -Cora, de cinco años; Dawson, de tres, y Callan, de ocho meses- en su casa de Massachusetts. La exasistente obstétrica admitió los hechos, pero su defensa sostiene que actuó bajo los efectos de una psicosis posparto y que no era consciente de las consecuencias de lo que hacía ; se declaró inocente por razón de locura y pide ser derivada a un centro estatal de salud mental en lugar de prisión. Los fiscales, en cambio, afirman que hubo premeditación: aseguran que Clancy planeó los asesinatos al tiempo que pensó y ejecutó una excusa para sacar a su marido, Patrick, de la casa antes de cometerlos. Milano, de 53 años y madre de dos hijos junto a su marido David Bugliari, decidió republicar en su cuenta de Substack el ensayo que había escrito para la revista Time en 2018. “Ahora que el juicio de Lindsay Clancy obliga a una nueva reflexión nacional sobre la enfermedad mental posparto y sobre lo que puede suceder cuando las mujeres piden ayuda pero aun así quedan desamparadas , me parece importante compartirlo de nuevo”, escribió la actriz al presentarlo. Aclaró, eso sí, que se trata de cuadros distintos: “La ansiedad posparto y la psicosis posparto son afecciones diferentes, y mi experiencia no es la misma que la de Lindsay Clancy”, señaló. Sin embargo, encontró un punto en común entre ambas historias: “El juicio ha vuelto a poner de relieve una verdad que las conecta: los síntomas de salud mental materna deben ser reconocidos, creídos y tratados con urgencia ”, agregó. En el ens",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/alyssa-milano-recordo-uno-de-los-momentos-mas-dificiles-de-su-vida-pedi-que-me-internaran-en-un-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 05:46:34 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/T75L7NDGLRH3PIPSXWBGZJMZWQ.jpg?auth=b1a1464fcfb6180043632fae1cb8511f72294fe285e4baa1ffc059fefd478b66&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "6d7597679001d998e67a",
+      "title": "Jamie Foxx se refirió por primera vez al embarazo de su novia, de 31 años: “Tenía mis dudas”",
+      "summary": "No fue una decisión fácil. Jamie Foxx dudó, calculó, se hizo preguntas sobre su edad y sobre si tenía sentido volver a empezar con pañales y desvelos a los 58 años . Y terminó resolviendo esas dudas gracias a una charla casual con un colega que le llevaba casi tres décadas de experiencia en el tema: Al Pacino . El actor espera su tercer hijo , el primero junto a su novia Alyce Huckstepp, de 31 años . La noticia del embarazo se dio a conocer en mayo, pero hasta el momento el actor no había hablado en público sobre cómo estaba viviendo este momento. Lo hizo recién ahora, en una entrevista conjunta con su hija mayor, Corinne Foxx, de 32 años, con la que promociona el programa Beat Shazam . “ Por mi edad, tenía mis dudas ”, reconoció Foxx ante E! News. La charla que le cambió la cabeza fue con Pacino, que hace dos años, a los 84, le dio la bienvenida a su hijo Roman y hoy sigue firme en la crianza. Foxx contó la anécdota con el tono de comedia que lo caracteriza: “Le pregunté: ‘Al, ¿vas a volver a hacer fila en el jardín de infantes para buscar a tu hijo?’”, contó Foxx. E inmediatamente, él mismo respondió su pregunta: “Le dije: ‘¡Ay, entonces yo estoy más que bien!’”. Ese cruce funcionó como espejo y como permiso. Si Pacino podía sostener la paternidad a los 86, la pregunta sobre si Foxx podía hacerlo a los 58 dejaba de tener el peso que tenía. La relación entre Foxx y Huckstepp no fue lineal. El romance se confirmó en agosto de 2023, luego de que la pareja fuera vista cenando con un grupo de amigos en Malibú. Se separaron un año y medio después, en enero de 2025, justo en uno de los momentos de mayor actividad profesional para el actor: ese mes estrenó De vuelta a la acción , el film que rodó junto a Cameron Diaz. Ese estreno llegaba cargado de un peso particular. En abril de 2023, en pleno rodaje de esa película en Atlanta, Foxx sufrió una complicación médica grave que después trascendería como un ACV y lo mantuvo hospitalizado varias semanas. Su hija Corinne fue qui",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/jamie-foxx-se-refirio-por-primera-vez-al-embarazo-de-su-novia-de-31-anos-tenia-mis-dudas-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 05:44:01 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/F6E4XHDZ6VBD7J67QLC65VTJOA.jpg?auth=954fde522b8b9d0544d121567aa87b3262bcb727513951492d45028e13e04256&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "588628c17b9e0c9e8b09",
+      "title": "Ángel Di María puso en duda su futuro tras la eliminación de Rosario Central: \"Ahora me va a tocar pensar\"",
+      "summary": "Tras la derrota con Corinthians, Fideo no confirmó su continuidad en Rosario Central. El Fideo reconoció que el golpe fue duro y que ahora deberá pensar qué quiere hacer. El campeón del mundo volvió a dejar en duda su futuro después de quedar afuera de la Libertadores.",
+      "link": "https://www.clarin.com/deportes/angel-di-maria-puso-duda-futuro-eliminacion-rosario-central-ahora-va-tocar-pensar_0_vG6xvOzXFO.html",
+      "pubDate": "Fri, 21 Aug 2026 05:41:23 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/08/21/kySD4IvIs_1200x630__1.jpg"
+    },
+    {
+      "id": "308eaf8852201ebfd1ad",
+      "title": "Ronaldinho, presentado con 46 años: \"Estoy en forma\"",
+      "summary": "El jugador brasileño habló junto con el presidente del conjunto italiano",
+      "link": "https://www.marca.com/futbol/liga-italiana/2026/08/21/ronaldinho-ficha-ravenna-46-anos-busca-sueno-gol-300-forma.html",
+      "pubDate": "Fri, 21 Aug 2026 05:40:36 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/dbECc1gXrkw7ae62j.jpeg"
+    },
+    {
+      "id": "61cbf046aa4839ecbb8c",
+      "title": "Rusia derriba más de 300 drones ucranianos en una noche",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/623424-rusia-derriba-drones-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 05:34:59 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "0898b98f83d6ddc6bd4f",
+      "title": "VIDEO: Darth Vader sorprende al declarar ante la justicia",
+      "summary": "Un insólito personaje irrumpió este miércoles en una audiencia del Concejo Municipal de San Diego (EE.UU.), vestido como Darth Vader. El hombre tomó la palabra para defender las controvertidas cámaras de vigilancia Flock, mientras la característica respiración del villano de 'Star Wars' resonaba a través del micrófono. El individuo se presentó simplemente como Darth Vader y aprovechó su intervención para comparar esa tecnología con una herramienta del Imperio.",
+      "link": "https://actualidad.rt.com/actualidad/623420-darth-vader-sorprende-declarar-justicia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 05:33:47 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "db7c7ff7f6ec640b3f28",
+      "title": "Bertín Osborne recuerda a sus hijos al hablar de Venezuela: “No han conocido su país porque yo no puedo ir; me pusieron en búsqueda y captura”",
+      "summary": "El cantante reivindica su fuerte vínculo personal con Venezuela y lamenta que los dos hijos que tuvo con Fabiola Martínez todavía no hayan podido conocer el país de su madre.",
+      "link": "https://www.clarin.com/internacional/bertin-osborne-recuerda-hijos-hablar-venezuela-conocido-pais-puedo-ir-pusieron-busqueda-captura_0_o0y7OMVqFz.html",
+      "pubDate": "Fri, 21 Aug 2026 05:30:34 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/21/lf5LVx9d0_1200x630__1.jpg"
+    },
+    {
+      "id": "ad66ef9b63743beffdae",
+      "title": "La Corte Suprema definió que el gendarme que fingió ser atropellado en la Panamericana irá a juicio",
+      "summary": "Juan López Torales había simulado que fue atropellado durante una protesta de trabajadores de Lear en el 2014. Está imputado por los delitos de \"privación ilegal de la libertad agravada por haber sido cometida con violencia y falso testimonio\".",
+      "link": "https://www.clarin.com/policiales/corte-suprema-definio-gendarme-fingio-atropellado-panamericana-ira-juicio_0_xBCBsuAuk9.html",
+      "pubDate": "Fri, 21 Aug 2026 05:23:30 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/21/UcFuBK7px_1200x630__1.jpg"
+    },
+    {
+      "id": "0d8010fde8979b85667a",
+      "title": "Inesperado visitante 'toma rehén' a un avión de pasajeros e impide su despegue",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/623422-inesperado-visitante-toma-rehen-avion?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 05:18:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "4cdad1d0e73589fa3a1e",
+      "title": "Román, perito de automóviles: \"El renting es ideal para quien odia los imprevistos o cambia de coche a menudo\"",
+      "summary": "El renting gana terreno entre quienes prefieren pagar una cuota fija y evitar gastos inesperados. Un perito de coches explicó qué ventajas ofrece y en qué casos puede terminar saliendo más caro.",
+      "link": "https://www.clarin.com/internacional/roman-perito-automoviles-renting-ideal-odia-imprevistos-cambia-coche-menudo_0_oCAXuKdOcS.html",
+      "pubDate": "Fri, 21 Aug 2026 05:03:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/13/zSgAx4Uz8_1200x630__1.jpg"
+    },
+    {
+      "id": "4ee25aaac650c674cafa",
+      "title": "Tormentas y posibles tornados azotan el noreste de EEUU, inundan carreteras y dañan playas",
+      "summary": "Tormentas severas golpearon el noreste de EE.UU., causando inundaciones en Nueva Jersey y cortes eléctricos en Delaware. Sin heridos graves reportados. Un posible tornado en Long Island dañó propiedades y dejó personas atrapadas. Equipos de emergencia trabajan en rescates y evaluación de daños.",
+      "link": "https://www.clarin.com/estados-unidos/tormentas-y-posibles-tornados-azotan-el-noreste-de-eeuu-inundan-carreteras-y-danan-playas_0_aOdalH4ARy.html",
+      "pubDate": "Fri, 21 Aug 2026 05:00:12 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
+    },
+    {
+      "id": "95f581845d0993016e06",
+      "title": "Astro de Diamondbacks Ketel Marte irá a lista de lesionados por 10 días tras ausencia misteriosa",
+      "summary": "El infielder de Arizona, ausente por lesión, regresa a Phoenix para evaluar su rodilla, en plena lucha por un cupo en los playoffs. El jugador clave de los D-backs, con 21 cuadrangulares, enfrenta un revés en su salud, afectando al equipo en un momento crucial.",
+      "link": "https://www.clarin.com/estados-unidos/astro-de-diamondbacks-ketel-marte-ira-a-lista-de-lesionados-por-10-dias-tras-ausencia-misteriosa_0_UobwiyU1Si.html",
+      "pubDate": "Fri, 21 Aug 2026 05:00:08 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
+    },
+    {
+      "id": "b2113bdc76bc869ad462",
+      "title": "Naty Franz, pionera del tapping: “Cualquier desequilibrio trae enfermedad”",
+      "summary": "Naty Franz , instructora de yoga, creadora del Método NF y pionera del tapping (Técnica de Liberación Emocional) en la Argentina, expuso en el ciclo Conversaciones de LA NACION la importancia y los beneficios que trae esta técnica para las emociones. Para definirlo, la influencer de bienestar sostuvo: “ El tapping es una técnica de liberación emocional que trata de dar unos golpecitos , un golpeteo suave en diferentes puntos del cuerpo. Estamos llenos de puntos que son meridianos donde haciéndolos la energía se equilibra\". “Decimos en yoga y en ayurveda, que es la medicina de yoga, que cualquier desequilibrio trae enfermedad “, sumó. Naty Franz en Conversaciones con Pia Shaw Asimismo, agregó: “Todas tenemos un cuerpo físico, cuerpo energético, cuerpo mental, cuerpo emocional y el cuerpo espiritual. Esto regula toda la emoción. Es como bajamos esa intensidad de miedo, de ansiedad, de estrés, dolor físico, migraña, colon irritable, psoriasis, todo lo que te detona, vos bajás asimilando”. Para explicar esta técnica, Franz sostuvo que no solo consta de realizar golpes suaves en el cuerpo, sino que se deben repetir frases en voz alta, por ejemplo: “Hacemos afirmaciones que decimos, esta emoción que siento ahora, la que sea negativa o que te genere malestar, la acepto total y completamente”. “Cuando yo acepto, que es integrar, hago que esa emoción baje, esa intensidad que es lo que se genera el trauma” , sumó. View this post on Instagram Según la especialista, el acto de aceptar un trauma ayuda a vivir mas tranquilo, ya que se genera por una intensidad, de una emoción fuerte que las personas no pueden equilibrar o asentar en el cuerpo. Es por ello que explicó: “ Cuando yo acepto esto que tengo lo acepto total y completamente y elijo y decimos lo opuesto . Elijo estar tranquila, elijo estar en paz. Elijo pensar bien, conectarme con todo lo que sí puedo hacer, me conecto con mi respiración, puedo estar tranquilo, libero todo lo que hay de tensión”. “Cuando yo hago esto, ens",
+      "link": "https://www.lanacion.com.ar/lifestyle/naty-franz-pionera-del-tapping-cualquier-desequilibrio-trae-enfermedad-nid21082026/",
+      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/KROOC53GQRH37HVC2Z5EIKPHYA.jpg?auth=545f2e897c615be3d639e5a7289ab8981be7088f9d8189943f2940e3b87e979e&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "4967a781154ef615d640",
+      "title": "Golpe de precisión: la artillería rusa trunca la rotación de posiciones ucranianas en el Donbass (VIDEO)",
+      "summary": "La dotación de un obús autopropulsado Msta-S, perteneciente a la 385.ª brigada de artillería de la agrupación de tropas Centro del Ejército ruso, frustró una rotación de unidades de las Fuerzas Armadas de Ucrania en las cercanías de la ciudad de Dobropolie, una de las direcciones en las que avanza la ofensiva rusa en el Donbass.",
+      "link": "https://actualidad.rt.com/actualidad/623418-golpe-precision-artilleria-rusa-posiciones-ucranianas?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Fri, 21 Aug 2026 04:57:24 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87d4ffe9ff710b707e6430.png"
+    },
+    {
+      "id": "32081747f593f23bc8ad",
+      "title": "De conquistar Europa con España a fichar por el Chapecoense: el largo viaje de Miguel Carvalho",
+      "summary": "El Chapecoense ficha a Miguel Carvalho, campeón europeo sub-19 con España",
+      "link": "https://www.marca.com/futbol/2026/08/21/conquistar-europa-espana-fichar-chapecoense-viaje-miguel-carvalho.html",
+      "pubDate": "Fri, 21 Aug 2026 04:55:40 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a87bd9d08390.jpeg"
+    },
+    {
+      "id": "c7017a4824826a2292f4",
+      "title": "Huevos y yogur griego: el desayuno que puede ayudarte a perder grasa abdominal según el experto Paúl Lucín",
+      "summary": "La propuesta del entrenador personal apunta a comenzar la jornada con alimentos que conduzcan a evitar decisiones impulsivas que pueden llevar a comer de más. También recomienda una estructura sencilla para las principales comidas, con vegetales, frutas, agua y fuentes de proteína como base.",
+      "link": "https://www.clarin.com/internacional/huevos-yogur-griego-desayuno-puede-ayudarte-perder-grasa-abdominal-experto-paul-lucin_0_zYDe0WO1xH.html",
+      "pubDate": "Fri, 21 Aug 2026 04:53:25 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/21/cTSuBXrei_1200x630__1.jpg"
+    },
+    {
+      "id": "d7c5f36aa583ff9e5b1f",
+      "title": "Primer grupo de deportados llega al convulso Haití tras fin del TPS en EEUU",
+      "summary": "Estados Unidos deportó a más de 160 haitianos, marcando el fin del Estatus de Protección Temporal para muchos. El vuelo aterrizó en Cabo Haitiano por seguridad. Activistas y funcionarios advierten sobre el peligro en Haití y la falta de recursos para recibir a los deportados. La violencia de pandillas sigue afectando al país.",
+      "link": "https://www.clarin.com/estados-unidos/primer-grupo-de-deportados-llega-al-convulso-haiti-tras-fin-del-tps-en-eeuu_0_X0vcBfctwV.html",
+      "pubDate": "Fri, 21 Aug 2026 04:40:09 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
+    },
+    {
+      "id": "05eee4fcf765f8dcbb1b",
+      "title": "La Justicia declaró la caducidad del Frente Renovador y no podrá presentar candidatos en Chubut",
+      "summary": "El Juzgado Federal de Rawson N°1 le retiró la personería jurídica al partido de Sergio Massa. La resolución se funda en que hace cuatro años no realiza elecciones internas.",
+      "link": "https://www.clarin.com/politica/justicia-declaro-caducidad-frente-renovador-podra-presentar-candidatos-chubut_0_j3XoO0xH45.html",
+      "pubDate": "Fri, 21 Aug 2026 04:14:10 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2018/10/02/nZWvW_1Hs_1200x630__1.jpg"
+    },
+    {
       "id": "f8c095827d50dda16400",
       "title": "El gesto de Ángel Di María a los hinchas de Corinthians y su mensaje con sabor a despedida tras la derrota en Brasil",
-      "summary": "Rosario Central perdió 1-0 contra Corinthians en Brasil y quedó eliminado en los octavos de final de la Copa Libertadores . Se trató un partido parejo que tuvo entre sus protagonistas a Ángel Di María , no tanto por su fútbol, sino por un gesto hacia la hinchada del Timao y unas declaraciones pospartido que encendieron las alarmas del pueblo Canalla: “ Ahora va a tocar pensar y ver qué es lo que quiero seguir haciendo ”. A los poco minutos de iniciado el segundo tiempo, aún con el marcador en un pálido 0-0, Di María realizó un gesto que rápidamente se viralizó en redes sociales. El capitán del conjunto rosarino se repuso luego de recibir un falta y, durante ese movimiento, se levantó el short y se palmeó la pierna justo sobre un tatuaje de la Copa del Mundo obtenida en Qatar 2022 con la selección argentina. El provocativo gesto de Di María Pese a que la acción de Di María pasó inadvertida por el árbitro del partido, el venezolano Alexis Herrera , y ningún jugador de Corinthians se percató del movimiento, en redes sociales los posteos con los videos que retrataron el momento, se llenaron de mensajes con críticas hacia el argentino y rechazo, señalando una actitud “soberbia” del jugador. No obstante, el episodio que sí fue percibido por Herrera fue el protagonizado por Raniele . A los 54 minutos del complemento, el mediocampista brasileño fue a rechazar una pelota, dejó la plancha y terminó impactando de lleno en la pierna del delantero rosarino, Enzo Copetti . Pese a la violencia del choque, en primera instancia, el juez decidió no sacar la tarjeta roja, pero un llamado por el VAR, lo hizo cambiar de opinión . Una vez frente a las pantallas, el juez volvió a ver la jugada y determinó la expulsión del jugador de Corinthians. A esas alturas, el choque disputado en el Neo Química Arena había llegado a su punto de efervescencia. Esa roja para el Timao recordó lo ocurrido en el partido de ida disputado en el Gigante de Arroyito, cuando el equipo brasileño también se quedó",
+      "summary": "Rosario Central perdió 1-0 contra Corinthians en Brasil y quedó eliminado en los octavos de final de la Copa Libertadores . Se trató de un partido parejo que tuvo entre sus protagonistas a Ángel Di María , aunque no tanto por su fútbol, sino por un gesto hacia la hinchada del Timao y unas declaraciones, pospartido, que encendieron las alarmas del pueblo canalla: “ Ahora va a tocar pensar y ver qué es lo que quiero seguir haciendo ”. A los pocos minutos de iniciado el segundo tiempo, aún con el marcador en un pálido 0-0, Di María realizó un gesto que rápidamente se viralizó en redes sociales. El capitán del conjunto rosarino se repuso luego de recibir una falta y, durante ese movimiento, se levantó el short y se palmeó la pierna justo sobre un tatuaje de la Copa del Mundo obtenida en Qatar 2022 con la selección argentina. El provocativo gesto de Di María Pese a que la acción de Di María pasó inadvertida por el árbitro del partido, el venezolano Alexis Herrera , y ningún jugador de Corinthians se percató del movimiento, en redes sociales los posteos con los videos que retrataron el momento se llenaron de mensajes con críticas y rechazo hacia el argentino, señalando una actitud “soberbia” por parte del jugador. No obstante, el episodio que sí fue percibido por Herrera fue el protagonizado por Raniele . A los 54 minutos del complemento, el mediocampista brasileño fue a rechazar una pelota, dejó la plancha y terminó impactando de lleno en la pierna del delantero rosarino, Enzo Copetti . Pese a la violencia del choque, en primera instancia, el juez decidió no sacar la tarjeta roja, pero un llamado del VAR lo hizo cambiar de opinión . Una vez frente a las pantallas, el juez volvió a ver la jugada y determinó la expulsión del jugador de Corinthians. A esas alturas, el choque disputado en el Neo Química Arena había llegado a su punto de efervescencia. Esa roja para el Timao recordó lo ocurrido en el partido de ida disputado en el Gigante de Arroyito, cuando el equipo brasile",
       "link": "https://www.lanacion.com.ar/deportes/el-gesto-de-angel-di-maria-a-los-hinchas-de-corinthians-y-su-mensaje-con-sabor-a-despedida-tras-la-nid21082026/",
       "pubDate": "Fri, 21 Aug 2026 04:13:43 +0000",
       "source": "La Nacion",
@@ -1824,6 +2075,26 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/EQ7YKI4FTREH7JT5E3O5SDKTK4.jpg?auth=5662c5c6a91f98c18293f119e7031a20fb68b4fb4a3556afdd8a7ac84fdfbf3b"
+    },
+    {
+      "id": "374873f366fab31c4c0e",
+      "title": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
+      "summary": "Preston Harp, hermano de Natalie Harp, asistente personal de Trump.",
+      "link": "https://elpais.com/america/2026-08-21/la-vida-revolucionaria-en-nicaragua-del-hermano-de-natalie-harp-la-devota-secretaria-de-trump.html",
+      "pubDate": "Fri, 21 Aug 2026 04:00:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/CRVHX7LIJJFAXHWBB4N67PPFBU.jpg?auth=b4bd7135985ac4141c5c446a0938e720abda6a8f76875f2651380e16aaa62346"
+    },
+    {
+      "id": "c67452a9be82be71439b",
+      "title": "Las multinacionales energéticas regresan a Venezuela",
+      "summary": "Buque petrolero en Barcelona (Venezuela), el 29 de enero.",
+      "link": "https://elpais.com/america/2026-08-21/las-multinacionales-energeticas-regresan-a-venezuela.html",
+      "pubDate": "Fri, 21 Aug 2026 04:00:00 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/CBANUB3VLNMEBNHEOJ4WKD4T5M.jpg?auth=a0346b7d7c98d5a84a0cf721c96a32fa98e1afb3e5675709460da1172d4e413b"
     },
     {
       "id": "31a694aca93c32810cd2",
@@ -1896,116 +2167,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/XSHACUMADNPZXON6P7JGG4VEI4.jpg?auth=e9d3cbc78f1942acd574f01dac59823e0c3a07aa4ab4a880dd280a8f1afce526"
     },
     {
-      "id": "ba8a3e0db60cb7f0964a",
-      "title": "VIDEO: EE.UU. muestra el reabastecimiento aéreo de sus cazas desplegados en Oriente Medio",
-      "summary": "El Mando Central de EE.UU. (CENTCOM) difundió un video que muestra una operación de reabastecimiento aéreo en pleno vuelo sobre Oriente Medio, grabada desde un avión cisterna KC-135 Stratotanker. En las imágenes se observa primero a varios cazas F-16 acercarse y conectarse a la pértiga del aparato para recibir combustible. Después, la secuencia muestra el reabastecimiento de un KC-46 Pegasus, otro avión cisterna de la Fuerza Aérea estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/623416-video-eeuu-muestra-reabastecimiento-aereo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:44:25 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87c71259bf5b5b407bc95b.jpg"
-    },
-    {
-      "id": "d45c37ceed88748a0673",
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El SMN anticipa para este viernes temperaturas entre 4°C y 11°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-viernes-21-agosto-2026_0_qw9M7mSzG5.html",
-      "pubDate": "Fri, 21 Aug 2026 03:40:09 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/OKwzDy8-G_1200x630__1.jpg"
-    },
-    {
-      "id": "3d03d44d157e3e6e9641",
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_jTwgaq8Zow.html",
-      "pubDate": "Fri, 21 Aug 2026 03:39:45 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/uIpHwpc_L_1200x630__1.jpg"
-    },
-    {
-      "id": "b3d1ffb7d17129956b97",
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_nfOdgSFEep.html",
-      "pubDate": "Fri, 21 Aug 2026 03:39:45 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/g8BBYIxw-_1200x630__1.jpg"
-    },
-    {
-      "id": "3236a5366c561d119c23",
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_6goezgfgkO.html",
-      "pubDate": "Fri, 21 Aug 2026 03:39:45 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg"
-    },
-    {
-      "id": "9e7ad6f4a4ead7d1387f",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_u4jFYewaAv.html",
-      "pubDate": "Fri, 21 Aug 2026 03:39:22 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/0tmlBHI7p_1200x630__1.jpg"
-    },
-    {
-      "id": "9fb48b747bdf987b8233",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_roUhwUgP1k.html",
-      "pubDate": "Fri, 21 Aug 2026 03:39:21 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/xTYjS08zx_1200x630__1.jpg"
-    },
-    {
-      "id": "f72aa35c0abb7771e875",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_moSDhwq3j6.html",
-      "pubDate": "Fri, 21 Aug 2026 03:39:21 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/kdfX1azIe_1200x630__1.jpg"
-    },
-    {
-      "id": "61cb87356968f3ef0ce2",
-      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_a2ccPpHZu7.html",
-      "pubDate": "Fri, 21 Aug 2026 03:38:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/D7oJD2O4p_1200x630__1.jpg"
-    },
-    {
-      "id": "8a675bff8308ad814c0d",
-      "title": "Clima hoy en Barquisimeto, Venezuela: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-barquisimeto-venezuela-pronostico-tiempo-viernes-21-agosto-2026_0_rJYwrlH2eG.html",
-      "pubDate": "Fri, 21 Aug 2026 03:38:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/7YvWN-kcf_1200x630__1.jpg"
-    },
-    {
-      "id": "cebf60218c04c929b6f0",
-      "title": "Clima hoy en Tacuarembó, Uruguay: el pronóstico del tiempo para este viernes 21 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-tacuarembo-uruguay-pronostico-tiempo-viernes-21-agosto-2026_0_0PvVmX1bJQ.html",
-      "pubDate": "Fri, 21 Aug 2026 03:38:56 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/owb6L8N_q_1200x630__1.jpg"
-    },
-    {
       "id": "523fc8e7ee29dbc8381d",
       "title": "El verano de los algoritmos: ¿Cómo cambian las recomendaciones de TikTok, Instagram y Spotify?",
       "summary": "Aplicaciones en la pantalla de un móvil.",
@@ -2044,7 +2205,7 @@
       "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/QWJC6GHHUZER7DNXSLLGB2AMWQ.jpg?auth=0b14ba2a9b8c42e586c2642146602346ce7d9f1ef1f2c57e93c1a1bed6886933"
+      "image": "https://imagenes.elpais.com/resizer/v2/ZCDVWDQVZZAGPJFQE5TTDH3FCQ.jpg?auth=9555167c90e1b55f24472fc12d95b3502abbbfc3d378ae99de5a16d3ee22178e"
     },
     {
       "id": "999f786ca8e00720e63e",
@@ -2127,6 +2288,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/NUWNISTN4FA6RAWNXR33MAGW6M.JPG?auth=4aae0f00fbc85b6a12bf8fa997dc4ce8aacead16f0516fa9d61dc936fb4df475"
     },
     {
+      "id": "ec4aab305cf872fc4ccd",
+      "title": "‘Historia verdadera de la conquista de la Nueva España’: chanchullos, aventuras y rapiñas explicadas por un soldado escritor",
+      "summary": "'Cortés ordena la destrucción de su flota en Veracruz en 1519', de Nicolas Eustache Maurin (1799-1850).",
+      "link": "https://elpais.com/babelia/2026-08-21/historia-verdadera-de-la-conquista-de-la-nueva-espana-una-narracion-parcial-desde-el-punto-de-vista-de-un-vencedor.html",
+      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/FNQ3CFGUG5ADRA4LJRUFNKIK34.jpg?auth=b4e7894503bfecfc1b79b46f1d3b15683912d03f28b46cecdf74e520ae28c420"
+    },
+    {
       "id": "541bcee75825b8fcd6fd",
       "title": "Tito Álvarez, ocho años después de las protestas del taxi: “Yo soy Dios o el diablo, no hay término medio”",
       "summary": "El portavoz de Élite Taxi, Tito Álvarez, durante una asamblea de julio de 2018.",
@@ -2135,16 +2306,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/ZCC5F6244RHPNC4Q33RGNTOF3I.jpg?auth=ca664abde96aa03197e4171c76b8a4afaaff63eadfa9d8c98801f8926464b9a6"
-    },
-    {
-      "id": "df67c958687cd47d182c",
-      "title": "De ‘Casablanca’ a ‘Resacón en Las Vegas’: la serie que lleva a los personajes de ‘Star Trek’ a explorar nuevos mundos narrativos",
-      "summary": "Rebeca Romijn y Anson Mount siguen al frente de 'Star Trek: Strange New Worlds' en su cuarta temporada.",
-      "link": "https://elpais.com/television/series/2026-08-21/de-casablanca-a-resacon-en-las-vegas-la-serie-que-lleva-a-los-personajes-de-star-trek-a-explorar-nuevos-mundos-narrativos.html",
-      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/7F73MWQULZCMBI7HA7SJMEKYMM.webp?auth=6c5203f3ca2f39d83172d674397c7d56a0e0d5616bcb7477344565035bd3e3f7"
     },
     {
       "id": "cd022b42e70188751352",
@@ -2157,6 +2318,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/36WGPFNUIFDZTGF62A7LBTFF7A.JPG?auth=f2b1145d6d74d4ef7e5889c87637944eec24ca232cdab755f6d8a1565eedf56c"
     },
     {
+      "id": "df67c958687cd47d182c",
+      "title": "De ‘Casablanca’ a ‘Resacón en Las Vegas’: la serie que lleva a los personajes de ‘Star Trek’ a explorar nuevos mundos narrativos",
+      "summary": "Rebeca Romijn y Anson Mount siguen al frente de 'Star Trek: Strange New Worlds' en su cuarta temporada.",
+      "link": "https://elpais.com/television/series/2026-08-21/de-casablanca-a-resacon-en-las-vegas-la-serie-que-lleva-a-los-personajes-de-star-trek-a-explorar-nuevos-mundos-narrativos.html",
+      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/7F73MWQULZCMBI7HA7SJMEKYMM.webp?auth=6c5203f3ca2f39d83172d674397c7d56a0e0d5616bcb7477344565035bd3e3f7"
+    },
+    {
       "id": "5a649d2c5612a2cf995e",
       "title": "Nueva esperanza contra el cáncer",
       "summary": "Un vial y una jeringa, fotografiados frente al logotipo de Merck.",
@@ -2165,26 +2336,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/JB5JYEHCAVJT7GRLOIZB6RFO7A.jpg?auth=ea22407ee9f67f2b755eed7e19c62a058970cafe81e1bc2240203c54a939ad05"
-    },
-    {
-      "id": "39ba971e2ef532e941d9",
-      "title": "¿Pueden los progresistas de Estados Unidos impulsar el crecimiento económico?",
-      "summary": "Cuando el alcalde de la ciudad de Nueva York, Zohran Mamdani , nombró a Anthony Shorris y Lina Khan al frente de la Corporación de Desarrollo Económico (EDC, por sus siglas en inglés) de la ciudad —como presidente de la corporación y presidenta del consejo de administración, respectivamente—, no se limitó a cubrir dos importantes vacantes del gobierno municipal. También dejó claro que es consciente de un problema crucial con el que la izquierda lleva lidiando mucho tiempo: cómo conseguir no solo la redistribución, sino también el crecimiento económico. Seguir leyendo",
-      "link": "https://elpais.com/opinion/2026-08-21/pueden-los-progresistas-de-estados-unidos-impulsar-el-crecimiento-economico.html",
-      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/M2FC2GEEUZE6VDJPY62MVTVADI.jpg?auth=76f32c735149816584737c0056b3993c5be0b6c6187a1111123494e549d77558"
-    },
-    {
-      "id": "19c63d9309f8a42ee5da",
-      "title": "De estrecho a estrecho, es el turno de Europa",
-      "summary": "Desde la izquierda, el presidente turco, Recep Tayyip Erdogan; el príncipe heredero saudí, Mohammed bin Salman, y el primer ministro de Pakistán, Shehbaz Sharif, posaban el día 7 en La Meca tras firmar el acuerdo de defensa, en una fotografía difundida por la presidencia de Turquía.",
-      "link": "https://elpais.com/opinion/2026-08-21/de-estrecho-a-estrecho-es-el-turno-de-europa.html",
-      "pubDate": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/5ZQ6UBY7SVGXTHXXOOHNCVUTIU.JPG?auth=a01d8d2c07974e0340d391a4b3628dbb676e8e7f17ce2069f0215beb0a7ebfc6"
     },
     {
       "id": "0d06c37c652aaf1de22d",
@@ -2207,16 +2358,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/XWSE5ZM6KJM7THZIECZF5QFS2I.jpg?auth=7f93d71f380b812fc7444e2403066781bc3fe0f20633495aada2c3cfcc3883cc"
     },
     {
-      "id": "57b1111d353cbf9d3fff",
-      "title": "Faquires, fuego, música y buena mesa: Ever Cubilla, el chef paraguayo que reina en la noche de Barcelona",
-      "summary": "El cocinero Ever Cubilla en Casa Calvet, en Barcelona.",
-      "link": "https://elpais.com/gastronomia/2026-08-21/faquires-fuego-musica-y-buena-mesa-ever-cubilla-el-chef-paraguayo-que-reina-en-la-noche-de-barcelona.html",
-      "pubDate": "Fri, 21 Aug 2026 03:30:00 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/QOGJMCRBBRD5TAGKSCTCLTNPR4.jpg?auth=e26d76d7831abae1813ac82bcf9e1301f4876c8d5d1385afe519959fa509b973"
-    },
-    {
       "id": "b6432c25aee8e0eaed7a",
       "title": "El Egipto oculto en las profundidades: siete días buceando por el sur del mar Rojo",
       "summary": "Un buzo contempla las cuevas submarinas de Claudia Reef, al sur del mar Rojo egipcio.",
@@ -2225,6 +2366,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/OD3UZ4GYMVDMPDLFHZ3II2BYX4.jpg?auth=f789bc0a98a4e8a26497e5ade85f4749fc9dc88f290f3a3bf6477d2bb2368290"
+    },
+    {
+      "id": "57b1111d353cbf9d3fff",
+      "title": "Faquires, fuego, música y buena mesa: Ever Cubilla, el chef paraguayo que reina en la noche de Barcelona",
+      "summary": "El cocinero Ever Cubilla en Casa Calvet, en Barcelona.",
+      "link": "https://elpais.com/gastronomia/2026-08-21/faquires-fuego-musica-y-buena-mesa-ever-cubilla-el-chef-paraguayo-que-reina-en-la-noche-de-barcelona.html",
+      "pubDate": "Fri, 21 Aug 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/QOGJMCRBBRD5TAGKSCTCLTNPR4.jpg?auth=e26d76d7831abae1813ac82bcf9e1301f4876c8d5d1385afe519959fa509b973"
     },
     {
       "id": "eef1c0feb279045be46f",
@@ -2247,16 +2398,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/XTHWPKCXUNHIPL2P5HYI2EQR3M.jpg?auth=08e85b3314c11005b4a3fd9b5d13f0d84fbf9f2aa3b2699fc111f283f4a4ed38&smart=true&width=5307&height=3538"
     },
     {
-      "id": "a4ffa16850c3665939a8",
-      "title": "El bitcóin se dispara por encima de los 75.000 dólares y marca un nivel no visto en meses",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/623414-bitcoin-dispara-75000-dolares-marca?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:27:43 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "417ce385a9f354f392c0",
       "title": "Star Wars: Ewan McGregor propone spin-off de icónico personaje",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Lucasfilm aún no ha anunciado planes para desarrollar series adicionales de televisión dentro de la franquicia Star Wars más allá de la segunda temporada de Ahsoka . Al igual que ocurre con la estrategia reciente de Marvel Studios, el objetivo principal de la compañía parece orientarse a devolverle a la saga su esplendor en las salas de cine, consolidándola nuevamente como una propiedad de pantalla grande en lugar de priorizar las producciones para plataformas de streaming. La miniserie de seis episodios Obi-Wan Kenobi se estrenó en Disney+ durante el año 2022, explorando pasajes clave en la vida del Maestro Jedi y mostrando su enfrentamiento contra Darth Vader en los años previos a los eventos de A New Hope . La producción contó con una recepción positiva por parte de la audiencia, lo que motivó a los seguidores a solicitar una continuación. A pesar del interés constante manifestado por Ewan McGregor para interpretar nuevamente a su personaje más emblemático, la segunda entrega no se ha materializado oficialmente. No obstante, en una reciente entrevista concedida a Variety, el actor confirmó que ha mantenido conversaciones informales con el presidente de Lucasfilm, Dave Filoni, sobre posibles ideas para desarrollar una nueva historia. Obi Wan es uno de los personajes más queridos en Star Wars «Fue algo muy casual, pero le dije que tiene que haber algo más», reveló McGregor. «Porque Yoda está en otro lugar de la galaxia. Tras el final del Episodio III, cuando todos nos dispersamos por los confines del universo, no habré estado en contacto con él. Pero sigue estando ahí fuera. Así que creo que podría haber una historia sobre Obi-Wan intentando ponerse en contacto con él». El actor bromeó incluso sobre la posibilidad de incorporar un arco romántico entre Obi-Wan Kenobi y la general de la Nueva República, Hera Syndulla, personaje interpretado por su esposa en la vida real, Mary Elizabeth Winstead , en la ser",
@@ -2265,26 +2406,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2022/07/obi-wan-Kenobi-serie.jpg"
-    },
-    {
-      "id": "3c956ca4661b28e919e4",
-      "title": "Una IA mintió, creó identidades falsas y trató de infiltrar código malicioso",
-      "summary": "Un estudiante de informática detectó una actualización sospechosa en GitHub y terminó descubriendo que detrás del intento de sabotaje no había un 'hacker' humano, sino un agente de inteligencia artificial, recoge Reuters.",
-      "link": "https://actualidad.rt.com/actualidad/623408-agente-ia-mintio-creo-identidades-falsas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:22:08 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87b9b8e9ff710de758ceea.jpg"
-    },
-    {
-      "id": "5fd4e26c8767669f9771",
-      "title": "VIDEO: La artillería rusa calcina puestos de control de drones ucranianos",
-      "summary": "Dotaciones de obuses autopropulsados Guiatsint-S de la agrupación de tropas rusas Este destruyeron puntos de control de vehículos aéreos no tripulados enemigos en la provincia de Zaporozhie. La destrucción de los objetivos interrumpió las operaciones de las unidades de drones de las Fuerzas Armadas de Ucrania en este sector y redujo las capacidades del enemigo para realizar reconocimiento aéreo y emplear drones de ataque.",
-      "link": "https://actualidad.rt.com/actualidad/623412-artilleria-rusa-calcina-puestos-control-drones-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:20:32 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87c24a59bf5b20fa12c461.jpg"
     },
     {
       "id": "76264b888379eae2769e",
@@ -2297,26 +2418,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/45PGLRIFUZF6XL7I5PA2UDZQNU.jpg?auth=e9bf7aa16c119b5bf803073d3d9173aa8cf843307ab533f0b7f849fdbd906226&smart=true&width=2000&height=1333"
     },
     {
-      "id": "5f6b9eb459cc34c5a35d",
-      "title": "\"Nadie sabe quién manda ahí\": Trump ironiza sobre el obstáculo para un acuerdo con Irán",
-      "summary": "El presidente estadounidense insistió en que las capacidades militares y de liderazgo de Irán fueron supuestamente eliminadas.",
-      "link": "https://actualidad.rt.com/actualidad/623410-nadie-sabe-manda-trump-ironiza-obstaculo-acuerdo-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:16:48 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87bfa1e9ff716c25127da9.jpg"
-    },
-    {
-      "id": "192d7e55c11d0fea8e15",
-      "title": "VIDEO: Impactante momento en que un posible tornado se lleva el techo de una vivienda en Nueva York",
-      "summary": "Un posible tornado tocó tierra en Atlantic Beach, Nueva York, y dejó daños estructurales importantes en varias propiedades. Los equipos de emergencia acudieron de inmediato para retirar escombros e inspeccionar las zonas afectadas por las tormentas. En redes sociales circula un video en el que se ve cómo el techo de una casa es arrancado por la fuerza del fenómeno. Solo se reportó un trabajador de un club herido, que rechazó atención médica, y no hubo más lesionados.",
-      "link": "https://actualidad.rt.com/actualidad/623413-impactante-momento-posible-tornado-techo-vivienda?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:15:25 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87c229e9ff716c25127dad.jpg"
-    },
-    {
       "id": "c1eb5b2d95c5ab8e5992",
       "title": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
       "summary": "Edificio The Kensington en Boston, propiedad de Pontegadea.",
@@ -2325,6 +2426,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/7YDOTRLKCNAZRBNPX6GPV335ZA.jpg?auth=451a165c413128e2fed99a5ef7616dd1fa2d4bb130c1a39d6a869b806adcdefb"
+    },
+    {
+      "id": "c676aabb145ccb7d20a8",
+      "title": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
+      "summary": "Exterior de la fábrica de Jealsa en Boiro (A Coruña).",
+      "link": "https://cincodias.elpais.com/companias/2026-08-21/el-gran-proveedor-de-atun-en-lata-de-mercadona-bate-record-de-ventas-y-dispara-beneficios.html",
+      "pubDate": "Fri, 21 Aug 2026 03:15:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/47AKIXNPYVDDNAP3MPFX5CG7WM.jpg?auth=53cde1279200c5a886c746ca41573be7bda6914fbb21e0260cc21fae9d3bad0a"
     },
     {
       "id": "e61ac87fcba7fe423c32",
@@ -2345,16 +2456,6 @@
       "source": "La Nacion",
       "cat": "cinema",
       "image": "https://resizer.glanacion.com/resizer/v2/CEYRAU3JWNAARLRZYRWZQEVFA4.jpg?auth=f762abfaa5c08e4b4ce9f60050a0106e6a7686827fc6c16a3c54dab5885ae88f&smart=true&width=8640&height=5760"
-    },
-    {
-      "id": "7bc329fca0f5662a762d",
-      "title": "Meghan Markle habría aspirado a la banca dejada por Kamala Harris en el Senado",
-      "summary": "La esposa del príncipe Enrique del Reino Unido habría solicitado una reunión con el gobernador del estado de California, Gavin Newsom, para expresarle su interés en suceder a Harris, reporta The New York Post.",
-      "link": "https://actualidad.rt.com/actualidad/623400-meghan-markle-aspirar-banca-senado-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Fri, 21 Aug 2026 03:11:36 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a87c1d3e9ff7174b04e0ccd.jpg"
     },
     {
       "id": "0d0e0cf8636c2bc0a2d3",
@@ -2488,106 +2589,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "1377176e9ed4dd27b76e",
-      "title": "Quería trabajar remoto y construyó en un galpón un invento que podría cambiar la navegación para siempre",
-      "summary": "Durante 200 días, Lukas Sjöman trabajó dentro de un galpón improvisado en un bosque de Finlandia. No tenía detrás un astillero o un equipo de ingenieros. Utilizó madera contrachapada, fibra de vidrio y componentes disponibles en el mercado para construir una embarcación de 11 metros capaz de funcionar como vivienda y desplazarse sin combustibles . Estos son los 10 SUV más baratos del país este mes El resultado fue el Helios 11 , un barco solar con el que posteriormente atravesó buena parte de Europa . Sjöman partió desde Finlandia, recorrió costas, ríos y canales de Suecia, Dinamarca, Alemania y Francia, llegó al Mediterráneo y alcanzó Ibiza después de aproximadamente seis meses. La distancia acumulada hasta la isla española fue estimada en unos 5700 kilómetros completados sin cargar nafta ni gasoil . El finlandés, que se presenta como constructor autodidacta, navegante y creador de contenido, ya había fabricado una embarcación más pequeña, el Vigilant 8.5. Después de vivir durante algunos meses a bordo en el archipiélago nórdico, comenzó a proyectar una casa flotante que le permitiera trabajar a distancia y viajar sin depender permanentemente de puertos, alojamientos o estaciones de combustible . Bajo esa idea creó True North Yachts , el nombre con el que documenta sus construcciones y viajes. La premisa del nuevo barco era reducir al máximo el peso para que la energía captada sobre su propio techo fuera suficiente para moverlo. El casco del Helios 11 fue fabricado con madera contrachapada marina de okoumé, recubierta con resina epoxi y fibra de vidrio. Sjöman levantó primero la estructura, instaló los mamparos interiores y luego construyó una cabina que incluyó lo indispensable para vivir, solo con una cama, cocina eléctrica, heladera, baño y espacios de guardado. El barco terminado mide aproximadamente 11 metros de eslora y 2,4 metros de manga y pesa alrededor de 1,5 toneladas . Su aspecto exterior está dominado por una amplia superficie de paneles solares rígido",
-      "link": "https://www.lanacion.com.ar/autos/queria-trabajar-remoto-y-en-un-galpon-construyo-un-barco-solar-para-cruzar-europa-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "tech",
-      "image": "https://resizer.glanacion.com/resizer/v2/SW3DE6XKENFPPMPSGY43E6VWEI.jpg?auth=0c0649864b53d7d84ff270261ba35b209f6b047bac86b84d6561c69f19384200&smart=true&width=1144&height=763"
-    },
-    {
-      "id": "a05a649896d0f80d3ff7",
-      "title": "Hay alerta amarilla por vientos fuertes para este viernes 21 de agosto: las provincias afectadas",
-      "summary": "Luego de una jornada en la que volvió a salir el sol en el Área Metropolitana de Buenos Aires (AMBA), el Servicio Meteorológico Nacional (SMN) emitió para este viernes 21 de agosto una alerta amarilla por vientos fuertes . Según precisó el organismo dependiente del Ministerio de Defensa, las advertencias alcanzan a distintas provincias y se podrían registrar fenómenos “peligrosos” en algunos sectores. La zona afectada por la alerta amarilla por vientos comprende el territorio de Tierra del Fuego y las Islas Malvinas . En ese distrito podrían aparecer fenómenos meteorológicos “con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas”. Esta área será afectada por vientos del sector sur con velocidades entre 40 y 60 kilómetros por hora , y ráfagas que pueden superar los 90. Ante este cuadro, el SMN recomendó evitar salir, retirar o asegurar objetos que puedan ser arrastrados por el viento , como macetas, sillas o toldos, cerrar y alejarse de puertas y ventanas, no refugiarse debajo de marquesinas, carteles publicitarios, árboles o postes, tener precaución al conducir. Según el organismo que depende del Ministerio de Defensa, las buenas condiciones climáticas se replicarán en diferentes puntos del país. Para la región NOA , se esperan condiciones favorables, donde la mínima será, en promedio, de 7°C y la máxima se ubicaría en los 19°C. Las mismas previsiones corren para el centro del país. En tanto, en la región Cuyo se esperan jornadas sin lluvias ni actividad eléctrica . En la previa del fin de semana la temperatura se presentará soleada e ideal para realizar actividades al aire libre. El tiempo en el AMBA El SMN también emitió el pronóstico para este viernes en el AMBA. En la ciudad de Buenos Aires la máxima será de 12°C y la mínima de 7°C . Por la mañana, el cielo estará nublado y con algo de niebla mientras que, a partir del mediodía, se despejará levemente. Para el sábado, se prevén condiciones similares y con una presencia solar mucho m",
-      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-vientos-fuertes-para-este-viernes-21-de-agosto-las-provincias-afectadas-nid21082026/",
-      "pubDate": "Fri, 21 Aug 2026 03:01:00 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/MOBFNSBRMRACXOWPXGC5YRFLWI.png?auth=c4d3490eef34a5b9424c0aef341da5091334b97eec111e71255af7f986affd8c&smart=true&width=544&height=244"
-    },
-    {
-      "id": "543e8b8cdc6e8266479a",
-      "title": "Agenda de TV y streaming del viernes: San Lorenzo en el Clausura, Colapinto en Países Bajos y el tenis en Cincinnati",
-      "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del viernes 21 de agosto de 2026. Fútbol Torneo Clausura 14.30 Aldosivi vs. Unión. TNT Sports. 20 Estudiantes (RC) vs. San Lorenzo. ESPN Premium. Ligas del exterior 15:30 Olympique Marseille vs. Strasbourg. Ligue 1. ESPN 2. 15:50 Arsenal vs. Coventry City. Premier League. ESPN. 16 Betis vs. Real Sociedad. DSports (1610). Automovilismo Fórmula 1 7.30 Práctica 1 del Gran Premio de Países Bajos. Disney+ y Fox Sports. 11.30 Clasificación de la carrera sprint del Gran Premio de Países Bajos. Disney+ y Fox Sports. Tenis 16 El ATP Masters 1000 de Cincinnati. Los cuartos de Final. ESPN 2. 20 El ATP Masters 1000 de Cincinnati. Los cuartos de Final. ESPN 4. Golf 16 BMW Championship. La segunda vuelta. ESPN 3.",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-y-streaming-del-viernes-san-lorenzo-en-el-clausura-colapinto-en-paises-bajos-y-el-tenis-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:59:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/55J6A4ZMXFA6FBRWQLH5SAGOFA.JPG?auth=6e3b999042b5fa2ccc930eae6e01153184739556e864c5fd9c138625896835d8&smart=true&width=2500&height=1666"
-    },
-    {
-      "id": "796e49ef783ff6c0e77c",
-      "title": "Filtran correos electrónicos entre autoridades del ICE y funcionarios de Irán para acordar deportaciones",
-      "summary": "Cientos de correos internos del Servicio de Inmigración y Control de Aduanas de Estados Unidos ( ICE , por sus siglas en inglés) expusieron detalles sobre la organización de tres vuelos que trasladaron a más de 100 ciudadanos iraníes hacia su país de origen . Las operaciones se realizaron en septiembre y diciembre de 2025 y enero del año en curso. El ICE acordó con Irán la realización de vuelos de deportación Los documentos fueron obtenidos por el Consejo Nacional Iraní-Estadounidense ( NIAC , por sus siglas en inglés) a través de solicitudes amparadas en la Ley de Libertad de Información (FOIA, por sus siglas en inglés) y de una posterior acción judicial contra el ICE. Los registros describieron comunicaciones entre funcionarios estadounidenses y representantes iraníes durante la preparación de los vuelos. La NIAC reportó una colaboración confidencial entre el ICE y el gobierno de Irán para ejecutar deportaciones masivas En agosto de 2025, un funcionario del ICE indicó que había incorporado personas a una lista por pedido de la embajada de Irán . Días después, otro mensaje interno mencionó una reunión con el director de la representación iraní y una solicitud para modificar el manifiesto y acelerar una expulsión . Incluso poco antes del primer vuelo, la embajada habría pedido incorporar a tres personas más . La comunicación entre las partes se realizó mediante diferentes canales. Algunos intercambios pasaron por Qatar , país utilizado como punto de conexión, mientras que otros involucraron contactos directos con representantes y con la Sección de Intereses de Irán en la representación ubicada en Pakistán. “La misma administración que más tarde prometería a los iraníes que la ayuda está en camino estaba trabajando para acelerar las deportaciones de solicitantes de asilo ”, dijo Jamal Abdi , presidente del NIAC, en un comunicado . El ICE consideró la deportación de iraníes como prioridad Los documentos vincularon la planificación de las deportaciones con una instrucc",
-      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/filtran-correos-electronicos-entre-autoridades-del-ice-y-funcionarios-de-iran-para-acordar-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:53:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/XKVGTX5ZVRDJTMU7Z2BCGO3ANY.jpg?auth=a4b8848359dd9aadbf6f16cba1da34fa69484d67bb8cfbb7521e070bd5dc07d6&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "8e0c42adcf82c6863786",
-      "title": "Rosario Central perdió con Corinthians y quedó eliminado de la Copa Libertadores",
-      "summary": "El atropello de Emanuel Coronel para cometer un foul innecesario, la pegada de un distinguido como Memphis Depay y el anticipo de Breno Bidon para tocar la pelota y desviarla, la combinación de factores que determinaron el triunfo de Corinthians por 1 a 0 sobre Rosario Central y la clasificación del Timao para los cuartos de final de la Copa Libertadores . Una diferencia que los paulistas descubrieron en el momento más incómodo del juego, cuando jugaban con un futbolista menos por la expulsión de Raniele , y Enzo Copetti había desperdiciado un mano a mano ante el arquero Hugo Souza . Corinthians volvió a celebrar ante los canallas como hace 26 años, aquella vez por penales, y será el rival de Estudiantes en los cuartos de final. Rosario Central volvió a decepcionar en los mata-mata . Un cambio de roles, respecto al partido en el Gigante de Arroyito. Otra actitud y responsabilidad enseñó Corinthians en el inicio : los defensores laterales posicionados en campo rival, en particular Mateuzinho , el volante peruano André Carrillo como eje en el comienzo de la acción y sin ubicación fija para escapar del radar de los mediocampistas canallas… La inquietante presencia de Kaio César , recostado sobre la derecha, y la figura del capitán Rodrigo Garro para conectar entre los volantes y los delanteros. Esa superioridad no se traducía en situaciones de riesgo, hasta que una mala decisión de Ángel Di María y un despeje aún peor de Ignacio Ovando le dio a Corinthians la primera chance : remató Garro y respondió Jeremías Ledesma , que más tarde le ahogó el festejo a Kaio César. A esa altura, Rosario Central no lograba contrarrestar con marca ni juego: Enzo Copetti perdía siempre antes los dos zagueros centrales en el juego aéreo, Di María y Jaminton Campaz no intervenían y Alan Rodríguez -que tomó el lugar de Giovanni Cantizano- con el correr de los minutos recién encontró su lugar: fue una ayuda más para el doble cinco que compusieron Franco Ibarra y Federico Navarro , que una ay",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/rosario-central-perdio-con-corinthians-y-quedo-eliminado-de-la-copa-libertadores-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:42:28 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/FIZ46LD62BCEVHUZL4PGAGBLH4.jpg?auth=cb9c9d136728515d2c37f211bf690a00375136fe721db57b42aabe429f36547c&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "eba8b22e81b6c6f80c08",
-      "title": "El consejo de un entrenador sobre el ejercicio físico después de los 60",
-      "summary": "Cumplir 60 años representa una etapa de cambios profundos donde la calidad de vida depende, en gran medida, de los hábitos cultivados durante décadas previas. En la actualidad, el envejecimiento saludable resulta un objetivo alcanzable si las personas abandonan el sedentarismo y adoptan rutinas de movimiento simples pero efectivas. Según explicó el entrenador personal José Ruiz en diálogo con la revista Clara , el secreto para mantener un estado físico óptimo reside en la constancia y no en la intensidad extrema de los ejercicios . La recomendación central del experto español resulta clara: las personas que superaron los 60 años deben caminar 30 minutos durante cinco días a la semana . Esta práctica, sencilla y accesible, no requiere de equipamiento sofisticado ni de inversiones económicas, pero logra poner en funcionamiento la totalidad de los grupos musculares del cuerpo. Las organizaciones de salud a nivel global coinciden en esta línea al sugerir un rango de entre 150 y 300 minutos de actividad física moderada cada siete días. “Traducido a la práctica, hablamos de caminar unos 30 minutos al día, cinco días por semana” , afirmó Ruiz. Uno de los mitos que el especialista busca desterrar es la obsesión por los 10.000 pasos diarios . Aunque esta cifra posee popularidad en el ámbito del fitness , carece de una obligación médica estricta. De acuerdo con los datos presentados, diversas investigaciones científicas demuestran que los beneficios para la salud aparecen mucho antes. “Para muchas personas mayores, alcanzar entre 6.000 y 8.000 pasos diarios ya supone una mejora significativa respecto al sedentarismo” , sostuvo el entrenador. La clave, según su perspectiva, radica en la progresión y la adaptación individual. Los cambios positivos en el organismo suelen aparecer antes de lo que los pacientes imaginan. A nivel fisiológico, la práctica frecuente de la caminata optimiza la capacidad cardiovascular, reduce la fatiga crónica y facilita el desarrollo de actividades c",
-      "link": "https://www.lanacion.com.ar/lifestyle/el-consejo-de-un-entrenador-sobre-el-ejercicio-fisico-despues-de-los-60-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:35:00 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/VHF4O6NBF5B6DC3ESZ37ANV2KE.jpg?auth=28c67bca052bd60fd71cbbfb4ba2a5ea261d826f8ecf124101707eac3c266439&smart=true&width=2000&height=1298"
-    },
-    {
-      "id": "f8b4694a17da2ddcda09",
-      "title": "Videos: los primeros momentos de los tigres y leones del exzoo de Luján en un santuario para un cambio de vida",
-      "summary": "BETLEHEM, Sudáfrica.– Estamos en Lionsrock, un santuario ubicado en el centro de Sudáfrica con 1200 hectáreas, de las cuales 70 fueron convertidas en recintos para alojar a 80 grandes felinos rescatados por la organización de origen austríaco Four Paws. Muchos de los animales provienen de zoológicos, circos, lugares en guerra (como once leones llegados desde Sudán), cacería enlatada o cotos de caza. Algunos simplemente provienen del mascotismo. A partir de hoy, son 95, tras la llegada de 15 –nueve tigres y seis leones– provenientes del exzoológico de Luján. Ahora están en África, el continente de los grandes felinos. Four Paws firmó un acuerdo hace un año para hacerse cargo de los 60 grandes felinos que quedaban en el predio de Luján tras su clausura en 2020; había entonces 170, más dos osos que ya están en otro santuario en Bulgaria, construido por la misma organización junto con la Fundación Brigitte Bardot para salvar a la totalidad de los osos danzantes de los Balcanes, hoy ya desaparecidos gracias a esta iniciativa. Un total de 30 felinos salieron el lunes del Aeropuerto Internacional de Ezeiza. Los 15 con destino a Lionsrock y otros tantos –ocho tigres y siete leones– que volaron rumbo al Wild Animal Sanctuary en Denver, Colorado, Estados Unidos. El chequeo de los animales en el aeropuerto Los que viajaron a Sudáfrica hicieron trasbordo en Frankfurt adentro de cajas acero con puertas guillotina, espacios para ventilar, aberturas para alimentarlos o darles agua y una tarima de madera como piso que permite que los fluidos de los animales drenen y caigan sobre otra bandeja de acero, manteniéndolos secos y cómodos durante el viaje. Una vez aterrizado el avión de la línea Lufhtansa en el aeropuerto de Johannesburgo, las cajas fueron cargadas a bordo de tres camiones en las que partieron hacia Betlehem, un pequeño pueblito a tres horas de la capital, Pretoria, y cuatro de Johannesburgo. La llegada al santuario fue ayer al anochecer, como se temía. Ni bien el avión a",
-      "link": "https://www.lanacion.com.ar/sociedad/videos-los-primeros-momentos-de-los-tigres-y-leones-del-exzoo-de-lujan-en-un-santuario-para-un-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:29:52 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/6OL4OSNR5ZCCDBW6BHZZGJBXWY.jpg?auth=6b5c90fe290b3e6f4e5d24d901ca908246fc79fdfa2a9d7f2d01d24081d3aea0&smart=true&width=1580&height=1030"
-    },
-    {
-      "id": "7d4821eeed1470f27a4d",
-      "title": "Sorpresa en Arizona: la CBP incautó disfraces elaborados con patas de pollo y plumas de aves desconocidas",
-      "summary": "Un control de rutina en la frontera entre Estados Unidos y México terminó con el decomiso de un cargamento en Arizona . Agentes de la Oficina de Aduanas y Protección Fronteriza ( CBP , por sus siglas en inglés) detectaron una serie de disfraces artesanales que contenían partes de animales cuya entrada al país norteamericano está restringida. El hallazgo de los disfraces artesanales prohibidos que realizó la CBP en Arizona El procedimiento ocurrió en el puerto de entrada de Nogales, donde especialistas agrícolas de la CBP interceptaron los artículos durante una inspección secundaria. Especialistas de la CBP se encargan de analizar y detectar mercancías ilegales que intentan ingresar a Estados Unidos. De acuerdo con el comunicado oficial difundido por el organismo, el viajero había declarado que transportaba productos agrícolas , por lo que los agentes lo derivaron a una revisión exhaustiva tras un primer control. Durante ese examen, los agentes encontraron una bolsa de gran tamaño que contenía los disfraces artesanales . Las piezas incluían patas de pollo y plumas de aves desconocidas , elementos de origen animal que generaron preocupación debido a la posibilidad de que pudieran transportar enfermedades animales extranjeras. Ante ese escenario, los funcionarios determinaron que los objetos no cumplían con las condiciones necesarias para ingresar al territorio estadounidense. La CBP decidió entonces negar la entrada de los disfraces . Además, el viajero fue devuelto a México para que pudiera deshacerse de los materiales, de acuerdo con las disposiciones aplicadas durante la intervención. La CBP explicó por qué los materiales de los disfraces eran un riesgo Las reglas estadounidenses establecen restricciones específicas para numerosos productos de carne , subproductos y otros materiales procedentes de animales. La razón principal es el riesgo de enfermedades que pueden afectar al ganado y a otros componentes del sector agropecuario. La información de la CBP señala que ",
-      "link": "https://www.lanacion.com.ar/estados-unidos/arizona/sorpresa-en-arizona-la-cbp-incauto-disfraces-elaborados-con-patas-de-pollo-y-plumas-de-aves-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:15:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/FEJ6HADLTZGHJP2Y4NTBW44AZA.jpg?auth=fcb7e1d7fd4c2595aa3b3d9f2716bca71b3968c87ee59b2a6b8d944149014986&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "dbd7a25506be2ac02ba5",
-      "title": "Thiago Tirante perdió con Arthur Fils y se despidió del Masters 1000 de Cincinnati",
-      "summary": "El gran torneo de Thiago Tirante llegó a su fin este jueves. El jugador 50° del ranking mundial de tenis cayó por 6-3 y 6-2 ante el francés Arthur Fils (21° preclasificado), al que enfrentó por primera vez, y quedó eliminado en los cuartos de final del Masters 1000 de Cincinnati , en el cemento del Lindner Family Tennis Center de Ohio. El platense, que nunca había llegado a esa instancia en un torneo de esa categoría ni fuera del polvo de ladrillo , jugó el mejor torneo de una trayectoria profesional todavía sin títulos fuera de las seis coronaciones en los Challengers. Justo cuando están en el umbral del US Open, el último Grand Slam de la temporada , cuyo cuadro principal comenzará el domingo 30 de este mes. Pese a la caída, se permite ilusionarse por la semana que transitó. Entre diestros con una enorme fortaleza en el servicio y un juego similar, los puntos fueron mayormente rápidos desde el inicio. Conservar el saque era el tesoro más preciado, tomar bien la devolución valía oro, lograr el quiebre no tenía precio. Una doble falta y una pelota larga de Tirante de manera consecutiva rompieron la monotonía de los games , en detrimento suyo; eso le dio el break a Fils para ponerse 5-3 y, enseguida, cerrar el primer parcial, en 29 minutos. El galo, bastante más sólido y con mayores recursos con el primer golpe, no le perdonó los errores al argentino. Arthur Fils at his scintillating best 👨‍🎨 @CincyTennis | #CincyTennis | @ArthurFils pic.twitter.com/b4bRpL2Rjg ATP Tour (@atptour) August 21, 2026 El segundo set ofreció peloteos algo más largos , que casi siempre concluyeron en punto para el europeo. Y el tercer game marcó la suerte de Thiago, que estuvo muy errático en el servicio y lo cedió sin siquiera sumar, incluso con una pelota que dio en la red cuando le volvía y lo desairó, para convertirse en el 1-2. Entonces, quedó corriendo de atrás, otra vez. Bajo presión, las variantes que intentaba Tirante chocaban contra la firmeza de su rival, que pronto volvió a quebr",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/thiago-tirante-perdio-con-arthur-fils-y-se-despidio-del-masters-1000-de-cincinnati-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:11:55 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/GRRKRR5CQNCCFGNZME7QPUBLXY.jpg?auth=394151f4db00407d1d00bd029a37ccf4b29284f7768e3a505ec2a660426e73d0&smart=true&width=2000&height=1333"
-    },
-    {
-      "id": "acbadb8a1a7d78551b28",
-      "title": "Milei, en el Council of the Americas: “Deposito mi esperanza en los argentinos que no quieren volver al pasado y convertirse en Cuba”",
-      "summary": "El gobernador de la provincia de Buenos Aires, Axel Kicillof , se involucró en la polémica por los altos niveles de morosidad en el pago préstamos y anunció investigaciones y posibles sanciones para las billeteras virtuales que infrinjan la ley de defensa del consumidor. En una conferencia de prensa que brindó este jueves por la tarde, junto con el ministro de Producción bonaerense, Augusto Costa , Kicillof afirmó que existe “ una situación de gravedad extraordinaria ”, porque “no solo el 60% de la población adulta está endeudada, sino que cerca de seis millones de personas se encuentran en situación de mora y no pueden pagar las deudas que contrajeron”. Sergio Massa y su esposa, Malena Galmarini , actual senadora provincial, viajaron al Caribe la semana en que cumplieron sus “30 años de amor”. Lo hicieron acompañados de un grupo de amigos en un jet privado de lujo, propiedad del grupo empresario que lidera Francisco De Narváez , según confirman registros aeronáuticos y migratorios a los que accedió LA NACION . La comitiva, integrada por siete personas, partió desde el aeropuerto de Montevideo el jueves 13 de agosto a las 6:40 AM, apenas 48 horas después de la cumbre del peronismo en el Hotel Emperador de la que participaron, además de Massa, figuras como Máximo Kirchner , el gobernador Axel Kicillof , Ricardo Quintela , Gildo Insfrán y Gerardo Zamora . La salida desde Montevideo es parte de una aparente maniobra de distracción, que suelen utilizar algunas figuras políticas y de la farándula, porque el avión tiene autonomía para viajar desde Buenos Aires, sin escalas. A poco más de un año de las elecciones de 2027, el diputado de Unión por la Patria (UxP) y referente de La Cámpora, Máximo Kirchner , dejó una curiosa frase sobre la posibilidad de que el presidente Javier Milei obtenga la reelección. “ Que la gane porque está bien la economía” , manifestó el hijo de la exmandataria Cristina Kirchner . El jefe de La Cámpora aclaró que no desea que le vaya mal al país, ",
-      "link": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
-      "pubDate": "Fri, 21 Aug 2026 02:07:13 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/4YBOV7COWVCKJKIG4A32WKVUSM.jpg?auth=9d5da99a5c3182e9131275b39aeb42fc6dba42cb303a4592763ba028900c88f8&smart=true&width=1353&height=846"
-    },
-    {
       "id": "3895638d5561d193cc31",
       "title": "Las portadas en Inglaterra con Arteta son para verlas...",
       "summary": "Así vienen los periódicos deportivos de este viernes 21 de agosto de 2026.",
@@ -2608,8 +2609,18 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/FotoJet-2026-07-25T201657.503.jpg"
     },
     {
+      "id": "3b91a625bd5d63ebff8a",
+      "title": "Betis - Real Sociedad | Clásicos enemigos",
+      "summary": "Los dos equipos pelearán una temporada más en LaLiga por los puestos europeos. Abde no llega a tiempo y Oyarzabal será suplente. La Cartuja trae muy buenos recuerdos a los donostiarras",
+      "link": "https://www.marca.com/futbol/primera-division/2026/08/21/betis-real-sociedad-clasicos-enemigos-previa-analisis-pronostico-prediccion.html",
+      "pubDate": "Fri, 21 Aug 2026 00:47:32 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/20/6a8720ef6914e.jpeg"
+    },
+    {
       "id": "89b9f8227280e19d29ac",
-      "title": "\"Si hubiese estado fresco no habríamos perdido\"",
+      "title": "Camello no se calla: \"Para la gente que tendría que haber venido...\"",
       "summary": "Camello conduce el balón perseguido por Boyé.",
       "link": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html",
       "pubDate": "Fri, 21 Aug 2026 00:07:06 +0200",
@@ -2787,5 +2798,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-21T04:30:57.296548+00:00"
+  "updated": "2026-08-21T06:34:04.648902+00:00"
 }
