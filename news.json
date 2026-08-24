@@ -183,16 +183,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38e3/live/56feb170-91e0-11f1-9bc8-c9e5b4077192.jpg"
     },
     {
-      "id": "c16a1ad560a5b7fd58fd",
-      "title": "AMD Zen cumple 10 años: la arquitectura que salvó a AMD de la hecatombe",
-      "summary": "Llevo muchos años compartiendo mi pasión, y mis conocimientos, sobre tecnología con todo aquel que quiera leerme, y esto me ha permitido vivir de primera mano lanzamientos de hardware muy interesantes, pero sin duda uno de los más importantes fue el lanzamiento de Zen, una arquitectura que marcó un antes y un después, y que salvó a AMD de una quiebra que en 2016 parecía inminente. Para entender el papel que jugó Zen de AMD debemos recordar cómo estaba la cosa antes del lanzamiento de esta arquitectura , que fue presentada el 18 de agosto de 2016, y que debutó en el mercado de consumo general a mediados de 2017. AMD pone contra las cuerdas a Intel con los AMD Athlon 64 Aunque muchos creen que AMD nunca logró superar de forma rotunda a Intel hasta la llegada de Zen 3, la verdad es que la historia nos dejó una realidad muy diferente que todos los apasionados de la tecnología con una mente imparcial recordamos a la perfección. AMD logró poner contra las cuerdas a Intel a finales del año 2004 con sus procesadores Athlon 64 , que fueron los primeros en dar el salto a una arquitectura de 64 bits. Ofrecían un rendimiento tan bueno que los Pentium 4 de Intel no tenían nada que hacer. No exagero, la diferencia era tan grande que un Athlon 64 3000+, que funcionaba a 1.800 MHz, era capaz de superar en rendimiento a un Pentium 4 a 3.000 MHz. La compañía pasaba por un buen momento, tanto que se atrevió a lanzar procesadores «premium» con un rendimiento excelente, pero a un precio excesivamente alto. Me refiero a los Athlon 64 FX , que fueron un auténtico lujo y objeto de deseo en su generación. AMD continuó con su buena racha al lanzar los Athlon 64 X2, los primeros procesadores de doble núcleo con un diseño monolítico que daba sopas con honda a los Intel Pentium D. Parecía que Intel no era capaz de responder, y entonces la compañía de Santa Clara rompió el molde con la arquitectura Conroe y los Core 2 Duo, dando uno de los mayores saltos generacionales a nivel de IPC que hemos v",
-      "link": "https://www.muycomputer.com/2026/08/20/amd-zen-cumple-10-anos-la-arquitectura-que-salvo-a-amd-de-la-hecatombe/",
-      "pubDate": "Thu, 20 Aug 2026 11:24:52 +0000",
-      "source": "MuyComputer",
-      "cat": "tech",
-      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/athlon-64.jpg"
-    },
-    {
       "id": "46161e3d9a50580c2302",
       "title": "Lo que la exitosa salida a bolsa de la mayor empresa de robots humanoides del mundo revela sobre el liderazgo tecnológico de China",
       "summary": "Las acciones del mayor fabricante de robots humanoides del mundo comenzaron a cotizar el miércoles en el mercado Star de Shanghái.",
@@ -241,6 +231,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/dfVxo1gYsVLR0lcd7.jpeg"
+    },
+    {
+      "id": "a2bedb2fc5fbd505f72d",
+      "title": "\"No es una guerra entre periodistas e influencers\"",
+      "summary": "Montaje de Laura Meseguer y Erola Jons con Pogacar.",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/opinion/2026/08/23/laura-erola-guerra-periodistas-e-influencers.html",
+      "pubDate": "Sun, 23 Aug 2026 23:33:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b66d5a4889.png"
     },
     {
       "id": "a6348d94bbf68b876afd",
@@ -343,16 +343,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GWMILC3NSNAF3GRJDZIEK3BU54.jpg?auth=33c4a4ba3ab0b1ae5b38182f7fef43622445208d0c8afa85a6cb3dbac6e4d73a"
     },
     {
-      "id": "6d1d07ecfea3016ec4cb",
-      "title": "Miriam Vega, Isabel Contreras y Ainhoa Campabadal dan dos oros más a España",
-      "summary": "Daniela Pinyol.",
-      "link": "https://www.marca.com/olimpismo/2026/08/23/miriam-vega-isabel-contreras-ainhoa-campabadal-dan-dos-oros-espana-juegos-mediterraneos.html",
-      "pubDate": "Sun, 23 Aug 2026 22:09:10 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b534198222.jpeg"
-    },
-    {
       "id": "dc21324b9674b7481d7e",
       "title": "La marca Flick se impone en el Barça, que tritura al Elche en su estreno en Liga",
       "summary": "Raphinha (izquierda) celebra el primer gol del Barcelona contra el Elche.",
@@ -361,66 +351,6 @@
       "source": "El Pais",
       "cat": "cinema",
       "image": "https://imagenes.elpais.com/resizer/v2/IWVBBPFH7ZAMDOX5PX5TN4ZHVU.jpg?auth=48f1c68333367783b1e816d724be975ad87d49068715efa94ddd7a4cbe99f8b3"
-    },
-    {
-      "id": "a7636cff88da46b7e429",
-      "title": "Pesadilla en Washington DC: Palou roza el desastre y pierde su primera bola de partido",
-      "summary": "Palou vivió una auténtica pesadilla en las calles de Washington DC.",
-      "link": "https://www.marca.com/motor/indycar/2026/08/23/pesadilla-washington-dc-palou-roza-desastre-pierde-primera-bola-partido.html",
-      "pubDate": "Sun, 23 Aug 2026 22:02:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b51a9a43f2.jpeg"
-    },
-    {
-      "id": "112d0291b1b99ea21826",
-      "title": "La frustración de Canales al ser sustituido",
-      "summary": "El disparo de Canales ante Soria",
-      "link": "https://www.marca.com/futbol/racing-santander/2026/08/23/frustracion-sergio-canales-sustituido-63.html",
-      "pubDate": "Sun, 23 Aug 2026 21:52:03 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b4df4cb1f5.png"
-    },
-    {
-      "id": "fc9059f1cd53d2ca1470",
-      "title": "Getafe 1-0 Racing de Santander | Resumen LaLiga",
-      "summary": "",
-      "link": "https://www.marca.com/futbol/2026/08/23/getafe-1-0-racing-santander-resumen-laliga-video.html",
-      "pubDate": "Sun, 23 Aug 2026 21:50:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b4f041cb9d.jpeg"
-    },
-    {
-      "id": "28b965244113d1b24ecd",
-      "title": "Esto es el Getafe, papá",
-      "summary": "Enes Ünal celebra su gol al Racing.",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/08/23/nuevo-coliseum-sobre-cimientos-toda-vida.html",
-      "pubDate": "Sun, 23 Aug 2026 21:29:03 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b49c20dca4.jpeg"
-    },
-    {
-      "id": "9a0328b9a0dca7c931c7",
-      "title": "Jokic vuelve a superar a 'Wemby' pero Serbia cae sobre la bocina",
-      "summary": "Jokic ante Wembanyama en el partido de Orleans.",
-      "link": "https://www.marca.com/baloncesto/2026/08/23/jokic-vuelve-superar-wemby-serbia-cae-sobre-bocina.html",
-      "pubDate": "Sun, 23 Aug 2026 21:09:07 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b4531bb8ac.jpeg"
-    },
-    {
-      "id": "fb87b125973a5d6b0615",
-      "title": "Salah ya es el rey del Trabzonspor",
-      "summary": "Salah celebra uno de sus goles",
-      "link": "https://www.marca.com/futbol/cronica/2026/08/23/salah-rey-trabzonspor.html",
-      "pubDate": "Sun, 23 Aug 2026 21:04:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b44073584f.jpeg"
     },
     {
       "id": "f1f8a3e281dad8f5b539",
@@ -433,36 +363,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Guy-Gardner-new-look-lanterns.jpg"
     },
     {
-      "id": "60377ea498d3fa4c9cac",
-      "title": "El nuevo Sporting de Larcamón ya conoce la victoria",
-      "summary": "Los jugadores del Sporting celebran el tempranero gol de Juan Otero.",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/08/23/nuevo-sporting-larcamon-conoce-victoria.html",
-      "pubDate": "Sun, 23 Aug 2026 20:53:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b3eb632517.jpeg"
-    },
-    {
-      "id": "f311e3492680580669b3",
-      "title": "\"A muerte con los que están acá\"",
-      "summary": "Simeone da una indicación en el encuentro ante el Villarreal.",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/23/simeone-necesitamos-delanteros-delanteros-buenos-cuidar.html",
-      "pubDate": "Sun, 23 Aug 2026 20:26:03 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b399c5be96.jpeg"
-    },
-    {
-      "id": "3209e9958fb2aa89a803",
-      "title": "Víctor Muñoz, la salvación de Iraola",
-      "summary": "Víctor Muñoz recibe un falta de Hall",
-      "link": "https://www.marca.com/futbol/premier-league/cronica/2026/08/23/victor-munoz-salvacion-iraola.html",
-      "pubDate": "Sun, 23 Aug 2026 20:11:21 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b36717e9e6.jpeg"
-    },
-    {
       "id": "8fc5c205fc34288fb019",
       "title": "Jamie Campbell Bower confiesa qué fue lo más aterrador de unirse a Los Anillos de Poder",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Jamie Campbell Bower se incorpora a la temporada 3 de Los Anillos de Poder como Celeborn, el desaparecido marido de Galadriel, y ni siquiera su experiencia en Harry Potter, Crepúsculo o Stranger Things evitó que sintiera el peso del fichaje. El actor ha explicado qué aspecto de entrar en una franquicia tan querida llegó a resultarle “aterrador”. Jamie Campbell Bower sintió la presión de Los Anillos de Poder Jamie Campbell Bower lleva media carrera saltando entre algunas de las franquicias fantásticas más reconocibles de las últimas décadas, pero entrar en Los Anillos de Poder ha sido diferente. Prime Video confirmó su incorporación al reparto en febrero de 2025 y, durante la San Diego Comic-Con, llegó finalmente la pieza que faltaba: interpretará a Celeborn en la temporada 3. No es precisamente un personaje secundario cualquiera dentro de la mitología de Tolkien. Celeborn es el marido de Galadriel y una figura fundamental en su historia, aunque la serie lo ha mantenido fuera de pantalla durante sus dos primeras temporadas. Su regreso abre ahora una de las tramas más esperadas de la producción y coloca a Bower en una posición bastante delicada: tendrá que dar rostro a alguien que los lectores llevan décadas imaginando. Durante una entrevista con para CB , el actor reconoció que incorporarse al reparto había sido “increíble”, pero inmediatamente utilizó otra palabra bastante más reveladora: “aterrador”. Y no hablaba del rodaje, de las prótesis o de enfrentarse a alguna criatura de la Tierra Media. Lo que realmente le imponía respeto era entrar en una historia con millones de seguidores y asumir todo lo que eso implica. “Hay mucha responsabilidad aquí” Bower explicó que buena parte de esa presión nació antes incluso de comenzar a trabajar. El propio actor magnificó en su cabeza lo que significaba entrar en una producción de semejante tamaño, especialmente teniendo en cuenta el vínculo emocional que tanta gen",
@@ -471,26 +371,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/jamie-campbell-bower-celeborn.jpg"
-    },
-    {
-      "id": "1e524638a46ad4bd4dd1",
-      "title": "El doble taponazo de Wembanyama a Jokic",
-      "summary": "Mucho más cómodo que en el partido disputado hace tres días en Belgrado, Wembanyama se resarció de la derrota en este choque con algunas acciones mucho mérito como este doble taponazo sobre Jokic en la primera parte del partido",
-      "link": "https://www.marca.com/baloncesto/2026/08/23/doble-taponazo-wembanyama-jokic-video.html",
-      "pubDate": "Sun, 23 Aug 2026 19:58:41 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/dfMlY1gYpMV3ktr9V.jpeg"
-    },
-    {
-      "id": "d2f19062325561be58cb",
-      "title": "El Sabadell perdona en Castalia",
-      "summary": "Un lance del partido.",
-      "link": "https://www.marca.com/futbol/segunda-division/cronica/2026/08/23/goles-acaba-primera-parte-castalia.html",
-      "pubDate": "Sun, 23 Aug 2026 19:51:04 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b336b89fdc.jpeg"
     },
     {
       "id": "3b0826fb7e8fa9303a6b",
@@ -515,7 +395,7 @@
     {
       "id": "01f6f63dd0eedfd9ffc3",
       "title": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
-      "summary": "Alberto Núñez Feijóo, durante la entrevista de Europa Press, el pasado 21 de agosto de 2026 en Santiago de Compostela.",
+      "summary": "Alberto Núñez Feijóo, durante la entrevista de Europa Press, el pasado 21 de agosto en Santiago de Compostela.",
       "link": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html",
       "pubDate": "Sun, 23 Aug 2026 18:47:40 GMT",
       "source": "El Pais",
@@ -1107,16 +987,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Ciencia-ficcion-2.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "e4000d6e63668226d920",
-      "title": "Video | Siga en vivo el concierto de Gustavo Dudamel para apoyar a las víctimas del terremoto en Venezuela",
-      "summary": "Concierto en beneficio de los afectados por los terremotos en Venezuela.",
-      "link": "https://elpais.com/us/entretenimiento/2026-08-22/video-siga-en-vivo-el-concierto-de-gustavo-dudamel-para-apoyar-a-las-victimas-del-terremoto-en-venezuela.html",
-      "pubDate": "Sat, 22 Aug 2026 16:30:00 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/F7FRHK36J5ACRFCCYFUPQWRE6E.jpg?auth=e96a5041f5ab45121fe0b900bbd83eb806181340d45d045a7dc2c14da3f8e2cb"
-    },
-    {
       "id": "22a1de367cb31971d750",
       "title": "Marvel desata una guerra mutante y coloca a un héroe inesperado en el centro del conflicto",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Marvel vuelve a enfrentar a los mutantes entre sí, pero esta vez la guerra tiene una pieza central que cambia por completo las reglas: Kamala Khan . Dos versiones de X-Force están a punto de chocar mientras Cable intenta impedir un futuro devastador en el que la vida de Ms. Marvel resulta mucho más importante de lo que nadie imaginaba. Marvel convierte a Kamala Khan en la clave del futuro mutante Los X-Men y las guerras internas tienen una relación casi tan antigua como la propia franquicia, pero Inglorious X-Force #8, de Tim Seeley y Luca Maresca, está llevando esa tendencia a un terreno especialmente peligroso. Cable ha reunido una nueva X-Force formada por Archangel, Hellverine y Boom-Boom, y sus métodos empiezan a recordar demasiado a aquella versión paramilitar del equipo que disparaba primero y hacía preguntas bastante después. El problema es que Cable tiene una razón de peso para actuar así. Regresó del futuro después de fracasar en su intento de salvar al presidente de Estados Unidos, una figura capaz de mantener un delicado equilibrio entre humanos y mutantes. Sus recuerdos estaban dañados, pero poco a poco descubrió una pieza crucial del rompecabezas: esa futura presidenta era Kamala Khan. Sí, Ms. Marvel podría acabar ocupando la Casa Blanca. Inglorious X-Force #8 de Marvel Comics Cable intenta evitar el asesinato de Ms. Marvel Cable explicó a Kamala que su supervivencia resulta esencial para impedir una guerra abierta entre humanos y mutantes. A partir de ese momento puso a X-Force a su servicio, aunque ella aceptó con una condición bastante razonable tratándose de Cable: si sus métodos cruzaban determinadas líneas, se marcharía. Y ahí empiezan los problemas. El primer número ya dejó caer que uno de los integrantes de X-Force será responsable del asesinato de Kamala en el futuro. Cable desconoce quién, y ni siquiera puede asegurar que él mismo sea inocente. Su solución consiste en enviar a Arch",
@@ -1237,16 +1107,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b63a/live/b90d7a70-9b60-11f1-a4d2-c958dbfdfff2.jpg"
     },
     {
-      "id": "1ee3e6c167fb162364ec",
-      "title": "Adria Arjona presume de físico mientras se prepara para Superman 2",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Adria Arjona sigue alimentando las teorías alrededor de su misterioso papel en Superman 2 con una nueva imagen de entrenamiento que deja claro que su preparación física va muy en serio. James Gunn todavía no ha confirmado a quién interpreta, pero entre Maxima, Wonder Woman y todo lo que se está montando alrededor de Man of Tomorrow , cada pista empieza a pesar más de la cuenta. Adria Arjona intensifica su preparación para Superman 2 Adria Arjona continues to put in the Maximum effort for ‘MAN OF TOMORROW.’ I Wonder when we’ll learn who she’s playing 🤔 (Via Paolo Madcitti | IG) pic.twitter.com/H3mTCW7S7b — DC Film News (@DCFilmNews) August 21, 2026 Adria Arjona vuelve a colocarse en el centro de las conversaciones sobre Man of Tomorrow, la próxima película de Superman dirigida por James Gunn. La actriz de Andor y Hit Man ha compartido una nueva imagen de su entrenamiento a través del Instagram de Paolo Madcitti, y el cambio físico resulta bastante evidente: está trabajando duro para llegar al rodaje en plena forma. La fotografía no confirma absolutamente nada sobre su personaje, claro, pero llega en un momento especialmente interesante. Arjona consiguió uno de los papeles más codiciados del proyecto tras hacer pruebas junto a Eva De Dominici, Sydney Chandler y Grace Van Patten , aunque desde entonces DC Studios ha mantenido en secreto la identidad exacta del personaje. La información inicial apuntaba a Maxima, la poderosa guerrera de Almerac que ha pasado por distintas etapas en los cómics de DC, desde enemiga de Superman hasta aliada ocasional. El problema es que una parte importante de los fans sigue convencida de que todo podría ser una maniobra de distracción y que Adria Arjona será, en realidad, la nueva Wonder Woman del DCU. Adria Arjona con Wonder Woman y Maxima ¿Maxima o Wonder Woman? El misterio sigue intacto James Gunn no ha querido aclarar las especulaciones, algo bastante llamativo teniendo en ",
-      "link": "https://www.cinemascomics.com/adria-arjona-presume-de-fisico-superman-2/",
-      "pubDate": "Sat, 22 Aug 2026 10:02:38 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Adria-Arjona-2026.jpg"
-    },
-    {
       "id": "1e25e9e504d1c156a11e",
       "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
       "summary": "Silvia se enamoró de quien creía que era un militar estadounidense que conoció online, pero que en verdad era un estafador de Nigeria. Su hijo, Carlos, viajó de Madrid a Lagos para buscarlo. Esto es lo que descubrió allí.",
@@ -1357,6 +1217,397 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce03/live/e4bb9d00-9db8-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "7b21fc9b246f346ebbf8",
+      "title": "Un mecánico advierte: arrancar el coche con prisa te puede costar una avería de hasta 5.000 euros",
+      "summary": "El interior tiene buena calidad para el posicionamiento de precio del coche.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/24/mecanico-advierte-arrancar-coche-prisa-te-costar-averia-5-000-euros.html",
+      "pubDate": "Mon, 24 Aug 2026 08:36:38 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/25/69c40da4daa5e.jpeg"
+    },
+    {
+      "id": "4b593eab598be71e03e2",
+      "title": "Mourinho, a muerte con Vinicius",
+      "summary": "Mourinho celebra con sus jugadores tras la primera victoria en Liga.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/24/mourinho-muerte-vinicius.html",
+      "pubDate": "Mon, 24 Aug 2026 08:31:41 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b5f40bb155.jpeg"
+    },
+    {
+      "id": "a43309e733f59b4a740b",
+      "title": "El aviso de la Agencia Tributaria si recibes transferencias de familiares por Bizum de más de esta cantidad",
+      "summary": "Bizum aparece con su nuevo servicio Bizum Pay.",
+      "link": "https://www.marca.com/tiramillas/economia/2026/08/24/aviso-agencia-tributaria-recibes-transferencias-familiares-bizum-cantidad.html",
+      "pubDate": "Mon, 24 Aug 2026 08:04:46 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/17/6a097bf2a5780.png"
+    },
+    {
+      "id": "fc09f52908f90366d63c",
+      "title": "Quién es Erola Jons, en el centro de la polémica por su papel en La Vuelta",
+      "summary": "Erola Jons.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/24/erola-jons-centro-polemica-papel-vuelta.html",
+      "pubDate": "Mon, 24 Aug 2026 07:54:19 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/24/6a8bdbc5d76dc.jpeg"
+    },
+    {
+      "id": "39e7e685f94f367d0e6b",
+      "title": "Elon Musk advierte sobre el cambio que sufrirán los teléfonos móviles antes de 2030",
+      "summary": "Elon Musk y la jubilación del futuro.",
+      "link": "https://www.marca.com/tecnologia/2026/08/24/elon-musk-advierte-sobre-cambio-sufriran-telefonos-moviles-2030.html",
+      "pubDate": "Mon, 24 Aug 2026 07:36:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/12/6a02f95247f6c.jpeg"
+    },
+    {
+      "id": "53476ef5e6fe9f6ba22c",
+      "title": "Ni una fisura con Julián",
+      "summary": "Julián Alvarez, de espaldas, en un momento del encuentro ante el Villarreal.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/24/muro-proteccion-julian.html",
+      "pubDate": "Mon, 24 Aug 2026 07:31:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b45427a0ae.jpeg"
+    },
+    {
+      "id": "573afa29ab94cc287df1",
+      "title": "Pep Chavarría, de tercera con el Figueres al Chelsea",
+      "summary": "Pep Chavarría, en su presentación con el Chelsea.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/24/pep-chavarria-hijo-ideal-defendera-izquierda-xabi-alonso.html",
+      "pubDate": "Mon, 24 Aug 2026 07:28:56 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/21/6a885fb3e0803.jpeg"
+    },
+    {
+      "id": "0a488029628c14a75f4f",
+      "title": "El estilo Carapaz vuelve a LaVuelta: \"Pogacar es el mejor del mundo, pero ahora es mí rival a batir\"",
+      "summary": "Tras reencontrar su mejor versión en los Alpes del Tour de Francia, el líder del EF Education-EasyPost llega a España con la ambición intacta",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/24/estilo-carapaz-vuelve-lavuelta-pogacar-mejor-mundo-mi-rival-batir.html",
+      "pubDate": "Mon, 24 Aug 2026 07:25:55 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/dfFQQ1gYmyu4qU4AK.jpeg"
+    },
+    {
+      "id": "b8890ff67e427e34834b",
+      "title": "¿Hay caso Zubimendi?",
+      "summary": "Zubimendi posa con la Community Shield",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/24/zubimendi-suplentisimo-intencion-venta-suceder-nuevo.html",
+      "pubDate": "Mon, 24 Aug 2026 07:25:04 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/22/6a89b5b396ecb.jpeg"
+    },
+    {
+      "id": "a62d684ae528ec06daf5",
+      "title": "Un último intento antes del quirófano",
+      "summary": "Asencio durante un partido amistoso entre el Real Madrid y el Leganes en el estadio Alfredo Di Stefano.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/24/asencio-ultimo-intento.html",
+      "pubDate": "Mon, 24 Aug 2026 07:18:39 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b6662225aa.jpeg"
+    },
+    {
+      "id": "a73747bf6361c5102534",
+      "title": "\"Me pregunto por qué ni Barça ni Atlético se interesaron por Espí\"",
+      "summary": "Julián, cabizbajo durante el partido ante el Villarreal",
+      "link": "https://www.marca.com/futbol/primera-division/opinion/2026/08/24/espi-barca-atleti.html",
+      "pubDate": "Mon, 24 Aug 2026 07:01:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/6a8b5f4090c13.jpeg"
+    },
+    {
+      "id": "cfc48b9b1e9263f2e758",
+      "title": "Bloomberg vaticina un invierno catastrófico para Ucrania",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/623824-bloomberg-vaticina-invierno-catastrofico-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 06:38:30 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "450c595778e801ab9ef5",
+      "title": "Quién es Facundo “Jagger” Herrera, el juvenil de Boca que fue elogiado por Arruabarrena tras su ingreso ante Racing",
+      "summary": "Facundo “Jagger” Herrera ingresó este domingo en el complemento del clásico ante Racing en reemplazo de Ayrton Costa y tuvo su segunda aparición oficial con la camiseta de Boca . El defensor central, que llegó al primer equipo por las lesiones del Xeneize en esa posición, fue capitán y uno de los referentes de la reserva, y recibió un reconocimiento del entrenador, Rodolfo Arruabarrena . Herrera nació en San Martín, provincia de Buenos Aires, es categoría 2006, tiene 20 años, mide 1,80 metros y su pierna hábil es la derecha. Comenzó su carrera en las divisiones inferiores de Boca y con el paso del tiempo se afianzó en la reserva dirigida por Mariano Herrón , equipo en el que se convirtió en uno de los capitanes. View this post on Instagram Su primera convocatoria para integrar el plantel principal había llegado en el partido ante Deportivo Riestra, disputado después del Mundial 2026, en el que Boca perdió 3 a 0. En aquella ocasión ocupó un lugar en el banco de suplentes, en reemplazo de Leandro Paredes, que tuvo un descanso, aunque no ingresó. La oportunidad de debutar llegó más tarde, ante Recoleta, y pocos días después volvió a sumar minutos en un clásico frente a Racing. El juvenil reemplazó a Ayrton Costa para disputar toda la segunda etapa en el Cilindro de Avellaneda. Con su entrada, Boca comenzó el complemento con seis futbolistas formados en las divisiones inferiores del club. NUNCA ESCUCHÉ UN TEMA DE LOS STONES, NO SABÍA QUIÉN ERA Jagger Herrera, el campeón con la reserva de Boca, y su parecido a Mick... ¡QUÉ NO LO CONOCÍA! 📺 #SportsCenter | #DisneyPlus Plan Premium pic.twitter.com/gYtazO3xMZ SportsCenter (@SC_ESPN) December 4, 2025 Al analizar las modificaciones, Arruabarrena señaló que el defensor lo hizo “muy bien” desde su ingreso. Además, marcó que la acumulación de partidos puede provocar lesiones y se mostró satisfecho por las respuestas que encontró entre los jugadores que comenzaron el encuentro como suplentes. “Debut absoluto en Boca” , escribió l",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/quien-es-facundo-jagger-herrera-el-juvenil-de-boca-que-fue-elogiado-por-arruabarrena-tras-su-ingreso-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:37:50 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/N2IEQ4DEO5AYPO5T7VVECXECZQ.jpg?auth=f2992bd5db6d14f3a80e039a228523c2203774d2824dddc4ffb78ac1e6be0d33&smart=true&width=590&height=391"
+    },
+    {
+      "id": "08b475b20caed0a3c192",
+      "title": "VIDEO: Así destroza Rusia 'nidos' de drones del enemigo",
+      "summary": "Los artilleros de la agrupación Vostok ('Este') del Ejército ruso hicieron añicos varios puestos de control de drones instalados por las Fuerzas Armadas de Ucrania en la provincia de Dnepropetrovsk. Los objetivos fueron alcanzados con el fuego de obuses autopropulsados Guiatsint-S tras la precisión de coordenadas de los 'nidos' previamente detectados, desde donde salían cuadrocópteros y hexacópteros.",
+      "link": "https://actualidad.rt.com/actualidad/623823-rusia-nidos-enemigo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 06:35:23 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bdfcbe9ff7124a12aa051.png"
+    },
+    {
+      "id": "af8ed23bcd550472dcc4",
+      "title": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
+      "summary": "La investigación judicial por el atentado contra la abogada Nadia Beller , tendrá este lunes un avance de alto impacto político con la declaración ante el juez de la causa de los dos detenidos acusados de haber perpetrado el ataque , una instancia clave en la que el Ministerio Público fiscal solicitará formalmente que ambos sean enviados a prisión preventiva bajo la acusación de tentativa de feminicidio Leé la nota completa acá Hondo pesar causó en ámbitos diplomáticos el fallecimiento de Luis María Ricchieri (86), diplomático de carrera de extensa trayectoria y protagonista de la negociación con Chile , que entre fines de los años setenta y principios de la década del ochenta evitó una confrontación armada con ese país. Leé la nota completa acá Un intercambio de disparos se produjo este domingo en la puerta de la casa del expresidente Eduardo Duhalde , en Lomas de Zamora , cuando la custodia del exmandatario intervino ante un robo a un motociclista. El episodio terminó con la víctima -un hombre de 60 años- herida de bala, y dos delincuentes prófugos. Leé la nota completa acá Un escándalo sacude por estas horas a la ciudad bonaerense de Bragado luego de que un concejal del bloque de La Libertad Avanza (LLA) identificado como Germán Díaz fuera detenido este sábado luego de que la Justicia lo imputara por el delito de presunta comercialización de estupefacientes . Leé la nota completa acá El oficialismo buscará esta semana darle media sanción en Diputados a dos de los principales proyectos económicos de Javier Milei. La sesión fue convocada para el miércoles a las 12 y tendrá como ejes la reforma de la Carta Orgánica del Banco Central (BCRA) y una nueva versión de la ley de Inocencia Fiscal , dos iniciativas con las que el Gobierno pretende reforzar su programa económico de cara a las elecciones de 2027. Leé la nota completa acá",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:22:10 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/4TBYV6RSW5AZJK5YJC7QY7KSNY.JPG?auth=64e851fee85e64bd8a1109316117e3dba35dd56283b507a7a0cb54b3db3b7199&smart=true&width=1305&height=979"
+    },
+    {
+      "id": "8978bb9ab3b70eded25e",
+      "title": "Se animó a emprender en Bs. As. y le preguntan qué hace un australiano en Argentina: “Mi calidad de vida subió”",
+      "summary": "Lee Torrens tenía 24 años cuando dejó Australia. Era joven, y tal como hicieron muchos de sus amigos, salió al mundo en búsqueda de nuevos horizontes. En su entorno nadie se sorprendió, de hecho, en su cultura estaban bastante habituados a semejantes decisiones. Primero vivió en Londres, y tras algunas temporadas, optó por regresar a su tierra natal y comenzar una carrera en el mundo de la tecnología: primero arregló computadoras y luego escaló al mundo de las redes y los servidores, hasta formar parte de una de las startups más exitosas del mundo (Canva). Sin embargo, esa rutina constante y con un horizonte uniforme no respondía a su esencia. A Lee siempre le había gustado vivir en los extremos, y cuando en un viaje a Roma conoció a una mujer argentina, sintió que era tiempo de partir una vez más hacia lo que él consideraba un límite: “Meterme en una empresa tecnológica en pleno crecimiento fue para mí un extremo. Pero, sin dudas, también lo era mudarme a un país exótico”, dice hoy, mientras le pone palabras a su llegada a la Argentina. “Cuando hice la transición a diseño web pude trabajar 100% online, y ahí entendí que podía vivir en cualquier parte del mundo. Argentina tenía sentido: el costo de vida era mucho menor que en Australia. Irme no fue un quiebre grande, la verdad. Ya me había ido antes por un par de años, así que para mi familia y mis amigos no fue una gran sorpresa. Mi madre es la que más se emociona siempre que nos despedimos en el aeropuerto; eso no cambió nunca”. ¿Qué hace un australiano viviendo en Argentina? Desde el primer instante, Lee se sintió bien recibido. Al argentino lo percibió amable, cálido y con una curiosidad genuina. Y, al poco tiempo de su llegada, comprendió que para los habitantes del país austral, era él, un australiano, el que era visto de manera medio exótica, en especial, porque no todos comprendían la razón que lo había llevado a elegir Argentina para vivir. ¿Qué hace un australiano viviendo en Argentina?, solía ser la pregu",
+      "link": "https://www.lanacion.com.ar/lifestyle/se-animo-a-emprender-en-bs-as-y-le-preguntan-que-hace-un-australiano-en-argentina-mi-calidad-de-vida-nid31082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:17:24 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/LRBS4M3IH5FWDBFLCQHO6LMWZI.jpg?auth=b7293107942569f71f5733f1ca75eb866e97c57b62fc00100d3e81b36c2a5a6c&smart=true&width=1360&height=905"
+    },
+    {
+      "id": "7759e1bfa9a9552c1b15",
+      "title": "\"Flagrante cinismo\": Líder ortodoxo ruso se pronuncia sobre ataque de Kiev contra una iglesia",
+      "summary": "Tuvo lugar en medio de un servicio religioso y fue condenado por el patriarca Kiril de Moscú y Toda Rusia.",
+      "link": "https://actualidad.rt.com/actualidad/623815-cinismo-ataque-dron-metropolitano-donbass?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 06:12:12 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bd88e59bf5b368a65d22a.jpg"
+    },
+    {
+      "id": "22e5a09d715db3e34793",
+      "title": "¿Quién es el dueño de los juegos digitales? Sony recuerda que tú no",
+      "summary": "Sony ha comenzado a enviar correos electrónicos a los usuarios de PlayStation, recordándoles de forma contundente que las compras de juegos digitales son simplemente licencias para jugar, no la propiedad del producto . Este recordatorio, directo pero ciertamente inoportuno, llega justo cuando la compañía se enfrenta a crecientes críticas por su controvertida decisión de eliminar por completo los lanzamientos de juegos físicos a partir de 2028 . Sony Interactive Entertainment está enviando avisos actualizados del acuerdo de licencia de usuario usuario a los titulares de cuentas de PlayStation, recordándoles explícitamente una dura realidad en el panorama actual de los videojuegos: no somos dueños de los juegos digitales que compramos . Aunque paguemos un pastizal por ellos&#8230; Los correos electrónicos aclaran que la compra de un título digital en PlayStation Store otorga a los usuarios una licencia revocable para acceder al contenido, en lugar de la propiedad real del mismo . Esto significa que si una cuenta es bloqueada, un servicio se cierra o los acuerdos de licencia expiran, los jugadores podrían perder instantáneamente el acceso a toda su biblioteca digital sin posibilidad de reclamación. Si bien esta ha sido, técnicamente, la terminología legal estándar para las tiendas digitales durante años, la decisión de Sony de destacarla activamente ahora está resultando sumamente controvertida. El recordatorio llega en el peor momento posible para el gigante japonés, que actualmente enfrenta una fuerte oposición a sus planes de distribución futuros . Sony anunció a principios de este año que dejará de lanzar oficialmente nuevos juegos de PlayStation en formato físico a partir de enero de 2028 . Esta transición hacia un ecosistema totalmente digital ha enfurecido a los defensores de los videojuegos, a los coleccionistas y a los jugadores con presupuestos ajustados que dependen del mercado de juegos usados ​​para recuperar sus gastos. Y no dudes que los jugadores perdem",
+      "link": "https://www.muycomputer.com/2026/08/24/quien-es-el-dueno-de-los-juegos-digitales-sony-recuerda-que-tu-no/",
+      "pubDate": "Mon, 24 Aug 2026 06:09:37 +0000",
+      "source": "MuyComputer",
+      "cat": "tech",
+      "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/juegos_digitales_2.jpg"
+    },
+    {
+      "id": "31e433786e576aa479c7",
+      "title": "Spider-Man: Brand New Day sigue sin perder el primer puesto en taquilla",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Spider-Man: Brand New Day continúa reinando en los cines durante su cuarto fin de semana y ya juega en una liga reservada para muy pocas películas. La nueva aventura del Peter Parker de Tom Holland no solo mantiene el número uno: sus cifras empiezan a amenazar algunos de los récords más importantes de la historia de la taquilla. La película acumula ya 855 millones de dólares en Norteamérica y unos descomunales 2.220 millones en todo el mundo . La cifra doméstica la convierte en apenas la cuarta producción que supera los 800 millones en ese mercado y la sitúa como la tercera película más taquillera de la historia de Estados Unidos. Spider-Man: Brand New Day ya amenaza los mayores récords de la historia Lo verdaderamente interesante está en lo que tiene por delante. Spider-Man: Brand New Day se encuentra prácticamente a la altura de Vengadores: Endgame , que terminó su recorrido norteamericano con 858 millones de dólares. Apenas tres millones separan ya ambas películas, por lo que el adelantamiento parece cuestión de tiempo. El siguiente objetivo es bastante más serio: Star Wars: El despertar de la Fuerza conserva desde 2015 el récord absoluto en Estados Unidos con 936 millones de dólares. La diferencia todavía ronda los 81 millones, pero el comportamiento de la película de Spider-Man está siendo extraordinariamente sólido. Recaudar 39 millones en el cuarto fin de semana significa que Peter Parker mantiene una capacidad de arrastre enorme después de casi un mes en cartelera. Spider-Man: Brand New Day Si conserva este ritmo, Sony podría acabar viendo algo que hace unas semanas habría parecido casi delirante: Spider-Man: Brand New Day convirtiéndose en la película más taquillera de todos los tiempos en Norteamérica. Incluso existe ya la posibilidad de que se transforme en la primera producción capaz de superar los 1.000 millones únicamente en ese mercado. Peter Parker también entra en el podio mundial La situ",
+      "link": "https://www.cinemascomics.com/spider-man-brand-new-day-sigue-sin-perder-1/",
+      "pubDate": "Mon, 24 Aug 2026 06:01:52 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-Marvel.jpg"
+    },
+    {
+      "id": "2d847651b7449a67eb66",
+      "title": "Hay alerta amarilla por frío extremo para este lunes 24 de agosto: las provincias afectadas",
+      "summary": "El Servicio Meteorológico Nacional (SMN) emitió una alerta amarilla por frío extremo para este lunes 24 de agosto. Según indicó el organismo dependiente del Ministerio de Defensa, hay cuatro provincias afectadas y este nivel de advertencia implica la posibilidad de efectos leves a moderados en la salud. La alerta amarilla por frío extremo rige en la provincia de Buenos Aires , el sudeste de Entre Ríos , el oeste de Santa Cruz y Tierra del Fuego, Antártida e Islas del Atlántico Sur , en particular en el territorio de las Islas Malvinas. Según el SMN, este nivel de temperaturas “pueden ser peligrosas, sobre todo para los grupos de riesgo, como niños y niñas, personas mayores de 65 años y personas con enfermedades crónicas”. Frente a esta advertencia, el SMN recomienda evitar la exposición prolongada al frío y, en caso de salir, utilizar varias capas de ropa liviana. También aconseja mantener la casa calefaccionada de manera segura, generar calor corporal mediante el movimiento, tomar abundante líquido, evitar el consumo de bebidas alcohólicas y prestar especial atención a niños, embarazadas, adultos mayores y personas con enfermedades crónicas. Si alguien resulta afectado por las bajas temperaturas, no debe automedicarse y tiene que consultar con un médico o dirigirse al centro de salud más cercano. El tiempo en el AMBA Para este lunes, el SMN informó que la temperatura en la ciudad de Buenos Aires oscilará entre una mínima de 5°C y una máxima de 13°C . El cielo estará algo nublado durante la mañana, parcialmente nublado al mediodía y nuevamente algo nublado por la tarde y la noche. Además, al mediodía y durante la noche se prevén vientos de hasta 22 kilómetros por hora. El martes se registraría un leve ascenso de la temperatura y la nubosidad pasaría de parcial durante gran parte del día a mayormente nublado por la noche. En la provincia de Buenos Aires , la temperatura se ubicará entre una mínima de 1°C y una máxima de 12°C . Al igual que en la Ciudad, el cielo esta",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-para-este-lunes-24-de-agosto-las-provincias-afectadas-nid23082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:01:33 +0000",
+      "source": "La Nacion",
+      "cat": "ar_pol",
+      "image": "https://resizer.glanacion.com/resizer/v2/QBNDVTIPSRDUBBS3RH4EGZBZGA.jpg?auth=c8b79d0187c0b8af5b65785aea55941cde84fd05e3528b12e95425c1f590af06&smart=true&width=813&height=408"
+    },
+    {
+      "id": "545bfb57a2d2713fa878",
+      "title": "Cóctel de noticias: la cita más especial de Lali, Alessandra Rampolla de gala en Australia y el cumpleaños de Sofía Calzetti",
+      "summary": "ORGULLOSA DE SU AMOR Si alguien sabe de los nervios de un estreno, esa es Lali Espósito (34). Por eso, en la previa del debut de Get , el unipersonal de su futuro marido, Pedro Rosemblat (36), estuvo siempre a su lado y, cuando terminó el espectáculo, usó su cuenta de Instagram para felicitarlo. “¡Felicitaciones, amor mío! Espectacular Get . Un arrojo necesario y potente”, escribió, y también destacó el esfuerzo del equipo detrás de escena. Se trata de un show interactivo que combina humor, archivos audiovisuales, pantallas y la participación del público, y en el que la tecnología tiene un rol clave. Según adelantó el propio Rosemblat, después de las presentaciones en el Teatro Astros habrá funciones en Córdoba y Rosario. DE PUERTO RICO AL MUNDO El fin de semana, Alessandra Rampolla (52) asistió a la 66a edición de los Logie Awards, la gala que reconoce lo mejor de la televisión australiana, y acaparó todas las miradas mientras recorría la alfombra roja. Desde 2021, la puertorriqueña es una de las figuras clave de Married at First Sight, ciclo que fue nominado a Mejor Reality y donde aporta su conocimiento como sexóloga y experta en intimidad. “Hay algo emocionante en ver cómo cobra vida un estilismo, y este se sintió como pura magia. Fue una noche perfecta”, escribió en sus redes sociales Alessandra, que en 2008 se sometió a un by pass gástrico que la llevó a bajar sesenta kilos. Si bien se sabe que en 2007 se casó con el empresario John Hernandez y que se separaron cuatro años después, en la actualidad no se le conoce pareja: prefiere mantener su vida privada lejos de las cámaras y las redes sociales. FIESTA FRENTE AL MAR De vacaciones en Europa, Sofía Calzetti festejó su cumpleaños número 29 junto a su pareja, Sergio “Kun” Agüero (38), Olivia, la hijita de ambos, varias amigas y algunos familiares, y compartió su presente de felicidad a través de su cuenta de Instagram. “Sólo tengo palabras de agradecimiento y mi único deseo es que todo siga tal cual está”, escri",
+      "link": "https://www.lanacion.com.ar/revista-hola/coctel-de-noticias-la-cita-mas-especial-de-lali-alessandra-rampolla-de-gala-en-australia-y-el-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "tech",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZT4OD7IC2FFA3EVLAVD3ERMPEM.jpg?auth=ca66f923d325dd818e295c531f52aaaa7b1f683f3499c34477c216da6d55082a&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "a91c24b017ef7ccc35f2",
+      "title": "La oficina del DMV de California que abre nuevamente el 26 de agosto: dónde queda y qué trámites se pueden hacer",
+      "summary": "El Departamento de Vehículos Motorizados de California ( DMV , por sus siglas en inglés) anunció a principios de agosto el cierre de una de sus oficinas , ubicada en Hawthorne . De acuerdo con las autoridades, el edificio reabrirá el 26 de agosto . Las personas que tengan que completar trámites antes de la fecha pueden acudir a otros recintos. DMV de Hawthorne: dirección y trámites disponibles en agosto El 4 de agosto de 2026, el DMV de California confirmó a través de un comunicado de prensa que la oficina ubicada en 3700 W. El Segundo Blvd. , en Hawthorne, cerraría temporalmente por renovaciones el 7 de agosto a las 17 hs. Durante este período, la mayoría de los clientes no tienen que visitar una oficina, sino que pueden realizar sus trámites en línea . Las tareas comprenden trabajos de pintura e instalación de pisos nuevos y la reapertura está prevista para el 26 de agosto a las 9 hs . Según la ficha oficial de la oficina en el portal del DMV , Hawthorne ofrece estas categorías de servicios: Licencias de conducir (Driver’s License) y servicios relacionados. Exámenes , incluidos los trámites que requieren pruebas. Transferencias de título (Title Transfers). Registro de vehículos . Placas, permisos y placards . Reemplazo de documentos perdidos, robados o dañados . Solicitud de documentos originales varios. Operación de terminales de autoservicio . Las 4 oficinas del DMV cerca de Hawthorne para hacer trámites durante el cierre Tras el cierre temporal efectuado el 7 de agosto, las personas que tengan que completar trámites en Hawthorne antes del día 26 pueden acudir a las siguientes oficinas : Los Ángeles: 3615 S. Hope St. A 10 millas (16 kilómetros) de distancia de la oficina de Hawthorne. Tiempo de espera medio: una hora y tres minutos (sin cita previa). Culver City : 11400 W. Washington Blvd. A 10 millas (16 kilómetros) de la oficina de Hawthorne. Tiempo de espera medio: 26 minutos (sin cita previa). Torrance : 1785 W. 220th St. A 11 millas (17 kilómetros) de la of",
+      "link": "https://www.lanacion.com.ar/estados-unidos/california/la-oficina-del-dmv-de-california-que-abre-nuevamente-el-26-de-agosto-donde-queda-y-que-tramites-se-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "sports",
+      "image": "https://resizer.glanacion.com/resizer/v2/R776FJPTL5F2BLDLVRF463SKAQ.jpg?auth=fa6a450eb7540494d2a08cf805bc58814563b66e58c90f4c2bf847132283ba1d&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "8d7926fceed4170b9d65",
+      "title": "“Mucha colaboración”: manejan el 80% de los fondos de una tasa, marcaron un hito en un mes y medio y ya mejoraron como nunca los caminos",
+      "summary": "Los reclamos por el estado de los caminos rurales son moneda corriente en gran parte de la provincia de Buenos Aires. Productores que no pueden sacar la producción, escuelas que suspenden clases por el barro y una pregunta que se repite temporada tras temporada, distrito por distrito, sin que nadie termine de responderla: ¿adónde va la plata que se recauda para mantenerlos? Después de tantas veces de hacerse esa pregunta sin obtener una respuesta, en Magdalena encontraron una forma de cambiar la situación: los propios productores pasaron a participar de la administración del 80% de los fondos destinados al sector. A poco más de seis meses de la puesta en marcha del sistema, aseguran que los resultados ya se ven en los caminos. El sistema funciona a través de la Comisión Administradora de Servicios Rurales (CASER) , integrada por productores, usuarios de los caminos y representantes municipales. La entidad comenzó a trabajar el 2 de febrero pasado, aunque la participación de la Sociedad Rural de Magdalena en los caminos había empezado años antes. “Nosotros veníamos trabajando con el tema caminos desde hace mucho tiempo” , contó Facundo Seambelar, secretario de la Sociedad Rural de Magdalena . En 2018 comenzaron a utilizar recursos de la tasa para el control de aves plaga para comprar tubos y reemplazar alcantarillas. Con el tiempo, analizaron sistemas de otros distritos, entre ellos Tres Arroyos, Tandil, General Madariaga y Benito Juárez. Finalmente tomaron como referencia el de Madariaga y llevaron una propuesta al municipio. Maneja 1100 hectáreas: el exitoso modelo “multifunción” que creó un empresario que rompe moldes El año pasado se aprobó la ordenanza que creó un fondo específico con parte de lo recaudado por la tasa de red general vial, guías, marcas y señales y control de aves plaga. “El 80% de lo que paga un productor va a un fondo afectado, lo administra la comisión” , explicó Seambelar. El dinero no sale de las cuentas municipales. Una vez por mes, la comi",
+      "link": "https://www.lanacion.com.ar/economia/campo/mucha-colaboracion-manejan-el-80-de-los-fondos-de-una-tasa-marcaron-un-hito-en-un-mes-y-medio-y-ya-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/IZB2A424VJDJ7F4NDR54UGHYVQ.png?auth=a58ac0693b885bf013f46fe8a2835ee1d81fe273740150133398077579118432&smart=true&width=1279&height=897"
+    },
+    {
+      "id": "b8b44d60ae883dc7b4d9",
+      "title": "Del más original al más español. Cuál es el accesorio que no puede faltarle a la reina Letizia en los meses de calor",
+      "summary": "Modelos con estampas florales y coloridas y modelos minimalistas. Modelos bien jugados y otros que pasan inadvertidos, pero que son el complemento ideal para cualquiera de sus equipos. Modelos originales y otros que guardan un valor sentimental o que esconden un claro guiño a la tradición y al estilo español. En el vestidor de la reina Letizia, los abanicos han ocupado un lugar clave. En esos meses del año en los cuales la temperatura agobia, han sido sus mejores aliados. Y basta echar un vistazo a los looks que la soberana ha armado desde que era princesa de Asturias hasta la actualidad para comprobar la importancia que le ha dado a este accesorio: no sólo recurre a ellos en las citas oficiales al aire libre y a pleno sol; también los lleva en su valija cuando tiene compromisos internacionales e, incluso, cuando se va de vacaciones a Mallorca con su familia.",
+      "link": "https://www.lanacion.com.ar/revista-hola/del-mas-original-al-mas-espanol-cual-es-el-accesorio-que-no-puede-faltarle-a-la-reina-letizia-en-los-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/CTB7M3KNBNCIVLAXJUO3H7WUPM.jpg?auth=ad7c1f51edf26394553cf77a6548f746580f7814e32ef4e376eae3328f1f29b4&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "a008674b6bde85a2905c",
+      "title": "Pilar Sordo: “No hay que dejar de hacer algo por miedo, hay que hacerlo con miedo; es un motor, un estimulador”",
+      "summary": "La psicóloga y escritora chilena Pilar Sordo conversó con José del Rio para LA NACION y remarcó en un tramo de la entrevista la importancia de vencer los obstáculos a la hora de asumir desafíos y disfrutar así del camino y la “osadía” que muchos de ellos implican al transitarlos. “No hay que dejar de hacer algo por miedo. Para mí, el miedo es un motor, un estimulador. Esa osadía, ese arrojo y hasta la falta de vergüenza me permitieron acercarme al mundo hispano y conectar con tanta gente”, aseguró con cierta complicidad hacia sus seguidores. Durante otro tramo de la entrevista, la especialista analizó la evolución de los vínculos sociales y la relevancia del lenguaje en la construcción de la estabilidad emocional de los individuos. Según Sordo, las personas usan menos vocabulario al hablar , un fenómeno reduce la capacidad para expresar lo que sucede en el interior de cada sujeto. En ese sentido, Sordo citó al psiquiatra español José Luis Marín para explicar que el ser humano se enferma por falta de palabras, ya que el intercambio de lenguaje por emoticones, por ejemplo, afecta la profundidad de los vínculos. Pilar Sordo en Conversaciones con José del Rio La psicóloga señaló que la falta de paciencia actual impide que ambos participantes se sientan escuchados y atendidos: “Hemos ido reduciendo la paciencia, porque no solo me cuesta decirte lo que me pasa, sino que cada vez tú tienes menos paciencia para escucharme a mí“ . “Entonces ese intercambio hace que sea muy difícil generar conversaciones donde de verdad ambos se sientan escuchados y atendidos en esa conversación. Porque la conversación tiene que tener ese desafío en el que yo me exponga a transformarme con lo que tú me dices . Porque si no se transforma en una especie de monólogo intermitente”, agregó. Cómo afecta el diálogo interno a la visión del mundo Sordo investigó el tema durante ocho años y según sus conclusiones, la forma en que cada individuo se habla a sí mismo determina su amor propio y define la p",
+      "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-no-hay-que-dejar-de-hacer-algo-por-miedo-hay-que-hacerlo-con-miedo-es-un-motor-un-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/QBTIJOX5AJFTROHFBXJL7SMMGY.jpg?auth=493f2de3c8ed3ab510a1c56130ab280dbcbf73808a7cdc02f2fcda10b7faf5a0&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "7714d792b763c6f5735d",
+      "title": "Kiev ataca \"a propósito\" un edifico residencial en Rusia y mata a una persona (FOTO)",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/623822-kiev-ataca-proposito-edifico-residencial?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 05:34:49 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "4e1de3e2ea58490207be",
+      "title": "EE.UU. lanza un ataque letal contra un barco en el Pacífico oriental (VIDEO)",
+      "summary": "2 hombres murieron durante la operación contra una nave de bajo perfil.",
+      "link": "https://actualidad.rt.com/actualidad/623821-video-eeuu-lanzar-ataque-letal?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 05:31:01 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bd988e9ff712354710009.jpg"
+    },
+    {
+      "id": "ec0cf2799197caf35941",
+      "title": "Yuval Noah Harari, filósofo e historiador: “Un cazador-recolector de hace 50.000 años entendía su propia vida mucho mejor que una persona actual, sabemos más sobre el mundo, pero no entendemos nuestra vida”",
+      "summary": "El pensador advierte de que la IA puede llevar al extremo una paradoja moderna: acumular conocimiento con la dependencia de sistemas que la humanidad apenas comprende.",
+      "link": "https://www.clarin.com/internacional/yuval-noah-harari-filosofo-historiador-cazador-recolector-hace-50000-anos-entendia-propia-vida-mejor-persona-actual-sabemos-mundo-entendemos-vida_0_hd36c4x6Zn.html",
+      "pubDate": "Mon, 24 Aug 2026 05:27:18 +0000",
+      "source": "Clarin",
+      "cat": "tech",
+      "image": "https://www.clarin.com/img/2026/08/23/mrbMOoJDb_1200x630__1.jpg"
+    },
+    {
+      "id": "ce6a19dba223f2bde938",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "Gustavo Dudamel y Chris Martin, de Coldplay, este domingo.",
+      "link": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "pubDate": "Mon, 24 Aug 2026 05:27:05 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/KHPQCILOCRDLRJUEWG4YZPSHA4.png?auth=5751bda45d512a1f0b29c1f0ea816150a5da6eaa944cbb4e3e515d936eaaefd0"
+    },
+    {
+      "id": "03718e8d9b0ced1d4d68",
+      "title": "El robo de una moto terminó con tiros en la puerta de la casa de Eduardo Duhalde en Lomas de Zamora",
+      "summary": "Un intercambio de disparos se produjo este domingo en la puerta de la casa del expresidente Eduardo Duhalde , en Lomas de Zamora , cuando la custodia del exmandatario intervino ante un robo a un motociclista. El episodio terminó con la víctima -un hombre de 60 años- herida de bala, y dos delincuentes prófugos. Según supo LA NACION, dos hombres armados asaltaban al motociclista cuando el personal de seguridad de Duhalde, que se encontraba en la puerta de la vivienda -sobre Ramón Falcón-, intervino al advertir lo que ocurría. Al identificarse como policías, se enfrentaron a los tiros con los delincuentes, que luego escaparon a pie. El personal de la custodia resultó ileso. La víctima del robo recibió un disparo en el omóplato y fue asistida tras el episodio . Tal y como pudo confirmar este diario, fue internado en el Hospital Gandulfo y se encuentra fuera de peligro . En declaraciones televisivas, el propio expresidente ofreció detalles de lo sucedido: “Hubo un intento de robo de una moto. La víctima recibió un disparo y se movilizó hasta la puerta de mi casa, donde sabía que estaba la custodia. Los llamó porque necesitaba ayuda, la custodia salió y estos tipos [los delincuentes] venían. La custodia empezó a los tiros. Creen que hay un ladrón lastimado. Un disparo pegó en el frente de mi casa”. “Yo en ese momento estaba durmiendo la siesta. No escuché los tiros. Me enteré después ”, reconoció Duhalde. Y reveló: “Inmediatamente después de lo ocurrido, fue a ver al hombre [la víctima del intento de robo] al Gandulfo. Le ofrecí colaboración y ayuda. Entiendo que le estaban por dar el alta”. Por último, se expidió respecto de la inseguridad en la Argentina: “ Cuando no alcanza para comer en todo el mes, aparecen estas cosas. No es solo en la Argentina. Es delincuencia por necesidad. Me da pena“. Quien también habló con la prensa sobre lo sucedido fue Hilda “Chiche” Duhalde, que enfatizó con vehemencia que se trató de un hecho aislado y nada tuvo que ver con un intento de ",
+      "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
+      "pubDate": "Mon, 24 Aug 2026 05:17:20 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/XO3EWU7R6VC7JMUAZAM562STJQ.JPG?auth=3c0877bb83b72e5bd894ba3c3648d043e50422448e3780e9d85b1546f89ea924&smart=true&width=1422&height=1066"
+    },
+    {
+      "id": "04bba28e2f04695092cc",
+      "title": "Un patrullero de la Policía Bonaerense atropelló a un hombre cuando acudía a una emergencia en Almirante Brown",
+      "summary": "Un patrullero de la Policía Bonaerense atropelló a un hombre mientras acudía a una emergencia en la localidad de Don Orione, partido de Almirante Brown. El incidente, que tuvo lugar en la madrugada del viernes, fue captado por una cámara de seguridad instalada en la vía pública. Las imágenes se viralizaron en X. Según medios zonales , el móvil policial transitaba por el cruce de las calles Figueroa y Concordia. Se dirigía a una vivienda particular tras recibir una alerta en el sistema 911. Fue entonces que, por razones que todavía son materia de investigación, el vehículo arrolló al sujeto, identificado posteriormente como Nicolás Romero. La filmación muestra cómo, tras el impacto, Romero queda tendido al lado del cordón. El uniformado desciende entonces del vehículo, se lleva las manos a la cabeza y se aproxima a la víctima. “¡No, no, no, la p.. que lo parió, la con... de mi madre!“, vocifera mientras toma dimensión de lo ocurrido e intenta auxiliar al individuo. Un patrullero de la Policía Bonaerense atropelló a un hombre cuando acudía a una emergencia en Almirante Brown Momentos más tarde, personal del servicio de emergencias médicas arribó al lugar de los hechos, donde ofreció rápida asistencia a la víctima . Acto seguido, se lo trasladó al Hospital Zonal General de Agudos Arturo Oñativia, ubicado en Rafael Calzada. Permanece internado, con politraumatismos y pronóstico reservado. Intervino en el caso personal de la Comisaría Almirante Brown 8.ª de Don Orione, que instruyó las actuaciones correspondientes. La fiscalía de turno ordenó asimismo el relevamiento de pericias mecánicas sobre el móvil policial y el análisis de los domos de la zona para determinar las circunstancias en las que ocurrió el hecho. El último antecedente de un atropello protagonizado por un agente de las fuerzas de seguridad se remonta a enero, cuando un policía de la Ciudad arrolló a un delincuente que quería robar una moto. El hecho ocurrió en el Acceso Sudeste, bajada Bernal, cuando ladro",
+      "link": "https://www.lanacion.com.ar/seguridad/un-patrullero-de-la-policia-bonaerense-atropello-a-un-hombre-cuando-acudia-a-una-emergencia-en-nid23082026/",
+      "pubDate": "Mon, 24 Aug 2026 05:17:07 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/KXT4E2ED4BD7XE623OWXPUV2DY.jpg?auth=73ba149bad702846e2ddbe9a45a07bcf4c144e3e26e156369421cda363ce4b87&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "8c8df557200d8c3ba841",
+      "title": "El Gobierno adjudicó ocho corredores de rutas nacionales por 20 años: qué empresas ganaron",
+      "summary": "La medida fue oficializada mediante la Resolución 1379/2026 del Ministerio de Economía, publicada en el Boletín Oficial de este lunes. La adjudicación forma parte del proceso de privatización de Corredores Viales e involucra tramos de la Red Federal de Concesiones bajo el régimen de obra pública por peaje.",
+      "link": "https://www.clarin.com/economia/gobierno-adjudico-corredores-rutas-nacionales-20-anos-empresas-ganaron_0_n9n4tR5wJQ.html",
+      "pubDate": "Mon, 24 Aug 2026 05:14:54 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2018/04/27/rk4OTy-pz_1200x630.jpg"
+    },
+    {
+      "id": "13b028a9c00a662011b1",
+      "title": "Buque cisterna, depósitos de combustible y almacenes militares: Rusia golpea un puerto ucraniano",
+      "summary": "El ataque grupal con armas de alta precisión fue realizado contra el puerto de Yúzhny, en la provincia de Odesa.",
+      "link": "https://actualidad.rt.com/actualidad/623819-cisterna-depositos-combustible-almacenes-militares-rusia-golpea-puerto-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 05:11:08 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bd572e9ff71738a05fb86.jpg"
+    },
+    {
+      "id": "f554739ee222eca66797",
+      "title": "Xesco Espar, experto en alto rendimiento: “Un Ferran Torres inseguro deja de arriesgar, de buscar ocasiones y de ocupar los espacios en los que es decisivo”",
+      "summary": "El especialista en psicología del aprendizaje Xesco Espar, exjugador y entrenador de balonmano, analiza cómo la infancia, la presión y la gestión del error influyeron en la reconstrucción de la confianza del delantero.",
+      "link": "https://www.clarin.com/internacional/xesco-espar-experto-alto-rendimiento-ferran-torres-inseguro-deja-arriesgar-buscar-ocasiones-ocupar-espacios-decisivo_0_U7j8iCkylW.html",
+      "pubDate": "Mon, 24 Aug 2026 05:01:18 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/23/gi1QqwGfw_1200x630__1.jpg"
+    },
+    {
+      "id": "3c1ac56e32ca50217c62",
+      "title": "La reflexión de Jean-Paul Sartre sobre la identidad y el pasado: “Somos lo que hacemos con lo que hicieron de nosotros”",
+      "summary": "La relación entre el pasado, la identidad y la posibilidad de cambiar fue uno de los ejes que abordó Gabriel Rolón durante una entrevista con LA NACION . En ese contexto, el psicólogo recurrió a una de las frases más conocidas del filósofo francés Jean-Paul Sartre: “Somos lo que hacemos con lo que hicieron de nosotros” . La reflexión apareció mientras analizaba cómo las experiencias, los vínculos y los recuerdos construyen la personalidad de cada individuo. Para Rolón, la historia personal influye profundamente, pero no define de manera absoluta quién puede llegar a ser alguien . En ese sentido, el especialista explicó que muchas veces las personas quedan atrapadas entre la nostalgia de un pasado idealizado y la expectativa de una felicidad futura , en lugar de intentar construir bienestar en el presente. Qué significa la frase de Sartre La idea retomada por Rolón pertenece al pensamiento existencialista de Jean-Paul Sartre , quien sostenía que las personas no están completamente determinadas por las circunstancias que vivieron, sino que conservan un margen de libertad para decidir qué hacer con eso que les ocurrió . “Somos lo que hacemos con lo que hicieron de nosotros” , citó el psicólogo durante la entrevista. La frase apunta a una tensión central del existencialismo: aunque nadie elige por completo su contexto familiar, social o emocional, sí puede elegir cómo responder frente a esas marcas. Para Rolón, los recuerdos y las experiencias “hicieron cosas de nosotros” , pero eso no implica quedar condenados a repetirlas de manera automática. El peso de los recuerdos en la construcción personal Durante la charla, el psicólogo también reflexionó sobre el modo en que las personas reconstruyen emocionalmente el pasado. “El recuerdo es un lugar muy particular y enigmático, porque es el lugar donde guardamos las cosas que hemos perdido para que no se las lleve la muerte para siempre” , señaló. Según explicó, la memoria suele atravesar una especie de “edición” con el paso ",
+      "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-jean-paul-sartre-sobre-la-identidad-y-el-pasado-somos-lo-que-hacemos-con-lo-que-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 05:00:00 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/GSXC2MQBJ5CFZL5M4HJEUC2MVY.jpg?auth=0a800b87c01cd89030c16d99e17be94b539daf2c4f0b2467377c1186ed98259f&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "0ff7da13d94c0d27e999",
+      "title": "Detuvieron a un concejal de La Libertad Avanza de Bragado por orden de la Justicia: lo acusan de vender drogas",
+      "summary": "Un escándalo sacude por estas horas a la ciudad bonaerense de Bragado luego de que un concejal del bloque de La Libertad Avanza (LLA) identificado como Germán Díaz fuera detenido este sábado luego de que la Justicia lo imputara por el delito de presunta comercialización de estupefacientes . Tras un importante operativo policial en una vivienda de la localidad de O’Brien, el edil quedó a disposición de la UFI Nº 7 del Departamento Judicial de Mercedes, organismo que, avalado por el Juzgado de Garantías Nº 3, solicitó la aprehensión del concejal de 52 años y el allanamiento de su hogar, según pudo saber LA NACION . El procedimiento judicial tuvo lugar en un inmueble ubicado sobre la calle Rivadavia al 400. Allí, personal de la Jefatura de Estación de Policía Comunal Bragado y la Subestación de O’Brien irrumpieron en el domicilio del funcionario. Durante el allanamiento, los efectivos secuestraron elementos clave para la investigación: restos de cocaína, elementos de corte y una balanza de precisión , entre otros objetos. De acuerdo al medio Bragado informa , fueron vecinos del edil quienes en una reunión en la que también habría estado el intendente local , Sergio Barenghi (Frente Unión por la Patria / Partido Justicialista), manifestaron su preocupación por la creciente venta de estupefacientes en la localidad de O’Brien y apuntaron contra Díaz como el principal responsable . Actualmente, el edil libertario permanecía alojado en dependencias policiales a disposición de la Justicia. Se prevé su traslado a sede judicial, en Mercedes, durante las primeras horas de este lunes y ante la fiscal María Laura Cordiviola, para prestar declaración indagatoria . Este domingo, la presidenta del bloque de LLA en Bragado, Daniela Monzón, emitió un comunicado firmado en conjunto con los otros tres integrantes: “Entendemos que cualquier cuestión vinculada a dicha investigación y a la situación personal del concejal debe ser resuelta exclusivamente ante la Justicia, ámbito del cual es",
+      "link": "https://www.lanacion.com.ar/seguridad/detuvieron-a-un-concejal-de-la-libertad-avanza-de-bragado-por-orden-de-la-justicia-lo-acusan-de-nid23082026/",
+      "pubDate": "Mon, 24 Aug 2026 04:56:27 +0000",
+      "source": "La Nacion",
+      "cat": "poleco",
+      "image": "https://resizer.glanacion.com/resizer/v2/O4T6AHUBERCZPNZVOEW6OA2QCY.jpg?auth=4a976e872c0460201b2922cd39e973f5118653db0bbb13c96ecf79abe31c0789&smart=true&width=2000&height=1333"
+    },
+    {
+      "id": "27a19e917fd7b80f0534",
+      "title": "Arruabarrena puso una condición para traer algún refuerzo más: “Jugamos bien pero no me conformo”",
+      "summary": "El director técnico de Boca, Rodolfo Arruabarrena , analizó el empate de Boca ante Racing en el Cilindro de Avellaneda y se refirió a la posibilidad de incorporar refuerzos antes del cierre del mercado de pases. El entrenador aseguró que mantiene conversaciones permanentes con Juan Román Riquelme y Marcelo Delgado , aunque estableció una condición para avanzar en la contratación de otro futbolista. “Con el presidente estamos en contacto siempre y está el Chelo con nosotros. Ya se lo dije. Él sabe lo que necesito” , dijo Arruabarrena durante la conferencia de prensa posterior al clásico. Además, confirmó que existen gestiones abiertas para adquirir algún jugador más, aunque admitió que las negociaciones son complejas y que Boca dispone de poco tiempo para concretarlas. “El que venga será para dar un salto de calidad, no para sumar” , sostuvo técnico. La lesión de Ayrton Costa, quien fue reemplazado por Facundo “Jagger” Herrera durante el segundo tiempo, volvió a exponer las limitaciones que Boca tiene en su defensa. Sin embargo, Arruabarrena descartó que esa situación obligue al club a incorporar de manera urgente un marcador central. “No quiero sumar a pesar de que estamos en defensa con algunos jugadores averiados. Si no es un salto de calidad, no creo que venga nadie ”, insistió. A pesar de destacar el funcionamiento colectivo del Xeneize, el DT sostuvo que todavía existe una distancia considerable entre el presente del equipo y la versión que pretende alcanzar. “Falta muchísimo, pero vamos bien. Estamos en Boca, no podemos conformarnos. Tenemos que tratar de ser protagonistas en todos los torneos” , advirtió. “El juego lo tenemos, tengo buen pie, pero tenemos que ganar . Eso no tiene que ser una presión, pero debe ser una obligación porque estamos en uno de los clubes más importantes del mundo”, indicó. Asimismo, valoró particularmente gestos de algunos de los defensores del plantel. En relación a eso, subrayó que Costa había presentado molestias durante los últi",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/arruabarrena-puso-una-condicion-para-traer-algun-refuerzo-mas-jugamos-bien-pero-no-me-conformo-nid24082026/",
+      "pubDate": "Mon, 24 Aug 2026 04:47:25 +0000",
+      "source": "La Nacion",
+      "cat": "cinema",
+      "image": "https://resizer.glanacion.com/resizer/v2/XTJZ7HSZRZAX3ENZEQG6FUEFDI.jpg?auth=b85f7c7326ccc2868d6ca097027f86c0679772eb38a74e671bd4421fdab0a79a&smart=true&width=579&height=358"
+    },
+    {
+      "id": "5a1f43717b3c969c62a5",
+      "title": "WP: El secreto bajo la Casa Blanca que complica el salón de baile de Trump",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/623816-wp-secreto-casa-blanca-complicar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Mon, 24 Aug 2026 04:38:07 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "23cf3d863560335fa780",
+      "title": "Agus Pedano, asesora de imagen: “Los secretos sobre los jeans que todos deberíamos conocer”",
+      "summary": "La asesora de imagen explica por qué la talla no lo es todo, qué efecto tienen el tiro y el corte y por qué seguir ciegamente las tendencias puede jugar en contra.",
+      "link": "https://www.clarin.com/internacional/agus-pedano-asesora-imagen-secretos-jeans-deberiamos-conocer_0_Spze5BrhWq.html",
+      "pubDate": "Mon, 24 Aug 2026 04:33:18 +0000",
+      "source": "Clarin",
+      "cat": "ia",
+      "image": "https://www.clarin.com/img/2026/08/23/iKvGC8TeD_1200x630__1.jpg",
+      "subcat": "diseño"
+    },
+    {
       "id": "5aaf2ff95e3f7cc85fab",
       "title": "Asilo en EE.UU. en 2026: demandan al Uscis por una regla que podría afectar a 444 mil personas",
       "summary": "Una coalición de organizaciones de defensa de inmigrantes demandó al gobierno federal de Estados Unidos para impugnar una nueva regla del Servicio de Ciudadanía e Inmigración de EE.UU. ( Uscis , por sus siglas en inglés) sobre el asilo afirmativo . Demanda contra el Uscis: qué cuestionan las organizaciones sobre la nueva regla de asilo Una coalición de defensores de los derechos de los inmigrantes radicó una demanda formal ante el Tribunal de Distrito de EE.UU. para el Distrito de Columbia. Los demandantes exigen la anulación total de una directriz provisional que limita las garantías procesales de los extranjeros. Entre los impulsores de esta acción judicial se destacan el Centro Nacional de Justicia para Inmigrantes , el Centro de Estudios de Género y Refugiados y la organización Human Rights First. Estas agrupaciones representan de forma colectiva a entidades de asistencia social como HIAS, Oasis Legal Services, Immigration Equality y el Proyecto Florence. Los colectivos de abogados argumentan que la nueva disposición afecta las etapas de evaluación inicial de las solicitudes . Por esta razón, el recurso legal solicita al juez de la causa que declare la invalidez del reglamento por inconsistencias en sus trámites de aprobación. Qué establece la regla del Uscis que motivó la demanda de organizaciones civiles La controversia gira en torno a una regla provisional del Uscis que entró en vigor el 28 de julio de 2026. Esta norma autoriza a los oficiales de la agencia migratoria a enviar directamente a los solicitantes ante las cortes de inmigración sin necesidad de una entrevista previa . La reforma elimina la tradicional entrevista personal y presencial que los funcionarios de asilo realizaban de forma obligatoria a cada postulante. Bajo este nuevo esquema, los agentes de la agencia derivan los expedientes a las cortes de inmigración con el único sustento de las solicitudes escritas. La medida tiene un alcance potencial masivo que altera la estabilidad de los casos ac",
@@ -1377,14 +1628,14 @@
       "image": "https://actualidad.rt.com/feeds/all.rss"
     },
     {
-      "id": "af8ed23bcd550472dcc4",
-      "title": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
-      "summary": "El oficialismo buscará esta semana darle media sanción en Diputados a dos de los principales proyectos económicos de Javier Milei. La sesión fue convocada para el miércoles a las 12 y tendrá como ejes la reforma de la Carta Orgánica del Banco Central (BCRA) y una nueva versión de la ley de Inocencia Fiscal , dos iniciativas con las que el Gobierno pretende reforzar su programa económico de cara a las elecciones de 2027. Leé la nota completa acá",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
-      "pubDate": "Mon, 24 Aug 2026 04:13:04 +0000",
-      "source": "La Nacion",
-      "cat": "ar_pol",
-      "image": "https://resizer.glanacion.com/resizer/v2/4TBYV6RSW5AZJK5YJC7QY7KSNY.JPG?auth=64e851fee85e64bd8a1109316117e3dba35dd56283b507a7a0cb54b3db3b7199&smart=true&width=1305&height=979"
+      "id": "8f771a3990321e2377aa",
+      "title": "Los científicos no dan crédito: una estudiante diseñó con cáscaras de banana un revestimiento biomimético para evitar la reproducción de bacterias en incubadoras para bebés",
+      "summary": "Vedika Devarajan participó con el proyecto BananaBaby de la Feria Internacional de Ciencia e Ingeniería Regeneron 2026, en Arizona.",
+      "link": "https://www.clarin.com/estados-unidos/cientificos-dan-credito-estudiante-diseno-cascaras-banana-revestimiento-biomimetico-evitar-reproduccion-bacterias-incubadoras-bebes_0_PK53EUIbiy.html",
+      "pubDate": "Mon, 24 Aug 2026 04:11:18 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/21/4XB-B7qVe_1200x630__1.jpg"
     },
     {
       "id": "d17525b32863a4e666d8",
@@ -1417,54 +1668,54 @@
       "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bb6bd59bf5b35a653c2f2.jpg"
     },
     {
-      "id": "b083b8921a122b7d8704",
-      "title": "¿Está realmente vacío el espacio? Una estrella magnética podría resolver un misterio de 90 años",
-      "summary": "La idea, planteada por Werner Heisenberg en la década de 1930, sostiene que incluso el vacío perfecto contiene partículas invisibles capaces de alterar el paso de la luz.",
-      "link": "https://actualidad.rt.com/actualidad/623806-esta-realmente-vacio-espacio-estrella-magnetica?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 03:47:31 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bb6ca59bf5b4e8d45fd6b.jpeg"
-    },
-    {
-      "id": "7a14603d69214fe090af",
-      "title": "Pionyang desenmascara cuáles son las verdaderas intenciones detrás del rearme de Japón",
-      "summary": "\"Está claro que semejante gasto militar conducirá a un aumento del armamento para completar los preparativos de una guerra de agresión\", indica un comunicado citado por la agencia estatal KCNA.",
-      "link": "https://actualidad.rt.com/actualidad/623809-pionyang-desenmascara-cuales-son-verdaderas-intenciones-rearme-japon?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 03:46:29 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bb67659bf5b355c341ea2.jpg"
-    },
-    {
       "id": "fb3fb99d6a33d2108c93",
       "title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
-      "summary": "Varios edificios de viviendas en Madrid.",
+      "summary": "Un edificio de viviendas en construcción en Madrid.",
       "link": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html",
       "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OL72TTQHTFMVPMYLRXJXBAOVKI.jpg?auth=e7242ba572df121959f4bd17ebb78355e9734dca16f99449da8921e9d0fd2e63"
+      "image": "https://imagenes.elpais.com/resizer/v2/H2V5NFBV5NBBHJ5A6CRRLYHYYQ.JPG?auth=7a03c5fe46d8362eedd7661e889f28a29db60c9bb4a9b3d86f3f8509726b2caf"
     },
     {
       "id": "0d21517833118f798a30",
       "title": "La crisis sin resolver de Ceuta aterriza en un Congreso que calienta para elecciones",
-      "summary": "Asiento vacío en la reunión de la Comisión de Interior del Senado a la que el PP había citado al ministro Fernando Grande-Marlaska, el jueves de la semana pasada.",
+      "summary": "Una ceutí conversa con la ministra de Defensa, Margarita Robles, durante su visita a la ciudad norteafricana el día 12.",
       "link": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html",
       "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
       "source": "El Pais",
-      "cat": "ar_pol",
-      "image": "https://imagenes.elpais.com/resizer/v2/E3TOIERTPZB73M7BPFSKIY4UIA.jpg?auth=2d10bbe1a010eb2f1dcf7a04aee0f41f7fe76b6783a2f29fba3114283bd1b390"
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/EPF2G3VXSVAMBCVQLLMAEYLP4E.jpg?auth=4b8bcaeb989ce254b3624e30809c7c9395b55b10fc0cb8b482feb4cfaa1c13c5"
     },
     {
       "id": "cccc8329d08ca8d75c6f",
       "title": "La frontera interior de Ceuta",
-      "summary": "Marcos Moreno / Europa Press",
+      "summary": "Tres personas sentadas en un banco del centro de Ceuta el sábado",
       "link": "https://elpais.com/espana/2026-08-24/la-frontera-interior-de-ceuta.html",
       "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/HWERIVMSNJOHDL6JNLMMMHFAN4.jpg?auth=d18934db711e8344a2001e61f665a239a2d991a1aefb6ebe87cece6c417324db"
+    },
+    {
+      "id": "b92bfa537bcea6579cc6",
+      "title": "Washington no se acostumbra a la Guardia Nacional un año después de que Trump enviara las tropas",
+      "summary": "Varios soldados de la Guardia Nacional recorren las calles de Washington, en enero pasado.",
+      "link": "https://elpais.com/internacional/2026-08-24/washington-no-se-acostumbra-a-la-guardia-nacional-un-ano-despues-de-que-trump-enviara-las-tropas.html",
+      "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/3BYAGAEMFBJPLIJPFN5GNQ7WAA.jpg?auth=bdf680674e6b5ff7961ee10ea926af7173bf0fae30a27e1ed5ecc4793936c1be"
+    },
+    {
+      "id": "13d07af76a96d7a21be7",
+      "title": "El Pequeño Nicolás quiere recuperar su nombre",
+      "summary": "Francisco Nicolás Gómez Iglesias, conocido como El Pequeño Nicolás, acude este viernes al concierto de India Martínez con motivo del Festival Push Play 2021 en el Hipódromo de Madrid.",
+      "link": "https://elpais.com/espana/2026-08-24/el-pequeno-nicolas-quiere-recuperar-su-nombre.html",
+      "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/TJDPPODADUKOX7G2H7LBFTUMPA.jpg?auth=05db66c3752a304c75eeb6f899be3ed6dcf8d01f0853c2623cb68bcc6d1bb078"
     },
     {
       "id": "48edfe2e5418dbd97630",
@@ -1477,14 +1728,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/TE4AI5IOONAI7KAVLZ2ERCYJN4.jpg?auth=b40927661f804a584760cb1f363234e8d584cb8d19b03a366e19ae5311023337"
     },
     {
-      "id": "b92bfa537bcea6579cc6",
-      "title": "Washington no se acostumbra a la Guardia Nacional un año después de que Trump enviara las tropas",
-      "summary": "Varios soldados de la Guardia Nacional recorren las calles de Washington, en enero pasado.",
-      "link": "https://elpais.com/internacional/2026-08-24/washington-no-se-acostumbra-a-la-guardia-nacional-un-ano-despues-de-que-trump-enviara-las-tropas.html",
+      "id": "782ee02fbf2d2ebf0433",
+      "title": "El ‘lobby’ petrolero proTrump se hace de oro con la guerra contra Irán",
+      "summary": "El presidente Trump, acompañado de la primera dama en la carrera Indycar, el pasado domingo en Wasington.",
+      "link": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
       "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/3BYAGAEMFBJPLIJPFN5GNQ7WAA.jpg?auth=bdf680674e6b5ff7961ee10ea926af7173bf0fae30a27e1ed5ecc4793936c1be"
+      "image": "https://imagenes.elpais.com/resizer/v2/OXIMLEKJNNEDVOLUAVBTVC4RJ4.jpg?auth=83608be7a3724dfab2f83f7815a910e496922fa922bbdbf4fc49b834f57fdd73"
     },
     {
       "id": "b26d0e44e4169ff1750e",
@@ -1505,26 +1756,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/Y7SX5MHZIBCTLIIUYJNYEH5F4M.jpg?auth=585e2c7838ccd82e45676637c07fcf41b781dd06fee2786b21bd160fe6a72c20"
-    },
-    {
-      "id": "13d07af76a96d7a21be7",
-      "title": "El Pequeño Nicolás quiere recuperar su nombre",
-      "summary": "Francisco Nicolás Gómez Iglesias, conocido como El Pequeño Nicolás, acude este viernes al concierto de India Martínez con motivo del Festival Push Play 2021 en el Hipódromo de Madrid.",
-      "link": "https://elpais.com/espana/2026-08-24/el-pequeno-nicolas-quiere-recuperar-su-nombre.html",
-      "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TJDPPODADUKOX7G2H7LBFTUMPA.jpg?auth=05db66c3752a304c75eeb6f899be3ed6dcf8d01f0853c2623cb68bcc6d1bb078"
-    },
-    {
-      "id": "782ee02fbf2d2ebf0433",
-      "title": "El ‘lobby’ petrolero proTrump se hace de oro con la guerra contra Irán",
-      "summary": "El presidente Trump, acompañado de la primera dama en la carrera Indycar disputada en las calles de Washington, este domingo.",
-      "link": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
-      "pubDate": "Mon, 24 Aug 2026 03:45:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/OXIMLEKJNNEDVOLUAVBTVC4RJ4.jpg?auth=83608be7a3724dfab2f83f7815a910e496922fa922bbdbf4fc49b834f57fdd73"
     },
     {
       "id": "37c83e0d85627d8366a6",
@@ -1567,56 +1798,6 @@
       "image": "https://www.clarin.com/img/2025/04/30/xTYjS08zx_1200x630__1.jpg"
     },
     {
-      "id": "e1ed6b27f793706d6005",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este lunes 24 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-lunes-24-agosto-2026_0_OWujhLs9wI.html",
-      "pubDate": "Mon, 24 Aug 2026 03:39:21 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/jvRgQTPhm_1200x630__1.jpg"
-    },
-    {
-      "id": "f5c333b65bede0b6d8d9",
-      "title": "Clima hoy en Isla Margarita, Venezuela: el pronóstico del tiempo para este lunes 24 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-isla-margarita-venezuela-pronostico-tiempo-lunes-24-agosto-2026_0_UfmL31BLen.html",
-      "pubDate": "Mon, 24 Aug 2026 03:39:20 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/owb6L8N_q_1200x630__1.jpg"
-    },
-    {
-      "id": "7ec13963e5e51b58c727",
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este lunes 24 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-lunes-24-agosto-2026_0_gvVuxSA6Sr.html",
-      "pubDate": "Mon, 24 Aug 2026 03:39:20 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg"
-    },
-    {
-      "id": "cda59ce0146f8d67042b",
-      "title": "Clima hoy en Barquisimeto, Venezuela: el pronóstico del tiempo para este lunes 24 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-barquisimeto-venezuela-pronostico-tiempo-lunes-24-agosto-2026_0_SdywKxXvgB.html",
-      "pubDate": "Mon, 24 Aug 2026 03:38:56 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/owb6L8N_q_1200x630__1.jpg"
-    },
-    {
-      "id": "c151e2f6de03e8d4e45e",
-      "title": "Clima hoy en Caracas, Venezuela: el pronóstico del tiempo para este lunes 24 agosto de 2026",
-      "summary": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-lunes-24-agosto-2026_0_NlDPuWCA21.html",
-      "pubDate": "Mon, 24 Aug 2026 03:38:55 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/04/30/f4xLaY8eq_1200x630__1.jpg"
-    },
-    {
       "id": "b9b5acc52add45b7e179",
       "title": "Tras la pista de un fantasma: cómo la BBC localizó al jefe de espionaje fugitivo de Al Assad tras una búsqueda de meses",
       "summary": "Una libreta ayudó a dar con Hussam Luka, alias \"La Araña\", quien fue uno de los hombres más temidos de Siria durante la era de Bashar al Assad.",
@@ -1625,36 +1806,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png"
-    },
-    {
-      "id": "238367accf1bd5769c17",
-      "title": "Rusia impulsa su presencia espacial con el lanzamiento de un satélite militar",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/623812-rusia-impulsa-presencia-espacial-lanzamiento-satelite?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 03:32:00 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "03718e8d9b0ced1d4d68",
-      "title": "El robo de una moto terminó con tiros en la puerta de la casa de Eduardo Duhalde en Lomas de Zamora",
-      "summary": "Un intercambio de disparos se produjo este domingo en la puerta de la casa del expresidente Eduardo Duhalde , en Lomas de Zamora , cuando la custodia del exmandatario intervino ante un robo a un motociclista. El episodio terminó con la víctima -un hombre de 60 años- herida de bala, y dos delincuentes prófugos. Según supo LA NACION, dos hombres armados asaltaban al motociclista cuando el personal de seguridad de Duhalde, que se encontraba en la puerta de la vivienda -sobre Ramón Falcón-, intervino al advertir lo que ocurría. Al identificarse como policías, se enfrentaron a los tiros con los delincuentes, que luego escaparon a pie. El personal de la custodia resultó ileso. La víctima del robo recibió un disparo en el omóplato y fue asistida tras el episodio . Tal y como pudo confirmar este diario, fue internado en el Hospital Gandulfo y se encuentra fuera de peligro . En declaraciones televisivas, el propio expresidente ofreció detalles de lo sucedido: “Hubo un intento de robo de una moto. La víctima recibió un disparo y se movilizó hasta la puerta de mi casa, donde sabía que estaba la custodia. Los llamó porque necesitaba ayuda, la custodia salió y estos tipos [los delincuentes] venían. La custodia empezó a los tiros. Creen que hay un ladrón lastimado. Un disparo pegó en el frente de mi casa”. “Yo en ese momento estaba durmiendo la siesta. No escuché los tiros. Me enteré después ”, reconoció Duhalde. Y reveló: “Inmediatamente después de lo ocurrido, fue a ver al hombre [la víctima del intento de robo] al Gandulfo. Le ofrecí colaboración y ayuda. Entiendo que le estaban por dar el alta”. Por último, se expidió respecto de la inseguridad en la Argentina: “ Cuando no alcanza para comer en todo el mes, aparecen estas cosas. No es solo en la Argentina. Es delincuencia por necesidad. Me da pena“. Quien también habló con la prensa sobre lo sucedido fue Hilda “Chiche” Duhalde, que enfatizó con vehemencia que se trató de un hecho aislado y nada tuvo que ver con un intento de ",
-      "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 03:31:57 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/XO3EWU7R6VC7JMUAZAM562STJQ.JPG?auth=3c0877bb83b72e5bd894ba3c3648d043e50422448e3780e9d85b1546f89ea924&smart=true&width=1422&height=1066"
-    },
-    {
-      "id": "04bba28e2f04695092cc",
-      "title": "Un patrullero de la Policía Bonaerense atropelló a un hombre cuando acudía a una emergencia en Almirante Brown",
-      "summary": "Un patrullero de la Policía Bonaerense atropelló a un hombre mientras acudía a una emergencia en la localidad de Don Orione, partido de Almirante Brown. El incidente, que tuvo lugar en la madrugada del viernes, fue captado por una cámara de seguridad instalada en la vía pública. Las imágenes se viralizaron en X. Según medios zonales , el móvil policial transitaba por el cruce de las calles Figueroa y Concordia. Se dirigía a una vivienda particular tras recibir una alerta en el sistema 911. Fue entonces que, por razones que todavía son materia de investigación, el vehículo arrolló al sujeto, identificado posteriormente como Nicolás Romero. La filmación muestra cómo, tras el impacto, Romero queda tendido al lado del cordón. El uniformado desciende entonces del vehículo, se lleva las manos a la cabeza y se aproxima a la víctima. “¡No, no, no, la p.. que lo parió, la con... de mi madre!“, vocifera mientras toma dimensión de lo ocurrido e intenta auxiliar al individuo. Un patrullero de la Policía Bonaerense atropelló a un hombre cuando acudía a una emergencia en Almirante Brown Momentos más tarde, personal del servicio de emergencias médicas arribó al lugar de los hechos, donde ofreció rápida asistencia a la víctima . Acto seguido, se lo trasladó al Hospital Zonal General de Agudos Arturo Oñativia, ubicado en Rafael Calzada. Permanece internado, con politraumatismos y pronóstico reservado. Intervino en el caso personal de la Comisaría Almirante Brown 8.ª de Don Orione, que instruyó las actuaciones correspondientes. La fiscalía de turno ordenó asimismo el relevamiento de pericias mecánicas sobre el móvil policial y el análisis de los domos de la zona para determinar las circunstancias en las que ocurrió el hecho. El último antecedente de un atropello protagonizado por un agente de las fuerzas de seguridad se remonta a enero, cuando un policía de la Ciudad arrolló a un delincuente que quería robar una moto. El hecho ocurrió en el Acceso Sudeste, bajada Bernal, cuando ladro",
-      "link": "https://www.lanacion.com.ar/seguridad/un-patrullero-de-la-policia-bonaerense-atropello-a-un-hombre-cuando-acudia-a-una-emergencia-en-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 03:31:46 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/KXT4E2ED4BD7XE623OWXPUV2DY.jpg?auth=73ba149bad702846e2ddbe9a45a07bcf4c144e3e26e156369421cda363ce4b87&smart=true&width=1200&height=800"
     },
     {
       "id": "1f3f082527535fb295b7",
@@ -1674,7 +1825,7 @@
       "pubDate": "Mon, 24 Aug 2026 03:30:01 GMT",
       "source": "El País Tech",
       "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/DI3U2FVBNVNYJG7EWCRYEYUFAI.jpg?auth=034474c2cb4f7993eca96f43e85a8cbbda2c0e80da885ea7312e64cc70eb890b"
+      "image": "https://imagenes.elpais.com/resizer/v2/XKQU5SV34ZB2RBJUL5DEMAJYZQ.jpg?auth=c2623796939e42e61097c8d8ad51e624fada228451b87580c076f40371894700"
     },
     {
       "id": "e4061ed024529083d250",
@@ -1694,7 +1845,7 @@
       "pubDate": "Mon, 24 Aug 2026 03:30:01 GMT",
       "source": "El Pais",
       "cat": "ia",
-      "image": "https://imagenes.elpais.com/resizer/v2/N276EUDWPFDFFN642UE4NZS6IA.jpg?auth=8b442765b75557b3e7fe120756321936231f400c766e0c2bc4b1e392adff8995",
+      "image": "https://imagenes.elpais.com/resizer/v2/ENGSFSY5PZBPBHPQQXEZN6GP3Y.jpg?auth=8c6885425bd03afff79173f74cfa390805fb43ad8615442e2448888f714afbc8",
       "subcat": "herramientas"
     },
     {
@@ -1769,6 +1920,16 @@
       "subcat": "herramientas"
     },
     {
+      "id": "c29c1ca35d0ac67d8f6c",
+      "title": "El quiero y no puedo de los refugios climáticos en Madrid",
+      "summary": "Refugio climático del Circulo de Bellas Artes.",
+      "link": "https://elpais.com/espana/madrid/2026-08-24/el-quiero-y-no-puedo-de-los-refugios-climaticos-en-madrid.html",
+      "pubDate": "Mon, 24 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4FF4RCLK3BGRHDB3R4LJXQGR6I.JPG?auth=1b9074e124fca404a1cde542e2ee30396104e04beb47d7f735092b713f182ed6"
+    },
+    {
       "id": "c4758ae719cc96b30a1a",
       "title": "‘Patoman’, el joven malagueño que persigue el oro en el Mundial de Pokémon",
       "summary": "Leo Marín, alias 'Patoman', en el Jardín japonés de Alhaurín de la Torre (Málaga).",
@@ -1777,16 +1938,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/65WCDSBWGNEANI454BDMWGQHFI.jpg?auth=7969302805b2bd5429bdefdb27f1805271955ad359d2947634962d3e994f5663"
-    },
-    {
-      "id": "a95b44b6ea75151ee5e8",
-      "title": "Snapchat ha vuelto: el inesperado regreso de la red social efímera",
-      "summary": "Asistentes al evento sobre tecnología y cultura SXSW de Londres.",
-      "link": "https://elpais.com/eps/2026-08-24/snapchat-ha-vuelto-el-inesperado-regreso-de-la-red-social-efimera.html",
-      "pubDate": "Mon, 24 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/U6IDQQ7OVJGDPBIOSD5T3X44FM.JPG?auth=cb854a5b3b2be0fbab7565e0388be2c22f7298948c53796ec47e44ff80b2d3f7"
     },
     {
       "id": "562d38554f1cf9afe58b",
@@ -1819,6 +1970,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/UV2IN7OLA5CXVAAM5AYYI526BE.jpg?auth=aa766a7c71c2c3af16d9af522c5a6e804541c44f35d94f32357127763143fb78"
     },
     {
+      "id": "03a7a972ec4d2e2f153e",
+      "title": "Sarina Castagnoli, pastelera: “Me gusta traer de vuelta esas tartas que ya no se ven, las que comía cuando era niña en los noventa”",
+      "summary": "Sarina Castagnoli posa para ICON con gafas COURRÈGES y ropa ACNE STUDIOS.",
+      "link": "https://elpais.com/icon/2026-08-24/sarina-castagnoli-pastelera-me-gusta-traer-de-vuelta-esas-tartas-que-ya-no-se-ven-las-que-comia-cuando-era-nina-en-los-noventa.html",
+      "pubDate": "Mon, 24 Aug 2026 03:30:00 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/ASIYFMB3NNHBHOIG6INRPV5YVQ.jpg?auth=5ec95b04dd16c082966fb573ad29bc8ae163fae243d9013a9b53cf6691950aac"
+    },
+    {
       "id": "954c62f20991843cdab2",
       "title": "Metecucharas, rapiñadores, removedores furtivos y otros personajes que sufrimos quienes cocinamos en casa",
       "summary": "¿Quién no conoce un removedor furtivo?",
@@ -1847,26 +2008,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/C7XJA2QMCWKX4ONXGGTHYMCVJE.jpg?auth=fd335a3a2cd8246c8293f73bfddd03e4309428e8c24dd0a9f17ba17f745a4d61"
-    },
-    {
-      "id": "6ff94ecd2148089344c5",
-      "title": "Reino Unido proporcionará a Kiev datos clasificados para producir misiles occidentales",
-      "summary": "Este 24 de agosto el primer ministro británico, Andy Burnham, viajará a Ucrania en la que será su primera visita oficial al extranjero.",
-      "link": "https://actualidad.rt.com/actualidad/623801-reino-unido-proporcionara-kiev-datos-clasificados-produccion-misiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 03:24:57 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8baac9e9ff71076e0336e0.jpg"
-    },
-    {
-      "id": "a292d75ca09134d9c54a",
-      "title": "VIDEO: Potente andanada de 'Huracán' ruso arrasa un bastión ucraniano",
-      "summary": "La tripulación de un sistema de lanzacohetes múltiple Uragán ('Huracán') de las Fuerzas Armadas de Rusia destruyó un bastión de las tropas ucranianas y un puesto de control enemigo de vehículos aéreos no tripulados en la dirección de Dobropolie, según informó el Ministerio de Defensa ruso.",
-      "link": "https://actualidad.rt.com/actualidad/623810-video-potente-andanada-huracan-ruso-arrasar-bastion?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 03:20:46 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bb71a59bf5b5f3659e4b9.png"
     },
     {
       "id": "d821ec6c99bdce1671f2",
@@ -1918,16 +2059,6 @@
       "source": "La Nacion",
       "cat": "poleco",
       "image": "https://resizer.glanacion.com/resizer/v2/QSRDGJ7PDFFB5EN7JPMVZDQHJY.jpg?auth=573aba2d0c574606bce9aa8b8b617c4b27648cb81d1c7d21109d2fbae4d74ba2&smart=true&width=1360&height=910"
-    },
-    {
-      "id": "e08ff33992533e054196",
-      "title": "Acusan a una pareja de encerrar a cuatro menores en un tráiler durante años en condiciones inhumanas",
-      "summary": "Un detective señaló que los menores caminaban \"con un paso antinatural\" atribuible al encierro y que estaban \"mal alimentados\", sin atención médica ni dental",
-      "link": "https://actualidad.rt.com/actualidad/623802-acusan-pareja-encerrar-cuatro-menores-trailer?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 03:01:34 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bb3fd59bf5b5e316a4df8.jpg"
     },
     {
       "id": "443203ac04a95659e48d",
@@ -1982,16 +2113,6 @@
       "image": "https://resizer.glanacion.com/resizer/v2/CFDTVZUJEFCTHFSJZPRFSAN3YY.jpg?auth=e777c096114fba429a416958d5f3e307b081ae4c0793a83ba339db918306e58a&smart=true&width=2601&height=1734"
     },
     {
-      "id": "6abe54ccc73e59f20c96",
-      "title": "VIDEO: Helicóptero militar ruso calcina posiciones ucranianas con misil guiado",
-      "summary": "La tripulación de un helicóptero Mi-28NM de las Fuerzas Armadas de Rusia llevó a cabo un ataque con un misil ligero multipropósito guiado contra posiciones de personal y equipo blindado camuflado de las Fuerzas Armadas de Ucrania en la zona de responsabilidad del grupo de fuerzas Centro, según informó el Ministerio de Defensa ruso al publicar el video de la ofensiva.",
-      "link": "https://actualidad.rt.com/actualidad/623808-video-helicoptero-militar-ruso-calcinar-misil-guiado?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Mon, 24 Aug 2026 02:57:07 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8bb169e9ff7107497100ff.png"
-    },
-    {
       "id": "ceb49eefce453c8d4a0c",
       "title": "Annie Coleman, embajadora de Stanford: “La vida es reinvención y, en una vida más larga, la gente tendrá que reinventarse varias veces”",
       "summary": "Para Annie Coleman “la longevidad no es solo sumar años , sino sumar vida a esos años”. La experta británica trabajó más de cuatro décadas en empresas globales y es testigo de las diferentes actitudes que adoptan las corporaciones frente al paso del tiempo en la carrera de sus ejecutivos. Desde esta perspectiva, cuestiona el modelo tradicional de retiro y propone que la acumulación de años, lejos de ser un estigma, se transforme en un activo estratégico. No habla de jubilación, sino de reinvención. A los 66 años, Coleman encarna esa idea. Como embajadora global del Stanford Center on Longevity se ocupa de tender lazos entre la ciencia de la longevidad, por un lado, y el liderazgo corporativo y el desarrollo personal por otro. Fundó la consultora RealiseLongevity desde donde asesora a directorios y CEOs para replantear la estrategia corporativa y el capital humano con una mirada puesta en vidas más largas. Ayuda a las empresas a responder al envejecimiento de la población , planificar carreras en múltiples etapas y aprovechar las oportunidades de la nueva economía de la longevidad. Rafael Hidalgo, entrenador: “Si una persona de más de 70 años camina 20 minutos al día, ya se obtienen beneficios Plantea la longevidad como una reinvención... – La vida es reinvención y, en una vida más larga, la gente tendrá que reinventarse varias veces porque ya no funcionará el esquema a la antigua: educación, trabajo y retiro. En el futuro, el recorrido será más flexible y menos lineal: alternará etapas de formación, actividad laboral, pausas de tiempo libre y reciclaje profesional. Por eso, el aprendizaje permanente será necesario para todos. –¿Por qué le surgió ese interés particular por la longevidad? –Tenía 50 años y trabajaba de manera independiente en mi propia consultora. A esa edad, asumía que iba a hacer eso durante el resto de mi carrera. Pero me ofrecieron un puesto en el banco UBS y yo misma no podía creer que, a los 52 años, quisieran contratarme. Eso me hizo darme cuent",
@@ -2001,67 +2122,6 @@
       "cat": "ia",
       "image": "https://resizer.glanacion.com/resizer/v2/36C6QXWRNBH37IZDHUWRBHSH5M.jpg?auth=9ae4983872e450b4b4a48a2b98d0960a3d6325452380651ca62fa723aff3b44a&smart=true&width=1536&height=1536",
       "subcat": "diseño"
-    },
-    {
-      "id": "d149ac18793f3634a7b0",
-      "title": "Tabla de posiciones del Clausura: cómo quedaron Boca y River con la 6° fecha en juego",
-      "summary": "Por segunda fecha consecutiva, Independiente es el único equipo de los cinco grandes que por ahora se está clasificando a los playoffs del torneo Clausura . Con la sexta fecha en juego, correspondiente a los duelos interzonales, los de Avellaneda igualaron 1 a 1 contra Independiente Rivadavia de Mendoza en lo que significó el debut de su entrenador, Jadson Viera . El Rojo está quinto en el grupo A y suma 10 puntos. San Lorenzo no puede despegar y tiene siete puntos en la zona A. El Ciclón igualó 0-0 como visitante ante Estudiantes de Río Cuarto, que es el peor quipo de la temporada junto a Aldosivi. River es otro que deambula en la irregularidad. Empató 2 a 2 ante Vélez un partido que lo empezó ganando con autoridad, pero que cometió errores y sufrió la igualdad. El Millonario tiene cuatro unidades y está penúltimo en la zona A. Boca y Racing culminaron la jornada con una igualdad en Avellaneda. Ninguno se acercó a los puestos de clasificación, pero en la anual viven diferentes realidades. La sexta jornada del Clausura se cerrará este lunes con tres partidos: Tigre - Central Córdoba; Lanús - Argentinos y Talleres - Rosario Central. River perdió dos puntos Atrás quedó el desahogo que le dejó el triunfo ante Argentinos por 2 a 0 en la quinta fecha. Entre semana, por la ida de los octavos de la Copa Sudamericana, empató en Colombia ante Independiente Santa Fe (0-0) y este domingo no supo resolver un partido para confirmar la levantada. River le ganaba muy bien 2 a 0 a Vélez al cabo de los primeros 45 minutos, pero tras un error de Thiago Almada que significó el descuento, todo se derrumbó para los de Coudet y el Fortín logró el empate. El Millonario tiene cuatro puntos y está ante último en la zona B, sólo por arriba de Aldosivi, que tiene dos unidades, y a cuatro de Tigre, el último de los que se está metiendo a los playoffs. Además, en la tabla anual se ubica undécimo, afuera de la clasificación a las competencias internacionales. San Lorenzo no levanta El equipo de ",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/tabla-de-posiciones-del-clausura-como-quedaron-boca-y-river-con-la-6-fecha-en-juego-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:51:00 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZTP2KW6T7RCDRAULT3NAFC5SWE.png?auth=7f13954e1c92fdf74f3942a43a2023f7c64a35bfc45951b4e63a9ff90055ec4f&smart=true&width=699&height=451"
-    },
-    {
-      "id": "63aca7ce9b476074f70c",
-      "title": "Nicolás Reinoso, ingeniero agrónomo: “Los vínculos se descartan porque tenemos la sensación de que las opciones son infinitas”",
-      "summary": "Autor del libro El amor no duele, el ego sí , Nicolás Reinoso es ingeniero agrónomo, con un MBA y programas en el MIT y Cornell. Vive en Estados Unidos, pero viaja muy seguido a la Argentina para conectar con sus raíces. Se define como un nerd con toda una vida dedicada a la agricultura e innovación. Sin embargo, su tono y forma de expresarse no tienen nada que ver con la lógica estructurada de quien cursó una carrera de ciencia dura . Trabajó durante 20 años en el mundo corporativo y hoy recorre el mundo dando charlas sobre innovación en el campo pero también escribe sobre vínculos, ego y el trabajo silencioso de encontrarse con otro sin armadura. Estudioso de la filosofía budista desde hace años y conductor del podcast Entrevistas con la mente , Reinoso es un explorador curioso de cómo la mente se interpone entre nosotros y lo que estamos viviendo realmente: el amor, la felicidad y la plenitud. Poco antes de la pandemia, una crisis personal que se reflejaba en un estado de enojo permanente lo obligó a parar y a conectar con el budismo en el que había profundizado leyendo libros relacionados. Luego, en 2022, viajó a la India a realizar solo el camino de Buda , recorriendo desde donde nació Siddhartha , en Lumbini en el suroeste de Nepal, hasta donde se iluminó en Bodh Gaya y alcanzó el paranirvana (Kushinagar), lo que nosotros llamamos muerte. “Son lugares muy sagrados”, describe. Manuel Martín-Loeches, neurocientífico: “Las personas más inteligentes suelen conocer y regular mejor sus emociones, aunque existen excepciones” —¿Cómo fue este despertar espiritual? —Fue en enero de 2020, antes de la pandemia. Estaba muy desorientado, cero identificado con nada y con nadie y enojado, ¿viste? Muy pasional argentino clásico. Un día me levanté y vi todo con una calma impresionante, unos colores brillantes impresionantes y dije, ¿qué es esto? Nunca había sentido semejante sensación en mi vida. Por eso me puse a investigar y me dije: “yo quiero más de esto”. —¿Y hoy cómo lo e",
-      "link": "https://www.lanacion.com.ar/salud/nicolas-reinoso-ingeniero-agronomo-los-vinculos-se-descartan-porque-tenemos-la-sensacion-de-que-las-nid22082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:51:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/WRYCDOBCHRBT3JMTJWA5VYGTWM.JPG?auth=1a11db497a244afc63c8f6792efb0b460bcfcc93efb0fa838243f8572f9602e5&smart=true&width=2000&height=1333",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "856646c13a0881e48866",
-      "title": "Resultado de Racing vs. Boca: quién ganó el partido del Torneo Clausura 2026",
-      "summary": "Racing Club y Boca Juniors igualaron 1 a 1 este domingo en el clásico de la sexta fecha del Torneo Clausura 2026, la de los interzonales, que se desarrolló en el Cilindro de Avellaneda con arbitraje de Nicolás Ramírez. La Academia abrió el marcador a los 9′ con un penal de Marcos Rojo, que el juez sancionó a instancias del VAR porque en un primer momento no advirtió el pisotón de Ayrton Costa sobre Ezequiel Cannavo . Antes de que termine el primer tiempo, Miguel Merentiel igualó para el xeneize. El resultado no le sirvió a ninguno de los dos porque, en sus respectivos grupos, siguen afuera de los puestos de clasificación a los playoffs. El elenco dirigido por Juan Pablo Vojvoda llegó a cinco encuentros sin triunfo y quedó 12° en la zona B con cinco puntos producto de una victoria, dos empates y tres derrotas. El combinado del barrio porteño de la Boca, por su parte, se ubica décimo en el Grupo A con siete unidades conseguidas en una sola victoria, cuatro igualdades y una caída. Por diferencia de goles, Deportivo Riestra y Unión de Santa Fe están por encima suyo mientras que San Lorenzo, por debajo. Lo negativo es que Lanús y Central Córdoba de Santiago del Estero todavía no jugaron en esta jornada -chocarán este lunes con Argentinos Juniors de local y Tigre de visitante, respectivamente- y en caso de ganar, lo superarán. En la continuidad del certamen, el equipo albiceleste enfrentará a Independiente Rivadavia de Mendoza, Atlético Tucumán y Huracán. Boca, por su parte, jugará ante Lanús, Gimnasia de Mendoza y el Ferroviario. Entre medio de cada uno de esos cotejos, disputará los octavos de final de la Copa Argentina 2026 frente a Vélez Sarsfield e iniciará la serie de cuartos de la Copa Sudamericana 2026 vs. San Pablo. Fue el segundo partido entre Racing y Boca este año porque también se enfrentaron en el Torneo Apertura, por la sexta fecha, e igualaron sin goles en la Bombonera. Si el plantel que comanda Rodolfo Arruabarrena supera al Fortín en la Copa Argentina, s",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/resultado-de-racing-vs-boca-quien-gano-el-partido-del-torneo-clausura-2026-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:39:03 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/3D2L67ZFMNCRHHW5DJ66VOTRI4.jpg?auth=3c901eb4cffcd6485f0318336aa5ed38cf29155931aa3b34b1692005b15a76fc&smart=true&width=4309&height=2873"
-    },
-    {
-      "id": "330264d6e322d72ae468",
-      "title": "Tabla Anual 2026: así están las clasificaciones a la Libertadores y Sudamericana",
-      "summary": "La Tabla Anual de la Primera División del fútbol argentino define, además de uno de los dos descensos a la Primera Nacional, nueve cupos a las copas Libertadores y Sudamericana de la temporada 2027. Belgrano de Córdoba tiene asegurado su lugar en el máximo certamen continental del año próximo por haber sido campeón del Torneo Apertura 2026, objetivo que también lograrán los vencedores del Clausura y la Copa Argentina, ambos en curso. Los otros tres boletos de los seis en total que hay a la Libertadores se lo quedarán los tres mejores del escalafón en el que se suman las unidades obtenidas en el Apertura y Clausura, torneo que trascurre la sexta fecha, la de los partidos internacionales. Actualmente son Independiente Rivadavia de Mendoza (42 puntos), Argentinos Juniors (41); y Vélez Sarsfield (40). Los seis clubes que les siguen en esa clasificación estarían accediendo a la Sudamericana 2027: Rosario Central (38), Estudiantes de La Plata y Boca Juniors (37); Gimnasia de La Plata (35); Independiente e Instituto de Córdoba (34). Una cuestión a tener en cuenta es que los clubes que acceden a los certámenes internacionales como ganadores de algún torneo (Apertura, Clausura o Copa Argentina), liberan su lugar en la Tabla Anual siempre que terminen la temporada en puestos de acceso a los eventos de la Confederación Sudamericana de Fútbol (Conmebol). Es el caso del Pirata, porque está séptimo con 36 puntos y ocupa un lugar en la Sudamericana que lo está liberando para el décimo -la Gloria-. Ello también ocurrirá si Estudiantes de La Plata o Platense se consagran en la Copa Libertadores 2026 y, a nivel doméstico, quedan entre los nueve mejores de la temporada. Caso idéntico puede darse si Boca o River Plate conquista la Sudamericana 2026 y acceden por ese logro a la próxima Libertadores, siempre que acaben primero, segundo o tercero en la general del año del fútbol argentino. Así están las plazas a los torneos internacionales de 2027 Copa Libertadores 2026 (6) Campeón del To",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/tabla-anual-2026-asi-estan-las-clasificaciones-a-la-libertadores-y-sudamericana-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:38:09 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/VRZOITJ2TZAAHH3FUSC36SSVNU.png?auth=9d186cd335e5541e3b33c4fb4ee01061e9931fbe032613feed93e30954985f11&smart=true&width=690&height=524"
-    },
-    {
-      "id": "18f424be74198b834b51",
-      "title": "Tiene 40 años: quién es el empresario que convenció a Sigman de invertir US$20 millones y busca revolucionar la construcción con un material de lujo",
-      "summary": "POSADAS, Misiones.- Hay dos clases de emprendedores, los que ven una necesidad en el mercado y los que están dispuestos a fabricar un producto que sea objeto de deseo y generar a partir de ahí la demanda. “El principal riesgo de este proyecto es que la demanda, no está, la tenemos que crear”, dice Pablo Baldoma, de 40 años. Con su empresa Cambium Timber, está terminando de construir una nave industrial en Gobernador Virasoro, Corrientes, para levantar la primera planta de producción de CLT Cross-Laminated Timber) , unos paneles de madera de hasta 3 x 12 metros, y 35 centímetros de espesor, ultra resistentes con los cuales se pueden construir casas, edificios o escuelas. Para la inversión, de 20 millones de dólares, Baldoma le llevó el proyecto a Leandro Sigman, el hijo de Hugo, el empresario de Insud. La segunda familia más rica de la Argentina, según el ranking Forbes, también tiene 25.000 hectáreas de forestaciones con Pomera y dos generadoras de energía por biomasa (FRESA y San Alonso) con una inversión de 100 millones de dólares en esa misma localidad. “Súper Niño”: adelantan que el fenómeno será uno de los más fuertes desde 1950 y dónde ya hay riesgos “Hay que agregarle valor a la madera y aprovechar todo el árbol, cuando empezamos a trabajar en la industria forestal, lo que observábamos es que de todo lo que se cosechaba en el bosque, el 50% quedaba como residuo”, dijo Hugo Sigman en mayo del año pasado , cuando inauguró San Alonso. Pero Baldoma no solo le llevó un proyecto para agregar valor, sino también algo disruptivo que apunta a cambiar mentes y corazones: un producto estético y que pueda revolucionar el sector de la construcción. El CLT se usa en otros países para edificios de lujo, casas premium en los barrios más exclusivos y es un material constructivo de deseo, como el mármol. “No es más barato que la mampostería o los ladrillos, aunque buscaremos ser competitivos”, dice Baldoma. Baldoma es oriundo de La Plata y, tras recibirse de Economista en la U",
-      "link": "https://www.lanacion.com.ar/economia/campo/tiene-40-anos-quien-es-el-empresario-que-convencio-a-sigman-a-invertir-us20-millones-y-busca-nid22082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:20:53 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/BSOHOTTBKBAEJEDF5GYNBSVFKQ.jpeg?auth=e195216e185490b27ebc7ad3de9d0f542c1b32254e030da0a3bb61721b913174&smart=true&width=1280&height=960"
-    },
-    {
-      "id": "cf8395f031c7dbe11a8c",
-      "title": "Maneja 1100 hectáreas: el exitoso modelo “multifunción” que creó un empresario que rompe moldes",
-      "summary": "“La historia de la empresa familiar empieza con el abuelo y sus hermanos, que tenían un ingenio azucarero. Yo trabajé varios años en esa empresa con los tíos, principalmente en la administración de cultivos de caña de azúcar, soja, maíz y poroto. Pero llegó el momento en que el abuelo falleció y se realizaron las divisiones; con lo que me tocó a mí vine a hacer lechería a Trancas, al norte de Tucumán, algo que no era muy común allí” , rememora Domingo Colombres, actual responsable de una empresa que desarrolla cinco actividades con espíritu innovador. “Me asocié con familiares y hoy somos seis hermanos dueños de 1100 hectáreas que yo administro. De la superficie total, 400 se dedican a tambo con riego y, en las 700 restantes, formadas por lomadas y monte, se hace cría vacuna” , agrega. El emprendimiento de tambo fue pasando por distintas etapas y hoy se basa en un sistema mixto, por el cual 603 vacas salen del ordeño de la madrugada y van a pastorear lotes de alfalfa o avena con riego, complementadas con silaje de maíz. Luego del segundo ordeño, a las 3 de la tarde, se encierran en un corral con ración, con un planteo tipo dry lot donde permanecen hasta el siguiente ordeño. Con ese sistema de producción Colombres alcanza 26-27 litros por vaca y por día como promedio anual en una zona compleja. El régimen de lluvias de Trancas es de 400 milímetros anuales, pero el 80% se concentra entre diciembre y marzo, lo que produce mucho barro y genera problemas podales y de parto, y destrucción de caminos. La manera de obviar este inconveniente fue interrumpir los servicios para que no hubiera pariciones desde el 15 de enero al 15 de abril. “Para el actual sistema de producción lechera, buscamos vacas Holando de tamaño moderado y las inseminamos con toros de Select Debernardi buscando facilidad de parto y productividad”, explica Colombres. Los terneros machos son criados, recriados y engordados hasta 400 kilos. El 30% de la leche producida en la finca es utilizada por un herman",
-      "link": "https://www.lanacion.com.ar/economia/campo/maneja-1100-hectareas-el-exitoso-modelo-multifuncion-que-creo-un-empresario-que-rompe-moldes-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:20:19 +0000",
-      "source": "La Nacion",
-      "cat": "poleco",
-      "image": "https://resizer.glanacion.com/resizer/v2/SLWZWNXUEVCF7FU7Q3TRYDB4LM.png?auth=88a7b3adb80a7593af0906929209693d655d48a7856476a0d5b12b6a4bbce019&smart=true&width=1279&height=897"
     },
     {
       "id": "92226b4bc5f152329bf6",
@@ -2074,65 +2134,24 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/la-busqueda.jpg"
     },
     {
-      "id": "53373f82749c38a1f067",
-      "title": "Así quedó la tabla de campeones del Masters 1000 de Cincinnati, tras el título de Arthur Fils",
-      "summary": "Arthur Fils (21°) se coronó campeón del Masters 1000 de Cincinnati al derrotar este domingo en la final a Frances Tiafoe (17°) por 6-3, 1-6 y 6-0 y logró su primer título en el campeonato que se disputa en el Lindner Family Tennis Center de Ohio, con el que accedió a la tabla de ganadores. El francés consiguió la quinta estrella de su carrera -la más importante- y se convirtió en el quinto tenista de su país en ganar un torneo de la zaga desde que se creó en 1990. A su vez, es el primer galo en celebrar en Cincinnati desde que su compatrota Guy Forget lo hizo en 1991. Al igual que Forget, Fils tiene un trofeo en ese torneo y se metió en la nómina de campeones en la cuarta ubicación junto a, entre otros, Gustavo Kuerten, Rafael Nadal, Marin Cilic, Grigor Dimitrov, Daniil Medvedev, Alexander Zverev, Borna Coric Jannik Sinner y Carlos Alcaraz, quien no compitió este año por una lesión y no defendió la corona. El máximo ganador de la historia es Roger Federer con siete estrellas: 2005, 2007, 2009, 2010, 2012, 2014 y 2015. Dos jugadores tienen tres títulos y son Pete Sampras y Novak Djokovic mientras que el podio lo completan, con dos festejos cada uno, Andre Agassi, Michael Chang, Andy Roddick y Andy Murray. Últimos 10 campeones del Masters 1000 de Cincinnati 2026: Arthur Fils (Francia). 2025: Carlos Alcaraz (España). 2024: Jannik Sinner (Italia). 2023: Novak Djokovic (Serbia). 2022: Borna Ćorić (Croacia). 2021: Alexander Zverev (Alemania). 2020: Novak Djokovic (Serbia). 2019: Daniil Medvedev (Rusia). 2018: Novak Djokovic (Serbia). 2017: Grigor Dimitrov (Bulgaria). Tabla de campeones del Masters 1000 de Cincinnati Roger Federer (Suiza) - 7 Pete Sampras (Estados Unidos) / Novak Djokovic (Serbia) - 3 Andre Agassi (Estados Unidos) / Michael Chang (Estados Unidos) / Andy Roddick (Estados Unidos) / Andy Murray (Gran Bretaña) - 2 Stefan Edberg (Suecia) / Guy Forget (Francia) / Thomas Enqvist (Suecia) / Gustavo Kuerten (Brasil) / Rafael Nadal (España) / Marin Cilic (Croacia) /",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-la-tabla-de-campeones-del-masters-1000-de-cincinnati-tras-el-titulo-de-arthur-fils-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 02:00:02 +0000",
-      "source": "La Nacion",
+      "id": "cc99aa74b18e08ed8325",
+      "title": "Sin perdón para Julián",
+      "summary": "Así vienen los periódicos deportivos de este lunes 24 de agosto de 2026.",
+      "link": "https://www.marca.com/futbol/album/2026/08/24/portadas-dia.html",
+      "pubDate": "Mon, 24 Aug 2026 02:02:33 +0200",
+      "source": "Marca",
       "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/UBKQPP7M7ZGSNNBLSEYX4X6U7M.JPG?auth=0dd80f727fca7c8f3e330b2fca1ae0ce598c6fcb0466b960adca4692d1580524&smart=true&width=3764&height=2509"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/24/6a8b89813f006.jpeg"
     },
     {
-      "id": "7066ad67f1ef0db34f4f",
-      "title": "La agenda de la TV del lunes: los Leones y las Leonas en el Mundial de hockey, Chelsea en la Premier y se cierra la 6° fecha del Clausura",
-      "summary": "La siguiente es la programación de la televisación de los acontecimientos deportivos del lunes 24 de agosto de 2026. Fútbol Torneo Clausura 19 Tigre vs. Central Córdoba. TNT Sports 21.15 Lanús vs. Argentinos. TNT Sports 21.15 Talleres vs. Rosario Central. ESPN Premium Ligas del exterior 13:30 Bologna vs. Lazio. Serie A. ESPN 2 14:30 Osasuna vs. Levante. Liga de España. ESPN 3 15:30 Roma vs. Fiorentina. Serie A. ESPN 2 16 Fulham vs. Chelsea. Premier League. ESPN 16:30 Málaga vs. Deportivo La Coruña. Liga de España. DSports 2 Hockey Mundial de Bélgina y Países Bajos 9.45 Los Leones vs. India. ESPN 2 y Disney+ 15.30 Las Leonas vs. Bélgica. ESPN 2 y Disney+ Ciclismo 9:45 La Vuelta a España. Etapa 3. ESPN 3",
-      "link": "https://www.lanacion.com.ar/deportes/hockey/la-agenda-de-la-tv-del-lunes-los-leones-y-las-leonas-en-el-mundial-de-hockey-y-se-cierra-la-6-fecha-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 01:58:15 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/I5MI6FUR4FBLFOYOUIQ7IVSOXA.jpg?auth=4e422488097427895953cfe79fba1f31ebe9ed7f3f277141fb357d4a07e59d41&smart=true&width=4096&height=2731"
-    },
-    {
-      "id": "1850d711d11a0b90a220",
-      "title": "Bernardo Stamateas, psicólogo: “A diferencia de los sentimientos, ninguna emoción dura para siempre”",
-      "summary": "Hoy más que nunca, en este mundo agitado en el que vivimos, necesitamos cuidar tanto nuestra salud física como nuestra salud emocional . Las emociones humanas influyen en el cuerpo y este, a su vez, influye en las emociones. ¿Dónde nacen nuestras emociones? Nacen en el cerebro llamado “límbico”, el cual es una fábrica de emociones, y recorren nuestro cuerpo. Pero la primera gran verdad que quiero compartirte es que ninguna emoción dura para siempre . A diferencia de los sentimientos, que suelen ser más profundos y estables, las emociones son respuestas más breves. Pueden durar segundos o minutos. Y esta es una buena noticia: el enojo pasa, la culpa pasa, la ansiedad pasa. Cada emoción es una voz que nos habla y cumple una función. La alegría nos dice que hay algo bueno para disfrutar o compartir . La ansiedad puede advertirnos que percibimos una amenaza o que hay algo que nos preocupa. La vergüenza puede aparecer cuando sentimos que estamos siendo observados o evaluados. El enojo, en cambio, puede señalarnos que hay un obstáculo, un límite o algo que necesita ser revisado. Ahora bien, es muy importante escuchar esas voces, sin taparlas ni ahogarlas. Porque las emociones son nuestras amigas, ya que vienen para guiarnos. Pero tengamos presente que no deben gobernarnos . Una emoción puede ser un rey tirano y cambiante, pero también un excelente guía turístico. Si se lo permitimos, estará a nuestro lado para mostrarnos y ayudarnos a comprender lo que sucede dentro de nosotros. Sin embargo, lo más importante no es la emoción en sí, sino lo que hacemos con ella . Todos nos enojamos, pero ¿qué hacemos frente a esa ira? Si le damos rienda suelta y dejamos que nos dirija, estamos actuando desde el infantilismo. De chicos, la emoción nos gobernaba. Por eso, cuando nos enojábamos, gritábamos y llorábamos. Pero, a medida que crecemos, necesitamos aprender a regular lo que sentimos. Y una de las mejores formas de administrar nuestro mundo emocional es cuidando el cuerpo. ¿Qué si",
-      "link": "https://www.lanacion.com.ar/lifestyle/bernardo-stamateas-psicologo-a-diferencia-de-los-sentimientos-ninguna-emocion-dura-para-siempre-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 01:48:00 +0000",
-      "source": "La Nacion",
-      "cat": "ia",
-      "image": "https://resizer.glanacion.com/resizer/v2/QOWVY2KLWVF6ZAXCIS2X2SVEKQ.jpg?auth=d282a86da49ddd1f48601fb4f47df7ceca44f0da47af6ed9f5ddc504e2ccac5b&smart=true&width=2000&height=1333",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "1167c4287f87339348a8",
-      "title": "Eduardo Coudet fue autocrítico, pero tampoco supo explicar por qué le empataron el partido a River",
-      "summary": "River pasó de la algarabía a la incertidumbre de un tiempo a otro. Empató 2 a 2 ante Vélez como local y lo sintió como una derrota. Lo empezó ganando bien y con efectividad, pero en la segunda parte y tras un error de Thiago Almada, llegó el descuento. Luego el empate del Fortín, desde la cabeza de un viejo conocido, nada menos que Manuel Lanzini. En este contexto de un equipo que no encuentra el rumbo habló Eduardo Coudet, un DT que no puede salir . En la conferencia de prensa, el DT del Millonario fue muy escueto en cada respuesta. Dejó en claro que su equipo no supo concretar algunas chances y que el rival sólo tuvo dos llegadas. Su análisis sobre el partido, si bien fue en caliente todavía, fue como sin entender lo que sucedió: “Hicimos un gran primer tiempo y arrancamos bien el segundo, con chances de liquidarlo, pero no sé cómo se explica que no lo liquidamos, no estuvimos precisos ahí y en los dos tiros que nos han tirado, nos han convertido”. expresó en primer lugar. Coudet dejó en claro que por las fallas que tuvieron en la segunda parte, sobre todo, el partido terminó en empate: “Errores hay y cuando los cometemos los pagamos . Hicimos una primera mitad para liquidarlo e incluso hacer el tercero y se nos escaparon los tres puntos por errores”. Insistió sobre lo que sucedió en el segundo tiempo, cuando se da la reacción de Vélez y el quedo de River, pero explicó por qué no realizó variantes en busca de jugadores con aire para poder renovar los esfuerzos un poco más: “El equipo estaba jugando bien y el rival no lastimaba, a pesar de ser un gran equipo. Salíamos con espacios. Cuando jugás bien y no te lastiman, es difícil cambiar y por eso no lo hicimos” . En la misma respuesta analizó la posición en la que juega Thiago Almada e hizo referencia a la pelota que perdió en el descuento de Vélez: “Juega en su posición y se siente cómodo ahí, la perdida en el primer gol hace que ponga foco en que estaba jugando muy atrás, pero jugó un gran partido”. El próximo mié",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/eduardo-coudet-fue-autocritico-pero-tampoco-supo-explicar-por-que-le-empataron-el-partido-a-river-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 01:46:27 +0000",
-      "source": "La Nacion",
+      "id": "25f878cc488f9d61f53d",
+      "title": "Raphinha, Fermín y Mariano igualan a Roberto",
+      "summary": "Premios MARCA.01.Jornada 2.Temporada 2026-27",
+      "link": "https://www.marca.com/futbol/premios-marca/2026/08/24/raphinha-fermin-mariano-igualan-roberto.html",
+      "pubDate": "Mon, 24 Aug 2026 01:05:26 +0200",
+      "source": "Marca",
       "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/KO3WGDIVMVCBJE6BFQYGEM2IIA.JPG?auth=a0f94c7ea8a2ca5a02581b8eeb65cef95b426398599ee34468b3b350adf24e1e&smart=true&width=2500&height=1667"
-    },
-    {
-      "id": "418018db81596541fae3",
-      "title": "El momento en que le aplican a River la regla del Mundial y casi termina en empate de Vélez",
-      "summary": "River sufrió la aplicación de una nueva regla durante el partido que disputó este domingo frente a Vélez por el Torneo Clausura. Además, desde las tribunas del estadio Monumental se escucharon insultos contra el presidente de la Asociación del Fútbol Argentino (AFA), Claudio “Chiqui” Tapia . La particular situación en la que se aplicó una regla del Mundial 2026 ocurrió a los 26 minutos del segundo tiempo, cuando Ángel Correa demoró más de diez segundos en abandonar el terreno de juego para ser reemplazado por Rafael Santos Borré. Debido a la nueva reglamentación, el futbolista que ingresaba tuvo que esperar la autorización del árbitro durante un minuto. CORREA SE DEMORÓ EN SALIR Y BORRÉ NO PUDO ENTRAR A raíz de la nueva reglamentación, Darío Herrera determinó que el colombiano permanezca un minuto fuera por la tardanza en el cambio. #LPFxTNTSports pic.twitter.com/il3OurABQd TNT Sports Argentina (@TNTSportsAR) August 23, 2026 En ese lapso, River quedó momentáneamente con diez jugadores y Vélez estuvo cerca de aprovechar la superioridad numérica para alcanzar el empate. En otra parte del encuentro que se disputó en el estadio de River Plate, los hinchas del conjunto local entonaron una canción contra Tapia. “A ver si te das cuenta que no te quiere nadie” , indicaba una parte del cántico que se escuchó en la cancha. 🤬 LA BRONCA DE LA HINCHADA DE RIVER CONTRA CHIQUI TAPIA. pic.twitter.com/UmJeqE4PLl Bolavip Argentina (@BolavipAr) August 24, 2026 Tapia no fue el único que recibió la desaprobación de los hinchas de River. Eduardo Coudet , entrenador del Millonario, también fue silbado cuando su nombre fue anunciado por los altoparlantes en la previa del cruce ante Vélez. El malestar de los hinchas del club de Núñez volvió a manifestarse al término del partido. Tras el empate 2-2, el público del Monumental reprobó el rendimiento del equipo con silbidos. Silbidos para EDUARDO COUDET al momento de ser nombrado por los altoparlantes de River en la previa del cruce ante Vélez.",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/el-momento-en-que-le-aplican-a-river-la-regla-del-mundial-y-casi-termina-en-empate-de-velez-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 01:41:14 +0000",
-      "source": "La Nacion",
-      "cat": "sports",
-      "image": "https://resizer.glanacion.com/resizer/v2/KVUS6PPL3FHQTGLWGZ3YXI37D4.jpg?auth=2aa2ecee46ae39d9e01c918e1d740deff8a6855ff8446fd7c9c5169bdd044eb8&smart=true&width=973&height=648"
-    },
-    {
-      "id": "54cab8c0f32f0f27344c",
-      "title": "Rodrigo De Paul fue al Cilindro junto a Tini Stoessel y sus hijos para ver el partido entre Racing y Boca",
-      "summary": "El mediocampista de la selección argentina, Rodrigo De Paul , se hizo presente este domingo en el Cilindro de Avellaneda para presenciar el partido entre Racing y Boca . El futbolista surgido de la Academia llegó acompañado por su pareja, Tini Stoessel , y por sus hijos. Por el lado de Boca, también asistió al encuentro otro de los integrantes del exitoso ciclo de Lionel Scaloni en la selección argentina. Leandro Paredes , quien actualmente juega en el conjunto xeneize, no pudo ser de la partida debido a una lesión muscular y siguió el partido junto a su compañero de plantel Malcom Braida. HOLA RODRI!! DE PAUL, PRESENTE EN EL CILINDRO El campeón del mundo se encuentra en el palco para presenciar el clásico entre Racing y Boca Viví el Torneo Clausura 2026 por TNT Sports Premium y disfrutalo también en HBO Max 👉 #Suscribite https://t.co/9RzIJTMF2E #LPFxTNTSports pic.twitter.com/cb4OSal98w TNT Sports Argentina (@TNTSportsAR) August 24, 2026 A los ocho minutos del primer tiempo, Marcos Rojo , con pasado en Boca, abrió el marcador de penal para Racing. La jugada se originó por una infracción del defensor xeneize Ayrton Costa sobre el lateral derecho de la Academia, Ezequiel Cannavo, dentro del área. Después del gol, la transmisión enfocó a De Paul mientras celebraba en la tribuna junto a Bautista y Francesca , los hijos que tuvo con Camila Homs . PAREDES PRESENTE EN EL CILINDRO El volante de Boca no se quiso perder el partido y dijo presente en Avellaneda Viví el Torneo Clausura 2026 por TNT Sports Premium y disfrutalo también en HBO Max 👉 #Suscribite https://t.co/9RzIJTMF2E #LPFxTNTSports pic.twitter.com/0K29L4dHgr TNT Sports Argentina (@TNTSportsAR) August 24, 2026 El clásico corresponde a la sexta fecha del Torneo Clausura 2026, destinada a los cruces interzonales. El encuentro comenzó a las 21.30, es el último de la jornada y cuenta con el arbitraje de Nicolás Ramírez. Antes del inicio, ambos equipos se encontraban fuera de los puestos de clasificación a los playoffs",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/rodrigo-de-paul-fue-al-cilindro-junto-a-tini-stoessel-y-sus-hijos-para-ver-el-partido-entre-racing-y-nid23082026/",
-      "pubDate": "Mon, 24 Aug 2026 01:36:10 +0000",
-      "source": "La Nacion",
-      "cat": "cinema",
-      "image": "https://resizer.glanacion.com/resizer/v2/QNVZOFXUXJEIRMVOSWYYUCXLQI.jpg?auth=e3811371882907abca8fe0227ba1f304e8e5372e36d133cc596c02ad0132fdc8&smart=true&width=885&height=581"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/23/3x2.jpg.jpeg"
     },
     {
       "id": "18fd588966167077992a",
@@ -2458,19 +2477,19 @@
         "cls": "rb-orange"
       },
       {
-        "name": "Claude",
-        "type": "Modelo",
+        "name": "Sora",
+        "type": "Video AI",
         "badge": "Alta atención",
         "cls": "rb-orange"
       },
       {
-        "name": "Cursor",
-        "type": "Coding AI",
+        "name": "Claude",
+        "type": "Modelo",
         "badge": "Alta atención",
         "cls": "rb-orange"
       }
     ],
     "rising": []
   },
-  "updated": "2026-08-24T04:37:45.414641+00:00"
+  "updated": "2026-08-24T06:41:54.604296+00:00"
 }
