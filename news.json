@@ -1,6 +1,327 @@
 {
   "articles": [
     {
+      "id": "4cd0c168545788870667",
+      "title": "La UEFA se reúne mañana en Mónaco para confirmar que no habrá boicot a FIFA",
+      "summary": "Aleksander Ceferin y Gianni Infantino, en el último congreso de la UEFA.",
+      "link": "https://www.marca.com/futbol/2026/08/26/uefa-reune-manana-confirmar-habra-boicot-fifa.html",
+      "pubDate": "Wed, 26 Aug 2026 21:32:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f3f13c869f.jpeg"
+    },
+    {
+      "id": "2bb571bda1bb5f8ac19b",
+      "title": "Los fichajes se hacen notar en el estreno del curso",
+      "summary": "Janou Levels celebra su gol con el Real Madrid.",
+      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/08/26/fichajes-notar-estreno-curso.html",
+      "pubDate": "Wed, 26 Aug 2026 21:25:41 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f3d1edd009.jpeg"
+    },
+    {
+      "id": "11a6ce3f77e14dc2b8ea",
+      "title": "Detallazo del Madrid con Oyarzabal",
+      "summary": "Marc Cucurella y Mikel Oyarzabal posan con la Copa del Mundo",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/bernabeu-vibra-cucurella.html",
+      "pubDate": "Wed, 26 Aug 2026 21:18:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f3c0d561b5.jpeg"
+    },
+    {
+      "id": "9be29b5258c0ddd65551",
+      "title": "El Valencia hace oficial el fichaje de Arnau Martínez hasta 2031",
+      "summary": "Arnau Martínez, nuevo jugador del Valencia.",
+      "link": "https://www.marca.com/futbol/valencia/2026/08/26/valencia-oficial-fichaje-arnau-martinez-2031.html",
+      "pubDate": "Wed, 26 Aug 2026 21:04:20 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f38a43e2ae.jpeg"
+    },
+    {
+      "id": "43d2860362f767dba120",
+      "title": "El recibimiento del Bernabéu a Mourinho",
+      "summary": "José Mourinho en el banquillo del Bernabéu.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/mourinho-reencuentra-bernabeu-4-834-dias-despues.html",
+      "pubDate": "Wed, 26 Aug 2026 21:03:42 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f3acbd5586.jpeg"
+    },
+    {
+      "id": "aff4ec8e428604d8dbb9",
+      "title": "Continúa la 'fuga' en el City: Nico González se marcha al Newcastle",
+      "summary": "Nico González posa como nuevo '6' del Newcastle",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/26/continua-fuga-city-nico-gonzalez-marcha-newcastle.html",
+      "pubDate": "Wed, 26 Aug 2026 20:58:09 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f373b6208a.jpeg"
+    },
+    {
+      "id": "41c20ae702ccff9be0e7",
+      "title": "El CEO de Ryanair responde con firmeza a Óscar Puente: \"Tiene que aprender a restar y sumar\"",
+      "summary": "El CEO de Ryanair y Óscar Puente.",
+      "link": "https://www.marca.com/tiramillas/politica/2026/08/26/ceo-ryanair-responde-firmeza-palabras-oscar-puente-aprender-restar-sumar.html",
+      "pubDate": "Wed, 26 Aug 2026 20:28:21 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f2b4337be4.jpeg"
+    },
+    {
+      "id": "a78c7f0c709086527f7a",
+      "title": "Un hombre mata a su mujer mientras cazaban: descartan violencia machista",
+      "summary": "Raquel García.",
+      "link": "https://www.marca.com/tiramillas/sucesos/2026/08/26/muere-cazadora-53-anos-disparo-accidental-marido-descartan-violencia-machista.html",
+      "pubDate": "Wed, 26 Aug 2026 20:21:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f2e53852af.jpeg"
+    },
+    {
+      "id": "e2e7d44b97b4db30afc4",
+      "title": "El que nunca falla",
+      "summary": "Once del Real Madrid.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/real-madrid-real-sociedad-valoracion-comentarios.html",
+      "pubDate": "Wed, 26 Aug 2026 20:07:44 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f271f7462e.jpeg"
+    },
+    {
+      "id": "968a49c1b409a301e902",
+      "title": "Rubio se reúne con canciller de México para discutir sobre \"poner fin a la migración ilegal\"",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/624360-rubio-reunir-canciller-mexico-migracion-ilegal?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 19:36:22 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "25dea1eab2332d2c56e7",
+      "title": "Real Madrid - Real Sociedad en directo | Remiro y Courtois evitan los primeros goles",
+      "summary": "Remiro despeja con el pie el disparo de Vinicius.",
+      "link": "https://elpais.com/deportes/futbol/2026-08-26/real-madrid-real-sociedad-en-directo-el-partido-de-la-liga-en-vivo.html",
+      "pubDate": "Wed, 26 Aug 2026 19:35:20 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/K2LC6TBSQ5HZROFTQP2THLQKSY.jpg?auth=319a3026152d384f9a7e3e7be1e93ac14f3b56166fe90809b9e5361093993178"
+    },
+    {
+      "id": "40dd23068454a180d190",
+      "title": "'Tensión' entre Dembélé y Luis Enrique",
+      "summary": "Dembélé y Luis Enrique, con el trofeo de la Champions",
+      "link": "https://www.marca.com/futbol/liga-francesa/2026/08/26/tension-dembele-luis-enrique.html",
+      "pubDate": "Wed, 26 Aug 2026 19:32:16 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f227c7da40.jpeg"
+    },
+    {
+      "id": "faeb6f7708410a2bdcda",
+      "title": "Motorola confirma las novedades de Android 17 que llegarán a todos sus móviles compatibles",
+      "summary": "Motorola ha detallado la actualización de Android 17 que llegará a sus móviles. A unas semanas de confirmar los modelos que la recibirán, la tecnológica publicó en su web de soporte un listado completo de las funciones que traerá esta versión del sistema operativo. Entre las novedades destacan mejoras en las notificaciones, widgets, los iconos temáticos y más. Si tienes un Motorola, sabrás que la marca es una de las peores cuando se trata de actualizaciones . A diferencia de Google o Samsung, la compañía tarda siglos en lanzar nuevas versiones de Android, incluso si se trata de móviles de gama alta. Motorola ha prometido desde Android 16 que las cosas cambiarían, pero a la fecha no hemos visto un avance considerable en ese campo. Dejando de lado ese detalle, la compañía ha revelado las características de Android 17 para los móviles compatibles . La función más llamativa es la llegada de los iconos temáticos, algo que Google lanzó en Android 12 y que Samsung ya ofrece desde hace tiempo. Con la nueva actualización, los Motorola podrán activar esta función del mismo modo como cambiamos el fondo de pantalla y otras opciones de personalización. Siguiendo sobre esta línea, Android 17 también debuta los widgets apilables, una característica que permite combinar varios widgets en un solo bloque dentro de la pantalla de inicio. Si dependes mucho de los widgets para visualizar el clima, lo que te resta de batería o acceder a los controles para reproducir tu música, ahora podrás agruparlos y deslizarte entre ellos para cambiar de vista. Este detalle, por mínimo que parezca, será de gran utilidad para quienes saturan de inmediato su pantalla. Novedades de Android 17 que llegarán a tu Motorola En el apartado de notificaciones, Android 17 incorpora las actualizaciones en vivo , una función con la que las aplicaciones muestran información en tiempo real. Ahora la app puede actualizar de forma continua el mismo fragmento visible de la barra de estado. En esta categoría también se s",
+      "link": "https://hipertextual.com/mobile/motorola-android-17-actualizacion-novedades/",
+      "pubDate": "Wed, 26 Aug 2026 19:29:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/motorola-android-17.jpg?fit=1024%2C638&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "herramientas"
+    },
+    {
+      "id": "bd264b8d361e8b5a997f",
+      "title": "El Real Madrid echa la red en el Granada",
+      "summary": "Oscar Naasei, con el Granada.",
+      "link": "https://www.marca.com/futbol/granada/2026/08/26/real-madrid-echa-red-granada.html",
+      "pubDate": "Wed, 26 Aug 2026 19:20:39 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f1fbc77d18.jpeg"
+    },
+    {
+      "id": "921e342b7111d61ab5c5",
+      "title": "Una extraña enfermedad acecha a hombres homosexuales en Europa",
+      "summary": "Varios países europeos notificaron 70 casos del padecimiento en los meses recientes.",
+      "link": "https://actualidad.rt.com/actualidad/624338-extrana-enfermedad-acecha-circulos-homosexuales?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 19:18:33 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f19bee9ff717be47fe3f8.jpg"
+    },
+    {
+      "id": "099eef1c51e6213a2492",
+      "title": "Canadá, al borde de un conflicto con EE.UU. que podría resultar catastrófico",
+      "summary": "La economía de EE.UU. es 13 veces mayor que la de Canadá y parte con una ventaja considerable ante el enfrentamiento, advirtió The Economist.",
+      "link": "https://actualidad.rt.com/actualidad/624329-canada-borde-conflicto-eeuu-podria-resultar-catastrofico?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 19:17:22 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f157e59bf5b1aa470f601.jpg"
+    },
+    {
+      "id": "b66e15b137d3eb1f8732",
+      "title": "Un oso polar curioso, una ardilla afortunada y otros candidatos al premio al Fotógrafo de Vida Silvestre del Año",
+      "summary": "La fotografía del oso polar tomada por Audun Rikardsen figuró entre las obras que recibieron una mención honorífica en el concurso de este año organizado por el Museo de Historia Natural de Londres, en Reino Unido.",
+      "link": "https://www.bbc.com/mundo/articles/c046pdk10d9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 19:12:24 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg"
+    },
+    {
+      "id": "0d4c810ab3eea22c2c8d",
+      "title": "¡Ogura es baja para el Gran Premio de Aragón!",
+      "summary": "Ai Ogura compitiendo en el trazado de Silverstone.",
+      "link": "https://www.marca.com/motor/motogp/gp-aragon/2026/08/26/ogura-baja-gran-premio-aragon.html",
+      "pubDate": "Wed, 26 Aug 2026 19:06:37 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f1a711b678.jpeg"
+    },
+    {
+      "id": "effe5071c91df3c52fec",
+      "title": "La reforma de la Carta Orgánica del BCRA requiere de un amplio consenso político",
+      "summary": "Un fuerte respaldo legislativo aumentaría la credibilidad y sustentabilidad de esta iniciativa, especialmente en sus primeras etapas. La experiencia internacional muestra que instituciones monetarias sólidas no sustituyen a la disciplina fiscal ni al compromiso político con la estabilidad macroeconómica.",
+      "link": "https://www.clarin.com/economia/reforma-carta-organica-bcra-requiere-amplio-consenso-politico_0_orxoN7LnKR.html",
+      "pubDate": "Wed, 26 Aug 2026 18:59:09 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/vw6UYQ-G1_1200x630__1.jpg"
+    },
+    {
+      "id": "103dc639635766ecd3c2",
+      "title": "Juancho Hernangómez: \"La selección pinta muy bien para los próximos años\"",
+      "summary": "Juancho y Willy Hernangómez animan desde el banquillo en un partido de la selección.",
+      "link": "https://www.marca.com/radio/2026/08/26/juancho-hernangomez-seleccion-pinta-bien-proximos-anos.html",
+      "pubDate": "Wed, 26 Aug 2026 18:58:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/07/01/6a458777a6c91.r_d.954-459-0.jpeg"
+    },
+    {
+      "id": "1b843ea97348eef9d655",
+      "title": "Un banco de Wall Street pone a Argentina entre los grandes focos de inversión minera",
+      "summary": "Citi destacó el potencial del país en cobre y litio, pero advirtió que el acceso a capital de largo plazo será decisivo. La entidad estructuró un préstamo por US$1.175 millones para el proyecto Rincón de Rio Tinto.",
+      "link": "https://www.clarin.com/energia-y-mineria/banco-wall-street-pone-argentina-grandes-focos-inversion-minera_0_2tIDuu7FBG.html",
+      "pubDate": "Wed, 26 Aug 2026 18:55:33 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/14/tcJBnjLSm_1200x630__1.jpg"
+    },
+    {
+      "id": "d7d5f6914f7839fbe3b0",
+      "title": "Borges, Pizarnik, Joyce, Claire Keegan y Roberto Arlt: las bibliotecas porteñas inscriben en sus talleres",
+      "summary": "La Red de Bibliotecas propone talleres gratis para acercarse a la literatura, el análisis y la escritura. Los talleres se dictarán en distintas bibliotecas porteñas y algunos podrán realizarse de manera virtual.",
+      "link": "https://www.clarin.com/cultura/borges-pizarnik-joyce-claire-keegan-roberto-arlt-bibliotecas-portenas-inscriben-talleres_0_CPTMTuaofK.html",
+      "pubDate": "Wed, 26 Aug 2026 18:55:05 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/jPqzdBMXr_1200x630__1.jpg"
+    },
+    {
+      "id": "c0e5c61e50a8b37b3ae9",
+      "title": "El hincha de River que debía ser de Boca, le metió goles a Chiqui Tapia y quiere terminar con Infantino",
+      "summary": "El esloveno Aleksander Ceferin preside la UEFA y desde ese espacio de poder busca que caiga el presidente de la FIFA. Sus visitas a la Argentina y las conexiones con los principales dirigentes locales del fútbol.",
+      "link": "https://www.clarin.com/deportes/hincha-river-debia-boca-metio-goles-chiqui-tapia-quiere-terminar-infantino_0_OzFT1BZwAq.html",
+      "pubDate": "Wed, 26 Aug 2026 18:49:02 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/07/31/MyboxU95C_1200x630__1.jpg"
+    },
+    {
+      "id": "a34c7dc63e29ae3655ed",
+      "title": "¿Se puede aumentar la suerte? Un psicólogo explica cómo hacerlo",
+      "summary": "Tras un mes aplicando estas técnicas, el 80 % de los participantes afirmó sentirse más feliz, más satisfecho con su vida y más afortunado.",
+      "link": "https://actualidad.rt.com/actualidad/624260-suerte-aprende-psicologo-revela-hacen?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:47:41 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ecdd0e9ff715076678550.jpg"
+    },
+    {
+      "id": "0b9b5b08bade4d362900",
+      "title": "El 'recado' del Atlético al Barça con el homenaje a los campeones del mundo",
+      "summary": "El Atlético de Madrid ha subido a sus redes el recuerdo del homenaje a sus jugadores campeones del mundo, pero con mensaje oculto al FC Barcelona. Joan Laporta ha suspedido el homenaje el día de mañana ante el Athletic Club y lo ha sustituido por un acto de exaltación de la estelada. Aquello, debido a los actos de agresión y violencia en la previa del partido ante el Elche.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/26/recado-atletico-barca-homenaje-campeones-mun-video.html",
+      "pubDate": "Wed, 26 Aug 2026 18:46:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dldvk1gZnTWWQyENo.jpeg"
+    },
+    {
+      "id": "6613eaa22aaed7b9fa37",
+      "title": "La Mujer y el Cine: Siri Hustvedt, el corto ganador del Oscar y cinco días de películas para descubrir",
+      "summary": "El Festival La Mujer y el Cine comienza su 38° edición con el estreno argentino de Dance Around the Self , de Sabine Lidl, sobre la escritora y su vínculo con Paul Auster, y Two People Exchanging Saliva , ganador del Oscar 2026. La programación, que incluye homenajes, pioneras de la animación y nuevas voces, se extiende hasta el domingo con entrada gratuita en cinco salas de la Ciudad.",
+      "link": "https://www.clarin.com/revista-n/mujer-cine-siri-hustvedt-corto-ganador-oscar-dias-peliculas-descubrir_0_rL9ATJlIPJ.html",
+      "pubDate": "Wed, 26 Aug 2026 18:45:58 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/26/ljKaiWJoR_1200x630__1.jpg"
+    },
+    {
+      "id": "959cd9a6823ec4fd0787",
+      "title": "China cuestiona restricciones a la ayuda internacional tras el terremoto y Colombia responde",
+      "summary": "El embajador del país asiático en Bogotá, Zhu Jingyang, reclamó el no haber sido invitado a realizar labores de rescate en el país suramericano \"por razones dudosas\".",
+      "link": "https://actualidad.rt.com/actualidad/624339-china-cuestionar-ayuda-internacional-terremoto-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:45:31 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f1264e9ff7122e516263b.jpg"
+    },
+    {
+      "id": "0bab97d19c6e060bcfd3",
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, miércoles 26 de agosto",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-miercoles-26-agosto_0_no6NWx9JqK.html",
+      "pubDate": "Wed, 26 Aug 2026 18:45:22 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/09/07/jOO2DYthU_1200x630__1.jpg"
+    },
+    {
+      "id": "defc05b98b801e2ead0c",
+      "title": "Quiniela de Santa Fe: resultado del sorteo de la Matutina de hoy, miércoles 26 de agosto",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-matutina-hoy-miercoles-26-agosto_0_EwqiKxqPPR.html",
+      "pubDate": "Wed, 26 Aug 2026 18:45:22 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/09/07/KeMpQ_Zqc_1200x630__1.jpg"
+    },
+    {
+      "id": "b0c84d2e630b57e5b5a9",
+      "title": "Quiniela de la Provincia: resultado del sorteo de la Matutina de hoy, miércoles 26 de agosto",
+      "summary": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-matutina-hoy-miercoles-26-agosto_0_K6UWqyFOLC.html",
+      "pubDate": "Wed, 26 Aug 2026 18:45:21 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/06/26/9qaFf5P9k_1200x630__1.jpg"
+    },
+    {
+      "id": "5204bda2b5f5a84e50c6",
+      "title": "Quiniela Nacional: resultado del sorteo de la Matutina de hoy, miércoles 26 de agosto",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-matutina-hoy-miercoles-26-agosto_0_Lfpv9Iuu26.html",
+      "pubDate": "Wed, 26 Aug 2026 18:45:21 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2022/06/08/U1XBZuQ4w_1200x630__1.jpg"
+    },
+    {
+      "id": "248c259b370701cdd6ea",
+      "title": "Tim Curry, actor de “It”: “Lo más aterrador es el momento de decisión en los ojos de alguien cuando decide matar a otra persona”",
+      "summary": "El británico falleció a sus 80 años en Los Ángeles. En sus memorias fue muy duro con su interpretación del villano.",
+      "link": "https://www.clarin.com/internacional/tim-curry-actor-it-aterrador-momento-decision-ojos-alguien-decide-matar-persona_0_xHzGdkjela.html",
+      "pubDate": "Wed, 26 Aug 2026 18:42:58 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2025/10/25/JRWB9rqvm_1200x630__1.jpg"
+    },
+    {
       "id": "bdcf74e621dfef845dd1",
       "title": "El Celta ofrece una mejora salarial a Javi Rueda y rechaza la oferta del Nottingham Forest",
       "summary": "Javi Rueda, durante un partido con el Celta",
@@ -9,6 +330,16 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f16127da10.jpeg"
+    },
+    {
+      "id": "8f7f3545d6033372621b",
+      "title": "Aspirante al título mundial del peso pesado con solo 21 años y 31 asaltos... y nadie duda de que es el favorito",
+      "summary": "Moses Itauma y Jermaine Franklin durante la pelea en Mánchester.",
+      "link": "https://www.marca.com/boxeo/2026/08/26/aspirante-titulo-mundial-peso-pesado-21-anos-31-asaltos-nadie-duda-favorito.html",
+      "pubDate": "Wed, 26 Aug 2026 18:37:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/29/69c862a266b0a.jpeg"
     },
     {
       "id": "e37984751e346cb454a3",
@@ -21,14 +352,74 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f1626433ae.jpeg"
     },
     {
+      "id": "28a1d8dcfba042cf8264",
+      "title": "Gimnastas rusos 'saborean' el oro a lo máximo en Europa tras años de prohibiciones",
+      "summary": "En total, los deportistas rusos obtuvieron 10 oros, 12 platas y 6 bronces.",
+      "link": "https://actualidad.rt.com/actualidad/624351-gimnastas-rusos-oro-maximo-europa-anos-prohibiciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:33:24 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f27ebe9ff7122e5162663.jpg"
+    },
+    {
+      "id": "a37f6f4a606d6e487e76",
+      "title": "Samsung comienza a resolver el fallo más molesto del Galaxy S26 Ultra",
+      "summary": "Un molesto fallo que afectó la pantalla del Galaxy S26 Ultra está comenzado a recibir solución. Samsung ha iniciado el despliegue de una actualización que resuelve la aparición de manchas y tonalidades rojizas en el panel del dispositivo. Según reporta SamMobile , el fix forma parte del parche de seguridad de agosto que ha comenzado a llegar este mismo miércoles al móvil en cuestión. Las notas de la actualización, cuyo lanzamiento se ha puesto en marcha en Corea del Sur, indican que el update resuelve el problema de la pantalla rojiza en el Galaxy S26 Ultra. De acuerdo con Samsung, la instalación de la actualización lleva a cabo una \"optimización de color\" que soluciona el inconveniente, sin necesidad de que los usuarios lleven a cabo pasos adicionales. De esta manera, el fabricante coreano cumple con la promesa que lanzó a principios de este mes, cuando comenzaron a replicarse las quejas de los compradores del Galaxy S26 Ultra por esta situación. En un principio, Samsung diagnosticó que el tinte o las manchas de color rojo podrían deberse a la exposición del teléfono a circunstancias y condiciones muy específicas. Puntualmente, se indicó que la causa del problema podría haber sido que el Galaxy S26 Ultra quedara bajo luces muy fuertes cuando tenía la pantalla con el brillo al máximo . No obstante, varios de los afectados manifestaron que un escenario así no se condecía con el uso que le daban al aparato. Samsung resuelve el tinte rojo en la pantalla del Galaxy S26 Ultra Independientemente de las causas, desde el principio Samsung llevó la tranquilidad de que el problema del Galaxy S26 Ultra era de software y no de hardware . De modo que, más allá de la incomodidad de la situación, se podía resolver con relativa facilidad y no requería de un recambio de la pantalla o del móvil completo. Al fin y al cabo, el tinte o las manchas rojas, que se hacían especialmente visibles cuando los contenidos en pantalla tenían mucho color blanco, resultó ser un problema de calibraci",
+      "link": "https://hipertextual.com/mobile/samsung-comienza-a-resolver-el-fallo-mas-molesto-del-galaxy-s26-ultra/",
+      "pubDate": "Wed, 26 Aug 2026 18:32:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Utra-5.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "58c4e4117f2a15695068",
+      "title": "Desarrollan una inyección china para generar músculo sin ir al gimnasio",
+      "summary": "\"Se contrae sin parar, las 24 horas del día, los 7 días de la semana\", explicó el autor del estudio al hablar sobre el injerto creado.",
+      "link": "https://actualidad.rt.com/actualidad/624319-china-crean-inyeccion-musculoso-gimnasio?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:30:03 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f069259bf5b1aa470f5e5.jpg"
+    },
+    {
+      "id": "5c61e97d1636f001e30c",
+      "title": "Jefe del Comando Sur llega a un país suramericano con este objetivo",
+      "summary": "El Gobierno del presidente colombiano, Abelardo de la Espriella, asumió el poder a comienzos de agosto y ha apostado por estrechar la cooperación con Washington.",
+      "link": "https://actualidad.rt.com/actualidad/624350-jefe-comando-sur-llega-pais?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:27:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f21f8e9ff717be47fe407.png"
+    },
+    {
+      "id": "ac68ba5fe05a5d9ab69a",
+      "title": "Dura derrota de la Real Sociedad",
+      "summary": "Sigue el partido y consulta cómo va el Chelsea contra la Real Sociedad",
+      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/08/26/6a8f08d06c283cdca80a92fd.html",
+      "pubDate": "Wed, 26 Aug 2026 18:26:04 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f22184e30d.jpeg"
+    },
+    {
+      "id": "155ca00b161b119092dc",
+      "title": "Castigo físico en el trabajo por no cumplir objetivos deja a una empleada hospitalizada",
+      "summary": "Tras completar el ejercicio, la mujer comenzó a sufrir fuertes dolores y al detectar un oscurecimiento en la orina, acudió al hospital, donde los médicos le diagnosticaron rabdomiólisis.",
+      "link": "https://actualidad.rt.com/actualidad/624335-castigo-fisico-trabajo-cumplir-objetivos-termina-hospital?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:25:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0ea5e9ff717be47fe3e8.jpg"
+    },
+    {
       "id": "625c39e76e64e25b03a9",
-      "title": "Mourinho vuelve al Bernabéu 13 años después",
-      "summary": "sdfsddffsd",
+      "title": "Casi marca un golazo Sergio Gómez",
+      "summary": "Sigue en vivo y en directo el Real Madrid - Real Sociedad de LALIGA EA Sports con todos los goles y estadísticas del partido",
       "link": "https://www.marca.com/futbol/primera-division/2026/08/26/01-0101-20260826-186-188.html",
       "pubDate": "Wed, 26 Aug 2026 18:22:31 +0200",
       "source": "Marca",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f15120ec35.jpeg"
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f40d4d6c99.jpeg"
     },
     {
       "id": "56fb853399562d0f7055",
@@ -41,14 +432,14 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0ff5414e1.jpeg"
     },
     {
-      "id": "44fe3c5a8108af070658",
-      "title": "La UEFA pondrá fin al boicot a la FIFA",
-      "summary": "Una imagen de Infantino con Ceferin",
-      "link": "https://www.marca.com/futbol/2026/08/26/uefa-pondra-boicot-fifa.html",
-      "pubDate": "Wed, 26 Aug 2026 18:15:51 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f112c7251c.jpeg"
+      "id": "2658ead405f2fd68a327",
+      "title": "\"¡Auxilio, por favor, auxilio!\": la madre e hija ecuatorianas que fueron detenidas por ICE en un hospital tras sufrir un accidente de automóvil",
+      "summary": "Las ciudadanas ecuatorianas fueron detenidas mientras recibían tratamiento en un hospital tras sufrir un accidente.",
+      "link": "https://www.bbc.com/mundo/articles/c17jlgxnlyxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 18:15:24 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3489/live/ca3f3210-a179-11f1-b109-879e35c24276.jpg"
     },
     {
       "id": "5897037cd2995a4be2a0",
@@ -59,6 +450,36 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlbh61gZn1DNp7_sy.jpeg"
+    },
+    {
+      "id": "7b34108cf92fb82a567a",
+      "title": "La contundente misiva de Irán a la ONU sobre el \"terror económico\" de EE.UU.",
+      "summary": "El canciller iraní denunció que Washington \"ataca deliberadamente y sin distinción alguna a la población civil\", imponiendo \"un castigo colectivo\".",
+      "link": "https://actualidad.rt.com/actualidad/624348-categorica-misiva-iran-onu-terror?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 18:06:05 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f2752e9ff717be47fe414.jpg"
+    },
+    {
+      "id": "524ef2a4b9c7a544f5b6",
+      "title": "Netflix prepara una serie de acción con una protagonista inesperada",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Netflix continúa ampliando su apuesta por las producciones surcoreanas, pero su próximo proyecto se aleja bastante del tipo de protagonista que solemos asociar al thriller de acción. La plataforma ha dado luz verde a The Shooter , título todavía provisional para una serie noir encabezada por Lee Jung-eun, la inolvidable ama de llaves de Parásitos , que a sus 56 años interpretará a una mujer de más de 70 obligada a recuperar una faceta de su pasado que creía enterrada. Y no estamos hablando precisamente de preparar kimchi: cuando su nieto es brutalmente atacado, decide coger un arma y enfrentarse a la poderosa organización que podría estar detrás de lo ocurrido. La premisa ya tiene suficiente personalidad para distinguirse dentro de la enorme producción coreana de Netflix. Jeong Suk-ja ha pasado los últimos años llevando una existencia corriente, trabajando en un restaurante y criando sola a su nieto, hasta que unos atacantes desconocidos dejan al joven luchando por su vida. El golpe despierta algo que parecía completamente olvidado y Suk-ja vuelve a empuñar una pistola por primera vez desde su juventud, iniciando una investigación que termina señalando hacia el conglomerado Chunghwa Group. Lo interesante es que Netflix no presenta The Shooter únicamente como una historia de venganza, sino como un noir de acción construido alrededor de una protagonista septuagenaria , algo suficientemente poco habitual como para cambiar por completo las expectativas del género. Lee Jung-eun lleva años demostrando que puede apropiarse de personajes secundarios con apenas unas escenas, pero aquí tendrá la oportunidad de colocarse directamente en el centro de una producción que, además, supone su primer papel de acción. Lee Jung-eun cambia completamente de registro para convertirse en Jeong Suk-ja A estas alturas resulta difícil seguir el audiovisual surcoreano sin haberse cruzado alguna vez con Lee Jung-eun. Internacionalmen",
+      "link": "https://www.cinemascomics.com/netflix-the-shooter/",
+      "pubDate": "Wed, 26 Aug 2026 18:00:25 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Lee-Jung-eun-en-parasite.jpg"
+    },
+    {
+      "id": "040bb98ca222e63ce9fe",
+      "title": "Más allá de la deshidratación: más de 30 diagnósticos por los que el calor extremo nos manda al hospital",
+      "summary": "Un anciano recite atención médica tras desmayarse en un episodio de altas temperaturas de este verano en Washington.",
+      "link": "https://elpais.com/salud-y-bienestar/2026-08-26/mas-alla-de-la-deshidratacion-mas-de-30-diagnosticos-por-los-que-el-calor-extremo-nos-manda-al-hospital.html",
+      "pubDate": "Wed, 26 Aug 2026 17:59:59 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/XYL6ZLL5FNEALNIGJFRJEP2DKY.jpg?auth=d591e320e1efeecb26ad79c655103ef6ae91aa087ffcb9a11d136c2d1b186bbe"
     },
     {
       "id": "506a52f492ad36647136",
@@ -82,7 +503,7 @@
     },
     {
       "id": "498ff9b3aa0698b22ca2",
-      "title": "Tragedia en Nepal y Tibet con las inundaciones repentinas: imágenes muy sensibles",
+      "title": "Una de las peores tragedias naturales del siglo: riada repentina en Nepal",
       "summary": "Una terrible riada en la frontera entre Nepal y el Tibet ha provocado el caos, dejando miles de afectados y cerca de 500 turistas en paradero desconocido.",
       "link": "https://www.marca.com/tiramillas/2026/08/26/tragedia-nepal-tibet-inundaciones-repentinas-imagenes-sensibles-video.html",
       "pubDate": "Wed, 26 Aug 2026 17:47:48 +0200",
@@ -99,16 +520,6 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0a1d227d0.jpeg"
-    },
-    {
-      "id": "24b7ba976a02963398d4",
-      "title": "Carlota Reig, periodista, desvela los motivos por los que deja La Sexta: \"Llevaba tiempo dándole vueltas\"",
-      "summary": "Carlota Reig en LaSexta.",
-      "link": "https://www.marca.com/tiramillas/television/2026/08/26/carlota-reig-periodista-desvela-motivos-deja-sexta-llevaba-dandole-vueltas.html",
-      "pubDate": "Wed, 26 Aug 2026 17:42:52 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/25/6a8d34960a3aa.jpeg"
     },
     {
       "id": "0f887000538787942b83",
@@ -129,6 +540,36 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0747bcdcc.jpeg"
+    },
+    {
+      "id": "2308b3e31f63c70b6c76",
+      "title": "Que tiemble PlayStation: Xbox lanza una función para digitalizar tus juegos en disco",
+      "summary": "Tras meses de rumores y filtraciones, Xbox anunció una función que permitirá convertir tus juegos en formato físico a digital . Aprovechando el inicio de Gamescom 2026, la compañía puso en marcha un programa para digitalizar la biblioteca de juegos de los usuarios a futuro. La característica se lanzará en fase beta y es compatible con miles de títulos, aunque no se revelaron cuáles estarán disponibles de inicio. De acuerdo con el comunicado de prensa , los usuarios podrán obtener una licencia digital al insertar un disco en su consola . La función es compatible con la mayoría de juegos físicos para Xbox One y Xbox Series X y las licencias funcionarán en ambas consolas. Tal y como se había mencionado hace semanas , las licencias se obtienen al introducir el disco y solo pueden enlazarse a una cuenta de usuario . Una vez canjeada, la versión digital activa beneficios como Xbox Play Anywhere o Cloud Gaming, siempre y cuando los títulos sean compatibles con estas funciones. En caso de que prestes, cambies o vendas tu juego, el nuevo propietario podrá reclamar la licencia y ya no podrás lanzar la versión digital que tienes instalada en tu consola hasta que insertes nuevamente el disco. Xbox no reveló la lista de juegos compatibles con las licencias digitales, aunque mencionó que serán \"miles de títulos\". El comunicado señala que funciona con casi todos los juegos de Xbox One y Xbox Series X , pero advierte que no todos estarán disponibles de un inicio. Aunque la compañía no lo menciona, existen otros obstáculos que podrían impedir que ciertos juegos aparezcan en el listado (como las licencias, por ejemplo). “Tu biblioteca física de juegos es más que una colección de discos. Alberga años de recuerdos e historias que merecen ser preservadas”, dijo Asha Sharma, CEO de Xbox . “A partir de la próxima semana, los Insiders de XBOX podrán desbloquear un derecho digital para juegos físicos compatibles”. Cómo activar la función para digitalizar tu colección de juegos de Xbox El pr",
+      "link": "https://hipertextual.com/videojuegos/xbox-convertir-juegos-fisicos-digitales/",
+      "pubDate": "Wed, 26 Aug 2026 17:29:00 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/oliver-beer-ABbtsOGAmZ4-unsplash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "id": "5f3dc3e05ebe58926ca5",
+      "title": "Los vídeos y las imágenes de la riada en Nepal",
+      "summary": "A la izquierda, vista de satélite de Khadga Bhanjyang (Nepal), el 23 de agosto. A la derecha, la misma zona tras la riada.",
+      "link": "https://elpais.com/videos/2026-08-26/los-videos-y-las-imagenes-de-la-riada-en-nepal.html",
+      "pubDate": "Wed, 26 Aug 2026 17:27:11 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/5E52NLQX2JD4RHZ7J4RPDGGN6I.jpg?auth=608692c459af29a3ee50019b51cfdc6772db8a3c7039917d17ef496a7c1b35d5"
+    },
+    {
+      "id": "f63d7c30f8ec6571516a",
+      "title": "Muere a los 80 años Tim Curry, actor de \"It\", \"Mi pobre angelito\" y el mítico \"The Rocky Horror Picture Show\"",
+      "summary": "Curry era conocido por interpretar al extravagante Frank-N-Furter en la película de culto The Rocky Horror Picture Show.",
+      "link": "https://www.bbc.com/mundo/articles/cqlwvkkxy1vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 17:26:34 GMT",
+      "source": "BBC Mundo",
+      "cat": "cinema",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/834e/live/cfbc6d30-a164-11f1-aaf8-119f176ff4ce.jpg"
     },
     {
       "id": "8bda1802188500b6641c",
@@ -161,119 +602,59 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f033e3c9ee.jpeg"
     },
     {
-      "id": "d148b06242efeea99eb9",
-      "title": "Así describieron los jugadores del Real Madrid al estadio Bernabéu en una sola palabra",
-      "summary": "Hoy juega el Real Madrid ante la Real Sociedad en su regreso a casa, jugando ahora en el mítico Bernabéu y estás son las respuestas de la plantilla merengue sobre la definición del estadio Bernabéu en una sola palabra.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/asi-describieron-jugadores-real-madrid-estadio-bernabeu-sola-palabra-video.html",
-      "pubDate": "Wed, 26 Aug 2026 17:20:50 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlYLM1gZmGdj8p0yC.jpeg"
+      "id": "b41c4528b8c6c77cb3b9",
+      "title": "Al menos 160 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada entre Nepal y Tíbet",
+      "summary": "Vista aérea de varias viviendas dañadas en Trishuli Bazar, en Nepal, tras la riada repentina que ha afectado este miércoles a los distritos nepalíes de Rasuwa y Nuwakot y ha provocado un corrimiento de tierra en Tíbet.",
+      "link": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html",
+      "pubDate": "Wed, 26 Aug 2026 17:15:11 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/XKWQXHSINFAZZHPVB5IEGYWPKY.jpg?auth=de05d8349b731d5c096f8d60ef913c1068019dc542c1b59acd888c1a43a0959e"
     },
     {
-      "id": "57108699aa3e6394ec25",
-      "title": "Héctor Fort se va a la Real",
-      "summary": "Héctor Fort, en el partido que jugó la pasada campaña con el Elche contra el Barcelona.",
-      "link": "https://www.marca.com/futbol/real-sociedad/2026/08/26/llegada-hector-fort-estaria-cerrada.html",
-      "pubDate": "Wed, 26 Aug 2026 17:11:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f01fb0459a.jpeg"
+      "id": "bfc46b6f6d80e40406bb",
+      "title": "La patronal maderera contradice a Moreno sobre el incendio de Niebla: “El culpable no es el eucalipto, sino la clase política”",
+      "summary": "Miembros de la plataforma Fuegos nunca más, este miércoles en Berrocal (Huelva), epicentro del incendio.",
+      "link": "https://elpais.com/espana/2026-08-26/la-patronal-maderera-contradice-a-moreno-sobre-el-incendio-de-niebla-el-culpable-no-es-el-eucalipto-sino-la-clase-politica.html",
+      "pubDate": "Wed, 26 Aug 2026 17:02:10 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/3TBI72CO3JLGZG76FRPHTRCYBQ.jpg?auth=12a880dec60d05fafe592f63abcbcf862e3183524ab3e631c5dc4b38b3c0290d"
     },
     {
-      "id": "9cb60530c04ac6cba155",
-      "title": "Las nuevas normas empiezan a dar más minutos al balón",
-      "summary": "El Valencia - Celta fue el partido con mayor juego efectivo en LaLiga",
-      "link": "https://www.marca.com/futbol/2026/08/26/nuevas-normas-empiezan-dar-minutos-balon.html",
-      "pubDate": "Wed, 26 Aug 2026 17:07:57 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ef9e4ab98b.png"
+      "id": "7bf00434de225d302cee",
+      "title": "Solo asesinatos en el edificio rompe por primera vez una de sus grandes reglas en la temporada 6",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Solo asesinatos en el edificio lleva cinco temporadas estirando con bastante ingenio una premisa que parecía condenada a ponerse límites ella sola desde el título, pero la sexta entrega ha decidido dejar de buscar excusas para mantenerse dentro de esas reglas. Charles, Oliver y Mabel afrontarán el próximo caso lejos del lugar que convirtió la serie en algo reconocible desde el primer episodio, con un cambio tan grande que Disney+ ha decidido jugar directamente con él rebautizando esta nueva etapa como Solo asesinatos en Londres . La plataforma ha publicado las primeras imágenes de la sexta temporada y confirma que se estrenará el 8 de diciembre de 2026 en Disney+ , abandonando además la habitual ventana veraniega de la serie. Pero el cambio realmente importante está en el escenario: por primera vez durante una temporada completa, Steve Martin , Martin Short y Selena Gomez dejarán atrás Nueva York para resolver un crimen en Londres. No es simplemente cambiar Central Park por el Támesis. El Arconia ha funcionado desde el principio casi como un cuarto protagonista, con sus vecinos, pasillos, ascensores, secretos y esa capacidad aparentemente infinita para esconder otro cadáver detrás de la siguiente puerta. Sacar al trío de ahí obliga a Solo asesinatos en el edificio a demostrar que su personalidad depende realmente de Charles, Oliver y Mabel, y no tanto de un edificio que lleva años proporcionándoles sospechosos. La muerte de Cinda Canning arrastra a Charles, Oliver y Mabel hasta Londres La sexta temporada continuará directamente después de los acontecimientos de la quinta y colocará en el centro del misterio a Cinda Canning , el personaje interpretado por Tina Fey cuya presencia ha estado ligada a la serie prácticamente desde sus comienzos. La información oficial de Disney+ plantea un punto de partida especialmente retorcido: después de resolver su último caso, Charles, Oliver y Mabel se encuentran con Cin",
+      "link": "https://www.cinemascomics.com/solo-asesinatos-en-el-edificio-6/",
+      "pubDate": "Wed, 26 Aug 2026 17:00:20 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/solo-asesinatos-en-el-edificio-6.jpg"
     },
     {
-      "id": "85e421f1cccf6df3b29a",
-      "title": "¡Rice prometió comer arroz de por vida! Trato o no trato con Declan Rice, la dinámica en los premios PFA",
-      "summary": "El jugador del Arsenal, se vió comprometido en un juego de preguntas de trato o no trato durante los premios en Inlgaterra de PFA. También mencionaron los jugadores de la plantilla Gunner hasta quedarse sin opciones.",
-      "link": "https://www.marca.com/futbol/premier-league/2026/08/26/rice-prometio-comer-arroz-vida-trato-trato-declan-rice-dinamica-premios-pfa-video.html",
-      "pubDate": "Wed, 26 Aug 2026 17:05:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlX561gZm0ymerU7a.jpeg"
-    },
-    {
-      "id": "cffea023d8a698eed484",
-      "title": "¡Todo sea por la foto! Kimi Antonelli en modo arácnido.",
-      "summary": "El piloto italiano esta disfrutando junto con su equipo de Mercedes, sus últimos días de parón previo al Madring. Está vez, intento y consiguió una fotografia estilo spiderman.",
-      "link": "https://www.marca.com/motor/2026/08/26/sea-foto-kimi-antonelli-aracn-video.html",
-      "pubDate": "Wed, 26 Aug 2026 16:49:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlVt21gZloKSilhtI.jpeg"
-    },
-    {
-      "id": "903ba9f22dd70a393db1",
-      "title": "VIDEO: Dron de Amazon deja caer un paquete dentro de una piscina",
-      "summary": "Un dron de reparto de Amazon dejó caer la semana pasada un paquete en una piscina, en una casa en Richmond, Texas (EE.UU.). Lindsey Austen relató que recibió una alerta de que su mercancía estaba disponible para entrega por dron en el programa Prime Air de la empresa; no obstante, al momento de llegar, escuchó el zumbido del aparato, salió y vio como este abría la escotilla y dejaba caer el bulto en la piscina. \"No creo que quiera más entregas con drones\", dijo la usuaria.",
-      "link": "https://actualidad.rt.com/viral/624334-dron-amazon-lanza-paquete-piscina?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 16:39:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0fa6e9ff716a715b24c1.jpg"
+      "id": "106f5e48792320ed48fe",
+      "title": "Una avalancha en la frontera entre Nepal y Tíbet deja más de 150 muertos y centenares de desaparecidos",
+      "summary": "Las autoridades locales admiten que la cifra de víctimas podría crecer y que los daños causados por el suceso son cuantiosos.",
+      "link": "https://www.bbc.com/mundo/articles/cje83dn5480o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 16:58:19 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3667/live/150d6670-a163-11f1-81f3-a1eb67c44aaf.jpg"
     },
     {
       "id": "ebc36fe0bbf62c1f02d7",
       "title": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adolescentes a sus herramientas",
       "summary": "Mark Zuckerberg, CEO de Meta, en los juzgados de Los Ángeles, el pasado febrero.",
       "link": "https://elpais.com/tecnologia/2026-08-26/meta-pagara-casi-17000-millones-de-dolares-para-resolver-las-demandas-por-la-adiccion-de-los-adolescentes-a-sus-herramientas.html",
-      "pubDate": "Wed, 26 Aug 2026 16:39:04 GMT",
+      "pubDate": "Wed, 26 Aug 2026 16:50:30 GMT",
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/XKQBSX4ULBH5JIPGGAOVTOKGJA.jpg?auth=3fa8fe8b40aa3f69366019eeaa97cfa3799b59001d4a61b50f365b5daacd2448"
     },
     {
-      "id": "34edcfc679d94fd2d9b5",
-      "title": "Mariona Caldentey, incluida en el once ideal de la WSL 2025/26",
-      "summary": "Bunny Shaw, del Manchester City, fue elegida la mejor jugadora del campeonato inglés tomando el relevo de la mallorquina",
-      "link": "https://www.marca.com/futbol/futbol-femenino/2026/08/26/mariona-caldentey-incluida-once-ideal-wsl-2025-26.html",
-      "pubDate": "Wed, 26 Aug 2026 16:38:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/12/aawBc1ft0AIVkKPgR.jpeg"
-    },
-    {
-      "id": "d9a32bc09599c6fa8ab1",
-      "title": "Trump: La sharía es \"una segunda forma de vida\" en Londres y París",
-      "summary": "\"Nos guiamos más por el sentido común que por la ideología\", señaló el presidente de EE.UU.",
-      "link": "https://actualidad.rt.com/actualidad/624321-trump-sharia-forma-vida-londres-paris?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 16:33:11 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f049359bf5b7f2c128ed9.jpg"
-    },
-    {
-      "id": "950de35b46cd17c2029e",
-      "title": "\"Ha hecho un extraordinario trabajo\": las alabanzas de Sheinbaum a un presidente latinoamericano",
-      "summary": "La presidenta explicó por qué no pudo realizar una gira internacional.",
-      "link": "https://actualidad.rt.com/actualidad/624330-extraordinario-trabajo-alabanzas-sheinbaum-presidente-latinoamericano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 16:25:55 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0add59bf5b6d4c2cb391.jpg"
-    },
-    {
-      "id": "44ce4acbc6bb267d1eb1",
-      "title": "Inesperado desenlace en el caso de un indígena reportado como muerto en Perú",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/624324-inesperado-desenlace-caso-indigena-reportado-muerto?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 16:25:19 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
       "id": "eeeba93f6cca4dcff445",
       "title": "Apple confirma el evento del iPhone Ultra y los iPhone 18 Pro: fecha, hora y qué esperar",
-      "summary": "Apple acaba de lanzar las invitaciones para su esperado evento de septiembre , donde los principales rumores apuntan a que conoceremos a los iPhone 18 Pro y Pro Max, junto con el nuevo iPhone Ultra , el primer plegable de la compañía. El eslogan de la presentación es Surprise and shine , o \"sorpresa y brillo\". Tal y como se rumoreaba, el evento de los iPhone 18 Pro/Pro Max y iPhone Ultra se llevará a cabo el miércoles 9 de septiembre en el Apple Park. Como ya es costumbre de este tipo de lanzamientos, las acciones tendrán lugar en el Teatro Steve Jobs. El horario de inicio de la presentación tampoco sufre modificaciones respecto de eventos anteriores de Apple. La introducción de los nuevos iPhone (y demás productos) se concretará a partir de las 10:00, hora del Pacífico ; es decir, las 19:00 de España, las 14:00 de Argentina y las 11:00 de México. Las invitaciones para el evento del iPhone Ultra y los iPhone 18 Pro muestra el logo de Apple con un fondo celeste cielo y el sol que lo atraviesa e ilumina. Con el correr de las horas, no faltarán las interpretaciones de supuestas pistas o mensajes escondidos en la imagen. El evento Surprise and shine no solo será especial por introducir versiones renovadas del iPhone, incluyendo un nuevo factor de forma, sino también porque será el primero bajo la conducción de John Ternus como CEO. Tengamos en cuenta que el sucesor de Tim Cook tomará las riendas de la compañía de forma oficial unos pocos días antes, el próximo martes 1 de septiembre. Como sucede habitualmente, los rumores apuntan a que Apple aprovechará el evento de septiembre para presentar varios productos, no solo los nuevos iPhone. Es cierto que los móviles son las estrellas del show, y este año tienen más motivos que nunca para serlo, pero también habría lugar para más lanzamientos de hardware. Nuevos iPhone Ultra, iPhone 18 Pro/Pro Max y más: qué veremos en el evento de septiembre Sobre los móviles en sí, todo apunta a que el iPhone Ultra intentará ganarse un luga",
+      "summary": "Apple acaba de lanzar las invitaciones para su esperado evento de septiembre , donde los principales rumores apuntan a que conoceremos a los iPhone 18 Pro y Pro Max, junto con el nuevo iPhone Ultra , el primer plegable de la compañía. El eslogan de la presentación es Surprise and shine , o \"sorpresa y brillo\". Tal y como se rumoreaba, el evento de los iPhone 18 Pro/Pro Max y iPhone Ultra se llevará a cabo el miércoles 9 de septiembre en el Apple Park. Como ya es costumbre de este tipo de lanzamientos, las acciones tendrán lugar en el Teatro Steve Jobs. El horario de inicio de la presentación tampoco sufre modificaciones respecto de eventos anteriores de Apple. La introducción de los nuevos iPhone (y demás productos) se concretará a partir de las 10:00, hora del Pacífico ; es decir, las 19:00 de España, las 14:00 de Argentina y las 11:00 de México. Las invitaciones para el evento del iPhone Ultra y los iPhone 18 Pro muestra el logo de Apple con un fondo celeste cielo y el sol que lo atraviesa e ilumina. Con el correr de las horas, no faltarán las interpretaciones de supuestas pistas o mensajes escondidos en la imagen. Surprise and shine! It’s almost time for the #AppleEvent , on Wednesday, September 9! pic.twitter.com/SLkIcNmLwP Greg Joswiak (@gregjoz) August 26, 2026 El evento Surprise and shine no solo será especial por introducir versiones renovadas del iPhone, incluyendo un nuevo factor de forma, sino también porque será el primero bajo la conducción de John Ternus como CEO. Tengamos en cuenta que el sucesor de Tim Cook tomará las riendas de la compañía de forma oficial unos pocos días antes, el próximo martes 1 de septiembre. Como sucede habitualmente, los rumores apuntan a que Apple aprovechará el evento de septiembre para presentar varios productos, no solo los nuevos iPhone. Es cierto que los móviles son las estrellas del show, y este año tienen más motivos que nunca para serlo, pero también habría lugar para más lanzamientos de hardware. Nuevos iPhone Ultra,",
       "link": "https://hipertextual.com/apple/apple-fecha-confirmada-evento-iphone-18-pro-y-iphone-ultra/",
       "pubDate": "Wed, 26 Aug 2026 16:24:41 +0000",
       "source": "Hipertextual",
@@ -281,34 +662,14 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Evento-iPhone-18-pro.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "ffcdfdd6a75d5d0407c0",
-      "title": "España cae ante Portugal y ve esfumarse sus opciones de clasificación en el Europeo",
-      "summary": "La Selección Española de Voleibol.",
-      "link": "https://www.marca.com/voleibol/2026/08/26/espana-cae-portugal-ve-esfumarse-opciones-clasificacion-europeo.html",
-      "pubDate": "Wed, 26 Aug 2026 16:23:25 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ef6a06c3ca.jpeg"
-    },
-    {
-      "id": "63b2a1682e4fd49901b2",
-      "title": "Qué es una riada y por qué puede arrasar pueblos enteros en minutos: el fenómeno que golpeó a Nepal",
-      "summary": "La rapidez del fenómeno complicó la evacuación y agravó el impacto sobre las poblaciones y la infraestructura. Las imágenes del desastre en Nepal muestran la fuerza de crecida repentina puede afectar el Himalaya.",
-      "link": "https://www.clarin.com/informacion-general/riada-puede-arrasar-pueblos-enteros-minutos-fenomeno-golpeo-nepal_0_QmItMtVyCm.html",
-      "pubDate": "Wed, 26 Aug 2026 16:16:06 +0000",
-      "source": "Clarin",
-      "cat": "sports",
-      "image": "https://www.clarin.com/img/2026/08/26/Zg0p_SQSd_1200x630__1.jpg"
-    },
-    {
-      "id": "17ed07b91463961ae8b6",
-      "title": "Instaló 50 turbinas eólicas en su campo de 7.000 acres mientras las vacas seguían pastando alrededor para sumar un negocio exitoso: genera electricidad para 60 mil hogares",
-      "summary": "Pete Ferrell cría ganado en una propiedad familiar de Kansas, Estados Unidos. Pero desde 2005 obtiene cerca de la mitad de sus ingresos de la energía eólica.",
-      "link": "https://www.clarin.com/estados-unidos/instalo-50-turbinas-eolicas-campo-7000-acres-vacas-seguian-pastando-alrededor-sumar-negocio-exitoso-genera-electricidad-60-mil-hogares_0_qWKR5i5U4O.html",
-      "pubDate": "Wed, 26 Aug 2026 16:15:56 +0000",
-      "source": "Clarin",
+      "id": "e313f6d120615a893bcd",
+      "title": "Meta acuerda pagar hasta US$18.000 millones para cerrar el juicio por las fallas en la protección a menores de edad",
+      "summary": "La empresa dirigida por Mark Zuckerberg aceptó pagar una multa multimillonaria, aunque rechazó las acusaciones de que ha violado las leyes de protección y de privacidad de los menores de edad.",
+      "link": "https://www.bbc.com/mundo/articles/c0lrw7l4pylo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 16:24:04 GMT",
+      "source": "BBC Mundo",
       "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/YFN6h0-iW_1200x630__1.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b62/live/6d868c70-a161-11f1-81f3-a1eb67c44aaf.jpg"
     },
     {
       "id": "f837794844a6799562e0",
@@ -321,56 +682,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FXZBOPL6FBEHBN7JE33X3ZKRYQ.jpg?auth=1e7dd012a1fbb2933c5e03283e48cc818ae011188e1afa841bcb555e275002dd"
     },
     {
-      "id": "bd8b085ad742606f210b",
-      "title": "Leyendas del fútbol sudamericano dan espaldarazo a Infantino: ¿quiénes lo apoyan?",
-      "summary": "El mensaje es contrario al de ciertas estrellas del fútbol europeo, quienes urgieron un \"cambio necesario\" en la presidencia del fútbol mundial.",
-      "link": "https://actualidad.rt.com/actualidad/624316-leyendas-futbol-sudamericano-espaldarazo-infantino?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 16:11:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f01d7e9ff714a541ae557.jpg"
-    },
-    {
-      "id": "b1b2a2561b1c1ba8fd50",
-      "title": "Endeudamiento familiar: la oposición en Diputados no pudo incluir sus proyectos en medio de una sesión caliente",
-      "summary": "Varios bloques opositores presentaron expedientes para abordar el tema, pero no alcanzaron los votos necesarios para incorporar las iniciativas al debate parlamentario. \"Algunos de estos proyectos no tienen costo fiscal\", había enfatizado el legislador Pablo Juliano. Su colega Germán Martínez señaló que la problemática de la mora familiar abarca a seis millones de personas.",
-      "link": "https://www.clarin.com/politica/endeudamiento-familiar-oposicion-diputados-pudo-incluir-proyectos-medio-sesion-caliente_0_H1VADrZZdw.html",
-      "pubDate": "Wed, 26 Aug 2026 16:10:07 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/26/FJYZ3CYG7_1200x630__1.jpg"
-    },
-    {
-      "id": "bea5216c99536c3e2c92",
-      "title": "El Mono Fontana se presenta en la tercera jornada de \"CET Sessions\", un ciclo experimental del Colón en un marco de intimidad con el público",
-      "summary": "Este miércoles 26, a las 20.30, Juan Carlos \"Mono\" Fontana, figura fundamental de la música popular argentina, desplegará su arte con teclados y sintetizadores. Cómo fueron las otras dos sesiones.",
-      "link": "https://www.clarin.com/espectaculos/mono-fontana-presenta-tercera-jornada-cet-sessions-ciclo-experimental-colon-marco-intimidad-publico_0_v4Ghc98vT8.html",
-      "pubDate": "Wed, 26 Aug 2026 16:09:39 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/GtaZGkXm5_1200x630__1.jpg"
-    },
-    {
-      "id": "c4820e684f848326fe77",
-      "title": "Trump bromea (o quizá no) con convertir el lago Ontario en \"lago América\"",
-      "summary": "\"El último caso fue el golfo de México. Ahora es el golfo de América\", declaró el mandatario estadounidense.",
-      "link": "https://actualidad.rt.com/actualidad/624318-trump-bromea-o-quiza-convertir?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 16:08:35 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f040959bf5b766d1c2c87.jpg"
-    },
-    {
-      "id": "e48f0252ace8d567d8ae",
-      "title": "El milagro del equipo que vale 17 millones de euros",
-      "summary": "Los dos goles del Sabah que le llevaron a la gloria en Champions",
-      "link": "https://www.marca.com/futbol/champions-league/2026/08/26/milagro-sabah-fk-equipo-vale-17-millones-euros.html",
-      "pubDate": "Wed, 26 Aug 2026 16:05:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/1gZj5v1xMhjS.jpeg"
-    },
-    {
       "id": "447dbf36868cde74f18e",
       "title": "La Fiscalía pide mantener la imputación de Jésica Rodríguez, expareja de Ábalos",
       "summary": "La expareja de José Luis Ábalos, Jésica Rodríguez, a su llegada a la Audiencia Nacional el pasado julio.",
@@ -381,34 +692,14 @@
       "image": "https://imagenes.elpais.com/resizer/v2/WS24QUL765O7BLWWEQAXUZVMMQ.jpg?auth=80e86ea0231f28caf8775a3e614923153fdd8c3b2a4bfb4325f19ea45b0db368"
     },
     {
-      "id": "2187997095422dd95e88",
-      "title": "Esther González borra las fotos con su mujer y su hijo tras fichar por un club de Arabia Saudí",
-      "summary": "La presentación de Esther González",
-      "link": "https://www.marca.com/futbol/futbol-femenino/2026/08/26/futbolista-esther-gonzalez-borra-fotos-mujer-hijo-fichar-club-arabia-saudi.html",
-      "pubDate": "Wed, 26 Aug 2026 16:01:38 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/24/6a8bf8bbd3f0b.jpeg"
-    },
-    {
-      "id": "0d1568184b4873bdb9cd",
-      "title": "Alfonso, profesor español que enseñó en Reino Unido: “La educación en España, comparada con otros países, es una maravilla”",
-      "summary": "Al volver de Inglaterra, el docente de 30 años contó cómo fue su experiencia dando clases en el extranjero. El joven, con un máster en ingeniería genética, destacó la forma de evaluación en las escuelas de su país natal y la contrapuso con la de la nación anglosajona.",
-      "link": "https://www.clarin.com/internacional/alfonso-profesor-espanol-enseno-reino-unido-educacion-espana-comparada-paises-maravilla_0_AANVXiRCji.html",
-      "pubDate": "Wed, 26 Aug 2026 16:01:35 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/kY0RZF3QI_1200x630__1.jpg"
-    },
-    {
-      "id": "081186041fd0003c6adb",
-      "title": "Videoaficionado graba escena de película del robo a un banco a plena luz del día (VIDEO)",
-      "summary": "Una escena de película se vivió a la salida de una sucursal del Banco República, en la ciudad uruguaya de Pando (Canelones), cuando cuatro delincuentes salieron a plena luz del día encapuchados y armados del lugar tras cometer un atraco. En el video, hecho por un peatón, se muestra cuando los hombres suben a un auto y escapan rápidamente del lugar.",
-      "link": "https://actualidad.rt.com/viral/624315-grabar-escena-pelicula-robo-banco?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 15:57:34 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f05c0e9ff711a2576247a.jpg"
+      "id": "02754cac32b4b6e86c6a",
+      "title": "Warner Bros. Animation se prepara para uno de sus mayores cambios internos en años",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Warner Bros. Animation afronta uno de sus mayores cambios internos de los últimos años. Sam Register , máximo responsable del estudio y una figura fundamental en la estrategia de animación de Warner durante décadas, abandonará la compañía después de que ambas partes hayan decidido no renovar su contrato. Su marcha llega, además, en un momento especialmente delicado para el grupo, con la adquisición de Warner Bros. Discovery por Paramount todavía pendiente y numerosos proyectos de DC, Cartoon Network y Hanna-Barbera en desarrollo. No estamos ante una salida cualquiera dentro del habitual baile de ejecutivos de Hollywood. Sam Register lleva aproximadamente tres décadas vinculado al universo de Warner y Cartoon Network , y durante buena parte de ese tiempo ha estado detrás de las decisiones que han determinado qué personajes, franquicias y formatos llegaban a las pantallas. Actualmente ejercía como presidente de Warner Bros. Animation, Cartoon Network Studios y Hanna-Barbera Studios Europe , de modo que su marcha deja vacante uno de los puestos con mayor influencia sobre el futuro de la animación del conglomerado. La noticia fue comunicada internamente por Channing Dungey , presidenta y CEO de Warner Bros. Television Group y U.S. Networks, quien explicó a los empleados que la compañía y Register habían acordado mutuamente no renovar su contrato. Warner buscará ahora un sustituto, aunque hasta que se produzca el nombramiento la estructura creativa existente seguirá funcionando con sus actuales responsables. Sam Register se marcha justo cuando Warner Bros. Animation vuelve a mover algunas de sus mayores franquicias World premiere of The Lord of the Rings: The War of the Rohirrim El momento elegido para la salida resulta especialmente interesante porque Warner Bros. Animation atraviesa una fase de transformación que va bastante más allá de un simple cambio de presidente. El declive de la televisión por cable y ",
+      "link": "https://www.cinemascomics.com/cambio-warner-bros-animation/",
+      "pubDate": "Wed, 26 Aug 2026 16:00:02 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Warner_Bros-Animation.jpg"
     },
     {
       "id": "f517f587395541d6f93b",
@@ -419,126 +710,6 @@
       "source": "El Pais",
       "cat": "cinema",
       "image": "https://imagenes.elpais.com/resizer/v2/MH4IAMCBLNJ6VCXJGO5NGNMBIE.jpg?auth=ade9615d41801e467ea14274eec0a097ddc0ff0f0e1a71100e970f93e10246ea"
-    },
-    {
-      "id": "1b7526ec1141fb7d7663",
-      "title": "¿Cómo viene la tormenta de Santa Rosa?: anticipan tormentas, lluvias y heladas para gran parte del país",
-      "summary": "Pronostican mal tiempo y el ingreso de vientos polares. Cuántos milímetros se esperan en las distintas regiones del área agrícola.",
-      "link": "https://www.clarin.com/rural/viene-tormenta-santa-rosa-anticipan-tormentas-lluvias-heladas-gran-parte-pais_0_Q55LrYGD6f.html",
-      "pubDate": "Wed, 26 Aug 2026 15:52:26 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/OHoqE4mQo_1200x630__1.jpg"
-    },
-    {
-      "id": "55347009339d657f04d4",
-      "title": "Inundaciones catastróficas en el Himalaya: hay numerosos muertos y desaparecidos (VIDEOS)",
-      "summary": "Reportan más de 400 turistas desaparecidos y puentes destruidos en la frontera de Nepal con el Tíbet.",
-      "link": "https://actualidad.rt.com/actualidad/624307-muertos-reportados-nepal-inundaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 15:51:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f05efe9ff711a2576247f.jpg"
-    },
-    {
-      "id": "8ccdf1df25ae4328fe29",
-      "title": "Vicky Martín Berrocal, diseñadora de modas: \"Hay una soledad de la que casi nadie habla, la soledad de la mujer que aparentemente puede con todo\"",
-      "summary": "La diseñadora y empresaria española reflexionó sobre la presión que muchas mujeres sienten para sostener a los demás mientras dejan sus propias necesidades en segundo plano. “Es la soledad de la mujer que trabaja, la que cuida, la que sonríe, la que siempre te dice que está bien”, planteó.",
-      "link": "https://www.clarin.com/internacional/vicky-martin-berrocal-disenadora-modas-53-anos-soledad-nadie-habla-soledad-mujer-aparentemente-puede-soledad-mujer-trabaja-cuida-sonrie-siempre-dice-bien-luego-llega-casa-sienta-sola-silencio_0_2mJscwJh2F.html",
-      "pubDate": "Wed, 26 Aug 2026 15:50:54 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/3U_4yxlFd_1200x630__1.jpg"
-    },
-    {
-      "id": "457dc53acf91102aae34",
-      "title": "Renault actualiza el 5 eléctrico y le permite jugar a ser un Clio Williams",
-      "summary": "El Renault 5 se podrá configurar ahora... como un Clio Williams.",
-      "link": "https://www.marca.com/coches-y-motos/coches/electricos/2026/08/26/renault-actualiza-5-electrico-le-permite-jugar-clio-williams.html",
-      "pubDate": "Wed, 26 Aug 2026 15:50:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec9bd21036.jpeg"
-    },
-    {
-      "id": "49dbf1d2dadaae123162",
-      "title": "Estados demócratas presentan nueva demanda para bloquear orden de Trump sobre voto por correo",
-      "summary": "Estados liderados por opositores al gobierno demandan la orden que limita el sufragio postal, en medio de preparativos electorales avanzados. La nueva regulación exige aprobación federal para sobres y listas de votantes, lo que genera controversia y desafíos legales en varios estados.",
-      "link": "https://www.clarin.com/estados-unidos/estados-democratas-presentan-nueva-demanda-para-bloquear-orden-de-trump-sobre-voto-por-correo_0_d2J717U5Gj.html",
-      "pubDate": "Wed, 26 Aug 2026 15:50:04 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
-    },
-    {
-      "id": "7d44c8fec0933c9a8997",
-      "title": "Otro cambio en el caso por los Cuadernos: mudan el tribunal al edificio de Comodoro Py",
-      "summary": "El TOF 7, que tiene a cargo las audiencias por el circuito de sobornos a proveedores y contratistas durante los doce años K, es el único tribunal federal que no funcionaba en Retiro. Esperan que el traslado, en septiembre, acelere el juicio contra Cristina Kirchner y los demás imputados.",
-      "link": "https://www.clarin.com/politica/cambio-caso-cuadernos-mudan-tribunal-edificio-comodoro-py_0_J55w0lDT0Z.html",
-      "pubDate": "Wed, 26 Aug 2026 15:49:23 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/26/XAgifWawf_1200x630__1.jpg"
-    },
-    {
-      "id": "7885cea0fa7c5a0e942b",
-      "title": "Murió Tim Curry, la estrella de \"It\" y \"The Rocky Horror Picture Show\", a los 80 años",
-      "summary": "El actor había sufrido un grave derrame cerebral en 2012. Inmortalizó, entre otros personajes memorables, al Dr. Frank-N-Furter en el musical de Richard O'Brien.",
-      "link": "https://www.clarin.com/internacional/murio-tim-curry-estrella-it-the-rocky-horror-picture-show-80-anos_0_TtWGBDRFqf.html",
-      "pubDate": "Wed, 26 Aug 2026 15:47:45 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/08/26/utWo4F_t8_1200x630__1.jpg"
-    },
-    {
-      "id": "a71aaa44d5a6fcab0abf",
-      "title": "Inundación en Nepal: un centenar de muertos y varios desaparecidos",
-      "summary": "Una terrible riada en la frontera entre Nepal y el Tibet ha provocado el caos, dejando miles de afectados y cerca de 500 turistas en paradero desconocido.",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/26/inundacion-nepal-384-viajeros-permanecen-desaparecidos.html",
-      "pubDate": "Wed, 26 Aug 2026 15:47:38 +0200",
-      "source": "Marca",
-      "cat": "poleco",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlXvA1gZm1nqom8gY.jpeg"
-    },
-    {
-      "id": "efb452a032524d2d147a",
-      "title": "Adidas presenta un 'anillo de luz' para jugar la Champions",
-      "summary": "Balones Adidas de la UCL y UWCL de la temporada 2026/27.",
-      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/08/26/adidas-presenta-anillo-luz-jugar-champions.html",
-      "pubDate": "Wed, 26 Aug 2026 15:45:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8eed5a85144.jpeg"
-    },
-    {
-      "id": "721e012b6bd11df9f695",
-      "title": "Ucrania ataca a civiles con misiles en la ciudad rusa de Donetsk",
-      "summary": "Tres personas, incluido un niño, sufrieron heridas de diversa gravedad, informó el jefe de la República Popular de Donetsk.",
-      "link": "https://actualidad.rt.com/actualidad/624322-ucrania-misiles-civiles-donetsk?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 15:39:42 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0a9b59bf5b6d2b27b40b.jpg"
-    },
-    {
-      "id": "106f5e48792320ed48fe",
-      "title": "Un deslave en la frontera entre Nepal y Tíbet deja al menos 95 muertos y centenares de desaparecidos, entre ellos 341 turistas extranjeros",
-      "summary": "Las autoridades locales admiten que la cifra de víctimas podría crecer y que los daños causados por el suceso son cuantiosos.",
-      "link": "https://www.bbc.com/mundo/articles/cje83dn5480o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 15:32:26 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3667/live/150d6670-a163-11f1-81f3-a1eb67c44aaf.jpg"
-    },
-    {
-      "id": "e7bbbdd730ceaa51ef28",
-      "title": "Muere la estrella del cine Tim Curry",
-      "summary": "El protagonista de 'Eso, el payaso asesino' padecía de graves problemas de salud desde hace más de una década.",
-      "link": "https://actualidad.rt.com/actualidad/624328-muere-famoso-actor-estadounidense-tim-curry?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 15:31:50 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0dc559bf5b7f355eae9a.jpg"
     },
     {
       "id": "9a8656e769531ba3fa55",
@@ -559,46 +730,6 @@
       "source": "El Pais",
       "cat": "sports",
       "image": "https://imagenes.elpais.com/resizer/v2/XPBWN5KXV5AC3EMMFM6QVSIG4U.jpg?auth=df0e3348cdd59b1ace275cabba4d0d3efe0c74373ef531f4a819ecb4e8653847"
-    },
-    {
-      "id": "5a15b24c0535e50617de",
-      "title": "El Barça suspende el homenaje a los campeones del mundo: habrá un acto de exaltación de la estelada",
-      "summary": "SEGUNDA SEMIFINAL SUPERCOPA DE ESPAÑA 2020 FC BARCELONA-ATLETICO DE MADRID BANDERA ESTELADA",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/26/barca-suspende-homenaje-campeones-mundo-sustituye-acto-exaltacion-estelada.html",
-      "pubDate": "Wed, 26 Aug 2026 15:10:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee74eaac7a.jpeg"
-    },
-    {
-      "id": "b41c4528b8c6c77cb3b9",
-      "title": "Al menos 98 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada y deslizamientos de tierra entre Nepal y Tíbet",
-      "summary": "Vista aérea de varias viviendas dañadas en Trishuli Bazar, en Nepal, tras la riada repentina que ha afectado este miércoles a los distritos nepalíes de Rasuwa y Nuwakot y ha provocado un corrimiento de tierra en Tíbet.",
-      "link": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html",
-      "pubDate": "Wed, 26 Aug 2026 15:07:17 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XKWQXHSINFAZZHPVB5IEGYWPKY.jpg?auth=de05d8349b731d5c096f8d60ef913c1068019dc542c1b59acd888c1a43a0959e"
-    },
-    {
-      "id": "e643b4e61cb13b1e088d",
-      "title": "El Atlético explota",
-      "summary": "Julián Alvarez, junto a sus compañeros en el último partido del Atlético.",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/26/atletico-explota-unica-victima-caso-julian-somo-nosotros.html",
-      "pubDate": "Wed, 26 Aug 2026 15:04:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee3c9e29e8.jpeg"
-    },
-    {
-      "id": "c86f51c9d893ce8740cc",
-      "title": "Un fósil de 324 millones de años muestra cómo conquistaron la Tierra los insectos",
-      "summary": "'Chosa praecursor' tenía partes de los crustáceos marinos, pero también de los primeros insectos terrestres. En la imagen, el ejemplar fosilizado hace 324 millones de años.",
-      "link": "https://elpais.com/ciencia/2026-08-26/un-fosil-de-324-millones-de-anos-muestra-como-conquistaron-la-tierra-los-insectos.html",
-      "pubDate": "Wed, 26 Aug 2026 15:02:42 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/GFNML36NDFB65M632ZUK52RJYA.jpg?auth=31d596c8271993310e806b79095fbfe3beefb86ae0efde0a6e5ac08216da1b07"
     },
     {
       "id": "df85c421ea8d7a355333",
@@ -659,16 +790,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/MateBook_Pro_S_2.jpg"
-    },
-    {
-      "id": "e9b091dd9cf2621c15a0",
-      "title": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
-      "summary": "La portavoz de Junts en el Congreso, Miriam Nogueras, en una rueda de prensa en el Congreso de los Diputados en Madrid.",
-      "link": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html",
-      "pubDate": "Wed, 26 Aug 2026 13:37:03 GMT",
-      "source": "El Pais",
-      "cat": "ar_pol",
-      "image": "https://imagenes.elpais.com/resizer/v2/TM3P5D4LBBEYVOEJSWIZECFVWM.jpg?auth=24addd3431efcd01206d320bcc2b5e2a6d00862fc8fb1423aee15792c2bb326a"
     },
     {
       "id": "2821f75b5cec4ad75aff",
@@ -750,16 +871,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/T5DUXSUSQ5FTLFS3EGUUOJWGNE.jpg?auth=fb40dbb623646aa9b521b17dd023e7c277ebece9b557671bd5b62257c09c9ace"
-    },
-    {
-      "id": "b7ce9e0200d4736c76ba",
-      "title": "La Tomatina de hoy, “tan divertida y tan loca” como siempre: aplastar el tomate con fuerza y lanzarlo con ganas",
-      "summary": "Participantes de la Tomatina de Buñol en plena refriega este último miércoles de agosto.",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-08-26/la-tomatina-de-hoy-tan-divertida-y-tan-loca-como-siempre-aplastar-el-tomate-con-fuerza-y-lanzarlo-con-ganas.html",
-      "pubDate": "Wed, 26 Aug 2026 11:07:03 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/QPBRCRVBKZBHXMRX74BC2C62QI.jpg?auth=015c9d412cf1d0b661eeff51c18aeef80c8b481a7ac5187f1e0ac39e909689fb"
     },
     {
       "id": "0899fdb46e3c523748c2",
@@ -861,16 +972,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/RRUTCLNII5HRHNVLFINFIOBLIU.jpg?auth=30fd769ddc21df977b4d6ae2ef932e5223f67d1f4873fb36346ea275dfacbdac"
-    },
-    {
-      "id": "8698d26f0a8e61f3b32a",
-      "title": "Sale a la luz un vídeo inédito del fallecido Brad Gobright cuando escalaba sin cuerda una vía de alta dificultad",
-      "summary": "El escalador Brad Gobright en una foto de archivo sacada de su instagram.",
-      "link": "https://elpais.com/deportes/el-montanista/2026-08-26/sale-a-la-luz-un-video-inedito-del-fallecido-brad-gobright-cuando-escalaba-sin-cuerda-una-via-de-alta-dificultad.html",
-      "pubDate": "Wed, 26 Aug 2026 09:45:36 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/O4WDGSLWMFC2NKRPREHDCZL6NA.jpg?auth=75d74e446e0b2e0e924bb5796be6c84082538a3bd62b17bd957f24d4f25920b1"
     },
     {
       "id": "d022b95571fe7e34251c",
@@ -1079,16 +1180,6 @@
       "subcat": "empresas"
     },
     {
-      "id": "84dcb339429698bba40a",
-      "title": "El encargo del Gobierno de Ayuso a la inmobiliaria de lujo que vendió el ático: “Entre 250 y 400 metros y una gran terraza”",
-      "summary": "Ático del Paseo del General Martínez Campos esquina con la calle Zurbano de Madrid.",
-      "link": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html",
-      "pubDate": "Wed, 26 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/4IRINHYRHNBRZDJ2ON3EADK5VU.jpg?auth=5a88813a35047d812fe4d3caaa8b47f07bb868acc0e501bc5b347254893d3b02"
-    },
-    {
       "id": "2636dae6f434d97ef262",
       "title": "Escándalo en las letras inglesas: Rachel Cusk destruye sin nombrarla a la actriz Natalie Portman en su última novela",
       "summary": "Natalie Portman llega a los estudios de The Late Show de Stephen Colbert el 2 de mayo de 2025 en Nueva York",
@@ -1137,6 +1228,16 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DTCX6LWRP5H7JCMXPD73P6BWNA.jpg?auth=7669600c8246c6adf41b21482591055c8ccdbd15a7d94f4e60030a13e46c12f2"
+    },
+    {
+      "id": "84dcb339429698bba40a",
+      "title": "El encargo del Gobierno de Ayuso a la inmobiliaria de lujo que vendió el ático: “Entre 250 y 400 metros y una gran terraza”",
+      "summary": "Ático del Paseo del General Martínez Campos esquina con la calle Zurbano de Madrid.",
+      "link": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html",
+      "pubDate": "Wed, 26 Aug 2026 03:30:01 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4IRINHYRHNBRZDJ2ON3EADK5VU.jpg?auth=5a88813a35047d812fe4d3caaa8b47f07bb868acc0e501bc5b347254893d3b02"
     },
     {
       "id": "993ada46129ec159ddd7",
@@ -1332,16 +1433,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/gta-6-como-funcionan-los-dias.jpg"
     },
     {
-      "id": "de66cf76fc7d6e020181",
-      "title": "En imágenes: la fabulosa vida de la inolvidable Dolly Parton",
-      "summary": "La cantante estrella de la música country, que surgió de orígenes humildes, llegó a convertirse en una de las artistas más queridas del mundo.",
-      "link": "https://www.bbc.com/mundo/articles/cjdv5kr7945o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 21:54:39 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46e8/live/d29c3e60-a0d1-11f1-897d-3f2b3b8ed886.jpg"
-    },
-    {
       "id": "295d2f93e21bf8623b44",
       "title": "WhatsApp dice adiós al PIN de seis dígitos y estrena nuevas funciones de seguridad para que no te roben la cuenta",
       "summary": "WhatsApp ha reforzado la seguridad de las cuentas de sus usuarios con tres actualizaciones clave . La aplicación de mensajería dejó atrás el PIN numérico para dar entrada a contraseñas más robustas que impedirán que te roben la cuenta tan fácil. La compañía también añadió contexto sobre las llamadas desconocidas y amplió el uso de las passkeys, una opción para quienes no desean lidiar con claves. De acuerdo con un comunicado en la web de Meta , la actualización más reciente de WhatsApp se aleja de las novedades en funciones y apuesta por la seguridad. Si bien la app ya contaba con mecanismos como la verificación en dos pasos, esta dependía de un PIN de seis dígitos que podría vulnerarse usando los métodos adecuados. Ahora, la aplicación sustituirá la clave temporal por una contraseña completa que admite letras, números y caracteres especiales, lo que le hará el trabajo más difícil a un atacante. Para aquellos a los que se les dificulta recordar una contraseña, WhatsApp también amplió el uso de passkeys en múltiples dispositivos . Según Meta, más de mil millones de usuarios ya configuraron una passkey en su cuenta, por lo que el sistema permitirá verificar la identidad mediante el sensor de huella, reconocimiento facial o a través del bloqueo de pantalla del teléfono. El problema es que WhatsApp solo permitía una passkey por cuenta, por lo que la compañía realizó algunos ajustes para cambiarlo. La actualización de hoy ya permite que cada cuenta tenga asociada más de una passkey de forma simultánea . Si solo usas WhatsApp en el móvil y no lo abres en otro dispositivo, esto no cambia nada, pero si usas un segundo móvil o tablet como dispositivo adicional, podrás activar tu clave para proteger tus conversaciones con datos biométricos. WhatsApp también combatirá las llamadas de estafas La última novedad tiene que ver con las llamadas de números desconocidos . Si eres usuario de WhatsApp, seguramente has visto esos mensajes con supuestas ofertas de empleo que no son otra ",
@@ -1465,16 +1556,6 @@
       "image": "https://static.eldiario.es/clip/6774fb25-0d77-466f-be45-b74f99f914a6_16-9-discover-aspect-ratio_default_0_x298y472.jpg"
     },
     {
-      "id": "e4f31fbd213412c07f34",
-      "title": "Mira el emocionante tráiler del regreso de ‘Avengers: Endgame’ a los cines",
-      "summary": "Avengers: Endgame regresa pronto a los cines con escenas inéditas para preparar el camino hacia el lanzamiento de Avengers: Doomsday a finales de año. Si bien la película de los hermanos Russo no incorporará cantidades exorbitantes de material nuevo, sí busca revisitar el momento más glorioso del Universo Cinematográfico de Marvel. Y para ir poniendo al público a tono, acaba de lanzarse el emocionante tráiler de Avengers Endgame: Encore , el título oficial que tendrá el filme en su reestreno. Marvel ha publicado un avance de Avengers Endgame: Encore que permite revivir varios de los momentos más icónicos de la cinta. En especial, del tramo final de la batalla en la que los héroes desaparecidos en el blip regresaron para acabar con la amenaza de Thanos de una vez por todas. El tráiler de Avengers Endgame: Encore se inicia con un Capitán América golpeado y con el escudo destruido, quien rápidamente se sorprende al oír la voz de Sam Wilson/Falcon en el intercomunicador. Múltiples portales mágicos comienzan a abrir, permitiendo el regreso de todos los combatientes que habían desaparecido en Wakanda durante el primer chasquido de Thanos en Infinity War . En el vídeo se incluye una grabación de la reacción del público durante la noche del estreno de Avengers: Endgame en abril de 2019, tras confirmarse que los héroes lograron revertir el blip . Haciendo gala del nombre que le han dado a la cinta, Marvel menciona que este relanzamiento es el \" encore \" (el bis o la repetición) de aquel evento cinematográfico que sacudió al mundo. Así es como podemos flashes de los grandes protagonistas de aquella historia, muchos de los cuales regresarán en Avengers: Doomsday . La escena final del tráiler, de hecho, dice \"La historia continúa\" y muestra a Tony Stark/Iron Man concretando el sacrificio definitivo para vencer a Thanos. Avengers Endgame: Encore llega a los cines en septiembre En el final del tráiler de Avengers Endgame: Encore se confirma que el reestreno de la película estará ",
-      "link": "https://hipertextual.com/cine-television/avengers-endgame-encore-trailer-oficial-reestreno-septiembre/",
-      "pubDate": "Tue, 25 Aug 2026 17:17:43 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/04/vengadores-endgame-errores-1568271934-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "b9697b38f24e429f5bbd",
       "title": "10 películas y series que ver antes de La constelación del perro, lo nuevo de Ridley Scott",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com Hay películas postapocalípticas obsesionadas con enseñarnos cómo termina el mundo y otras bastante más interesantes que empiezan cuando el desastre ya ha pasado. Por todo lo que sabemos hasta ahora, La constelación del perro quiere pertenecer al segundo grupo. La nueva película de Ridley Scott nos llevará hasta 2035, después de que una gripe devastadora haya acabado con buena parte de la población, para seguir a Hig, un antiguo piloto que sobrevive junto a su perro Jasper y un compañero llamado Bangley en un pequeño aeródromo abandonado de Colorado. Sobre el papel podría parecer otro relato de supervivencia entre paisajes vacíos, pero Scott reconoce que esa fue precisamente su primera impresión cuando recibió el proyecto y que cambió de opinión al descubrir el corazón de sus personajes. La película adapta la novela The Dog Stars de Peter Heller, y pretende explorar la soledad, el duelo, nuestra relación con la naturaleza y una pregunta que siempre me ha parecido mucho más atractiva que averiguar quién sobreviviría mejor al apocalipsis: ¿qué hacemos cuando sobrevivir deja de ser suficiente? Todavía tendremos que esperar al estreno para comprobar hasta dónde lleva Scott todas esas ideas, así que no tendría demasiado sentido hablar de películas y series que «se parecen» a una obra que aún no hemos podido ver. Lo que sí podemos hacer es seguir las pistas que han dejado su historia, sus personajes y sus responsables para recomendar diez títulos que transitan territorios similares. Y tranquilos, esto no va a convertirse en otra lista con diez historias de zombis elegidas porque hay calles abandonadas y supermercados saqueados. Aquí hay perros, señales de radio, personajes destrozados por el duelo, comunidades que intentan empezar de nuevo y gente empeñada en encontrar a alguien al otro lado del silencio. Soy leyenda: un hombre, un perro y la necesidad de creer que queda alguien ahí fuera curiosidades sobre Soy ",
@@ -1513,16 +1594,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/819e/live/f84388a0-a0bb-11f1-b8cc-1bd2cc322bf4.jpg"
-    },
-    {
-      "id": "0c93f1367a989c3d3bee",
-      "title": "No todo es IA: NVIDIA RTX Spark llevará los mejores juegos a Windows en ARM",
-      "summary": "NVIDIA presentó RTX Spark a principios de junio, con la promesa de revolucionar la experiencia de Windows en ARM . El superchip de la compañía se ha desarrollado pensando especialmente en las labores de IA, pero también va a desbloquear una nueva era para los fanáticos del gaming . En el marco de la Gamescom 2026, NVIDIA anunció que los principales estudios van a llevar sus mejores juegos y sus tecnologías antitrampa a RTX Spark. Si bien previamente se sabía que empresas como Riot Games, Xbox y Krafton iban a soportar el hardware en cuestión, ahora se están sumando firmas del calibre de Electronic Arts, Ubisoft y Embark Studios . El caso de EA es de los más resonantes, puesto que va a brindar soporte para la tecnología antitrampas Javelin en RTX Spark. Esto significa que títulos muy populares en el mundo de los eSports, como Apex Legends y F1 25 , se podrán jugar desde los dispositivos impulsados por el nuevo chip de NVIDIA. Otros títulos con muchos seguidores que llegarán a RTX Spark son The Finals y el shooter de extracción ARC Raiders . En tanto que Ubisoft ha prometido incorporar el juego de estrategias Anno 117: Pax Romana al catálogo de juegos soportados por el hardware de NVIDIA. El siguiente vídeo de NVIDIA permite ver títulos como Cyberpunk 2077: Ultimate Edition , Alan Wake II y Pragmata ejecutándose en RTX Spark. NVIDIA quiere que RTX Spark sea una plataforma de gaming Windows en ARM es una plataforma que ha prometido mucho, pero que hasta aquí nunca ha despegado. RTX Spark busca darle el impulso necesario a la plataforma, y el gaming puede jugar un papel crucial para que ello ocurra. Claro que para ello necesita de un compromiso permanente de los estudios para adaptar, mantener y expandir su catálogo de títulos. NVIDIA va a mostrar las cualidades de RTX Spark como plataforma de videojuegos durante la Gamescom 2026, con múltiples demos en su sector de exposición . Los primeros portátiles impulsados por el superchip de la compañía estarán disponibles duran",
-      "link": "https://hipertextual.com/videojuegos/nvidia-rtx-spark-llevara-mejores-juegos-windows-arm/",
-      "pubDate": "Tue, 25 Aug 2026 16:20:48 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/RTX-Spark.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "id": "c335c267d015f582d600",
@@ -1584,17 +1655,6 @@
       "source": "Chequeado",
       "cat": "ar_pol",
       "image": ""
-    },
-    {
-      "id": "7ff0af65a6895f4572e2",
-      "title": "El Mac Studio se actualiza con el nuevo M5 Ultra, el chip más bestial de Apple: su precio te hará llorar",
-      "summary": "Además del nuevo Mac mini con M6 y M5 Pro , Apple acaba de anunciar nuevas versiones del Mac Studio con M5 Max y M5 Ultra . Este último es el chip más bestial de la compañía y, como no podía ser de otra manera, promete importantes mejoras de rendimiento en lo que respecta a labores de inteligencia artificial y otras tareas profesionales intensivas que requieran de músculo. El diseño del Mac Studio se mantiene sin modificaciones, pero Apple finalmente ha optado por reordenar su oferta de hardware para que las dos versiones del dispositivo utilicen chips de la misma familia. Una de las grandes críticas que habían recibido sus predecesores era por la confusión que generaban las variantes con M4 Max y M3 Ultra. Los nuevos Mac Studio con M5 Max y M5 Ultra están vitaminados para afrontar las cargas de trabajo más demandantes. Apple hace especial hincapié en la ejecución de modelos de IA locales, pero también en la edición y el renderizado de vídeos y gráficos, entre otras tareas. Tanto el Mac Studio M5 Max como el M5 Ultra están disponibles con dos variantes del chip : La versión base del M5 Max tiene 18 núcleos de CPU y 32 núcleos de GPU. La opción más avanzada tiene la misma cantidad de núcleos de CPU, pero 40 núcleos gráficos. En ambos casos cuentan con un Neural Engine de 16 núcleos. En el caso del M5 Ultra, la opción de entrada dispone de una CPU de 30 núcleos y una gráfica de 64 núcleos. La variante superior es de 36 y 80 núcleos, respectivamente. Las dos opciones tienen un Neural Engine de 32 núcleos. El Mac Studio con M5 Max se puede configurar con hasta 128 GB de RAM y 8 TB de almacenamiento . En tanto que el modelo con M5 Ultra admite hasta 512 GB de memoria unificada y almacenamiento interno de hasta 16 TB . Mac Studio con M5 Max y M5 Ultra: las nuevas bestias de Apple El desempeño del Mac Studio con M5 Ultra supera en todas las aristas a la versión previa más potente. Apple asegura que su nuevo chip brinda hasta 4,3 veces más poder de cómputo para tareas de IA",
-      "link": "https://hipertextual.com/apple/nuevos-mac-studio-m5-ultra-y-m5-max-caracteristicas-y-precios/",
-      "pubDate": "Tue, 25 Aug 2026 14:56:05 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Apple-Mac-Studio-hero-260825-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "herramientas"
     },
     {
       "id": "f32224c5e5a9e0eea8f9",
@@ -1758,16 +1818,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/batman-dcu.jpg"
-    },
-    {
-      "id": "929f9850f371938addc9",
-      "title": "Los hombres solitarios chinos que son engañados con novias falsas por agencias matrimoniales",
-      "summary": "Las estafas de \"matrimonios relámpago\" son un síntoma extremo de una crisis demográfica que se viene gestando desde hace mucho tiempo en China.",
-      "link": "https://www.bbc.com/mundo/articles/ckgvvq45pg9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 09:41:20 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7df/live/fe54cf90-a068-11f1-a9ee-9bb6b032b6a3.png"
     },
     {
       "id": "9fe4221aa61a6fb92c79",
@@ -1952,36 +2002,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/35LJDUCEPVBCFC3XJYX3NA3WE4.jpg?auth=7aa72c2950b1a54d598b163ff4408a533326e6a6836edc3051e7cec8d5381a06"
     },
     {
-      "id": "34c54a1b509faa99463d",
-      "title": "Los primeros pases de prueba de Godzilla x Kong: Supernova dejan reacciones muy reveladoras",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Godzilla x Kong: Supernova todavía guarda buena parte de sus secretos, pero las primeras impresiones procedentes de sus pases de prueba apuntan a un cambio que muchos seguidores del MonsterVerse llevaban tiempo reclamando: más seriedad, mayores consecuencias y una escala todavía más ambiciosa. Godzilla x Kong: Supernova convence en sus primeros pases de prueba El MonsterVerse lleva más de 2.500 millones de dólares recaudados en todo el mundo desde que Gareth Edwards devolvió a Godzilla a Hollywood en 2014, pero su evolución ha sido bastante evidente. Lo que empezó como una película de catástrofes oscura y relativamente contenida terminó abrazando sin complejos el espectáculo pulp en Godzilla x Kong: The New Empire. Godzilla x Kong: Supernova parece dispuesta a encontrar un punto intermedio. Warner Bros. y Legendary mantienen la película bajo bastante secreto mientras Grant Sputore trabaja en la postproducción, aunque los pases de prueba celebrados durante los últimos meses empiezan a ofrecer pistas interesantes. D Man1954 , conocido creador de contenido especializado en Godzilla, ha compartido información procedente de una proyección realizada en febrero a la que asistieron tres personas de su entorno. Conviene tomar estas impresiones con cautela. Estamos hablando de una versión preliminar de la película y todavía queda margen para cambios de montaje, efectos visuales e incluso escenas completas antes de su estreno. Dicho eso, las primeras reacciones son difíciles de ignorar. Las tres personas consultadas habrían salido satisfechas de la proyección y la recepción general en la sala habría sido muy positiva. Más interesante todavía es la comparación que aparece repetidamente: Supernova habría funcionado mejor que Godzilla x Kong: The New Empire y, para algunos asistentes, incluso podría superar a Godzilla vs. Kong. Godzilla x Kong: Supernova Un MonsterVerse más serio sin renunciar a las peleas de titanes L",
-      "link": "https://www.cinemascomics.com/pases-prueba-godzilla-x-kong-supernova/",
-      "pubDate": "Tue, 25 Aug 2026 03:01:48 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Godzilla-x-Kong.jpg"
-    },
-    {
-      "id": "827fc0e868610e2825a4",
-      "title": "Lanterns episodio 3: avance muestra Guardiana y máscara de Hal",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Para acompañar el avance del tercer episodio de Lanterns , DC Studios ha lanzado un nuevo póster de personaje y un anuncio promocional con Ulrich Thomsen como el villano Siniestro. El breve anuncio promocional incluye más del encuentro de Hal Jordan con su antiguo mentor, el cual presumiblemente abrirá el episodio de la próxima semana. El episodio 2 de Lanterns , «Trust Fall» (Salto de fe), ya está disponible en transmisión continuo, y HBO ha lanzado un avance para el tercer episodio de la próxima semana. Hemos visto a Hal Jordan con su traje de Linterna Verde algunas veces a estas alturas, pero los fanáticos se han estado preguntando si el héroe del anillo portará su clásica máscara de dominó. Parece que Jordan solía usar la máscara, como lo confirman las imágenes de archivo de las noticias, pero está por verse si se pondrá su traje completo en la línea temporal presente. El anuncio promocional también revela que sabremos más sobre el convulso pasado de John Stewart, a medida que el recluta del Cuerpo de Linternas Verdes se reúne con Laura Linney , quien debuta como una de las Guardianas del Universo. Hal Jordan usará su máscara en Lanterns John cree saber por qué lo eligieron los Guardianes , pero la advertencia de Siniestro a Hal en los momentos finales del episodio 2 sugiere que puede haber más detrás de la decisión de los supervisores extraterrestres de sumar al exmarine de lo que él se imagina. “Reconocí de inmediato la enormidad de la oportunidad y el regalo que representa conectar, en primer lugar, con este personaje y este mundo», declaró Aaron Pierre en una entrevista reciente con The Hollywood Reporter. «Y ser el primer [John Stewart] de acción real es algo de lo que también reconozco la magnitud”, afirma Pierre. “Así que fue muy desalentador, pero tengo la trayectoria y el hábito de buscar intencionalmente cosas que me inquietan”. Equipo creativo y detalles técnicos de Lanterns HBO en asociaci",
-      "link": "https://www.cinemascomics.com/lanterns-episodio-3-avance-guardiana-traje/",
-      "pubDate": "Tue, 25 Aug 2026 02:00:55 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/lanterns-backdrop-tmdb-1-1200x675.jpg"
-    },
-    {
-      "id": "63803b70a62a8abcc9ef",
-      "title": "Comienza el juicio decisivo contra Meta: “Sabían que sus plataformas perjudicaban a los jóvenes”",
-      "summary": "El fundador y consejero delegado de Meta, Mark Zuckerberg, a la salida de un juicio en California el pasado febrero.",
-      "link": "https://elpais.com/tecnologia/2026-08-18/comienza-el-juicio-decisivo-contra-meta-sabian-que-sus-plataformas-perjudicaban-a-los-jovenes.html",
-      "pubDate": "Tue, 18 Aug 2026 17:14:23 GMT",
-      "source": "El País Tech",
-      "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/6UL6ZIHKHBCP5FOHNEY6UBE4H4.jpg?auth=70e197d28546a60b101277d2104ce7b80ef0b475c1dc6007dbd70022785a880a"
-    },
-    {
       "id": "ad9ce0faba6a1a0dda82",
       "title": "Hemos analizado una década del comercio electrónico en España. Esto es lo que hemos aprendido",
       "summary": "Si nos sigues habitualmente, sabrás que solemos repasar los informes trimestrales que la CNMC publica periódicamente sobre el estado del comercio electrónico en España. Es, sin duda, la fuente de referencia más completa y fiable que tenemos sobre la marcha del sector y aprovechando que hace poco ha publicado el balance final de 2025 , hemos decidido echarle un vistazo en profundidad a la serie histórica de la última década. Y nos hemos llevado unas cuantas sorpresas . Por aquel entonces el eCommerce era muy distinto a como es actualmente, así que será un viaje en el tiempo muy interesante. Súbete al Delorean, que nos vamos. Tabla de contenidos: La facturación se ha multiplicado por 5,7 El número de operaciones creció más que la facturación Uno de cada cinco euros generados por negocios online tiene relación con el turismo Las actividades que más ingresos generan en el eCommerce español Principales motores del crecimiento La estacionalidad del eCommerce español, por trimestres El inmenso peso del comercio exterior en el eCommerce español La facturación se ha multiplicado por 5,7 Pongamos por delante las grandes cifras del comercio electrónico español. 2015 fue un año clave en la evolución del sector: fue la primera vez en la que se superó la barrera de los 20.000 millones de euros. Como puedes ver en el gráfico, la facturación del comercio electrónico en España se ha multiplicado por 5,7 entre 2015 y 2025, pasando de 20.013 a 114.812 millones de euros . Esto supone un asombroso crecimiento acumulado del 473,7%, a una tasa media anual compuesta del 19,1%. Por supuesto, este período ha tenido sus fases de mayor y menor crecimiento , y en general queda patente que la pandemia (2020-2022) alteró la serie temporal, aunque de una forma menos intuitiva que la podrías suponer en un principio. Así, a pesar del innegable impulso que experimentaron algunos verticales durante los meses de confinamiento, la aparición de la pandemia frenó la facturación total en lugar de dispararl",
@@ -2064,16 +2084,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/331c/live/9a9b0380-9edc-11f1-b054-07f783ef1041.jpg"
     },
     {
-      "id": "3f10f4af8a06a59459c8",
-      "title": "\"Nuestra amistad es tan fuerte que decidimos casarnos\": las amigas unidas por un vínculo platónico",
-      "summary": "Se conocieron cuando tenían 12 años y su amistad se fortaleció durante la pandemia de covid-19. Se describen como almas gemelas e insisten en que su relación no es sentimental.",
-      "link": "https://www.bbc.com/mundo/articles/cj03lyl6jzvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 09:27:51 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83a0/live/073bd510-9bdf-11f1-b109-879e35c24276.jpg"
-    },
-    {
       "id": "a0c9e3b09094d3877cb8",
       "title": "La palabra de Milei inundada de heces, Cerimedo preso y una elite que banca fuerte",
       "summary": "El Presidente, como en casa en el Council of the Americas. \"Sorete\" y \"mierda\", omnipresentes en el habla. Un círculo endogámico y ensimismado en su lucha para que no regrese \"el populismo\". Las terminales del estratega caído en Bolivia.",
@@ -2123,16 +2133,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/53e567d6-e6db-47e2-ae79-1d37ddae276a_16-9-discover-aspect-ratio_default_1126106.jpg"
-    },
-    {
-      "id": "1073e7e7dcb4f17738ee",
-      "title": "Ganador del Emmy explica por qué estamos equivocados con las películas de superhéroes",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Damon Lindelof cree que buena parte de las críticas contra las películas de superhéroes parten de una contradicción difícil de resolver: queremos adaptaciones fieles, pero al mismo tiempo exigimos que nos sorprendan. El productor de Lanterns y responsable de Watchmen defiende que cambiar el material original no solo es inevitable, sino parte esencial del trabajo creativo. Las películas de superhéroes llevan años atrapadas en una discusión que probablemente no tenga final. Cada nuevo Batman, Spider-Man, Superman o equipo de Marvel llega acompañado de comparaciones con los cómics, debates sobre personajes modificados y reproches cuando un director decide alejarse demasiado de lo escrito originalmente. Damon Lindelof conoce bastante bien ese terreno. Cocreador de Lost, guionista vinculado a franquicias como Star Trek, Star Wars y Alien, ganador del Emmy y productor ejecutivo de Lanterns, acaba de defender una idea que quizá no guste a los defensores de la fidelidad absoluta: adaptar una historia significa, precisamente, cambiarla. Damon Lindelof defiende que las películas de superhéroes deben asumir riesgos En una entrevista con The Hollywood Reporter, Lindelof reflexionó sobre la presión que existe alrededor de las películas de superhéroes. Para él, aceptar un proyecto basado en personajes que ya tienen décadas de historia implica asumir cierto atrevimiento, pero también una responsabilidad creativa. “Todos tenemos que reconocer que existe cierto nivel de arrogancia cuando decides trabajar con cualquier propiedad intelectual preexistente”, explicó. “Pero se llama adaptación. Se supone que el material original tiene que cambiar y evolucionar. Como consumidor y como alguien que crea estas cosas, casi existe una responsabilidad de asumir riesgos. No creo que nadie quiera verte ser completa y absolutamente fiel al material original porque, entonces, ni siquiera sería una adaptación”. La reflexión afecta directa",
-      "link": "https://www.cinemascomics.com/ganador-del-emmy-peliculas-de-superheroes/",
-      "pubDate": "Mon, 24 Aug 2026 22:01:53 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/07/Superman-y-Capitan-America.jpg"
     },
     {
       "id": "739d37bc59190ddf4045",
@@ -2328,16 +2328,6 @@
       "cat": "ia",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/doom-64-trazado-de-trayectorias.jpg",
       "subcat": "mercado"
-    },
-    {
-      "id": "db9c4a24b76a19522bef",
-      "title": "La serie fotográfica de pelirrojos que muestra un vínculo inesperado entre los estadounidenses",
-      "summary": "Para Kieran Dodds, fotografiar a personas pelirrojas se ha convertido en una especie de obsesión.",
-      "link": "https://www.bbc.com/mundo/articles/c5ywnnxldn2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 10:12:39 GMT",
-      "source": "BBC Mundo",
-      "cat": "cinema",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ced7/live/53d97850-9fa4-11f1-bff6-57f1422ebb0b.jpg"
     },
     {
       "id": "8112bfe683688ef39d5c",
@@ -2568,5 +2558,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-26T16:43:11.764417+00:00"
+  "updated": "2026-08-26T19:41:12.637614+00:00"
 }
