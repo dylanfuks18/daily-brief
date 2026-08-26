@@ -1,6 +1,286 @@
 {
   "articles": [
     {
+      "id": "bdcf74e621dfef845dd1",
+      "title": "El Celta ofrece una mejora salarial a Javi Rueda y rechaza la oferta del Nottingham Forest",
+      "summary": "Javi Rueda, durante un partido con el Celta",
+      "link": "https://www.marca.com/futbol/celta/2026/08/26/celta-ofrece-mejora-salarial-javi-rueda-rechaza-oferta-nottingham-forest.html",
+      "pubDate": "Wed, 26 Aug 2026 18:38:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f16127da10.jpeg"
+    },
+    {
+      "id": "e37984751e346cb454a3",
+      "title": "Muere Tim Curry, reconocido por 'The Rocky Horror Picture Show' o interpretar al payaso en 'It'",
+      "summary": "Tim Curry.",
+      "link": "https://www.marca.com/tiramillas/cine/2026/08/26/muere-tim-curry-reconocido-the-rocky-horror-picture-show-interpretar-payaso-pennywise-it-80-anos.html",
+      "pubDate": "Wed, 26 Aug 2026 18:34:48 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f1626433ae.jpeg"
+    },
+    {
+      "id": "625c39e76e64e25b03a9",
+      "title": "Mourinho vuelve al Bernabéu 13 años después",
+      "summary": "sdfsddffsd",
+      "link": "https://www.marca.com/futbol/primera-division/2026/08/26/01-0101-20260826-186-188.html",
+      "pubDate": "Wed, 26 Aug 2026 18:22:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f15120ec35.jpeg"
+    },
+    {
+      "id": "56fb853399562d0f7055",
+      "title": "Se acabó el lío: Stan Wawrinka disputará el US Open",
+      "summary": "Stan Wawrinka.",
+      "link": "https://www.marca.com/tenis/2026/08/26/acabo-lio-stan-wawrinka-disputara-us-open.html",
+      "pubDate": "Wed, 26 Aug 2026 18:19:06 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0ff5414e1.jpeg"
+    },
+    {
+      "id": "44fe3c5a8108af070658",
+      "title": "La UEFA pondrá fin al boicot a la FIFA",
+      "summary": "Una imagen de Infantino con Ceferin",
+      "link": "https://www.marca.com/futbol/2026/08/26/uefa-pondra-boicot-fifa.html",
+      "pubDate": "Wed, 26 Aug 2026 18:15:51 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f112c7251c.jpeg"
+    },
+    {
+      "id": "5897037cd2995a4be2a0",
+      "title": "La última de Medvedev: \"Debería dedicarme al pickleball...\"",
+      "summary": "El ruso Daniil Medvedev, número ocho del mundo y favorito, comentó que estaba considerando cambiar de carrera y dedicarse al pickleball, durante el Winston Salem Open el martes 25 donde cayó este martes en su debut ante el estadounidense Martin Damm, número 92, que lo venció por 7-5 y 6-3.",
+      "link": "https://www.marca.com/tenis/2026/08/26/deberia-dedicarme-pickleball-daniil-medvedev-caer-atp-winston-salem-open-video.html",
+      "pubDate": "Wed, 26 Aug 2026 18:12:53 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlbh61gZn1DNp7_sy.jpeg"
+    },
+    {
+      "id": "506a52f492ad36647136",
+      "title": "A tumba abierta by AMIX: \"Las avipas van a picar lo que quieran en esta Vuelta\"",
+      "summary": "A tumba abierta by AMIX con José Rodríguez y Nacho Labarga.",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/26/tumba-abierta-by-amix-avipas-picar-quieran-vuelta.html",
+      "pubDate": "Wed, 26 Aug 2026 17:56:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/01/16/696a2f094089f.jpeg"
+    },
+    {
+      "id": "341c3a835ccc10749c2a",
+      "title": "Julián ve por primera vez que su única opción es el Arsenal",
+      "summary": "Julián abandona el Metropolitano solo.",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/26/julian-ve-primera-vez-unica-opcion-arsenal.html",
+      "pubDate": "Wed, 26 Aug 2026 17:48:12 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0776d8f69.jpeg"
+    },
+    {
+      "id": "498ff9b3aa0698b22ca2",
+      "title": "Tragedia en Nepal y Tibet con las inundaciones repentinas: imágenes muy sensibles",
+      "summary": "Una terrible riada en la frontera entre Nepal y el Tibet ha provocado el caos, dejando miles de afectados y cerca de 500 turistas en paradero desconocido.",
+      "link": "https://www.marca.com/tiramillas/2026/08/26/tragedia-nepal-tibet-inundaciones-repentinas-imagenes-sensibles-video.html",
+      "pubDate": "Wed, 26 Aug 2026 17:47:48 +0200",
+      "source": "Marca",
+      "cat": "poleco",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlXvA1gZm1nqom8gY.jpeg"
+    },
+    {
+      "id": "bd5076370dc801b4740f",
+      "title": "El Cádiz irrumpe por Manuel Ángel y el Madrid baja a cuatro millones",
+      "summary": "Manuel Ángel, durante un entrenamiento del Castilla.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/cadiz-irrumpe-manuel-angel-madrid-baja-cuatro-millones.html",
+      "pubDate": "Wed, 26 Aug 2026 17:46:22 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0a1d227d0.jpeg"
+    },
+    {
+      "id": "24b7ba976a02963398d4",
+      "title": "Carlota Reig, periodista, desvela los motivos por los que deja La Sexta: \"Llevaba tiempo dándole vueltas\"",
+      "summary": "Carlota Reig en LaSexta.",
+      "link": "https://www.marca.com/tiramillas/television/2026/08/26/carlota-reig-periodista-desvela-motivos-deja-sexta-llevaba-dandole-vueltas.html",
+      "pubDate": "Wed, 26 Aug 2026 17:42:52 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/25/6a8d34960a3aa.jpeg"
+    },
+    {
+      "id": "0f887000538787942b83",
+      "title": "El misil de LaVuelta es Brennan",
+      "summary": "Brennan se impone",
+      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/26/misil-lavuelta-brennan.html",
+      "pubDate": "Wed, 26 Aug 2026 17:35:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f06fb317ec.jpeg"
+    },
+    {
+      "id": "762b71f7887eaa6d01e1",
+      "title": "Palhinha abandona el Bayern... y traiciona al Sporting",
+      "summary": "Palhinha posa con su carnet de socio del Benfica",
+      "link": "https://www.marca.com/futbol/bundesliga/2026/08/26/palhinha-abandona-bayern-traiciona-sporting-cp.html",
+      "pubDate": "Wed, 26 Aug 2026 17:33:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f0747bcdcc.jpeg"
+    },
+    {
+      "id": "8bda1802188500b6641c",
+      "title": "Wildcard para las Williams en Nueva York",
+      "summary": "Serena y Venus Williams en Cincinnati.",
+      "link": "https://www.marca.com/tenis/2026/08/26/aventura-serena-nueva-york-terminado-wildcard-williams.html",
+      "pubDate": "Wed, 26 Aug 2026 17:26:25 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f056649f9d.jpeg"
+    },
+    {
+      "id": "ee1583c1c2daeb9ad43b",
+      "title": "Petr Yan vs Merab Dvalishvili 3, un combate de legado: \"Si me gana, será el mejor de la historia\"",
+      "summary": "Petr Yan, con el cinturón de peso gallo tras ganar a Merab Dvalishvili.",
+      "link": "https://www.marca.com/combates-ufc/2026/08/26/petr-yan-vs-merab-dvalishvili-3-combate-legado-me-gana-sera-mejor-historia.html",
+      "pubDate": "Wed, 26 Aug 2026 17:26:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/12/07/693525ce5ef17.jpeg"
+    },
+    {
+      "id": "fd062510e47e58945d48",
+      "title": "Xabi ‘descongela’ a Palmer: “No es fácil contar con un talento así”",
+      "summary": "Palmer celebra su gol ante el Fulham junto a Reece James y Joao Pedro",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/26/xabi-descongela-palmer-facil-contar-talento-asi.html",
+      "pubDate": "Wed, 26 Aug 2026 17:21:44 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f033e3c9ee.jpeg"
+    },
+    {
+      "id": "d148b06242efeea99eb9",
+      "title": "Así describieron los jugadores del Real Madrid al estadio Bernabéu en una sola palabra",
+      "summary": "Hoy juega el Real Madrid ante la Real Sociedad en su regreso a casa, jugando ahora en el mítico Bernabéu y estás son las respuestas de la plantilla merengue sobre la definición del estadio Bernabéu en una sola palabra.",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/asi-describieron-jugadores-real-madrid-estadio-bernabeu-sola-palabra-video.html",
+      "pubDate": "Wed, 26 Aug 2026 17:20:50 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlYLM1gZmGdj8p0yC.jpeg"
+    },
+    {
+      "id": "57108699aa3e6394ec25",
+      "title": "Héctor Fort se va a la Real",
+      "summary": "Héctor Fort, en el partido que jugó la pasada campaña con el Elche contra el Barcelona.",
+      "link": "https://www.marca.com/futbol/real-sociedad/2026/08/26/llegada-hector-fort-estaria-cerrada.html",
+      "pubDate": "Wed, 26 Aug 2026 17:11:18 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8f01fb0459a.jpeg"
+    },
+    {
+      "id": "9cb60530c04ac6cba155",
+      "title": "Las nuevas normas empiezan a dar más minutos al balón",
+      "summary": "El Valencia - Celta fue el partido con mayor juego efectivo en LaLiga",
+      "link": "https://www.marca.com/futbol/2026/08/26/nuevas-normas-empiezan-dar-minutos-balon.html",
+      "pubDate": "Wed, 26 Aug 2026 17:07:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ef9e4ab98b.png"
+    },
+    {
+      "id": "85e421f1cccf6df3b29a",
+      "title": "¡Rice prometió comer arroz de por vida! Trato o no trato con Declan Rice, la dinámica en los premios PFA",
+      "summary": "El jugador del Arsenal, se vió comprometido en un juego de preguntas de trato o no trato durante los premios en Inlgaterra de PFA. También mencionaron los jugadores de la plantilla Gunner hasta quedarse sin opciones.",
+      "link": "https://www.marca.com/futbol/premier-league/2026/08/26/rice-prometio-comer-arroz-vida-trato-trato-declan-rice-dinamica-premios-pfa-video.html",
+      "pubDate": "Wed, 26 Aug 2026 17:05:33 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlX561gZm0ymerU7a.jpeg"
+    },
+    {
+      "id": "cffea023d8a698eed484",
+      "title": "¡Todo sea por la foto! Kimi Antonelli en modo arácnido.",
+      "summary": "El piloto italiano esta disfrutando junto con su equipo de Mercedes, sus últimos días de parón previo al Madring. Está vez, intento y consiguió una fotografia estilo spiderman.",
+      "link": "https://www.marca.com/motor/2026/08/26/sea-foto-kimi-antonelli-aracn-video.html",
+      "pubDate": "Wed, 26 Aug 2026 16:49:47 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlVt21gZloKSilhtI.jpeg"
+    },
+    {
+      "id": "903ba9f22dd70a393db1",
+      "title": "VIDEO: Dron de Amazon deja caer un paquete dentro de una piscina",
+      "summary": "Un dron de reparto de Amazon dejó caer la semana pasada un paquete en una piscina, en una casa en Richmond, Texas (EE.UU.). Lindsey Austen relató que recibió una alerta de que su mercancía estaba disponible para entrega por dron en el programa Prime Air de la empresa; no obstante, al momento de llegar, escuchó el zumbido del aparato, salió y vio como este abría la escotilla y dejaba caer el bulto en la piscina. \"No creo que quiera más entregas con drones\", dijo la usuaria.",
+      "link": "https://actualidad.rt.com/viral/624334-dron-amazon-lanza-paquete-piscina?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 16:39:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0fa6e9ff716a715b24c1.jpg"
+    },
+    {
+      "id": "ebc36fe0bbf62c1f02d7",
+      "title": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adolescentes a sus herramientas",
+      "summary": "Mark Zuckerberg, CEO de Meta, en los juzgados de Los Ángeles, el pasado febrero.",
+      "link": "https://elpais.com/tecnologia/2026-08-26/meta-pagara-casi-17000-millones-de-dolares-para-resolver-las-demandas-por-la-adiccion-de-los-adolescentes-a-sus-herramientas.html",
+      "pubDate": "Wed, 26 Aug 2026 16:39:04 GMT",
+      "source": "El País Tech",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/XKQBSX4ULBH5JIPGGAOVTOKGJA.jpg?auth=3fa8fe8b40aa3f69366019eeaa97cfa3799b59001d4a61b50f365b5daacd2448"
+    },
+    {
+      "id": "34edcfc679d94fd2d9b5",
+      "title": "Mariona Caldentey, incluida en el once ideal de la WSL 2025/26",
+      "summary": "Bunny Shaw, del Manchester City, fue elegida la mejor jugadora del campeonato inglés tomando el relevo de la mallorquina",
+      "link": "https://www.marca.com/futbol/futbol-femenino/2026/08/26/mariona-caldentey-incluida-once-ideal-wsl-2025-26.html",
+      "pubDate": "Wed, 26 Aug 2026 16:38:28 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/12/aawBc1ft0AIVkKPgR.jpeg"
+    },
+    {
+      "id": "d9a32bc09599c6fa8ab1",
+      "title": "Trump: La sharía es \"una segunda forma de vida\" en Londres y París",
+      "summary": "\"Nos guiamos más por el sentido común que por la ideología\", señaló el presidente de EE.UU.",
+      "link": "https://actualidad.rt.com/actualidad/624321-trump-sharia-forma-vida-londres-paris?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 16:33:11 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f049359bf5b7f2c128ed9.jpg"
+    },
+    {
+      "id": "950de35b46cd17c2029e",
+      "title": "\"Ha hecho un extraordinario trabajo\": las alabanzas de Sheinbaum a un presidente latinoamericano",
+      "summary": "La presidenta explicó por qué no pudo realizar una gira internacional.",
+      "link": "https://actualidad.rt.com/actualidad/624330-extraordinario-trabajo-alabanzas-sheinbaum-presidente-latinoamericano?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 16:25:55 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0add59bf5b6d4c2cb391.jpg"
+    },
+    {
+      "id": "44ce4acbc6bb267d1eb1",
+      "title": "Inesperado desenlace en el caso de un indígena reportado como muerto en Perú",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/624324-inesperado-desenlace-caso-indigena-reportado-muerto?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 16:25:19 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "eeeba93f6cca4dcff445",
+      "title": "Apple confirma el evento del iPhone Ultra y los iPhone 18 Pro: fecha, hora y qué esperar",
+      "summary": "Apple acaba de lanzar las invitaciones para su esperado evento de septiembre , donde los principales rumores apuntan a que conoceremos a los iPhone 18 Pro y Pro Max, junto con el nuevo iPhone Ultra , el primer plegable de la compañía. El eslogan de la presentación es Surprise and shine , o \"sorpresa y brillo\". Tal y como se rumoreaba, el evento de los iPhone 18 Pro/Pro Max y iPhone Ultra se llevará a cabo el miércoles 9 de septiembre en el Apple Park. Como ya es costumbre de este tipo de lanzamientos, las acciones tendrán lugar en el Teatro Steve Jobs. El horario de inicio de la presentación tampoco sufre modificaciones respecto de eventos anteriores de Apple. La introducción de los nuevos iPhone (y demás productos) se concretará a partir de las 10:00, hora del Pacífico ; es decir, las 19:00 de España, las 14:00 de Argentina y las 11:00 de México. Las invitaciones para el evento del iPhone Ultra y los iPhone 18 Pro muestra el logo de Apple con un fondo celeste cielo y el sol que lo atraviesa e ilumina. Con el correr de las horas, no faltarán las interpretaciones de supuestas pistas o mensajes escondidos en la imagen. El evento Surprise and shine no solo será especial por introducir versiones renovadas del iPhone, incluyendo un nuevo factor de forma, sino también porque será el primero bajo la conducción de John Ternus como CEO. Tengamos en cuenta que el sucesor de Tim Cook tomará las riendas de la compañía de forma oficial unos pocos días antes, el próximo martes 1 de septiembre. Como sucede habitualmente, los rumores apuntan a que Apple aprovechará el evento de septiembre para presentar varios productos, no solo los nuevos iPhone. Es cierto que los móviles son las estrellas del show, y este año tienen más motivos que nunca para serlo, pero también habría lugar para más lanzamientos de hardware. Nuevos iPhone Ultra, iPhone 18 Pro/Pro Max y más: qué veremos en el evento de septiembre Sobre los móviles en sí, todo apunta a que el iPhone Ultra intentará ganarse un luga",
+      "link": "https://hipertextual.com/apple/apple-fecha-confirmada-evento-iphone-18-pro-y-iphone-ultra/",
+      "pubDate": "Wed, 26 Aug 2026 16:24:41 +0000",
+      "source": "Hipertextual",
+      "cat": "tech",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Evento-iPhone-18-pro.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
       "id": "ffcdfdd6a75d5d0407c0",
       "title": "España cae ante Portugal y ve esfumarse sus opciones de clasificación en el Europeo",
       "summary": "La Selección Española de Voleibol.",
@@ -9,6 +289,76 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ef6a06c3ca.jpeg"
+    },
+    {
+      "id": "63b2a1682e4fd49901b2",
+      "title": "Qué es una riada y por qué puede arrasar pueblos enteros en minutos: el fenómeno que golpeó a Nepal",
+      "summary": "La rapidez del fenómeno complicó la evacuación y agravó el impacto sobre las poblaciones y la infraestructura. Las imágenes del desastre en Nepal muestran la fuerza de crecida repentina puede afectar el Himalaya.",
+      "link": "https://www.clarin.com/informacion-general/riada-puede-arrasar-pueblos-enteros-minutos-fenomeno-golpeo-nepal_0_QmItMtVyCm.html",
+      "pubDate": "Wed, 26 Aug 2026 16:16:06 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2026/08/26/Zg0p_SQSd_1200x630__1.jpg"
+    },
+    {
+      "id": "17ed07b91463961ae8b6",
+      "title": "Instaló 50 turbinas eólicas en su campo de 7.000 acres mientras las vacas seguían pastando alrededor para sumar un negocio exitoso: genera electricidad para 60 mil hogares",
+      "summary": "Pete Ferrell cría ganado en una propiedad familiar de Kansas, Estados Unidos. Pero desde 2005 obtiene cerca de la mitad de sus ingresos de la energía eólica.",
+      "link": "https://www.clarin.com/estados-unidos/instalo-50-turbinas-eolicas-campo-7000-acres-vacas-seguian-pastando-alrededor-sumar-negocio-exitoso-genera-electricidad-60-mil-hogares_0_qWKR5i5U4O.html",
+      "pubDate": "Wed, 26 Aug 2026 16:15:56 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/YFN6h0-iW_1200x630__1.jpg"
+    },
+    {
+      "id": "f837794844a6799562e0",
+      "title": "Al menos 50 heridos al estallar material pirotécnico en el inicio de las fiestas de Noáin (Navarra)",
+      "summary": "Momento del chupinazo de las fiestas de Noáin (Navarra), este miércoles.",
+      "link": "https://elpais.com/espana/2026-08-26/varios-heridos-al-estallar-material-pirotecnico-en-el-inicio-de-las-fiestas-de-noain-navarra.html",
+      "pubDate": "Wed, 26 Aug 2026 16:12:50 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/FXZBOPL6FBEHBN7JE33X3ZKRYQ.jpg?auth=1e7dd012a1fbb2933c5e03283e48cc818ae011188e1afa841bcb555e275002dd"
+    },
+    {
+      "id": "bd8b085ad742606f210b",
+      "title": "Leyendas del fútbol sudamericano dan espaldarazo a Infantino: ¿quiénes lo apoyan?",
+      "summary": "El mensaje es contrario al de ciertas estrellas del fútbol europeo, quienes urgieron un \"cambio necesario\" en la presidencia del fútbol mundial.",
+      "link": "https://actualidad.rt.com/actualidad/624316-leyendas-futbol-sudamericano-espaldarazo-infantino?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 16:11:44 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f01d7e9ff714a541ae557.jpg"
+    },
+    {
+      "id": "b1b2a2561b1c1ba8fd50",
+      "title": "Endeudamiento familiar: la oposición en Diputados no pudo incluir sus proyectos en medio de una sesión caliente",
+      "summary": "Varios bloques opositores presentaron expedientes para abordar el tema, pero no alcanzaron los votos necesarios para incorporar las iniciativas al debate parlamentario. \"Algunos de estos proyectos no tienen costo fiscal\", había enfatizado el legislador Pablo Juliano. Su colega Germán Martínez señaló que la problemática de la mora familiar abarca a seis millones de personas.",
+      "link": "https://www.clarin.com/politica/endeudamiento-familiar-oposicion-diputados-pudo-incluir-proyectos-medio-sesion-caliente_0_H1VADrZZdw.html",
+      "pubDate": "Wed, 26 Aug 2026 16:10:07 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/08/26/FJYZ3CYG7_1200x630__1.jpg"
+    },
+    {
+      "id": "bea5216c99536c3e2c92",
+      "title": "El Mono Fontana se presenta en la tercera jornada de \"CET Sessions\", un ciclo experimental del Colón en un marco de intimidad con el público",
+      "summary": "Este miércoles 26, a las 20.30, Juan Carlos \"Mono\" Fontana, figura fundamental de la música popular argentina, desplegará su arte con teclados y sintetizadores. Cómo fueron las otras dos sesiones.",
+      "link": "https://www.clarin.com/espectaculos/mono-fontana-presenta-tercera-jornada-cet-sessions-ciclo-experimental-colon-marco-intimidad-publico_0_v4Ghc98vT8.html",
+      "pubDate": "Wed, 26 Aug 2026 16:09:39 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/GtaZGkXm5_1200x630__1.jpg"
+    },
+    {
+      "id": "c4820e684f848326fe77",
+      "title": "Trump bromea (o quizá no) con convertir el lago Ontario en \"lago América\"",
+      "summary": "\"El último caso fue el golfo de México. Ahora es el golfo de América\", declaró el mandatario estadounidense.",
+      "link": "https://actualidad.rt.com/actualidad/624318-trump-bromea-o-quiza-convertir?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 16:08:35 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f040959bf5b766d1c2c87.jpg"
     },
     {
       "id": "e48f0252ace8d567d8ae",
@@ -21,14 +371,14 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/1gZj5v1xMhjS.jpeg"
     },
     {
-      "id": "537469885bbd89446b2c",
-      "title": "Meta pagará hasta 16.680 millones para cerrar la demanda sobre la adicción de menores a las redes",
-      "summary": "\"There will come a point where your smartphone will be in your pocket more than out,\" he argues.",
-      "link": "https://www.marca.com/tiramillas/economia/2026/08/26/meta-pagara-16-680-millones-cerrar-demandas-sobre-adiccion-menores-redes.html",
-      "pubDate": "Wed, 26 Aug 2026 16:02:32 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/08/29/XkX5S1eANVQRbvDXy.jpeg"
+      "id": "447dbf36868cde74f18e",
+      "title": "La Fiscalía pide mantener la imputación de Jésica Rodríguez, expareja de Ábalos",
+      "summary": "La expareja de José Luis Ábalos, Jésica Rodríguez, a su llegada a la Audiencia Nacional el pasado julio.",
+      "link": "https://elpais.com/espana/2026-08-26/la-fiscalia-pide-mantener-la-imputacion-de-jesica-rodriguez-expareja-de-abalos.html",
+      "pubDate": "Wed, 26 Aug 2026 16:03:26 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/WS24QUL765O7BLWWEQAXUZVMMQ.jpg?auth=80e86ea0231f28caf8775a3e614923153fdd8c3b2a4bfb4325f19ea45b0db368"
     },
     {
       "id": "2187997095422dd95e88",
@@ -41,6 +391,66 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/24/6a8bf8bbd3f0b.jpeg"
     },
     {
+      "id": "0d1568184b4873bdb9cd",
+      "title": "Alfonso, profesor español que enseñó en Reino Unido: “La educación en España, comparada con otros países, es una maravilla”",
+      "summary": "Al volver de Inglaterra, el docente de 30 años contó cómo fue su experiencia dando clases en el extranjero. El joven, con un máster en ingeniería genética, destacó la forma de evaluación en las escuelas de su país natal y la contrapuso con la de la nación anglosajona.",
+      "link": "https://www.clarin.com/internacional/alfonso-profesor-espanol-enseno-reino-unido-educacion-espana-comparada-paises-maravilla_0_AANVXiRCji.html",
+      "pubDate": "Wed, 26 Aug 2026 16:01:35 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/kY0RZF3QI_1200x630__1.jpg"
+    },
+    {
+      "id": "081186041fd0003c6adb",
+      "title": "Videoaficionado graba escena de película del robo a un banco a plena luz del día (VIDEO)",
+      "summary": "Una escena de película se vivió a la salida de una sucursal del Banco República, en la ciudad uruguaya de Pando (Canelones), cuando cuatro delincuentes salieron a plena luz del día encapuchados y armados del lugar tras cometer un atraco. En el video, hecho por un peatón, se muestra cuando los hombres suben a un auto y escapan rápidamente del lugar.",
+      "link": "https://actualidad.rt.com/viral/624315-grabar-escena-pelicula-robo-banco?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 15:57:34 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f05c0e9ff711a2576247a.jpg"
+    },
+    {
+      "id": "f517f587395541d6f93b",
+      "title": "Muere a los 80 años el actor Tim Curry, la estrella de ‘The Rocky Horror Picture Show’",
+      "summary": "Tim Curry, en Nueva York en 2011.",
+      "link": "https://elpais.com/cultura/cine/2026-08-26/muere-a-los-80-anos-el-actor-tim-curry-la-estrella-de-the-rocky-horror-picture-show.html",
+      "pubDate": "Wed, 26 Aug 2026 15:54:21 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/MH4IAMCBLNJ6VCXJGO5NGNMBIE.jpg?auth=ade9615d41801e467ea14274eec0a097ddc0ff0f0e1a71100e970f93e10246ea"
+    },
+    {
+      "id": "1b7526ec1141fb7d7663",
+      "title": "¿Cómo viene la tormenta de Santa Rosa?: anticipan tormentas, lluvias y heladas para gran parte del país",
+      "summary": "Pronostican mal tiempo y el ingreso de vientos polares. Cuántos milímetros se esperan en las distintas regiones del área agrícola.",
+      "link": "https://www.clarin.com/rural/viene-tormenta-santa-rosa-anticipan-tormentas-lluvias-heladas-gran-parte-pais_0_Q55LrYGD6f.html",
+      "pubDate": "Wed, 26 Aug 2026 15:52:26 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/OHoqE4mQo_1200x630__1.jpg"
+    },
+    {
+      "id": "55347009339d657f04d4",
+      "title": "Inundaciones catastróficas en el Himalaya: hay numerosos muertos y desaparecidos (VIDEOS)",
+      "summary": "Reportan más de 400 turistas desaparecidos y puentes destruidos en la frontera de Nepal con el Tíbet.",
+      "link": "https://actualidad.rt.com/actualidad/624307-muertos-reportados-nepal-inundaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 15:51:04 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f05efe9ff711a2576247f.jpg"
+    },
+    {
+      "id": "8ccdf1df25ae4328fe29",
+      "title": "Vicky Martín Berrocal, diseñadora de modas: \"Hay una soledad de la que casi nadie habla, la soledad de la mujer que aparentemente puede con todo\"",
+      "summary": "La diseñadora y empresaria española reflexionó sobre la presión que muchas mujeres sienten para sostener a los demás mientras dejan sus propias necesidades en segundo plano. “Es la soledad de la mujer que trabaja, la que cuida, la que sonríe, la que siempre te dice que está bien”, planteó.",
+      "link": "https://www.clarin.com/internacional/vicky-martin-berrocal-disenadora-modas-53-anos-soledad-nadie-habla-soledad-mujer-aparentemente-puede-soledad-mujer-trabaja-cuida-sonrie-siempre-dice-bien-luego-llega-casa-sienta-sola-silencio_0_2mJscwJh2F.html",
+      "pubDate": "Wed, 26 Aug 2026 15:50:54 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/26/3U_4yxlFd_1200x630__1.jpg"
+    },
+    {
       "id": "457dc53acf91102aae34",
       "title": "Renault actualiza el 5 eléctrico y le permite jugar a ser un Clio Williams",
       "summary": "El Renault 5 se podrá configurar ahora... como un Clio Williams.",
@@ -49,6 +459,46 @@
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec9bd21036.jpeg"
+    },
+    {
+      "id": "49dbf1d2dadaae123162",
+      "title": "Estados demócratas presentan nueva demanda para bloquear orden de Trump sobre voto por correo",
+      "summary": "Estados liderados por opositores al gobierno demandan la orden que limita el sufragio postal, en medio de preparativos electorales avanzados. La nueva regulación exige aprobación federal para sobres y listas de votantes, lo que genera controversia y desafíos legales en varios estados.",
+      "link": "https://www.clarin.com/estados-unidos/estados-democratas-presentan-nueva-demanda-para-bloquear-orden-de-trump-sobre-voto-por-correo_0_d2J717U5Gj.html",
+      "pubDate": "Wed, 26 Aug 2026 15:50:04 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
+    },
+    {
+      "id": "7d44c8fec0933c9a8997",
+      "title": "Otro cambio en el caso por los Cuadernos: mudan el tribunal al edificio de Comodoro Py",
+      "summary": "El TOF 7, que tiene a cargo las audiencias por el circuito de sobornos a proveedores y contratistas durante los doce años K, es el único tribunal federal que no funcionaba en Retiro. Esperan que el traslado, en septiembre, acelere el juicio contra Cristina Kirchner y los demás imputados.",
+      "link": "https://www.clarin.com/politica/cambio-caso-cuadernos-mudan-tribunal-edificio-comodoro-py_0_J55w0lDT0Z.html",
+      "pubDate": "Wed, 26 Aug 2026 15:49:23 +0000",
+      "source": "Clarin",
+      "cat": "ar_pol",
+      "image": "https://www.clarin.com/img/2026/08/26/XAgifWawf_1200x630__1.jpg"
+    },
+    {
+      "id": "7885cea0fa7c5a0e942b",
+      "title": "Murió Tim Curry, la estrella de \"It\" y \"The Rocky Horror Picture Show\", a los 80 años",
+      "summary": "El actor había sufrido un grave derrame cerebral en 2012. Inmortalizó, entre otros personajes memorables, al Dr. Frank-N-Furter en el musical de Richard O'Brien.",
+      "link": "https://www.clarin.com/internacional/murio-tim-curry-estrella-it-the-rocky-horror-picture-show-80-anos_0_TtWGBDRFqf.html",
+      "pubDate": "Wed, 26 Aug 2026 15:47:45 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/08/26/utWo4F_t8_1200x630__1.jpg"
+    },
+    {
+      "id": "a71aaa44d5a6fcab0abf",
+      "title": "Inundación en Nepal: un centenar de muertos y varios desaparecidos",
+      "summary": "Una terrible riada en la frontera entre Nepal y el Tibet ha provocado el caos, dejando miles de afectados y cerca de 500 turistas en paradero desconocido.",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/26/inundacion-nepal-384-viajeros-permanecen-desaparecidos.html",
+      "pubDate": "Wed, 26 Aug 2026 15:47:38 +0200",
+      "source": "Marca",
+      "cat": "poleco",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlXvA1gZm1nqom8gY.jpeg"
     },
     {
       "id": "efb452a032524d2d147a",
@@ -61,24 +511,74 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8eed5a85144.jpeg"
     },
     {
-      "id": "93bd6459298830d4bf6e",
-      "title": "Óscar Puente sigue a la carga contra Ryanair: \"Dejad de engañar a la gente\"",
-      "summary": "Óscar Puente sigue a la carga contra Ryanair",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/26/oscar-puente-sigue-carga-ryanair-dejad-enganar-gente-noticias-2024-2025-son-obsoletas-efectos-pretendeis.html",
-      "pubDate": "Wed, 26 Aug 2026 15:12:34 +0200",
-      "source": "Marca",
+      "id": "721e012b6bd11df9f695",
+      "title": "Ucrania ataca a civiles con misiles en la ciudad rusa de Donetsk",
+      "summary": "Tres personas, incluido un niño, sufrieron heridas de diversa gravedad, informó el jefe de la República Popular de Donetsk.",
+      "link": "https://actualidad.rt.com/actualidad/624322-ucrania-misiles-civiles-donetsk?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 15:39:42 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0a9b59bf5b6d2b27b40b.jpg"
+    },
+    {
+      "id": "106f5e48792320ed48fe",
+      "title": "Un deslave en la frontera entre Nepal y Tíbet deja al menos 95 muertos y centenares de desaparecidos, entre ellos 341 turistas extranjeros",
+      "summary": "Las autoridades locales admiten que la cifra de víctimas podría crecer y que los daños causados por el suceso son cuantiosos.",
+      "link": "https://www.bbc.com/mundo/articles/cje83dn5480o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 15:32:26 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3667/live/150d6670-a163-11f1-81f3-a1eb67c44aaf.jpg"
+    },
+    {
+      "id": "e7bbbdd730ceaa51ef28",
+      "title": "Muere la estrella del cine Tim Curry",
+      "summary": "El protagonista de 'Eso, el payaso asesino' padecía de graves problemas de salud desde hace más de una década.",
+      "link": "https://actualidad.rt.com/actualidad/624328-muere-famoso-actor-estadounidense-tim-curry?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Wed, 26 Aug 2026 15:31:50 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8f0dc559bf5b7f355eae9a.jpg"
+    },
+    {
+      "id": "9a8656e769531ba3fa55",
+      "title": "El Barça cancela el homenaje a los campeones del Mundial y lo cambia por uno de “exaltación” de la bandera independentista",
+      "summary": "Joan Laporta, presidente del FC Barcelona, en la presentación de eventos por el centenario del club, el lunes.",
+      "link": "https://elpais.com/espana/catalunya/2026-08-26/el-barca-cancela-el-homenaje-a-los-campeones-del-mundial-tras-el-incidente-con-la-policia-en-elche.html",
+      "pubDate": "Wed, 26 Aug 2026 15:22:48 GMT",
+      "source": "El Pais",
       "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee2bcf25e6.jpeg"
+      "image": "https://imagenes.elpais.com/resizer/v2/KB32SVUFHJFVVA7GUQOZUWWU6M.jpg?auth=626ecfc9e8aef36a7fe4da61b753b47ef9084400dd351d2c01335327e2f95ec5"
+    },
+    {
+      "id": "de88cdc0a71e954d9f64",
+      "title": "La muerte sin resolver de un hombre golpeado con una piedra en León empieza a ver la luz a los tres meses: detienen a su sobrina y su pareja",
+      "summary": "Una finca de cerezos en la zona de El Bierzo 8León).",
+      "link": "https://elpais.com/espana/madrid/2026-08-26/la-detencion-de-una-mujer-y-de-su-pareja-aclara-un-crimen-sin-resolver-desde-mayo-en-leon.html",
+      "pubDate": "Wed, 26 Aug 2026 15:14:59 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/XPBWN5KXV5AC3EMMFM6QVSIG4U.jpg?auth=df0e3348cdd59b1ace275cabba4d0d3efe0c74373ef531f4a819ecb4e8653847"
     },
     {
       "id": "5a15b24c0535e50617de",
-      "title": "El Barça suspende el homenaje a los campeones: habrá un acto de exaltación de la estelada",
+      "title": "El Barça suspende el homenaje a los campeones del mundo: habrá un acto de exaltación de la estelada",
       "summary": "SEGUNDA SEMIFINAL SUPERCOPA DE ESPAÑA 2020 FC BARCELONA-ATLETICO DE MADRID BANDERA ESTELADA",
       "link": "https://www.marca.com/futbol/barcelona/2026/08/26/barca-suspende-homenaje-campeones-mundo-sustituye-acto-exaltacion-estelada.html",
       "pubDate": "Wed, 26 Aug 2026 15:10:16 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee74eaac7a.jpeg"
+    },
+    {
+      "id": "b41c4528b8c6c77cb3b9",
+      "title": "Al menos 98 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada y deslizamientos de tierra entre Nepal y Tíbet",
+      "summary": "Vista aérea de varias viviendas dañadas en Trishuli Bazar, en Nepal, tras la riada repentina que ha afectado este miércoles a los distritos nepalíes de Rasuwa y Nuwakot y ha provocado un corrimiento de tierra en Tíbet.",
+      "link": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html",
+      "pubDate": "Wed, 26 Aug 2026 15:07:17 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/XKWQXHSINFAZZHPVB5IEGYWPKY.jpg?auth=de05d8349b731d5c096f8d60ef913c1068019dc542c1b59acd888c1a43a0959e"
     },
     {
       "id": "e643b4e61cb13b1e088d",
@@ -91,234 +591,54 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee3c9e29e8.jpeg"
     },
     {
-      "id": "4295ca4064e478922999",
-      "title": "Vecinos denuncian el ruido \"espantoso\" en las primeras pruebas de Madring",
-      "summary": "Imagen del circuito con los edificios de fondo.",
-      "link": "https://www.marca.com/motor/formula1/2026/08/26/vecinos-denuncian-ruido-espantoso-primeras-pruebas-circuito-f1-madrid.html",
-      "pubDate": "Wed, 26 Aug 2026 14:53:22 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee1a677792.jpeg"
-    },
-    {
-      "id": "05ad19923f519b44d348",
-      "title": "Tribunal ruso ordena la detención del periodista alemán que preguntó cómo \"matar a más rusos\"",
-      "summary": "Michael Martens causó polémica a principios de agosto con su pregunta dirigida a Vladímir Zelenski en Belgrado.",
-      "link": "https://actualidad.rt.com/actualidad/624292-rusia-ordena-detencion-ausencia-periodista?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:35:44 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ef2cbe9ff714f5f2c2a64.jpg"
-    },
-    {
-      "id": "95a6b81e9bcf8504f4e6",
-      "title": "La carta con la que Gourlay trata de salvar 'su' mercado en el Valencia: un nombre",
-      "summary": "El CEO del Valencia, Ron Gourlay.",
-      "link": "https://www.marca.com/futbol/valencia/2026/08/26/carta-gourlay-trata-salvar-mercado-valencia-nombre.html",
-      "pubDate": "Wed, 26 Aug 2026 14:33:51 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ecde3463da.jpeg"
-    },
-    {
-      "id": "67515cbda33f1c7e5427",
-      "title": "Laporta vuelve a la carga con Julián",
-      "summary": "dsfdsfsffsf",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/26/joan-laporta-seguimos-interesados-julian-alvarez.html",
-      "pubDate": "Wed, 26 Aug 2026 14:25:59 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ee5ab54d91.jpeg"
-    },
-    {
-      "id": "3cd083251ddef492284d",
-      "title": "Rockstar rompe su silencio sobre la filtración de Grand Theft Auto VI",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/624289-rockstar-rompe-silencio-filtracion-grand?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:25:56 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "28da6ac2970d729305b8",
-      "title": "Sofía Clerici explicó por qué decidió ser madre soltera: \"No encontré al hombre indicado\"",
-      "summary": "La modelo reveló que su deseo de tener un hijo empezó hace cuatro años. Viajó a Miami para someterse a un tratamiento médico.",
-      "link": "https://www.clarin.com/fama/sofia-clerici-explico-decidio-madre-soltera-encontre-hombre-indicado_0_uzBk7UtBhh.html",
-      "pubDate": "Wed, 26 Aug 2026 14:16:51 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/qSmb16o3j_1200x630__1.jpg"
-    },
-    {
-      "id": "b8792ed733d32800fb9d",
-      "title": "¿Cuándo podrás ver \"Grand Theft Auto VI: Una mirada extendida\" en Netflix? Día y hora exactos para España, México y Argentina",
-      "summary": "Rockstar rompe con la tradición y elige el streaming, no YouTube, para su próxima gran revelación.",
-      "link": "https://www.clarin.com/internacional/podras-ver-grand-theft-auto-vi-mirada-extendida-netflix-dia-hora-exactos-espana-mexico-argentina_0_0RCKRevBm5.html",
-      "pubDate": "Wed, 26 Aug 2026 14:16:41 +0000",
-      "source": "Clarin",
-      "cat": "cinema",
-      "image": "https://www.clarin.com/img/2026/08/26/AG1l85Deq_1200x630__1.jpg"
-    },
-    {
-      "id": "aebc109cb9cefcc67676",
-      "title": "Netanyahu revela las tres opciones que le dio a Trump para lidiar con Irán",
-      "summary": "Además, se mostró escéptico ante la posibilidad de un acuerdo con \"esos bárbaros\" de Irán, y afirmó que el desafío \"todavía no ha terminado\".",
-      "link": "https://actualidad.rt.com/actualidad/624262-netanyahu-revela-tres-opciones-lidiar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:15:39 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ecda159bf5b766d1c2c12.jpg"
-    },
-    {
-      "id": "751e42b3cb30340c351c",
-      "title": "\"Los dejaron sin techo\": Drones rusos atacan posiciones ucranianas (VIDEO)",
-      "summary": "Drones rusos Molniya-2 de la agrupación de tropas Vostok (Este) destruyeron refugios de soldados ucranianos en la provincia de Dnipropetrovsk, informó este miércoles el Ministerio de Defensa. \"Los dejaron sin techo\", comentó la entidad.",
-      "link": "https://actualidad.rt.com/actualidad/624304-quedaron-techo-inoportuna-visita-molniya?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:14:48 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ef1c5e9ff714f5f2c2a5f.jpg"
-    },
-    {
-      "id": "66e86aa95ccd96d7cd81",
-      "title": "Rating del martes: cómo fue el segundo round entre Nico Vázquez y Santiago del Moro",
-      "summary": "En el debut del lunes, \"Popstars\" le había ganado a \"Gran hermano\" por cuatro décimas. Qué pasó con Guido Kaczka, por el Trece.. Quiénes ganaron en cada señal.",
-      "link": "https://www.clarin.com/espectaculos/rating-martes-segundo-round-nico-vazquez-santiago-moro_0_v8azXJmzEG.html",
-      "pubDate": "Wed, 26 Aug 2026 14:13:08 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/u_DcpUFdU_1200x630__1.jpg"
-    },
-    {
-      "id": "c1090c9157a465c21134",
-      "title": "Mueren 9 personas en un ataque ucraniano contra un autobús civil ruso",
-      "summary": "Ocho personas murieron en el lugar y una joven de 20 años falleció en cuidados intensivos, mientras que su madre resultó herida.",
-      "link": "https://actualidad.rt.com/actualidad/624310-nueve-personas-mueren-ataque-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:12:02 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ef694e9ff714a541ae542.jpg"
-    },
-    {
-      "id": "6d2e0b8dceb61211a2c7",
-      "title": "Sorpresiva renuncia del representante argentino ante los organismos internacionales que luchan contra el lavado",
-      "summary": "Se trata del coordinador nacional para la Lucha contra el Lavado de Activos, la Financiación del Terrorismo y la Financiación de Armas de Destrucción Masiva, Agustín Flah. Hay dos versiones sobre los motivos de su renuncia.",
-      "link": "https://www.clarin.com/politica/sorpresiva-renuncia-representante-argentino-organismos-internacionales-luchan-lavado_0_xIqrzzKlyl.html",
-      "pubDate": "Wed, 26 Aug 2026 14:11:48 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/09/DXbRfIRHR_1200x630__1.jpg"
-    },
-    {
-      "id": "52c99cff9b0d1012c062",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
-      "summary": "Agentes de Policía y migrantes en la puerta de una nave del Tarajal habilitada para que la Policía Nacional pueda filiar a los migrantes.",
-      "link": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "pubDate": "Wed, 26 Aug 2026 14:11:01 GMT",
+      "id": "c86f51c9d893ce8740cc",
+      "title": "Un fósil de 324 millones de años muestra cómo conquistaron la Tierra los insectos",
+      "summary": "'Chosa praecursor' tenía partes de los crustáceos marinos, pero también de los primeros insectos terrestres. En la imagen, el ejemplar fosilizado hace 324 millones de años.",
+      "link": "https://elpais.com/ciencia/2026-08-26/un-fosil-de-324-millones-de-anos-muestra-como-conquistaron-la-tierra-los-insectos.html",
+      "pubDate": "Wed, 26 Aug 2026 15:02:42 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/R5FOVFX7YJJGPHGZSWMDZZWH5Q.jpg?auth=9e5a5e720face1aa66ce5a5ce136a76dfaa585012e490454d47eb534c7c4666c"
+      "image": "https://imagenes.elpais.com/resizer/v2/GFNML36NDFB65M632ZUK52RJYA.jpg?auth=31d596c8271993310e806b79095fbfe3beefb86ae0efde0a6e5ac08216da1b07"
     },
     {
-      "id": "15d09e0ac7dfb30a4cf3",
-      "title": "Un imputado denunció a un juez federal ante el Consejo de la Magistratura y lo acusó de imparcialidad",
-      "summary": "La presentación la hizo Guillermo Pinarello que es investigado por lavado y juego clandestino. Además pidió el apartamiento del juez federal de Mar del Plata Santiago Inchausti. .",
-      "link": "https://www.clarin.com/politica/imputado-denuncio-juez-federal-consejo-magistratura-acuso-imparcialidad_0_otUc3hKWwe.html",
-      "pubDate": "Wed, 26 Aug 2026 14:10:47 +0000",
-      "source": "Clarin",
+      "id": "df85c421ea8d7a355333",
+      "title": "El PP usa el Congreso para exigir las comparecencias previstas de Sánchez y cuatro ministros sobre Ceuta y otras crisis",
+      "summary": "Minuto de silencio al inicio de la reunión de Diputación Permanente del Congreso, este miércoles.",
+      "link": "https://elpais.com/espana/2026-08-26/el-pp-usa-el-congreso-para-exigir-las-comparecencias-ya-previstas-de-sanchez-y-cuatro-ministros-sobre-ceuta-y-otras-crisis.html",
+      "pubDate": "Wed, 26 Aug 2026 14:54:09 GMT",
+      "source": "El Pais",
       "cat": "poleco",
-      "image": "https://www.clarin.com/img/2025/02/14/OaUnS22UA_1200x630__1.jpg"
+      "image": "https://imagenes.elpais.com/resizer/v2/5BVYAT3JRFKCHO5KJ3Y25BCRAM.jpg?auth=2dd6a691e82ab7ae05a764d4f3b7f9b7947a477510c29cfacae0f0af2a465c75"
     },
     {
-      "id": "25995fb519adc1353f79",
-      "title": "Terzic y el lío con Yuri: \"Espero que todo el mundo aprenda de esto\"",
-      "summary": "Yuri Berchiche y su mensaje en redes sociales",
-      "link": "https://www.marca.com/futbol/athletic/2026/08/26/terzic-lio-yuri-espero-mundo-aprenda-esto.html",
-      "pubDate": "Wed, 26 Aug 2026 14:09:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8e10f5b4f15.jpeg"
+      "id": "61a04b9dc2e765ce25c9",
+      "title": "El Kremlin confirma que el director de la CIA se reunió con los servicios de inteligencia rusos durante su visita a Moscú",
+      "summary": "El director de la CIA, John Ratcliffe, en una comparecencia en el Capitolio el pasado mes de marzo.",
+      "link": "https://elpais.com/internacional/2026-08-26/el-kremlin-confirma-que-el-director-de-la-cia-se-reunio-durante-su-visita-a-moscu-con-los-servicios-de-inteligencia-rusos.html",
+      "pubDate": "Wed, 26 Aug 2026 14:39:09 GMT",
+      "source": "El Pais",
+      "cat": "cinema",
+      "image": "https://imagenes.elpais.com/resizer/v2/JPKZYV2YHJNYDLAI2ZPWCXJRNU.jpg?auth=b98874dab22f07355153993d9639d6193b1dcc268b36809d3d1603bbdc077ac5"
     },
     {
-      "id": "47f3fd2a6238319ce1d5",
-      "title": "Hegseth anuncia el fin de la era de la dependencia de las cadenas de suministro extranjeras",
-      "summary": "\"La era de ceder la capacidad de proyección de poder a nuestros adversarios ha llegado a su fin\", comentó Kelly Loeffler, jefa de la Administración de Pequeños Negocios de Estados Unidos.",
-      "link": "https://actualidad.rt.com/actualidad/624298-hegseth-anuncia-fin-dependencia-cadenas?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:09:00 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8eec60e9ff71515e2318a4.jpg"
-    },
-    {
-      "id": "106f5e48792320ed48fe",
-      "title": "Un deslave en la frontera entre Nepal y Tíbet deja al menos 31 fallecidos y centenares de desaparecidos, entre ellos 291 turistas extranjeros",
-      "summary": "Las autoridades locales admiten que la cifra de víctimas podría crecer y que los daños causados por el suceso son cuantiosos.",
-      "link": "https://www.bbc.com/mundo/articles/cje83dn5480o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 14:07:43 GMT",
-      "source": "BBC Mundo",
+      "id": "d689d6c6465944758ac4",
+      "title": "Aznar viaja a Ceuta este jueves en plena crisis",
+      "summary": "El expresidente del Gobierno, José María Aznar, el pasado julio.",
+      "link": "https://elpais.com/espana/2026-08-26/aznar-viaja-a-ceuta-este-jueves-en-plena-crisis.html",
+      "pubDate": "Wed, 26 Aug 2026 14:18:49 GMT",
+      "source": "El Pais",
       "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b684/live/20f2ba70-a150-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "058fb10ab2f4829b6b68",
-      "title": "Victoria de Trump: su candidata logra un triunfo necesario en Carolina del Sur y otros resultados de las elecciones primarias del martes",
-      "summary": "Darline Graham, respaldada personalmente por el presidente, se quedó con la nominación republicana al Senado en Carolina del Sur tras recibir el impulso directo de la Casa Blanca. Mientras los republicanos definieron candidaturas clave en Carolina del Sur y Oklahoma, los demócratas recortaron la diferencia en el Congreso al ganar un escaño en Georgia.",
-      "link": "https://www.clarin.com/estados-unidos/victoria-trump-candidata-logra-triunfo-necesario-carolina-sur-resultados-elecciones-primarias-martes_0_b2e3OJGurM.html",
-      "pubDate": "Wed, 26 Aug 2026 14:07:34 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2026/08/26/YWVrhCrrj_1200x630__1.jpg"
+      "image": "https://imagenes.elpais.com/resizer/v2/4SALFSZCWJIMBDPX5PIVLOIGAI.jpg?auth=b088a07fb4d75588ef90c77fee48cab70ed58ab4f474bb6a836a6bc897a9f964"
     },
     {
       "id": "86a88549930734b6f2f2",
       "title": "Meta pagará hasta 17.100 millones de dólares y cambiará Instagram y Facebook para proteger a los menores",
-      "summary": "Meta ha alcanzado un acuerdo de hasta 17.100 millones de dólares con una amplia coalición de estados y territorios estadounidenses para resolver los litigios en los que se acusaba a la compañía dirigida por Mark Zuckerberg de las consecuencias negativas que el uso de Facebook e Instagram habría tenido sobre los usuarios más jóvenes . El acuerdo llega un día después de que Adam Mosseri, director ejecutivo de Instagram, testificara en el juicio, y pone fin tanto al juicio federal impulsado por una coalición de 29 estados como a otros procedimientos relacionados, y resuelve las reclamaciones de 51 estados y territorios, según la Fiscalía General de Washington D. C. Tal y como te contamos hace unos días, cuando comenzó la vista del juicio , en ese texto, los demandantes alegaban que la compañía diseñó e implementó funciones dañinas en Instagram y Facebook que impulsan el uso compulsivo por parte de niños y adolescentes, perjudicando su salud mental y física, mientras engañaba a los usuarios, sus familias y al público sobre la existencia y la gravedad de estos riesgos . En cualquier caso Meta ha negado las acusaciones recibidas, afirmando que se ha esforzado por proteger a los menores en sus plataformas. En un giro argumental bastante peculiar, la compañía llegó a explicar que la adicción a las redes sociales no era una afección psiquiátrica reconocida. En todo caso, y aunque esos 17.100 millones sean una cantidad inimaginable, en realidad puede ser todo un alivio para Meta. En la apertura del juicio te explicamos que la propia Meta había explicado que el método de cálculo planteado por los estados podría elevar las sanciones civiles y la devolución de beneficios hasta los 1,4 billones de dólares. Es decir, más de un millón de millones de dólares. Los estados, por su parte, manejaban una estimación mucho menor, aunque igualmente gigantesca: alrededor de 200.000 millones. En comparación, 17.100 millones no es nada. Y además, Meta logra cerrar el caso sin admitir las acusa",
+      "summary": "Meta ha alcanzado un acuerdo de hasta 17.100 millones de dólares con una amplia coalición de estados y territorios estadounidenses para resolver los litigios en los que se acusaba a la compañía dirigida por Mark Zuckerberg de las consecuencias negativas que el uso de Facebook e Instagram habría tenido sobre los usuarios más jóvenes . El acuerdo llega un día después de que Adam Mosseri, director ejecutivo de Instagram, testificara en el juicio, y pone fin tanto al juicio federal impulsado por una coalición de 29 estados como a otros procedimientos relacionados, y resuelve las reclamaciones de 51 estados y territorios. Tal y como te contamos hace unos días, cuando comenzó la vista del juicio , en ese texto, los demandantes alegaban que la compañía diseñó e implementó funciones dañinas en Instagram y Facebook que impulsan el uso compulsivo por parte de niños y adolescentes, perjudicando su salud mental y física, mientras engañaba a los usuarios, sus familias y al público sobre la existencia y la gravedad de estos riesgos . Pese al acuerdo, Meta ha negado las acusaciones recibidas, afirmando que se ha esforzado por proteger a los menores en sus plataformas. En todo caso, y aunque esos 17.100 millones sean una cantidad inimaginable, en realidad puede ser todo un alivio para Meta. En la apertura del juicio te explicamos que la propia Meta había explicado que el método de cálculo planteado por los estados podría elevar las sanciones civiles y la devolución de beneficios hasta los 1,4 billones de dólares. Es decir, más de un millón de millones de dólares. Los estados, por su parte, manejaban una estimación mucho menor, aunque igualmente gigantesca: alrededor de 200.000 millones. En comparación, 17.100 millones no es nada. Y además, Meta logra cerrar el caso sin admitir las acusaciones planteadas contra la compañía El acuerdo, que puedes leer aquí al completo, explicita que &#8220;niega las acusaciones en su contra y cualquier responsabilidad ante los demandantes&#8221;, ade",
       "link": "https://marketing4ecommerce.net/meta-acepta-pagar-mas-de-16-000-millones-de-dolares/",
       "pubDate": "Wed, 26 Aug 2026 14:05:22 +0000",
       "source": "Marketing4ecommerce",
       "cat": "tech",
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2026/08/acuerdo-multa-meta-1-1024x614.jpg"
-    },
-    {
-      "id": "54654f1b45c40f8d5943",
-      "title": "Créditos hipotecarios: el Gobierno usará fondos de Anses para que los bancos den préstamos con un tope de tasas",
-      "summary": "Destinará 2 billones de pesos del fondo inversor de Anses. Apunta a unos 17 mil créditos aunque podrían ser más. El costo máximo será de UVA más 7,5% anual.",
-      "link": "https://www.clarin.com/economia/creditos-hipotecarios-gobierno-usara-fondos-anses-bancos-den-prestamos-tope-tasas_0_djSfgjAe3v.html",
-      "pubDate": "Wed, 26 Aug 2026 14:03:57 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/wpsZT4BiU_1200x630__1.jpg"
-    },
-    {
-      "id": "9b6976073531c76eba60",
-      "title": "Meta acepta pagar casi US$ 17.000 millones para evitar un juicio por incitar a la adicción a las redes",
-      "summary": "El gigante tecnológico, matriz de Facebook e Instagram, llegó a un acuerdo frente a las demandas presentadas en Estados Unidos. Estaba acusada de engañar a los clientes sobre su seguridad.",
-      "link": "https://www.clarin.com/mundo/meta-acepta-pagar-us-17000-millones-evitar-juicio-incitar-adiccion-redes_0_XZnVeR0WSJ.html",
-      "pubDate": "Wed, 26 Aug 2026 14:02:41 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/26/qeCjb_ZYb_1200x630__1.jpg"
-    },
-    {
-      "id": "ed659cb32b3814a50a42",
-      "title": "Tesoro oculto podría estar bajo un volcán activo del Caribe",
-      "summary": "El hallazgo fue detectado sin perforaciones ni excavaciones, mediante ondas sísmicas generadas por terremotos ocurridos entre 1996 y 2007 en la zona.",
-      "link": "https://actualidad.rt.com/actualidad/624264-volcan-activo-caribe-podria-ocultar-valiosa-reserva-subterranea?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 14:02:39 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ecb65e9ff714f5f2c2a2e.jpg"
-    },
-    {
-      "id": "3c1a32c805da1399bc5a",
-      "title": "En 1925, el primer motel del mundo abrió sus puertas en California con habitaciones a 1,25 dólares; tras su cierre en 1991, su terreno de 4,2 acres está ahora a la venta",
-      "summary": "El histórico Motel Inn de San Luis Obispo marcó el nacimiento de una palabra y de una forma de viajar. Tras cerrar en 1991, el predio vuelve al mercado con varios destinos posibles.",
-      "link": "https://www.clarin.com/estados-unidos/1925-primer-motel-mundo-abrio-puertas-california-habitaciones-125-dolares-cierre-1991-terreno-42-acres-ahora-venta_0_JpzftD9WUi.html",
-      "pubDate": "Wed, 26 Aug 2026 14:01:56 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/08/08/KRnXeuNYT_1200x630__1.jpg"
     },
     {
       "id": "298f54207c3922e5fed9",
@@ -331,47 +651,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/tom-cruise-digger.jpg"
     },
     {
-      "id": "bb87a6cdcd743af1afd8",
-      "title": "Economía de EEUU creció a un ritmo de 1,5% en el 2do trimestre, pese al fuerte gasto del consumidor",
-      "summary": "La economía estadounidense creció un 1,5% en el segundo trimestre, desacelerándose respecto al inicio del año. Sin embargo, el gasto de los hogares se mantuvo robusto. El aumento de importaciones, especialmente de tecnología, afectó el crecimiento. A pesar de ello, la inversión empresarial mostró fortaleza, impulsada por la inteligencia artificial.",
-      "link": "https://www.clarin.com/estados-unidos/economia-de-eeuu-crecio-a-un-ritmo-de-1-5-en-el-2do-trimestre-pese-al-fuerte-gasto-del-consumidor_0_MCBNBDEcFF.html",
-      "pubDate": "Wed, 26 Aug 2026 14:00:13 +0000",
-      "source": "Clarin",
-      "cat": "ia",
-      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
-      "subcat": "herramientas"
-    },
-    {
-      "id": "62eb1bd509b4316247f5",
-      "title": "Danny León, el primero en grindar el larguero de una portería de fútbol",
-      "summary": "El skater español logró otra hazaña y ya piensa en sus terceros Juegos Olímpicos",
-      "link": "https://www.marca.com/otros-deportes/2026/08/26/skater-madrileno-danny-leon-primero-grindar-larguero-porteria-futbol.html",
-      "pubDate": "Wed, 26 Aug 2026 13:58:40 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/dlBJs1gZhYxngo7pj.jpeg"
-    },
-    {
-      "id": "7afe38f86be9fff89d03",
-      "title": "Un país latinoamericano redobla su apuesta para convertirse en exportador gasífero",
-      "summary": "La estructuración del financiamiento sería manejada por los bancos Citi, JP Morgan, Itaú y Santander.",
-      "link": "https://actualidad.rt.com/actualidad/624259-argentina-vuelve-exportar-gas-licuado?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 13:58:05 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ed85a59bf5b766d1c2c2a.jpg"
-    },
-    {
-      "id": "8bad7a4a7880ace4080e",
-      "title": "De la Espriella 'bukeliza' a Colombia con un duro mensaje",
-      "summary": "El mandatario compartió un video que emula las producciones de su par salvadoreño.",
-      "link": "https://actualidad.rt.com/actualidad/624300-espriella-bukeliza-colombia-duro-mensaje?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 13:49:47 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8ee91059bf5b3a1e69c5da.jpg"
-    },
-    {
       "id": "79676c98f4d5de957176",
       "title": "HUAWEI bate récords con un MateBook Pro S de 798 gramos",
       "summary": "Con un peso de tan solo 798 g y un perfil de 11,9 mm, HUAWEI quiere llevar el nuevo MateBook Pro S a una nueva dimensión, redefiniendo lo del «portátil ultraligero». Construido sobre la arquitectura Cloud Falcon de HUAWEI, el MateBook Pro S presenta el metal estructural más ligero del sector, una aleación de magnesio y litio , combinada con un proceso de pulverización catódica al vacío para una mayor resistencia a la corrosión y una baja impedancia. Además, incorpora una batería con un 10% más de silicio, lo que se traduce en un menor peso y una mayor densidad energética. También cuenta con un innovador acabado táctil de microterciopelo para una mayor suavidad al tacto. Disponible en acabados amarillo, morado, blanco, gris y negro, está fabricado con precisión mediante mecanizado CNC de 4 ejes y luce el distintivo diseño Skyline, aportando elegancia a un diseño impresionantemente delgado. La arquitectura interna adopta una placa base compacta de tres secciones. El ventilador HUAWEI Shark Fin alcanza un grosor extremo al incorporar aspas escalonadas en 3D, lo que optimiza el flujo de aire y el rendimiento general. Además, una estructura integrada de espiga y mortaja reemplaza los marcos fragmentados tradicionales, mejorando la eficiencia de soporte de carga en el chasis ultradelgado. MateBook Pro S, más allá del diseño Si su diseño está a la vista, el resto está a la altura de su calidad. Especialmente su pantalla OLED con resolución nativa 3.1K para 3120 × 2080 píxeles, con relación de aspecto 3:2, un brillo de pantalla estándar de 1000 nits y un brillo máximo local de hasta 1600 nits. Gracias a la mejora de vídeo AI-HDR, el contenido SDR convencional se puede convertir a HDR en tiempo real, mejorando la calidad de imagen. La pantalla incluye un interruptor lateral dedicado que permite alternar entre los modos Compartir y Privacidad con una sola pulsación con una tecnología de «doble píxel de una zona» . En hardware, destaca el Kirin XE90 , el último procesador crea",
@@ -380,16 +659,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/MateBook_Pro_S_2.jpg"
-    },
-    {
-      "id": "d30265fd46ab54193075",
-      "title": "Un gigante asiático recupera su sueño nuclear con ayuda de Rusia",
-      "summary": "La nación retoma sus planes de energía nuclear casi una década después de haberlos abandonado, con Rosatom como socio clave para construir su primera central atómica.",
-      "link": "https://actualidad.rt.com/actualidad/624273-gigante-asiatico-recupera-sueno-nuclear-ayuda-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Wed, 26 Aug 2026 13:48:07 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.08/thumbnail/6a8eda9359bf5b7f4013451e.jpg"
     },
     {
       "id": "e9b091dd9cf2621c15a0",
@@ -402,56 +671,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/TM3P5D4LBBEYVOEJSWIZECFVWM.jpg?auth=24addd3431efcd01206d320bcc2b5e2a6d00862fc8fb1423aee15792c2bb326a"
     },
     {
-      "id": "97314ecddf17730c25be",
-      "title": "¡Histórico! Dos españolas se ponen al frente del ranking mundial amateur de golf",
-      "summary": "Paula Martín y Andrea Revuelta durante una competición con el equipo nacional.",
-      "link": "https://www.marca.com/golf/2026/08/26/historico-dos-espanolas-ponen-frente-ranking-mundial-amateur.html",
-      "pubDate": "Wed, 26 Aug 2026 13:36:00 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec32c0ae8b.jpeg"
-    },
-    {
-      "id": "9d6e42167b523e13862c",
-      "title": "La 'nueva Champions' continúa: así funciona el sorteo, la fase de liga, los emparejamientos...",
-      "summary": ".",
-      "link": "https://www.marca.com/futbol/champions-league/2026/08/26/nueva-champions-continua-asi-funciona-sorteo-fase-liga-emparejamientos-video.html",
-      "pubDate": "Wed, 26 Aug 2026 13:28:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ecdd47dc83.png"
-    },
-    {
-      "id": "ebc36fe0bbf62c1f02d7",
-      "title": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adolescentes a sus herramientas",
-      "summary": "Mark Zuckerberg, CEO de Meta, en los juzgados de Los Ángeles, el pasado febrero.",
-      "link": "https://elpais.com/tecnologia/2026-08-26/meta-pagara-casi-17000-millones-de-dolares-para-resolver-las-demandas-por-la-adiccion-de-los-adolescentes-a-sus-herramientas.html",
-      "pubDate": "Wed, 26 Aug 2026 13:27:56 GMT",
-      "source": "El País Tech",
-      "cat": "tech",
-      "image": "https://imagenes.elpais.com/resizer/v2/XKQBSX4ULBH5JIPGGAOVTOKGJA.jpg?auth=3fa8fe8b40aa3f69366019eeaa97cfa3799b59001d4a61b50f365b5daacd2448"
-    },
-    {
-      "id": "6595277e93be9c75f8e2",
-      "title": "Carlos Rodríguez no encuentra respuestas: “Cuando llega el momento clave, las piernas no responden”",
-      "summary": "Carlos Rodríguez, con MARCA.",
-      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/26/carlos-rodriguez-encuentra-respuestas-llega-momento-clave-piernas-responden.html",
-      "pubDate": "Wed, 26 Aug 2026 13:22:03 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ecbed8d3b8.png"
-    },
-    {
-      "id": "e69723afc01625a0011f",
-      "title": "Fermín Aldeguer correrá en el equipo de Rossi en 2027: \"Firmar con Valentino es increíble\"",
-      "summary": "Fermín Aldeguer posa con los jefes del VR46.",
-      "link": "https://www.marca.com/motor/motogp/gp-aragon/2026/08/26/fermin-aldeguer-correra-equipo-rossi-2027-firmar-valentino-increible.html",
-      "pubDate": "Wed, 26 Aug 2026 13:21:16 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec67175a72.jpeg"
-    },
-    {
       "id": "2821f75b5cec4ad75aff",
       "title": "Rockstar por fin se pronuncia sobre las filtraciones de ‘GTA 6’: «Ha sido desgarrador»",
       "summary": "Después de mantenerse en silencio durante varios días, Rockstar Games por fin se ha pronunciado sobre las filtraciones de GTA 6 . A través de sus redes sociales, el estudio publicó un comunicado lamentando la situación y calificándola como \"desgarradora\" para quienes han dedicado tanto tiempo al desarrollo. La compañía no ocultó su decepción respecto del asunto, no solo por los spoilers que se pueden haber generado, sino también porque el gameplay sin terminar haya salido a la luz cuando faltan pocos meses para el estreno formal del título. Más allá del lamento por las filtraciones de GTA 6 , Rockstar aprovechó la ocasión para ratificar que se lanzará el 19 de noviembre . El estudio también hizo una suerte de mea culpa por las demoras tanto en el desarrollo del juego como en su promoción. Además, mencionó que ya está prácticamente terminado e invitó a los fanáticos a esperar un poco más y evadir los leaks para que estos no influyan sobre su experiencia. A continuación, el comunicado completo traducido al español: \"Sabemos que muchos de ustedes han estado esperando noticias nuestras sobre los eventos de la semana pasada. Sería un eufemismo decir que la filtración de vídeos del gameplay de Grand Theft Auto VI ha sido desgarradora para nuestro equipo, y obviamente no es así como pretendíamos que vieran el juego después de todo este tiempo. Lamentamos mucho que todo haya tardado tanto, desde terminar el juego (¡ya casi listo!) hasta compartir más detalles y jugabilidad oficial, y brindar a la comunidad todo lo que quieren saber. Estamos muy emocionados de que todos vean el vistazo extendido mañana. Prepararlo nos ha tomado más tiempo del que queríamos, pero, como con todo lo que hacemos, sabemos que debemos superar sus expectativas y estamos decididos a ofrecer el nivel que esperan y merecen. Si bien es lamentable que la experiencia de juego prevista ahora pueda verse afectada por algunos spoilers, esperamos que todos aguarden un poco más para experimentar el juego por ",
@@ -462,16 +681,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Jason_y_Lucia_02_horizontal-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "id": "54175823b96469021182",
-      "title": "El Liverpool explica por qué no se van a poder enfrentar al Real Madrid en Anfield esta Champions",
-      "summary": "Una imagen del Liverpool-Real Madrid de la pasada edición de Champions",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/08/26/liverpool-explica-enfrentar-real-madrid-anfield-champions.html",
-      "pubDate": "Wed, 26 Aug 2026 13:03:27 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec715bab65.jpeg"
-    },
-    {
       "id": "2540d3bff39b3b182a0e",
       "title": "Ridley Scott explica por qué La constelación del perro no es realmente una película sobre el fin del mundo",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La constelación del perro puede presentarse fácilmente como otra historia postapocalíptica: una pandemia ha diezmado a la humanidad, unos pocos supervivientes intentan mantenerse con vida y Jacob Elordi recorre un mundo prácticamente vacío acompañado por su perro Jasper. Sin embargo, escuchar a Ridley Scott y Jacob Elordi hablar de la película deja bastante claro que ninguno de los dos la entiende exactamente de esa manera. Para Scott, el apocalipsis es casi el punto de partida obligatorio antes de llegar a lo que verdaderamente le interesaba, mientras que Elordi ve en Hig a un hombre que utiliza su necesidad de avanzar para ocultar algo bastante más doloroso: en realidad quiere regresar a un mundo que ya no existe. La conversación también ayuda a entender algunas decisiones que resultan mucho más importantes después de haber visto la película, desde la peculiar convivencia entre Hig y Bangley hasta esa mezcla de western, drama de supervivencia y relato íntimo que Scott intenta mantener durante buena parte del metraje. Incluso la vieja Cessna con la que Hig sobrevuela el territorio adquiere otra lectura cuando el director explica que, en su cabeza, sustituye prácticamente al caballo de un western clásico. Y quizá esa sea una buena manera de entrar en La constelación del perro , porque Scott reconoce que él mismo estuvo a punto de rechazarla cuando pensó que simplemente le estaban ofreciendo otra película sobre el fin del mundo. Ridley Scott vio un western donde otros podían ver simplemente otro apocalipsis Cuando le piden que explique de qué trata La constelación del perro para quien no conozca la novela de Peter Heller, Scott empieza reconociendo que resulta difícil resumirla únicamente como una historia postapocalíptica. Su forma de describir ese mundo es bastante más interesante: no lo considera exactamente el final, sino una especie de pausa antes de que el mundo pueda empezar otra vez . El director h",
@@ -480,106 +689,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/04/DOG-STARS.jpg"
-    },
-    {
-      "id": "b41c4528b8c6c77cb3b9",
-      "title": "Al menos 95 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada y deslizamientos de tierra entre Nepal y Tíbet",
-      "summary": "Vista aérea de varias viviendas dañadas en Trishuli Bazar, en Nepal, tras la riada repentina que ha afectado este miércoles a los distritos nepalíes de Rasuwa y Nuwakot y ha provocado un corrimiento de tierra en Tíbet.",
-      "link": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html",
-      "pubDate": "Wed, 26 Aug 2026 12:57:50 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/XKWQXHSINFAZZHPVB5IEGYWPKY.jpg?auth=de05d8349b731d5c096f8d60ef913c1068019dc542c1b59acd888c1a43a0959e"
-    },
-    {
-      "id": "abc6f2a8ea3dedf99bfb",
-      "title": "Vuelven las Ventanas FIBA... y la lluvia de pasaportes",
-      "summary": "Kobi Simmons trata de superar la defensa de Facundo Campazzo.",
-      "link": "https://www.marca.com/baloncesto/mundial/2026/08/26/vuelven-ventanas-fiba-lluvia-pasaportes.html",
-      "pubDate": "Wed, 26 Aug 2026 12:50:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec4c8415cf.jpeg"
-    },
-    {
-      "id": "cbb89b54d7dc01cef6cf",
-      "title": "Enrique de Inglaterra y Meghan Markle ya están en el Reino Unido",
-      "summary": "El príncipe Enrique y Meghan Markle, en un evento en Birrarung Marr, en Melbourne (Australia), el 16 de abril de 2026.",
-      "link": "https://elpais.com/gente/2026-08-26/enrique-de-inglaterra-y-meghan-markle-ya-estan-en-el-reino-unido.html",
-      "pubDate": "Wed, 26 Aug 2026 12:50:35 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TQBMDRSQNRIEXGF2AOU4RNNMFA.jpg?auth=cd04a9eb3cc022c49fcfb72bda4cf61ccea0870bf35afed71847a5b2d74d1a69"
-    },
-    {
-      "id": "d2ea8cadbef16ad013cd",
-      "title": "Confirmado: mañana debuta Rodri, el fichaje del verano",
-      "summary": "Rodri el día de la presentación en el trofeo Joan Gamper.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/26/confirmado-manana-debuta-rodri-fichaje-verano.html",
-      "pubDate": "Wed, 26 Aug 2026 12:45:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ec3541c7f1.jpeg"
-    },
-    {
-      "id": "11a22730a9f9718422fa",
-      "title": "\"Entiendo que o fichamos a Julián o a nadie\"",
-      "summary": "Hansi Flick",
-      "link": "https://www.marca.com/futbol/barcelona/2026/08/26/hansi-flick-todos-jugadores-hambre-ganar-tercera-liga-consecutiva.html",
-      "pubDate": "Wed, 26 Aug 2026 12:43:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/24/6a8c6997e6f4e.jpeg"
-    },
-    {
-      "id": "ab08734b46c9f44c7e4b",
-      "title": "Laporta: “Seguimos muy interesados en Julián Alvarez, nos gustaría que aceptaran nuestra oferta”",
-      "summary": "El jugador del Atético, Julián Alvarez, en el banquillo antes de saltar al campo en el partido contra el Villarreal.",
-      "link": "https://elpais.com/deportes/futbol/2026-08-26/laporta-seguimos-muy-interesados-en-julian-alvarez-nos-gustaria-que-aceptaran-nuestra-oferta.html",
-      "pubDate": "Wed, 26 Aug 2026 12:41:08 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/AMTADDO7VVIGBDOMUWMGOSOVWU.jpg?auth=920809f428070b4d6a758741ad0712ab3cd3aae1ff59a2a5e755af7bd56f4f3a"
-    },
-    {
-      "id": "f837794844a6799562e0",
-      "title": "Al menos 50 heridos al estallar material pirotécnico en el inicio de las fiestas de Noáin (Navarra)",
-      "summary": "Momento del chupinazo de las fiestas de Noáin (Navarra), este miércoles.",
-      "link": "https://elpais.com/espana/2026-08-26/varios-heridos-al-estallar-material-pirotecnico-en-el-inicio-de-las-fiestas-de-noain-navarra.html",
-      "pubDate": "Wed, 26 Aug 2026 12:37:27 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/FXZBOPL6FBEHBN7JE33X3ZKRYQ.jpg?auth=1e7dd012a1fbb2933c5e03283e48cc818ae011188e1afa841bcb555e275002dd"
-    },
-    {
-      "id": "90c2562a2cf3ff6582eb",
-      "title": "Los abanicos dan guerra: etapa loca que puede estallar en cualquier momento",
-      "summary": "Pogacar, en LaVuelta.",
-      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/26/6a8ebf2bb364eacdc8592019.html",
-      "pubDate": "Wed, 26 Aug 2026 12:35:17 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/17877402183972.jpeg"
-    },
-    {
-      "id": "4a6acede0a2d5e700559",
-      "title": "El City rompe la hucha por el sustituto de Rodri",
-      "summary": "El joven centrocampista francomarroquí deja 100 millones en las arcas del Lille y se convierte en la venta más cara de su historia",
-      "link": "https://www.marca.com/futbol/premier-league/2026/08/26/manchester-city-rompe-hucha-bouaddi-paliar-marcha-rodri.html",
-      "pubDate": "Wed, 26 Aug 2026 12:23:21 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ed131c34f3.jpeg"
-    },
-    {
-      "id": "37dfc490837c4923a871",
-      "title": "Carlos Latre y Yolanda Marcos se separan tras más de 20 años de relación",
-      "summary": "Carlos Latre y Yolanda Martos",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/26/carlos-latre-yolanda-marcos-separan-20-anos-relacion.html",
-      "pubDate": "Wed, 26 Aug 2026 12:12:47 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8eb92299e3b.png"
     },
     {
       "id": "5ce82cd6f43eb3b5bdbc",
@@ -613,16 +722,6 @@
       "subcat": "herramientas"
     },
     {
-      "id": "0c494459465a1b2ab168",
-      "title": "La bomba 'imposible' del Leganés... ¡Morata!",
-      "summary": "Morata, esta pretemporada con el Como.",
-      "link": "https://www.marca.com/futbol/leganes/2026/08/26/vinculan-morata-leganes.html",
-      "pubDate": "Wed, 26 Aug 2026 11:36:32 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ed73bd0d71.jpeg"
-    },
-    {
       "id": "9010015148cb80eafddd",
       "title": "El PSOE busca una salida al choque entre Robles y Marlaska por los informes del CNI en Ceuta: “Las dos cosas pueden ser ciertas a la vez”",
       "summary": "El portavoz del PSOE en el Congreso, Patxi López (centro), al inicio de la reunión de la Diputación Permanente este miércoles.",
@@ -651,16 +750,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/T5DUXSUSQ5FTLFS3EGUUOJWGNE.jpg?auth=fb40dbb623646aa9b521b17dd023e7c277ebece9b557671bd5b62257c09c9ace"
-    },
-    {
-      "id": "2a05220a832021815368",
-      "title": "El Real Madrid es nuevo patrocinador del GP de España de F1",
-      "summary": "El Real Madrid se con Madring para el GP de España.",
-      "link": "https://www.marca.com/motor/formula1/gp-espana/2026/08/26/real-madrid-nuevo-patrocinador-gp-espana-f1.html",
-      "pubDate": "Wed, 26 Aug 2026 11:11:34 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/08/26/6a8ead4c1f1b1.r_d.1681-513-0.png"
     },
     {
       "id": "b7ce9e0200d4736c76ba",
@@ -701,66 +790,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/06/la-constelacion-del-perror-reparto-lujo.jpg"
-    },
-    {
-      "id": "57781a1d668c2dc440fb",
-      "title": "España, partida en dos por el “fuerte contraste térmico”: Lugo a 20 grados y Zaragoza a 40",
-      "summary": "Una mujer pasea a su perro con paraguas, este miércoles en A Coruña (Galicia), bajo aviso naranja.",
-      "link": "https://elpais.com/el-tiempo/2026-08-26/las-lluvias-y-las-tormentas-continuaran-hoy-en-el-norte-y-seguiran-arreciando-hasta-el-viernes.html",
-      "pubDate": "Wed, 26 Aug 2026 10:58:58 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/QTUUYGM4FJODZJRAIVGPVO3M5Y.jpg?auth=9eb1ed74a2b72a1120ec187a9e510a3b275bfa8e87c64b473abf7d2260b92e0a"
-    },
-    {
-      "id": "2c744dc0e235f0ee5a52",
-      "title": "El exmadridista Singler preocupa: \"Mi vida corre peligro\"",
-      "summary": "Kyle Singler, a la izquierda, en un partido con el Real Madrid y, a la derecha, en un vídeo reciente.",
-      "link": "https://www.marca.com/baloncesto/acb/2026/08/26/preocupacion-salud-mental-exacb-kyle-singler.html",
-      "pubDate": "Wed, 26 Aug 2026 10:48:58 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8e9d8748869.jpeg"
-    },
-    {
-      "id": "61a04b9dc2e765ce25c9",
-      "title": "El Kremlin confirma que el director de la CIA se reunió con los servicios de inteligencia rusos durante su visita a Moscú",
-      "summary": "El director de la CIA, John Ratcliffe, en una comparecencia en el Capitolio el pasado mes de marzo.",
-      "link": "https://elpais.com/internacional/2026-08-26/el-kremlin-confirma-que-el-director-de-la-cia-se-reunio-durante-su-visita-a-moscu-con-los-servicios-de-inteligencia-rusos.html",
-      "pubDate": "Wed, 26 Aug 2026 10:41:21 GMT",
-      "source": "El Pais",
-      "cat": "cinema",
-      "image": "https://imagenes.elpais.com/resizer/v2/JPKZYV2YHJNYDLAI2ZPWCXJRNU.jpg?auth=b98874dab22f07355153993d9639d6193b1dcc268b36809d3d1603bbdc077ac5"
-    },
-    {
-      "id": "607e65d21f4052bab635",
-      "title": "Fali 'vuelve' a lo grande: golazo de falta con Xerez",
-      "summary": ".",
-      "link": "https://www.marca.com/futbol/2026/08/26/fali-vuelve-grande-golazo-falta-xerez-video.html",
-      "pubDate": "Wed, 26 Aug 2026 10:31:45 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ea113a4bb5.png"
-    },
-    {
-      "id": "739266e4dfee91102d51",
-      "title": "El eslogan de Vox choca con la realidad: el menú halal no está prohibido en los colegios valencianos",
-      "summary": "Comedor de un colegio público valenciano en 2023.",
-      "link": "https://elpais.com/educacion/2026-08-26/el-eslogan-de-vox-choca-con-la-realidad-el-menu-halal-no-esta-prohibido-en-los-colegios-valencianos.html",
-      "pubDate": "Wed, 26 Aug 2026 10:29:42 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/6T5RUV6IGZFFRORA6BZP4EGUGU.jpg?auth=9288521283ed60b84c8d7a64ecec6a07b9ce6e78d0ffb54bf63d9ac1d50253a8"
-    },
-    {
-      "id": "e6241a83cd4bd6784364",
-      "title": "La situación de Ceuta trastoca al pádel: \"No es la ciudad que queremos enseñar al mundo\"",
-      "summary": "Imagen del FIP Silver de Ceuta de 2025.",
-      "link": "https://www.marca.com/padel/2026/08/26/cancelado-fip-silver-ceuta-animo-eventos.html",
-      "pubDate": "Wed, 26 Aug 2026 10:25:39 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/26/6a8ea15f4225c.jpeg"
     },
     {
       "id": "05f2276cc0c0ea2de6a6",
@@ -898,12 +927,12 @@
     {
       "id": "d176de7700e731bd5d8b",
       "title": "Estados Unidos suspende las citas para solicitar visados en embajadas y consulados de todo el mundo",
-      "summary": "Decenas de personas, en la Embajada de EE UU en Ciudad de México, en una imagen de archivo.",
+      "summary": "Colombianos hacen fila afuera de la Embajada de Estados Unidos, en Bogotá, en 2025.",
       "link": "https://elpais.com/internacional/2026-08-26/estados-unidos-suspende-las-citas-para-solicitar-visados-en-embajadas-y-consulados-de-todo-el-mundo.html",
       "pubDate": "Wed, 26 Aug 2026 08:45:59 GMT",
       "source": "El Pais",
       "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/Y33NTPINENB6JGGVFN64ZXZRCQ.jpg?auth=016038e210f4d550349f30db71c9535b7a7db23a8eafb99a2cc19370847c6273"
+      "image": "https://imagenes.elpais.com/resizer/v2/3CG3SBFEIZF45HUWREABP2NDBM.jpg?auth=4875d28924b8baa39949c3c656cfa9c610b00f5003a896c55b301478467a4ebb"
     },
     {
       "id": "2816950d6cadc54de4a6",
@@ -935,16 +964,6 @@
       "source": "El País Tech",
       "cat": "tech",
       "image": "https://imagenes.elpais.com/resizer/v2/2AB3BUT52RLOTI5ZG5NPSV5EZY.jpg?auth=5842d709fc187ebc1cfae7aa214d5746e28856390f48a827cae63a546c0a5eb0"
-    },
-    {
-      "id": "90e43775d6d0fba7679d",
-      "title": "Telecinco cancela ‘El show de Paz’ tras dos meses de bajas audiencias y sigue sin encontrar el rumbo los fines de semana",
-      "summary": "El equipo del programa 'El show de Paz'.",
-      "link": "https://elpais.com/television/2026-08-26/telecinco-cancela-el-show-de-paz-tras-dos-meses-de-bajas-audiencias-y-sigue-sin-encontrar-el-rumbo-los-fines-de-semana.html",
-      "pubDate": "Wed, 26 Aug 2026 08:13:04 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TSJOJZSTUNBILLZF2BWI65PTQM.jpg?auth=108b105ce73311f1e9f1ffb644be4d1a31f5b484eb20283201d5e241c7e2ff5a"
     },
     {
       "id": "04208addd777ae8cc946",
@@ -1118,16 +1137,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/DTCX6LWRP5H7JCMXPD73P6BWNA.jpg?auth=7669600c8246c6adf41b21482591055c8ccdbd15a7d94f4e60030a13e46c12f2"
-    },
-    {
-      "id": "bf5b1353cb874819788b",
-      "title": "El hijo del burgalés desaparecido en el Mediterráneo: “Queremos que le busquen; es muy difícil, pero tenemos esperanzas”",
-      "summary": "Juan José Mutilba, empresario burgalés desaparecido al caer de un barco entre Italia y Grecia. (Cedida por la familia)",
-      "link": "https://elpais.com/espana/2026-08-26/el-hijo-del-burgales-desaparecido-en-el-mediterraneo-queremos-que-le-busquen-es-muy-dificil-pero-tenemos-esperanzas.html",
-      "pubDate": "Wed, 26 Aug 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/TK77HYURSFCZJJRIT3FNSVMF7I.jpg?auth=e8ed1e49d292fc354e5834edb37a62d23e6b4f2d7d1e7ec13ab156daf4152c0a"
     },
     {
       "id": "993ada46129ec159ddd7",
@@ -1596,16 +1605,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9292/live/e42bd600-9d3d-11f1-bc05-aff3aa1f91c7.jpg"
-    },
-    {
-      "id": "0cc238c943ef64dc8080",
-      "title": "Matthew McConaughey y Woody Harrelson, por fin juntos en el genial tráiler de su nueva serie después de ‘True Detective’",
-      "summary": "Matthew McConaughey y Woody Harrelson , legendarios protagonistas de la primera temporada de True Detective , se reencuentran al fin en una nueva serie. Ambos actores han demostrado siempre una química inigualable y una relación de amistad tremendamente cercana. Por ello, más de diez años después de aquel glorioso éxito de HBO, vuelven a reunirse. Esta vez, en una serie de Apple TV. Y es que la compañía ha desvelado al fin el tráiler de Brothers , la nueva serie de comedia protagonizada y producida por Matthew McConaughey y Woody Harrelson . En ella, ambos interpretan versiones ficcionalizadas de sí mismos. Su larga amistad se verá amenazada cuando descubren un secreto oculto durante décadas: que quizá sean hermanos. Cuando la boda de la hija de Woody se anula, este reúne a toda la familia y se dirige a Austin para pasar una temporada en el rancho de Matthew . Pero lo que comenzó como una escapada sanadora se arruina cuando la madre de Matthew , Ma Mac , confiesa accidentalmente el secreto: que los dos amigos podrían ser, en realidad, hermanos. Mientras Woody pone el rancho patas arriba para descubrir la verdad, Matthew se encuentra a sí mismo inmerso en una crisis de identidad muy diferente: la posibilidad de presentarse al cargo de Gobernador de Texas. El resultado es una historia conmovedora, anárquica y divertidísima sobre amistad, familia, fama y la incierta línea que separa el mito de la realidad. Mira el tráiler de Brothers Brothers está creada por el showrunner Lee Eisenberg , conocido por su trabajo como guionista y director en The Office , por Cocina con química , por El Jurado o por las películas Bad Teacher y Año Uno . Lo más interesante es que la serie parte de una premisa real. Porque, más allá de la ficción , Matthew McConaughey y Woody Harrelson han reconocido en más de una ocasión de que existe una gran posibilidad de que sean hermanos. Junto a ellos, el reparto de la serie lo componen Natalie Martinez , Brittany Ishibashi , Nolan Almeida , Ella Gra",
-      "link": "https://hipertextual.com/cine-television/matthew-mcconaughey-y-woody-harrelson-juntos-genial-trailer-brothers-serie/",
-      "pubDate": "Tue, 25 Aug 2026 14:01:00 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Matthew-McConaughey-Woody-Harrelson-Brothers.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "id": "3a3236e9c33f40a0c804",
@@ -2569,5 +2568,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-08-26T14:37:34.047505+00:00"
+  "updated": "2026-08-26T16:43:11.764417+00:00"
 }
