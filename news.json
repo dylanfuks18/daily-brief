@@ -83,6 +83,26 @@
       "image": "https://marketing4ecommerce.net/wp-content/uploads/2023/10/mejor-hora-publicar-redes-1.jpg"
     },
     {
+      "id": "66a25ffe68da45a61142",
+      "title": "El 3 que no pudo ser el último día",
+      "summary": "TAGLIAFICO, CON ARGENTINA.",
+      "link": "https://www.marca.com/futbol/atletico/2026/09/02/3-pudo-ultimo-dia.html",
+      "pubDate": "Wed, 02 Sep 2026 00:05:14 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/02/6a974c00874f2.jpeg"
+    },
+    {
+      "id": "12fc29c986bfe723722c",
+      "title": "Marc Casadó se va cedido al Deportivo",
+      "summary": "Marc Casadó",
+      "link": "https://www.marca.com/futbol/barcelona/2026/09/02/marc-casado-deja-barca-cedido-deportivo.html",
+      "pubDate": "Wed, 02 Sep 2026 00:00:31 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a944b7903bad.jpeg"
+    },
+    {
       "id": "cc3a17fdd306c26d7f69",
       "title": "Nueva investigación: ¿Quiénes son más vulnerables a las desinformaciones sobre salud?",
       "summary": "",
@@ -114,18 +134,419 @@
       "subcat": "herramientas"
     },
     {
-      "id": "f0c2f4320b39b5aa8c35",
-      "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
-      "summary": "Los péptidos experimentales son la más reciente obsesión en la conversación sobre salud y bienestar en las redes sociales, pero la evidencia científica de su efectividad es escasa.",
-      "link": "https://www.bbc.com/mundo/articles/c79g7qjyx70o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 10:27:30 GMT",
+      "id": "db8e45a244d8d6a6e98d",
+      "title": "Carlos Álvarez se marcha a México",
+      "summary": "Carlos Álvarez celebra un gol ante el Oviedo.",
+      "link": "https://www.marca.com/futbol/levante/2026/09/01/carlos-alvarez-marcha-america-mexico.html",
+      "pubDate": "Tue, 01 Sep 2026 23:48:05 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a9747aa91e79.jpeg"
+    },
+    {
+      "id": "7b458e774eccde990cd3",
+      "title": "¡Lemar al Elche!",
+      "summary": "El francés llega cedido por el Atlético y se convierte en la octava cara nueva y el tercer fichaje franjiverde del último día del mercado",
+      "link": "https://www.marca.com/futbol/elche/2026/09/01/elche-incorpora-lemar-reforzar-centro-campo.html",
+      "pubDate": "Tue, 01 Sep 2026 23:25:59 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a9742c51e982.r_d.1842-349-0.jpeg"
+    },
+    {
+      "id": "f3111d9793db19bff859",
+      "title": "Rybakina inicia la misión 'número uno'",
+      "summary": "Elena Rybakina tras su victoria en el US Open.",
+      "link": "https://www.marca.com/tenis/2026/09/01/rybakina-inicia-mision-numero.html",
+      "pubDate": "Tue, 01 Sep 2026 23:16:20 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a973fb8c34cb.jpeg"
+    },
+    {
+      "id": "24b8d3801da6a1213454",
+      "title": "El Leganés cierra la puerta a la llegada de Carvajal",
+      "summary": "Andrés Pardo, junto a Morata en la presentación del delantero como jugador del Leganés.",
+      "link": "https://www.marca.com/futbol/leganes/2026/09/01/leganes-cierra-puerta-llegada-carvajal.html",
+      "pubDate": "Tue, 01 Sep 2026 23:12:51 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a973fcbaf2a0.jpeg"
+    },
+    {
+      "id": "e21d1c1ebe93464ba8c3",
+      "title": "Ana Peleteiro y la congelación de óvulos de las futbolistas: una medida machista y peligrosa",
+      "summary": "Ana Peleteiro, en una imagen de su declaración en redes sociales.",
+      "link": "https://www.marca.com/atletismo/2026/09/01/ana-peleteiro-congelacion-ovulos-futbolistas-medida-machista-peligrosa.html",
+      "pubDate": "Tue, 01 Sep 2026 23:07:41 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a973da6dc935.jpeg"
+    },
+    {
+      "id": "3aa483551405211f0f2b",
+      "title": "Mudryk regresa tras dos años y se va con su 'padre' De Zerbi",
+      "summary": "Mudryk celebra un gol",
+      "link": "https://www.marca.com/futbol/premier-league/2026/09/01/mudryk-regresa-dos-anos-sancion-cedido-tottenham-padre-roberto-zerbi.html",
+      "pubDate": "Tue, 01 Sep 2026 23:05:49 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/31/6a6cc51fc2e08.jpeg"
+    },
+    {
+      "id": "1dc846bfa39c81bfff25",
+      "title": "¡Así llegó Lamine Yamal a la Gala de los V de los Premios AFE!",
+      "summary": "El 'Mejor Jugador de Primera División' en Florida Park",
+      "link": "https://www.marca.com/futbol/barcelona/2026/09/01/asi-llego-lamine-yamal-gala-v-premios-af-video.html",
+      "pubDate": "Tue, 01 Sep 2026 22:38:24 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/dzDhA1gbpTyXt1fru.jpeg"
+    },
+    {
+      "id": "de6614d687d914b9c16c",
+      "title": "El Racing se lleva a la perla bética Pablo García",
+      "summary": "El delantero del Real Betis Pablo García celebra su gol durante el partido de la primera jornada de LaLiga que Valencia CF y Real Betis disputan este martes en Mestalla. EFE/Manuel Bruque",
+      "link": "https://www.marca.com/futbol/betis/2026/09/01/pablo-garcia-rumbo-racing-santander-5-5-millones.html",
+      "pubDate": "Tue, 01 Sep 2026 22:14:49 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/25/6a8e044a81821.jpeg"
+    },
+    {
+      "id": "26dcdd4f7876dd40ad87",
+      "title": "Las defensas aéreas de Kuwait están interceptando drones \"hostiles\"",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/625411-defensas-aereas-kuwait-interceptar-drones-hostiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 22:13:15 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "7054094f8301b5a710ca",
+      "title": "Jordania afirma haber interceptado varios misiles iraníes",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/625410-jordania-afirma-haber-interceptado-misiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 22:13:02 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "dcc10a302c505415ad0d",
+      "title": "La respuesta firme de Teherán tras el ataque de EE.UU. contra civiles",
+      "summary": "Desde el país pera señalaron que \"hacer la vista gorda ante la injusticia no la contiene; solo envalentona a los perpetradores\".",
+      "link": "https://actualidad.rt.com/actualidad/625408-respuesta-firme-teheran-ataques-eeuu-civiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 22:09:38 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg"
+    },
+    {
+      "id": "07a42b0fd261107a2383",
+      "title": "Bombazo de última hora del City: Ndiaye, por 75 millones",
+      "summary": "Ndiaye, nuevo jugador del City",
+      "link": "https://www.marca.com/futbol/premier-league/2026/09/01/bombazo-manchester-city-iliman-ndiaye-fichado-70-millones.html",
+      "pubDate": "Tue, 01 Sep 2026 22:08:00 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a9730bfc1606.png"
+    },
+    {
+      "id": "e497c291e86c674a4b08",
+      "title": "Apple hizo este cambio en sus mapas tras presión de Trump",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/625405-apple-cambio-mapa-eeuu-presion-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 22:07:07 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "577de976ab879980130e",
+      "title": "\"El agua del río entró en el túnel y me persiguió durante 20 minutos\": el trabajador nepalí que sobrevivió a la avalancha que deja ya más de 1.000 muertos",
+      "summary": "Continúan los grandes esfuerzos para rescatar a los trabajadores de las centrales hidroeléctricas, mientras que el número de muertos en Nepal supera los 1.000.",
+      "link": "https://www.bbc.com/mundo/articles/c158q4qz0p0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 22:04:53 GMT",
       "source": "BBC Mundo",
       "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59bc/live/0a1b0400-a070-11f1-a9ee-9bb6b032b6a3.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "ffce60071b26ca1e8a84",
+      "title": "Angourie Rice explica por qué no ha regresado a Spider-Man: Brand New Day",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Angourie Rice ha hablado sobre su ausencia en Spider-Man: Brand New Day después de haber formado parte de las tres películas anteriores de Tom Holland . La actriz entiende la decisión: Peter Parker ha dejado atrás el instituto y su nueva etapa necesitaba romper algunos lazos con aquel pasado. Spider-Man: Brand New Day recuperó a MJ y Ned Leeds en la vida de Peter Parker después de cuatro años separados, pero el regreso a personajes conocidos no fue completo. Flash Thompson y el señor Harrington recibieron referencias, mientras que Betty Brant ni siquiera apareció. Una ausencia especialmente llamativa si tenemos en cuenta que Angourie Rice llevaba vinculada a esta versión de Spider-Man desde Homecoming y que Betty es bastante más que una compañera de instituto perdida por el camino. En los cómics, el personaje tiene una larguísima historia alrededor de Peter Parker, J. Jonah Jameson y el Daily Bugle. Angourie Rice entiende que Betty Brant no encajara en la nueva historia Angourie Rice en Finding Emily Rice interpretó a Betty en Spider-Man: Homecoming, Spider-Man: Lejos de casa y Spider-Man: No Way Home, aunque su participación en esta última ya fue mucho más reducida, en parte por las complicaciones que provocó la pandemia durante la producción. Ahora la actriz ha explicado cómo imagina la vida de Betty después de todos esos acontecimientos y, sí, su respuesta encaja perfectamente con la personalidad que vimos en pantalla: «No lo sé. Probablemente esté practicando periodismo ético y, ya sabes, haciéndolo con estilo. Me gusta pensar que tiene un buen trabajo en algún sitio y que está haciendo algo que merece la pena. Algo con significado». La cuestión más interesante llegó cuando le preguntaron directamente si alguna vez se había planteado su regreso para Spider-Man: Brand New Day. Angourie Rice no parece haber recibido ninguna llamada que después terminara descartándose; sencillamente considera que Betty n",
+      "link": "https://www.cinemascomics.com/angourie-rice-no-spider-man-brand-new-day/",
+      "pubDate": "Tue, 01 Sep 2026 22:01:37 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/09/angourie-rice-spider-man.jpg"
+    },
+    {
+      "id": "302bc89c403e761b54d3",
+      "title": "El Pentágono minimiza la filtración de que Hegseth ignoró alerta clave de sus generales sobre Irán",
+      "summary": "4 altos mandos advirtieron al secretario de Guerra del riesgo de mantener tropas en Oriente Medio hasta el 2027, pero este restó importancia a sus palabras.",
+      "link": "https://actualidad.rt.com/actualidad/625328-pentagono-minimiza-filtracion-hegseth-ignorar-alerta-generales-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 22:00:39 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96e08ee9ff71361b1de95d.jpg"
+    },
+    {
+      "id": "7e0027c2d9d928cae48e",
+      "title": "El Barça inscribirá a Livakovic y a Brian Fariñas",
+      "summary": "Livakovic posando con la camiseta del Barça.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/09/01/barca-inscribira-dominik-livakovic-brian-farinas.html",
+      "pubDate": "Tue, 01 Sep 2026 21:56:07 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/27/6a900f890965d.jpeg"
+    },
+    {
+      "id": "a3e73252c220bb0bf56c",
+      "title": "Meta lanza una IA capaz de distinguir 20 voces en una sola grabación",
+      "summary": "Meta se ha adelantado a OpenAI al lanzar un modelo que transcribe voz en tiempo real . Desarrollado por el equipo de Superinteligencia, Muse Voice Transcribe es capaz de identificar distintas personas en una conversación y detectar las pausas. El nuevo modelo estará disponible en la API y en la app de Meta AI para Mac. De acuerdo con una publicación en su blog , Muse Voice Transcribe es el primer modelo de percepción en tiempo real que desarrolla Meta. A diferencia de otras variantes con las que ha experimentado la compañía, esta IA puede distinguir más de 20 hablantes distintos dentro de una misma grabación . Si has intentado grabar una reunión con varias personas hablando a la vez, seguramente sabrás que es casi imposible realizar una transcripción. Meta entrenó el sistema con más de 70 idiomas , de los cuales 25 pasaron por un proceso de validación exhaustiva antes del lanzamiento. Esta variedad no solo permite que más personas puedan hacer transcripciones, sino también hablar en múltiples idiomas en la misma conversación . La compañía señala que los hablantes bilingües alternan entre idiomas de forma natural y a veces lo hacen a mitad de una frase, lo cual no representará problemas para este modelo. En la parte técnica, la arquitectura detrás de Muse Voice Transcribe procesa el audio en fragmentos de 80 milisegundos . Esto equivale a 12,5 segmentos por segundo, los cuales se convierten cada uno en un token que analiza de forma autorregresiva. En cada fragmento, la IA es capaz de elegir si emite una palabra de inmediato o espera el siguiente bloque de audio para obtener más contexto. Muse Voice Transcribe reconoce a más de 20 personas hablando, incluso si cambian idioma Según Meta, este sistema funciona porque no todas las palabras requieren el mismo tiempo de análisis. Las palabras sencillas se transcriben casi al instante, mientras que aquellas que son ambiguas o más difíciles de interpretar necesitan más contexto antes de que la IA las convierta a texto. Los i",
+      "link": "https://hipertextual.com/inteligencia-artificial/meta-muse-voice-transcribe-ia-transcripcion-tiempo-real/",
+      "pubDate": "Tue, 01 Sep 2026 21:50:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/meta-transcribir-muse.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "modelos"
+    },
+    {
+      "id": "4ff6f248168404266efc",
+      "title": "Lamine sobre Julián Álvarez: \"Goles no están faltando, obviamente es un gran jugador, pero...\"",
+      "summary": "El extremo del Barça, que ha sido premiado mejor jugador de la V Edición de los Premios AFE, habla sobre el delantero argentino y asegura estar muy satisfecho con la plantilla blaugrana",
+      "link": "https://www.marca.com/futbol/barcelona/2026/09/01/lamine-sobre-julian-alvarez-goles-estan-faltando-obviamente-gran-jugador-video.html",
+      "pubDate": "Tue, 01 Sep 2026 21:47:03 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/dz7UQ1gboizXiqkW9.jpeg"
+    },
+    {
+      "id": "67740523f3ae16dd60e0",
+      "title": "\"Tolerancia cero\": EE.UU. planea inminentes sanciones contra el sector bancario de Irán",
+      "summary": "Washington busca \"asfixiar económicamente\" a Teherán, indicó el secretario del Tesoro de Estados Unidos.",
+      "link": "https://actualidad.rt.com/actualidad/625365-tolerancia-cero-eeuu-planea-anunciar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 21:43:43 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a971605e9ff71466736cf95.jpg"
+    },
+    {
+      "id": "6a46157faf8a2382c511",
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, martes 01 de septiembre",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-martes-01-septiembre_0_AGIWA64pRU.html",
+      "pubDate": "Tue, 01 Sep 2026 21:27:17 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/09/07/CNlsanAY3_1200x630__1.jpg"
+    },
+    {
+      "id": "a27b374292b66fbf9ec0",
+      "title": "Oxido, amianto y moho: revelan grave deterioro en varias bases del Ejército estadounidense (FOTOS)",
+      "summary": "La Oficina de Responsabilidad Gubernamental advierte que estas condiciones ponen en riesgo tanto las operaciones como la calidad de vida de los militares.",
+      "link": "https://actualidad.rt.com/actualidad/625281-oxido-amianto-moho-grave-deterioro-bases-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 21:26:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96aabbe9ff715bbb7f0d86.jpg"
+    },
+    {
+      "id": "b856e60ab0920c11d0b8",
+      "title": "El fútbol español sigue de fiesta en la Gala de los premios AFE",
+      "summary": "Foto de familia en la Gala AFE.",
+      "link": "https://www.marca.com/futbol/2026/09/01/futbol-espanol-sigue-fiesta-gala-premios-afe.html",
+      "pubDate": "Tue, 01 Sep 2026 21:25:38 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a9726a09404f.jpeg"
+    },
+    {
+      "id": "4b5f5ef5235abed5d19c",
+      "title": "Piden en Francia declarar a Milei 'persona no grata' y esta es la razón",
+      "summary": "Medio centenar de políticos, intelectuales y artistas impulsan la iniciativa antes de la próxima visita del presidente argentino a París.",
+      "link": "https://actualidad.rt.com/actualidad/625389-piden-francia-declarar-milei-persona?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 21:24:48 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a97356959bf5b1a917953b5.jpg"
+    },
+    {
+      "id": "7b1326e583bd060f8380",
+      "title": "Boca se despidió de Exequiel Zeballos: le dedicó un emotivo video y Monza ya lo presentó como refuerzo",
+      "summary": "La novela del Changuito tuvo final feliz para todos, a meses de quedar libre. El delantero recibió una oferta millonaria que le permitirá jugar en Italia. Desde Boca le prepararon una serie de posteos, destacando su paso.",
+      "link": "https://www.clarin.com/deportes/boca-despidio-exequiel-zeballos-dedico-emotivo-video-monza-presento-refuerzo_0_kmjQyKp0Rc.html",
+      "pubDate": "Tue, 01 Sep 2026 21:24:45 +0000",
+      "source": "Clarin",
+      "cat": "cinema",
+      "image": "https://www.clarin.com/img/2026/09/01/L8LT4XobI3_1200x630__1.jpg"
+    },
+    {
+      "id": "e17e92e524dad99becf6",
+      "title": "Lamine Yamal: “Apoyaros entre vosotros y soñar porque todo se puede\"",
+      "summary": "Lamine Yamal dejó este mensaje de apoyo y motivación a todos los futbolistas tras recibir el reconocimiento del fútbol español en los Premios AFE.",
+      "link": "https://www.marca.com/futbol/barcelona/2026/09/01/lamine-yamal-apoyaros-vosotros-sonar-video.html",
+      "pubDate": "Tue, 01 Sep 2026 21:24:33 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/dz56k1gboOhVLxUZH.jpeg"
+    },
+    {
+      "id": "b482fc78a475336f8fc1",
+      "title": "Fuerte condena a mujer que entregó más de 200 dólares por una recién nacida en Sudamérica",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/625402-condenar-mujer-entregar-dolares-recien-nacida?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 21:24:26 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://actualidad.rt.com/feeds/all.rss"
+    },
+    {
+      "id": "3286f65fd20264cc9049",
+      "title": "\"No estaba en sus cabales\": para dos testigos, Maradona tendría que haber sido internado en una clínica psiquiátrica y hubo cruces con las defensas",
+      "summary": "Un psiquiatra y un médico clínico de la junta médica coincidieron en que el Diez requería otro tipo de cuidados de los que recibió en la casa del barrio San Andrés de Tigre. Hubo tensión con los abogados de Luque, Cosachov y Díaz. Pidieron citar a Claudio Belocopitt, dueño de Swiss Medical, como testigo.",
+      "link": "https://www.clarin.com/policiales/cabales-testigos-maradona-internado-clinica-psiquiatrica-cruces-defensas_0_19bwtUh04Y.html",
+      "pubDate": "Tue, 01 Sep 2026 21:22:15 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/11/29/m0yqxC_W1_1200x630__1.jpg"
+    },
+    {
+      "id": "00db28ae083c8d107b79",
+      "title": "Caputo se reunió con Bessent tras el respaldo de EE.UU. al rumbo económico de Milei",
+      "summary": "El ministro de Economía y el secretario del Tesoro de Estados Unidos avanzaron en una agenda común y analizaron el vínculo bilateral entre ambos países. El ministro de Econom a, Luis Toto Caputo , se reuni con el secretario del Tesoro de Estados Unidos, Scott Bessent , en el marco de las actividades vinculadas al G20 de Finanzas, con el objetivo de profundizar la relaci n bilateral entre la Argentina y Estados Unidos. Durante el encuentro los funcionarios repasaron la agenda econ mica de ambos pa ses y avanzaron en temas de inter s com n, en l nea con el estrecho v nculo que mantienen los gobiernos de Javier Milei y Donald Trump. La reuni n se produjo luego de la participaci n de ambos funcionarios en las actividades del G20 de Finanzas. Antes del encuentro con Caputo, Bessent hab a realizado una exposici n en la que destac el proceso econ mico que lleva adelante la Argentina y el respaldo que el Gobierno de Milei obtuvo en las ltimas elecciones. El respaldo de Bessent al programa argentino Durante su exposici n, Bessent sostuvo que la Argentina est atravesando una oportunidad hist rica y vincul el proceso pol tico y econ mico del pa s con cambios que, seg n su interpretaci n, tambi n se observan en otras naciones de la regi n. Argentina est liderando una oportunidad hist rica en el hemisferio occidental , afirm el funcionario estadounidense. En ese sentido, destac el respaldo obtenido por Milei entre sectores de menores ingresos y los j venes y se al : Si analizamos en detalle la ltima elecci n del presidente Milei, vemos que los sectores m s pobres de la sociedad y los j venes que antes se inclinaban por la izquierda le dieron su apoyo . Bessent agreg que esos cambios tambi n pod an observarse, a su criterio, en pa ses como Bolivia, Colombia, Chile y Ecuador. Las declaraciones fueron valoradas por Caputo, quien posteriormente las comparti en su cuenta de la red social X. Es un reconocimiento al proceso de transformaci n que est llevando adelante el presidente Javi",
+      "link": "https://www.eldiarioar.com/economia/caputo-reunio-bessent-respaldo-ee-uu-rumbo-economico-milei_1_13480865.html",
+      "pubDate": "Tue, 01 Sep 2026 21:13:47 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/bcb134b2-d54e-4c47-9605-609c039d1fcc_16-9-discover-aspect-ratio_default_1150291.jpg"
+    },
+    {
+      "id": "4f1ecb373694e997303e",
+      "title": "El Como de Fàbregas ficha a Robert Sánchez desde el Chelsea",
+      "summary": "Robert Sánchez, en un partido con el Chelsea",
+      "link": "https://www.marca.com/futbol/liga-italiana/2026/09/01/fabregas-ficha-robert-sanchez-chelsea.html",
+      "pubDate": "Tue, 01 Sep 2026 21:13:02 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a9723b4ee924.jpeg"
+    },
+    {
+      "id": "8be809c026a1c1914918",
+      "title": "Enzo Fernández al Manchester City: mejoró su propio monto récord de transferencias y lidera el top 10 de las ventas de argentinos",
+      "summary": "El mediocampista de 25 años dejó el Chelsea, que lo había comprado al Benfica de Portugal después de ser campeón del mundo en una cifra histórica. Además, hay otro jugador cuyas dos transferencias están en el Top 10 de los futbolistas argentinos.",
+      "link": "https://www.clarin.com/deportes/enzo-fernandez-manchester-city-mejoro-propio-monto-record-transferencias-lidera-top-10-ventas-argentinos_0_Bo3wl0Ey2v.html",
+      "pubDate": "Tue, 01 Sep 2026 21:11:22 +0000",
+      "source": "Clarin",
+      "cat": "sports",
+      "image": "https://www.clarin.com/img/2025/08/17/oeK3lOZvVR_1200x630__1.jpg"
+    },
+    {
+      "id": "756ea22c9d19de45274b",
+      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, martes 01 de septiembre",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-martes-01-septiembre_0_HOD7CLaAew.html",
+      "pubDate": "Tue, 01 Sep 2026 21:03:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/09/01/rX73bpwcD_1200x630__1.jpg"
+    },
+    {
+      "id": "1e3f1b334b141023e7ab",
+      "title": "Una minera clave para Santa Cruz invertirá US$ 60 millones para producir más oro",
+      "summary": "Se trata de Newmont y el desembolso forma parte del plan de ampliación de Cerro Negro para iniciar una nueva operación a cielo abierto. Hace más de una década, la principal mina santacruceña produce oro y plata bajo un esquema subterráneo.",
+      "link": "https://www.clarin.com/energia-y-mineria/minera-clave-santa-cruz-invertira-us-60-millones-producir-oro_0_Q21bEvqXos.html",
+      "pubDate": "Tue, 01 Sep 2026 21:02:46 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/09/01/ZZBB6vN61_1200x630__1.jpg"
+    },
+    {
+      "id": "0c80f16b9335e0e7197f",
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, martes 01 de septiembre",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-martes-01-septiembre_0_z8kzH4zxo8.html",
+      "pubDate": "Tue, 01 Sep 2026 21:02:01 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/09/07/KwJToH8X1_1200x630__1.jpg"
+    },
+    {
+      "id": "e4d0d1c3da34062f9781",
+      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, martes 01 de septiembre",
+      "summary": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-martes-01-septiembre_0_BNZaBJNadL.html",
+      "pubDate": "Tue, 01 Sep 2026 21:01:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2020/06/30/7Q57WRXhE_1200x630__1.jpg"
+    },
+    {
+      "id": "0a6f058bfc6c6629bdac",
+      "title": "Get Jiro llega a HBO Max: la salvaje obra de Anthony Bourdain se convierte en serie de DC Studios",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com DC Studios tiene preparado para octubre uno de sus proyectos más extraños de 2026, pero esta vez no hay superhéroes, capas ni conexiones que memorizar. Get Jiro , la adaptación animada de la novela gráfica creada por el célebre chef y escritor Anthony Bourdain junto a Joel Rose, se estrenará el 4 de octubre en HBO Max , después de debutar la noche anterior en Adult Swim dentro del bloque Toonami en Estados Unidos. La presencia de DC Studios puede provocar una pregunta bastante lógica después de la creación del nuevo universo encabezado por James Gunn y Peter Safran: ¿significa esto que Get Jiro forma parte del DCU? No hay ninguna indicación de que sea así y todo apunta a que estamos ante una producción completamente independiente del universo de Superman , Batman , Green Lantern y compañía. Su relación con DC viene de mucho antes: la historia nació como una novela gráfica publicada originalmente bajo Vertigo . Get Jiro convierte Los Ángeles en una guerra donde los chefs tienen el poder La premisa podría parecer una broma hasta que uno recuerda quién la creó. En el futuro postapocalíptico de Get Jiro , la obsesión contemporánea por la gastronomía ha evolucionado hasta convertirse literalmente en una estructura de poder. Los grandes chefs gobiernan Los Ángeles como señores del crimen, la comida determina el estatus social y conseguir una mesa en determinados restaurantes puede convertirse en una cuestión de vida o muerte. En medio de ese mundo aparece Jiro, un misterioso y extremadamente peligroso maestro del sushi interpretado en la versión original por Brian Tee , conocido especialmente por Chicago Med . Su llegada lo coloca en medio de una guerra entre facciones culinarias mientras comienza a desarrollar su propia búsqueda de venganza. La serie cuenta además con Titus Welliver , protagonista de Bosch y Bosch: Legacy ; Alison Pill , a quien hemos visto en producciones como Scott Pilgrim contra el mundo y ",
+      "link": "https://www.cinemascomics.com/get-jiro-serie-hbo-max-dc-studios/",
+      "pubDate": "Tue, 01 Sep 2026 21:00:12 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/09/get-jiro-backdrop-tmdb-1200x676.jpg"
+    },
+    {
+      "id": "d60ec313be27e6c27138",
+      "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, martes 01 de septiembre",
+      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-martes-01-septiembre_0_bkv2ep233p.html",
+      "pubDate": "Tue, 01 Sep 2026 21:00:00 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2022/06/08/dyrb7wNL6_1200x630__1.jpg"
+    },
+    {
+      "id": "92233540b545b3593e96",
+      "title": "\"Que EE.UU. diga que es dueño de recursos en Venezuela puede generar el resentimiento del que surgen los Hugo Chávez en América Latina\"",
+      "summary": "El politólogo Javier Corrales, que estudia desde hace años los hilos del poder en Venezuela, advierte en una entrevista que el acuerdo petrolero entre los gobiernos de Donald Trump y Delcy Rodríguez acarrea varios riesgos.",
+      "link": "https://www.bbc.com/mundo/articles/c4gqmz701vmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 20:59:59 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c22/live/7e669df0-a643-11f1-9547-7578d73af9f6.jpg"
+    },
+    {
+      "id": "8ef0e6b2d1d9f7b7d10f",
+      "title": "Congelación de óvulos: la RFEF en defensa de la maternidad",
+      "summary": "La selección española campeona de la Nations League",
+      "link": "https://www.marca.com/futbol/futbol-femenino/2026/09/01/congelacion-ovulos-rfef-defensa-maternidad.html",
+      "pubDate": "Tue, 01 Sep 2026 20:58:57 +0200",
+      "source": "Marca",
+      "cat": "sports",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a971fdac4640.jpeg"
+    },
+    {
+      "id": "41e7a53d28597fddb53e",
+      "title": "Murió el hombre que había sido atropellado por un patrullero de la Policía Bonaerense que iba a asistir una emergencia del 911",
+      "summary": "Nicolás Romero, de 31 años, circulaba en bicicleta en el barrio Don Orione de Almirante Brown, cuando fue embestido. El ciclista estuvo más de dos semanas internado y falleció este martes producto de las graves heridas.",
+      "link": "https://www.clarin.com/sociedad/murio-hombre-atropellado-patrullero-policia-bonaerense-iba-asistir-emergencia-911_0_n9zn4ts3ZW.html",
+      "pubDate": "Tue, 01 Sep 2026 20:57:40 +0000",
+      "source": "Clarin",
+      "cat": "poleco",
+      "image": "https://www.clarin.com/img/2026/08/23/tHYPB-3In_1200x630__1.jpg"
+    },
+    {
+      "id": "eac813ff6ea37538d00b",
+      "title": "Putin responde si Rusia podría atacar instalaciones militares en el Reino Unido",
+      "summary": "A su vez, cualquier instalación militar en Ucrania, incluidas las británicas, son objetivos legítimos para las Fuerzas Armadas rusas, subrayó el presidente ruso.",
+      "link": "https://actualidad.rt.com/actualidad/625401-putin-responde-rusia-podria-atacar-reino-unido?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "pubDate": "Tue, 01 Sep 2026 20:53:09 +0000",
+      "source": "RT en Español",
+      "cat": "israel",
+      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a97424ae9ff71063a358a95.jpg"
     },
     {
       "id": "c41399a68d755b0051be",
-      "title": "LaLiga defiende su modelo: \"En el año 2012 no se pagaba ni al electricista\"",
+      "title": "El padre del control económico explica cómo un recién ascendido ficha a Aubameyang, Adama y Giménez",
       "summary": "Javier Tebas y Javier Gómez, en un acto de LaLiga.",
       "link": "https://www.marca.com/futbol/primera-division/2026/09/01/laliga-defiende-modelo-ano-2012-pagaba-electricista.html",
       "pubDate": "Tue, 01 Sep 2026 20:49:45 +0200",
@@ -134,14 +555,55 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/19/68cd155dc129c.jpeg"
     },
     {
+      "id": "f6d3ec23e3320d1916be",
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "summary": "Miembros del Cuerpo de la Guardia Revolucionaria Islámica (IRGC) posan frente a una pancarta con el retrato del difunto líder supremo de Irán, el ayatolá Alí Jamenei, durante una ceremonia en memoria del ayatolá Jamenei celebrada en la Gran Mezquita del Imán Jomeini, en el centro de Teherán (Irán), el 18 de agosto de 2026.",
+      "link": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html",
+      "pubDate": "Tue, 01 Sep 2026 20:42:07 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4N2HSEGYOZGL7G65LGB44VFAWQ.jpg?auth=540f9fe4c1fbc15392efeafd061f951e208a00f952bec642b328b308ac6184c1"
+    },
+    {
+      "id": "e12298ea004cc1857bad",
+      "title": "Anthropic lanza Claude Mythos 5.1 y Fable 5.1, sus IA más avanzadas, y hay muy buenas noticias para tu bolsillo",
+      "summary": "Anthropic no quita el pie del acelerador y continúa evolucionando sus IA más avanzadas. La compañía acaba de lanzar Claude Mythos 5.1 y Fable 5.1 , sus nuevos modelos insignia, que una vez más elevan el listón en lo que respecta a rendimiento relacionado con tareas de programación y de conocimientos generales. Un punto interesante que menciona Anthropic es que Claude Fable 5.1 y Mythos 5.1 son exactamente el mismo modelo. La diferencia entre ambos radica en que el primero tiene medidas de protección mucho más robustas y estrictas que permiten su disponibilidad general; en tanto que la nueva versión de Mythos mantiene su acceso restringido a socios de confianza aprobados con anticipación. Que Claude Fable 5.1 y Mythos 5.1 sean el mismo modelo no sorprende. Sin embargo, hasta aquí Anthropic había optado por hablar de Fable como modelos de \"clase Mythos\", sin trazar un paralelismo tan directo entre ambos. Esto pone en evidencia que la compañía confía cada vez más en las salvaguardias que implementa en sus IA de alcance más amplio. En lo que respecta puntualmente a Claude Fable 5.1, las pruebas de rendimiento muestran una mejora notoria en la comparación directa con Fable 5. Esto se aprecia en aristas como programación e investigación científica agéntica, razonamiento multidisciplinario y flujos de trabajo empresariales, por citar algo. Sus desarrolladores mencionan que puede solucionar las causas raíz de fallos de software. Lo interesante es que, según Anthropic, Claude Fable 5.1 puede lograr resultados del mismo calibre o superiores a los de Fable 5 incluso al usar los niveles de esfuerzo bajo o medio . Las mejoras en los resultados corresponden a que el nuevo modelo no utiliza atajos que puedan influir negativamente en sus resultados finales. Claude Fable 5.1 y Mythos 5.1, las nuevas bestias de Anthropic Más allá de las bondades de Fable 5.1, Anthropic reveló las mejoras de Claude Mythos 5.1. La compañía hizo especial hincapié en las optimizaciones de su IA más poten",
+      "link": "https://hipertextual.com/inteligencia-artificial/anthropic-claude-mythos-5-1-y-fable-5-1/",
+      "pubDate": "Tue, 01 Sep 2026 20:38:48 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/mythos-y-fable-51.jpg?fit=1024%2C538&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "modelos"
+    },
+    {
+      "id": "85d98b8c6dbef8392b82",
+      "title": "Piden declarar a Javier Milei “persona no grata” en París antes de su visita",
+      "summary": "Un grupo de políticos, intelectuales y artistas presentó una solicitud ante el Ayuntamiento de París y reclamó que no haya recepción oficial ni distinciones para el Presidente argentino. Cuestionaron sus políticas económicas y sociales y también la situación de la Casa Argentina. Un grupo de pol ticos, intelectuales y artistas pidi este martes al Ayuntamiento de Par s que declare persona no grata al presidente Javier Milei , antes de la visita que el mandatario tiene previsto realizar a la capital francesa entre fines de septiembre y comienzos de octubre, en el marco de la denominada Argentina Week . La iniciativa fue difundida a trav s de la plataforma Change.org y est dirigida al Consejo de Par s. El documento solicita que la ciudad adopte una posici n cr tica frente a la visita presidencial y reclama, adem s, que las autoridades parisinas rechacen toda recepci n oficial y toda distinci n para Milei. Pedimos al Consejo de Par s que declare al presidente argentino persona non grata en nuestra ciudad. Tras casi tres a os de mandato, la pol tica de austeridad radical de Javier Milei pesa gravemente sobre la sociedad argentina , sostiene el texto. Hacia las 15 de Par s, unas 150 personas hab an adherido a la petici n, que inicialmente fue impulsada por medio centenar de personalidades. Entre los primeros firmantes figuran los ediles parisinos Genevi ve Garrigos y Rodrigo Arenas, quien adem s es diputado, junto con intelectuales y referentes vinculados con la Argentina y Am rica Latina. Tambi n aparecen entre los adherentes el actor argentino Nahuel P rez Biscayart, la abogada Sophie Thonon, representante de familias de desaparecidos franceses durante la ltima dictadura argentina, y los cineastas Santiago Amigorena y Alberto Marquardt. Cr ticas a la gesti n de Milei La petici n cuestiona distintas pol ticas implementadas durante la gesti n del Presidente argentino. Entre sus argumentos menciona el desmantelamiento de los servicios p blicos , las vulneraciones de los de",
+      "link": "https://www.eldiarioar.com/politica/piden-declarar-javier-milei-persona-no-grata-paris-visita_1_13480806.html",
+      "pubDate": "Tue, 01 Sep 2026 20:35:14 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/e6f0b5d8-8e78-43f1-a540-b1657b5ddaaa_16-9-discover-aspect-ratio_default_0_x1126y457.jpg"
+    },
+    {
       "id": "246fed1e3ef477a0fa6d",
-      "title": "Jonathan David ya es jugador del Atlético",
+      "title": "El Atleti ya tiene '9'",
       "summary": "El canadiense se convierte en nuevo jugador rojiblanco",
       "link": "https://www.marca.com/futbol/atletico/2026/09/01/jonathan-david-jugador-atletico.html",
       "pubDate": "Tue, 01 Sep 2026 20:28:34 +0200",
       "source": "Marca",
       "cat": "sports",
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95955abd756.jpeg"
+    },
+    {
+      "id": "f38fca00deb2d82419e7",
+      "title": "Gremios universitarios paran este miércoles tras fracasar la reunión salarial con el Gobierno",
+      "summary": "El Ejecutivo ofreció una recomposición del 3% para septiembre y ratificó otro 3% para octubre. Los sindicatos consideraron insuficiente la propuesta y cuestionaron que la convocatoria haya sido utilizada para “ganar tiempo ante la Justicia”. La reuni n entre el Ministerio de Capital Humano y los representantes de los gremios docentes y no docentes de las universidades nacionales termin este martes sin acuerdo, por lo que las organizaciones sindicales ratificaron un paro de 24 horas para este mi rcoles 2 de septiembre . El encuentro tuvo como objetivo retomar la negociaci n salarial del sector universitario y estuvo encabezado por el subsecretario de Pol ticas Universitarias, Alejandro lvarez . Seg n inform el Ministerio de Capital Humano, la propuesta oficial contempla un incremento total del 6% para el pr ximo bimestre. La oferta incluye una suba del 3% sobre las remuneraciones correspondientes a septiembre y la ratificaci n del aumento del 3% previsto para octubre, porcentaje que hab a sido acordado y comprometido formalmente durante las mesas de negociaci n de junio. De este modo, la propuesta consolidada por el Poder Ejecutivo alcanza un incremento total del 6% para el personal docente de la actividad universitaria , se al la cartera que conduce Sandra Pettovello. Sin embargo, la propuesta fue rechazada por los gremios, que consideraron que el porcentaje ofrecido se encuentra muy por debajo de los incrementos reclamados y de los montos que, seg n sostienen, el Gobierno adeuda al sector. Los gremios cuestionaron la propuesta Oscar Vallejos , secretario adjunto de CONADU Hist rica y secretario de Formaci n de la CTA, confirm al t rmino de la reuni n que el Frente Gremial Universitario realizar el paro previsto para este mi rcoles. Como Frente Gremial Universitario vamos a un paro de 24 horas ma ana , afirm , y anticip que este jueves 3 de septiembre los sindicatos se reunir n en Bariloche, en el marco del plenario del Consejo Universitario Nacional, donde definir ",
+      "link": "https://www.eldiarioar.com/politica/gremios-universitarios-paran-miercoles-fracasar-reunion-salarial-gobierno_1_13480795.html",
+      "pubDate": "Tue, 01 Sep 2026 20:14:44 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/089ed7ea-01d6-4a0e-a53f-78e1a1f16ce8_16-9-discover-aspect-ratio_default_0_x924y341.jpg"
     },
     {
       "id": "d8cb2964bab60def3e2c",
@@ -184,6 +646,16 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a971131f1a1d.jpeg"
     },
     {
+      "id": "1df93457b2c2ab42c068",
+      "title": "Este inesperado thriller danés se ha convertido en un fenómeno en Netflix",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com The Secret Woman (Den hemmelige kvinde) acaba de aterrizar en Netflix y ya se ha colado entre las películas más vistas del planeta. El thriller danés, construido alrededor de una mujer que descubre que su propia identidad podría ser una mentira, ha escalado las listas de la plataforma en cuestión de días y lidera el ranking en varios países. The Secret Woman conquista Netflix Netflix vuelve a demostrar que sus grandes éxitos no necesitan hablar inglés ni llegar acompañados de una campaña promocional gigantesca. The Secret Woman se estrenó el 28 de agosto de 2026 y, apenas tres días después, ya ocupaba el número 2 de la clasificación mundial de películas de la plataforma según los datos recopilados por FlixPatrol el 31 de agosto. No hablamos precisamente de un título que llevara meses acumulando expectación. El thriller danés ha ido creciendo casi por sorpresa gracias a una premisa que mezcla pérdida de memoria, identidades ocultas y ese tipo de revelaciones que obligan al espectador a replantearse constantemente lo que acaba de ver. Su avance tampoco se limita al mercado europeo. En Estados Unidos alcanzó el tercer puesto dentro del Top 10 de películas de Netflix, quedándose únicamente por detrás de algunos de los títulos que dominaban el catálogo durante esos días. La fotografía internacional resulta todavía más llamativa. The Secret Woman consiguió situarse como la película número uno de Netflix en siete territorios: Dinamarca, Noruega, Suecia, Rumanía, Guadalupe, Martinica y Reunión Para una producción danesa estrenada prácticamente sin hacer ruido, no está nada mal. The Secret Woman ¿De qué trata The Secret Woman? La historia sigue a Louise, una mujer que lleva una existencia aparentemente tranquila junto a su novio Joachim en una isla. Todo cambia cuando aparece un desconocido y asegura reconocerla, aunque no por el nombre con el que ella ha vivido hasta ese momento. Según este hombre, Louise sería e",
+      "link": "https://www.cinemascomics.com/thriller-danes-es-un-fenomeno-en-netflix/",
+      "pubDate": "Tue, 01 Sep 2026 20:02:03 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/09/The-Secret-Woman.jpg"
+    },
+    {
       "id": "725d77c5ca1ea10d79d8",
       "title": "Richard Ríos al Al-Ittihad: ¿Qué futbolistas regresaron a la élite de Europa tras estar en Arabia Saudí?",
       "summary": "Richard Ríos se une a la lista de figuras de que fichan por la liga de Arabia Saudita estando en Europa.",
@@ -194,14 +666,24 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a970dd7e0c9d.jpeg"
     },
     {
-      "id": "eb6cd1fae8f150d46599",
-      "title": "La Juve incorpora al 'gigante' Woltemade un año después de que el Newcastle pagara 75 kilos",
-      "summary": "Nick Woltemade, firmando su contrato",
-      "link": "https://www.marca.com/futbol/liga-italiana/2026/09/01/juventus-incorpora-gigante-woltemade-ano-despues-newcastle-pagara-75-millones.html",
-      "pubDate": "Tue, 01 Sep 2026 19:46:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a970f4f94eb0.jpeg"
+      "id": "4b185f18a9ce9930bac1",
+      "title": "Los interesados en comprar el polémico ático de la Comunidad de Madrid no pueden visitarlo",
+      "summary": "El ático de la Comunidad de Madrid en subasta.",
+      "link": "https://elpais.com/espana/madrid/2026-09-01/los-interesados-en-comprar-el-polemico-atico-de-la-comunidad-de-madrid-no-pueden-visitarlo.html",
+      "pubDate": "Tue, 01 Sep 2026 19:50:30 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/N5FIZ74W5VHYZATPXPHFVQFPJM.jpg?auth=b68202100951509622e8e7309aaff900a269c1804678f31f0efeaf08a31c8f96"
+    },
+    {
+      "id": "a12cc2f2b7341ef9e8c8",
+      "title": "Ravier evitó adelantar el mensaje de Milei sobre Malvinas y negó que exista una crisis económica",
+      "summary": "El vocero reveló que recibió la instrucción de no dar detalles antes de la cadena nacional del jueves. Confirmó que la SIDE participa de la preparación del discurso y defendió los números de empleo y salarios. Adri n Ravier lleg este martes a la conferencia de prensa con una instrucci n precisa: no adelantar qu dir Javier Milei el jueves cuando hable por cadena nacional sobre la cuesti n Malvinas . El vocero presidencial confirm que el mensaje ser a las 21 , ratific que el Gobierno considera el reclamo de soberan a una prioridad y esquiv las sucesivas preguntas destinadas a conocer qu hay detr s de la expectativa que la propia Casa Rosada instal durante las ltimas horas. No puedo decir mucho. Las Malvinas son argentinas. El Presidente esto lo plantea como una prioridad , respondi Ravier ante la primera bater a de consultas. Se al que el canciller Pablo Quirno viene trabajando el asunto desde el punto de vista diplom tico , pero evit precisar si hubo conversaciones con Donald Trump , si Estados Unidos podr a asumir alg n papel como facilitador frente al Reino Unido o si las novedades tendr n alguna derivaci n durante la pr xima Asamblea General de las Naciones Unidas (ONU). No tengo informaci n sobre el contenido; de hecho, se est trabajando en este momento , sostuvo. Adrián Ravier En ese contexto, Ravier aport adem s un dato sobre la preparaci n del discurso: la Secretar a de Inteligencia del Estado (SIDE) participa de su elaboraci n. Seg n explic al comienzo de la conferencia, el contenido est siendo trabajado por Milei junto con Quirno y el organismo de inteligencia . No dio precisiones sobre cu l es espec ficamente la intervenci n de la SIDE en el mensaje. El hermetismo, de todas maneras, no respondi solamente a la falta de definiciones. El propio Ravier termin por revelar que hab a recibido un pedido durante la reuni n de gabinete para no ampliar p blicamente la informaci n. Vamos a dejar que el propio Presidente en cadena nacional ampl e todo lo relativo al tem",
+      "link": "https://www.eldiarioar.com/politica/ravier-evito-adelantar-mensaje-milei-malvinas-nego-exista-crisis-economica_1_13480734.html",
+      "pubDate": "Tue, 01 Sep 2026 19:42:15 +0000",
+      "source": "El Diario AR",
+      "cat": "ar_pol",
+      "image": "https://static.eldiario.es/clip/f1769b82-9ce4-47ee-b1e0-80a8b1c6d425_16-9-discover-aspect-ratio_default_0_x276y126.jpg"
     },
     {
       "id": "b1e323d93514cd438564",
@@ -214,6 +696,37 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a97097aa5a9f.jpeg"
     },
     {
+      "id": "b5a1c1343d18c0c9649f",
+      "title": "Sonos abre la puerta a ChatGPT y anuncia la mayor actualización de software de su historia",
+      "summary": "Si tienes un altavoz Sonos , seguramente te has preguntado qué está pasando con la compañía. A más de dos años de la debacle de la nueva app , la empresa reapareció a inicios de año con dos nuevos dispositivos , aunque canceló sus planes para lanzar un competidor del Chromecast. Hoy vuelve de nuevo a los titulares con la mayor actualización de software de su historia: Sonos 27 . De acuerdo con el comunicado de prensa , la nueva versión de su sistema operativo está pensada para controlar el sonido del hogar mediante IA . Sonos busca que sus altavoces dejen de depender de una app y se conviertan en una plataforma abierta a distintos asistentes, como ChatGPT y, posiblemente, Gemini y Claude. Sonos 27 se apoya en tres componentes principales: un asistente, una capa de conexión y una plataforma de agentes. El primero, conocido como Sonos 27voice, está diseñado para controlar la música y ambientes sonoros del hogar. Por su parte, Sonos 27mcp es la capa que conecta cualquier asistente o agente de IA externo a tu sistema de altavoces. Sonos abre la puerta a ChatGPT y agentes de IA personalizados Atty Eleti, responsable de producto de ChatGPT Voice en OpenAI, explicó que esta integración permitirá pedirle a ChatGPT que reproduzca música en cualquier parte de la casa desde el teléfono o el ordenador, sin necesidad de abandonar la conversación en curso. En el caso de los agentes, la compañía usará la plataforma Sonos Custom Agents . Esta función permitirá crear hasta diez asistentes personales con voz y personalidad propia , cada uno pensado para tareas específicas como las rutinas del hogar o controlar tus altavoces conectados. Nick Millington, director de innovación de Sonos, dijo que el hogar inteligente no depende de un único asistente que lo haga todo, sino de la posibilidad de elegir (o crear) el agente adecuado para cada tarea. Otra novedad de este anuncio es Sonos Fabric , una tecnología que permite a los dispositivos detectarse entre sí y adaptar su función según el m",
+      "link": "https://hipertextual.com/tecnologia/sonos-27-sistema-operativo-ia-altavoces/",
+      "pubDate": "Tue, 01 Sep 2026 19:25:00 +0000",
+      "source": "Hipertextual",
+      "cat": "ia",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/02/sonos-altavoz.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "subcat": "desarrollo"
+    },
+    {
+      "id": "e39d213e9d74948db32d",
+      "title": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
+      "summary": "El acuerdo anunciado por Donald Trump y Delcy Rodríguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.",
+      "link": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 19:23:44 GMT",
+      "source": "BBC Mundo",
+      "cat": "poleco",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4679/live/c136eaa0-a4df-11f1-a732-7953178f646a.jpg"
+    },
+    {
+      "id": "edd9df7c98e885feacd4",
+      "title": "Guerra híbrida contra Europa",
+      "summary": "Un artificiero trabajaba el 5 de agosto junto a un robot desactivador de explosivos cerca de una aeronave ucrania en el aeropuerto de Leipzig.",
+      "link": "https://elpais.com/opinion/2026-09-01/guerra-hibrida-contra-europa.html",
+      "pubDate": "Tue, 01 Sep 2026 19:15:51 GMT",
+      "source": "El Pais",
+      "cat": "tech",
+      "image": "https://imagenes.elpais.com/resizer/v2/BAG6N6QEXJAXPFKOO3SYMGWGLM.jpg?auth=21b31ea9ffefbc7d4a40fa1ce86b5e94bd3bd84ce2fa49ca213f25f54f8644d2"
+    },
+    {
       "id": "fd31b49d7c5e1a3089ae",
       "title": "Cuidado con pedir una excedencia en el trabajo: \"Puedes quedarte sin tu puesto\"",
       "summary": "EFE",
@@ -224,14 +737,14 @@
       "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96d67a6f605.png"
     },
     {
-      "id": "eaa32be5ba2fa298c7a9",
-      "title": "Revelan que la DEA permitió entrada de fentanilo a EE.UU.",
-      "summary": "La epidemia de consumo de este opioide se convirtió en una grave crisis de salud pública.",
-      "link": "https://actualidad.rt.com/actualidad/625344-revelar-dea-pemitir-entrada-fentanilo-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 19:04:53 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96f709e9ff7124d0729474.jpg"
+      "id": "e605713d4496536185cc",
+      "title": "Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”",
+      "summary": "Nihad, con su hija Amira, de cuatro años, y Farah Dayay, madre de una joven de 14, frente a la tienda de campaña en el Polígono de El Tarajal en la que duermen desde hace un mes.",
+      "link": "https://elpais.com/espana/2026-09-01/nervios-y-miedo-entre-familias-migrantes-acampadas-en-las-calles-de-ceuta-damos-vueltas-para-encontrar-donde-dormir.html",
+      "pubDate": "Tue, 01 Sep 2026 19:06:18 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/NY7SRAK56BDAPKGVI6OWDWYTLE.jpg?auth=44a1db6eebc44d0ec8c46a965944a716f8d868e5e65c1a81bd9e5bbb5c7eaf08"
     },
     {
       "id": "70225350a3073cd9e337",
@@ -254,54 +767,14 @@
       "image": "https://static.eldiario.es/clip/934e9c2f-dc76-4030-aaaf-8dbb855d4d7e_16-9-discover-aspect-ratio_default_0.jpg"
     },
     {
-      "id": "e4766859269269979e23",
-      "title": "China adapta su movilización de defensa a una nueva realidad bélica tras 16 años sin cambios",
-      "summary": "El conflicto entre Rusia y Ucrania confirmó el papel crítico de las tecnologías no tripuladas, inteligentes y cibernéticas en la guerra moderna, señaló un experto chino.",
-      "link": "https://actualidad.rt.com/actualidad/625363-china-adapta-movilizacion-defensa-nueva?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:56:34 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9702a6e9ff7144b80857f3.jpg"
-    },
-    {
-      "id": "735096f44aef2f74755b",
-      "title": "Ataques de EE.UU. contra Irán disparan los precios del petróleo",
-      "summary": "El crudo West Texas Intermediate subió 3,72 dólares.",
-      "link": "https://actualidad.rt.com/actualidad/625385-ataques-eeuu-iran-dispara-precios-petroleo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:55:59 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a97215d59bf5b590a50ff9c.jpg"
-    },
-    {
-      "id": "8b6d3f626218c2e13911",
-      "title": "Detienen en Jerusalén a un hombre sospechoso de adulterar comida para bebés con sedantes",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/625326-detener-hombre-sospechoso-adulterar-comida-bebes?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:54:58 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://actualidad.rt.com/feeds/all.rss"
-    },
-    {
-      "id": "2d43fd674e7f01a7ffe2",
-      "title": "Trump advierte que Irán será \"aniquilado por completo como país\"",
-      "summary": "",
-      "link": "https://actualidad.rt.com/actualidad/625383-trump-advertir-iran-sera-aniquilado?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:52:07 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9720c959bf5b4af57319e5.jpg"
-    },
-    {
-      "id": "cc7ec7d63c08e08961a0",
-      "title": "El Kremlin reacciona a la escalada por parte de Alemania",
-      "summary": "\"El hecho de que Alemania continúa por el camino de la escalada es evidente\", afirmó el portavoz presidencial ruso, Dmitri Peskov.",
-      "link": "https://actualidad.rt.com/actualidad/625382-kremlin-reacciona-escalada-parte-alemania?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:49:38 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a971f8e59bf5b7fc354c930.jpg"
+      "id": "9d6759c3f1ddd1095d68",
+      "title": "Lanterns explica por qué John Stewart está aprendiendo a ser un Green Lantern muy diferente a Hal Jordan",
+      "summary": "Esta noticia es una publicación original de Cinemascomics.com Lanterns acaba de dedicar uno de sus episodios más importantes a explicar por qué John Stewart no está siguiendo el mismo camino que otros Green Lanterns. El episodio 3, “OutKast”, no se limita a mostrar cómo fue preparado desde niño para portar un anillo de poder: también cuestiona directamente una de las ideas más antiguas asociadas al Cuerpo, la creencia de que un Green Lantern debe ser alguien prácticamente incapaz de sentir miedo. La guionista y productora Vanessa Baden-Kelly ha explicado que el objetivo era construir a un John Stewart que entendiera algo diferente: sentir miedo, querer a otras personas y aceptar las propias emociones no te hacen menos apto para ser Green Lantern; pueden convertirte precisamente en alguien mejor preparado para ejercer ese poder . Una idea que cambia la forma de interpretar su entrenamiento y que, además, coloca a Aaron Pierre en una posición muy particular dentro del futuro del DCU. Aviso: este artículo contiene spoilers importantes del episodio 3 de Lanterns , “OutKast”. El padre de John Stewart estuvo a punto de convertirse en Green Lantern antes que Hal Jordan La gran revelación del episodio comienza mucho antes de que John Stewart pueda siquiera comprender qué significa portar un anillo. Su padre, John Stewart Sr., fue considerado para convertirse en Green Lantern, pero terminó descartado cuando admitió que sentía miedo ante la posibilidad de abandonar a su mujer, sus hijos y la vida que había construido. El anillo terminó llegando a Hal Jordan , pero Lanterns evita presentar aquella decisión como la simple victoria del hombre más valiente. Vanessa Baden-Kelly explica que la esencia de Green Lantern nunca debería consistir en no experimentar miedo, sino en encontrar la voluntad necesaria para enfrentarse a él. Desde esa perspectiva, John Sr. no fracasa moralmente por elegir a su familia. Al contrario: su miedo nace precisamente de aquello que ama y de los límites",
+      "link": "https://www.cinemascomics.com/john-stewart-entrenamiento-green-lantern/",
+      "pubDate": "Tue, 01 Sep 2026 19:00:21 +0000",
+      "source": "CinemasComics",
+      "cat": "cinema",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/09/lanterns-episode-3-aaron-pierre.jpg"
     },
     {
       "id": "b9509fe168176ac0b413",
@@ -344,76 +817,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/SDY45NZJHFGEDF6ZCPPBZKNEUU.jpg?auth=c82a5069ce9ca456625efdeb829df72d0723665d83caec951f2f589535155cb8"
     },
     {
-      "id": "5c641c47fb1cbaa788db",
-      "title": "Ordenan el arresto de la cómplice del asesor de Milei preso por intento de feminicidio",
-      "summary": "La mujer habría sido la responsable de contactar con los sicarios que dispararon contra Nadia Beller, la pareja del consultor argentino Fernando Cerimedo.",
-      "link": "https://actualidad.rt.com/actualidad/625313-ordenar-arresto-complice-asesor-milei-preso?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:40:07 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96db4359bf5b4b776d38d8.jpg"
-    },
-    {
-      "id": "334919cdebb35ef1ba2c",
-      "title": "Sicario habla desde la clandestinidad con una estremecedora confesión sobre el caso Cerimedo",
-      "summary": "El hombre se atribuye el intento de asesinato contra Nadia Beller, pareja del consultor presidencial preso en Bolivia con cargos de tentativa de homicidio y enriquecimiento ilícito.",
-      "link": "https://actualidad.rt.com/actualidad/625302-sicario-habla-clandestinidad-estremecedora-confesion-cerimedo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:38:19 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96cc98e9ff714f24414bff.jpg"
-    },
-    {
-      "id": "408d5510ae660e7548f1",
-      "title": "Las decisiones clave que deja la cumbre que marca el rumbo de Eurasia",
-      "summary": "Cerró con acuerdos sobre seguridad, sanciones, Irán y la reforma del orden internacional, en una cita que reunió a más de 20 líderes mundiales.",
-      "link": "https://actualidad.rt.com/actualidad/625324-decisiones-clave-deja-cumbre-marca-rumbo-eurasia?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:37:04 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96fe8959bf5b1b14663a57.jpg"
-    },
-    {
-      "id": "6b0f5e230ff05164bae3",
-      "title": "Congresista revela a poderosos \"cómplices\" de Epstein y empuja ley para abrir millones de archivos",
-      "summary": "Figuras como el ilusionista David Copperfield o reconocidos magnates destacan en la lista leída en el Capitolio. La maniobra legislativa busca sacar a la luz más de 3 millones de archivos retenidos por el Gobierno de EE.UU.",
-      "link": "https://actualidad.rt.com/actualidad/625295-revela-poderosos-complices-epstein-ley-abrir-millones-archivos?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "pubDate": "Tue, 01 Sep 2026 18:35:17 +0000",
-      "source": "RT en Español",
-      "cat": "israel",
-      "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a96be8de9ff7121e94692c3.jpg"
-    },
-    {
-      "id": "3f0ed277349cf98bda4e",
-      "title": "Quiniela Nacional: resultado del sorteo de la Matutina de hoy, martes 01 de septiembre",
-      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-matutina-hoy-martes-01-septiembre_0_y17HeeblHx.html",
-      "pubDate": "Tue, 01 Sep 2026 18:33:51 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2022/06/08/PXguiWPiZ_1200x630__1.jpg"
-    },
-    {
-      "id": "c768eb19577896470a91",
-      "title": "Quiniela de Santa Fe: resultado del sorteo de la Matutina de hoy, martes 01 de septiembre",
-      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-matutina-hoy-martes-01-septiembre_0_PGtVFiGito.html",
-      "pubDate": "Tue, 01 Sep 2026 18:33:51 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/09/01/LDcQlufvU_1200x630__1.jpg"
-    },
-    {
-      "id": "2d358c0a5e5b37077ecc",
-      "title": "Quiniela de la Provincia: resultado del sorteo de la Matutina de hoy, martes 01 de septiembre",
-      "summary": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-matutina-hoy-martes-01-septiembre_0_DbFjOWmpQo.html",
-      "pubDate": "Tue, 01 Sep 2026 18:33:49 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/06/30/7Q57WRXhE_1200x630__1.jpg"
-    },
-    {
       "id": "45df3a9b33c3ff232898",
       "title": "La guerra híbrida de Rusia en suelo europeo se acelera un 50% desde abril",
       "summary": "Soldados franceses desmontan un dron durante el ejercicio Dynamic Front 26 el 9 de febrero de 2026 en Cincu, Rumanía.",
@@ -424,16 +827,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/NCL6G77NSJHIHAS4BKXR7RDQ2E.jpg?auth=4afaf55e7091ae97d7ac4eaf1cc0132bb4225fa88d912fcd07675c03392b50d8"
     },
     {
-      "id": "9cf32d95d44123e4a3df",
-      "title": "El principal aeropuerto de Venezuela vuelve a operar tras la destrucción que dejaron los terremotos",
-      "summary": "La terminal internacional Simón Bolívar, en Maiquetía, reanudó parcialmente sus vuelos después de dos meses. Por ahora operará con el 25% de los vuelos, y en los próximos meses se irán sumando más, a medida que avancen las obras de reparación.",
-      "link": "https://www.clarin.com/mundo/principal-aeropuerto-venezuela-vuelve-operar-destruccion-dejaron-terremotos_0_wR1B7OWgJr.html",
-      "pubDate": "Tue, 01 Sep 2026 18:32:06 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/09/01/-5HdPXx1B_1200x630__1.jpg"
-    },
-    {
       "id": "5a380832ae4d0f45b633",
       "title": "Dardo de Sony a jugadores: si eres un «consumidor razonable», ya sabes que tus juegos digitales de PlayStation no son tuyos",
       "summary": "Sony está en lucha con el público no solo por la muerte de los juegos de PlayStation físicos, sino también por las condiciones de venta de los digitales. En su respuesta a una demanda por el funcionamiento de la PlayStation Store y el sentido de propiedad de los títulos que se venden allí, la compañía argumentó que es una obviedad que los juegos digitales no les pertenecen a sus compradores . De acuerdo con Sony , cualquier \"consumidor razonable\" sabe que lo que se compra al interactuar con la PlayStation Store son licencias para acceder a los juegos, y no los juegos en sí mismos. La demanda contra la compañía se presentó en junio y sus impulsores sostienen que la tienda en línea infringe las leyes californianas, puesto que da a entender a los usuarios que están comprando algo, pero que en realidad solo lo están licenciando. En su respuesta ante la justicia, la empresa dijo que el acceso a licencias y no a los juegos en sí mismo está explicado de forma clara en los términos y condiciones de la plataforma. Pero no se limitó a ello, sino que planteó su propia lógica: si no se vendieran licencias, solamente un comprador podría obtener acceso a los juegos digitales de PlayStation . \"En la era digital, no es plausible alegar que los consumidores razonables creyeran que estaban adquiriendo la 'propiedad' de un juego digital. Si ese fuera el caso, entonces el demandante Edward Heycock no habría podido obtener el juego Resident Evil Requiem el 25 de febrero de 2026 por $69.99 de PlayStation Store después de que el demandante Jason Mendoza hubiera obtenido Resident Evil Requiem el 14 de febrero de 2026, porque el Sr. Mendoza, no Sony, habría sido el propietario en ese momento\", argumentaron desde la compañía. Sony se defiende de la polémica por la distribución de juegos digitales de PlayStation Así las cosas, Sony defiende el funcionamiento (y el negocio) de la PlayStation Store sosteniendo que sería imposible distribuir juegos digitales si no fuera por medio de un sistema d",
@@ -442,56 +835,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/roger-cai-NrNLY7vuLRY-unsplash-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "0113523c821d35d98d41",
-      "title": "Manu Lama, directo a Primera",
-      "summary": "Manu Lama, a la izquierda, durante un partido con el Granada",
-      "link": "https://www.marca.com/futbol/granada/2026/09/01/elche-lanza-lama.html",
-      "pubDate": "Tue, 01 Sep 2026 18:31:42 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96fd381bcab.jpeg"
-    },
-    {
-      "id": "17a18e0c51057e71ca3b",
-      "title": "Privatización del Belgrano Cargas: dos organismos internacionales ofrecieron financiar a la empresa que gane la licitación",
-      "summary": "El BID y el Banco Mundial comunicaron al Gobierno su interés en otorgar recursos a los futuros operadores ferroviarios. La Casa Rosada espera una inversión mínima de US$ 500 millones.",
-      "link": "https://www.clarin.com/economia/privatizacion-belgrano-cargas-organismos-internacionales-anticiparon-financiaran-empresa-gane-licitacion_0_jU0mej4wXy.html",
-      "pubDate": "Tue, 01 Sep 2026 18:30:37 +0000",
-      "source": "Clarin",
-      "cat": "ar_pol",
-      "image": "https://www.clarin.com/img/2022/10/22/SgkJyhNt0_1200x630__1.jpg"
-    },
-    {
-      "id": "9aea2e5b1f2df634eceb",
-      "title": "El nuevo Nokia 1100 cuesta unos US$ 32: qué ofrece y qué hay que saber en Argentina",
-      "summary": "Tiene batería para 40 días y también puede cargar otros dispositivos. El modelo recupera el teclado físico y prescinde de apps y redes sociales.",
-      "link": "https://www.clarin.com/informacion-general/nuevo-nokia-1100-cuesta-us-32-ofrece-saber-argentina_0_M5v0YAUXeu.html",
-      "pubDate": "Tue, 01 Sep 2026 18:30:30 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2023/10/03/jqWMVaKk1_1200x630__1.jpg"
-    },
-    {
-      "id": "ec205ec7fe5994d866f7",
-      "title": "Netanyahu se reúne con los embajadores de EE.UU. para Israel y el Líbano en Jerusalén",
-      "summary": "Netanyahu se reunió con embajadores de EE.UU. en un contexto de tensión creciente en el sur del Líbano, pese a esfuerzos diplomáticos. ONU advierte sobre la fragilidad en la región tras ataques israelíes y llama a cumplir la resolución 1701 para reducir tensiones.",
-      "link": "https://www.clarin.com/estados-unidos/netanyahu-se-reune-con-los-embajadores-de-ee-uu-para-israel-y-el-libano-en-jerusalen_0_CUypEsZPHj.html",
-      "pubDate": "Tue, 01 Sep 2026 18:30:18 +0000",
-      "source": "Clarin",
-      "cat": "israel",
-      "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
-    },
-    {
-      "id": "04c6e6db5028a23bc194",
-      "title": "Giulio, jubilado italiano de 70 años que vive en Canarias: “Estoy contento, pero no todo es positivo\"",
-      "summary": "El hombre decidió dejar Italia y establecerse definitivamente en una de las islas más buscadas de Canarias. Hoy asegura que volvería a tomar la misma decisión, aunque hay varios aspectos de su nueva vida que lo sorprendieron.",
-      "link": "https://www.clarin.com/internacional/giulio-jubilado-italiano-70-anos-vive-canarias-contento-positivo_0_7zvSw2qrr4.html",
-      "pubDate": "Tue, 01 Sep 2026 18:29:10 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/09/01/Pfj3_ZZnS_1200x630__1.jpg"
     },
     {
       "id": "b27cae933ab1decb37d4",
@@ -512,26 +855,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/1656f1f9-864e-456b-9bc4-18c70207ba95_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "bc0a2b00f8cda0527421",
-      "title": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, martes 01 de septiembre",
-      "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-martes-01-septiembre_0_EsxBUzGKxD.html",
-      "pubDate": "Tue, 01 Sep 2026 18:23:43 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2020/09/07/wmCN4uf2c_1200x630__1.jpg"
-    },
-    {
-      "id": "37a623ae40feb85db9ff",
-      "title": "José Antonio Marina, filósofo de 87 años: \"Todos vivimos gracias a los optimistas\"",
-      "summary": "El filósofo reivindica el optimismo no como ingenuidad, como la convicción de que los problemas pueden resolverse. Defiende la idea de que buena parte de los avances existen porque alguien se negó a aceptar que eran imposibles.",
-      "link": "https://www.clarin.com/estados-unidos/jose-antonio-marina-filosofo-87-anos-vivimos-gracias-optimistas_0_MCFTiru6r3.html",
-      "pubDate": "Tue, 01 Sep 2026 18:15:17 +0000",
-      "source": "Clarin",
-      "cat": "poleco",
-      "image": "https://www.clarin.com/img/2026/07/15/puerww_cr_1200x630__1.jpg"
     },
     {
       "id": "4be5d67a9481cc58096a",
@@ -564,16 +887,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/09/GTA-VI-2.jpg"
     },
     {
-      "id": "f6d3ec23e3320d1916be",
-      "title": "Estados Unidos bombardea Irán por segunda vez en 48 horas",
-      "summary": "Miembros del Cuerpo de la Guardia Revolucionaria Islámica (IRGC) posan frente a una pancarta con el retrato del difunto líder supremo de Irán, el ayatolá Alí Jamenei, durante una ceremonia en memoria del ayatolá Jamenei celebrada en la Gran Mezquita del Imán Jomeini, en el centro de Teherán (Irán), el 18 de agosto de 2026.",
-      "link": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html",
-      "pubDate": "Tue, 01 Sep 2026 17:56:57 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/4N2HSEGYOZGL7G65LGB44VFAWQ.jpg?auth=540f9fe4c1fbc15392efeafd061f951e208a00f952bec642b328b308ac6184c1"
-    },
-    {
       "id": "df98012a81cd3eae7e9c",
       "title": "Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara",
       "summary": "Playa de El Trampolín de Ceuta.",
@@ -592,16 +905,6 @@
       "source": "El Pais",
       "cat": "poleco",
       "image": "https://imagenes.elpais.com/resizer/v2/YWJCIXUR7ROOVA2RHSZ72JLAOM.jpg?auth=d38a4e8675878e7e87bdebb7627b2b92c0b9a02e37c6357e60288fa805d1cc4a"
-    },
-    {
-      "id": "3ed98ac1f17eae9496af",
-      "title": "A un paso del Deportivo",
-      "summary": "Giménez, en un partido del Atlético.",
-      "link": "https://www.marca.com/futbol/atletico/2026/09/01/deportivo-ultima-incorporacion-gimenez.html",
-      "pubDate": "Tue, 01 Sep 2026 17:44:28 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96f06d4b943.jpeg"
     },
     {
       "id": "ed8a94141aa61ca374e8",
@@ -633,56 +936,6 @@
       "cat": "ia",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/google-pics.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "subcat": "herramientas"
-    },
-    {
-      "id": "d3c4da9308238f0fa85e",
-      "title": "Jódar cambia de rival y jugará contra el chino Bu... si la lluvia lo permite",
-      "summary": "Bu, durante la previa.",
-      "link": "https://www.marca.com/tenis/us-open/2026/09/01/jodar-cambia-rival-jugara-chino-bu-lluvia-permite.html",
-      "pubDate": "Tue, 01 Sep 2026 17:37:43 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96f07c0a81c.jpeg"
-    },
-    {
-      "id": "26bb744972f47e65a612",
-      "title": "Louzán: \"España es el lugar donde debe jugarse la final del Mundial 2030\"",
-      "summary": "Rafael Louzán, presidente de la Real Federación Española de Fútbol",
-      "link": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/09/01/louzan-espana-lugar-debe-jugarse-final-mundial-2030.html",
-      "pubDate": "Tue, 01 Sep 2026 17:28:05 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/06/6a744288d2468.jpeg"
-    },
-    {
-      "id": "4afd45147eb17175f493",
-      "title": "Anonymous aplaude a Pedro Sánchez y lanza una advertencia: \"Francia y Alemania...\"",
-      "summary": "Anonymous izquierda, Pedro Sánchez derecha",
-      "link": "https://www.marca.com/tiramillas/politica/2026/09/01/anonymous-aplaude-palabras-pedro-sanchez-sobre-rusia-e-israel-lanza-advertencia-europa-francia-alemania.html",
-      "pubDate": "Tue, 01 Sep 2026 17:16:18 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96e997cf256.jpeg"
-    },
-    {
-      "id": "ebf00ca21bb399d758ba",
-      "title": "‘Rojo Schumacher’, la decoración especial de Ferrari para su carrera de casa",
-      "summary": "Edición especial del SF-26 para el GP de Italia",
-      "link": "https://www.marca.com/motor/formula1/gp-italia/2026/09/01/rojo-schumacher-decoracion-especial-ferrari-carrera-casa.html",
-      "pubDate": "Tue, 01 Sep 2026 17:14:11 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96e53a240b4.png"
-    },
-    {
-      "id": "a4f4f7a7b6a7dc1fa3ec",
-      "title": "¡Al palo Azparren! Tronchon brilla en el caos de Elche de la Sierra",
-      "summary": "Imagen de la línea de meta.",
-      "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/01/palo-azparren-tronchon-brilla-caos-elche-sierra.html",
-      "pubDate": "Tue, 01 Sep 2026 17:11:46 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96eac4b7c82.jpeg"
     },
     {
       "id": "f7f4341eab760ecf5158",
@@ -735,16 +988,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/09/ASUS-ROG-2.jpg"
     },
     {
-      "id": "0ec7965b1128c3a65f1e",
-      "title": "Así es el astronómico patrimonio de Sofía Suescun: de sus mansiones millonarias a sus coches de lujo",
-      "summary": "Así es el astronómico patrimonio de Sofía Suescun",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/09/01/asi-astronomico-patrimonio-sofia-suescun-mansiones-millonarias-coches-lujo-ahorros-banco.html",
-      "pubDate": "Tue, 01 Sep 2026 16:39:35 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96dffd2f465.jpeg"
-    },
-    {
       "id": "7520a1cab3762822ad25",
       "title": "Alemania acusó a Rusia de un “ataque híbrido” con drones en el aeropuerto de Leipzig a principios de agosto",
       "summary": "El ministro de Interior aseguró que el suceso \"encaja con el patrón establecido de las operaciones híbridas rusas en Europa\" y cerró el consulado ruso en Bonn. Alemania acus formalmente a Rusia de estar detr s de un ataque fallido con un dron en el aeropuerto de Leipzig el 4 de agosto. El suceso encaja con el patr n establecido de las operaciones h bridas rusas en Europa , dijo en una comparecencia ante los medios el ministro del Interior, Alexander Dobrindt, acompa ado del de Exteriores, Johann Wadephul. Dobrindt se al que los medios usados para llevar a cabo el atentado , entre ellos la configuraci n del dron, varias piezas del aparato y los explosivos que llevaba son conocidos de otras operaciones h bridas llevadas a cabo por Rusia en su guerra contra Ucrania , y afirm que el gobierno alem n concluye, por lo tanto, que Rusia es responsable del ataque h brido en Leipzig del 4 de agosto . El suceso de agosto revisti m s gravedad que otros registrados con drones en varios pa ses europeos, que siempre sospecharon de la responsabilidad rusa, y que obligaron a lanzar alertas y restringir las operaciones aeroportuarias en varias ocasiones este a o. Pero esta vez el dron llevaba una carga explosiva y penetr en el per metro del aeropuerto, hasta llegar a una zona donde hab a aviones de carga ucranianos. El titular de Interior indic en la comparecencia que los responsables inmediatos del ataque fallido son agentes de bajo nivel que actuaban por orden de las autoridades rusas. No estamos en guerra, pero somos objetivo diario de la guerra h brida , protest el ministro. Cierre del consulado ruso La primera consecuencia de las conclusiones alemanas es el cierre del consulado de Rusia en Bonn, seg n anunci Wadephul, as como la Casa Rusa de la Ciencia y la Cultura en Berl n. El Gobierno tambi n convoc al embajador ruso para comunicarle estas decisiones. Alemania tambi n impulsar que se impongan nuevas sanciones al pa s, en guerra con Ucrania tras invadirlo en 2022. La presidenta",
@@ -763,16 +1006,6 @@
       "source": "Hipertextual",
       "cat": "tech",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Street-Fighter.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "id": "4cde5e399125999a2258",
-      "title": "Flick se queda sin central... y una salida en el aire",
-      "summary": "Hansi Flick, entrenador del Barcelona.",
-      "link": "https://www.marca.com/futbol/barcelona/2026/09/01/flick-queda-central-cerrado-capitulo-incorporaciones.html",
-      "pubDate": "Tue, 01 Sep 2026 16:36:37 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96e1694c1d5.jpeg"
     },
     {
       "id": "339a4d211a3c85c06b64",
@@ -825,26 +1058,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6467/live/3ed32700-9ff7-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "e7b5a916b6cb81e9c6be",
-      "title": "El Real Madrid y el trámite de la fase previa de la Champions League",
-      "summary": "Las jugadoras del Real Madrid celebran un gol en el Di Stéfano",
-      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/09/01/real-madrid-tramite-fase-previa-champions-league.html",
-      "pubDate": "Tue, 01 Sep 2026 16:19:26 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96dea075ee9.jpeg"
-    },
-    {
-      "id": "ba03fdf7b8f1fb6796c5",
-      "title": "Milagro o 'Bonus Track' para la Real Sociedad",
-      "summary": "Once inicial de la Real Sociedad ante el Chelsea en Londres",
-      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/09/01/milagro-bonus-track-real-sociedad.html",
-      "pubDate": "Tue, 01 Sep 2026 16:15:33 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96bf20bdb0b.jpeg"
-    },
-    {
       "id": "ff90966547d221c3d72b",
       "title": "El Gobierno habla de \"avance diplomático\" y Milei hará una cadena nacional sobre Malvinas tras los dichos de Trump",
       "summary": "El Presidente hará el anuncio el jueves por la noche. La decisión se tomó durante la reunión de Gabinete de este martes, luego de que el mandatario estadounidense revelara que su gobierno revisa la posición de Washington sobre la disputa de soberanía con el Reino Unido. Javier Milei hablar el jueves por la noche en cadena nacional sobre la cuesti n Malvinas , apenas tres d as despu s de que Donald Trump revelara que su administraci n revisa la posici n de Estados Unidos sobre la disputa de soberan a entre la Argentina y el Reino Unido. La decisi n termin de tomar forma este martes durante una reuni n de gabinete en la Casa Rosada, donde el tema ocup buena parte de la discusi n internacional y el canciller Pablo Quirno present un informe sobre los movimientos diplom ticos que viene realizando el Gobierno. El anuncio adquiere una dimensi n particular por el momento elegido. Trump sorprendi el lunes cuando fue consultado en el Sal n Oval sobre si Washington estaba reconsiderando su postura respecto de las islas. Siempre reviso cada posici n. Esa es solo una de muchas , respondi . El mandatario estadounidense no precis si esa revisi n desembocar efectivamente en un cambio de pol tica, pero sus palabras fueron suficientes para generar expectativa en Buenos Aires y preocupaci n en Londres. Es que Estados Unidos reconoce la administraci n brit nica de facto sobre las islas , aunque formalmente mantiene una posici n de neutralidad frente a los reclamos contrapuestos de soberan a. Milei habló este martes de los dichos de Trump sobre Malvinas. Milei hab a dado una primera se al antes incluso de ingresar a la reuni n. En una entrevista concedida durante la ma ana defini lo ocurrido el lunes como algo muy fuerte respecto a la causa m s importante y sagrada que tenemos los argentinos y anticip que Malvinas formar a parte de la conversaci n con sus ministros. Seg n la informaci n oficial, fue Quirno quien tuvo a su cargo la exposici n espec fica durante el encuentro. El canciller",
@@ -853,16 +1066,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/7cf9c821-85e8-44dc-815c-0f6521ce9f48_16-9-discover-aspect-ratio_default_0_x555y225.jpg"
-    },
-    {
-      "id": "71feea37b10af3315749",
-      "title": "60 kilos por el belga que 'dejó tirada' a España",
-      "summary": "Matías Fernández-Pardo, con la camiseta de las 'urracas'.",
-      "link": "https://www.marca.com/futbol/premier-league/2026/09/01/newcastle-ficha-matias-fernandez-pardo-60-millones-euros.html",
-      "pubDate": "Tue, 01 Sep 2026 16:10:36 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96dc8754ba7.jpeg"
     },
     {
       "id": "0011a18c8e7f06681d77",
@@ -883,16 +1086,6 @@
       "source": "Perfil",
       "cat": "poleco",
       "image": "https://fotos.perfil.com/2026/09/01/trim/540/304/robo-a-jubilado-2316554.jpg"
-    },
-    {
-      "id": "67acffd7db80575ffdb8",
-      "title": "Rüdiger deja la selección alemana para centrarse en el Real Madrid",
-      "summary": "Rüdiger, con la selección alemana.",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/09/01/ruediger-deja-seleccion-alemana-centrarse-real-madrid.html",
-      "pubDate": "Tue, 01 Sep 2026 16:00:05 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96d2b46b91c.jpeg"
     },
     {
       "id": "eb569353e43023ca6cb0",
@@ -933,26 +1126,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/06c8196f-5c30-486a-bc39-dcc400cf5eca_16-9-discover-aspect-ratio_default_0_x637y187.jpg"
-    },
-    {
-      "id": "f812598e754c85cff5b2",
-      "title": "El homenaje eterno que choca con las reglas FIFA",
-      "summary": "Leo, con la 10 de Argentina.",
-      "link": "https://www.marca.com/futbol/2026/09/01/retirada-10-messi-vieja-idea-choca-reglas-fifa.html",
-      "pubDate": "Tue, 01 Sep 2026 15:13:30 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96b3ad51cdd.jpeg"
-    },
-    {
-      "id": "8577b2fc5d599d445387",
-      "title": "Pol Espargaró cree que Acosta ganará Mundiales y desvela qué le hace único",
-      "summary": "Pedro Acosta, en Aragón.",
-      "link": "https://www.marca.com/motor/motogp/gp-aragon/2026/09/01/pol-espargaro-cree-acosta-ganara-mundiales-desvela-le-unico.html",
-      "pubDate": "Tue, 01 Sep 2026 15:09:53 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a955f1139b66.jpeg"
     },
     {
       "id": "e39921f1a4d59ea111ce",
@@ -1045,26 +1218,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/09/Kit-Harington-y-Caballero-Negro-en-Marvel.jpg"
     },
     {
-      "id": "a157ce17911aabf3f8c5",
-      "title": "La Inspección de Trabajo de Cataluña abre un proceso sancionador a Glovo por no parar el reparto en plena ola de calor",
-      "summary": "Repartidores de Glovo en Barcelona, en una imagen de archivo.",
-      "link": "https://elpais.com/economia/2026-09-01/la-inspeccion-de-trabajo-de-cataluna-abre-un-proceso-sancionador-a-glovo-por-no-parar-el-reparto-en-plena-ola-de-calor.html",
-      "pubDate": "Tue, 01 Sep 2026 14:00:21 GMT",
-      "source": "El Pais",
-      "cat": "sports",
-      "image": "https://imagenes.elpais.com/resizer/v2/57ELYQHKVJEFTCSG7PVF7TZSXI.jpg?auth=42a2674c664870bb4665f8173ec054ccf1859108e5dc54219a805c58e9789b0e"
-    },
-    {
-      "id": "e9e6412f5d8a51209c1c",
-      "title": "Sandra Sánchez vuelve a competir",
-      "summary": "Sandra Sánchez, en los Juegos Mundiales de 2022.",
-      "link": "https://www.marca.com/otros-deportes/2026/09/01/sandra-sanchez-vuelve-competir.html",
-      "pubDate": "Tue, 01 Sep 2026 13:57:56 +0200",
-      "source": "Marca",
-      "cat": "sports",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/01/6a96bd2d5d8f7.jpeg"
-    },
-    {
       "id": "9fa0ed22e56bb4564e30",
       "title": "Haakon VIII jura como rey de Noruega ante el Parlamento",
       "summary": "El rey Haakon VIII de Noruega jura lealtad a la Constitución ante el Parlamento noruego, acompañado por la princesa heredera, Ingrid Alexandra, en Oslo, el 1 de septiembre de 2026.",
@@ -1147,6 +1300,16 @@
       "image": "https://imagenes.elpais.com/resizer/v2/RBFEM5HQABJCXPWSMPD52ZOW2A.jpg?auth=348e2a38e074c7441b38f38f3252ce38a55b1f5b5ea5c647834dfedd8c1ca095"
     },
     {
+      "id": "26e6948248424d96c29d",
+      "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
+      "summary": "Carlos Cuerpo, Elma Saiz y Ángel Víctor Torres, este martes en la rueda de prensa posterior al Consejo de Ministros.",
+      "link": "https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html",
+      "pubDate": "Tue, 01 Sep 2026 12:48:35 GMT",
+      "source": "El Pais",
+      "cat": "poleco",
+      "image": "https://imagenes.elpais.com/resizer/v2/4PLJSPHAWBGYHE3SYD7MHQR2TA.jpg?auth=571f21147f7325921e5a040666c50c9c5f0f87a88f03494dbaea5b1cb7902957"
+    },
+    {
       "id": "95d0f260bc42d49852a2",
       "title": "De Massa y Mayans a Pichetto y Alfonsín: dirigentes firmaron un documento a cuatro años del atentado a Cristina Kirchner",
       "summary": "El comunicado lleva las firmas de dirigentes de 23 espacios políticos. Bajo el título “La democracia no admite la eliminación del adversario”, la declaración fue difundida en el cuarto aniversario del intento de asesinato de la entonces vicepresidenta, ocurrido el 1° de septiembre de 2022. Dirigentes del peronismo, el radicalismo y otras fuerzas pol ticas difundieron una declaraci n conjunta, al cumplirse cuatro a os del atentado contra Cristina Fern ndez de Kirchner, en la que reclamaron nunca m s la violencia pol tica y reivindicaron la legitimidad del adversario como condici n para la convivencia democr tica. Entre los firmantes aparecen el jefe del bloque de senadores de Uni n por la Patria, Jos Mayans; Sergio Massa y Diego Giuliano, por el Frente Renovador; Miguel ngel Pichetto, de Encuentro Republicano Federal; Ricardo Alfons n, del Frente Amplio por la Democracia; y Federico Storani, de Radicalismo Aut ntico. Tambi n suscribieron el documento Juan Grabois, Mart n Sabbatella, Guillermo Moreno, Leopoldo Moreau, Carlos Heller, Emilio P rsico, Claudio Lozano, Gustavo L pez, Juan Carlos Alderete y otros referentes pol ticos. Bajo el t tulo La democracia no admite la eliminaci n del adversario , la declaraci n fue difundida en el cuarto aniversario del intento de asesinato de la entonces vicepresidenta, ocurrido el 1 de septiembre de 2022. Aquel hecho no puede ser reducido a un episodio aislado ni desvinculado del clima pol tico que lo precedi , sostuvieron los firmantes, que vincularon ese contexto con discursos de odio, campa as de estigmatizaci n, noticias falsas fake news , operaciones de desinformaci n y distintas formas de violencia pol tica , comienza el escrito. El documento plante adem s que existe una frontera que ninguna democracia puede permitirse cruzar: cuando la eliminaci n simb lica del adversario abre paso a la posibilidad de su eliminaci n f sica . En ese sentido, los dirigentes se alaron que el aniversario del atentado no interpela exclusivamente",
@@ -1175,16 +1338,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/aefe8491-1515-4ed3-87e3-699fa217aa6d_16-9-discover-aspect-ratio_default_0.jpg"
-    },
-    {
-      "id": "3fe7dbd26b71dcfdf6db",
-      "title": "Lionel Richie ingresa en la UCI para someterse a pruebas tras no poder seguir en pie en un concierto",
-      "summary": "Lionel Richie en Toronto, Canadá, en julio de 2019.",
-      "link": "https://elpais.com/cultura/2026-09-01/lionel-richie-ingresa-en-la-uci-para-someterse-a-pruebas-tras-no-poder-seguir-en-pie-en-un-concierto.html",
-      "pubDate": "Tue, 01 Sep 2026 11:58:03 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/U7YVG26EFZDUBCCIF5LSJIBGBQ.jpg?auth=9491ac19d44e4b076c5213ccfbc6231b72b1f70f139e9a56edaca52d3894e745"
     },
     {
       "id": "3d9673efedcf4920716c",
@@ -1256,6 +1409,16 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/a1ec1586-2d9f-424f-a343-c3f11283d9ab_16-9-discover-aspect-ratio_default_0_x665y550.jpg"
+    },
+    {
+      "id": "47758e362d08442efb88",
+      "title": "Verano desbocado en España: el más cálido registrado hasta ahora y el más mortífero con más de 5.000 fallecidos",
+      "summary": "Turistas en el Patio de Los Naranjos, en Córdoba, a mediados de agosto.",
+      "link": "https://elpais.com/clima-y-medio-ambiente/cambio-climatico/2026-09-01/verano-desbocado-en-espana-el-mas-calido-registrado-hasta-ahora-y-el-mas-mortifero-con-mas-de-5000-fallecidos.html",
+      "pubDate": "Tue, 01 Sep 2026 11:08:12 GMT",
+      "source": "El Pais",
+      "cat": "sports",
+      "image": "https://imagenes.elpais.com/resizer/v2/DHMCRSK5KZIALJQGE5YPA2US7Q.jpg?auth=38b685c7ff361a7bde08a24d37ee30f6071df5c0dfaaf24f802d20977f65325d"
     },
     {
       "id": "bb9360464bcbc9ec1a8d",
@@ -1561,36 +1724,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/JR5XDK6N7BEXDFDJ2C7F2QDUSA.jpg?auth=10911a67cebbbda88fe8cabdc2823476046e693441b86698cff5947ddcd6e0f6"
     },
     {
-      "id": "30cf7bf6bd0149f6566c",
-      "title": "La bomba climática de unos mares extremadamente calientes: “Cada vez hay más papeletas para una dana como la de 2024”",
-      "summary": "Los océanos han entrado desde hace unos años en terreno desconocido como consecuencia del cambio climático, pero este 2026 está dejando atónitos a los científicos al añadirse los efectos de un Niño extremo . Tras varios meses de marcas extraordinarias, el 22 de agosto se batió el récord de temperatura diaria más alta en la superficie oceánica desde que hay registros: 21,1 grados . Nunca antes se ha medido una media del agua del mar tan caliente y esto, además de tener consecuencias nefastas para la vida sumergida, convierte los mares en una bomba climática. “Cada vez tenemos más papeletas para que en España vuelva a suceder algo grave como en 2024″, incide Juan Jesús González Alemán, meteorólogo de la Aemet e investigador que ha estudiado cómo el calentamiento intensificó la catastrófica dana en la que murieron más de 230 personas. “Es preocupante que no se haga más en adaptación frente a estos eventos extremos”, afirma. Seguir leyendo",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-01/la-bomba-climatica-de-unos-mares-extremadamente-calientes-cada-vez-hay-mas-papeletas-para-una-dana-como-la-de-2024.html",
-      "pubDate": "Tue, 01 Sep 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": ""
-    },
-    {
-      "id": "767b10414854144eab47",
-      "title": "Los piratas de Somalia exhiben su creciente poderío con nuevos secuestros de buques",
-      "summary": "La bandera de Puntlandia ondea mientras soldados de las Fuerzas de Defensa patrullan la playa de Mareero, en Bosaso (Puntlandia, Somalia), en enero de 2025.",
-      "link": "https://elpais.com/internacional/2026-09-01/los-piratas-de-somalia-exhiben-su-creciente-poderio-con-nuevos-secuestros-de-buques.html",
-      "pubDate": "Tue, 01 Sep 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/GIE3MTHYF5EVZLB3IWCD3DFHTA.jpg?auth=73eed9dc830fc2b49c0608377c3b045b95270980652e90c2a579af487bfa1a08"
-    },
-    {
-      "id": "f65a9cbd24350e228e56",
-      "title": "Por qué la máquina de café ha sustituido al descapotable en la crisis de mediana edad masculina: “No son caprichos, es experiencia”",
-      "summary": "Kirk Douglas degusta un café (no de especialidad) en pijama de seda en 1955.",
-      "link": "https://elpais.com/icon/2026-09-01/por-que-la-maquina-de-cafe-ha-sustituido-al-descapotable-en-la-crisis-de-mediana-edad-masculina-no-son-caprichos-es-experiencia.html",
-      "pubDate": "Tue, 01 Sep 2026 03:30:01 GMT",
-      "source": "El Pais",
-      "cat": "poleco",
-      "image": "https://imagenes.elpais.com/resizer/v2/PHJLHMMDMZH4ZOC7OOAEJNW7XQ.jpg?auth=45366bde7f9be574435c36ccd89938ae15341c6a61fd7ce142ce2e1e7ed6afd8"
-    },
-    {
       "id": "498857a682096d680b54",
       "title": "Los hijos de Isak Andic elevan un récord de 255 millones vía dividendos al holding con el que controlan Mango y Punta Na",
       "summary": "En la parte superior de la imagen, las hermanas Sarah Andic y Judith Andic, en mayo pasado a su llegada a los juzgados de Martorell.",
@@ -1803,16 +1936,6 @@
       "image": "https://static.eldiario.es/clip/6c946dac-b3c7-4321-8910-baba6f1bc0a8_16-9-discover-aspect-ratio_default_0_x801y232.jpg"
     },
     {
-      "id": "20474c7e1c3eb75b71a0",
-      "title": "Trabajadores y empresarios de la industria se unen ante la crisis sectorial para armar un plan",
-      "summary": "La Confederación de Sindicatos Industriales (Csira) organizó un encuentro de trabajadores, estudiantes, representantes de la educación, pero sobre todo una nutrida delegación de hombres de negocios. La producción fabril cayó 8% en la era Milei, se perdieron 83.000 empleos y sólo en la provincia de Buenos Aires cerraron 1.300 plantas. Industria en crisis: caen las ventas de indumentaria mientras crece la tensión financiera y los despidos La caída del empleo no se frena: en un año se perdieron 141.700 puestos registrados No es habitual que sindicalistas y sus trabajadores representados se junten con los patrones para unir fuerzas. Pas en la crisis de 2001. Tambi n en el final del gobierno de Mauricio Macri. Este viernes volvieron a hacerlo en el camping del Sindicato de Mec nicos (Smata) en Ca uelas. Hasta all se trasladaron, a hora y cuarto de viaje en auto, Daniel Herrero, el presidente de Prestige Auto, la fabricante de utilitarios Mercedes-Benz; el nuevo jefe de la Uni n Industrial de la Provincia de Buenos Aires (Uipba), Alejandro Gentile; el tesorero de la Uni n Industrial Argentina (UIA), Silvio Zurzolo; el n mero uno de la Fundaci n Pro Tejer, Luciano Galfione, entre otros. Los convoc la Confederaci n de Sindicatos Industriales (Csira), que encabeza el mandam s de Smata, Ricardo Pignanelli. Es que la crisis industrial lo ameritaba. El sector manufacturero cay 8,8% en lo que va del gobierno de Javier Milei, seg n un informe de la consultora Audemus, de Mat as Kulfas. Se destruyeron 83.000 empleos. El salario alcanza para cada vez menos. Ahora el secretario de Trabajo, Julio Cordero, quiere promocionar que impulsar en las renegociaciones de convenios colectivos de trabajo un salario b sico bruto de $1mill n, pero eso no implicar aumento alguno si se tienen en cuenta que muy pocos sectores pagan tan poco. El economista Federico Pastrana, de la consultora CP, contabiliz que en una treintena de gremios s lo uno, maestranza, ganaba menos, unos $990.000, en abril pas",
-      "link": "https://www.eldiarioar.com/economia/trabajadores-empresarios-industria-unen-crisis-sectorial-armar-plan_1_13474518.html",
-      "pubDate": "Sun, 30 Aug 2026 13:21:43 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/31f9a042-d0b6-4a4d-b6eb-8de84cf6e1cc_16-9-discover-aspect-ratio_default_0_x615y430.jpg"
-    },
-    {
       "id": "e014566cacdf54916df9",
       "title": "La vida desnuda de Tove Ditlevsen",
       "summary": "La reciente llegada al español de \"Trilogía de Copenhague\" recupera la obra de Tove Ditlevsen, una escritora danesa extraordinaria cuya vida y escritura estuvieron atravesadas por la pobreza, la literatura, la adicción y una sensibilidad feroz. Una lectura sobre la infancia, la fragilidad y el precio de vivir de forma intensa. Una puede hacer dos cosas frente a la arbitrariedad del mundo editorial y su circulaci n de traducciones: lamentarse por lo que no llega, o lo que tarda en llegar, o al menos agradecer que las exclusiones y las demoras permitan parad jicas reivindicaciones que no hubieran sido posibles de otro modo. Tove Ditlevsen es un autora danesa nacida en 1917: la generaci n de Muriel Spark, Clarice Lispector, Natalia Ginzburg o Marguerite Duras. Si su obra hubiera circulado en ingl s o en espa ol tan tempranamente como la de las dem s autoras que mencion , yo probablemente jam s habr a reparado en ella. En cambio, como hace apenas siete a os lleg al ingl s, y reci n el a o pasado al espa ol, puedo leer rese as y art culos sobre esta escritora reci n descubierta , desde el narcisismo de mi espa ol pluric ntrico. Pas dos viajes de seis horas en un micro de larga distancia (la ida desde Buenos Aires hasta Santa Fe Capital, y el correspondiente regreso) con la Trilog a de Copenhague, que re ne tres novelas autobiogr ficas consecutivas publicadas por Ditlevsen: Infancia , Juventud y Dependencia . El estilo y el tono de Ditlevesen son absolutamente impresionantes: es una escritura viva, con un tono casi bipolar, sangu neo o fr o, nunca nada en el medio; fresco y eterno, con el mpetu del ahora y la ambici n de la posteridad. La voz de Ditlevsen, sobre todo, me llev a repensar unas cuantas tonter as actuales sobre lo solemne de las que estaba demasiado convencida sin ninguna justicia. Con la ma ana, llegaba la esperanza , escribe Ditlevsen para empezar Infancia , la memoria sobre su ni ez en una familia humilde en el barrio obrero de Vesterbro, Copenhague. Esa o",
@@ -1891,26 +2014,6 @@
       "source": "BBC Mundo",
       "cat": "poleco",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cc7/live/6072b780-a098-11f1-8a1f-314a01485cf4.jpg"
-    },
-    {
-      "id": "f65744074b98e2d18c5c",
-      "title": "¿Con o sin emoción?",
-      "summary": "Se cumplen 70 años de la muerte de Bertold Brecht. Qué legado nos dejó el dramaturgo alemán? Con un padre marxista y actor, era frecuente escuchar en mi casa de la infancia algunas l neas de di logo de los personajes de Bertold Brecht que le toc interpretar. Eran los ensayos dom sticos que experiment bamos mis hermanas y yo, dando vuelta las p ginas de los libretos tipeados en m quinas de escribir, para que nuestro padre probara la agilidad de su memoria, el buen desempe o en sus roles y cumpliera adem s con el deber de un militante materialista y dial ctico. El dramaturgo alem n era una s lida visita inmaterial, como si fuera el fantasma de un t o fallecido, que nos ven a a revelar ideas luminosas, como que la Historia se repite, la primera vez como tragedia y la segunda como farsa. En la Argentina de hoy, ser a como farsa tr gica. De aquel hombre de flequillo y lentes, autor de Madre Coraje y sus hijos y de La pera de tres centavos , se cumplen setenta a os de la muerte. Con esa excusa, la directora y docente teatral Julieta Grinspan tom el aniversario para revisitarlo con las Jornadas picas: Brecht aport la idea de que existen otras maneras de ser y hacer en las artes esc nicas, no s lo la tradicional. Y fue un pionero. Quisimos mirar de cerca sus pasos, motivados por la fecha. El teatro de Brecht busca desnaturalizar lo que percibimos como natural. Mueve a que podamos ver lo extraordinario en lo cotidiano y se asienta en la posibilidad de que la realidad pueda ser transformable. Ese es el camino largo ya no en l nea recta, sino a los saltos, aunque no siempre exista la voluntad de transitarlo . El hombre que form binomio creativo con el m sico Kurt Weill , el mismo que jugaba met dicamente al ajedrez y tocaba el la d en su primera juventud, comenz a leer El Capital en 1926, exactamente hace un siglo, una obra monumental y situada, que ensambla la econom a con la pol tica y marc para siempre su producci n est tica. Como otros artistas compatriotas, Brecht huy del",
-      "link": "https://www.eldiarioar.com/opinion/emocion_129_13474340.html",
-      "pubDate": "Sat, 29 Aug 2026 12:18:42 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/288250b1-641e-41b6-a54e-38ec2e515e40_16-9-discover-aspect-ratio_default_1150094.jpg"
-    },
-    {
-      "id": "e86f99befb39c7c639be",
-      "title": "Por qué las imágenes de las inundaciones en Tíbet no se están mostrando en China y sabemos poco sobre las víctimas allí",
-      "summary": "Algunas de las imágenes más impactantes de las mortales inundaciones repentinas permanecen ocultas al público en China.",
-      "link": "https://www.bbc.com/mundo/articles/czrz3mm0d82o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 10:33:11 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6ce/live/ce30f760-a376-11f1-b7d0-370a9c23ac83.jpg"
     },
     {
       "id": "222af5560f655cfbc946",
@@ -2024,16 +2127,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Street-Fighter-La-leyenda-de-Chun-Li.jpg"
     },
     {
-      "id": "20891173856b64a2c307",
-      "title": "Sony revela por qué ya no impulsa «agresivamente» las ventas de la PS5",
-      "summary": "Parece ayer que la PS5 llegó al mercado, pero la realidad dicta que ya pasaron casi seis años desde su debut en el mercado. Es cierto que al principio fue prácticamente imposible de conseguir, y tal vez eso todavía influya en sentir que no ha pasado tanto tiempo desde su lanzamiento. Sea como sea, la consola ya se encuentra en la segunda mitad de su ciclo de vida y eso es algo que no solo se refleja en el calendario, sino también en sus cifras de ventas. La comercialización de la PS5 ha pasado su etapa dorada, habiendo incluso registrado una fuerte caída en el último tiempo. En mayo se conoció que durante el trimestre previo se habían vendido \"apenas\" 1,5 millones de unidades, lo que marcaba un descenso del 46 % interanual. Sony entiende que esto es parte de un proceso lógico y que no corresponde exclusivamente a las subidas de precio que ha sufrido el producto. Es por ello que tampoco están promocionando el dispositivo con fiereza para que sus ventas repunten. Hiroki Totoki, CEO de Sony, fue bastante abierto sobre este asunto durante una reciente entrevista con The Wall Street Journal . El empresario japonés reconoció que la etapa de vender \"agresivamente\" la PS5 ha quedado en el pasado y que hoy el enfoque está puesto en otra parte del negocio. Puntualmente, el directivo habló de generar ingresos recurrentes de los usuarios ya existentes, un punto en el que las suscripciones a PlayStation Plus juegan un papel crucial. Sony quiere generar más ingresos de los usuarios de PS5 ya existentes \"Estamos en la segunda mitad del ciclo de vida de una consola PlayStation. Eso significa que no necesitamos 'vender agresivamente' la consola hoy. Y en lugar de eso, nos centramos en los ingresos recurrentes de la base de usuarios recurrente. Y PlayStation Plus ya tiene más de 125 millones de usuarios activos mensuales en la actualidad, y cómo monetizar a esos usuarios es muy importante para nosotros\", explicó Totoki. La PS5 ha sido una apuesta realmente exitosa para Sony, y eso es",
-      "link": "https://hipertextual.com/videojuegos/sony-ventas-agresivas-ps5/",
-      "pubDate": "Mon, 31 Aug 2026 20:47:34 +0000",
-      "source": "Hipertextual",
-      "cat": "tech",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/amanz-g7Eh8My866Y-unsplash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "id": "89ee5f881c8314855190",
       "title": "La carrera contrarreloj para rescatar a más de 600 obreros de hidroeléctricas atrapados en túneles tras la avalancha en Nepal y Tíbet",
       "summary": "Los equipos de rescate han comenzado a realizar explosiones controladas para despejar las galerías donde se cree que podrían estar atrapados los obreros, informaron las autoridades.",
@@ -2054,17 +2147,6 @@
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Ryan-Gosling-cine.jpg"
     },
     {
-      "id": "cceee6b20755acd5d199",
-      "title": "NVIDIA y MediaTek se unen para fabricar un superchip que dejará en ridículo al MacBook Pro",
-      "summary": "NVIDIA está un paso más cerca de desarrollar sus procesadores para ordenadores con Windows. El gigante tecnológico cerró un acuerdo con MediaTek para desarrollar RTX Spark , los chips de IA que debutaron hace unos meses en Computex. NVIDIA invertirá 3.500 millones de dólares en la empresa taiwanesa para consolidar una plataforma que combine potencia gráfica y capacidades de IA en un mismo chip. De acuerdo con el comunicado de prensa, NVIDIA aportará su experiencia en GPU e inteligencia artificial, mientras que MediaTek hará lo propio con su conocimiento en el diseño de chips ARM eficientes. Ambas ya trabajaron juntas en el DGX Spark, un ordenador de escritorio para IA que corre bajo Linux y que se anunció a inicios de 2025. MediaTek también apoyó en el desarrollo del GB10, un chip de arquitectura Blackwell para ejecutar modelos de lenguaje de forma local. Como parte de este acuerdo, MediaTek tendrá acceso al ecosistema NVLink Fusion , el cual permite conectar chips de distintos fabricantes entre sí de forma rápida. Además de los chips RTX Spark, la asociación también incluye al sector automotriz . Las dos empresas trabajarán en la plataforma Dimensity Auto de MediaTek y en implementaciones de la tecnología RTX en cabinas inteligentes y el sistema NVIDIA Drive AGX para conducción autónoma. “MediaTek es una de las grandes empresas de semiconductores del mundo, con una experiencia excepcional en diseño de sistemas en chip, conectividad, rendimiento líder y eficiencia energética”, dijo el CEO de NVIDIA, Jensen Huang. “Juntos, estamos construyendo plataformas que llevan la computación acelerada de NVIDIA a nuevos mercados y dan a los clientes la libertad de crear sistemas de IA diferenciados a enorme escala”. ¿Qué es RTX Spark y por qué importa para el futuro del PC? RTX Spark es el superchip \"todo en uno\" que NVIDIA presentó oficialmente durante Computex 2026 . Este procesador incluye una CPU personalizada de 20 núcleos basada en arquitectura ARM , la cual ha sido diseñ",
-      "link": "https://hipertextual.com/hardware/nvidia-mediatek-rtx-spark-chip-ia-windows/",
-      "pubDate": "Mon, 31 Aug 2026 19:30:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Nvidia-RTX-Spark.jpeg?fit=1024%2C651&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "empresas"
-    },
-    {
       "id": "8f529675e07a880e9eb8",
       "title": "Días de trueno 2 arranca con una polémica inesperada alrededor de Anne Hathaway",
       "summary": "Esta noticia es una publicación original de Cinemascomics.com La secuela de Días de trueno acaba de ponerse oficialmente en marcha con Tom Cruise y Anne Hathaway al frente, una fecha de estreno fijada para 2028 y el circuito de Daytona sirviendo como escenario para presentar el proyecto. Apenas unas horas después del anuncio, sin embargo, uno de los integrantes de la película original ha conseguido desviar parte de la conversación hacia una polémica que Paramount probablemente habría preferido evitar. Randy Quaid, que interpretó al propietario del equipo Tim Daland en la película de 1990, ha atacado públicamente el fichaje de Anne Hathaway , cuestionando su idoneidad para la secuela con comentarios sobre su embarazo, su atractivo y sus posiciones políticas. La situación resulta todavía más extraña porque el propio actor había asegurado poco antes que Tom Cruise le había llamado para participar en Días de trueno 2 . Randy Quaid quiere recuperar a Nicole Kidman para Días de trueno 2 El origen de la polémica está directamente relacionado con una de las decisiones más importantes de esta secuela. Paramount ha confirmado que Anne Hathaway acompañará a Tom Cruise en Días de trueno 2 , donde se espera que interprete a la propietaria de un equipo y también ingeniera, aunque por ahora los detalles concretos del argumento permanecen bajo secreto. Quaid no ha recibido precisamente bien la elección. El actor defendió públicamente que la película debería recuperar a Nicole Kidman , que interpretó a la doctora Claire Lewicki en la original, y pidió directamente a Cruise que volviera a contar con ella. Su crítica hacia Hathaway fue bastante más lejos al argumentar que no era una elección adecuada debido, entre otras cosas, a que actualmente está embarazada de su tercer hijo. La referencia a Kidman tiene un componente que trasciende la propia ficción. Cruise y la actriz se conocieron durante el rodaje de Días de trueno , se casaron en 1990 y permanecieron juntos hasta 2001. Durante",
@@ -2073,17 +2155,6 @@
       "source": "CinemasComics",
       "cat": "cinema",
       "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/dias-de-trueno.jpg"
-    },
-    {
-      "id": "66502197ef8ef5220bed",
-      "title": "Europa designa a ChatGPT como buscador y ahora deberá cumplir reglas más duras",
-      "summary": "Europa ha reforzado las regulaciones contra ChatGPT y otras plataformas en línea. El chatbot de IA ha sido designado como motor de búsqueda de gran tamaño dentro de la Ley de Servicios Digitales (DSA), lo que significa que tendrá que cumplir obligaciones adicionales. De no adherirse a las reglas, OpenAI podría enfrentarse a multas millonarias en el futuro. De acuerdo con un comunicado de prensa , la Comisión Europea designó a ChatGPT como motor de búsqueda en línea de muy gran tamaño , conocido por sus siglas VLOSE. El brazo ejecutivo aplicó esta medida porque el chatbot no solo responde preguntas mediante inteligencia artificial, sino que también puede buscar información en la web para elaborar sus respuestas . Debido a que el servicio supera los 45 millones de usuarios activos mensuales dentro de la Unión Europea, ahora tendrá que rendir cuentas de forma distinta. Según la Comisión, ChatGPT tendrá cuatro meses de plazo para cumplir con las obligaciones adicionales que impone la DSA. Entre ellas se encuentra evaluar y mitigar los riesgos derivados de su funcionamiento y de sus sistemas algorítmicos, principalmente en la difusión de contenido ilegal, los efectos negativos sobre menores de edad y el impacto en el bienestar físico y mental de los usuarios. OpenAI estará obligada a vigilar cuestiones relacionadas con los derechos fundamentales, elecciones y seguridad pública. Para garantizar que se cumplan estas reglas, Bruselas echará mano de Coimisiún na Meán, la autoridad irlandesa encargada de coordinar los servicios digitales. Debido a que ChatGPT tiene su sede en ese país, el organismo tendrá la capacidad de investigar a fondo su servicio y cualquier sistema relacionado con su operación. No solo ChatGPT: Reddit y Roblox también estarán en la mira de Europa Además de ChatGPT, la Comisión Europea anunció que Reddit y Roblox superaron el umbral de usuarios que activa las reglas más estrictas de la DSA. Estas plataformas recibieron una designación distinta, ya que se",
-      "link": "https://hipertextual.com/inteligencia-artificial/chatgpt-comision-europea-dsa-buscador-ia/",
-      "pubDate": "Mon, 31 Aug 2026 18:25:00 +0000",
-      "source": "Hipertextual",
-      "cat": "ia",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/chatgpt-phone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "subcat": "empresas"
     },
     {
       "id": "0a45ffae6eaf5766381b",
@@ -2104,16 +2175,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/2f250962-0a4e-499a-8e50-ce6982cb1b5a_16-9-discover-aspect-ratio_default_0_x935y315.jpg"
-    },
-    {
-      "id": "85374e51b71579b63aa0",
-      "title": "'Make Pluto a Planet Again': el debate para que Plutón vuelva a ser un planeta se intensifica dos décadas después",
-      "summary": "Desde que se le retiró la categoría de planeta en 2006, los defensores de Plutón estuvieron luchando contra esa decisión, y cada vez se muestran más apasionados: \"Fue casi un golpe de Estado\". La nueva carrera espacial acerca el 'efecto kessler': “El espacio podría volverse inutilizable por generaciones” Hace veinte a os, Plut n fue degradado. Tras una votaci n de la Uni n Astron mica Internacional (UAI) en agosto de 2006, pas de ser un planeta mayor a tener la categor a de planeta enano y el sistema solar tiene desde entonces solo ocho planetas. En aquel momento, muchos cient ficos se mostraron descontentos con la decisi n. Dos d cadas despu s, el debate est , si cabe, a n m s polarizado. La definici n de planeta que se cre entonces no sirve para nada , afirma Philip Metzger, director del Centro Stephen W. Hawking para la Investigaci n y la Educaci n en Microgravedad de la Universidad Central de Florida, Estados Unidos. Hace que la definici n resulte completamente in til en el mbito cient fico , considera. Metzger es uno de los muchos cient ficos tambien hay personas sin formaci n cient fica , que consideran que 'degradar' Plut n fue un gran error. Para algunos, la p rdida de estatus es la raz n por la que sienten tanto cari o por el explaneta . Representa al desvalido al que tanta gente anima, al nene del barrio al que todos bardean , afirma Kevin Schindler , historiador del Observatorio Lowell de Arizona, donde se descubri Plut n en 1930. Para otros, la decisi n de la UAI, y la forma en que se tom , es el n cleo del debate. Mi compromiso con la defensa de Plut n comenz el mismo d a de la votaci n , afirma la escritora, actriz y astr noma aficionada Laurel Kornfeld , que lleva una camiseta en la que se lee: Resistencia de Plut n, 20 a os: 2006-2026 . La campa a para restituir a Plut n con sus apasionados defensores, sus debates constantes, sus protestas ocasionales y sus peticiones parece limitarse en gran medida a Estados Unidos. Fue el que descubrimos nosotros ,",
-      "link": "https://www.eldiarioar.com/sociedad/make-pluto-planet-again-debate-pluton-vuelva-planeta-intensifica-decadas-despues_1_13477980.html",
-      "pubDate": "Mon, 31 Aug 2026 17:34:39 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/2a02d9f5-9e7b-497a-b144-6f852a6dd01c_16-9-discover-aspect-ratio_default_0_x995y862.jpg"
     },
     {
       "id": "382d98318d529902a523",
@@ -2196,26 +2257,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a8e4/live/6273ca90-a2fc-11f1-80b3-bf1a174ac193.jpg"
     },
     {
-      "id": "7b0dab5d9b0c9a0eb3bd",
-      "title": "La Guerra de la Luz convirtió Green Lantern en uno de los universos más grandes de DC",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Green Lantern tenía un universo enorme mucho antes de la Guerra de la Luz: 3.600 sectores, miles de agentes, los Guardianes y una historia cósmica de miles de millones de años. Pero fue el enfrentamiento entre los colores del espectro emocional el que transformó todos esos elementos en una mitología comparable con las grandes sagas espaciales de DC. La Guerra de la Luz no corresponde a un único evento con principio y final claramente separados. Es un conflicto anunciado mediante una profecía y construido durante años en la etapa de Geoff Johns . Sinestro Corps War , la aparición de los Red Lanterns, el secreto de la luz naranja y el nacimiento de los Blue Lanterns fueron frentes de una guerra que desembocó en Blackest Night . La profecía anunció que los colores terminarían destruyéndose entre sí El Libro de Oa contenía una advertencia sobre una guerra entre los Corps. A medida que nuevas luces aparecían, el orden que los Guardianes creían controlar empezó a resquebrajarse. La voluntad ya no era la única energía organizada del universo. Cada color desarrolló su propio ejército , juramento y visión del poder. El miedo buscaba imponer orden, la ira exigía venganza, la esperanza ofrecía salvación y la avaricia pretendía poseerlo todo. La guerra resultaba inevitable porque aquellas fuerzas no eran simples facciones políticas: eran impulsos básicos de la vida convertidos en armas. Los Guardianes respondieron con secretismo y nuevas leyes. Como tantas veces en su historia, su intento de evitar una profecía contribuyó a hacerla posible. Sinestro Corps War demostró que el miedo podía organizarse mejor que la voluntad Sinestro Corps War fue el primer gran estallido. Sinestro construyó un ejército de seres capaces de inspirar un miedo inmenso y lo lanzó contra los Green Lanterns. Entre sus aliados se encontraban amenazas como Parallax, Superboy-Prime y el Anti-Monitor. La guerra obligó a los Guardianes a autorizar q",
-      "link": "https://www.cinemascomics.com/green-lantern-guerra-de-la-luz-dc/",
-      "pubDate": "Mon, 31 Aug 2026 15:00:23 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Blackest-Night-green-lantern.jpg"
-    },
-    {
-      "id": "30644e31c1a71f7d8ba9",
-      "title": "Chris Evans revela qué tiene de especial interpretar a la Antorcha Humana frente al Capitán América",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Chris Evans pasó casi una década convertido en Capitán América (2011 &#8211; 2019), pero recuperar a Johnny Storm en Deadpool y Lobezno (2024) le recordó algo que había dejado atrás: la enorme libertad que supone interpretar a un personaje sin apenas filtros. Chris Evans ha dejado dos huellas muy distintas dentro de Marvel. Para toda una generación será siempre Steve Rogers , el Capitán América que terminó convirtiéndose en uno de los grandes pilares del Universo Cinematográfico Marvel. Pero antes del escudo, del suero del supersoldado y de los Vengadores hubo otro héroe bastante menos disciplinado: Johnny Storm . Su inesperado regreso como la Antorcha Humana en Deadpool y Lobezno recuperó al personaje que Chris Evans había interpretado en las dos películas de Los 4 Fantásticos estrenadas en 2005 y 2007 . Y lo curioso es que volver a ponerse en su piel casi veinte años después fue muchísimo más sencillo de lo que cabría imaginar. Chris Evans no tuvo ningún problema para volver a ser Johnny Storm Durante su participación en Fan Expo Boston , el actor fue preguntado por cómo había sido recuperar a Johnny Storm después de tantos años. Su respuesta deja bastante claro que la personalidad del personaje sigue guardada en algún rincón especialmente accesible de su cabeza. “Volver a meterme en el papel fue facilísimo. No sé qué dice eso de mí, que ese personaje esté tan disponible para mí en todo momento, pero me encantaba ese papel. Me encantaba interpretarlo y, sí, fue&#8230; en realidad es como un sueño.” Tiene sentido. Johnny Storm y Steve Rogers prácticamente representan extremos opuestos dentro de la galería de héroes que ha interpretado Chris Evans. Steve es disciplinado, responsable y siempre parece estar pensando en lo que necesita el resto del equipo. Johnny, en cambio, es exactamente el tipo de persona que descubriría que puede prenderse fuego y empezaría inmediatamente a pensar cómo convertirlo en el ",
-      "link": "https://www.cinemascomics.com/chris-evans-antorcha-humana-capitan-america/",
-      "pubDate": "Mon, 31 Aug 2026 14:01:41 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/chris-evans-deadpool-and-wolverine.jpg"
-    },
-    {
       "id": "73ac7218147af2912cae",
       "title": "El ministro Caputo aumentó su patrimonio a US$13,4 millones y tiene el 97% depositado en cuentas fuera del país",
       "summary": "El titular de Economía tiene la mayor parte de sus ahorros líquidos en el exterior, a contramano de sus propias recomendaciones para que los argentinos confíen en el sistema financiero local. Luis Caputo present ante la Oficina Anticorrupci n su declaraci n jurada patrimonial correspondiente a 2025, y los datos muestran que mantiene la mayor parte de sus ahorros fuera del pa s. Caputo declar una fortuna personal de US$13,4 millones al final del a o pasado, un incremento del 37% en d lares frente a los US$9,7 millones que hab a declarado al inicio de 2025. El ministro declar dep sitos por unos US$8,65 millones distribuidos en nueve cuentas distintas en el extranjero, adem s de acciones y bonos, lo que representa dos tercios de su patrimonio colocados fuera de la Argentina. Es una definici n que contrasta con las recomendaciones que el propio Caputo hace p blicamente para que canalicen sus ahorros a trav s del sistema financiero local. Del total de dinero l quido declarado 12.730 millones de pesos , unos 12.422 millones, el 97%, est n depositados en el exterior. La DDJJ de Luis Caputo. El salto m s llamativo, de acuerdo con un desglose realizado por el periodista Alejandro Bercovich, se dio en una cuenta en particular, radicada en Estados Unidos, que pas de $4.018.483.336 a $11.738.447.944 durante el a o . Caputo no detalla en su declaraci n jurada en qu entidad ni bajo qu figura est n depositados esos fondos. El incremento patrimonial se dio, adem s, pese a un nivel de gasto declarado que multiplica varias veces el sueldo que Caputo percibe como funcionario. De dividir los gastos anuales no deducibles ($49.340.548,44) y personales ($237.535.253,19) que declar por los doce meses del a o, el resultado es un gasto mensual de unos 24 millones de pesos, seis veces lo que gana como ministro de Econom a. La DDJJ de Luis Caputo. Los inmuebles que declar son los mismos que un a o atr s: su vivienda, un departamento heredado en Recoleta, tres cocheras, un lote en Benav dez, ot",
@@ -2224,16 +2265,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/89e3360e-216d-43ec-b254-4d5abf055b48_16-9-discover-aspect-ratio_default_0_x914y322.jpg"
-    },
-    {
-      "id": "63948ece75a7cb87ef35",
-      "title": "Quirno recibió al canciller de Paraguay, que tuvo como asesor a un \"amigo y socio\" de Cerimedo",
-      "summary": "Rubén Ramírez Lezcano estuvo este mediodía al Palacio San Martín. La Cancillería paraguaya lleva más de un año y medio sin responder los pedidos de informes sobre el rol de \"Andy\" Rivas, consultor del funcionario de Santiago Peña y con lazos afectivos y de negocios con el consultor argentino detenido en Bolivia. El canciller Pablo Quirno recibi este mediod a a su par de Paraguay, Rub n Ram rez Lezcano , para mantener un encuentro bilateral en el Palacio San Mart n, un encuentro que tiene un v nculo con el caso de Fernando Cerimedo . El canciller paraguayo tuvo como asesor a Andr s \"Andy\" Rivas , socio y amigo del consultor argentino detenido en Bolivia. Desde el Palacio San Mart n no trascendi m s infirmaci n que la formal sobre el encuentro, que llama la atenci n en medio del caso del exasesor de Javier Milei , detenido en Bolivia por el intento de femicio de su pareja Nadia Beller. Cerimedo cultiv relaciones en toda la regi n y tiene un pie en Paraguay a trav s de Rivas, a quien l mismo calific de socio y amigo a inicios de este a o en un evento en Miami. elDiarioAR ya revel la historia de la dupla Cerimedo-Rivas. Rivas es el alter ego del exasesor mile sta, con quien se repart an los trabajos de consultor a electoral en distintos pa ses de la regi n. Cerimedo lo llam socio y amigo el 11 de febrero pasado cuando subi al escenario de la Hispanic Prosperity Gala para recibir el premio al Consultor Pol tico Hispano del A o . La menci n no era antojadiza: ambos fueron parte de la campa a electoral que gan Nasry Asfura en Honduras en 2025, a la par que Rodrigo Paz se alzaba con el triunfo en Bolivia. Ya en el poder, mientras Cerimedo se instal en el gobierno boliviano, Rivas se asent en el gobierno paraguayo, gracias a sus v nculos con el hist rico Partido Colorado y a que tiene como pareja a la fiscala paraguaya Irma Llano, especializada en delitos inform ticos y crimen organizado. Ni l ni ella respondieron a las consultas realizadas por elDiarioAR . El v nculo de Riv",
-      "link": "https://www.eldiarioar.com/politica/quirno-recibe-canciller-paraguay-tuvo-asesor-amigo-socio-cerimedo_1_13477246.html",
-      "pubDate": "Mon, 31 Aug 2026 13:24:38 +0000",
-      "source": "El Diario AR",
-      "cat": "ar_pol",
-      "image": "https://static.eldiario.es/clip/859a2123-e2eb-4324-ac71-cd930b86b213_16-9-discover-aspect-ratio_default_0_x238y132.jpg"
     },
     {
       "id": "f888cee3d68207150cdb",
@@ -2246,16 +2277,6 @@
       "image": "https://www.muycomputer.com/wp-content/uploads/2026/08/AION-2-creador-de-personajes.jpg"
     },
     {
-      "id": "644a329254e9bf42d5e0",
-      "title": "Judge Dredd vuelve a sus raíces con un lanzamiento que recupera un clásico de los 90",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com El 50 aniversario de Judge Dredd no llegará hasta 2027, pero Rebellion y las compañías que trabajan con la licencia ya están empezando a convertir la celebración en algo bastante más grande que una efeméride editorial . Después de las recientes noticias alrededor del futuro audiovisual del personaje, ahora Mega-City One prepara su desembarco en un terreno que encaja sorprendentemente bien con esa mezcla de violencia, exageración y estética retro que siempre ha acompañado al Juez. Zen Studios prepara Pinball FX: Williams Pinball – Judge Dredd , una adaptación digital de la máquina de pinball de Bally lanzada originalmente en 1993. Todavía no existe una fecha concreta de lanzamiento, pero la mesa ya puede añadirse a la lista de deseados de Pinball FX y recuperará digitalmente algunas de las ideas más características del original, incluyendo Deadworld, los Jueces Oscuros y el mismísimo Judge Death . No es precisamente el regreso interactivo que muchos imaginarían para Dredd. Y quizá ahí reside buena parte de su encanto. Judge Dredd recupera una pieza de su historia justo antes de cumplir 50 años Cuando pensamos en recuperar una licencia clásica dentro del videojuego actual, la tendencia habitual consiste en imaginar un remake, una aventura completamente nueva o una adaptación diseñada alrededor de las posibilidades de las consolas modernas. Con Judge Dredd, sin embargo, Zen Studios ha elegido mirar directamente hacia 1993. La nueva mesa de Pinball FX está basada en el pinball de Judge Dredd fabricado por Bally , trasladando aquella experiencia física al entorno digital. El jugador vuelve así a las calles distópicas de Mega-City One para combatir el crimen y restaurar el orden mediante una estructura que mantiene el espíritu arcade del original. La elección tiene bastante sentido precisamente ahora. Judge Dredd debutó en las páginas de 2000 AD en 1977 , de manera que 2027 marcará medio siglo desde que John Wa",
-      "link": "https://www.cinemascomics.com/judge-dredd-pinball-fx-clasico-1993/",
-      "pubDate": "Mon, 31 Aug 2026 13:00:22 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/Judge_Dredd_pinball.jpg"
-    },
-    {
       "id": "3df91a60f7ee0b0a35c9",
       "title": "La Iglesia le reclamó al Gobierno que no tenga \"una mirada superficial\" sobre el endeudamiento de las familias",
       "summary": "El presidente de la Conferencia Episcopal, monseñor Marcelo Colombo, pidió reglas más claras para la toma de créditos y alertó sobre el peso de las billeteras virtuales en los hogares. El Gobierno y la oposición disputan por una sesión en Diputados sobre proyectos sobre morosidad La Iglesia se sum al debate p blico sobre el endeudamiento de las familias argentinas. Monse or Marcelo Colombo , arzobispo de Mendoza y presidente de la Conferencia Episcopal Argentina (CEA), reclam al Gobierno que adopte criterios concretos para la toma de deuda y cuestion a quienes minimizan el problema. Lo que no se puede es tener una mirada superficial y menos decir que no nos interesa, o que se arreglen , afirm en declaraciones a Radio Mitre Mendoza recogidas por La Naci n e Infobae. El titular del Episcopado compar la situaci n actual con otra preocupaci n que la Iglesia hab a planteado en el pasado: la ludopat a online. Tuvimos una intervenci n muy fuerte cuando pele bamos por la ludopat a online, un tema muy parecido, en el efecto, al menos, con familias que se endeudaban por la adicci n al juego. Ahora, esto que se agrega, que es tener que afrontar muchas veces por causa del uso de las billeteras electr nicas o por tener que ponerse en deuda para tener alguna situaci n de satisfacer alg n tem, no deja de preocupar y sobre todo despu s las consecuencias , sostuvo Colombo. El arzobispo pidi avanzar hacia alguna soluci n que ponga l mites a la forma en que se contraen los cr ditos y que discuta qu proporci n del sueldo puede comprometerse en el pago de deudas. Hay que analizar de qu manera se puede contraer deudas. Hay deudas que son claramente leoninas al momento de contraerlas, y otras que son a gotas, que uno se va quedando de manera r pida en una situaci n muy desventajosa para poder satisfacer , explic , en referencia a la diferencia entre cr ditos abusivos desde su origen y otros que se acumulan de a poco hasta volverse impagables. Las declaraciones de Colombo se producen en un",
@@ -2264,16 +2285,6 @@
       "source": "El Diario AR",
       "cat": "ar_pol",
       "image": "https://static.eldiario.es/clip/2433f3e0-b9aa-4145-bed9-79e357635fb6_16-9-discover-aspect-ratio_default_0_x501y174.jpg"
-    },
-    {
-      "id": "862c916bc1c2cc0e4cd7",
-      "title": "Spider-Man: Brand New Day será la tercera película más taquillera de la historia",
-      "summary": "Esta noticia es una publicación original de Cinemascomics.com Spider-Man: Brand New Day está a punto de entrar en un territorio reservado a muy pocas películas. Tras otro fin de semana liderando la taquilla y superar ya los 2.332 millones de dólares en todo el mundo, la cinta de Sony y Marvel está a apenas dos millones de alcanzar a Avatar: El sentido del agua y convertirse en la tercera película más taquillera de todos los tiempos. Spider-Man: Brand New Day sigue negándose a abandonar el número uno. La película protagonizada por el Hombre Araña ha sumado otros 22,2 millones de dólares durante el fin de semana en Norteamérica, con una caída de solo el 44% respecto a la semana anterior, y su acumulado doméstico alcanza ya unos descomunales 891 millones. La cifra total es todavía más impresionante: 2.332 millones de dólares. Y aquí es donde empieza lo realmente serio. Spider-Man: Brand New Day está a punto de superar a Avatar 2 Tom Holland en Spider-Man: Brand New Day La clasificación histórica de la taquilla mundial deja ahora mismo a Spider-Man: Brand New Day en cuarta posición: Avatar — 2.923.710.708 dólares Vengadores: Endgame — 2.799.439.100 dólares Avatar: El sentido del agua — 2.334.484.620 dólares Spider-Man: Brand New Day — 2.332.507.928 dólares Ne Zha 2 — 2.270.700.370 dólares La diferencia con Avatar: El sentido del agua es de apenas 1,97 millones de dólares. Salvo un frenazo prácticamente imposible a estas alturas, Spider-Man: Brand New Day debería superar esa cantidad inmediatamente y colocarse como la tercera película más taquillera de la historia. No estamos hablando simplemente de otro éxito para Marvel o Sony. La película se está metiendo directamente en la misma conversación que Avatar y Vengadores: Endgame, las dos únicas producciones que continúan claramente por encima de ella. Y ojo con hasta dónde puede llegar, porque todavía sigue generando cantidades considerables después de varias semanas en cartelera. Otro récord histórico está mucho más cerc",
-      "link": "https://www.cinemascomics.com/spider-man-brand-new-day-sera-3-taquillera/",
-      "pubDate": "Mon, 31 Aug 2026 12:02:38 +0000",
-      "source": "CinemasComics",
-      "cat": "cinema",
-      "image": "https://www.cinemascomics.com/wp-content/uploads/2026/08/spider-man-1.jpg"
     },
     {
       "id": "bbd4bf284e22b5317c38",
@@ -2429,16 +2440,6 @@
       "source": "MuyComputer",
       "cat": "tech",
       "image": "https://www.muycomputer.com/wp-content/uploads/2023/08/Como-poner-a-punto-tu-PC_3.jpg"
-    },
-    {
-      "id": "e39d213e9d74948db32d",
-      "title": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
-      "summary": "El acuerdo anunciado por Donald Trump y Delcy Rodríguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.",
-      "link": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 03:59:04 GMT",
-      "source": "BBC Mundo",
-      "cat": "poleco",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4679/live/c136eaa0-a4df-11f1-a732-7953178f646a.jpg"
     },
     {
       "id": "93cd17c82e6b3fdb90b4",
@@ -2605,8 +2606,8 @@
       {
         "name": "Claude",
         "type": "Modelo",
-        "badge": "Alta atención",
-        "cls": "rb-orange"
+        "badge": "En foco",
+        "cls": "rb-accent"
       },
       {
         "name": "Sora",
@@ -2617,5 +2618,5 @@
     ],
     "rising": []
   },
-  "updated": "2026-09-01T19:09:36.777183+00:00"
+  "updated": "2026-09-01T22:16:55.589625+00:00"
 }
